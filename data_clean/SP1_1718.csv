@@ -1,0 +1,381 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2017-08-18,La Liga,2017-18,Leganes,Alaves,1,0,4,2,1,6,0,0
+2017-08-18,La Liga,2017-18,Valencia,Las Palmas,1,0,5,2,1,7,0,0
+2017-08-19,La Liga,2017-18,Celta,Sociedad,2,3,5,4,5,9,1,1
+2017-08-19,La Liga,2017-18,Girona,Ath Madrid,2,2,6,0,4,6,1,1
+2017-08-19,La Liga,2017-18,Sevilla,Espanol,1,1,7,3,2,10,1,0
+2017-08-20,La Liga,2017-18,Ath Bilbao,Getafe,0,0,7,6,0,13,0,0
+2017-08-20,La Liga,2017-18,Barcelona,Betis,2,0,8,0,2,8,0,0
+2017-08-20,La Liga,2017-18,La Coruna,Real Madrid,0,3,4,4,3,8,0,1
+2017-08-21,La Liga,2017-18,Levante,Villarreal,1,0,11,6,1,17,0,0
+2017-08-21,La Liga,2017-18,Malaga,Eibar,0,1,3,7,1,10,0,0
+2017-08-25,La Liga,2017-18,Sociedad,Villarreal,3,0,10,4,3,14,0,1
+2017-08-25,La Liga,2017-18,Betis,Celta,2,1,4,6,3,10,1,1
+2017-08-26,La Liga,2017-18,Alaves,Barcelona,0,2,1,14,2,15,0,0
+2017-08-26,La Liga,2017-18,Girona,Malaga,1,0,2,3,1,5,0,0
+2017-08-26,La Liga,2017-18,Las Palmas,Ath Madrid,1,5,4,2,6,6,1,1
+2017-08-26,La Liga,2017-18,Levante,La Coruna,2,2,6,5,4,11,1,1
+2017-08-27,La Liga,2017-18,Eibar,Ath Bilbao,0,1,4,3,1,7,0,0
+2017-08-27,La Liga,2017-18,Espanol,Leganes,0,1,9,1,1,10,0,0
+2017-08-27,La Liga,2017-18,Getafe,Sevilla,0,1,7,5,1,12,0,0
+2017-08-27,La Liga,2017-18,Real Madrid,Valencia,2,2,13,4,4,17,1,1
+2017-09-08,La Liga,2017-18,Leganes,Getafe,1,2,2,4,3,6,1,1
+2017-09-09,La Liga,2017-18,Valencia,Ath Madrid,0,0,4,3,0,7,0,0
+2017-09-09,La Liga,2017-18,Sevilla,Eibar,3,0,6,5,3,11,0,1
+2017-09-09,La Liga,2017-18,Barcelona,Espanol,5,0,8,7,5,15,0,1
+2017-09-09,La Liga,2017-18,Real Madrid,Levante,1,1,13,3,2,16,1,0
+2017-09-10,La Liga,2017-18,Ath Bilbao,Girona,2,0,6,4,2,10,0,0
+2017-09-10,La Liga,2017-18,Celta,Alaves,1,0,9,4,1,13,0,0
+2017-09-10,La Liga,2017-18,La Coruna,Sociedad,2,4,5,7,6,12,1,1
+2017-09-10,La Liga,2017-18,Villarreal,Betis,3,1,4,3,4,7,1,1
+2017-09-11,La Liga,2017-18,Malaga,Las Palmas,1,3,3,2,4,5,1,1
+2017-09-15,La Liga,2017-18,Eibar,Leganes,1,0,8,1,1,9,0,0
+2017-09-16,La Liga,2017-18,Getafe,Barcelona,1,2,3,4,3,7,1,1
+2017-09-16,La Liga,2017-18,Ath Madrid,Malaga,1,0,8,4,1,12,0,0
+2017-09-16,La Liga,2017-18,Betis,La Coruna,2,1,6,4,3,10,1,1
+2017-09-16,La Liga,2017-18,Levante,Valencia,1,1,1,3,2,4,1,0
+2017-09-17,La Liga,2017-18,Sociedad,Real Madrid,1,3,4,6,4,10,1,1
+2017-09-17,La Liga,2017-18,Las Palmas,Ath Bilbao,1,0,7,6,1,13,0,0
+2017-09-17,La Liga,2017-18,Alaves,Villarreal,0,3,2,3,3,5,0,1
+2017-09-17,La Liga,2017-18,Girona,Sevilla,0,1,8,1,1,9,0,0
+2017-09-18,La Liga,2017-18,Espanol,Celta,2,1,3,5,3,8,1,1
+2017-09-19,La Liga,2017-18,Barcelona,Eibar,6,1,7,7,7,14,1,1
+2017-09-19,La Liga,2017-18,Valencia,Malaga,5,0,4,9,5,13,0,1
+2017-09-20,La Liga,2017-18,Real Madrid,Betis,0,1,12,3,1,15,0,0
+2017-09-20,La Liga,2017-18,Leganes,Girona,0,0,6,3,0,9,0,0
+2017-09-20,La Liga,2017-18,Sevilla,Las Palmas,1,0,12,0,1,12,0,0
+2017-09-20,La Liga,2017-18,Ath Bilbao,Ath Madrid,1,2,6,0,3,6,1,1
+2017-09-20,La Liga,2017-18,La Coruna,Alaves,1,0,5,2,1,7,0,0
+2017-09-21,La Liga,2017-18,Villarreal,Espanol,0,0,5,5,0,10,0,0
+2017-09-21,La Liga,2017-18,Celta,Getafe,1,1,3,2,2,5,1,0
+2017-09-21,La Liga,2017-18,Levante,Sociedad,3,0,3,6,3,9,0,1
+2017-09-23,La Liga,2017-18,Alaves,Real Madrid,1,2,5,13,3,18,1,1
+2017-09-23,La Liga,2017-18,Ath Madrid,Sevilla,2,0,7,6,2,13,0,0
+2017-09-23,La Liga,2017-18,Girona,Barcelona,0,3,9,3,3,12,0,1
+2017-09-23,La Liga,2017-18,Malaga,Ath Bilbao,3,3,5,1,6,6,1,1
+2017-09-24,La Liga,2017-18,Eibar,Celta,0,4,4,4,4,8,0,1
+2017-09-24,La Liga,2017-18,Espanol,La Coruna,4,1,4,6,5,10,1,1
+2017-09-24,La Liga,2017-18,Getafe,Villarreal,4,0,7,4,4,11,0,1
+2017-09-24,La Liga,2017-18,Las Palmas,Leganes,0,2,3,2,2,5,0,0
+2017-09-24,La Liga,2017-18,Sociedad,Valencia,2,3,7,6,5,13,1,1
+2017-09-25,La Liga,2017-18,Betis,Levante,4,0,6,3,4,9,0,1
+2017-09-29,La Liga,2017-18,Celta,Girona,3,3,5,6,6,11,1,1
+2017-09-30,La Liga,2017-18,La Coruna,Getafe,2,1,8,5,3,13,1,1
+2017-09-30,La Liga,2017-18,Leganes,Ath Madrid,0,0,2,6,0,8,0,0
+2017-09-30,La Liga,2017-18,Levante,Alaves,0,2,8,4,2,12,0,0
+2017-09-30,La Liga,2017-18,Sevilla,Malaga,2,0,4,6,2,10,0,0
+2017-10-01,La Liga,2017-18,Barcelona,Las Palmas,3,0,8,3,3,11,0,1
+2017-10-01,La Liga,2017-18,Real Madrid,Espanol,2,0,10,3,2,13,0,0
+2017-10-01,La Liga,2017-18,Sociedad,Betis,4,4,12,5,8,17,1,1
+2017-10-01,La Liga,2017-18,Valencia,Ath Bilbao,3,2,2,8,5,10,1,1
+2017-10-01,La Liga,2017-18,Villarreal,Eibar,3,0,6,3,3,9,0,1
+2017-10-13,La Liga,2017-18,Espanol,Levante,0,0,9,4,0,13,0,0
+2017-10-14,La Liga,2017-18,Getafe,Real Madrid,1,2,4,7,3,11,1,1
+2017-10-14,La Liga,2017-18,Ath Bilbao,Sevilla,1,0,6,6,1,12,0,0
+2017-10-14,La Liga,2017-18,Alaves,Sociedad,0,2,4,9,2,13,0,0
+2017-10-14,La Liga,2017-18,Ath Madrid,Barcelona,1,1,2,1,2,3,1,0
+2017-10-15,La Liga,2017-18,Betis,Valencia,3,6,7,5,9,12,1,1
+2017-10-15,La Liga,2017-18,Eibar,La Coruna,0,0,10,1,0,11,0,0
+2017-10-15,La Liga,2017-18,Girona,Villarreal,1,2,8,1,3,9,1,1
+2017-10-15,La Liga,2017-18,Malaga,Leganes,0,2,4,2,2,6,0,0
+2017-10-16,La Liga,2017-18,Las Palmas,Celta,2,5,14,3,7,17,1,1
+2017-10-21,La Liga,2017-18,Valencia,Sevilla,4,0,7,10,4,17,0,1
+2017-10-21,La Liga,2017-18,Levante,Getafe,1,1,3,2,2,5,1,0
+2017-10-21,La Liga,2017-18,Barcelona,Malaga,2,0,4,3,2,7,0,0
+2017-10-21,La Liga,2017-18,Betis,Alaves,2,0,6,5,2,11,0,0
+2017-10-22,La Liga,2017-18,Celta,Ath Madrid,0,1,4,4,1,8,0,0
+2017-10-22,La Liga,2017-18,Leganes,Ath Bilbao,1,0,4,3,1,7,0,0
+2017-10-22,La Liga,2017-18,Real Madrid,Eibar,3,0,5,2,3,7,0,1
+2017-10-22,La Liga,2017-18,Villarreal,Las Palmas,4,0,9,6,4,15,0,1
+2017-10-23,La Liga,2017-18,Sociedad,Espanol,1,1,10,1,2,11,1,0
+2017-10-23,La Liga,2017-18,La Coruna,Girona,1,2,9,7,3,16,1,1
+2017-10-28,La Liga,2017-18,Ath Bilbao,Barcelona,0,2,6,4,2,10,0,0
+2017-10-28,La Liga,2017-18,Ath Madrid,Villarreal,1,1,11,6,2,17,1,0
+2017-10-28,La Liga,2017-18,Alaves,Valencia,1,2,6,4,3,10,1,1
+2017-10-28,La Liga,2017-18,Sevilla,Leganes,2,1,5,6,3,11,1,1
+2017-10-29,La Liga,2017-18,Malaga,Celta,2,1,4,1,3,5,1,1
+2017-10-29,La Liga,2017-18,Girona,Real Madrid,2,1,2,7,3,9,1,1
+2017-10-29,La Liga,2017-18,Eibar,Levante,2,2,6,2,4,8,1,1
+2017-10-29,La Liga,2017-18,Getafe,Sociedad,2,1,8,7,3,15,1,1
+2017-10-30,La Liga,2017-18,Espanol,Betis,1,0,5,3,1,8,0,0
+2017-10-30,La Liga,2017-18,Las Palmas,La Coruna,1,3,8,5,4,13,1,1
+2017-11-03,La Liga,2017-18,Betis,Getafe,2,2,4,6,4,10,1,1
+2017-11-04,La Liga,2017-18,Alaves,Espanol,1,0,3,8,1,11,0,0
+2017-11-04,La Liga,2017-18,Barcelona,Sevilla,2,1,3,3,3,6,1,1
+2017-11-04,La Liga,2017-18,La Coruna,Ath Madrid,0,1,4,4,1,8,0,0
+2017-11-04,La Liga,2017-18,Valencia,Leganes,3,0,4,7,3,11,0,1
+2017-11-05,La Liga,2017-18,Villarreal,Malaga,2,0,6,4,2,10,0,0
+2017-11-05,La Liga,2017-18,Sociedad,Eibar,3,1,3,6,4,9,1,1
+2017-11-05,La Liga,2017-18,Real Madrid,Las Palmas,3,0,9,2,3,11,0,1
+2017-11-05,La Liga,2017-18,Levante,Girona,1,2,7,2,3,9,1,1
+2017-11-05,La Liga,2017-18,Celta,Ath Bilbao,3,1,3,6,4,9,1,1
+2017-11-17,La Liga,2017-18,Girona,Sociedad,1,1,3,6,2,9,1,0
+2017-11-18,La Liga,2017-18,Ath Madrid,Real Madrid,0,0,7,9,0,16,0,0
+2017-11-18,La Liga,2017-18,Getafe,Alaves,4,1,4,5,5,9,1,1
+2017-11-18,La Liga,2017-18,Leganes,Barcelona,0,3,6,3,3,9,0,1
+2017-11-18,La Liga,2017-18,Sevilla,Celta,2,1,1,2,3,3,1,1
+2017-11-19,La Liga,2017-18,Ath Bilbao,Villarreal,1,1,9,7,2,16,1,0
+2017-11-19,La Liga,2017-18,Espanol,Valencia,0,2,3,4,2,7,0,0
+2017-11-19,La Liga,2017-18,Las Palmas,Levante,0,2,3,5,2,8,0,0
+2017-11-19,La Liga,2017-18,Malaga,La Coruna,3,2,5,4,5,9,1,1
+2017-11-20,La Liga,2017-18,Eibar,Betis,5,0,5,2,5,7,0,1
+2017-11-24,La Liga,2017-18,Celta,Leganes,1,0,3,4,1,7,0,0
+2017-11-25,La Liga,2017-18,Alaves,Eibar,1,2,2,5,3,7,1,1
+2017-11-25,La Liga,2017-18,Betis,Girona,2,2,3,5,4,8,1,1
+2017-11-25,La Liga,2017-18,Levante,Ath Madrid,0,5,2,3,5,5,0,1
+2017-11-25,La Liga,2017-18,Real Madrid,Malaga,3,2,6,0,5,6,1,1
+2017-11-26,La Liga,2017-18,La Coruna,Ath Bilbao,2,2,5,2,4,7,1,1
+2017-11-26,La Liga,2017-18,Sociedad,Las Palmas,2,2,11,3,4,14,1,1
+2017-11-26,La Liga,2017-18,Valencia,Barcelona,1,1,3,9,2,12,1,0
+2017-11-26,La Liga,2017-18,Villarreal,Sevilla,2,3,6,6,5,12,1,1
+2017-11-27,La Liga,2017-18,Espanol,Getafe,1,0,6,4,1,10,0,0
+2017-12-01,La Liga,2017-18,Malaga,Levante,0,0,7,2,0,9,0,0
+2017-12-02,La Liga,2017-18,Sevilla,La Coruna,2,0,6,7,2,13,0,0
+2017-12-02,La Liga,2017-18,Barcelona,Celta,2,2,4,1,4,5,1,1
+2017-12-02,La Liga,2017-18,Ath Bilbao,Real Madrid,0,0,3,5,0,8,0,0
+2017-12-02,La Liga,2017-18,Ath Madrid,Sociedad,2,1,5,6,3,11,1,1
+2017-12-03,La Liga,2017-18,Eibar,Espanol,3,1,3,2,4,5,1,1
+2017-12-03,La Liga,2017-18,Getafe,Valencia,1,0,5,12,1,17,0,0
+2017-12-03,La Liga,2017-18,Las Palmas,Betis,1,0,6,4,1,10,0,0
+2017-12-03,La Liga,2017-18,Leganes,Villarreal,3,1,5,6,4,11,1,1
+2017-12-04,La Liga,2017-18,Girona,Alaves,2,3,6,5,5,11,1,1
+2017-12-08,La Liga,2017-18,Alaves,Las Palmas,2,0,8,3,2,11,0,0
+2017-12-09,La Liga,2017-18,Real Madrid,Sevilla,5,0,9,3,5,12,0,1
+2017-12-09,La Liga,2017-18,Valencia,Celta,2,1,10,2,3,12,1,1
+2017-12-09,La Liga,2017-18,La Coruna,Leganes,1,0,6,1,1,7,0,0
+2017-12-09,La Liga,2017-18,Getafe,Eibar,0,0,9,7,0,16,0,0
+2017-12-10,La Liga,2017-18,Betis,Ath Madrid,0,1,3,2,1,5,0,0
+2017-12-10,La Liga,2017-18,Levante,Ath Bilbao,1,2,8,6,3,14,1,1
+2017-12-10,La Liga,2017-18,Sociedad,Malaga,0,2,5,0,2,5,0,0
+2017-12-10,La Liga,2017-18,Villarreal,Barcelona,0,2,2,4,2,6,0,0
+2017-12-11,La Liga,2017-18,Espanol,Girona,0,1,8,6,1,14,0,0
+2017-12-15,La Liga,2017-18,Sevilla,Levante,0,0,8,5,0,13,0,0
+2017-12-16,La Liga,2017-18,Ath Bilbao,Sociedad,0,0,6,6,0,12,0,0
+2017-12-16,La Liga,2017-18,Ath Madrid,Alaves,1,0,4,4,1,8,0,0
+2017-12-16,La Liga,2017-18,Eibar,Valencia,2,1,5,6,3,11,1,1
+2017-12-17,La Liga,2017-18,Las Palmas,Espanol,2,2,9,2,4,11,1,1
+2017-12-17,La Liga,2017-18,Girona,Getafe,1,0,1,7,1,8,0,0
+2017-12-17,La Liga,2017-18,Barcelona,La Coruna,4,0,6,3,4,9,0,1
+2017-12-17,La Liga,2017-18,Celta,Villarreal,0,1,2,2,1,4,0,0
+2017-12-18,La Liga,2017-18,Malaga,Betis,0,2,3,4,2,7,0,0
+2017-12-19,La Liga,2017-18,Levante,Leganes,0,0,6,5,0,11,0,0
+2017-12-20,La Liga,2017-18,Getafe,Las Palmas,2,0,3,1,2,4,0,0
+2017-12-20,La Liga,2017-18,Sociedad,Sevilla,3,1,4,5,4,9,1,1
+2017-12-21,La Liga,2017-18,Eibar,Girona,4,1,3,2,5,5,1,1
+2017-12-21,La Liga,2017-18,Alaves,Malaga,1,0,4,4,1,8,0,0
+2017-12-22,La Liga,2017-18,Espanol,Ath Madrid,1,0,2,3,1,5,0,0
+2017-12-22,La Liga,2017-18,Betis,Ath Bilbao,0,2,6,9,2,15,0,0
+2017-12-23,La Liga,2017-18,La Coruna,Celta,1,3,3,1,4,4,1,1
+2017-12-23,La Liga,2017-18,Real Madrid,Barcelona,0,3,7,7,3,14,0,1
+2017-12-23,La Liga,2017-18,Valencia,Villarreal,0,1,14,1,1,15,0,0
+2018-01-06,La Liga,2017-18,Ath Madrid,Getafe,2,0,5,0,2,5,0,0
+2018-01-06,La Liga,2017-18,Las Palmas,Eibar,1,2,4,3,3,7,1,1
+2018-01-06,La Liga,2017-18,Sevilla,Betis,3,5,12,0,8,12,1,1
+2018-01-06,La Liga,2017-18,Valencia,Girona,2,1,9,7,3,16,1,1
+2018-01-07,La Liga,2017-18,Ath Bilbao,Alaves,2,0,4,1,2,5,0,0
+2018-01-07,La Liga,2017-18,Barcelona,Levante,3,0,3,6,3,9,0,1
+2018-01-07,La Liga,2017-18,Celta,Real Madrid,2,2,3,7,4,10,1,1
+2018-01-07,La Liga,2017-18,Leganes,Sociedad,1,0,5,6,1,11,0,0
+2018-01-07,La Liga,2017-18,Villarreal,La Coruna,1,1,7,5,2,12,1,0
+2018-01-08,La Liga,2017-18,Malaga,Espanol,0,1,6,5,1,11,0,0
+2018-01-12,La Liga,2017-18,Getafe,Malaga,1,0,5,2,1,7,0,0
+2018-01-13,La Liga,2017-18,La Coruna,Valencia,1,2,8,10,3,18,1,1
+2018-01-13,La Liga,2017-18,Real Madrid,Villarreal,0,1,11,0,1,11,0,0
+2018-01-13,La Liga,2017-18,Eibar,Ath Madrid,0,1,9,1,1,10,0,0
+2018-01-13,La Liga,2017-18,Girona,Las Palmas,6,0,5,2,6,7,0,1
+2018-01-14,La Liga,2017-18,Levante,Celta,0,1,6,2,1,8,0,0
+2018-01-14,La Liga,2017-18,Sociedad,Barcelona,2,4,7,3,6,10,1,1
+2018-01-14,La Liga,2017-18,Alaves,Sevilla,1,0,5,4,1,9,0,0
+2018-01-14,La Liga,2017-18,Espanol,Ath Bilbao,1,1,4,2,2,6,1,0
+2018-01-15,La Liga,2017-18,Betis,Leganes,3,2,1,1,5,2,1,1
+2018-01-19,La Liga,2017-18,Getafe,Ath Bilbao,2,2,6,2,4,8,1,1
+2018-01-20,La Liga,2017-18,Ath Madrid,Girona,1,1,2,1,2,3,1,0
+2018-01-20,La Liga,2017-18,Espanol,Sevilla,0,3,8,2,3,10,0,1
+2018-01-20,La Liga,2017-18,Las Palmas,Valencia,2,1,3,6,3,9,1,1
+2018-01-20,La Liga,2017-18,Villarreal,Levante,2,1,6,4,3,10,1,1
+2018-01-21,La Liga,2017-18,Alaves,Leganes,2,2,4,6,4,10,1,1
+2018-01-21,La Liga,2017-18,Betis,Barcelona,0,5,4,2,5,6,0,1
+2018-01-21,La Liga,2017-18,Real Madrid,La Coruna,7,1,6,1,8,7,1,1
+2018-01-21,La Liga,2017-18,Sociedad,Celta,1,2,8,3,3,11,1,1
+2018-01-22,La Liga,2017-18,Eibar,Malaga,1,1,8,3,2,11,1,0
+2018-01-26,La Liga,2017-18,Ath Bilbao,Eibar,1,1,3,7,2,10,1,0
+2018-01-27,La Liga,2017-18,Villarreal,Sociedad,4,2,2,9,6,11,1,1
+2018-01-27,La Liga,2017-18,Valencia,Real Madrid,1,4,4,4,5,8,1,1
+2018-01-27,La Liga,2017-18,La Coruna,Levante,2,2,4,7,4,11,1,1
+2018-01-27,La Liga,2017-18,Malaga,Girona,0,0,5,4,0,9,0,0
+2018-01-28,La Liga,2017-18,Ath Madrid,Las Palmas,3,0,4,1,3,5,0,1
+2018-01-28,La Liga,2017-18,Barcelona,Alaves,2,1,8,1,3,9,1,1
+2018-01-28,La Liga,2017-18,Leganes,Espanol,3,2,1,7,5,8,1,1
+2018-01-28,La Liga,2017-18,Sevilla,Getafe,1,1,3,4,2,7,1,0
+2018-01-29,La Liga,2017-18,Celta,Betis,3,2,7,2,5,9,1,1
+2018-02-02,La Liga,2017-18,Sociedad,La Coruna,5,0,9,5,5,14,0,1
+2018-02-03,La Liga,2017-18,Levante,Real Madrid,2,2,4,6,4,10,1,1
+2018-02-03,La Liga,2017-18,Eibar,Sevilla,5,1,5,3,6,8,1,1
+2018-02-03,La Liga,2017-18,Alaves,Celta,2,1,2,1,3,3,1,1
+2018-02-03,La Liga,2017-18,Betis,Villarreal,2,1,2,6,3,8,1,1
+2018-02-04,La Liga,2017-18,Ath Madrid,Valencia,1,0,9,1,1,10,0,0
+2018-02-04,La Liga,2017-18,Espanol,Barcelona,1,1,0,7,2,7,1,0
+2018-02-04,La Liga,2017-18,Getafe,Leganes,0,0,5,2,0,7,0,0
+2018-02-04,La Liga,2017-18,Girona,Ath Bilbao,2,0,2,4,2,6,0,0
+2018-02-05,La Liga,2017-18,Las Palmas,Malaga,1,0,4,2,1,6,0,0
+2018-02-09,La Liga,2017-18,Ath Bilbao,Las Palmas,0,0,5,2,0,7,0,0
+2018-02-10,La Liga,2017-18,Villarreal,Alaves,1,2,13,2,3,15,1,1
+2018-02-10,La Liga,2017-18,Real Madrid,Sociedad,5,2,5,3,7,8,1,1
+2018-02-10,La Liga,2017-18,Leganes,Eibar,0,1,1,10,1,11,0,0
+2018-02-10,La Liga,2017-18,Malaga,Ath Madrid,0,1,3,3,1,6,0,0
+2018-02-11,La Liga,2017-18,Barcelona,Getafe,0,0,9,3,0,12,0,0
+2018-02-11,La Liga,2017-18,Celta,Espanol,2,2,9,1,4,10,1,1
+2018-02-11,La Liga,2017-18,Sevilla,Girona,1,0,7,2,1,9,0,0
+2018-02-11,La Liga,2017-18,Valencia,Levante,3,1,7,9,4,16,1,1
+2018-02-12,La Liga,2017-18,La Coruna,Betis,0,1,8,1,1,9,0,0
+2018-02-16,La Liga,2017-18,Girona,Leganes,3,0,4,4,3,8,0,1
+2018-02-17,La Liga,2017-18,Las Palmas,Sevilla,1,2,7,5,3,12,1,1
+2018-02-17,La Liga,2017-18,Alaves,La Coruna,1,0,9,3,1,12,0,0
+2018-02-17,La Liga,2017-18,Eibar,Barcelona,0,2,6,0,2,6,0,0
+2018-02-17,La Liga,2017-18,Malaga,Valencia,1,2,7,2,3,9,1,1
+2018-02-18,La Liga,2017-18,Sociedad,Levante,3,0,2,4,3,6,0,1
+2018-02-18,La Liga,2017-18,Espanol,Villarreal,1,1,2,5,2,7,1,0
+2018-02-18,La Liga,2017-18,Betis,Real Madrid,3,5,7,5,8,12,1,1
+2018-02-18,La Liga,2017-18,Ath Madrid,Ath Bilbao,2,0,5,2,2,7,0,0
+2018-02-19,La Liga,2017-18,Getafe,Celta,3,0,5,5,3,10,0,1
+2018-02-21,La Liga,2017-18,Leganes,Real Madrid,1,3,6,5,4,11,1,1
+2018-02-23,La Liga,2017-18,La Coruna,Espanol,0,0,4,2,0,6,0,0
+2018-02-24,La Liga,2017-18,Barcelona,Girona,6,1,5,3,7,8,1,1
+2018-02-24,La Liga,2017-18,Celta,Eibar,2,0,3,9,2,12,0,0
+2018-02-24,La Liga,2017-18,Leganes,Las Palmas,0,0,6,5,0,11,0,0
+2018-02-24,La Liga,2017-18,Real Madrid,Alaves,4,0,9,5,4,14,0,1
+2018-02-25,La Liga,2017-18,Villarreal,Getafe,1,0,2,8,1,10,0,0
+2018-02-25,La Liga,2017-18,Valencia,Sociedad,2,1,4,4,3,8,1,1
+2018-02-25,La Liga,2017-18,Ath Bilbao,Malaga,2,1,6,4,3,10,1,1
+2018-02-25,La Liga,2017-18,Sevilla,Ath Madrid,2,5,5,4,7,9,1,1
+2018-02-26,La Liga,2017-18,Levante,Betis,0,2,5,5,2,10,0,0
+2018-02-27,La Liga,2017-18,Espanol,Real Madrid,1,0,3,8,1,11,0,0
+2018-02-27,La Liga,2017-18,Girona,Celta,1,0,6,4,1,10,0,0
+2018-02-28,La Liga,2017-18,Malaga,Sevilla,0,1,9,4,1,13,0,0
+2018-02-28,La Liga,2017-18,Ath Bilbao,Valencia,1,1,6,1,2,7,1,0
+2018-02-28,La Liga,2017-18,Ath Madrid,Leganes,4,0,5,1,4,6,0,1
+2018-02-28,La Liga,2017-18,Eibar,Villarreal,1,0,6,4,1,10,0,0
+2018-02-28,La Liga,2017-18,Getafe,La Coruna,3,0,10,6,3,16,0,1
+2018-03-01,La Liga,2017-18,Betis,Sociedad,0,0,4,10,0,14,0,0
+2018-03-01,La Liga,2017-18,Las Palmas,Barcelona,1,1,6,6,2,12,1,0
+2018-03-01,La Liga,2017-18,Alaves,Levante,1,0,5,3,1,8,0,0
+2018-03-03,La Liga,2017-18,La Coruna,Eibar,1,1,2,9,2,11,1,0
+2018-03-03,La Liga,2017-18,Leganes,Malaga,2,0,6,1,2,7,0,0
+2018-03-03,La Liga,2017-18,Real Madrid,Getafe,3,1,8,0,4,8,1,1
+2018-03-03,La Liga,2017-18,Sevilla,Ath Bilbao,2,0,8,4,2,12,0,0
+2018-03-03,La Liga,2017-18,Villarreal,Girona,0,2,7,2,2,9,0,0
+2018-03-04,La Liga,2017-18,Barcelona,Ath Madrid,1,0,12,1,1,13,0,0
+2018-03-04,La Liga,2017-18,Levante,Espanol,1,1,2,1,2,3,1,0
+2018-03-04,La Liga,2017-18,Sociedad,Alaves,2,1,8,4,3,12,1,1
+2018-03-04,La Liga,2017-18,Valencia,Betis,2,0,7,0,2,7,0,0
+2018-03-05,La Liga,2017-18,Celta,Las Palmas,2,1,10,7,3,17,1,1
+2018-03-09,La Liga,2017-18,Girona,La Coruna,2,0,2,2,2,4,0,0
+2018-03-10,La Liga,2017-18,Eibar,Real Madrid,1,2,8,6,3,14,1,1
+2018-03-10,La Liga,2017-18,Getafe,Levante,0,1,4,7,1,11,0,0
+2018-03-10,La Liga,2017-18,Malaga,Barcelona,0,2,2,5,2,7,0,0
+2018-03-10,La Liga,2017-18,Sevilla,Valencia,0,2,7,3,2,10,0,0
+2018-03-11,La Liga,2017-18,Ath Bilbao,Leganes,2,0,3,6,2,9,0,0
+2018-03-11,La Liga,2017-18,Ath Madrid,Celta,3,0,6,4,3,10,0,1
+2018-03-11,La Liga,2017-18,Espanol,Sociedad,2,1,6,4,3,10,1,1
+2018-03-11,La Liga,2017-18,Las Palmas,Villarreal,0,2,7,3,2,10,0,0
+2018-03-12,La Liga,2017-18,Alaves,Betis,1,3,6,2,4,8,1,1
+2018-03-16,La Liga,2017-18,Levante,Eibar,2,1,4,5,3,9,1,1
+2018-03-17,La Liga,2017-18,Sociedad,Getafe,1,2,7,1,3,8,1,1
+2018-03-17,La Liga,2017-18,Valencia,Alaves,3,1,9,2,4,11,1,1
+2018-03-17,La Liga,2017-18,Betis,Espanol,3,0,3,5,3,8,0,1
+2018-03-17,La Liga,2017-18,La Coruna,Las Palmas,1,1,9,2,2,11,1,0
+2018-03-18,La Liga,2017-18,Barcelona,Ath Bilbao,2,0,6,5,2,11,0,0
+2018-03-18,La Liga,2017-18,Celta,Malaga,0,0,4,5,0,9,0,0
+2018-03-18,La Liga,2017-18,Leganes,Sevilla,2,1,5,4,3,9,1,1
+2018-03-18,La Liga,2017-18,Real Madrid,Girona,6,3,6,7,9,13,1,1
+2018-03-18,La Liga,2017-18,Villarreal,Ath Madrid,2,1,5,4,3,9,1,1
+2018-03-31,La Liga,2017-18,Ath Bilbao,Celta,1,1,4,5,2,9,1,0
+2018-03-31,La Liga,2017-18,Girona,Levante,1,1,5,7,2,12,1,0
+2018-03-31,La Liga,2017-18,Las Palmas,Real Madrid,0,3,3,3,3,6,0,1
+2018-03-31,La Liga,2017-18,Sevilla,Barcelona,2,2,5,9,4,14,1,1
+2018-04-01,La Liga,2017-18,Malaga,Villarreal,1,0,3,6,1,9,0,0
+2018-04-01,La Liga,2017-18,Leganes,Valencia,0,1,5,2,1,7,0,0
+2018-04-01,La Liga,2017-18,Eibar,Sociedad,0,0,8,1,0,9,0,0
+2018-04-01,La Liga,2017-18,Ath Madrid,La Coruna,1,0,9,7,1,16,0,0
+2018-04-01,La Liga,2017-18,Espanol,Alaves,0,0,6,5,0,11,0,0
+2018-04-02,La Liga,2017-18,Getafe,Betis,0,1,4,0,1,4,0,0
+2018-04-06,La Liga,2017-18,La Coruna,Malaga,3,2,7,6,5,13,1,1
+2018-04-07,La Liga,2017-18,Celta,Sevilla,4,0,3,10,4,13,0,1
+2018-04-07,La Liga,2017-18,Alaves,Getafe,2,0,1,3,2,4,0,0
+2018-04-07,La Liga,2017-18,Barcelona,Leganes,3,1,5,3,4,8,1,1
+2018-04-07,La Liga,2017-18,Betis,Eibar,2,0,7,8,2,15,0,0
+2018-04-08,La Liga,2017-18,Real Madrid,Ath Madrid,1,1,11,2,2,13,1,0
+2018-04-08,La Liga,2017-18,Valencia,Espanol,1,0,4,3,1,7,0,0
+2018-04-08,La Liga,2017-18,Sociedad,Girona,5,0,4,5,5,9,0,1
+2018-04-08,La Liga,2017-18,Levante,Las Palmas,2,1,4,5,3,9,1,1
+2018-04-09,La Liga,2017-18,Villarreal,Ath Bilbao,1,3,3,6,4,9,1,1
+2018-04-13,La Liga,2017-18,Girona,Betis,0,1,6,4,1,10,0,0
+2018-04-14,La Liga,2017-18,Ath Bilbao,La Coruna,2,3,11,6,5,17,1,1
+2018-04-14,La Liga,2017-18,Barcelona,Valencia,2,1,6,5,3,11,1,1
+2018-04-14,La Liga,2017-18,Las Palmas,Sociedad,0,1,4,6,1,10,0,0
+2018-04-14,La Liga,2017-18,Leganes,Celta,1,0,8,3,1,11,0,0
+2018-04-14,La Liga,2017-18,Sevilla,Villarreal,2,2,10,2,4,12,1,1
+2018-04-15,La Liga,2017-18,Getafe,Espanol,1,0,4,3,1,7,0,0
+2018-04-15,La Liga,2017-18,Malaga,Real Madrid,1,2,4,7,3,11,1,1
+2018-04-15,La Liga,2017-18,Ath Madrid,Levante,3,0,8,3,3,11,0,1
+2018-04-15,La Liga,2017-18,Eibar,Alaves,0,1,12,1,1,13,0,0
+2018-04-17,La Liga,2017-18,Celta,Barcelona,2,2,6,4,4,10,1,1
+2018-04-17,La Liga,2017-18,La Coruna,Sevilla,0,0,7,9,0,16,0,0
+2018-04-17,La Liga,2017-18,Villarreal,Leganes,2,1,10,4,3,14,1,1
+2018-04-18,La Liga,2017-18,Espanol,Eibar,0,1,3,6,1,9,0,0
+2018-04-18,La Liga,2017-18,Real Madrid,Ath Bilbao,1,1,16,2,2,18,1,0
+2018-04-18,La Liga,2017-18,Valencia,Getafe,1,2,7,5,3,12,1,1
+2018-04-19,La Liga,2017-18,Alaves,Girona,1,2,3,6,3,9,1,1
+2018-04-19,La Liga,2017-18,Betis,Las Palmas,1,0,6,3,1,9,0,0
+2018-04-19,La Liga,2017-18,Levante,Malaga,1,0,4,3,1,7,0,0
+2018-04-19,La Liga,2017-18,Sociedad,Ath Madrid,3,0,6,6,3,12,0,1
+2018-04-20,La Liga,2017-18,Leganes,La Coruna,0,0,9,4,0,13,0,0
+2018-04-21,La Liga,2017-18,Eibar,Getafe,0,1,8,3,1,11,0,0
+2018-04-21,La Liga,2017-18,Celta,Valencia,1,1,4,3,2,7,1,0
+2018-04-22,La Liga,2017-18,Ath Madrid,Betis,0,0,8,3,0,11,0,0
+2018-04-22,La Liga,2017-18,Girona,Espanol,0,2,10,0,2,10,0,0
+2018-04-22,La Liga,2017-18,Las Palmas,Alaves,0,4,3,3,4,6,0,1
+2018-04-22,La Liga,2017-18,Malaga,Sociedad,2,0,5,3,2,8,0,0
+2018-04-23,La Liga,2017-18,Ath Bilbao,Levante,1,3,2,9,4,11,1,1
+2018-04-27,La Liga,2017-18,Levante,Sevilla,2,1,4,8,3,12,1,1
+2018-04-28,La Liga,2017-18,Espanol,Las Palmas,1,1,6,7,2,13,1,0
+2018-04-28,La Liga,2017-18,Real Madrid,Leganes,2,1,3,2,3,5,1,1
+2018-04-28,La Liga,2017-18,Sociedad,Ath Bilbao,3,1,3,7,4,10,1,1
+2018-04-28,La Liga,2017-18,Villarreal,Celta,4,1,5,7,5,12,1,1
+2018-04-29,La Liga,2017-18,Valencia,Eibar,0,0,8,2,0,10,0,0
+2018-04-29,La Liga,2017-18,La Coruna,Barcelona,2,4,6,7,6,13,1,1
+2018-04-29,La Liga,2017-18,Alaves,Ath Madrid,0,1,3,4,1,7,0,0
+2018-04-29,La Liga,2017-18,Getafe,Girona,1,1,4,4,2,8,1,0
+2018-04-30,La Liga,2017-18,Betis,Malaga,2,1,6,4,3,10,1,1
+2018-05-04,La Liga,2017-18,Sevilla,Sociedad,1,0,6,4,1,10,0,0
+2018-05-05,La Liga,2017-18,Villarreal,Valencia,1,0,7,3,1,10,0,0
+2018-05-05,La Liga,2017-18,Ath Bilbao,Betis,2,0,4,5,2,9,0,0
+2018-05-05,La Liga,2017-18,Celta,La Coruna,1,1,4,10,2,14,1,0
+2018-05-05,La Liga,2017-18,Girona,Eibar,1,4,6,5,5,11,1,1
+2018-05-06,La Liga,2017-18,Las Palmas,Getafe,0,1,9,4,1,13,0,0
+2018-05-06,La Liga,2017-18,Malaga,Alaves,0,3,6,7,3,13,0,1
+2018-05-06,La Liga,2017-18,Ath Madrid,Espanol,0,2,6,3,2,9,0,0
+2018-05-06,La Liga,2017-18,Barcelona,Real Madrid,2,2,6,5,4,11,1,1
+2018-05-07,La Liga,2017-18,Leganes,Levante,0,3,6,5,3,11,0,1
+2018-05-09,La Liga,2017-18,Barcelona,Villarreal,5,1,4,4,6,8,1,1
+2018-05-09,La Liga,2017-18,Sevilla,Real Madrid,3,2,2,3,5,5,1,1
+2018-05-12,La Liga,2017-18,Real Madrid,Celta,6,0,4,2,6,6,0,1
+2018-05-12,La Liga,2017-18,La Coruna,Villarreal,2,4,11,0,6,11,1,1
+2018-05-12,La Liga,2017-18,Girona,Valencia,0,1,6,2,1,8,0,0
+2018-05-12,La Liga,2017-18,Sociedad,Leganes,3,2,5,1,5,6,1,1
+2018-05-12,La Liga,2017-18,Eibar,Las Palmas,1,0,3,11,1,14,0,0
+2018-05-12,La Liga,2017-18,Betis,Sevilla,2,2,4,5,4,9,1,1
+2018-05-12,La Liga,2017-18,Alaves,Ath Bilbao,3,1,0,8,4,8,1,1
+2018-05-12,La Liga,2017-18,Getafe,Ath Madrid,0,1,8,2,1,10,0,0
+2018-05-13,La Liga,2017-18,Espanol,Malaga,4,1,5,3,5,8,1,1
+2018-05-13,La Liga,2017-18,Levante,Barcelona,5,4,3,8,9,11,1,1
+2018-05-19,La Liga,2017-18,Celta,Levante,4,2,5,3,6,8,1,1
+2018-05-19,La Liga,2017-18,Las Palmas,Girona,1,2,4,3,3,7,1,1
+2018-05-19,La Liga,2017-18,Leganes,Betis,3,2,6,4,5,10,1,1
+2018-05-19,La Liga,2017-18,Malaga,Getafe,0,1,2,9,1,11,0,0
+2018-05-19,La Liga,2017-18,Sevilla,Alaves,1,0,8,3,1,11,0,0
+2018-05-19,La Liga,2017-18,Villarreal,Real Madrid,2,2,4,5,4,9,1,1
+2018-05-20,La Liga,2017-18,Barcelona,Sociedad,1,0,3,8,1,11,0,0
+2018-05-20,La Liga,2017-18,Ath Bilbao,Espanol,0,1,7,7,1,14,0,0
+2018-05-20,La Liga,2017-18,Ath Madrid,Eibar,2,2,2,2,4,4,1,1
+2018-05-20,La Liga,2017-18,Valencia,La Coruna,2,1,8,4,3,12,1,1

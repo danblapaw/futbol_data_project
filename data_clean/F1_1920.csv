@@ -1,0 +1,280 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2019-08-09,Ligue 1,2019-20,Monaco,Lyon,0,3,2,5,3,7,0,1
+2019-08-10,Ligue 1,2019-20,Marseille,Reims,0,2,5,3,2,8,0,0
+2019-08-10,Ligue 1,2019-20,Angers,Bordeaux,3,1,4,3,4,7,1,1
+2019-08-10,Ligue 1,2019-20,Brest,Toulouse,1,1,4,7,2,11,1,0
+2019-08-10,Ligue 1,2019-20,Dijon,St Etienne,1,2,12,5,3,17,1,1
+2019-08-10,Ligue 1,2019-20,Montpellier,Rennes,0,1,7,1,1,8,0,0
+2019-08-10,Ligue 1,2019-20,Nice,Amiens,2,1,7,3,3,10,1,1
+2019-08-11,Ligue 1,2019-20,Lille,Nantes,2,1,5,11,3,16,1,1
+2019-08-11,Ligue 1,2019-20,Strasbourg,Metz,1,1,3,4,2,7,1,0
+2019-08-11,Ligue 1,2019-20,Paris SG,Nimes,3,0,2,6,3,8,0,1
+2019-08-16,Ligue 1,2019-20,Lyon,Angers,6,0,2,5,6,7,0,1
+2019-08-17,Ligue 1,2019-20,Nimes,Nice,1,2,2,1,3,3,1,1
+2019-08-17,Ligue 1,2019-20,Metz,Monaco,3,0,6,4,3,10,0,1
+2019-08-17,Ligue 1,2019-20,Toulouse,Dijon,1,0,7,5,1,12,0,0
+2019-08-17,Ligue 1,2019-20,Amiens,Lille,1,0,3,10,1,13,0,0
+2019-08-17,Ligue 1,2019-20,Nantes,Marseille,0,0,7,3,0,10,0,0
+2019-08-17,Ligue 1,2019-20,Bordeaux,Montpellier,1,1,3,5,2,8,1,0
+2019-08-18,Ligue 1,2019-20,St Etienne,Brest,1,1,4,2,2,6,1,0
+2019-08-18,Ligue 1,2019-20,Reims,Strasbourg,0,0,2,4,0,6,0,0
+2019-08-18,Ligue 1,2019-20,Rennes,Paris SG,2,1,4,7,3,11,1,1
+2019-08-24,Ligue 1,2019-20,Brest,Reims,1,0,6,5,1,11,0,0
+2019-08-24,Ligue 1,2019-20,Dijon,Bordeaux,0,2,3,7,2,10,0,0
+2019-08-24,Ligue 1,2019-20,Amiens,Nantes,1,2,2,5,3,7,1,1
+2019-08-24,Ligue 1,2019-20,Angers,Metz,3,0,2,1,3,3,0,1
+2019-08-25,Ligue 1,2019-20,Monaco,Nimes,2,2,6,7,4,13,1,1
+2019-08-25,Ligue 1,2019-20,Strasbourg,Rennes,0,2,6,0,2,6,0,0
+2019-08-25,Ligue 1,2019-20,Paris SG,Toulouse,4,0,12,1,4,13,0,1
+2019-08-27,Ligue 1,2019-20,Montpellier,Lyon,1,0,8,2,1,10,0,0
+2019-08-28,Ligue 1,2019-20,Lille,St Etienne,3,0,3,3,3,6,0,1
+2019-08-28,Ligue 1,2019-20,Nice,Marseille,1,2,4,3,3,7,1,1
+2019-08-30,Ligue 1,2019-20,Metz,Paris SG,0,2,4,7,2,11,0,0
+2019-08-31,Ligue 1,2019-20,Toulouse,Amiens,2,0,4,3,2,7,0,0
+2019-08-31,Ligue 1,2019-20,Nimes,Brest,3,0,8,2,3,10,0,1
+2019-08-31,Ligue 1,2019-20,Angers,Dijon,2,0,5,3,2,8,0,0
+2019-08-31,Ligue 1,2019-20,Lyon,Bordeaux,1,1,4,5,2,9,1,0
+2019-08-31,Ligue 1,2019-20,Nantes,Montpellier,1,0,6,2,1,8,0,0
+2019-09-01,Ligue 1,2019-20,Reims,Lille,2,0,5,1,2,6,0,0
+2019-09-01,Ligue 1,2019-20,Rennes,Nice,1,2,8,6,3,14,1,1
+2019-09-01,Ligue 1,2019-20,Strasbourg,Monaco,2,2,6,4,4,10,1,1
+2019-09-01,Ligue 1,2019-20,Marseille,St Etienne,1,0,5,6,1,11,0,0
+2019-09-13,Ligue 1,2019-20,Lille,Angers,2,1,4,4,3,8,1,1
+2019-09-13,Ligue 1,2019-20,Amiens,Lyon,2,2,4,1,4,5,1,1
+2019-09-14,Ligue 1,2019-20,Paris SG,Strasbourg,1,0,5,2,1,7,0,0
+2019-09-14,Ligue 1,2019-20,Bordeaux,Metz,2,0,4,6,2,10,0,0
+2019-09-14,Ligue 1,2019-20,Brest,Rennes,0,0,2,4,0,6,0,0
+2019-09-14,Ligue 1,2019-20,Dijon,Nimes,0,0,6,0,0,6,0,0
+2019-09-14,Ligue 1,2019-20,Montpellier,Nice,2,1,8,1,3,9,1,1
+2019-09-15,Ligue 1,2019-20,Monaco,Marseille,3,4,6,4,7,10,1,1
+2019-09-15,Ligue 1,2019-20,Nantes,Reims,1,0,7,5,1,12,0,0
+2019-09-15,Ligue 1,2019-20,St Etienne,Toulouse,2,2,9,7,4,16,1,1
+2019-09-20,Ligue 1,2019-20,Strasbourg,Nantes,2,1,9,2,3,11,1,1
+2019-09-21,Ligue 1,2019-20,Marseille,Montpellier,1,1,15,1,2,16,1,0
+2019-09-21,Ligue 1,2019-20,Bordeaux,Brest,2,2,5,9,4,14,1,1
+2019-09-21,Ligue 1,2019-20,Metz,Amiens,1,2,4,6,3,10,1,1
+2019-09-21,Ligue 1,2019-20,Nice,Dijon,2,1,6,3,3,9,1,1
+2019-09-21,Ligue 1,2019-20,Nimes,Toulouse,1,0,5,7,1,12,0,0
+2019-09-21,Ligue 1,2019-20,Reims,Monaco,0,0,6,3,0,9,0,0
+2019-09-22,Ligue 1,2019-20,Rennes,Lille,1,1,4,8,2,12,1,0
+2019-09-22,Ligue 1,2019-20,Angers,St Etienne,4,1,5,4,5,9,1,1
+2019-09-22,Ligue 1,2019-20,Lyon,Paris SG,0,1,2,11,1,13,0,0
+2019-09-24,Ligue 1,2019-20,Dijon,Marseille,0,0,8,3,0,11,0,0
+2019-09-24,Ligue 1,2019-20,Monaco,Nice,3,1,5,7,4,12,1,1
+2019-09-25,Ligue 1,2019-20,St Etienne,Metz,0,1,8,5,1,13,0,0
+2019-09-25,Ligue 1,2019-20,Toulouse,Angers,0,2,5,11,2,16,0,0
+2019-09-25,Ligue 1,2019-20,Nantes,Rennes,1,0,2,4,1,6,0,0
+2019-09-25,Ligue 1,2019-20,Paris SG,Reims,0,2,6,6,2,12,0,0
+2019-09-25,Ligue 1,2019-20,Lille,Strasbourg,2,0,4,2,2,6,0,0
+2019-09-25,Ligue 1,2019-20,Amiens,Bordeaux,1,3,3,3,4,6,1,1
+2019-09-25,Ligue 1,2019-20,Montpellier,Nimes,1,0,4,8,1,12,0,0
+2019-09-25,Ligue 1,2019-20,Brest,Lyon,2,2,2,6,4,8,1,1
+2019-09-28,Ligue 1,2019-20,Lyon,Nantes,0,1,7,8,1,15,0,0
+2019-09-28,Ligue 1,2019-20,Bordeaux,Paris SG,0,1,0,9,1,9,0,0
+2019-09-28,Ligue 1,2019-20,Angers,Amiens,1,1,10,2,2,12,1,0
+2019-09-28,Ligue 1,2019-20,Metz,Toulouse,2,2,3,6,4,9,1,1
+2019-09-28,Ligue 1,2019-20,Nice,Lille,1,1,6,5,2,11,1,0
+2019-09-28,Ligue 1,2019-20,Reims,Dijon,1,2,5,4,3,9,1,1
+2019-09-28,Ligue 1,2019-20,Monaco,Brest,4,1,7,1,5,8,1,1
+2019-09-29,Ligue 1,2019-20,Strasbourg,Montpellier,1,0,1,6,1,7,0,0
+2019-09-29,Ligue 1,2019-20,Nimes,St Etienne,0,1,13,5,1,18,0,0
+2019-09-29,Ligue 1,2019-20,Marseille,Rennes,1,1,7,4,2,11,1,0
+2019-10-04,Ligue 1,2019-20,Amiens,Marseille,3,1,3,7,4,10,1,1
+2019-10-05,Ligue 1,2019-20,Toulouse,Bordeaux,1,3,5,4,4,9,1,1
+2019-10-05,Ligue 1,2019-20,Nantes,Nice,1,0,6,1,1,7,0,0
+2019-10-05,Ligue 1,2019-20,Montpellier,Monaco,3,1,6,8,4,14,1,1
+2019-10-05,Ligue 1,2019-20,Brest,Metz,2,0,2,9,2,11,0,0
+2019-10-05,Ligue 1,2019-20,Paris SG,Angers,4,0,6,1,4,7,0,1
+2019-10-05,Ligue 1,2019-20,Dijon,Strasbourg,1,0,6,7,1,13,0,0
+2019-10-06,Ligue 1,2019-20,Lille,Nimes,2,2,8,6,4,14,1,1
+2019-10-06,Ligue 1,2019-20,Rennes,Reims,0,1,5,3,1,8,0,0
+2019-10-06,Ligue 1,2019-20,St Etienne,Lyon,1,0,5,1,1,6,0,0
+2019-10-18,Ligue 1,2019-20,Nice,Paris SG,1,4,1,13,5,14,1,1
+2019-10-19,Ligue 1,2019-20,Toulouse,Lille,2,1,3,4,3,7,1,1
+2019-10-19,Ligue 1,2019-20,Reims,Montpellier,1,0,4,8,1,12,0,0
+2019-10-19,Ligue 1,2019-20,Nimes,Amiens,1,1,1,11,2,12,1,0
+2019-10-19,Ligue 1,2019-20,Metz,Nantes,1,0,3,3,1,6,0,0
+2019-10-19,Ligue 1,2019-20,Lyon,Dijon,0,0,8,1,0,9,0,0
+2019-10-19,Ligue 1,2019-20,Angers,Brest,0,1,13,3,1,16,0,0
+2019-10-20,Ligue 1,2019-20,Bordeaux,St Etienne,0,1,8,5,1,13,0,0
+2019-10-20,Ligue 1,2019-20,Monaco,Rennes,3,2,3,3,5,6,1,1
+2019-10-20,Ligue 1,2019-20,Marseille,Strasbourg,2,0,5,7,2,12,0,0
+2019-10-25,Ligue 1,2019-20,Nantes,Monaco,0,1,5,3,1,8,0,0
+2019-10-26,Ligue 1,2019-20,Strasbourg,Nice,1,0,4,7,1,11,0,0
+2019-10-26,Ligue 1,2019-20,Reims,Nimes,0,0,4,6,0,10,0,0
+2019-10-26,Ligue 1,2019-20,Montpellier,Angers,0,0,5,2,0,7,0,0
+2019-10-26,Ligue 1,2019-20,Brest,Dijon,2,0,9,5,2,14,0,0
+2019-10-26,Ligue 1,2019-20,Lille,Bordeaux,3,0,3,3,3,6,0,1
+2019-10-26,Ligue 1,2019-20,Lyon,Metz,2,0,7,2,2,9,0,0
+2019-10-27,Ligue 1,2019-20,Rennes,Toulouse,3,2,7,5,5,12,1,1
+2019-10-27,Ligue 1,2019-20,St Etienne,Amiens,2,2,5,4,4,9,1,1
+2019-10-27,Ligue 1,2019-20,Paris SG,Marseille,4,0,5,3,4,8,0,1
+2019-11-01,Ligue 1,2019-20,Dijon,Paris SG,2,1,3,6,3,9,1,1
+2019-11-02,Ligue 1,2019-20,Marseille,Lille,2,1,4,4,3,8,1,1
+2019-11-02,Ligue 1,2019-20,Amiens,Brest,1,0,3,9,1,12,0,0
+2019-11-02,Ligue 1,2019-20,Metz,Montpellier,2,2,5,3,4,8,1,1
+2019-11-02,Ligue 1,2019-20,Toulouse,Lyon,2,3,5,5,5,10,1,1
+2019-11-02,Ligue 1,2019-20,Angers,Strasbourg,1,0,4,8,1,12,0,0
+2019-11-03,Ligue 1,2019-20,Bordeaux,Nantes,2,0,6,9,2,15,0,0
+2019-11-03,Ligue 1,2019-20,Nice,Reims,2,0,5,4,2,9,0,0
+2019-11-03,Ligue 1,2019-20,St Etienne,Monaco,1,0,2,1,1,3,0,0
+2019-11-08,Ligue 1,2019-20,Nice,Bordeaux,1,1,3,4,2,7,1,0
+2019-11-09,Ligue 1,2019-20,Reims,Angers,0,0,2,12,0,14,0,0
+2019-11-09,Ligue 1,2019-20,Strasbourg,Nimes,4,1,2,2,5,4,1,1
+2019-11-09,Ligue 1,2019-20,Lille,Metz,0,0,9,1,0,10,0,0
+2019-11-09,Ligue 1,2019-20,Brest,Paris SG,1,2,5,4,3,9,1,1
+2019-11-09,Ligue 1,2019-20,Monaco,Dijon,1,0,6,9,1,15,0,0
+2019-11-10,Ligue 1,2019-20,Rennes,Amiens,3,1,5,3,4,8,1,1
+2019-11-10,Ligue 1,2019-20,Montpellier,Toulouse,3,0,1,3,3,4,0,1
+2019-11-10,Ligue 1,2019-20,Nantes,St Etienne,2,3,3,3,5,6,1,1
+2019-11-10,Ligue 1,2019-20,Marseille,Lyon,2,1,6,7,3,13,1,1
+2019-11-22,Ligue 1,2019-20,Paris SG,Lille,2,0,6,5,2,11,0,0
+2019-11-23,Ligue 1,2019-20,Lyon,Nice,2,1,3,6,3,9,1,1
+2019-11-23,Ligue 1,2019-20,Amiens,Strasbourg,0,4,3,7,4,10,0,1
+2019-11-23,Ligue 1,2019-20,Angers,Nimes,1,0,3,2,1,5,0,0
+2019-11-23,Ligue 1,2019-20,Brest,Nantes,1,1,6,5,2,11,1,0
+2019-11-23,Ligue 1,2019-20,Dijon,Rennes,2,1,4,4,3,8,1,1
+2019-11-23,Ligue 1,2019-20,Metz,Reims,1,1,6,5,2,11,1,0
+2019-11-24,Ligue 1,2019-20,St Etienne,Montpellier,0,0,1,5,0,6,0,0
+2019-11-24,Ligue 1,2019-20,Bordeaux,Monaco,2,1,5,12,3,17,1,1
+2019-11-24,Ligue 1,2019-20,Toulouse,Marseille,0,2,1,7,2,8,0,0
+2019-11-29,Ligue 1,2019-20,Marseille,Brest,2,1,8,0,3,8,1,1
+2019-11-30,Ligue 1,2019-20,Strasbourg,Lyon,1,2,3,1,3,4,1,1
+2019-11-30,Ligue 1,2019-20,Lille,Dijon,1,0,11,3,1,14,0,0
+2019-11-30,Ligue 1,2019-20,Montpellier,Amiens,4,2,4,2,6,6,1,1
+2019-11-30,Ligue 1,2019-20,Nice,Angers,3,1,0,7,4,7,1,1
+2019-11-30,Ligue 1,2019-20,Nimes,Metz,1,1,6,2,2,8,1,0
+2019-11-30,Ligue 1,2019-20,Reims,Bordeaux,1,1,15,2,2,17,1,0
+2019-12-01,Ligue 1,2019-20,Nantes,Toulouse,2,1,10,4,3,14,1,1
+2019-12-01,Ligue 1,2019-20,Rennes,St Etienne,2,1,6,1,3,7,1,1
+2019-12-03,Ligue 1,2019-20,Angers,Marseille,0,2,3,1,2,4,0,0
+2019-12-03,Ligue 1,2019-20,Bordeaux,Nimes,6,0,0,6,6,6,0,1
+2019-12-03,Ligue 1,2019-20,Brest,Strasbourg,5,0,3,7,5,10,0,1
+2019-12-03,Ligue 1,2019-20,Lyon,Lille,0,1,9,1,1,10,0,0
+2019-12-04,Ligue 1,2019-20,Paris SG,Nantes,2,0,5,9,2,14,0,0
+2019-12-04,Ligue 1,2019-20,Toulouse,Monaco,1,2,2,6,3,8,1,1
+2019-12-04,Ligue 1,2019-20,St Etienne,Nice,4,1,8,5,5,13,1,1
+2019-12-04,Ligue 1,2019-20,Metz,Rennes,0,1,8,8,1,16,0,0
+2019-12-04,Ligue 1,2019-20,Dijon,Montpellier,2,2,12,6,4,18,1,1
+2019-12-06,Ligue 1,2019-20,Lille,Brest,1,0,7,3,1,10,0,0
+2019-12-06,Ligue 1,2019-20,Nimes,Lyon,0,4,1,5,4,6,0,1
+2019-12-07,Ligue 1,2019-20,Montpellier,Paris SG,1,3,4,4,4,8,1,1
+2019-12-07,Ligue 1,2019-20,Monaco,Amiens,3,0,8,1,3,9,0,1
+2019-12-07,Ligue 1,2019-20,Nice,Metz,4,1,2,4,5,6,1,1
+2019-12-07,Ligue 1,2019-20,Rennes,Angers,2,1,4,4,3,8,1,1
+2019-12-07,Ligue 1,2019-20,Strasbourg,Toulouse,4,2,3,5,6,8,1,1
+2019-12-08,Ligue 1,2019-20,Reims,St Etienne,3,1,1,2,4,3,1,1
+2019-12-08,Ligue 1,2019-20,Nantes,Dijon,1,0,9,1,1,10,0,0
+2019-12-08,Ligue 1,2019-20,Marseille,Bordeaux,3,1,7,0,4,7,1,1
+2019-12-13,Ligue 1,2019-20,Lille,Montpellier,2,1,4,5,3,9,1,1
+2019-12-14,Ligue 1,2019-20,Nimes,Nantes,0,1,9,3,1,12,0,0
+2019-12-14,Ligue 1,2019-20,Brest,Nice,0,0,5,6,0,11,0,0
+2019-12-14,Ligue 1,2019-20,Toulouse,Reims,0,1,4,8,1,12,0,0
+2019-12-14,Ligue 1,2019-20,Amiens,Dijon,1,1,5,3,2,8,1,0
+2019-12-14,Ligue 1,2019-20,Metz,Marseille,1,1,1,7,2,8,1,0
+2019-12-14,Ligue 1,2019-20,Angers,Monaco,0,0,7,6,0,13,0,0
+2019-12-15,Ligue 1,2019-20,Bordeaux,Strasbourg,0,1,5,7,1,12,0,0
+2019-12-15,Ligue 1,2019-20,Lyon,Rennes,0,1,5,7,1,12,0,0
+2019-12-15,Ligue 1,2019-20,St Etienne,Paris SG,0,4,5,2,4,7,0,1
+2019-12-21,Ligue 1,2019-20,Strasbourg,St Etienne,2,1,2,7,3,9,1,1
+2019-12-21,Ligue 1,2019-20,Rennes,Bordeaux,1,0,2,8,1,10,0,0
+2019-12-21,Ligue 1,2019-20,Reims,Lyon,1,1,4,4,2,8,1,0
+2019-12-21,Ligue 1,2019-20,Paris SG,Amiens,4,1,7,3,5,10,1,1
+2019-12-21,Ligue 1,2019-20,Nice,Toulouse,3,0,12,4,3,16,0,1
+2019-12-21,Ligue 1,2019-20,Montpellier,Brest,4,0,3,2,4,5,0,1
+2019-12-21,Ligue 1,2019-20,Monaco,Lille,5,1,5,6,6,11,1,1
+2019-12-21,Ligue 1,2019-20,Marseille,Nimes,3,1,7,4,4,11,1,1
+2019-12-21,Ligue 1,2019-20,Dijon,Metz,2,2,3,5,4,8,1,1
+2019-12-21,Ligue 1,2019-20,Nantes,Angers,1,2,5,4,3,9,1,1
+2020-01-10,Ligue 1,2019-20,Rennes,Marseille,0,1,4,1,1,5,0,0
+2020-01-11,Ligue 1,2019-20,Toulouse,Brest,2,5,5,6,7,11,1,1
+2020-01-11,Ligue 1,2019-20,Nimes,Reims,2,0,5,3,2,8,0,0
+2020-01-11,Ligue 1,2019-20,Metz,Strasbourg,1,0,1,6,1,7,0,0
+2020-01-11,Ligue 1,2019-20,Amiens,Montpellier,1,2,4,1,3,5,1,1
+2020-01-11,Ligue 1,2019-20,Bordeaux,Lyon,1,2,5,4,3,9,1,1
+2020-01-11,Ligue 1,2019-20,Angers,Nice,1,1,7,2,2,9,1,0
+2020-01-12,Ligue 1,2019-20,St Etienne,Nantes,0,2,2,1,2,3,0,0
+2020-01-12,Ligue 1,2019-20,Dijon,Lille,1,0,2,7,1,9,0,0
+2020-01-12,Ligue 1,2019-20,Paris SG,Monaco,3,3,7,7,6,14,1,1
+2020-01-15,Ligue 1,2019-20,Amiens,Reims,1,1,2,1,2,3,1,0
+2020-01-15,Ligue 1,2019-20,Nimes,Rennes,0,1,3,2,1,5,0,0
+2020-01-15,Ligue 1,2019-20,Monaco,Paris SG,1,4,3,5,5,8,1,1
+2020-01-24,Ligue 1,2019-20,Nice,Rennes,1,1,9,8,2,17,1,0
+2020-01-25,Ligue 1,2019-20,St Etienne,Nimes,2,1,6,5,3,11,1,1
+2020-01-25,Ligue 1,2019-20,Marseille,Angers,0,0,4,2,0,6,0,0
+2020-01-25,Ligue 1,2019-20,Brest,Amiens,2,1,2,7,3,9,1,1
+2020-01-25,Ligue 1,2019-20,Monaco,Strasbourg,1,3,5,5,4,10,1,1
+2020-01-25,Ligue 1,2019-20,Montpellier,Dijon,2,1,3,1,3,4,1,1
+2020-01-25,Ligue 1,2019-20,Reims,Metz,0,1,11,1,1,12,0,0
+2020-01-26,Ligue 1,2019-20,Nantes,Bordeaux,0,1,0,2,1,2,0,0
+2020-01-26,Ligue 1,2019-20,Lille,Paris SG,0,2,6,3,2,9,0,0
+2020-01-26,Ligue 1,2019-20,Lyon,Toulouse,3,0,8,2,3,10,0,1
+2020-01-31,Ligue 1,2019-20,Rennes,Nantes,3,2,5,5,5,10,1,1
+2020-02-01,Ligue 1,2019-20,Paris SG,Montpellier,5,0,12,2,5,14,0,1
+2020-02-01,Ligue 1,2019-20,Amiens,Toulouse,0,0,8,4,0,12,0,0
+2020-02-01,Ligue 1,2019-20,Angers,Reims,1,4,2,4,5,6,1,1
+2020-02-01,Ligue 1,2019-20,Dijon,Brest,3,0,6,6,3,12,0,1
+2020-02-01,Ligue 1,2019-20,Nimes,Monaco,3,1,7,1,4,8,1,1
+2020-02-01,Ligue 1,2019-20,Strasbourg,Lille,1,2,3,7,3,10,1,1
+2020-02-02,Ligue 1,2019-20,Bordeaux,Marseille,0,0,3,10,0,13,0,0
+2020-02-02,Ligue 1,2019-20,Nice,Lyon,2,1,4,10,3,14,1,1
+2020-02-02,Ligue 1,2019-20,Metz,St Etienne,3,1,3,8,4,11,1,1
+2020-02-04,Ligue 1,2019-20,Lille,Rennes,1,0,5,2,1,7,0,0
+2020-02-04,Ligue 1,2019-20,Monaco,Angers,1,0,1,8,1,9,0,0
+2020-02-04,Ligue 1,2019-20,Nantes,Paris SG,1,2,4,7,3,11,1,1
+2020-02-05,Ligue 1,2019-20,Toulouse,Strasbourg,0,1,5,2,1,7,0,0
+2020-02-05,Ligue 1,2019-20,St Etienne,Marseille,0,2,6,2,2,8,0,0
+2020-02-05,Ligue 1,2019-20,Reims,Nice,1,1,9,6,2,15,1,0
+2020-02-05,Ligue 1,2019-20,Nimes,Dijon,2,0,2,2,2,4,0,0
+2020-02-05,Ligue 1,2019-20,Montpellier,Metz,1,1,6,8,2,14,1,0
+2020-02-05,Ligue 1,2019-20,Lyon,Amiens,0,0,5,3,0,8,0,0
+2020-02-05,Ligue 1,2019-20,Brest,Bordeaux,1,1,8,5,2,13,1,0
+2020-02-07,Ligue 1,2019-20,Angers,Lille,0,2,6,2,2,8,0,0
+2020-02-08,Ligue 1,2019-20,Rennes,Brest,0,0,6,0,0,6,0,0
+2020-02-08,Ligue 1,2019-20,Metz,Bordeaux,1,2,5,13,3,18,1,1
+2020-02-08,Ligue 1,2019-20,Nice,Nimes,1,3,1,7,4,8,1,1
+2020-02-08,Ligue 1,2019-20,Amiens,Monaco,1,2,3,9,3,12,1,1
+2020-02-08,Ligue 1,2019-20,Marseille,Toulouse,1,0,5,5,1,10,0,0
+2020-02-08,Ligue 1,2019-20,Dijon,Nantes,3,3,9,4,6,13,1,1
+2020-02-09,Ligue 1,2019-20,Montpellier,St Etienne,1,0,3,6,1,9,0,0
+2020-02-09,Ligue 1,2019-20,Strasbourg,Reims,3,0,9,8,3,17,0,1
+2020-02-09,Ligue 1,2019-20,Paris SG,Lyon,4,2,6,3,6,9,1,1
+2020-02-14,Ligue 1,2019-20,Monaco,Montpellier,1,0,2,4,1,6,0,0
+2020-02-15,Ligue 1,2019-20,Nimes,Angers,1,0,7,5,1,12,0,0
+2020-02-15,Ligue 1,2019-20,Toulouse,Nice,0,2,7,5,2,12,0,0
+2020-02-15,Ligue 1,2019-20,Nantes,Metz,0,0,11,6,0,17,0,0
+2020-02-15,Ligue 1,2019-20,Bordeaux,Dijon,2,2,13,1,4,14,1,1
+2020-02-15,Ligue 1,2019-20,Amiens,Paris SG,4,4,2,6,8,8,1,1
+2020-02-16,Ligue 1,2019-20,Lyon,Strasbourg,1,1,3,2,2,5,1,0
+2020-02-16,Ligue 1,2019-20,Brest,St Etienne,3,2,0,5,5,5,1,1
+2020-02-16,Ligue 1,2019-20,Reims,Rennes,1,0,7,2,1,9,0,0
+2020-02-16,Ligue 1,2019-20,Lille,Marseille,1,2,4,5,3,9,1,1
+2020-02-21,Ligue 1,2019-20,Nice,Brest,2,2,9,3,4,12,1,1
+2020-02-21,Ligue 1,2019-20,Metz,Lyon,0,2,5,4,2,9,0,0
+2020-02-22,Ligue 1,2019-20,Marseille,Nantes,1,3,4,1,4,5,1,1
+2020-02-22,Ligue 1,2019-20,Angers,Montpellier,1,0,6,8,1,14,0,0
+2020-02-22,Ligue 1,2019-20,Dijon,Monaco,1,1,2,3,2,5,1,0
+2020-02-22,Ligue 1,2019-20,Lille,Toulouse,3,0,5,0,3,5,0,1
+2020-02-22,Ligue 1,2019-20,Strasbourg,Amiens,0,0,5,5,0,10,0,0
+2020-02-23,Ligue 1,2019-20,St Etienne,Reims,1,1,8,6,2,14,1,0
+2020-02-23,Ligue 1,2019-20,Rennes,Nimes,2,1,10,1,3,11,1,1
+2020-02-23,Ligue 1,2019-20,Paris SG,Bordeaux,4,3,10,7,7,17,1,1
+2020-02-28,Ligue 1,2019-20,Nimes,Marseille,2,3,8,9,5,17,1,1
+2020-02-29,Ligue 1,2019-20,Paris SG,Dijon,4,0,8,0,4,8,0,1
+2020-02-29,Ligue 1,2019-20,Amiens,Metz,0,1,6,3,1,9,0,0
+2020-02-29,Ligue 1,2019-20,Brest,Angers,0,1,12,0,1,12,0,0
+2020-02-29,Ligue 1,2019-20,Monaco,Reims,1,1,3,2,2,5,1,0
+2020-02-29,Ligue 1,2019-20,Montpellier,Strasbourg,3,0,5,7,3,12,0,1
+2020-02-29,Ligue 1,2019-20,Toulouse,Rennes,0,2,9,3,2,12,0,0
+2020-03-01,Ligue 1,2019-20,Nantes,Lille,0,1,3,12,1,15,0,0
+2020-03-01,Ligue 1,2019-20,Bordeaux,Nice,1,1,10,3,2,13,1,0
+2020-03-01,Ligue 1,2019-20,Lyon,St Etienne,2,0,5,4,2,9,0,0
+2020-03-06,Ligue 1,2019-20,Marseille,Amiens,2,2,4,4,4,8,1,1
+2020-03-07,Ligue 1,2019-20,Angers,Nantes,2,0,4,6,2,10,0,0
+2020-03-07,Ligue 1,2019-20,Dijon,Toulouse,2,1,5,1,3,6,1,1
+2020-03-07,Ligue 1,2019-20,Metz,Nimes,2,1,8,6,3,14,1,1
+2020-03-07,Ligue 1,2019-20,Nice,Monaco,2,1,6,3,3,9,1,1
+2020-03-07,Ligue 1,2019-20,Reims,Brest,1,0,5,5,1,10,0,0
+2020-03-08,Ligue 1,2019-20,Rennes,Montpellier,5,0,2,7,5,9,0,1
+2020-03-08,Ligue 1,2019-20,St Etienne,Bordeaux,1,1,7,4,2,11,1,0
+2020-03-08,Ligue 1,2019-20,Lille,Lyon,1,0,4,3,1,7,0,0

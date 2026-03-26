@@ -1,0 +1,381 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2022-08-05,Premier League,2022-23,Crystal Palace,Arsenal,0,2,3,5,2,8,0,0
+2022-08-06,Premier League,2022-23,Fulham,Liverpool,2,2,4,4,4,8,1,1
+2022-08-06,Premier League,2022-23,Bournemouth,Aston Villa,2,0,5,5,2,10,0,0
+2022-08-06,Premier League,2022-23,Leeds,Wolves,2,1,6,4,3,10,1,1
+2022-08-06,Premier League,2022-23,Newcastle,Nott'm Forest,2,0,11,1,2,12,0,0
+2022-08-06,Premier League,2022-23,Tottenham,Southampton,4,1,10,2,5,12,1,1
+2022-08-06,Premier League,2022-23,Everton,Chelsea,0,1,4,16,1,20,0,0
+2022-08-07,Premier League,2022-23,Leicester,Brentford,2,2,5,6,4,11,1,1
+2022-08-07,Premier League,2022-23,Man United,Brighton,1,2,6,2,3,8,1,1
+2022-08-07,Premier League,2022-23,West Ham,Man City,0,2,1,4,2,5,0,0
+2022-08-13,Premier League,2022-23,Brentford,Man United,4,0,8,2,4,10,0,1
+2022-08-13,Premier League,2022-23,Wolves,Fulham,0,0,5,3,0,8,0,0
+2022-08-13,Premier League,2022-23,Southampton,Leeds,2,2,2,5,4,7,1,1
+2022-08-13,Premier League,2022-23,Arsenal,Leicester,4,2,6,2,6,8,1,1
+2022-08-13,Premier League,2022-23,Brighton,Newcastle,0,0,7,3,0,10,0,0
+2022-08-13,Premier League,2022-23,Aston Villa,Everton,2,1,5,8,3,13,1,1
+2022-08-13,Premier League,2022-23,Man City,Bournemouth,4,0,11,1,4,12,0,1
+2022-08-14,Premier League,2022-23,Nott'm Forest,West Ham,1,0,6,7,1,13,0,0
+2022-08-14,Premier League,2022-23,Chelsea,Tottenham,2,2,8,5,4,13,1,1
+2022-08-15,Premier League,2022-23,Liverpool,Crystal Palace,1,1,4,2,2,6,1,0
+2022-08-20,Premier League,2022-23,Leicester,Southampton,1,2,2,5,3,7,1,1
+2022-08-20,Premier League,2022-23,Bournemouth,Arsenal,0,3,3,4,3,7,0,1
+2022-08-20,Premier League,2022-23,Fulham,Brentford,3,2,6,3,5,9,1,1
+2022-08-20,Premier League,2022-23,Everton,Nott'm Forest,1,1,6,2,2,8,1,0
+2022-08-20,Premier League,2022-23,Crystal Palace,Aston Villa,3,1,4,2,4,6,1,1
+2022-08-20,Premier League,2022-23,Tottenham,Wolves,1,0,8,6,1,14,0,0
+2022-08-21,Premier League,2022-23,Leeds,Chelsea,3,0,4,6,3,10,0,1
+2022-08-21,Premier League,2022-23,West Ham,Brighton,0,2,5,4,2,9,0,0
+2022-08-21,Premier League,2022-23,Newcastle,Man City,3,3,5,5,6,10,1,1
+2022-08-22,Premier League,2022-23,Man United,Liverpool,2,1,6,8,3,14,1,1
+2022-08-27,Premier League,2022-23,Arsenal,Fulham,2,1,9,2,3,11,1,1
+2022-08-27,Premier League,2022-23,Man City,Crystal Palace,4,2,6,1,6,7,1,1
+2022-08-27,Premier League,2022-23,Chelsea,Leicester,2,1,3,11,3,14,1,1
+2022-08-27,Premier League,2022-23,Liverpool,Bournemouth,9,0,8,1,9,9,0,1
+2022-08-27,Premier League,2022-23,Brentford,Everton,1,1,8,5,2,13,1,0
+2022-08-27,Premier League,2022-23,Southampton,Man United,0,1,5,3,1,8,0,0
+2022-08-27,Premier League,2022-23,Brighton,Leeds,1,0,5,3,1,8,0,0
+2022-08-28,Premier League,2022-23,Aston Villa,West Ham,0,1,3,2,1,5,0,0
+2022-08-28,Premier League,2022-23,Wolves,Newcastle,1,1,4,13,2,17,1,0
+2022-08-28,Premier League,2022-23,Nott'm Forest,Tottenham,0,2,6,1,2,7,0,0
+2022-08-30,Premier League,2022-23,Crystal Palace,Brentford,1,1,4,6,2,10,1,0
+2022-08-30,Premier League,2022-23,Fulham,Brighton,2,1,3,3,3,6,1,1
+2022-08-30,Premier League,2022-23,Southampton,Chelsea,2,1,5,3,3,8,1,1
+2022-08-30,Premier League,2022-23,Leeds,Everton,1,1,10,2,2,12,1,0
+2022-08-31,Premier League,2022-23,Liverpool,Newcastle,2,1,13,0,3,13,1,1
+2022-08-31,Premier League,2022-23,West Ham,Tottenham,1,1,3,4,2,7,1,0
+2022-08-31,Premier League,2022-23,Man City,Nott'm Forest,6,0,10,1,6,11,0,1
+2022-08-31,Premier League,2022-23,Bournemouth,Wolves,0,0,2,5,0,7,0,0
+2022-08-31,Premier League,2022-23,Arsenal,Aston Villa,2,1,10,3,3,13,1,1
+2022-09-01,Premier League,2022-23,Leicester,Man United,0,1,1,3,1,4,0,0
+2022-09-03,Premier League,2022-23,Everton,Liverpool,0,0,7,9,0,16,0,0
+2022-09-03,Premier League,2022-23,Brentford,Leeds,5,2,2,6,7,8,1,1
+2022-09-03,Premier League,2022-23,Chelsea,West Ham,2,1,10,3,3,13,1,1
+2022-09-03,Premier League,2022-23,Newcastle,Crystal Palace,0,0,13,5,0,18,0,0
+2022-09-03,Premier League,2022-23,Nott'm Forest,Bournemouth,2,3,4,6,5,10,1,1
+2022-09-03,Premier League,2022-23,Tottenham,Fulham,2,1,10,3,3,13,1,1
+2022-09-03,Premier League,2022-23,Wolves,Southampton,1,0,5,6,1,11,0,0
+2022-09-03,Premier League,2022-23,Aston Villa,Man City,1,1,1,4,2,5,1,0
+2022-09-04,Premier League,2022-23,Man United,Arsenal,3,1,2,5,4,7,1,1
+2022-09-04,Premier League,2022-23,Brighton,Leicester,5,2,10,1,7,11,1,1
+2022-09-16,Premier League,2022-23,Aston Villa,Southampton,1,0,6,3,1,9,0,0
+2022-09-16,Premier League,2022-23,Nott'm Forest,Fulham,2,3,2,10,5,12,1,1
+2022-09-17,Premier League,2022-23,Wolves,Man City,0,3,5,7,3,12,0,1
+2022-09-17,Premier League,2022-23,Newcastle,Bournemouth,1,1,8,1,2,9,1,0
+2022-09-17,Premier League,2022-23,Tottenham,Leicester,6,2,6,1,8,7,1,1
+2022-09-18,Premier League,2022-23,Brentford,Arsenal,0,3,3,3,3,6,0,1
+2022-09-18,Premier League,2022-23,Everton,West Ham,1,0,5,14,1,19,0,0
+2022-10-01,Premier League,2022-23,West Ham,Wolves,2,0,1,6,2,7,0,0
+2022-10-01,Premier League,2022-23,Southampton,Everton,1,2,7,6,3,13,1,1
+2022-10-01,Premier League,2022-23,Liverpool,Brighton,3,3,9,2,6,11,1,1
+2022-10-01,Premier League,2022-23,Fulham,Newcastle,1,4,1,8,5,9,1,1
+2022-10-01,Premier League,2022-23,Crystal Palace,Chelsea,1,2,5,2,3,7,1,1
+2022-10-01,Premier League,2022-23,Bournemouth,Brentford,0,0,7,8,0,15,0,0
+2022-10-01,Premier League,2022-23,Arsenal,Tottenham,3,1,5,2,4,7,1,1
+2022-10-02,Premier League,2022-23,Man City,Man United,6,3,5,1,9,6,1,1
+2022-10-02,Premier League,2022-23,Leeds,Aston Villa,0,0,2,9,0,11,0,0
+2022-10-03,Premier League,2022-23,Leicester,Nott'm Forest,4,0,6,6,4,12,0,1
+2022-10-08,Premier League,2022-23,Bournemouth,Leicester,2,1,7,2,3,9,1,1
+2022-10-08,Premier League,2022-23,Chelsea,Wolves,3,0,4,2,3,6,0,1
+2022-10-08,Premier League,2022-23,Man City,Southampton,4,0,9,1,4,10,0,1
+2022-10-08,Premier League,2022-23,Newcastle,Brentford,5,1,9,5,6,14,1,1
+2022-10-08,Premier League,2022-23,Brighton,Tottenham,0,1,6,2,1,8,0,0
+2022-10-09,Premier League,2022-23,Everton,Man United,1,2,5,4,3,9,1,1
+2022-10-09,Premier League,2022-23,Arsenal,Liverpool,3,2,4,3,5,7,1,1
+2022-10-09,Premier League,2022-23,Crystal Palace,Leeds,2,1,5,3,3,8,1,1
+2022-10-09,Premier League,2022-23,West Ham,Fulham,3,1,4,2,4,6,1,1
+2022-10-10,Premier League,2022-23,Nott'm Forest,Aston Villa,1,1,1,4,2,5,1,0
+2022-10-14,Premier League,2022-23,Brentford,Brighton,2,0,2,11,2,13,0,0
+2022-10-15,Premier League,2022-23,Leicester,Crystal Palace,0,0,9,2,0,11,0,0
+2022-10-15,Premier League,2022-23,Fulham,Bournemouth,2,2,5,6,4,11,1,1
+2022-10-15,Premier League,2022-23,Wolves,Nott'm Forest,1,0,4,5,1,9,0,0
+2022-10-15,Premier League,2022-23,Tottenham,Everton,2,0,7,1,2,8,0,0
+2022-10-16,Premier League,2022-23,Liverpool,Man City,1,0,5,6,1,11,0,0
+2022-10-16,Premier League,2022-23,Man United,Newcastle,0,0,4,4,0,8,0,0
+2022-10-16,Premier League,2022-23,Southampton,West Ham,1,1,4,14,2,18,1,0
+2022-10-16,Premier League,2022-23,Aston Villa,Chelsea,0,2,7,1,2,8,0,0
+2022-10-16,Premier League,2022-23,Leeds,Arsenal,0,1,6,3,1,9,0,0
+2022-10-18,Premier League,2022-23,Brighton,Nott'm Forest,0,0,9,1,0,10,0,0
+2022-10-18,Premier League,2022-23,Crystal Palace,Wolves,2,1,4,3,3,7,1,1
+2022-10-19,Premier League,2022-23,Bournemouth,Southampton,0,1,7,3,1,10,0,0
+2022-10-19,Premier League,2022-23,Brentford,Chelsea,0,0,6,2,0,8,0,0
+2022-10-19,Premier League,2022-23,Liverpool,West Ham,1,0,8,3,1,11,0,0
+2022-10-19,Premier League,2022-23,Newcastle,Everton,1,0,8,2,1,10,0,0
+2022-10-19,Premier League,2022-23,Man United,Tottenham,2,0,8,3,2,11,0,0
+2022-10-20,Premier League,2022-23,Fulham,Aston Villa,3,0,9,7,3,16,0,1
+2022-10-20,Premier League,2022-23,Leicester,Leeds,2,0,2,9,2,11,0,0
+2022-10-22,Premier League,2022-23,Chelsea,Man United,1,1,6,4,2,10,1,0
+2022-10-22,Premier League,2022-23,Man City,Brighton,3,1,7,3,4,10,1,1
+2022-10-22,Premier League,2022-23,Everton,Crystal Palace,3,0,3,4,3,7,0,1
+2022-10-22,Premier League,2022-23,Nott'm Forest,Liverpool,1,0,2,11,1,13,0,0
+2022-10-23,Premier League,2022-23,Wolves,Leicester,0,4,9,2,4,11,0,1
+2022-10-23,Premier League,2022-23,Aston Villa,Brentford,4,0,7,6,4,13,0,1
+2022-10-23,Premier League,2022-23,Leeds,Fulham,2,3,3,6,5,9,1,1
+2022-10-23,Premier League,2022-23,Southampton,Arsenal,1,1,9,4,2,13,1,0
+2022-10-23,Premier League,2022-23,Tottenham,Newcastle,1,2,6,7,3,13,1,1
+2022-10-24,Premier League,2022-23,West Ham,Bournemouth,2,0,5,0,2,5,0,0
+2022-10-29,Premier League,2022-23,Newcastle,Aston Villa,4,0,3,0,4,3,0,1
+2022-10-29,Premier League,2022-23,Fulham,Everton,0,0,13,4,0,17,0,0
+2022-10-29,Premier League,2022-23,Liverpool,Leeds,1,2,14,5,3,19,1,1
+2022-10-29,Premier League,2022-23,Crystal Palace,Southampton,1,0,8,4,1,12,0,0
+2022-10-29,Premier League,2022-23,Leicester,Man City,0,1,3,10,1,13,0,0
+2022-10-29,Premier League,2022-23,Brentford,Wolves,1,1,3,6,2,9,1,0
+2022-10-29,Premier League,2022-23,Bournemouth,Tottenham,2,3,2,19,5,21,1,1
+2022-10-29,Premier League,2022-23,Brighton,Chelsea,4,1,8,7,5,15,1,1
+2022-10-30,Premier League,2022-23,Arsenal,Nott'm Forest,5,0,9,4,5,13,0,1
+2022-10-30,Premier League,2022-23,Man United,West Ham,1,0,5,10,1,15,0,0
+2022-11-05,Premier League,2022-23,Leeds,Bournemouth,4,3,13,3,7,16,1,1
+2022-11-05,Premier League,2022-23,Man City,Fulham,2,1,9,0,3,9,1,1
+2022-11-05,Premier League,2022-23,Nott'm Forest,Brentford,2,2,3,3,4,6,1,1
+2022-11-05,Premier League,2022-23,Wolves,Brighton,2,3,4,9,5,13,1,1
+2022-11-05,Premier League,2022-23,Everton,Leicester,0,2,8,3,2,11,0,0
+2022-11-06,Premier League,2022-23,West Ham,Crystal Palace,1,2,2,5,3,7,1,1
+2022-11-06,Premier League,2022-23,Chelsea,Arsenal,0,1,4,6,1,10,0,0
+2022-11-06,Premier League,2022-23,Aston Villa,Man United,3,1,3,5,4,8,1,1
+2022-11-06,Premier League,2022-23,Southampton,Newcastle,1,4,8,2,5,10,1,1
+2022-11-06,Premier League,2022-23,Tottenham,Liverpool,1,2,5,3,3,8,1,1
+2022-11-12,Premier League,2022-23,Wolves,Arsenal,0,2,6,4,2,10,0,0
+2022-11-12,Premier League,2022-23,Newcastle,Chelsea,1,0,5,3,1,8,0,0
+2022-11-12,Premier League,2022-23,Tottenham,Leeds,4,3,9,2,7,11,1,1
+2022-11-12,Premier League,2022-23,West Ham,Leicester,0,2,7,2,2,9,0,0
+2022-11-12,Premier League,2022-23,Liverpool,Southampton,3,1,6,0,4,6,1,1
+2022-11-12,Premier League,2022-23,Man City,Brentford,1,2,10,2,3,12,1,1
+2022-11-12,Premier League,2022-23,Nott'm Forest,Crystal Palace,1,0,1,5,1,6,0,0
+2022-11-12,Premier League,2022-23,Bournemouth,Everton,3,0,3,5,3,8,0,1
+2022-11-13,Premier League,2022-23,Brighton,Aston Villa,1,2,11,4,3,15,1,1
+2022-11-13,Premier League,2022-23,Fulham,Man United,1,2,10,3,3,13,1,1
+2022-12-26,Premier League,2022-23,Arsenal,West Ham,3,1,7,5,4,12,1,1
+2022-12-26,Premier League,2022-23,Brentford,Tottenham,2,2,6,5,4,11,1,1
+2022-12-26,Premier League,2022-23,Crystal Palace,Fulham,0,3,1,8,3,9,0,1
+2022-12-26,Premier League,2022-23,Everton,Wolves,1,2,2,2,3,4,1,1
+2022-12-26,Premier League,2022-23,Leicester,Newcastle,0,3,5,5,3,10,0,1
+2022-12-26,Premier League,2022-23,Southampton,Brighton,1,3,4,2,4,6,1,1
+2022-12-26,Premier League,2022-23,Aston Villa,Liverpool,1,3,0,6,4,6,1,1
+2022-12-27,Premier League,2022-23,Man United,Nott'm Forest,3,0,9,9,3,18,0,1
+2022-12-27,Premier League,2022-23,Chelsea,Bournemouth,2,0,6,8,2,14,0,0
+2022-12-28,Premier League,2022-23,Leeds,Man City,1,3,3,5,4,8,1,1
+2022-12-30,Premier League,2022-23,West Ham,Brentford,0,2,8,1,2,9,0,0
+2022-12-30,Premier League,2022-23,Liverpool,Leicester,2,1,4,5,3,9,1,1
+2022-12-31,Premier League,2022-23,Wolves,Man United,0,1,7,5,1,12,0,0
+2022-12-31,Premier League,2022-23,Bournemouth,Crystal Palace,0,2,2,7,2,9,0,0
+2022-12-31,Premier League,2022-23,Fulham,Southampton,2,1,4,4,3,8,1,1
+2022-12-31,Premier League,2022-23,Man City,Everton,1,1,7,1,2,8,1,0
+2022-12-31,Premier League,2022-23,Newcastle,Leeds,0,0,9,3,0,12,0,0
+2022-12-31,Premier League,2022-23,Brighton,Arsenal,2,4,7,4,6,11,1,1
+2023-01-01,Premier League,2022-23,Nott'm Forest,Chelsea,1,1,1,2,2,3,1,0
+2023-01-01,Premier League,2022-23,Tottenham,Aston Villa,0,2,5,3,2,8,0,0
+2023-01-02,Premier League,2022-23,Brentford,Liverpool,3,1,4,9,4,13,1,1
+2023-01-03,Premier League,2022-23,Arsenal,Newcastle,0,0,5,5,0,10,0,0
+2023-01-03,Premier League,2022-23,Everton,Brighton,1,4,5,2,5,7,1,1
+2023-01-03,Premier League,2022-23,Leicester,Fulham,0,1,6,3,1,9,0,0
+2023-01-03,Premier League,2022-23,Man United,Bournemouth,3,0,6,5,3,11,0,1
+2023-01-04,Premier League,2022-23,Southampton,Nott'm Forest,0,1,6,2,1,8,0,0
+2023-01-04,Premier League,2022-23,Leeds,West Ham,2,2,8,1,4,9,1,1
+2023-01-04,Premier League,2022-23,Aston Villa,Wolves,1,1,7,8,2,15,1,0
+2023-01-04,Premier League,2022-23,Crystal Palace,Tottenham,0,4,10,4,4,14,0,1
+2023-01-05,Premier League,2022-23,Chelsea,Man City,0,1,3,2,1,5,0,0
+2023-01-12,Premier League,2022-23,Fulham,Chelsea,2,1,5,7,3,12,1,1
+2023-01-13,Premier League,2022-23,Aston Villa,Leeds,2,1,0,11,3,11,1,1
+2023-01-14,Premier League,2022-23,Man United,Man City,2,1,1,2,3,3,1,1
+2023-01-14,Premier League,2022-23,Brighton,Liverpool,3,0,7,1,3,8,0,1
+2023-01-14,Premier League,2022-23,Everton,Southampton,1,2,6,4,3,10,1,1
+2023-01-14,Premier League,2022-23,Nott'm Forest,Leicester,2,0,3,5,2,8,0,0
+2023-01-14,Premier League,2022-23,Wolves,West Ham,1,0,4,3,1,7,0,0
+2023-01-14,Premier League,2022-23,Brentford,Bournemouth,2,0,5,3,2,8,0,0
+2023-01-15,Premier League,2022-23,Chelsea,Crystal Palace,1,0,11,7,1,18,0,0
+2023-01-15,Premier League,2022-23,Newcastle,Fulham,1,0,10,5,1,15,0,0
+2023-01-15,Premier League,2022-23,Tottenham,Arsenal,0,2,4,3,2,7,0,0
+2023-01-18,Premier League,2022-23,Crystal Palace,Man United,1,1,3,3,2,6,1,0
+2023-01-19,Premier League,2022-23,Man City,Tottenham,4,2,8,3,6,11,1,1
+2023-01-21,Premier League,2022-23,West Ham,Everton,2,0,4,9,2,13,0,0
+2023-01-21,Premier League,2022-23,Crystal Palace,Newcastle,0,0,3,15,0,18,0,0
+2023-01-21,Premier League,2022-23,Southampton,Aston Villa,0,1,2,2,1,4,0,0
+2023-01-21,Premier League,2022-23,Liverpool,Chelsea,0,0,5,5,0,10,0,0
+2023-01-21,Premier League,2022-23,Bournemouth,Nott'm Forest,1,1,4,6,2,10,1,0
+2023-01-21,Premier League,2022-23,Leicester,Brighton,2,2,5,6,4,11,1,1
+2023-01-22,Premier League,2022-23,Leeds,Brentford,0,0,2,3,0,5,0,0
+2023-01-22,Premier League,2022-23,Man City,Wolves,3,0,5,7,3,12,0,1
+2023-01-22,Premier League,2022-23,Arsenal,Man United,3,2,12,4,5,16,1,1
+2023-01-23,Premier League,2022-23,Fulham,Tottenham,0,1,3,8,1,11,0,0
+2023-02-03,Premier League,2022-23,Chelsea,Fulham,0,0,6,2,0,8,0,0
+2023-02-04,Premier League,2022-23,Newcastle,West Ham,1,1,4,2,2,6,1,0
+2023-02-04,Premier League,2022-23,Wolves,Liverpool,3,0,2,7,3,9,0,1
+2023-02-04,Premier League,2022-23,Brighton,Bournemouth,1,0,7,3,1,10,0,0
+2023-02-04,Premier League,2022-23,Man United,Crystal Palace,2,1,5,5,3,10,1,1
+2023-02-04,Premier League,2022-23,Aston Villa,Leicester,2,4,11,3,6,14,1,1
+2023-02-04,Premier League,2022-23,Everton,Arsenal,1,0,7,5,1,12,0,0
+2023-02-04,Premier League,2022-23,Brentford,Southampton,3,0,4,4,3,8,0,1
+2023-02-05,Premier League,2022-23,Nott'm Forest,Leeds,1,0,0,2,1,2,0,0
+2023-02-05,Premier League,2022-23,Tottenham,Man City,1,0,4,6,1,10,0,0
+2023-02-08,Premier League,2022-23,Man United,Leeds,2,2,6,5,4,11,1,1
+2023-02-11,Premier League,2022-23,Southampton,Wolves,1,2,5,2,3,7,1,1
+2023-02-11,Premier League,2022-23,West Ham,Chelsea,1,1,5,6,2,11,1,0
+2023-02-11,Premier League,2022-23,Arsenal,Brentford,1,1,7,4,2,11,1,0
+2023-02-11,Premier League,2022-23,Crystal Palace,Brighton,1,1,1,6,2,7,1,0
+2023-02-11,Premier League,2022-23,Fulham,Nott'm Forest,2,0,5,4,2,9,0,0
+2023-02-11,Premier League,2022-23,Leicester,Tottenham,4,1,1,5,5,6,1,1
+2023-02-11,Premier League,2022-23,Bournemouth,Newcastle,1,1,4,6,2,10,1,0
+2023-02-12,Premier League,2022-23,Man City,Aston Villa,3,1,8,4,4,12,1,1
+2023-02-12,Premier League,2022-23,Leeds,Man United,0,2,7,3,2,10,0,0
+2023-02-13,Premier League,2022-23,Liverpool,Everton,2,0,3,3,2,6,0,0
+2023-02-15,Premier League,2022-23,Arsenal,Man City,1,3,1,3,4,4,1,1
+2023-02-18,Premier League,2022-23,Aston Villa,Arsenal,2,4,2,9,6,11,1,1
+2023-02-18,Premier League,2022-23,Brentford,Crystal Palace,1,1,2,6,2,8,1,0
+2023-02-18,Premier League,2022-23,Brighton,Fulham,0,1,10,2,1,12,0,0
+2023-02-18,Premier League,2022-23,Chelsea,Southampton,0,1,8,2,1,10,0,0
+2023-02-18,Premier League,2022-23,Everton,Leeds,1,0,6,4,1,10,0,0
+2023-02-18,Premier League,2022-23,Nott'm Forest,Man City,1,1,0,10,2,10,1,0
+2023-02-18,Premier League,2022-23,Wolves,Bournemouth,0,1,12,2,1,14,0,0
+2023-02-18,Premier League,2022-23,Newcastle,Liverpool,0,2,6,7,2,13,0,0
+2023-02-19,Premier League,2022-23,Tottenham,West Ham,2,0,4,7,2,11,0,0
+2023-02-19,Premier League,2022-23,Man United,Leicester,3,0,6,6,3,12,0,1
+2023-02-24,Premier League,2022-23,Fulham,Wolves,1,1,4,3,2,7,1,0
+2023-02-25,Premier League,2022-23,Everton,Aston Villa,0,2,5,1,2,6,0,0
+2023-02-25,Premier League,2022-23,Leeds,Southampton,1,0,9,2,1,11,0,0
+2023-02-25,Premier League,2022-23,Leicester,Arsenal,0,1,0,8,1,8,0,0
+2023-02-25,Premier League,2022-23,West Ham,Nott'm Forest,4,0,12,3,4,15,0,1
+2023-02-25,Premier League,2022-23,Bournemouth,Man City,1,4,4,6,5,10,1,1
+2023-02-25,Premier League,2022-23,Crystal Palace,Liverpool,0,0,5,3,0,8,0,0
+2023-02-26,Premier League,2022-23,Tottenham,Chelsea,2,0,4,4,2,8,0,0
+2023-03-01,Premier League,2022-23,Arsenal,Everton,4,0,5,1,4,6,0,1
+2023-03-01,Premier League,2022-23,Liverpool,Wolves,2,0,5,2,2,7,0,0
+2023-03-04,Premier League,2022-23,Wolves,Tottenham,1,0,4,8,1,12,0,0
+2023-03-04,Premier League,2022-23,Southampton,Leicester,1,0,3,4,1,7,0,0
+2023-03-04,Premier League,2022-23,Chelsea,Leeds,1,0,5,7,1,12,0,0
+2023-03-04,Premier League,2022-23,Man City,Newcastle,2,0,8,4,2,12,0,0
+2023-03-04,Premier League,2022-23,Aston Villa,Crystal Palace,1,0,2,4,1,6,0,0
+2023-03-04,Premier League,2022-23,Arsenal,Bournemouth,3,2,17,1,5,18,1,1
+2023-03-04,Premier League,2022-23,Brighton,West Ham,4,0,7,3,4,10,0,1
+2023-03-05,Premier League,2022-23,Nott'm Forest,Everton,2,2,3,3,4,6,1,1
+2023-03-05,Premier League,2022-23,Liverpool,Man United,7,0,4,3,7,7,0,1
+2023-03-06,Premier League,2022-23,Brentford,Fulham,3,2,2,3,5,5,1,1
+2023-03-11,Premier League,2022-23,Crystal Palace,Man City,0,1,2,6,1,8,0,0
+2023-03-11,Premier League,2022-23,Leicester,Chelsea,1,3,2,5,4,7,1,1
+2023-03-11,Premier League,2022-23,Tottenham,Nott'm Forest,3,1,2,10,4,12,1,1
+2023-03-11,Premier League,2022-23,Everton,Brentford,1,0,5,8,1,13,0,0
+2023-03-11,Premier League,2022-23,Bournemouth,Liverpool,1,0,3,8,1,11,0,0
+2023-03-11,Premier League,2022-23,Leeds,Brighton,2,2,4,7,4,11,1,1
+2023-03-12,Premier League,2022-23,Fulham,Arsenal,0,3,4,8,3,12,0,1
+2023-03-12,Premier League,2022-23,Man United,Southampton,0,0,7,8,0,15,0,0
+2023-03-12,Premier League,2022-23,West Ham,Aston Villa,1,1,13,2,2,15,1,0
+2023-03-12,Premier League,2022-23,Newcastle,Wolves,2,1,10,3,3,13,1,1
+2023-03-15,Premier League,2022-23,Brighton,Crystal Palace,1,0,1,4,1,5,0,0
+2023-03-15,Premier League,2022-23,Southampton,Brentford,0,2,3,3,2,6,0,0
+2023-03-17,Premier League,2022-23,Nott'm Forest,Newcastle,1,2,3,7,3,10,1,1
+2023-03-18,Premier League,2022-23,Chelsea,Everton,2,2,8,2,4,10,1,1
+2023-03-18,Premier League,2022-23,Southampton,Tottenham,3,3,10,3,6,13,1,1
+2023-03-18,Premier League,2022-23,Wolves,Leeds,2,4,5,4,6,9,1,1
+2023-03-18,Premier League,2022-23,Aston Villa,Bournemouth,3,0,9,6,3,15,0,1
+2023-03-18,Premier League,2022-23,Brentford,Leicester,1,1,8,4,2,12,1,0
+2023-03-19,Premier League,2022-23,Arsenal,Crystal Palace,4,1,5,4,5,9,1,1
+2023-04-01,Premier League,2022-23,Man City,Liverpool,4,1,7,1,5,8,1,1
+2023-04-01,Premier League,2022-23,Arsenal,Leeds,4,1,4,3,5,7,1,1
+2023-04-01,Premier League,2022-23,Bournemouth,Fulham,2,1,4,3,3,7,1,1
+2023-04-01,Premier League,2022-23,Brighton,Brentford,3,3,14,0,6,14,1,1
+2023-04-01,Premier League,2022-23,Crystal Palace,Leicester,2,1,10,1,3,11,1,1
+2023-04-01,Premier League,2022-23,Nott'm Forest,Wolves,1,1,4,3,2,7,1,0
+2023-04-01,Premier League,2022-23,Chelsea,Aston Villa,0,2,13,2,2,15,0,0
+2023-04-02,Premier League,2022-23,Newcastle,Man United,2,0,7,4,2,11,0,0
+2023-04-02,Premier League,2022-23,West Ham,Southampton,1,0,5,3,1,8,0,0
+2023-04-03,Premier League,2022-23,Everton,Tottenham,1,1,3,3,2,6,1,0
+2023-04-04,Premier League,2022-23,Bournemouth,Brighton,0,2,5,5,2,10,0,0
+2023-04-04,Premier League,2022-23,Leeds,Nott'm Forest,2,1,11,4,3,15,1,1
+2023-04-04,Premier League,2022-23,Leicester,Aston Villa,1,2,4,8,3,12,1,1
+2023-04-04,Premier League,2022-23,Chelsea,Liverpool,0,0,3,5,0,8,0,0
+2023-04-05,Premier League,2022-23,Man United,Brentford,1,0,12,3,1,15,0,0
+2023-04-05,Premier League,2022-23,West Ham,Newcastle,1,5,7,6,6,13,1,1
+2023-04-08,Premier League,2022-23,Tottenham,Brighton,2,1,3,7,3,10,1,1
+2023-04-08,Premier League,2022-23,Southampton,Man City,1,4,0,10,5,10,1,1
+2023-04-08,Premier League,2022-23,Wolves,Chelsea,1,0,8,8,1,16,0,0
+2023-04-08,Premier League,2022-23,Leicester,Bournemouth,0,1,6,6,1,12,0,0
+2023-04-08,Premier League,2022-23,Man United,Everton,2,0,10,4,2,14,0,0
+2023-04-08,Premier League,2022-23,Brentford,Newcastle,1,2,6,5,3,11,1,1
+2023-04-08,Premier League,2022-23,Aston Villa,Nott'm Forest,2,0,1,8,2,9,0,0
+2023-04-08,Premier League,2022-23,Fulham,West Ham,0,1,11,4,1,15,0,0
+2023-04-09,Premier League,2022-23,Leeds,Crystal Palace,1,5,2,4,6,6,1,1
+2023-04-09,Premier League,2022-23,Liverpool,Arsenal,2,2,5,4,4,9,1,1
+2023-04-15,Premier League,2022-23,Man City,Leicester,3,1,6,2,4,8,1,1
+2023-04-15,Premier League,2022-23,Tottenham,Bournemouth,2,3,8,1,5,9,1,1
+2023-04-15,Premier League,2022-23,Southampton,Crystal Palace,0,2,6,2,2,8,0,0
+2023-04-15,Premier League,2022-23,Wolves,Brentford,2,0,5,2,2,7,0,0
+2023-04-15,Premier League,2022-23,Chelsea,Brighton,1,2,2,8,3,10,1,1
+2023-04-15,Premier League,2022-23,Aston Villa,Newcastle,3,0,7,2,3,9,0,1
+2023-04-15,Premier League,2022-23,Everton,Fulham,1,3,4,8,4,12,1,1
+2023-04-16,Premier League,2022-23,West Ham,Arsenal,2,2,7,2,4,9,1,1
+2023-04-16,Premier League,2022-23,Nott'm Forest,Man United,0,2,4,9,2,13,0,0
+2023-04-17,Premier League,2022-23,Leeds,Liverpool,1,6,4,2,7,6,1,1
+2023-04-21,Premier League,2022-23,Arsenal,Southampton,3,3,7,2,6,9,1,1
+2023-04-22,Premier League,2022-23,Liverpool,Nott'm Forest,3,2,9,3,5,12,1,1
+2023-04-22,Premier League,2022-23,Fulham,Leeds,2,1,8,6,3,14,1,1
+2023-04-22,Premier League,2022-23,Brentford,Aston Villa,1,1,8,4,2,12,1,0
+2023-04-22,Premier League,2022-23,Crystal Palace,Everton,0,0,8,1,0,9,0,0
+2023-04-22,Premier League,2022-23,Leicester,Wolves,2,1,1,7,3,8,1,1
+2023-04-23,Premier League,2022-23,Newcastle,Tottenham,6,1,9,3,7,12,1,1
+2023-04-23,Premier League,2022-23,Bournemouth,West Ham,0,4,8,5,4,13,0,1
+2023-04-25,Premier League,2022-23,Wolves,Crystal Palace,2,0,6,11,2,17,0,0
+2023-04-25,Premier League,2022-23,Aston Villa,Fulham,1,0,8,2,1,10,0,0
+2023-04-25,Premier League,2022-23,Leeds,Leicester,1,1,3,6,2,9,1,0
+2023-04-26,Premier League,2022-23,Nott'm Forest,Brighton,3,1,2,7,4,9,1,1
+2023-04-26,Premier League,2022-23,Chelsea,Brentford,0,2,5,2,2,7,0,0
+2023-04-26,Premier League,2022-23,West Ham,Liverpool,1,2,3,6,3,9,1,1
+2023-04-26,Premier League,2022-23,Man City,Arsenal,4,1,1,3,5,4,1,1
+2023-04-27,Premier League,2022-23,Southampton,Bournemouth,0,1,6,4,1,10,0,0
+2023-04-27,Premier League,2022-23,Tottenham,Man United,2,2,6,8,4,14,1,1
+2023-04-27,Premier League,2022-23,Everton,Newcastle,1,4,3,14,5,17,1,1
+2023-04-29,Premier League,2022-23,Crystal Palace,West Ham,4,3,8,5,7,13,1,1
+2023-04-29,Premier League,2022-23,Brentford,Nott'm Forest,2,1,6,0,3,6,1,1
+2023-04-29,Premier League,2022-23,Brighton,Wolves,6,0,2,5,6,7,0,1
+2023-04-30,Premier League,2022-23,Bournemouth,Leeds,4,1,2,6,5,8,1,1
+2023-04-30,Premier League,2022-23,Fulham,Man City,1,2,2,5,3,7,1,1
+2023-04-30,Premier League,2022-23,Man United,Aston Villa,1,0,1,4,1,5,0,0
+2023-04-30,Premier League,2022-23,Newcastle,Southampton,3,1,11,2,4,13,1,1
+2023-04-30,Premier League,2022-23,Liverpool,Tottenham,4,3,5,2,7,7,1,1
+2023-05-01,Premier League,2022-23,Leicester,Everton,2,2,2,9,4,11,1,1
+2023-05-02,Premier League,2022-23,Arsenal,Chelsea,3,1,7,2,4,9,1,1
+2023-05-03,Premier League,2022-23,Man City,West Ham,3,0,6,3,3,9,0,1
+2023-05-03,Premier League,2022-23,Liverpool,Fulham,1,0,7,5,1,12,0,0
+2023-05-04,Premier League,2022-23,Brighton,Man United,1,0,8,6,1,14,0,0
+2023-05-06,Premier League,2022-23,Bournemouth,Chelsea,1,3,7,7,4,14,1,1
+2023-05-06,Premier League,2022-23,Man City,Leeds,2,1,10,1,3,11,1,1
+2023-05-06,Premier League,2022-23,Tottenham,Crystal Palace,1,0,8,4,1,12,0,0
+2023-05-06,Premier League,2022-23,Wolves,Aston Villa,1,0,5,6,1,11,0,0
+2023-05-06,Premier League,2022-23,Liverpool,Brentford,1,0,7,3,1,10,0,0
+2023-05-07,Premier League,2022-23,West Ham,Man United,1,0,5,6,1,11,0,0
+2023-05-07,Premier League,2022-23,Newcastle,Arsenal,0,2,9,4,2,13,0,0
+2023-05-08,Premier League,2022-23,Nott'm Forest,Southampton,4,3,2,11,7,13,1,1
+2023-05-08,Premier League,2022-23,Brighton,Everton,1,5,15,1,6,16,1,1
+2023-05-08,Premier League,2022-23,Fulham,Leicester,5,3,2,7,8,9,1,1
+2023-05-13,Premier League,2022-23,Man United,Wolves,2,0,11,7,2,18,0,0
+2023-05-13,Premier League,2022-23,Leeds,Newcastle,2,2,2,6,4,8,1,1
+2023-05-13,Premier League,2022-23,Aston Villa,Tottenham,2,1,8,3,3,11,1,1
+2023-05-13,Premier League,2022-23,Chelsea,Nott'm Forest,2,2,2,5,4,7,1,1
+2023-05-13,Premier League,2022-23,Crystal Palace,Bournemouth,2,0,11,2,2,13,0,0
+2023-05-13,Premier League,2022-23,Southampton,Fulham,0,2,1,8,2,9,0,0
+2023-05-14,Premier League,2022-23,Everton,Man City,0,3,8,6,3,14,0,1
+2023-05-14,Premier League,2022-23,Arsenal,Brighton,0,3,5,2,3,7,0,1
+2023-05-14,Premier League,2022-23,Brentford,West Ham,2,0,7,5,2,12,0,0
+2023-05-15,Premier League,2022-23,Leicester,Liverpool,0,3,4,4,3,8,0,1
+2023-05-18,Premier League,2022-23,Newcastle,Brighton,4,1,6,1,5,7,1,1
+2023-05-20,Premier League,2022-23,Tottenham,Brentford,1,3,8,2,4,10,1,1
+2023-05-20,Premier League,2022-23,Bournemouth,Man United,0,1,3,6,1,9,0,0
+2023-05-20,Premier League,2022-23,Fulham,Crystal Palace,2,2,7,4,4,11,1,1
+2023-05-20,Premier League,2022-23,Liverpool,Aston Villa,1,1,9,4,2,13,1,0
+2023-05-20,Premier League,2022-23,Wolves,Everton,1,1,1,7,2,8,1,0
+2023-05-20,Premier League,2022-23,Nott'm Forest,Arsenal,1,0,3,6,1,9,0,0
+2023-05-21,Premier League,2022-23,West Ham,Leeds,3,1,9,5,4,14,1,1
+2023-05-21,Premier League,2022-23,Brighton,Southampton,3,1,4,3,4,7,1,1
+2023-05-21,Premier League,2022-23,Man City,Chelsea,1,0,5,2,1,7,0,0
+2023-05-22,Premier League,2022-23,Newcastle,Leicester,0,0,12,1,0,13,0,0
+2023-05-24,Premier League,2022-23,Brighton,Man City,1,1,5,1,2,6,1,0
+2023-05-25,Premier League,2022-23,Man United,Chelsea,4,1,3,4,5,7,1,1
+2023-05-28,Premier League,2022-23,Leicester,West Ham,2,1,3,5,3,8,1,1
+2023-05-28,Premier League,2022-23,Leeds,Tottenham,1,4,12,3,5,15,1,1
+2023-05-28,Premier League,2022-23,Everton,Bournemouth,1,0,9,3,1,12,0,0
+2023-05-28,Premier League,2022-23,Crystal Palace,Nott'm Forest,1,1,5,4,2,9,1,0
+2023-05-28,Premier League,2022-23,Man United,Fulham,2,1,5,4,3,9,1,1
+2023-05-28,Premier League,2022-23,Brentford,Man City,1,0,3,4,1,7,0,0
+2023-05-28,Premier League,2022-23,Aston Villa,Brighton,2,1,4,3,3,7,1,1
+2023-05-28,Premier League,2022-23,Arsenal,Wolves,5,0,8,4,5,12,0,1
+2023-05-28,Premier League,2022-23,Chelsea,Newcastle,1,1,10,3,2,13,1,0
+2023-05-28,Premier League,2022-23,Southampton,Liverpool,4,4,2,9,8,11,1,1

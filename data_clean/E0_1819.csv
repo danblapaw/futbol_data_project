@@ -1,0 +1,381 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2018-08-10,Premier League,2018-19,Man United,Leicester,2,1,2,5,3,7,1,1
+2018-08-11,Premier League,2018-19,Bournemouth,Cardiff,2,0,7,4,2,11,0,0
+2018-08-11,Premier League,2018-19,Fulham,Crystal Palace,0,2,5,5,2,10,0,0
+2018-08-11,Premier League,2018-19,Huddersfield,Chelsea,0,3,2,5,3,7,0,1
+2018-08-11,Premier League,2018-19,Newcastle,Tottenham,1,2,3,5,3,8,1,1
+2018-08-11,Premier League,2018-19,Watford,Brighton,2,0,8,2,2,10,0,0
+2018-08-11,Premier League,2018-19,Wolves,Everton,2,2,3,6,4,9,1,1
+2018-08-12,Premier League,2018-19,Arsenal,Man City,0,2,2,9,2,11,0,0
+2018-08-12,Premier League,2018-19,Liverpool,West Ham,4,0,5,4,4,9,0,1
+2018-08-12,Premier League,2018-19,Southampton,Burnley,0,0,8,5,0,13,0,0
+2018-08-18,Premier League,2018-19,West Ham,Bournemouth,1,2,6,4,3,10,1,1
+2018-08-18,Premier League,2018-19,Tottenham,Fulham,3,1,5,2,4,7,1,1
+2018-08-18,Premier League,2018-19,Leicester,Wolves,2,0,1,9,2,10,0,0
+2018-08-18,Premier League,2018-19,Chelsea,Arsenal,3,2,5,1,5,6,1,1
+2018-08-18,Premier League,2018-19,Cardiff,Newcastle,0,0,5,5,0,10,0,0
+2018-08-18,Premier League,2018-19,Everton,Southampton,2,1,2,5,3,7,1,1
+2018-08-19,Premier League,2018-19,Brighton,Man United,3,2,3,5,5,8,1,1
+2018-08-19,Premier League,2018-19,Burnley,Watford,1,3,5,2,4,7,1,1
+2018-08-19,Premier League,2018-19,Man City,Huddersfield,6,1,10,3,7,13,1,1
+2018-08-20,Premier League,2018-19,Crystal Palace,Liverpool,0,2,6,7,2,13,0,0
+2018-08-25,Premier League,2018-19,Southampton,Leicester,1,2,10,3,3,13,1,1
+2018-08-25,Premier League,2018-19,Wolves,Man City,1,1,5,9,2,14,1,0
+2018-08-25,Premier League,2018-19,Liverpool,Brighton,1,0,8,5,1,13,0,0
+2018-08-25,Premier League,2018-19,Bournemouth,Everton,2,2,6,2,4,8,1,1
+2018-08-25,Premier League,2018-19,Arsenal,West Ham,3,1,10,2,4,12,1,1
+2018-08-25,Premier League,2018-19,Huddersfield,Cardiff,0,0,7,7,0,14,0,0
+2018-08-26,Premier League,2018-19,Fulham,Burnley,4,2,6,4,6,10,1,1
+2018-08-26,Premier League,2018-19,Newcastle,Chelsea,1,2,4,5,3,9,1,1
+2018-08-26,Premier League,2018-19,Watford,Crystal Palace,2,1,6,3,3,9,1,1
+2018-08-27,Premier League,2018-19,Man United,Tottenham,0,3,5,2,3,7,0,1
+2018-09-01,Premier League,2018-19,Everton,Huddersfield,1,1,4,3,2,7,1,0
+2018-09-01,Premier League,2018-19,Brighton,Fulham,2,2,7,1,4,8,1,1
+2018-09-01,Premier League,2018-19,Chelsea,Bournemouth,2,0,7,6,2,13,0,0
+2018-09-01,Premier League,2018-19,Crystal Palace,Southampton,0,2,7,4,2,11,0,0
+2018-09-01,Premier League,2018-19,Leicester,Liverpool,1,2,4,4,3,8,1,1
+2018-09-01,Premier League,2018-19,Man City,Newcastle,2,1,4,0,3,4,1,1
+2018-09-01,Premier League,2018-19,West Ham,Wolves,0,1,4,4,1,8,0,0
+2018-09-02,Premier League,2018-19,Burnley,Man United,0,2,2,5,2,7,0,0
+2018-09-02,Premier League,2018-19,Cardiff,Arsenal,2,3,3,9,5,12,1,1
+2018-09-02,Premier League,2018-19,Watford,Tottenham,2,1,3,10,3,13,1,1
+2018-09-15,Premier League,2018-19,Newcastle,Arsenal,1,2,10,4,3,14,1,1
+2018-09-15,Premier League,2018-19,Watford,Man United,1,2,6,8,3,14,1,1
+2018-09-15,Premier League,2018-19,Man City,Fulham,3,0,10,4,3,14,0,1
+2018-09-15,Premier League,2018-19,Tottenham,Liverpool,1,2,5,4,3,9,1,1
+2018-09-15,Premier League,2018-19,Chelsea,Cardiff,4,1,5,4,5,9,1,1
+2018-09-15,Premier League,2018-19,Huddersfield,Crystal Palace,0,1,5,3,1,8,0,0
+2018-09-15,Premier League,2018-19,Bournemouth,Leicester,4,2,4,6,6,10,1,1
+2018-09-16,Premier League,2018-19,Everton,West Ham,1,3,4,2,4,6,1,1
+2018-09-16,Premier League,2018-19,Wolves,Burnley,1,0,8,2,1,10,0,0
+2018-09-17,Premier League,2018-19,Southampton,Brighton,2,2,1,4,4,5,1,1
+2018-09-22,Premier League,2018-19,Man United,Wolves,1,1,5,4,2,9,1,0
+2018-09-22,Premier League,2018-19,Liverpool,Southampton,3,0,5,4,3,9,0,1
+2018-09-22,Premier League,2018-19,Leicester,Huddersfield,3,1,3,1,4,4,1,1
+2018-09-22,Premier League,2018-19,Fulham,Watford,1,1,8,8,2,16,1,0
+2018-09-22,Premier League,2018-19,Crystal Palace,Newcastle,0,0,9,5,0,14,0,0
+2018-09-22,Premier League,2018-19,Cardiff,Man City,0,5,1,9,5,10,0,1
+2018-09-22,Premier League,2018-19,Burnley,Bournemouth,4,0,3,8,4,11,0,1
+2018-09-22,Premier League,2018-19,Brighton,Tottenham,1,2,5,7,3,12,1,1
+2018-09-23,Premier League,2018-19,Arsenal,Everton,2,0,5,9,2,14,0,0
+2018-09-23,Premier League,2018-19,West Ham,Chelsea,0,0,1,8,0,9,0,0
+2018-09-29,Premier League,2018-19,West Ham,Man United,3,1,4,9,4,13,1,1
+2018-09-29,Premier League,2018-19,Newcastle,Leicester,0,2,5,9,2,14,0,0
+2018-09-29,Premier League,2018-19,Man City,Brighton,2,0,10,3,2,13,0,0
+2018-09-29,Premier League,2018-19,Wolves,Southampton,2,0,8,6,2,14,0,0
+2018-09-29,Premier League,2018-19,Everton,Fulham,3,0,12,1,3,13,0,1
+2018-09-29,Premier League,2018-19,Chelsea,Liverpool,1,1,4,4,2,8,1,0
+2018-09-29,Premier League,2018-19,Arsenal,Watford,2,0,6,6,2,12,0,0
+2018-09-29,Premier League,2018-19,Huddersfield,Tottenham,0,2,3,0,2,3,0,0
+2018-09-30,Premier League,2018-19,Cardiff,Burnley,1,2,10,2,3,12,1,1
+2018-10-01,Premier League,2018-19,Bournemouth,Crystal Palace,2,1,3,3,3,6,1,1
+2018-10-05,Premier League,2018-19,Brighton,West Ham,1,0,2,9,1,11,0,0
+2018-10-06,Premier League,2018-19,Burnley,Huddersfield,1,1,1,10,2,11,1,0
+2018-10-06,Premier League,2018-19,Crystal Palace,Wolves,0,1,6,3,1,9,0,0
+2018-10-06,Premier League,2018-19,Leicester,Everton,1,2,2,10,3,12,1,1
+2018-10-06,Premier League,2018-19,Man United,Newcastle,3,2,10,6,5,16,1,1
+2018-10-06,Premier League,2018-19,Tottenham,Cardiff,1,0,6,2,1,8,0,0
+2018-10-06,Premier League,2018-19,Watford,Bournemouth,0,4,10,7,4,17,0,1
+2018-10-07,Premier League,2018-19,Southampton,Chelsea,0,3,4,12,3,16,0,1
+2018-10-07,Premier League,2018-19,Fulham,Arsenal,1,5,4,2,6,6,1,1
+2018-10-07,Premier League,2018-19,Liverpool,Man City,0,0,2,6,0,8,0,0
+2018-10-20,Premier League,2018-19,Bournemouth,Southampton,0,0,6,4,0,10,0,0
+2018-10-20,Premier League,2018-19,Cardiff,Fulham,4,2,4,4,6,8,1,1
+2018-10-20,Premier League,2018-19,Chelsea,Man United,2,2,5,3,4,8,1,1
+2018-10-20,Premier League,2018-19,Huddersfield,Liverpool,0,1,2,4,1,6,0,0
+2018-10-20,Premier League,2018-19,Man City,Burnley,5,0,10,1,5,11,0,1
+2018-10-20,Premier League,2018-19,Newcastle,Brighton,0,1,10,2,1,12,0,0
+2018-10-20,Premier League,2018-19,West Ham,Tottenham,0,1,10,6,1,16,0,0
+2018-10-20,Premier League,2018-19,Wolves,Watford,0,2,8,2,2,10,0,0
+2018-10-21,Premier League,2018-19,Everton,Crystal Palace,2,0,10,5,2,15,0,0
+2018-10-22,Premier League,2018-19,Arsenal,Leicester,3,1,6,4,4,10,1,1
+2018-10-27,Premier League,2018-19,Watford,Huddersfield,3,0,3,3,3,6,0,1
+2018-10-27,Premier League,2018-19,Liverpool,Cardiff,4,1,8,0,5,8,1,1
+2018-10-27,Premier League,2018-19,Southampton,Newcastle,0,0,7,2,0,9,0,0
+2018-10-27,Premier League,2018-19,Fulham,Bournemouth,0,3,5,5,3,10,0,1
+2018-10-27,Premier League,2018-19,Brighton,Wolves,1,0,1,10,1,11,0,0
+2018-10-27,Premier League,2018-19,Leicester,West Ham,1,1,8,0,2,8,1,0
+2018-10-28,Premier League,2018-19,Burnley,Chelsea,0,4,4,4,4,8,0,1
+2018-10-28,Premier League,2018-19,Crystal Palace,Arsenal,2,2,6,4,4,10,1,1
+2018-10-28,Premier League,2018-19,Man United,Everton,2,1,8,4,3,12,1,1
+2018-10-29,Premier League,2018-19,Tottenham,Man City,0,1,3,6,1,9,0,0
+2018-11-03,Premier League,2018-19,Newcastle,Watford,1,0,8,9,1,17,0,0
+2018-11-03,Premier League,2018-19,Everton,Brighton,3,1,6,4,4,10,1,1
+2018-11-03,Premier League,2018-19,Wolves,Tottenham,2,3,5,1,5,6,1,1
+2018-11-03,Premier League,2018-19,Bournemouth,Man United,1,2,9,5,3,14,1,1
+2018-11-03,Premier League,2018-19,Arsenal,Liverpool,1,1,5,8,2,13,1,0
+2018-11-03,Premier League,2018-19,Cardiff,Leicester,0,1,6,12,1,18,0,0
+2018-11-03,Premier League,2018-19,West Ham,Burnley,4,2,10,4,6,14,1,1
+2018-11-04,Premier League,2018-19,Chelsea,Crystal Palace,3,1,4,2,4,6,1,1
+2018-11-04,Premier League,2018-19,Man City,Southampton,6,1,4,4,7,8,1,1
+2018-11-05,Premier League,2018-19,Huddersfield,Fulham,1,0,5,4,1,9,0,0
+2018-11-10,Premier League,2018-19,Cardiff,Brighton,2,1,4,1,3,5,1,1
+2018-11-10,Premier League,2018-19,Crystal Palace,Tottenham,0,1,10,6,1,16,0,0
+2018-11-10,Premier League,2018-19,Huddersfield,West Ham,1,1,5,6,2,11,1,0
+2018-11-10,Premier League,2018-19,Leicester,Burnley,0,0,12,1,0,13,0,0
+2018-11-10,Premier League,2018-19,Newcastle,Bournemouth,2,1,7,10,3,17,1,1
+2018-11-10,Premier League,2018-19,Southampton,Watford,1,1,7,6,2,13,1,0
+2018-11-11,Premier League,2018-19,Liverpool,Fulham,2,0,6,3,2,9,0,0
+2018-11-11,Premier League,2018-19,Man City,Man United,3,1,5,1,4,6,1,1
+2018-11-11,Premier League,2018-19,Chelsea,Everton,0,0,5,5,0,10,0,0
+2018-11-11,Premier League,2018-19,Arsenal,Wolves,1,1,11,2,2,13,1,0
+2018-11-24,Premier League,2018-19,Brighton,Leicester,1,1,6,1,2,7,1,0
+2018-11-24,Premier League,2018-19,Everton,Cardiff,1,0,7,3,1,10,0,0
+2018-11-24,Premier League,2018-19,Fulham,Southampton,3,2,2,5,5,7,1,1
+2018-11-24,Premier League,2018-19,Man United,Crystal Palace,0,0,10,3,0,13,0,0
+2018-11-24,Premier League,2018-19,Tottenham,Chelsea,3,1,4,4,4,8,1,1
+2018-11-24,Premier League,2018-19,Watford,Liverpool,0,3,5,5,3,10,0,1
+2018-11-24,Premier League,2018-19,West Ham,Man City,0,4,8,1,4,9,0,1
+2018-11-25,Premier League,2018-19,Bournemouth,Arsenal,1,2,5,8,3,13,1,1
+2018-11-25,Premier League,2018-19,Wolves,Huddersfield,0,2,3,5,2,8,0,0
+2018-11-26,Premier League,2018-19,Burnley,Newcastle,1,2,5,5,3,10,1,1
+2018-11-30,Premier League,2018-19,Cardiff,Wolves,2,1,7,6,3,13,1,1
+2018-12-01,Premier League,2018-19,Crystal Palace,Burnley,2,0,10,2,2,12,0,0
+2018-12-01,Premier League,2018-19,Huddersfield,Brighton,1,2,2,6,3,8,1,1
+2018-12-01,Premier League,2018-19,Leicester,Watford,2,0,4,8,2,12,0,0
+2018-12-01,Premier League,2018-19,Man City,Bournemouth,3,1,8,4,4,12,1,1
+2018-12-01,Premier League,2018-19,Newcastle,West Ham,0,3,7,3,3,10,0,1
+2018-12-01,Premier League,2018-19,Southampton,Man United,2,2,3,5,4,8,1,1
+2018-12-02,Premier League,2018-19,Arsenal,Tottenham,4,2,8,5,6,13,1,1
+2018-12-02,Premier League,2018-19,Chelsea,Fulham,2,0,4,6,2,10,0,0
+2018-12-02,Premier League,2018-19,Liverpool,Everton,1,0,8,1,1,9,0,0
+2018-12-04,Premier League,2018-19,West Ham,Cardiff,3,1,10,4,4,14,1,1
+2018-12-04,Premier League,2018-19,Watford,Man City,1,2,3,11,3,14,1,1
+2018-12-04,Premier League,2018-19,Bournemouth,Huddersfield,2,1,4,8,3,12,1,1
+2018-12-04,Premier League,2018-19,Brighton,Crystal Palace,3,1,4,5,4,9,1,1
+2018-12-05,Premier League,2018-19,Burnley,Liverpool,1,3,5,9,4,14,1,1
+2018-12-05,Premier League,2018-19,Everton,Newcastle,1,1,14,2,2,16,1,0
+2018-12-05,Premier League,2018-19,Fulham,Leicester,1,1,10,8,2,18,1,0
+2018-12-05,Premier League,2018-19,Man United,Arsenal,2,2,4,4,4,8,1,1
+2018-12-05,Premier League,2018-19,Tottenham,Southampton,3,1,8,6,4,14,1,1
+2018-12-05,Premier League,2018-19,Wolves,Chelsea,2,1,1,5,3,6,1,1
+2018-12-08,Premier League,2018-19,Burnley,Brighton,1,0,2,7,1,9,0,0
+2018-12-08,Premier League,2018-19,West Ham,Crystal Palace,3,2,5,3,5,8,1,1
+2018-12-08,Premier League,2018-19,Man United,Fulham,4,1,10,3,5,13,1,1
+2018-12-08,Premier League,2018-19,Leicester,Tottenham,0,2,6,5,2,11,0,0
+2018-12-08,Premier League,2018-19,Bournemouth,Liverpool,0,4,6,6,4,12,0,1
+2018-12-08,Premier League,2018-19,Cardiff,Southampton,1,0,7,7,1,14,0,0
+2018-12-08,Premier League,2018-19,Arsenal,Huddersfield,1,0,7,1,1,8,0,0
+2018-12-08,Premier League,2018-19,Chelsea,Man City,2,0,1,13,2,14,0,0
+2018-12-09,Premier League,2018-19,Newcastle,Wolves,1,2,4,6,3,10,1,1
+2018-12-10,Premier League,2018-19,Everton,Watford,2,2,6,6,4,12,1,1
+2018-12-15,Premier League,2018-19,Watford,Cardiff,3,2,5,0,5,5,1,1
+2018-12-15,Premier League,2018-19,Wolves,Bournemouth,2,0,5,3,2,8,0,0
+2018-12-15,Premier League,2018-19,Tottenham,Burnley,1,0,8,3,1,11,0,0
+2018-12-15,Premier League,2018-19,Huddersfield,Newcastle,0,1,10,1,1,11,0,0
+2018-12-15,Premier League,2018-19,Fulham,West Ham,0,2,6,4,2,10,0,0
+2018-12-15,Premier League,2018-19,Crystal Palace,Leicester,1,0,4,4,1,8,0,0
+2018-12-15,Premier League,2018-19,Man City,Everton,3,1,6,2,4,8,1,1
+2018-12-16,Premier League,2018-19,Brighton,Chelsea,1,2,4,1,3,5,1,1
+2018-12-16,Premier League,2018-19,Liverpool,Man United,3,1,13,2,4,15,1,1
+2018-12-16,Premier League,2018-19,Southampton,Arsenal,3,2,4,5,5,9,1,1
+2018-12-21,Premier League,2018-19,Wolves,Liverpool,0,2,1,10,2,11,0,0
+2018-12-22,Premier League,2018-19,Cardiff,Man United,1,5,4,7,6,11,1,1
+2018-12-22,Premier League,2018-19,Arsenal,Burnley,3,1,1,3,4,4,1,1
+2018-12-22,Premier League,2018-19,Bournemouth,Brighton,2,0,6,5,2,11,0,0
+2018-12-22,Premier League,2018-19,Chelsea,Leicester,0,1,9,5,1,14,0,0
+2018-12-22,Premier League,2018-19,Huddersfield,Southampton,1,3,8,2,4,10,1,1
+2018-12-22,Premier League,2018-19,Man City,Crystal Palace,2,3,13,0,5,13,1,1
+2018-12-22,Premier League,2018-19,Newcastle,Fulham,0,0,6,0,0,6,0,0
+2018-12-22,Premier League,2018-19,West Ham,Watford,0,2,10,4,2,14,0,0
+2018-12-23,Premier League,2018-19,Everton,Tottenham,2,6,2,1,8,3,1,1
+2018-12-26,Premier League,2018-19,Liverpool,Newcastle,4,0,10,2,4,12,0,1
+2018-12-26,Premier League,2018-19,Man United,Huddersfield,3,1,5,3,4,8,1,1
+2018-12-26,Premier League,2018-19,Leicester,Man City,2,1,3,7,3,10,1,1
+2018-12-26,Premier League,2018-19,Tottenham,Bournemouth,5,0,3,4,5,7,0,1
+2018-12-26,Premier League,2018-19,Crystal Palace,Cardiff,0,0,12,1,0,13,0,0
+2018-12-26,Premier League,2018-19,Burnley,Everton,1,5,5,7,6,12,1,1
+2018-12-26,Premier League,2018-19,Brighton,Arsenal,1,1,4,9,2,13,1,0
+2018-12-26,Premier League,2018-19,Fulham,Wolves,1,1,2,0,2,2,1,0
+2018-12-26,Premier League,2018-19,Watford,Chelsea,1,2,3,4,3,7,1,1
+2018-12-27,Premier League,2018-19,Southampton,West Ham,1,2,4,5,3,9,1,1
+2018-12-29,Premier League,2018-19,Brighton,Everton,1,0,6,6,1,12,0,0
+2018-12-29,Premier League,2018-19,Fulham,Huddersfield,1,0,4,3,1,7,0,0
+2018-12-29,Premier League,2018-19,Leicester,Cardiff,0,1,10,4,1,14,0,0
+2018-12-29,Premier League,2018-19,Liverpool,Arsenal,5,1,5,3,6,8,1,1
+2018-12-29,Premier League,2018-19,Tottenham,Wolves,1,3,6,7,4,13,1,1
+2018-12-29,Premier League,2018-19,Watford,Newcastle,1,1,3,6,2,9,1,0
+2018-12-30,Premier League,2018-19,Burnley,West Ham,2,0,5,5,2,10,0,0
+2018-12-30,Premier League,2018-19,Crystal Palace,Chelsea,0,1,3,4,1,7,0,0
+2018-12-30,Premier League,2018-19,Man United,Bournemouth,4,1,4,5,5,9,1,1
+2018-12-30,Premier League,2018-19,Southampton,Man City,1,3,3,8,4,11,1,1
+2019-01-01,Premier League,2018-19,Everton,Leicester,0,1,6,5,1,11,0,0
+2019-01-01,Premier League,2018-19,Cardiff,Tottenham,0,3,5,3,3,8,0,1
+2019-01-01,Premier League,2018-19,Arsenal,Fulham,4,1,8,3,5,11,1,1
+2019-01-02,Premier League,2018-19,Bournemouth,Watford,3,3,4,2,6,6,1,1
+2019-01-02,Premier League,2018-19,Chelsea,Southampton,0,0,7,2,0,9,0,0
+2019-01-02,Premier League,2018-19,Huddersfield,Burnley,1,2,5,2,3,7,1,1
+2019-01-02,Premier League,2018-19,Newcastle,Man United,0,2,1,2,2,3,0,0
+2019-01-02,Premier League,2018-19,West Ham,Brighton,2,2,1,5,4,6,1,1
+2019-01-02,Premier League,2018-19,Wolves,Crystal Palace,0,2,3,10,2,13,0,0
+2019-01-03,Premier League,2018-19,Man City,Liverpool,2,1,2,1,3,3,1,1
+2019-01-12,Premier League,2018-19,West Ham,Arsenal,1,0,7,3,1,10,0,0
+2019-01-12,Premier League,2018-19,Leicester,Southampton,1,2,10,3,3,13,1,1
+2019-01-12,Premier League,2018-19,Crystal Palace,Watford,1,2,7,7,3,14,1,1
+2019-01-12,Premier League,2018-19,Brighton,Liverpool,0,1,2,7,1,9,0,0
+2019-01-12,Premier League,2018-19,Cardiff,Huddersfield,0,0,3,10,0,13,0,0
+2019-01-12,Premier League,2018-19,Burnley,Fulham,2,1,2,6,3,8,1,1
+2019-01-12,Premier League,2018-19,Chelsea,Newcastle,2,1,8,5,3,13,1,1
+2019-01-13,Premier League,2018-19,Everton,Bournemouth,2,0,5,9,2,14,0,0
+2019-01-13,Premier League,2018-19,Tottenham,Man United,0,1,7,4,1,11,0,0
+2019-01-14,Premier League,2018-19,Man City,Wolves,3,0,12,1,3,13,0,1
+2019-01-19,Premier League,2018-19,Wolves,Leicester,4,3,5,9,7,14,1,1
+2019-01-19,Premier League,2018-19,Watford,Burnley,0,0,1,7,0,8,0,0
+2019-01-19,Premier League,2018-19,Southampton,Everton,2,1,7,6,3,13,1,1
+2019-01-19,Premier League,2018-19,Newcastle,Cardiff,3,0,7,10,3,17,0,1
+2019-01-19,Premier League,2018-19,Liverpool,Crystal Palace,4,3,8,3,7,11,1,1
+2019-01-19,Premier League,2018-19,Bournemouth,West Ham,2,0,2,3,2,5,0,0
+2019-01-19,Premier League,2018-19,Arsenal,Chelsea,2,0,5,6,2,11,0,0
+2019-01-19,Premier League,2018-19,Man United,Brighton,2,1,6,5,3,11,1,1
+2019-01-20,Premier League,2018-19,Fulham,Tottenham,1,2,7,10,3,17,1,1
+2019-01-20,Premier League,2018-19,Huddersfield,Man City,0,3,1,4,3,5,0,1
+2019-01-29,Premier League,2018-19,Newcastle,Man City,2,1,1,8,3,9,1,1
+2019-01-29,Premier League,2018-19,Man United,Burnley,2,2,11,3,4,14,1,1
+2019-01-29,Premier League,2018-19,Wolves,West Ham,3,0,5,1,3,6,0,1
+2019-01-29,Premier League,2018-19,Fulham,Brighton,4,2,10,1,6,11,1,1
+2019-01-29,Premier League,2018-19,Arsenal,Cardiff,2,1,4,7,3,11,1,1
+2019-01-29,Premier League,2018-19,Huddersfield,Everton,0,1,3,4,1,7,0,0
+2019-01-30,Premier League,2018-19,Bournemouth,Chelsea,4,0,3,7,4,10,0,1
+2019-01-30,Premier League,2018-19,Liverpool,Leicester,1,1,7,1,2,8,1,0
+2019-01-30,Premier League,2018-19,Southampton,Crystal Palace,1,1,3,8,2,11,1,0
+2019-01-30,Premier League,2018-19,Tottenham,Watford,2,1,9,5,3,14,1,1
+2019-02-02,Premier League,2018-19,Tottenham,Newcastle,1,0,6,3,1,9,0,0
+2019-02-02,Premier League,2018-19,Everton,Wolves,1,3,3,1,4,4,1,1
+2019-02-02,Premier League,2018-19,Crystal Palace,Fulham,2,0,11,1,2,12,0,0
+2019-02-02,Premier League,2018-19,Chelsea,Huddersfield,5,0,11,2,5,13,0,1
+2019-02-02,Premier League,2018-19,Cardiff,Bournemouth,2,0,6,7,2,13,0,0
+2019-02-02,Premier League,2018-19,Burnley,Southampton,1,1,4,2,2,6,1,0
+2019-02-02,Premier League,2018-19,Brighton,Watford,0,0,7,0,0,7,0,0
+2019-02-03,Premier League,2018-19,Leicester,Man United,0,1,7,2,1,9,0,0
+2019-02-03,Premier League,2018-19,Man City,Arsenal,3,1,4,2,4,6,1,1
+2019-02-04,Premier League,2018-19,West Ham,Liverpool,1,1,2,5,2,7,1,0
+2019-02-06,Premier League,2018-19,Everton,Man City,0,2,5,6,2,11,0,0
+2019-02-09,Premier League,2018-19,Southampton,Cardiff,1,2,8,2,3,10,1,1
+2019-02-09,Premier League,2018-19,Liverpool,Bournemouth,3,0,8,5,3,13,0,1
+2019-02-09,Premier League,2018-19,Huddersfield,Arsenal,1,2,5,0,3,5,1,1
+2019-02-09,Premier League,2018-19,Watford,Everton,1,0,8,2,1,10,0,0
+2019-02-09,Premier League,2018-19,Crystal Palace,West Ham,1,1,10,4,2,14,1,0
+2019-02-09,Premier League,2018-19,Brighton,Burnley,1,3,9,3,4,12,1,1
+2019-02-09,Premier League,2018-19,Fulham,Man United,0,3,5,4,3,9,0,1
+2019-02-10,Premier League,2018-19,Man City,Chelsea,6,0,2,2,6,4,0,1
+2019-02-10,Premier League,2018-19,Tottenham,Leicester,3,1,2,9,4,11,1,1
+2019-02-11,Premier League,2018-19,Wolves,Newcastle,1,1,13,1,2,14,1,0
+2019-02-22,Premier League,2018-19,Cardiff,Watford,1,5,3,3,6,6,1,1
+2019-02-22,Premier League,2018-19,West Ham,Fulham,3,1,12,0,4,12,1,1
+2019-02-23,Premier League,2018-19,Bournemouth,Wolves,1,1,9,8,2,17,1,0
+2019-02-23,Premier League,2018-19,Burnley,Tottenham,2,1,7,6,3,13,1,1
+2019-02-23,Premier League,2018-19,Leicester,Crystal Palace,1,4,8,3,5,11,1,1
+2019-02-23,Premier League,2018-19,Newcastle,Huddersfield,2,0,12,0,2,12,0,0
+2019-02-24,Premier League,2018-19,Man United,Liverpool,0,0,3,7,0,10,0,0
+2019-02-24,Premier League,2018-19,Arsenal,Southampton,2,0,6,4,2,10,0,0
+2019-02-26,Premier League,2018-19,Cardiff,Everton,0,3,3,4,3,7,0,1
+2019-02-26,Premier League,2018-19,Huddersfield,Wolves,1,0,3,5,1,8,0,0
+2019-02-26,Premier League,2018-19,Leicester,Brighton,2,1,4,8,3,12,1,1
+2019-02-26,Premier League,2018-19,Newcastle,Burnley,2,0,4,7,2,11,0,0
+2019-02-27,Premier League,2018-19,Arsenal,Bournemouth,5,1,9,4,6,13,1,1
+2019-02-27,Premier League,2018-19,Chelsea,Tottenham,2,0,2,2,2,4,0,0
+2019-02-27,Premier League,2018-19,Crystal Palace,Man United,1,3,5,6,4,11,1,1
+2019-02-27,Premier League,2018-19,Liverpool,Watford,5,0,6,4,5,10,0,1
+2019-02-27,Premier League,2018-19,Man City,West Ham,1,0,12,2,1,14,0,0
+2019-02-27,Premier League,2018-19,Southampton,Fulham,2,0,7,4,2,11,0,0
+2019-03-02,Premier League,2018-19,Tottenham,Arsenal,1,1,3,4,2,7,1,0
+2019-03-02,Premier League,2018-19,Wolves,Cardiff,2,0,7,8,2,15,0,0
+2019-03-02,Premier League,2018-19,Man United,Southampton,3,2,9,7,5,16,1,1
+2019-03-02,Premier League,2018-19,West Ham,Newcastle,2,0,1,6,2,7,0,0
+2019-03-02,Premier League,2018-19,Brighton,Huddersfield,1,0,6,3,1,9,0,0
+2019-03-02,Premier League,2018-19,Burnley,Crystal Palace,1,3,8,5,4,13,1,1
+2019-03-02,Premier League,2018-19,Bournemouth,Man City,0,1,0,14,1,14,0,0
+2019-03-03,Premier League,2018-19,Everton,Liverpool,0,0,3,7,0,10,0,0
+2019-03-03,Premier League,2018-19,Fulham,Chelsea,1,2,5,4,3,9,1,1
+2019-03-03,Premier League,2018-19,Watford,Leicester,2,1,1,5,3,6,1,1
+2019-03-09,Premier League,2018-19,Southampton,Tottenham,2,1,1,10,3,11,1,1
+2019-03-09,Premier League,2018-19,Man City,Watford,3,1,9,1,4,10,1,1
+2019-03-09,Premier League,2018-19,Leicester,Fulham,3,1,6,5,4,11,1,1
+2019-03-09,Premier League,2018-19,Newcastle,Everton,3,2,8,2,5,10,1,1
+2019-03-09,Premier League,2018-19,Crystal Palace,Brighton,1,2,8,0,3,8,1,1
+2019-03-09,Premier League,2018-19,Cardiff,West Ham,2,0,7,5,2,12,0,0
+2019-03-09,Premier League,2018-19,Huddersfield,Bournemouth,0,2,6,5,2,11,0,0
+2019-03-10,Premier League,2018-19,Arsenal,Man United,2,0,5,2,2,7,0,0
+2019-03-10,Premier League,2018-19,Chelsea,Wolves,1,1,13,0,2,13,1,0
+2019-03-10,Premier League,2018-19,Liverpool,Burnley,4,2,7,3,6,10,1,1
+2019-03-16,Premier League,2018-19,Bournemouth,Newcastle,2,2,6,6,4,12,1,1
+2019-03-16,Premier League,2018-19,Burnley,Leicester,1,2,9,3,3,12,1,1
+2019-03-16,Premier League,2018-19,West Ham,Huddersfield,4,3,5,8,7,13,1,1
+2019-03-17,Premier League,2018-19,Everton,Chelsea,2,0,3,4,2,7,0,0
+2019-03-17,Premier League,2018-19,Fulham,Liverpool,1,2,1,10,3,11,1,1
+2019-03-30,Premier League,2018-19,Man United,Watford,2,1,3,5,3,8,1,1
+2019-03-30,Premier League,2018-19,West Ham,Everton,0,2,4,9,2,13,0,0
+2019-03-30,Premier League,2018-19,Leicester,Bournemouth,2,0,6,1,2,7,0,0
+2019-03-30,Premier League,2018-19,Burnley,Wolves,2,0,1,5,2,6,0,0
+2019-03-30,Premier League,2018-19,Crystal Palace,Huddersfield,2,0,5,5,2,10,0,0
+2019-03-30,Premier League,2018-19,Brighton,Southampton,0,1,6,5,1,11,0,0
+2019-03-30,Premier League,2018-19,Fulham,Man City,0,2,0,11,2,11,0,0
+2019-03-31,Premier League,2018-19,Cardiff,Chelsea,1,2,2,7,3,9,1,1
+2019-03-31,Premier League,2018-19,Liverpool,Tottenham,2,1,10,3,3,13,1,1
+2019-04-01,Premier League,2018-19,Arsenal,Newcastle,2,0,6,2,2,8,0,0
+2019-04-02,Premier League,2018-19,Watford,Fulham,4,1,6,4,5,10,1,1
+2019-04-02,Premier League,2018-19,Wolves,Man United,2,1,3,5,3,8,1,1
+2019-04-03,Premier League,2018-19,Tottenham,Crystal Palace,2,0,8,2,2,10,0,0
+2019-04-03,Premier League,2018-19,Man City,Cardiff,2,0,7,4,2,11,0,0
+2019-04-03,Premier League,2018-19,Chelsea,Brighton,3,0,7,1,3,8,0,1
+2019-04-05,Premier League,2018-19,Southampton,Liverpool,1,3,7,5,4,12,1,1
+2019-04-06,Premier League,2018-19,Bournemouth,Burnley,1,3,3,6,4,9,1,1
+2019-04-06,Premier League,2018-19,Huddersfield,Leicester,1,4,8,5,5,13,1,1
+2019-04-06,Premier League,2018-19,Newcastle,Crystal Palace,0,1,9,4,1,13,0,0
+2019-04-07,Premier League,2018-19,Everton,Arsenal,1,0,9,6,1,15,0,0
+2019-04-08,Premier League,2018-19,Chelsea,West Ham,2,0,7,4,2,11,0,0
+2019-04-12,Premier League,2018-19,Leicester,Newcastle,0,1,2,3,1,5,0,0
+2019-04-13,Premier League,2018-19,Southampton,Wolves,3,1,4,9,4,13,1,1
+2019-04-13,Premier League,2018-19,Man United,West Ham,2,1,3,11,3,14,1,1
+2019-04-13,Premier League,2018-19,Tottenham,Huddersfield,4,0,4,2,4,6,0,1
+2019-04-13,Premier League,2018-19,Burnley,Cardiff,2,0,8,4,2,12,0,0
+2019-04-13,Premier League,2018-19,Fulham,Everton,2,0,7,3,2,10,0,0
+2019-04-13,Premier League,2018-19,Brighton,Bournemouth,0,5,4,1,5,5,0,1
+2019-04-14,Premier League,2018-19,Crystal Palace,Man City,1,3,2,9,4,11,1,1
+2019-04-14,Premier League,2018-19,Liverpool,Chelsea,2,0,9,2,2,11,0,0
+2019-04-15,Premier League,2018-19,Watford,Arsenal,0,1,6,4,1,10,0,0
+2019-04-16,Premier League,2018-19,Brighton,Cardiff,0,2,5,4,2,9,0,0
+2019-04-20,Premier League,2018-19,Wolves,Brighton,0,0,14,1,0,15,0,0
+2019-04-20,Premier League,2018-19,Newcastle,Southampton,3,1,4,11,4,15,1,1
+2019-04-20,Premier League,2018-19,West Ham,Leicester,2,2,6,8,4,14,1,1
+2019-04-20,Premier League,2018-19,Huddersfield,Watford,1,2,2,2,3,4,1,1
+2019-04-20,Premier League,2018-19,Bournemouth,Fulham,0,1,3,7,1,10,0,0
+2019-04-20,Premier League,2018-19,Man City,Tottenham,1,0,4,4,1,8,0,0
+2019-04-21,Premier League,2018-19,Arsenal,Crystal Palace,2,3,8,3,5,11,1,1
+2019-04-21,Premier League,2018-19,Cardiff,Liverpool,0,2,5,10,2,15,0,0
+2019-04-21,Premier League,2018-19,Everton,Man United,4,0,10,2,4,12,0,1
+2019-04-22,Premier League,2018-19,Chelsea,Burnley,2,2,10,1,4,11,1,1
+2019-04-23,Premier League,2018-19,Tottenham,Brighton,1,0,6,3,1,9,0,0
+2019-04-23,Premier League,2018-19,Watford,Southampton,1,1,3,4,2,7,1,0
+2019-04-24,Premier League,2018-19,Man United,Man City,0,2,1,1,2,2,0,0
+2019-04-24,Premier League,2018-19,Wolves,Arsenal,3,1,5,5,4,10,1,1
+2019-04-26,Premier League,2018-19,Liverpool,Huddersfield,5,0,4,4,5,8,0,1
+2019-04-27,Premier League,2018-19,Tottenham,West Ham,0,1,2,7,1,9,0,0
+2019-04-27,Premier League,2018-19,Watford,Wolves,1,2,4,5,3,9,1,1
+2019-04-27,Premier League,2018-19,Southampton,Bournemouth,3,3,9,3,6,12,1,1
+2019-04-27,Premier League,2018-19,Crystal Palace,Everton,0,0,5,10,0,15,0,0
+2019-04-27,Premier League,2018-19,Brighton,Newcastle,1,1,7,4,2,11,1,0
+2019-04-27,Premier League,2018-19,Fulham,Cardiff,1,0,10,3,1,13,0,0
+2019-04-28,Premier League,2018-19,Burnley,Man City,0,1,0,6,1,6,0,0
+2019-04-28,Premier League,2018-19,Leicester,Arsenal,3,0,8,6,3,14,0,1
+2019-04-28,Premier League,2018-19,Man United,Chelsea,1,1,6,6,2,12,1,0
+2019-05-03,Premier League,2018-19,Everton,Burnley,2,0,8,1,2,9,0,0
+2019-05-04,Premier League,2018-19,Bournemouth,Tottenham,1,0,10,6,1,16,0,0
+2019-05-04,Premier League,2018-19,Cardiff,Crystal Palace,2,3,10,5,5,15,1,1
+2019-05-04,Premier League,2018-19,Newcastle,Liverpool,2,3,2,3,5,5,1,1
+2019-05-04,Premier League,2018-19,West Ham,Southampton,3,0,2,7,3,9,0,1
+2019-05-04,Premier League,2018-19,Wolves,Fulham,1,0,7,1,1,8,0,0
+2019-05-05,Premier League,2018-19,Huddersfield,Man United,1,1,3,7,2,10,1,0
+2019-05-05,Premier League,2018-19,Arsenal,Brighton,1,1,16,3,2,19,1,0
+2019-05-05,Premier League,2018-19,Chelsea,Watford,3,0,6,6,3,12,0,1
+2019-05-06,Premier League,2018-19,Man City,Leicester,1,0,11,0,1,11,0,0
+2019-05-12,Premier League,2018-19,Tottenham,Everton,2,2,7,4,4,11,1,1
+2019-05-12,Premier League,2018-19,Brighton,Man City,1,4,2,6,5,8,1,1
+2019-05-12,Premier League,2018-19,Burnley,Arsenal,1,3,4,5,4,9,1,1
+2019-05-12,Premier League,2018-19,Crystal Palace,Bournemouth,5,3,4,4,8,8,1,1
+2019-05-12,Premier League,2018-19,Fulham,Newcastle,0,4,5,5,4,10,0,1
+2019-05-12,Premier League,2018-19,Leicester,Chelsea,0,0,4,5,0,9,0,0
+2019-05-12,Premier League,2018-19,Liverpool,Wolves,2,0,4,1,2,5,0,0
+2019-05-12,Premier League,2018-19,Man United,Cardiff,0,2,11,2,2,13,0,0
+2019-05-12,Premier League,2018-19,Southampton,Huddersfield,1,1,4,3,2,7,1,0
+2019-05-12,Premier League,2018-19,Watford,West Ham,1,4,7,2,5,9,1,1

@@ -1,0 +1,381 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2015-08-07,Ligue 1,2015-16,Lille,Paris SG,0,1,3,2,1,5,0,0
+2015-08-08,Ligue 1,2015-16,Bastia,Rennes,2,1,6,2,3,8,1,1
+2015-08-08,Ligue 1,2015-16,Marseille,Caen,0,1,14,2,1,16,0,0
+2015-08-08,Ligue 1,2015-16,Montpellier,Angers,0,2,5,9,2,14,0,0
+2015-08-08,Ligue 1,2015-16,Nantes,Guingamp,1,0,6,2,1,8,0,0
+2015-08-08,Ligue 1,2015-16,Nice,Monaco,1,2,2,10,3,12,1,1
+2015-08-08,Ligue 1,2015-16,Troyes,Ajaccio GFCO,0,0,9,3,0,12,0,0
+2015-08-09,Ligue 1,2015-16,Bordeaux,Reims,1,2,4,3,3,7,1,1
+2015-08-09,Ligue 1,2015-16,Lyon,Lorient,0,0,7,2,0,9,0,0
+2015-08-09,Ligue 1,2015-16,Toulouse,St Etienne,2,1,3,4,3,7,1,1
+2015-08-14,Ligue 1,2015-16,Monaco,Lille,0,0,4,6,0,10,0,0
+2015-08-15,Ligue 1,2015-16,Troyes,Nice,3,3,11,3,6,14,1,1
+2015-08-15,Ligue 1,2015-16,St Etienne,Bordeaux,1,1,1,8,2,9,1,0
+2015-08-15,Ligue 1,2015-16,Rennes,Montpellier,1,0,3,4,1,7,0,0
+2015-08-15,Ligue 1,2015-16,Angers,Nantes,0,0,4,2,0,6,0,0
+2015-08-15,Ligue 1,2015-16,Caen,Toulouse,1,0,3,3,1,6,0,0
+2015-08-15,Ligue 1,2015-16,Guingamp,Lyon,0,1,9,2,1,11,0,0
+2015-08-16,Ligue 1,2015-16,Lorient,Bastia,1,1,4,2,2,6,1,0
+2015-08-16,Ligue 1,2015-16,Paris SG,Ajaccio GFCO,2,0,4,1,2,5,0,0
+2015-08-16,Ligue 1,2015-16,Reims,Marseille,1,0,8,7,1,15,0,0
+2015-08-21,Ligue 1,2015-16,Montpellier,Paris SG,0,1,2,1,1,3,0,0
+2015-08-22,Ligue 1,2015-16,Nice,Caen,2,1,2,3,3,5,1,1
+2015-08-22,Ligue 1,2015-16,Toulouse,Monaco,1,1,4,5,2,9,1,0
+2015-08-22,Ligue 1,2015-16,Nantes,Reims,1,0,1,2,1,3,0,0
+2015-08-22,Ligue 1,2015-16,Ajaccio GFCO,Angers,0,2,9,3,2,12,0,0
+2015-08-22,Ligue 1,2015-16,Bastia,Guingamp,3,0,3,5,3,8,0,1
+2015-08-22,Ligue 1,2015-16,Lyon,Rennes,1,2,6,1,3,7,1,1
+2015-08-23,Ligue 1,2015-16,Lille,Bordeaux,0,0,12,10,0,22,0,0
+2015-08-23,Ligue 1,2015-16,Lorient,St Etienne,0,1,3,4,1,7,0,0
+2015-08-23,Ligue 1,2015-16,Marseille,Troyes,6,0,6,5,6,11,0,1
+2015-08-28,Ligue 1,2015-16,Guingamp,Marseille,2,0,4,8,2,12,0,0
+2015-08-29,Ligue 1,2015-16,Troyes,Montpellier,0,0,4,5,0,9,0,0
+2015-08-29,Ligue 1,2015-16,Rennes,Toulouse,3,1,7,3,4,10,1,1
+2015-08-29,Ligue 1,2015-16,Reims,Lorient,4,1,5,5,5,10,1,1
+2015-08-29,Ligue 1,2015-16,Lille,Ajaccio GFCO,1,0,7,4,1,11,0,0
+2015-08-29,Ligue 1,2015-16,Angers,Nice,1,1,3,6,2,9,1,0
+2015-08-29,Ligue 1,2015-16,Caen,Lyon,0,4,8,3,4,11,0,1
+2015-08-30,Ligue 1,2015-16,Bordeaux,Nantes,2,0,7,5,2,12,0,0
+2015-08-30,Ligue 1,2015-16,Monaco,Paris SG,0,3,3,2,3,5,0,1
+2015-08-30,Ligue 1,2015-16,St Etienne,Bastia,2,1,12,0,3,12,1,1
+2015-09-11,Ligue 1,2015-16,Paris SG,Bordeaux,2,2,11,6,4,17,1,1
+2015-09-12,Ligue 1,2015-16,Troyes,Caen,1,3,6,5,4,11,1,1
+2015-09-12,Ligue 1,2015-16,Nice,Guingamp,0,1,1,1,1,2,0,0
+2015-09-12,Ligue 1,2015-16,Toulouse,Reims,2,2,2,4,4,6,1,1
+2015-09-12,Ligue 1,2015-16,Lyon,Lille,0,0,7,1,0,8,0,0
+2015-09-12,Ligue 1,2015-16,Montpellier,St Etienne,1,2,9,5,3,14,1,1
+2015-09-12,Ligue 1,2015-16,Lorient,Angers,3,1,6,2,4,8,1,1
+2015-09-13,Ligue 1,2015-16,Ajaccio GFCO,Monaco,0,1,14,4,1,18,0,0
+2015-09-13,Ligue 1,2015-16,Marseille,Bastia,4,1,5,0,5,5,1,1
+2015-09-13,Ligue 1,2015-16,Nantes,Rennes,0,2,1,6,2,7,0,0
+2015-09-18,Ligue 1,2015-16,Rennes,Lille,1,1,8,2,2,10,1,0
+2015-09-19,Ligue 1,2015-16,Reims,Paris SG,1,1,3,9,2,12,1,0
+2015-09-19,Ligue 1,2015-16,Guingamp,Ajaccio GFCO,2,1,10,1,3,11,1,1
+2015-09-19,Ligue 1,2015-16,Caen,Montpellier,2,1,3,5,3,8,1,1
+2015-09-19,Ligue 1,2015-16,Bastia,Nice,1,3,7,3,4,10,1,1
+2015-09-19,Ligue 1,2015-16,Angers,Troyes,1,0,6,5,1,11,0,0
+2015-09-20,Ligue 1,2015-16,Bordeaux,Toulouse,1,1,6,3,2,9,1,0
+2015-09-20,Ligue 1,2015-16,Marseille,Lyon,1,1,1,5,2,6,1,0
+2015-09-20,Ligue 1,2015-16,Monaco,Lorient,2,3,3,3,5,6,1,1
+2015-09-20,Ligue 1,2015-16,St Etienne,Nantes,2,0,3,9,2,12,0,0
+2015-09-22,Ligue 1,2015-16,Angers,Reims,0,0,1,3,0,4,0,0
+2015-09-22,Ligue 1,2015-16,Paris SG,Guingamp,3,0,9,4,3,13,0,1
+2015-09-23,Ligue 1,2015-16,Toulouse,Marseille,1,1,3,5,2,8,1,0
+2015-09-23,Ligue 1,2015-16,Nice,Bordeaux,6,1,4,4,7,8,1,1
+2015-09-23,Ligue 1,2015-16,Troyes,St Etienne,0,1,7,6,1,13,0,0
+2015-09-23,Ligue 1,2015-16,Lorient,Caen,2,0,4,11,2,15,0,0
+2015-09-23,Ligue 1,2015-16,Ajaccio GFCO,Rennes,1,1,3,3,2,6,1,0
+2015-09-23,Ligue 1,2015-16,Lyon,Bastia,2,0,3,2,2,5,0,0
+2015-09-24,Ligue 1,2015-16,Montpellier,Monaco,2,3,2,7,5,9,1,1
+2015-09-25,Ligue 1,2015-16,Reims,Lille,1,0,4,6,1,10,0,0
+2015-09-26,Ligue 1,2015-16,Bastia,Toulouse,3,0,1,18,3,19,0,1
+2015-09-26,Ligue 1,2015-16,Bordeaux,Lyon,3,1,3,5,4,8,1,1
+2015-09-26,Ligue 1,2015-16,Caen,Ajaccio GFCO,2,0,8,7,2,15,0,0
+2015-09-26,Ligue 1,2015-16,Nantes,Paris SG,1,4,4,7,5,11,1,1
+2015-09-26,Ligue 1,2015-16,Rennes,Troyes,1,1,8,3,2,11,1,0
+2015-09-27,Ligue 1,2015-16,Montpellier,Lorient,2,1,9,3,3,12,1,1
+2015-09-27,Ligue 1,2015-16,St Etienne,Nice,1,4,8,2,5,10,1,1
+2015-09-27,Ligue 1,2015-16,Guingamp,Monaco,3,3,4,1,6,5,1,1
+2015-09-27,Ligue 1,2015-16,Marseille,Angers,1,2,6,4,3,10,1,1
+2015-09-29,Ligue 1,2015-16,Lille,Nantes,0,1,11,2,1,13,0,0
+2015-10-02,Ligue 1,2015-16,Lille,Montpellier,2,0,9,2,2,11,0,0
+2015-10-03,Ligue 1,2015-16,Ajaccio GFCO,Toulouse,2,2,6,7,4,13,1,1
+2015-10-03,Ligue 1,2015-16,Angers,Bastia,1,0,7,5,1,12,0,0
+2015-10-03,Ligue 1,2015-16,Lyon,Reims,1,0,5,1,1,6,0,0
+2015-10-03,Ligue 1,2015-16,Troyes,Guingamp,0,1,5,4,1,9,0,0
+2015-10-04,Ligue 1,2015-16,Caen,St Etienne,1,0,5,7,1,12,0,0
+2015-10-04,Ligue 1,2015-16,Lorient,Bordeaux,3,2,3,5,5,8,1,1
+2015-10-04,Ligue 1,2015-16,Monaco,Rennes,1,1,8,3,2,11,1,0
+2015-10-04,Ligue 1,2015-16,Paris SG,Marseille,2,1,4,6,3,10,1,1
+2015-10-16,Ligue 1,2015-16,Monaco,Lyon,1,1,3,4,2,7,1,0
+2015-10-17,Ligue 1,2015-16,Toulouse,Angers,1,2,9,1,3,10,1,1
+2015-10-17,Ligue 1,2015-16,St Etienne,Ajaccio GFCO,2,0,5,3,2,8,0,0
+2015-10-17,Ligue 1,2015-16,Reims,Caen,0,1,4,6,1,10,0,0
+2015-10-17,Ligue 1,2015-16,Nantes,Troyes,3,0,5,4,3,9,0,1
+2015-10-17,Ligue 1,2015-16,Guingamp,Lille,1,1,3,3,2,6,1,0
+2015-10-17,Ligue 1,2015-16,Bastia,Paris SG,0,2,2,3,2,5,0,0
+2015-10-18,Ligue 1,2015-16,Bordeaux,Montpellier,0,0,7,2,0,9,0,0
+2015-10-18,Ligue 1,2015-16,Marseille,Lorient,1,1,11,4,2,15,1,0
+2015-10-18,Ligue 1,2015-16,Rennes,Nice,1,4,4,3,5,7,1,1
+2015-10-23,Ligue 1,2015-16,Caen,Nantes,0,2,7,6,2,13,0,0
+2015-10-23,Ligue 1,2015-16,Lyon,Toulouse,3,0,4,5,3,9,0,1
+2015-10-24,Ligue 1,2015-16,Lorient,Rennes,1,1,3,8,2,11,1,0
+2015-10-24,Ligue 1,2015-16,Montpellier,Bastia,2,0,5,4,2,9,0,0
+2015-10-24,Ligue 1,2015-16,Ajaccio GFCO,Nice,3,1,5,3,4,8,1,1
+2015-10-24,Ligue 1,2015-16,Angers,Guingamp,0,0,7,7,0,14,0,0
+2015-10-25,Ligue 1,2015-16,Bordeaux,Troyes,1,0,5,4,1,9,0,0
+2015-10-25,Ligue 1,2015-16,Lille,Marseille,1,2,3,5,3,8,1,1
+2015-10-25,Ligue 1,2015-16,Paris SG,St Etienne,4,1,5,0,5,5,1,1
+2015-10-25,Ligue 1,2015-16,Reims,Monaco,0,1,3,5,1,8,0,0
+2015-10-30,Ligue 1,2015-16,Rennes,Paris SG,0,1,1,3,1,4,0,0
+2015-10-31,Ligue 1,2015-16,Troyes,Lyon,0,1,3,10,1,13,0,0
+2015-10-31,Ligue 1,2015-16,Ajaccio GFCO,Bordeaux,2,0,2,5,2,7,0,0
+2015-10-31,Ligue 1,2015-16,Bastia,Caen,1,0,8,2,1,10,0,0
+2015-10-31,Ligue 1,2015-16,Guingamp,Lorient,2,2,4,3,4,7,1,1
+2015-10-31,Ligue 1,2015-16,St Etienne,Reims,3,0,7,12,3,19,0,1
+2015-10-31,Ligue 1,2015-16,Toulouse,Montpellier,1,1,3,7,2,10,1,0
+2015-11-01,Ligue 1,2015-16,Nice,Lille,0,0,7,5,0,12,0,0
+2015-11-01,Ligue 1,2015-16,Monaco,Angers,1,0,2,4,1,6,0,0
+2015-11-01,Ligue 1,2015-16,Nantes,Marseille,0,1,5,2,1,7,0,0
+2015-11-04,Ligue 1,2015-16,Nice,Nantes,1,2,3,6,3,9,1,1
+2015-11-06,Ligue 1,2015-16,Angers,Rennes,0,2,5,2,2,7,0,0
+2015-11-07,Ligue 1,2015-16,Reims,Ajaccio GFCO,1,2,7,1,3,8,1,1
+2015-11-07,Ligue 1,2015-16,Caen,Guingamp,2,1,11,6,3,17,1,1
+2015-11-07,Ligue 1,2015-16,Lille,Bastia,1,1,5,5,2,10,1,0
+2015-11-07,Ligue 1,2015-16,Lorient,Troyes,4,1,10,5,5,15,1,1
+2015-11-07,Ligue 1,2015-16,Montpellier,Nantes,2,1,2,6,3,8,1,1
+2015-11-07,Ligue 1,2015-16,Paris SG,Toulouse,5,0,5,0,5,5,0,1
+2015-11-08,Ligue 1,2015-16,Bordeaux,Monaco,3,1,5,10,4,15,1,1
+2015-11-08,Ligue 1,2015-16,Lyon,St Etienne,3,0,5,3,3,8,0,1
+2015-11-08,Ligue 1,2015-16,Marseille,Nice,0,1,7,5,1,12,0,0
+2015-11-20,Ligue 1,2015-16,Nice,Lyon,3,0,3,2,3,5,0,1
+2015-11-21,Ligue 1,2015-16,Monaco,Nantes,1,0,6,3,1,9,0,0
+2015-11-21,Ligue 1,2015-16,Montpellier,Reims,3,1,3,4,4,7,1,1
+2015-11-21,Ligue 1,2015-16,Guingamp,Toulouse,2,0,3,7,2,10,0,0
+2015-11-21,Ligue 1,2015-16,Lorient,Paris SG,1,2,3,2,3,5,1,1
+2015-11-21,Ligue 1,2015-16,Troyes,Lille,1,1,6,12,2,18,1,0
+2015-11-22,Ligue 1,2015-16,Caen,Angers,0,0,4,8,0,12,0,0
+2015-11-22,Ligue 1,2015-16,Rennes,Bordeaux,2,2,5,2,4,7,1,1
+2015-11-22,Ligue 1,2015-16,Bastia,Ajaccio GFCO,1,2,2,4,3,6,1,1
+2015-11-22,Ligue 1,2015-16,St Etienne,Marseille,0,2,5,7,2,12,0,0
+2015-11-27,Ligue 1,2015-16,Lyon,Montpellier,2,4,5,2,6,7,1,1
+2015-11-28,Ligue 1,2015-16,Ajaccio GFCO,Lorient,1,1,4,3,2,7,1,0
+2015-11-28,Ligue 1,2015-16,Angers,Lille,2,0,1,4,2,5,0,0
+2015-11-28,Ligue 1,2015-16,Nantes,Bastia,0,0,7,1,0,8,0,0
+2015-11-28,Ligue 1,2015-16,Paris SG,Troyes,4,1,7,2,5,9,1,1
+2015-11-28,Ligue 1,2015-16,Reims,Rennes,2,2,3,2,4,5,1,1
+2015-11-28,Ligue 1,2015-16,Toulouse,Nice,2,0,3,3,2,6,0,0
+2015-11-29,Ligue 1,2015-16,Bordeaux,Caen,1,4,4,6,5,10,1,1
+2015-11-29,Ligue 1,2015-16,Marseille,Monaco,3,3,3,4,6,7,1,1
+2015-11-29,Ligue 1,2015-16,St Etienne,Guingamp,3,0,4,3,3,7,0,1
+2015-12-01,Ligue 1,2015-16,Lorient,Nice,0,0,7,2,0,9,0,0
+2015-12-01,Ligue 1,2015-16,Nantes,Lyon,0,0,3,1,0,4,0,0
+2015-12-01,Ligue 1,2015-16,Angers,Paris SG,0,0,3,12,0,15,0,0
+2015-12-02,Ligue 1,2015-16,Bastia,Bordeaux,1,0,7,6,1,13,0,0
+2015-12-02,Ligue 1,2015-16,Guingamp,Reims,1,2,4,0,3,4,1,1
+2015-12-02,Ligue 1,2015-16,Lille,St Etienne,1,0,6,4,1,10,0,0
+2015-12-02,Ligue 1,2015-16,Monaco,Caen,1,1,4,4,2,8,1,0
+2015-12-02,Ligue 1,2015-16,Montpellier,Ajaccio GFCO,0,2,9,0,2,9,0,0
+2015-12-02,Ligue 1,2015-16,Troyes,Toulouse,0,3,10,6,3,16,0,1
+2015-12-03,Ligue 1,2015-16,Rennes,Marseille,0,1,5,3,1,8,0,0
+2015-12-04,Ligue 1,2015-16,Nice,Paris SG,0,3,3,2,3,5,0,1
+2015-12-05,Ligue 1,2015-16,Reims,Troyes,1,1,7,2,2,9,1,0
+2015-12-05,Ligue 1,2015-16,Toulouse,Lorient,2,3,10,2,5,12,1,1
+2015-12-05,Ligue 1,2015-16,Lyon,Angers,0,2,7,1,2,8,0,0
+2015-12-05,Ligue 1,2015-16,Ajaccio GFCO,Nantes,1,1,5,2,2,7,1,0
+2015-12-05,Ligue 1,2015-16,Bastia,Monaco,1,2,2,3,3,5,1,1
+2015-12-05,Ligue 1,2015-16,Caen,Lille,1,2,14,2,3,16,1,1
+2015-12-06,Ligue 1,2015-16,Bordeaux,Guingamp,1,0,4,2,1,6,0,0
+2015-12-06,Ligue 1,2015-16,Marseille,Montpellier,2,2,6,3,4,9,1,1
+2015-12-06,Ligue 1,2015-16,St Etienne,Rennes,1,1,12,3,2,15,1,0
+2015-12-11,Ligue 1,2015-16,Rennes,Caen,1,1,12,7,2,19,1,0
+2015-12-12,Ligue 1,2015-16,Troyes,Bastia,1,1,10,5,2,15,1,0
+2015-12-12,Ligue 1,2015-16,Reims,Nice,1,1,3,2,2,5,1,0
+2015-12-12,Ligue 1,2015-16,Nantes,Toulouse,1,1,4,1,2,5,1,0
+2015-12-12,Ligue 1,2015-16,Lille,Lorient,3,0,3,6,3,9,0,1
+2015-12-12,Ligue 1,2015-16,Montpellier,Guingamp,2,1,1,5,3,6,1,1
+2015-12-13,Ligue 1,2015-16,Angers,Bordeaux,1,1,5,4,2,9,1,0
+2015-12-13,Ligue 1,2015-16,Marseille,Ajaccio GFCO,1,1,2,3,2,5,1,0
+2015-12-13,Ligue 1,2015-16,Monaco,St Etienne,1,0,10,5,1,15,0,0
+2015-12-13,Ligue 1,2015-16,Paris SG,Lyon,5,1,6,1,6,7,1,1
+2015-12-18,Ligue 1,2015-16,Nice,Montpellier,1,0,9,8,1,17,0,0
+2015-12-19,Ligue 1,2015-16,Toulouse,Lille,1,1,2,8,2,10,1,0
+2015-12-19,Ligue 1,2015-16,Lorient,Nantes,0,0,9,7,0,16,0,0
+2015-12-19,Ligue 1,2015-16,Troyes,Monaco,0,0,6,15,0,21,0,0
+2015-12-19,Ligue 1,2015-16,Caen,Paris SG,0,3,7,7,3,14,0,1
+2015-12-19,Ligue 1,2015-16,Bastia,Reims,2,0,4,5,2,9,0,0
+2015-12-19,Ligue 1,2015-16,Guingamp,Rennes,0,2,10,3,2,13,0,0
+2015-12-20,Ligue 1,2015-16,Bordeaux,Marseille,1,1,3,6,2,9,1,0
+2015-12-20,Ligue 1,2015-16,St Etienne,Angers,1,0,9,5,1,14,0,0
+2015-12-20,Ligue 1,2015-16,Ajaccio GFCO,Lyon,2,1,5,2,3,7,1,1
+2016-01-08,Ligue 1,2015-16,Paris SG,Bastia,2,0,8,0,2,8,0,0
+2016-01-09,Ligue 1,2015-16,Angers,Caen,2,0,7,8,2,15,0,0
+2016-01-09,Ligue 1,2015-16,Lyon,Troyes,4,1,4,1,5,5,1,1
+2016-01-09,Ligue 1,2015-16,Monaco,Ajaccio GFCO,2,2,6,1,4,7,1,1
+2016-01-09,Ligue 1,2015-16,Montpellier,Bordeaux,0,1,8,5,1,13,0,0
+2016-01-09,Ligue 1,2015-16,Reims,Toulouse,1,3,2,1,4,3,1,1
+2016-01-09,Ligue 1,2015-16,Rennes,Lorient,2,2,5,3,4,8,1,1
+2016-01-10,Ligue 1,2015-16,Lille,Nice,1,1,2,6,2,8,1,0
+2016-01-10,Ligue 1,2015-16,Marseille,Guingamp,0,0,8,0,0,8,0,0
+2016-01-10,Ligue 1,2015-16,Nantes,St Etienne,2,1,6,6,3,12,1,1
+2016-01-15,Ligue 1,2015-16,Nice,Angers,2,1,6,3,3,9,1,1
+2016-01-16,Ligue 1,2015-16,Troyes,Rennes,2,4,8,7,6,15,1,1
+2016-01-16,Ligue 1,2015-16,Toulouse,Paris SG,0,1,2,7,1,9,0,0
+2016-01-16,Ligue 1,2015-16,Guingamp,Nantes,2,2,7,7,4,14,1,1
+2016-01-16,Ligue 1,2015-16,Ajaccio GFCO,Reims,2,2,4,2,4,6,1,1
+2016-01-16,Ligue 1,2015-16,Bastia,Montpellier,1,0,1,5,1,6,0,0
+2016-01-16,Ligue 1,2015-16,Bordeaux,Lille,1,0,8,1,1,9,0,0
+2016-01-17,Ligue 1,2015-16,Caen,Marseille,1,3,0,4,4,4,1,1
+2016-01-17,Ligue 1,2015-16,Lorient,Monaco,0,2,3,5,2,8,0,0
+2016-01-17,Ligue 1,2015-16,St Etienne,Lyon,1,0,2,8,1,10,0,0
+2016-01-22,Ligue 1,2015-16,Rennes,Ajaccio GFCO,1,0,8,2,1,10,0,0
+2016-01-23,Ligue 1,2015-16,Nice,Lorient,2,1,4,3,3,7,1,1
+2016-01-23,Ligue 1,2015-16,Paris SG,Angers,5,1,3,1,6,4,1,1
+2016-01-23,Ligue 1,2015-16,Nantes,Bordeaux,2,2,4,3,4,7,1,1
+2016-01-23,Ligue 1,2015-16,Lille,Troyes,1,3,9,3,4,12,1,1
+2016-01-23,Ligue 1,2015-16,Guingamp,Bastia,1,0,5,0,1,5,0,0
+2016-01-23,Ligue 1,2015-16,Montpellier,Caen,1,2,5,4,3,9,1,1
+2016-01-24,Ligue 1,2015-16,Lyon,Marseille,1,1,8,2,2,10,1,0
+2016-01-24,Ligue 1,2015-16,Monaco,Toulouse,4,0,6,3,4,9,0,1
+2016-01-24,Ligue 1,2015-16,Reims,St Etienne,1,1,5,1,2,6,1,0
+2016-01-29,Ligue 1,2015-16,Marseille,Lille,1,1,7,1,2,8,1,0
+2016-01-30,Ligue 1,2015-16,Toulouse,Guingamp,1,2,6,5,3,11,1,1
+2016-01-30,Ligue 1,2015-16,Troyes,Nantes,0,1,6,4,1,10,0,0
+2016-01-30,Ligue 1,2015-16,Lorient,Reims,2,0,6,6,2,12,0,0
+2016-01-30,Ligue 1,2015-16,Bastia,Lyon,1,0,1,6,1,7,0,0
+2016-01-30,Ligue 1,2015-16,Angers,Monaco,3,0,5,5,3,10,0,1
+2016-01-30,Ligue 1,2015-16,Ajaccio GFCO,Montpellier,0,4,5,4,4,9,0,1
+2016-01-31,Ligue 1,2015-16,Bordeaux,Rennes,4,0,3,5,4,8,0,1
+2016-01-31,Ligue 1,2015-16,Caen,Nice,2,0,3,15,2,18,0,0
+2016-01-31,Ligue 1,2015-16,St Etienne,Paris SG,0,2,7,6,2,13,0,0
+2016-02-02,Ligue 1,2015-16,Monaco,Bastia,2,0,4,1,2,5,0,0
+2016-02-02,Ligue 1,2015-16,Montpellier,Marseille,0,1,6,5,1,11,0,0
+2016-02-03,Ligue 1,2015-16,Paris SG,Lorient,3,1,4,8,4,12,1,1
+2016-02-03,Ligue 1,2015-16,Nice,Toulouse,1,0,7,4,1,11,0,0
+2016-02-03,Ligue 1,2015-16,Reims,Angers,2,1,8,5,3,13,1,1
+2016-02-03,Ligue 1,2015-16,Nantes,Ajaccio GFCO,3,1,4,1,4,5,1,1
+2016-02-03,Ligue 1,2015-16,Lille,Caen,1,0,9,4,1,13,0,0
+2016-02-03,Ligue 1,2015-16,Lyon,Bordeaux,3,0,3,8,3,11,0,1
+2016-02-03,Ligue 1,2015-16,Guingamp,Troyes,4,0,3,8,4,11,0,1
+2016-02-04,Ligue 1,2015-16,Rennes,St Etienne,0,1,4,8,1,12,0,0
+2016-02-06,Ligue 1,2015-16,Ajaccio GFCO,Guingamp,0,0,4,2,0,6,0,0
+2016-02-06,Ligue 1,2015-16,Angers,Lyon,0,3,2,6,3,8,0,1
+2016-02-06,Ligue 1,2015-16,Bastia,Troyes,2,0,8,6,2,14,0,0
+2016-02-06,Ligue 1,2015-16,Caen,Reims,0,2,6,2,2,8,0,0
+2016-02-06,Ligue 1,2015-16,Lorient,Montpellier,1,1,7,1,2,8,1,0
+2016-02-06,Ligue 1,2015-16,Monaco,Nice,1,0,5,7,1,12,0,0
+2016-02-06,Ligue 1,2015-16,Toulouse,Nantes,0,0,5,7,0,12,0,0
+2016-02-07,Ligue 1,2015-16,Marseille,Paris SG,1,2,6,2,3,8,1,1
+2016-02-07,Ligue 1,2015-16,Bordeaux,St Etienne,1,4,3,4,5,7,1,1
+2016-02-07,Ligue 1,2015-16,Lille,Rennes,1,1,4,4,2,8,1,0
+2016-02-12,Ligue 1,2015-16,Rennes,Angers,1,0,7,3,1,10,0,0
+2016-02-13,Ligue 1,2015-16,Ajaccio GFCO,Troyes,2,3,11,1,5,12,1,1
+2016-02-13,Ligue 1,2015-16,Guingamp,Bordeaux,2,4,5,4,6,9,1,1
+2016-02-13,Ligue 1,2015-16,Montpellier,Toulouse,2,0,4,4,2,8,0,0
+2016-02-13,Ligue 1,2015-16,Nantes,Lorient,2,1,5,5,3,10,1,1
+2016-02-13,Ligue 1,2015-16,Paris SG,Lille,0,0,3,2,0,5,0,0
+2016-02-13,Ligue 1,2015-16,Reims,Bastia,0,1,3,5,1,8,0,0
+2016-02-14,Ligue 1,2015-16,St Etienne,Monaco,1,1,12,6,2,18,1,0
+2016-02-14,Ligue 1,2015-16,Lyon,Caen,4,1,5,7,5,12,1,1
+2016-02-14,Ligue 1,2015-16,Nice,Marseille,1,1,0,6,2,6,1,0
+2016-02-19,Ligue 1,2015-16,Bordeaux,Nice,0,0,7,5,0,12,0,0
+2016-02-20,Ligue 1,2015-16,Angers,Montpellier,2,3,1,6,5,7,1,1
+2016-02-20,Ligue 1,2015-16,Lorient,Guingamp,4,3,6,5,7,11,1,1
+2016-02-20,Ligue 1,2015-16,Monaco,Troyes,3,1,5,7,4,12,1,1
+2016-02-20,Ligue 1,2015-16,Paris SG,Reims,4,1,9,5,5,14,1,1
+2016-02-20,Ligue 1,2015-16,Toulouse,Ajaccio GFCO,1,1,5,3,2,8,1,0
+2016-02-21,Ligue 1,2015-16,Lille,Lyon,1,0,8,7,1,15,0,0
+2016-02-21,Ligue 1,2015-16,Caen,Rennes,1,0,8,2,1,10,0,0
+2016-02-21,Ligue 1,2015-16,Marseille,St Etienne,1,1,9,6,2,15,1,0
+2016-02-26,Ligue 1,2015-16,Nice,Bastia,0,2,5,1,2,6,0,0
+2016-02-27,Ligue 1,2015-16,Toulouse,Rennes,1,2,4,5,3,9,1,1
+2016-02-27,Ligue 1,2015-16,Reims,Bordeaux,4,1,7,1,5,8,1,1
+2016-02-27,Ligue 1,2015-16,Troyes,Lorient,0,1,5,7,1,12,0,0
+2016-02-27,Ligue 1,2015-16,Guingamp,Angers,2,2,8,0,4,8,1,1
+2016-02-27,Ligue 1,2015-16,Montpellier,Lille,3,0,3,3,3,6,0,1
+2016-02-28,Ligue 1,2015-16,Nantes,Monaco,0,0,8,3,0,11,0,0
+2016-02-28,Ligue 1,2015-16,St Etienne,Caen,1,2,4,3,3,7,1,1
+2016-02-28,Ligue 1,2015-16,Lyon,Paris SG,2,1,6,2,3,8,1,1
+2016-03-04,Ligue 1,2015-16,Caen,Monaco,2,2,4,2,4,6,1,1
+2016-03-05,Ligue 1,2015-16,Paris SG,Montpellier,0,0,5,4,0,9,0,0
+2016-03-05,Ligue 1,2015-16,Nice,Troyes,2,1,7,4,3,11,1,1
+2016-03-05,Ligue 1,2015-16,Lille,Reims,2,0,2,6,2,8,0,0
+2016-03-05,Ligue 1,2015-16,Bordeaux,Ajaccio GFCO,1,1,3,2,2,5,1,0
+2016-03-05,Ligue 1,2015-16,Bastia,Lorient,0,0,8,2,0,10,0,0
+2016-03-05,Ligue 1,2015-16,Angers,St Etienne,0,0,4,5,0,9,0,0
+2016-03-06,Ligue 1,2015-16,Lyon,Guingamp,5,1,6,3,6,9,1,1
+2016-03-06,Ligue 1,2015-16,Marseille,Toulouse,1,1,9,3,2,12,1,0
+2016-03-06,Ligue 1,2015-16,Rennes,Nantes,4,1,2,3,5,5,1,1
+2016-03-09,Ligue 1,2015-16,Ajaccio GFCO,Marseille,1,1,7,3,2,10,1,0
+2016-03-09,Ligue 1,2015-16,Bastia,Nantes,0,0,6,1,0,7,0,0
+2016-03-11,Ligue 1,2015-16,Monaco,Reims,2,2,10,7,4,17,1,1
+2016-03-12,Ligue 1,2015-16,Toulouse,Bordeaux,4,0,3,3,4,6,0,1
+2016-03-12,Ligue 1,2015-16,Montpellier,Nice,0,2,4,4,2,8,0,0
+2016-03-12,Ligue 1,2015-16,Lorient,Marseille,1,1,7,5,2,12,1,0
+2016-03-12,Ligue 1,2015-16,Bastia,Lille,1,2,5,4,3,9,1,1
+2016-03-12,Ligue 1,2015-16,Ajaccio GFCO,Caen,1,0,4,4,1,8,0,0
+2016-03-12,Ligue 1,2015-16,Guingamp,St Etienne,2,0,4,9,2,13,0,0
+2016-03-13,Ligue 1,2015-16,Nantes,Angers,2,0,6,0,2,6,0,0
+2016-03-13,Ligue 1,2015-16,Rennes,Lyon,2,2,2,8,4,10,1,1
+2016-03-13,Ligue 1,2015-16,Troyes,Paris SG,0,9,5,8,9,13,0,1
+2016-03-18,Ligue 1,2015-16,Marseille,Rennes,2,5,11,3,7,14,1,1
+2016-03-19,Ligue 1,2015-16,St Etienne,Montpellier,3,0,5,7,3,12,0,1
+2016-03-19,Ligue 1,2015-16,Lyon,Nantes,2,0,3,2,2,5,0,0
+2016-03-19,Ligue 1,2015-16,Reims,Guingamp,0,1,7,1,1,8,0,0
+2016-03-19,Ligue 1,2015-16,Caen,Troyes,2,1,7,2,3,9,1,1
+2016-03-19,Ligue 1,2015-16,Angers,Lorient,5,1,6,2,6,8,1,1
+2016-03-19,Ligue 1,2015-16,Lille,Toulouse,1,0,3,3,1,6,0,0
+2016-03-20,Ligue 1,2015-16,Bordeaux,Bastia,1,1,6,3,2,9,1,0
+2016-03-20,Ligue 1,2015-16,Nice,Ajaccio GFCO,3,0,3,5,3,8,0,1
+2016-03-20,Ligue 1,2015-16,Paris SG,Monaco,0,2,10,2,2,12,0,0
+2016-04-01,Ligue 1,2015-16,Monaco,Bordeaux,1,2,8,3,3,11,1,1
+2016-04-02,Ligue 1,2015-16,Troyes,Angers,0,1,5,4,1,9,0,0
+2016-04-02,Ligue 1,2015-16,Rennes,Reims,3,1,2,6,4,8,1,1
+2016-04-02,Ligue 1,2015-16,Toulouse,Caen,2,0,4,5,2,9,0,0
+2016-04-02,Ligue 1,2015-16,Guingamp,Montpellier,2,2,6,5,4,11,1,1
+2016-04-02,Ligue 1,2015-16,Ajaccio GFCO,St Etienne,0,2,7,6,2,13,0,0
+2016-04-02,Ligue 1,2015-16,Paris SG,Nice,4,1,7,6,5,13,1,1
+2016-04-03,Ligue 1,2015-16,Bastia,Marseille,2,1,6,2,3,8,1,1
+2016-04-03,Ligue 1,2015-16,Lorient,Lyon,1,3,6,3,4,9,1,1
+2016-04-03,Ligue 1,2015-16,Nantes,Lille,0,3,8,4,3,12,0,1
+2016-04-08,Ligue 1,2015-16,Montpellier,Lyon,0,2,4,1,2,5,0,0
+2016-04-09,Ligue 1,2015-16,Toulouse,Bastia,4,0,2,2,4,4,0,1
+2016-04-09,Ligue 1,2015-16,Angers,Ajaccio GFCO,0,0,2,6,0,8,0,0
+2016-04-09,Ligue 1,2015-16,Caen,Lorient,1,2,6,5,3,11,1,1
+2016-04-09,Ligue 1,2015-16,Guingamp,Paris SG,0,2,9,4,2,13,0,0
+2016-04-09,Ligue 1,2015-16,Reims,Nantes,2,1,5,4,3,9,1,1
+2016-04-09,Ligue 1,2015-16,St Etienne,Troyes,1,0,10,5,1,15,0,0
+2016-04-10,Ligue 1,2015-16,Nice,Rennes,3,0,2,7,3,9,0,1
+2016-04-10,Ligue 1,2015-16,Marseille,Bordeaux,0,0,9,5,0,14,0,0
+2016-04-10,Ligue 1,2015-16,Lille,Monaco,4,1,3,4,5,7,1,1
+2016-04-15,Ligue 1,2015-16,Lyon,Nice,1,1,5,3,2,8,1,0
+2016-04-16,Ligue 1,2015-16,Ajaccio GFCO,Lille,2,4,1,6,6,7,1,1
+2016-04-16,Ligue 1,2015-16,Bastia,St Etienne,0,1,3,4,1,7,0,0
+2016-04-16,Ligue 1,2015-16,Bordeaux,Angers,1,3,9,0,4,9,1,1
+2016-04-16,Ligue 1,2015-16,Lorient,Toulouse,1,1,2,2,2,4,1,0
+2016-04-16,Ligue 1,2015-16,Paris SG,Caen,6,0,4,3,6,7,0,1
+2016-04-16,Ligue 1,2015-16,Troyes,Reims,2,1,10,7,3,17,1,1
+2016-04-17,Ligue 1,2015-16,Monaco,Marseille,2,1,7,1,3,8,1,1
+2016-04-17,Ligue 1,2015-16,Nantes,Montpellier,0,2,6,7,2,13,0,0
+2016-04-17,Ligue 1,2015-16,Rennes,Guingamp,0,3,6,3,3,9,0,1
+2016-04-22,Ligue 1,2015-16,Nice,Reims,2,0,10,4,2,14,0,0
+2016-04-23,Ligue 1,2015-16,Toulouse,Lyon,2,3,5,2,5,7,1,1
+2016-04-24,Ligue 1,2015-16,Ajaccio GFCO,Bastia,3,2,2,4,5,6,1,1
+2016-04-24,Ligue 1,2015-16,Guingamp,Caen,1,1,9,0,2,9,1,0
+2016-04-24,Ligue 1,2015-16,Marseille,Nantes,1,1,4,2,2,6,1,0
+2016-04-24,Ligue 1,2015-16,Montpellier,Troyes,4,1,4,7,5,11,1,1
+2016-04-24,Ligue 1,2015-16,Rennes,Monaco,1,1,9,6,2,15,1,0
+2016-04-24,Ligue 1,2015-16,St Etienne,Lorient,2,0,4,5,2,9,0,0
+2016-04-27,Ligue 1,2015-16,Lille,Angers,0,0,9,3,0,12,0,0
+2016-04-29,Ligue 1,2015-16,Paris SG,Rennes,4,0,5,2,4,7,0,1
+2016-04-30,Ligue 1,2015-16,Troyes,Bordeaux,2,4,9,3,6,12,1,1
+2016-04-30,Ligue 1,2015-16,St Etienne,Toulouse,0,0,2,6,0,8,0,0
+2016-04-30,Ligue 1,2015-16,Reims,Montpellier,2,3,9,9,5,18,1,1
+2016-04-30,Ligue 1,2015-16,Nantes,Nice,1,0,7,6,1,13,0,0
+2016-04-30,Ligue 1,2015-16,Lorient,Lille,0,1,5,6,1,11,0,0
+2016-04-30,Ligue 1,2015-16,Lyon,Ajaccio GFCO,2,1,5,0,3,5,1,1
+2016-04-30,Ligue 1,2015-16,Caen,Bastia,0,0,4,3,0,7,0,0
+2016-04-30,Ligue 1,2015-16,Monaco,Guingamp,3,2,5,4,5,9,1,1
+2016-05-01,Ligue 1,2015-16,Angers,Marseille,0,1,2,3,1,5,0,0
+2016-05-07,Ligue 1,2015-16,Toulouse,Troyes,1,0,9,2,1,11,0,0
+2016-05-07,Ligue 1,2015-16,Nice,St Etienne,2,0,5,3,2,8,0,0
+2016-05-07,Ligue 1,2015-16,Nantes,Caen,1,2,6,1,3,7,1,1
+2016-05-07,Ligue 1,2015-16,Montpellier,Rennes,2,0,8,3,2,11,0,0
+2016-05-07,Ligue 1,2015-16,Marseille,Reims,1,0,7,4,1,11,0,0
+2016-05-07,Ligue 1,2015-16,Lille,Guingamp,0,0,11,3,0,14,0,0
+2016-05-07,Ligue 1,2015-16,Bordeaux,Lorient,3,0,7,4,3,11,0,1
+2016-05-07,Ligue 1,2015-16,Bastia,Angers,1,0,6,5,1,11,0,0
+2016-05-07,Ligue 1,2015-16,Ajaccio GFCO,Paris SG,0,4,3,3,4,6,0,1
+2016-05-07,Ligue 1,2015-16,Lyon,Monaco,6,1,7,4,7,11,1,1
+2016-05-11,Ligue 1,2015-16,Bordeaux,Paris SG,1,1,5,3,2,8,1,0
+2016-05-14,Ligue 1,2015-16,Paris SG,Nantes,4,0,10,4,4,14,0,1
+2016-05-14,Ligue 1,2015-16,Rennes,Bastia,1,2,8,2,3,10,1,1
+2016-05-14,Ligue 1,2015-16,Reims,Lyon,4,1,0,4,5,4,1,1
+2016-05-14,Ligue 1,2015-16,Monaco,Montpellier,2,0,5,7,2,12,0,0
+2016-05-14,Ligue 1,2015-16,St Etienne,Lille,0,1,7,3,1,10,0,0
+2016-05-14,Ligue 1,2015-16,Guingamp,Nice,2,3,4,2,5,6,1,1
+2016-05-14,Ligue 1,2015-16,Caen,Bordeaux,1,0,4,6,1,10,0,0
+2016-05-14,Ligue 1,2015-16,Angers,Toulouse,2,3,2,8,5,10,1,1
+2016-05-14,Ligue 1,2015-16,Lorient,Ajaccio GFCO,1,0,1,5,1,6,0,0
+2016-05-14,Ligue 1,2015-16,Troyes,Marseille,1,1,5,13,2,18,1,0
