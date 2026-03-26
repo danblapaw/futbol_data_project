@@ -1,0 +1,553 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2020-09-11,Championship,2020-21,Watford,Middlesbrough,1,0,6,6,1,12,0,0
+2020-09-12,Championship,2020-21,QPR,Nott'm Forest,2,0,4,2,2,6,0,0
+2020-09-12,Championship,2020-21,Preston,Swansea,0,1,2,3,1,5,0,0
+2020-09-12,Championship,2020-21,Millwall,Stoke,0,0,2,8,0,10,0,0
+2020-09-12,Championship,2020-21,Derby,Reading,0,2,6,2,2,8,0,0
+2020-09-12,Championship,2020-21,Cardiff,Sheffield Weds,0,2,4,6,2,10,0,0
+2020-09-12,Championship,2020-21,Huddersfield,Norwich,0,1,3,7,1,10,0,0
+2020-09-12,Championship,2020-21,Bournemouth,Blackburn,3,2,5,2,5,7,1,1
+2020-09-12,Championship,2020-21,Barnsley,Luton,0,1,5,6,1,11,0,0
+2020-09-12,Championship,2020-21,Wycombe,Rotherham,0,1,3,4,1,7,0,0
+2020-09-12,Championship,2020-21,Birmingham,Brentford,1,0,6,3,1,9,0,0
+2020-09-12,Championship,2020-21,Bristol City,Coventry,2,1,5,7,3,12,1,1
+2020-09-18,Championship,2020-21,Coventry,QPR,3,2,7,4,5,11,1,1
+2020-09-19,Championship,2020-21,Reading,Barnsley,2,0,6,5,2,11,0,0
+2020-09-19,Championship,2020-21,Swansea,Birmingham,0,0,5,8,0,13,0,0
+2020-09-19,Championship,2020-21,Sheffield Weds,Watford,0,0,2,8,0,10,0,0
+2020-09-19,Championship,2020-21,Rotherham,Millwall,0,1,8,3,1,11,0,0
+2020-09-19,Championship,2020-21,Norwich,Preston,2,2,4,9,4,13,1,1
+2020-09-19,Championship,2020-21,Middlesbrough,Bournemouth,1,1,7,7,2,14,1,0
+2020-09-19,Championship,2020-21,Luton,Derby,2,1,4,5,3,9,1,1
+2020-09-19,Championship,2020-21,Brentford,Huddersfield,3,0,6,3,3,9,0,1
+2020-09-19,Championship,2020-21,Blackburn,Wycombe,5,0,12,2,5,14,0,1
+2020-09-19,Championship,2020-21,Nott'm Forest,Cardiff,0,2,9,2,2,11,0,0
+2020-09-20,Championship,2020-21,Stoke,Bristol City,0,2,7,4,2,11,0,0
+2020-09-25,Championship,2020-21,Huddersfield,Nott'm Forest,1,0,3,4,1,7,0,0
+2020-09-26,Championship,2020-21,Watford,Luton,1,0,11,1,1,12,0,0
+2020-09-26,Championship,2020-21,Wycombe,Swansea,0,2,5,7,2,12,0,0
+2020-09-26,Championship,2020-21,Barnsley,Coventry,0,0,5,7,0,12,0,0
+2020-09-26,Championship,2020-21,Birmingham,Rotherham,1,1,5,6,2,11,1,0
+2020-09-26,Championship,2020-21,Cardiff,Reading,1,2,6,3,3,9,1,1
+2020-09-26,Championship,2020-21,Derby,Blackburn,0,4,9,4,4,13,0,1
+2020-09-26,Championship,2020-21,Millwall,Brentford,1,1,3,5,2,8,1,0
+2020-09-26,Championship,2020-21,Preston,Stoke,0,1,7,7,1,14,0,0
+2020-09-26,Championship,2020-21,QPR,Middlesbrough,1,1,7,5,2,12,1,0
+2020-09-27,Championship,2020-21,Bournemouth,Norwich,1,0,3,8,1,11,0,0
+2020-09-27,Championship,2020-21,Bristol City,Sheffield Weds,2,0,6,2,2,8,0,0
+2020-10-02,Championship,2020-21,Coventry,Bournemouth,1,3,1,6,4,7,1,1
+2020-10-03,Championship,2020-21,Swansea,Millwall,2,1,5,7,3,12,1,1
+2020-10-03,Championship,2020-21,Rotherham,Huddersfield,1,1,2,6,2,8,1,0
+2020-10-03,Championship,2020-21,Reading,Watford,1,0,1,6,1,7,0,0
+2020-10-03,Championship,2020-21,Nott'm Forest,Bristol City,1,2,11,5,3,16,1,1
+2020-10-03,Championship,2020-21,Sheffield Weds,QPR,1,1,5,7,2,12,1,0
+2020-10-03,Championship,2020-21,Luton,Wycombe,2,0,7,4,2,11,0,0
+2020-10-03,Championship,2020-21,Blackburn,Cardiff,0,0,5,6,0,11,0,0
+2020-10-03,Championship,2020-21,Norwich,Derby,0,1,7,2,1,9,0,0
+2020-10-03,Championship,2020-21,Middlesbrough,Barnsley,2,1,4,3,3,7,1,1
+2020-10-04,Championship,2020-21,Brentford,Preston,2,4,4,4,6,8,1,1
+2020-10-04,Championship,2020-21,Stoke,Birmingham,1,1,5,4,2,9,1,0
+2020-10-16,Championship,2020-21,Derby,Watford,0,1,3,3,1,6,0,0
+2020-10-17,Championship,2020-21,Middlesbrough,Reading,0,0,3,2,0,5,0,0
+2020-10-17,Championship,2020-21,Wycombe,Millwall,1,2,1,2,3,3,1,1
+2020-10-17,Championship,2020-21,Swansea,Huddersfield,1,2,15,2,3,17,1,1
+2020-10-17,Championship,2020-21,Rotherham,Norwich,1,2,7,6,3,13,1,1
+2020-10-17,Championship,2020-21,Luton,Stoke,0,2,16,3,2,19,0,0
+2020-10-17,Championship,2020-21,Bournemouth,QPR,0,0,3,6,0,9,0,0
+2020-10-17,Championship,2020-21,Blackburn,Nott'm Forest,0,1,5,3,1,8,0,0
+2020-10-17,Championship,2020-21,Birmingham,Sheffield Weds,0,1,5,4,1,9,0,0
+2020-10-17,Championship,2020-21,Barnsley,Bristol City,2,2,4,6,4,10,1,1
+2020-10-17,Championship,2020-21,Brentford,Coventry,2,0,8,6,2,14,0,0
+2020-10-18,Championship,2020-21,Preston,Cardiff,0,1,9,3,1,12,0,0
+2020-10-20,Championship,2020-21,Bristol City,Middlesbrough,0,1,1,4,1,5,0,0
+2020-10-20,Championship,2020-21,Coventry,Swansea,1,1,3,2,2,5,1,0
+2020-10-20,Championship,2020-21,Huddersfield,Derby,1,0,6,5,1,11,0,0
+2020-10-20,Championship,2020-21,Millwall,Luton,2,0,8,3,2,11,0,0
+2020-10-20,Championship,2020-21,Norwich,Birmingham,1,0,6,3,1,9,0,0
+2020-10-20,Championship,2020-21,Nott'm Forest,Rotherham,1,1,3,3,2,6,1,0
+2020-10-20,Championship,2020-21,Reading,Wycombe,1,0,2,1,1,3,0,0
+2020-10-21,Championship,2020-21,Watford,Blackburn,3,1,1,8,4,9,1,1
+2020-10-21,Championship,2020-21,Stoke,Barnsley,2,2,3,5,4,8,1,1
+2020-10-21,Championship,2020-21,QPR,Preston,0,2,2,2,2,4,0,0
+2020-10-21,Championship,2020-21,Sheffield Weds,Brentford,1,2,3,4,3,7,1,1
+2020-10-21,Championship,2020-21,Cardiff,Bournemouth,1,1,6,6,2,12,1,0
+2020-10-23,Championship,2020-21,Nott'm Forest,Derby,1,1,8,5,2,13,1,0
+2020-10-24,Championship,2020-21,Stoke,Brentford,3,2,2,3,5,5,1,1
+2020-10-24,Championship,2020-21,Sheffield Weds,Luton,0,1,4,2,1,6,0,0
+2020-10-24,Championship,2020-21,Reading,Rotherham,3,0,4,5,3,9,0,1
+2020-10-24,Championship,2020-21,QPR,Birmingham,0,0,3,3,0,6,0,0
+2020-10-24,Championship,2020-21,Norwich,Wycombe,2,1,10,6,3,16,1,1
+2020-10-24,Championship,2020-21,Millwall,Barnsley,1,1,7,6,2,13,1,0
+2020-10-24,Championship,2020-21,Huddersfield,Preston,1,2,8,6,3,14,1,1
+2020-10-24,Championship,2020-21,Coventry,Blackburn,0,4,0,5,4,5,0,1
+2020-10-24,Championship,2020-21,Cardiff,Middlesbrough,1,1,4,8,2,12,1,0
+2020-10-24,Championship,2020-21,Bristol City,Swansea,1,1,6,4,2,10,1,0
+2020-10-24,Championship,2020-21,Watford,Bournemouth,1,1,3,10,2,13,1,0
+2020-10-27,Championship,2020-21,Wycombe,Watford,1,1,5,7,2,12,1,0
+2020-10-27,Championship,2020-21,Swansea,Stoke,2,0,10,2,2,12,0,0
+2020-10-27,Championship,2020-21,Middlesbrough,Coventry,2,0,1,2,2,3,0,0
+2020-10-27,Championship,2020-21,Blackburn,Reading,2,4,3,3,6,6,1,1
+2020-10-27,Championship,2020-21,Barnsley,QPR,3,0,1,5,3,6,0,1
+2020-10-27,Championship,2020-21,Brentford,Norwich,1,1,3,3,2,6,1,0
+2020-10-28,Championship,2020-21,Preston,Millwall,0,2,2,7,2,9,0,0
+2020-10-28,Championship,2020-21,Birmingham,Huddersfield,2,1,2,4,3,6,1,1
+2020-10-28,Championship,2020-21,Bournemouth,Bristol City,1,0,5,4,1,9,0,0
+2020-10-28,Championship,2020-21,Derby,Cardiff,1,1,5,3,2,8,1,0
+2020-10-28,Championship,2020-21,Luton,Nott'm Forest,1,1,5,2,2,7,1,0
+2020-10-28,Championship,2020-21,Rotherham,Sheffield Weds,3,0,8,0,3,8,0,1
+2020-10-30,Championship,2020-21,Coventry,Reading,3,2,4,5,5,9,1,1
+2020-10-31,Championship,2020-21,QPR,Cardiff,3,2,8,4,5,12,1,1
+2020-10-31,Championship,2020-21,Wycombe,Sheffield Weds,1,0,7,9,1,16,0,0
+2020-10-31,Championship,2020-21,Swansea,Blackburn,2,0,9,5,2,14,0,0
+2020-10-31,Championship,2020-21,Stoke,Rotherham,1,0,7,2,1,9,0,0
+2020-10-31,Championship,2020-21,Preston,Birmingham,1,2,4,4,3,8,1,1
+2020-10-31,Championship,2020-21,Middlesbrough,Nott'm Forest,1,0,8,2,1,10,0,0
+2020-10-31,Championship,2020-21,Luton,Brentford,0,3,5,4,3,9,0,1
+2020-10-31,Championship,2020-21,Bournemouth,Derby,1,1,4,1,2,5,1,0
+2020-10-31,Championship,2020-21,Barnsley,Watford,1,0,2,3,1,5,0,0
+2020-10-31,Championship,2020-21,Bristol City,Norwich,1,3,5,4,4,9,1,1
+2020-10-31,Championship,2020-21,Millwall,Huddersfield,0,3,10,2,3,12,0,1
+2020-11-03,Championship,2020-21,Brentford,Swansea,1,1,2,9,2,11,1,0
+2020-11-03,Championship,2020-21,Huddersfield,Bristol City,1,2,3,4,3,7,1,1
+2020-11-03,Championship,2020-21,Norwich,Millwall,0,0,8,2,0,10,0,0
+2020-11-03,Championship,2020-21,Sheffield Weds,Bournemouth,1,0,4,7,1,11,0,0
+2020-11-03,Championship,2020-21,Blackburn,Middlesbrough,0,0,3,12,0,15,0,0
+2020-11-03,Championship,2020-21,Cardiff,Barnsley,3,0,2,3,3,5,0,1
+2020-11-04,Championship,2020-21,Nott'm Forest,Coventry,2,1,5,4,3,9,1,1
+2020-11-04,Championship,2020-21,Rotherham,Luton,0,1,5,7,1,12,0,0
+2020-11-04,Championship,2020-21,Derby,QPR,0,1,5,6,1,11,0,0
+2020-11-04,Championship,2020-21,Watford,Stoke,3,2,4,1,5,5,1,1
+2020-11-04,Championship,2020-21,Reading,Preston,0,3,4,1,3,5,0,1
+2020-11-04,Championship,2020-21,Birmingham,Wycombe,1,2,7,5,3,12,1,1
+2020-11-06,Championship,2020-21,Cardiff,Bristol City,0,1,11,2,1,13,0,0
+2020-11-07,Championship,2020-21,Sheffield Weds,Millwall,0,0,5,4,0,9,0,0
+2020-11-07,Championship,2020-21,Reading,Stoke,0,3,8,1,3,9,0,1
+2020-11-07,Championship,2020-21,Birmingham,Bournemouth,1,3,5,10,4,15,1,1
+2020-11-07,Championship,2020-21,Blackburn,QPR,3,1,12,7,4,19,1,1
+2020-11-07,Championship,2020-21,Brentford,Middlesbrough,0,0,1,4,0,5,0,0
+2020-11-07,Championship,2020-21,Derby,Barnsley,0,2,4,3,2,7,0,0
+2020-11-07,Championship,2020-21,Huddersfield,Luton,1,1,4,2,2,6,1,0
+2020-11-07,Championship,2020-21,Norwich,Swansea,1,0,4,11,1,15,0,0
+2020-11-07,Championship,2020-21,Nott'm Forest,Wycombe,2,0,6,8,2,14,0,0
+2020-11-07,Championship,2020-21,Rotherham,Preston,2,1,3,2,3,5,1,1
+2020-11-07,Championship,2020-21,Watford,Coventry,3,2,7,1,5,8,1,1
+2020-11-20,Championship,2020-21,Coventry,Birmingham,0,0,1,2,0,3,0,0
+2020-11-21,Championship,2020-21,Stoke,Huddersfield,4,3,4,2,7,6,1,1
+2020-11-21,Championship,2020-21,QPR,Watford,1,1,7,7,2,14,1,0
+2020-11-21,Championship,2020-21,Wycombe,Brentford,0,0,3,5,0,8,0,0
+2020-11-21,Championship,2020-21,Swansea,Rotherham,1,0,8,7,1,15,0,0
+2020-11-21,Championship,2020-21,Preston,Sheffield Weds,1,0,6,6,1,12,0,0
+2020-11-21,Championship,2020-21,Middlesbrough,Norwich,0,1,5,5,1,10,0,0
+2020-11-21,Championship,2020-21,Millwall,Cardiff,1,1,0,5,2,5,1,0
+2020-11-21,Championship,2020-21,Luton,Blackburn,1,1,4,6,2,10,1,0
+2020-11-21,Championship,2020-21,Bristol City,Derby,1,0,1,6,1,7,0,0
+2020-11-21,Championship,2020-21,Barnsley,Nott'm Forest,2,0,4,8,2,12,0,0
+2020-11-21,Championship,2020-21,Bournemouth,Reading,4,2,10,2,6,12,1,1
+2020-11-24,Championship,2020-21,Luton,Birmingham,1,1,8,4,2,12,1,0
+2020-11-24,Championship,2020-21,QPR,Rotherham,3,2,5,4,5,9,1,1
+2020-11-24,Championship,2020-21,Stoke,Norwich,2,3,9,5,5,14,1,1
+2020-11-24,Championship,2020-21,Wycombe,Huddersfield,0,0,6,4,0,10,0,0
+2020-11-24,Championship,2020-21,Barnsley,Brentford,0,1,2,12,1,14,0,0
+2020-11-24,Championship,2020-21,Preston,Blackburn,0,3,0,4,3,4,0,1
+2020-11-24,Championship,2020-21,Bournemouth,Nott'm Forest,2,0,5,7,2,12,0,0
+2020-11-25,Championship,2020-21,Swansea,Sheffield Weds,1,1,6,3,2,9,1,0
+2020-11-25,Championship,2020-21,Bristol City,Watford,0,0,5,8,0,13,0,0
+2020-11-25,Championship,2020-21,Coventry,Cardiff,1,0,3,5,1,8,0,0
+2020-11-25,Championship,2020-21,Middlesbrough,Derby,3,0,4,5,3,9,0,1
+2020-11-25,Championship,2020-21,Millwall,Reading,1,1,5,0,2,5,1,0
+2020-11-27,Championship,2020-21,Brentford,QPR,2,1,2,9,3,11,1,1
+2020-11-28,Championship,2020-21,Reading,Bristol City,3,1,5,1,4,6,1,1
+2020-11-28,Championship,2020-21,Birmingham,Millwall,0,0,3,6,0,9,0,0
+2020-11-28,Championship,2020-21,Blackburn,Barnsley,2,1,3,11,3,14,1,1
+2020-11-28,Championship,2020-21,Cardiff,Luton,4,0,11,0,4,11,0,1
+2020-11-28,Championship,2020-21,Derby,Wycombe,1,1,5,3,2,8,1,0
+2020-11-28,Championship,2020-21,Huddersfield,Middlesbrough,3,2,5,9,5,14,1,1
+2020-11-28,Championship,2020-21,Norwich,Coventry,1,1,1,8,2,9,1,0
+2020-11-28,Championship,2020-21,Rotherham,Bournemouth,2,2,7,4,4,11,1,1
+2020-11-28,Championship,2020-21,Sheffield Weds,Stoke,0,0,1,5,0,6,0,0
+2020-11-28,Championship,2020-21,Watford,Preston,4,1,9,3,5,12,1,1
+2020-11-29,Championship,2020-21,Nott'm Forest,Swansea,0,1,6,8,1,14,0,0
+2020-12-01,Championship,2020-21,Rotherham,Brentford,0,2,6,3,2,9,0,0
+2020-12-01,Championship,2020-21,QPR,Bristol City,1,2,9,2,3,11,1,1
+2020-12-01,Championship,2020-21,Derby,Coventry,1,1,2,2,2,4,1,0
+2020-12-01,Championship,2020-21,Birmingham,Barnsley,1,2,1,1,3,2,1,1
+2020-12-01,Championship,2020-21,Cardiff,Huddersfield,3,0,4,2,3,6,0,1
+2020-12-01,Championship,2020-21,Bournemouth,Preston,2,3,1,4,5,5,1,1
+2020-12-02,Championship,2020-21,Middlesbrough,Swansea,2,1,6,8,3,14,1,1
+2020-12-02,Championship,2020-21,Blackburn,Millwall,2,1,2,8,3,10,1,1
+2020-12-02,Championship,2020-21,Luton,Norwich,3,1,4,9,4,13,1,1
+2020-12-02,Championship,2020-21,Nott'm Forest,Watford,0,0,5,6,0,11,0,0
+2020-12-02,Championship,2020-21,Sheffield Weds,Reading,1,1,2,7,2,9,1,0
+2020-12-02,Championship,2020-21,Wycombe,Stoke,0,1,3,7,1,10,0,0
+2020-12-04,Championship,2020-21,Barnsley,Bournemouth,0,4,3,4,4,7,0,1
+2020-12-05,Championship,2020-21,Watford,Cardiff,0,1,6,5,1,11,0,0
+2020-12-05,Championship,2020-21,Swansea,Luton,2,0,2,3,2,5,0,0
+2020-12-05,Championship,2020-21,Stoke,Middlesbrough,1,0,0,2,1,2,0,0
+2020-12-05,Championship,2020-21,Preston,Wycombe,2,2,8,6,4,14,1,1
+2020-12-05,Championship,2020-21,Millwall,Derby,0,1,4,3,1,7,0,0
+2020-12-05,Championship,2020-21,Norwich,Sheffield Weds,2,1,9,4,3,13,1,1
+2020-12-05,Championship,2020-21,Coventry,Rotherham,3,1,5,6,4,11,1,1
+2020-12-05,Championship,2020-21,Bristol City,Birmingham,0,1,4,6,1,10,0,0
+2020-12-05,Championship,2020-21,Brentford,Blackburn,2,2,4,2,4,6,1,1
+2020-12-05,Championship,2020-21,Reading,Nott'm Forest,2,0,7,3,2,10,0,0
+2020-12-05,Championship,2020-21,Huddersfield,QPR,2,0,3,4,2,7,0,0
+2020-12-08,Championship,2020-21,Watford,Rotherham,2,0,2,4,2,6,0,0
+2020-12-08,Championship,2020-21,Swansea,Bournemouth,0,0,1,3,0,4,0,0
+2020-12-08,Championship,2020-21,Stoke,Cardiff,1,2,3,4,3,7,1,1
+2020-12-08,Championship,2020-21,Huddersfield,Sheffield Weds,2,0,2,8,2,10,0,0
+2020-12-08,Championship,2020-21,Coventry,Luton,0,0,4,7,0,11,0,0
+2020-12-08,Championship,2020-21,Millwall,QPR,1,1,2,2,2,4,1,0
+2020-12-09,Championship,2020-21,Preston,Middlesbrough,3,0,0,4,3,4,0,1
+2020-12-09,Championship,2020-21,Barnsley,Wycombe,2,1,7,5,3,12,1,1
+2020-12-09,Championship,2020-21,Brentford,Derby,0,0,10,2,0,12,0,0
+2020-12-09,Championship,2020-21,Bristol City,Blackburn,1,0,5,8,1,13,0,0
+2020-12-09,Championship,2020-21,Norwich,Nott'm Forest,2,1,7,7,3,14,1,1
+2020-12-09,Championship,2020-21,Reading,Birmingham,1,2,4,1,3,5,1,1
+2020-12-12,Championship,2020-21,Rotherham,Bristol City,2,0,6,3,2,9,0,0
+2020-12-12,Championship,2020-21,Blackburn,Norwich,1,2,6,3,3,9,1,1
+2020-12-12,Championship,2020-21,Wycombe,Coventry,1,2,4,4,3,8,1,1
+2020-12-12,Championship,2020-21,QPR,Reading,0,1,2,3,1,5,0,0
+2020-12-12,Championship,2020-21,Sheffield Weds,Barnsley,1,2,6,4,3,10,1,1
+2020-12-12,Championship,2020-21,Nott'm Forest,Brentford,1,3,6,6,4,12,1,1
+2020-12-12,Championship,2020-21,Birmingham,Watford,0,1,5,6,1,11,0,0
+2020-12-12,Championship,2020-21,Luton,Preston,3,0,10,4,3,14,0,1
+2020-12-12,Championship,2020-21,Derby,Stoke,0,0,8,3,0,11,0,0
+2020-12-12,Championship,2020-21,Bournemouth,Huddersfield,5,0,3,2,5,5,0,1
+2020-12-12,Championship,2020-21,Middlesbrough,Millwall,3,0,7,0,3,7,0,1
+2020-12-12,Championship,2020-21,Cardiff,Swansea,0,2,2,3,2,5,0,0
+2020-12-15,Championship,2020-21,QPR,Stoke,0,0,5,3,0,8,0,0
+2020-12-15,Championship,2020-21,Barnsley,Preston,2,1,3,2,3,5,1,1
+2020-12-15,Championship,2020-21,Bournemouth,Wycombe,1,0,8,4,1,12,0,0
+2020-12-15,Championship,2020-21,Bristol City,Millwall,0,2,0,2,2,2,0,0
+2020-12-15,Championship,2020-21,Nott'm Forest,Sheffield Weds,2,0,6,1,2,7,0,0
+2020-12-15,Championship,2020-21,Watford,Brentford,1,1,2,0,2,2,1,0
+2020-12-16,Championship,2020-21,Coventry,Huddersfield,0,0,0,3,0,3,0,0
+2020-12-16,Championship,2020-21,Blackburn,Rotherham,2,1,3,0,3,3,1,1
+2020-12-16,Championship,2020-21,Reading,Norwich,1,2,4,5,3,9,1,1
+2020-12-16,Championship,2020-21,Cardiff,Birmingham,3,2,8,1,5,9,1,1
+2020-12-16,Championship,2020-21,Derby,Swansea,2,0,2,5,2,7,0,0
+2020-12-16,Championship,2020-21,Middlesbrough,Luton,1,0,4,8,1,12,0,0
+2020-12-18,Championship,2020-21,Preston,Bristol City,1,0,9,7,1,16,0,0
+2020-12-19,Championship,2020-21,Wycombe,QPR,1,1,5,8,2,13,1,0
+2020-12-19,Championship,2020-21,Swansea,Barnsley,2,0,4,6,2,10,0,0
+2020-12-19,Championship,2020-21,Stoke,Blackburn,1,0,2,6,1,8,0,0
+2020-12-19,Championship,2020-21,Sheffield Weds,Coventry,1,0,5,3,1,8,0,0
+2020-12-19,Championship,2020-21,Millwall,Nott'm Forest,1,1,5,2,2,7,1,0
+2020-12-19,Championship,2020-21,Huddersfield,Watford,2,0,5,7,2,12,0,0
+2020-12-19,Championship,2020-21,Brentford,Reading,3,1,5,5,4,10,1,1
+2020-12-19,Championship,2020-21,Birmingham,Middlesbrough,1,4,4,2,5,6,1,1
+2020-12-19,Championship,2020-21,Norwich,Cardiff,2,0,6,7,2,13,0,0
+2020-12-19,Championship,2020-21,Luton,Bournemouth,0,0,6,7,0,13,0,0
+2020-12-26,Championship,2020-21,Nott'm Forest,Birmingham,0,0,7,3,0,10,0,0
+2020-12-26,Championship,2020-21,Reading,Luton,2,1,2,4,3,6,1,1
+2020-12-26,Championship,2020-21,QPR,Swansea,0,2,7,3,2,10,0,0
+2020-12-26,Championship,2020-21,Watford,Norwich,1,0,11,4,1,15,0,0
+2020-12-26,Championship,2020-21,Derby,Preston,0,1,2,7,1,9,0,0
+2020-12-26,Championship,2020-21,Bristol City,Wycombe,2,1,7,7,3,14,1,1
+2020-12-26,Championship,2020-21,Cardiff,Brentford,2,3,3,6,5,9,1,1
+2020-12-26,Championship,2020-21,Blackburn,Sheffield Weds,1,1,5,1,2,6,1,0
+2020-12-26,Championship,2020-21,Barnsley,Huddersfield,2,1,5,4,3,9,1,1
+2020-12-26,Championship,2020-21,Coventry,Stoke,0,0,7,6,0,13,0,0
+2020-12-29,Championship,2020-21,Birmingham,Derby,0,4,2,7,4,9,0,1
+2020-12-29,Championship,2020-21,Sheffield Weds,Middlesbrough,2,1,2,5,3,7,1,1
+2020-12-29,Championship,2020-21,Huddersfield,Blackburn,2,1,5,3,3,8,1,1
+2020-12-29,Championship,2020-21,Luton,Bristol City,2,1,6,3,3,9,1,1
+2020-12-29,Championship,2020-21,Norwich,QPR,1,1,8,7,2,15,1,0
+2020-12-29,Championship,2020-21,Preston,Coventry,2,0,3,8,2,11,0,0
+2020-12-29,Championship,2020-21,Rotherham,Barnsley,1,2,5,1,3,6,1,1
+2020-12-29,Championship,2020-21,Wycombe,Cardiff,2,1,5,7,3,12,1,1
+2020-12-29,Championship,2020-21,Stoke,Nott'm Forest,1,1,1,9,2,10,1,0
+2020-12-30,Championship,2020-21,Swansea,Reading,0,0,7,2,0,9,0,0
+2020-12-30,Championship,2020-21,Brentford,Bournemouth,2,1,7,6,3,13,1,1
+2021-01-01,Championship,2020-21,Sheffield Weds,Derby,1,0,0,7,1,7,0,0
+2021-01-02,Championship,2020-21,Birmingham,Blackburn,0,2,7,3,2,10,0,0
+2021-01-02,Championship,2020-21,Huddersfield,Reading,1,2,4,4,3,8,1,1
+2021-01-02,Championship,2020-21,Millwall,Coventry,1,2,3,9,3,12,1,1
+2021-01-02,Championship,2020-21,Norwich,Barnsley,1,0,7,2,1,9,0,0
+2021-01-02,Championship,2020-21,Preston,Nott'm Forest,0,1,6,7,1,13,0,0
+2021-01-02,Championship,2020-21,Swansea,Watford,2,1,6,8,3,14,1,1
+2021-01-02,Championship,2020-21,Wycombe,Middlesbrough,1,3,6,10,4,16,1,1
+2021-01-02,Championship,2020-21,Stoke,Bournemouth,0,1,2,3,1,5,0,0
+2021-01-12,Championship,2020-21,Luton,QPR,0,2,2,6,2,8,0,0
+2021-01-12,Championship,2020-21,Bournemouth,Millwall,1,1,7,7,2,14,1,0
+2021-01-16,Championship,2020-21,Watford,Huddersfield,2,0,4,3,2,7,0,0
+2021-01-16,Championship,2020-21,Nott'm Forest,Millwall,3,1,5,8,4,13,1,1
+2021-01-16,Championship,2020-21,Barnsley,Swansea,0,2,8,5,2,13,0,0
+2021-01-16,Championship,2020-21,Derby,Rotherham,0,1,7,2,1,9,0,0
+2021-01-16,Championship,2020-21,Cardiff,Norwich,1,2,3,7,3,10,1,1
+2021-01-16,Championship,2020-21,Bristol City,Preston,2,0,5,2,2,7,0,0
+2021-01-16,Championship,2020-21,Bournemouth,Luton,0,1,8,4,1,12,0,0
+2021-01-16,Championship,2020-21,Blackburn,Stoke,1,1,2,7,2,9,1,0
+2021-01-16,Championship,2020-21,Middlesbrough,Birmingham,0,1,6,4,1,10,0,0
+2021-01-19,Championship,2020-21,Derby,Bournemouth,1,0,3,4,1,7,0,0
+2021-01-19,Championship,2020-21,Reading,Coventry,3,0,0,5,3,5,0,1
+2021-01-19,Championship,2020-21,Rotherham,Stoke,3,3,5,7,6,12,1,1
+2021-01-19,Championship,2020-21,Watford,Barnsley,1,0,5,3,1,8,0,0
+2021-01-20,Championship,2020-21,Norwich,Bristol City,2,0,6,3,2,9,0,0
+2021-01-20,Championship,2020-21,Brentford,Luton,1,0,6,5,1,11,0,0
+2021-01-20,Championship,2020-21,Cardiff,QPR,0,1,4,6,1,10,0,0
+2021-01-20,Championship,2020-21,Huddersfield,Millwall,0,1,3,7,1,10,0,0
+2021-01-20,Championship,2020-21,Nott'm Forest,Middlesbrough,1,2,4,6,3,10,1,1
+2021-01-20,Championship,2020-21,Birmingham,Preston,0,1,5,3,1,8,0,0
+2021-01-22,Championship,2020-21,Stoke,Watford,1,2,8,4,3,12,1,1
+2021-01-23,Championship,2020-21,QPR,Derby,0,1,8,5,1,13,0,0
+2021-01-24,Championship,2020-21,Preston,Reading,0,0,4,5,0,9,0,0
+2021-01-24,Championship,2020-21,Middlesbrough,Blackburn,0,1,7,5,1,12,0,0
+2021-01-26,Championship,2020-21,Bristol City,Huddersfield,2,1,0,13,3,13,1,1
+2021-01-26,Championship,2020-21,Millwall,Watford,0,0,2,8,0,10,0,0
+2021-01-27,Championship,2020-21,Barnsley,Cardiff,2,2,1,3,4,4,1,1
+2021-01-27,Championship,2020-21,Coventry,Sheffield Weds,2,0,5,7,2,12,0,0
+2021-01-27,Championship,2020-21,Middlesbrough,Rotherham,0,3,7,3,3,10,0,1
+2021-01-27,Championship,2020-21,Swansea,Brentford,1,1,1,9,2,10,1,0
+2021-01-29,Championship,2020-21,Reading,Bournemouth,3,1,2,12,4,14,1,1
+2021-01-30,Championship,2020-21,Rotherham,Swansea,1,3,7,7,4,14,1,1
+2021-01-30,Championship,2020-21,Nott'm Forest,Barnsley,0,0,4,8,0,12,0,0
+2021-01-30,Championship,2020-21,Huddersfield,Stoke,1,1,10,3,2,13,1,0
+2021-01-30,Championship,2020-21,Derby,Bristol City,1,0,4,0,1,4,0,0
+2021-01-30,Championship,2020-21,Sheffield Weds,Preston,1,0,6,3,1,9,0,0
+2021-01-30,Championship,2020-21,Brentford,Wycombe,7,2,5,2,9,7,1,1
+2021-01-30,Championship,2020-21,Blackburn,Luton,1,0,3,3,1,6,0,0
+2021-01-30,Championship,2020-21,Birmingham,Coventry,1,1,9,0,2,9,1,0
+2021-01-30,Championship,2020-21,Norwich,Middlesbrough,0,0,3,7,0,10,0,0
+2021-01-30,Championship,2020-21,Cardiff,Millwall,1,1,5,3,2,8,1,0
+2021-02-01,Championship,2020-21,Watford,QPR,1,2,7,5,3,12,1,1
+2021-02-02,Championship,2020-21,Wycombe,Birmingham,0,0,4,7,0,11,0,0
+2021-02-02,Championship,2020-21,Coventry,Nott'm Forest,1,2,6,5,3,11,1,1
+2021-02-02,Championship,2020-21,Millwall,Norwich,0,0,4,4,0,8,0,0
+2021-02-02,Championship,2020-21,Bournemouth,Sheffield Weds,1,2,7,5,3,12,1,1
+2021-02-03,Championship,2020-21,Rotherham,Derby,3,0,5,5,3,10,0,1
+2021-02-03,Championship,2020-21,Brentford,Bristol City,3,2,5,3,5,8,1,1
+2021-02-05,Championship,2020-21,Swansea,Norwich,2,0,4,2,2,6,0,0
+2021-02-06,Championship,2020-21,Wycombe,Nott'm Forest,0,3,3,6,3,9,0,1
+2021-02-06,Championship,2020-21,Stoke,Reading,0,0,6,4,0,10,0,0
+2021-02-06,Championship,2020-21,QPR,Blackburn,1,0,5,7,1,12,0,0
+2021-02-06,Championship,2020-21,Millwall,Sheffield Weds,4,1,9,1,5,10,1,1
+2021-02-06,Championship,2020-21,Preston,Rotherham,1,2,5,3,3,8,1,1
+2021-02-06,Championship,2020-21,Luton,Huddersfield,1,1,7,6,2,13,1,0
+2021-02-06,Championship,2020-21,Bristol City,Cardiff,0,2,3,11,2,14,0,0
+2021-02-06,Championship,2020-21,Bournemouth,Birmingham,3,2,2,6,5,8,1,1
+2021-02-06,Championship,2020-21,Coventry,Watford,0,0,5,6,0,11,0,0
+2021-02-06,Championship,2020-21,Middlesbrough,Brentford,1,4,7,2,5,9,1,1
+2021-02-09,Championship,2020-21,Rotherham,Cardiff,1,2,12,7,3,19,1,1
+2021-02-09,Championship,2020-21,Sheffield Weds,Wycombe,2,0,9,2,2,11,0,0
+2021-02-10,Championship,2020-21,Reading,Brentford,1,3,9,5,4,14,1,1
+2021-02-12,Championship,2020-21,Blackburn,Preston,1,2,6,5,3,11,1,1
+2021-02-13,Championship,2020-21,Watford,Bristol City,6,0,11,2,6,13,0,1
+2021-02-13,Championship,2020-21,Reading,Millwall,1,2,4,5,3,9,1,1
+2021-02-13,Championship,2020-21,Norwich,Stoke,4,1,3,7,5,10,1,1
+2021-02-13,Championship,2020-21,Huddersfield,Wycombe,2,3,2,2,5,4,1,1
+2021-02-13,Championship,2020-21,Birmingham,Luton,0,1,4,7,1,11,0,0
+2021-02-13,Championship,2020-21,Cardiff,Coventry,3,1,1,4,4,5,1,1
+2021-02-13,Championship,2020-21,Nott'm Forest,Bournemouth,0,0,3,6,0,9,0,0
+2021-02-13,Championship,2020-21,Derby,Middlesbrough,2,1,3,1,3,4,1,1
+2021-02-14,Championship,2020-21,Brentford,Barnsley,0,2,7,5,2,12,0,0
+2021-02-16,Championship,2020-21,Wycombe,Derby,1,2,5,3,3,8,1,1
+2021-02-16,Championship,2020-21,Luton,Cardiff,0,2,9,5,2,14,0,0
+2021-02-16,Championship,2020-21,Middlesbrough,Huddersfield,2,1,9,4,3,13,1,1
+2021-02-16,Championship,2020-21,Bristol City,Reading,0,2,5,6,2,11,0,0
+2021-02-16,Championship,2020-21,Stoke,Sheffield Weds,1,0,7,4,1,11,0,0
+2021-02-16,Championship,2020-21,Preston,Watford,0,1,4,8,1,12,0,0
+2021-02-17,Championship,2020-21,Coventry,Norwich,0,2,4,5,2,9,0,0
+2021-02-17,Championship,2020-21,Millwall,Birmingham,2,0,2,5,2,7,0,0
+2021-02-17,Championship,2020-21,QPR,Brentford,2,1,5,4,3,9,1,1
+2021-02-17,Championship,2020-21,Swansea,Nott'm Forest,1,0,7,6,1,13,0,0
+2021-02-17,Championship,2020-21,Barnsley,Blackburn,2,1,7,2,3,9,1,1
+2021-02-17,Championship,2020-21,Bournemouth,Rotherham,1,0,5,4,1,9,0,0
+2021-02-19,Championship,2020-21,Watford,Derby,2,1,3,10,3,13,1,1
+2021-02-20,Championship,2020-21,Stoke,Luton,3,0,8,2,3,10,0,1
+2021-02-20,Championship,2020-21,Reading,Middlesbrough,0,2,5,4,2,9,0,0
+2021-02-20,Championship,2020-21,QPR,Bournemouth,2,1,2,3,3,5,1,1
+2021-02-20,Championship,2020-21,Nott'm Forest,Blackburn,1,0,2,2,1,4,0,0
+2021-02-20,Championship,2020-21,Norwich,Rotherham,1,0,3,5,1,8,0,0
+2021-02-20,Championship,2020-21,Sheffield Weds,Birmingham,0,1,7,2,1,9,0,0
+2021-02-20,Championship,2020-21,Huddersfield,Swansea,4,1,4,4,5,8,1,1
+2021-02-20,Championship,2020-21,Cardiff,Preston,4,0,1,5,4,6,0,1
+2021-02-20,Championship,2020-21,Bristol City,Barnsley,0,1,0,5,1,5,0,0
+2021-02-20,Championship,2020-21,Coventry,Brentford,2,0,4,7,2,11,0,0
+2021-02-20,Championship,2020-21,Millwall,Wycombe,0,0,2,0,0,2,0,0
+2021-02-23,Championship,2020-21,Birmingham,Norwich,1,3,4,3,4,7,1,1
+2021-02-23,Championship,2020-21,Derby,Huddersfield,2,0,3,6,2,9,0,0
+2021-02-23,Championship,2020-21,Middlesbrough,Bristol City,1,3,6,2,4,8,1,1
+2021-02-23,Championship,2020-21,Luton,Millwall,1,1,1,4,2,5,1,0
+2021-02-23,Championship,2020-21,Rotherham,Nott'm Forest,0,1,2,5,1,7,0,0
+2021-02-23,Championship,2020-21,Wycombe,Reading,1,0,3,11,1,14,0,0
+2021-02-24,Championship,2020-21,Preston,QPR,0,0,8,2,0,10,0,0
+2021-02-24,Championship,2020-21,Bournemouth,Cardiff,1,2,4,5,3,9,1,1
+2021-02-24,Championship,2020-21,Blackburn,Watford,2,3,7,6,5,13,1,1
+2021-02-24,Championship,2020-21,Barnsley,Stoke,2,0,5,8,2,13,0,0
+2021-02-24,Championship,2020-21,Brentford,Sheffield Weds,3,0,4,4,3,8,0,1
+2021-02-24,Championship,2020-21,Swansea,Coventry,1,0,2,4,1,6,0,0
+2021-02-26,Championship,2020-21,Derby,Nott'm Forest,1,1,3,5,2,8,1,0
+2021-02-27,Championship,2020-21,Middlesbrough,Cardiff,1,1,11,0,2,11,1,0
+2021-02-27,Championship,2020-21,Swansea,Bristol City,1,3,8,3,4,11,1,1
+2021-02-27,Championship,2020-21,Rotherham,Reading,0,1,10,8,1,18,0,0
+2021-02-27,Championship,2020-21,Preston,Huddersfield,3,0,5,8,3,13,0,1
+2021-02-27,Championship,2020-21,Luton,Sheffield Weds,3,2,7,7,5,14,1,1
+2021-02-27,Championship,2020-21,Bournemouth,Watford,1,0,5,4,1,9,0,0
+2021-02-27,Championship,2020-21,Blackburn,Coventry,1,1,5,2,2,7,1,0
+2021-02-27,Championship,2020-21,Birmingham,QPR,2,1,7,3,3,10,1,1
+2021-02-27,Championship,2020-21,Barnsley,Millwall,2,1,10,3,3,13,1,1
+2021-02-27,Championship,2020-21,Brentford,Stoke,2,1,4,1,3,5,1,1
+2021-02-28,Championship,2020-21,Wycombe,Norwich,0,2,5,4,2,9,0,0
+2021-03-02,Championship,2020-21,Cardiff,Derby,4,0,6,5,4,11,0,1
+2021-03-02,Championship,2020-21,Coventry,Middlesbrough,1,2,3,2,3,5,1,1
+2021-03-02,Championship,2020-21,Huddersfield,Birmingham,1,1,7,3,2,10,1,0
+2021-03-02,Championship,2020-21,Millwall,Preston,2,1,4,2,3,6,1,1
+2021-03-02,Championship,2020-21,Nott'm Forest,Luton,0,1,8,1,1,9,0,0
+2021-03-02,Championship,2020-21,Reading,Blackburn,1,0,2,5,1,7,0,0
+2021-03-03,Championship,2020-21,Stoke,Swansea,1,2,5,4,3,9,1,1
+2021-03-03,Championship,2020-21,Sheffield Weds,Rotherham,1,2,7,4,3,11,1,1
+2021-03-03,Championship,2020-21,Bristol City,Bournemouth,1,2,4,5,3,9,1,1
+2021-03-03,Championship,2020-21,QPR,Barnsley,1,3,3,6,4,9,1,1
+2021-03-03,Championship,2020-21,Norwich,Brentford,1,0,2,1,1,3,0,0
+2021-03-03,Championship,2020-21,Watford,Wycombe,2,0,3,3,2,6,0,0
+2021-03-05,Championship,2020-21,Huddersfield,Cardiff,0,0,4,4,0,8,0,0
+2021-03-06,Championship,2020-21,Swansea,Middlesbrough,2,1,1,7,3,8,1,1
+2021-03-06,Championship,2020-21,Watford,Nott'm Forest,1,0,7,8,1,15,0,0
+2021-03-06,Championship,2020-21,Barnsley,Birmingham,1,0,5,3,1,8,0,0
+2021-03-06,Championship,2020-21,Bristol City,QPR,0,2,4,8,2,12,0,0
+2021-03-06,Championship,2020-21,Coventry,Derby,1,0,5,7,1,12,0,0
+2021-03-06,Championship,2020-21,Millwall,Blackburn,0,2,3,2,2,5,0,0
+2021-03-06,Championship,2020-21,Norwich,Luton,3,0,6,1,3,7,0,1
+2021-03-06,Championship,2020-21,Preston,Bournemouth,1,1,5,4,2,9,1,0
+2021-03-06,Championship,2020-21,Reading,Sheffield Weds,3,0,7,3,3,10,0,1
+2021-03-06,Championship,2020-21,Stoke,Wycombe,2,0,6,4,2,10,0,0
+2021-03-09,Championship,2020-21,QPR,Wycombe,1,0,4,6,1,10,0,0
+2021-03-09,Championship,2020-21,Blackburn,Swansea,1,1,5,3,2,8,1,0
+2021-03-10,Championship,2020-21,Barnsley,Derby,0,0,3,5,0,8,0,0
+2021-03-12,Championship,2020-21,Blackburn,Brentford,0,1,2,3,1,5,0,0
+2021-03-13,Championship,2020-21,Luton,Swansea,0,1,7,4,1,11,0,0
+2021-03-13,Championship,2020-21,Birmingham,Bristol City,0,3,5,2,3,7,0,1
+2021-03-13,Championship,2020-21,Bournemouth,Barnsley,2,3,6,6,5,12,1,1
+2021-03-13,Championship,2020-21,Cardiff,Watford,1,2,2,4,3,6,1,1
+2021-03-13,Championship,2020-21,Derby,Millwall,0,1,3,1,1,4,0,0
+2021-03-13,Championship,2020-21,Middlesbrough,Stoke,3,0,4,9,3,13,0,1
+2021-03-13,Championship,2020-21,Nott'm Forest,Reading,1,1,4,6,2,10,1,0
+2021-03-13,Championship,2020-21,QPR,Huddersfield,0,1,5,7,1,12,0,0
+2021-03-13,Championship,2020-21,Wycombe,Preston,1,0,9,5,1,14,0,0
+2021-03-14,Championship,2020-21,Sheffield Weds,Norwich,1,2,3,5,3,8,1,1
+2021-03-16,Championship,2020-21,Bournemouth,Swansea,3,0,8,7,3,15,0,1
+2021-03-16,Championship,2020-21,Rotherham,Watford,1,4,5,8,5,13,1,1
+2021-03-16,Championship,2020-21,Middlesbrough,Preston,2,0,2,2,2,4,0,0
+2021-03-16,Championship,2020-21,Luton,Coventry,2,0,5,4,2,9,0,0
+2021-03-16,Championship,2020-21,Derby,Brentford,2,2,7,4,4,11,1,1
+2021-03-16,Championship,2020-21,Cardiff,Stoke,0,0,5,3,0,8,0,0
+2021-03-17,Championship,2020-21,Nott'm Forest,Norwich,0,2,4,5,2,9,0,0
+2021-03-17,Championship,2020-21,QPR,Millwall,3,2,4,2,5,6,1,1
+2021-03-17,Championship,2020-21,Wycombe,Barnsley,1,3,5,8,4,13,1,1
+2021-03-17,Championship,2020-21,Birmingham,Reading,2,1,3,2,3,5,1,1
+2021-03-17,Championship,2020-21,Blackburn,Bristol City,0,0,6,4,0,10,0,0
+2021-03-17,Championship,2020-21,Sheffield Weds,Huddersfield,1,1,2,6,2,8,1,0
+2021-03-20,Championship,2020-21,Swansea,Cardiff,0,1,11,0,1,11,0,0
+2021-03-20,Championship,2020-21,Watford,Birmingham,3,0,6,5,3,11,0,1
+2021-03-20,Championship,2020-21,Reading,QPR,1,1,7,5,2,12,1,0
+2021-03-20,Championship,2020-21,Preston,Luton,0,1,4,3,1,7,0,0
+2021-03-20,Championship,2020-21,Norwich,Blackburn,1,1,5,4,2,9,1,0
+2021-03-20,Championship,2020-21,Stoke,Derby,1,0,1,2,1,3,0,0
+2021-03-20,Championship,2020-21,Coventry,Wycombe,0,0,1,2,0,3,0,0
+2021-03-20,Championship,2020-21,Bristol City,Rotherham,0,2,7,2,2,9,0,0
+2021-03-20,Championship,2020-21,Millwall,Middlesbrough,1,0,7,11,1,18,0,0
+2021-03-20,Championship,2020-21,Barnsley,Sheffield Weds,1,2,6,2,3,8,1,1
+2021-03-20,Championship,2020-21,Brentford,Nott'm Forest,1,1,6,2,2,8,1,0
+2021-04-02,Championship,2020-21,Birmingham,Swansea,1,0,2,4,1,6,0,0
+2021-04-02,Championship,2020-21,Barnsley,Reading,1,1,7,5,2,12,1,0
+2021-04-02,Championship,2020-21,Wycombe,Blackburn,1,0,7,4,1,11,0,0
+2021-04-02,Championship,2020-21,Watford,Sheffield Weds,1,0,6,3,1,9,0,0
+2021-04-02,Championship,2020-21,QPR,Coventry,3,0,6,6,3,12,0,1
+2021-04-02,Championship,2020-21,Preston,Norwich,1,1,4,2,2,6,1,0
+2021-04-02,Championship,2020-21,Millwall,Rotherham,1,0,8,3,1,11,0,0
+2021-04-02,Championship,2020-21,Derby,Luton,2,0,5,4,2,9,0,0
+2021-04-02,Championship,2020-21,Cardiff,Nott'm Forest,0,1,6,4,1,10,0,0
+2021-04-02,Championship,2020-21,Bristol City,Stoke,0,2,8,2,2,10,0,0
+2021-04-02,Championship,2020-21,Bournemouth,Middlesbrough,3,1,6,6,4,12,1,1
+2021-04-03,Championship,2020-21,Huddersfield,Brentford,1,1,2,4,2,6,1,0
+2021-04-05,Championship,2020-21,Sheffield Weds,Cardiff,5,0,4,7,5,11,0,1
+2021-04-05,Championship,2020-21,Swansea,Preston,0,1,1,6,1,7,0,0
+2021-04-05,Championship,2020-21,Stoke,Millwall,1,2,5,4,3,9,1,1
+2021-04-05,Championship,2020-21,Rotherham,Wycombe,0,3,6,2,3,8,0,1
+2021-04-05,Championship,2020-21,Reading,Derby,3,1,2,4,4,6,1,1
+2021-04-05,Championship,2020-21,Middlesbrough,Watford,1,1,5,2,2,7,1,0
+2021-04-05,Championship,2020-21,Luton,Barnsley,1,2,3,4,3,7,1,1
+2021-04-05,Championship,2020-21,Coventry,Bristol City,3,1,2,0,4,2,1,1
+2021-04-05,Championship,2020-21,Blackburn,Bournemouth,0,2,4,3,2,7,0,0
+2021-04-05,Championship,2020-21,Nott'm Forest,QPR,3,1,6,2,4,8,1,1
+2021-04-06,Championship,2020-21,Brentford,Birmingham,0,0,5,3,0,8,0,0
+2021-04-06,Championship,2020-21,Norwich,Huddersfield,7,0,7,3,7,10,0,1
+2021-04-09,Championship,2020-21,Watford,Reading,2,0,3,3,2,6,0,0
+2021-04-10,Championship,2020-21,Derby,Norwich,0,1,5,5,1,10,0,0
+2021-04-10,Championship,2020-21,Wycombe,Luton,1,3,4,3,4,7,1,1
+2021-04-10,Championship,2020-21,QPR,Sheffield Weds,4,1,2,4,5,6,1,1
+2021-04-10,Championship,2020-21,Huddersfield,Rotherham,0,0,6,9,0,15,0,0
+2021-04-10,Championship,2020-21,Cardiff,Blackburn,2,2,5,2,4,7,1,1
+2021-04-10,Championship,2020-21,Preston,Brentford,0,5,3,7,5,10,0,1
+2021-04-10,Championship,2020-21,Bournemouth,Coventry,4,1,4,3,5,7,1,1
+2021-04-10,Championship,2020-21,Birmingham,Stoke,2,0,3,4,2,7,0,0
+2021-04-10,Championship,2020-21,Bristol City,Nott'm Forest,0,0,3,8,0,11,0,0
+2021-04-10,Championship,2020-21,Barnsley,Middlesbrough,2,0,5,6,2,11,0,0
+2021-04-10,Championship,2020-21,Millwall,Swansea,0,3,4,3,3,7,0,1
+2021-04-13,Championship,2020-21,Huddersfield,Bournemouth,1,2,6,5,3,11,1,1
+2021-04-13,Championship,2020-21,Sheffield Weds,Swansea,0,2,6,5,2,11,0,0
+2021-04-13,Championship,2020-21,Rotherham,QPR,3,1,7,4,4,11,1,1
+2021-04-15,Championship,2020-21,Rotherham,Coventry,0,1,5,5,1,10,0,0
+2021-04-16,Championship,2020-21,Blackburn,Derby,2,1,4,5,3,9,1,1
+2021-04-16,Championship,2020-21,Reading,Cardiff,1,1,3,3,2,6,1,0
+2021-04-17,Championship,2020-21,Swansea,Wycombe,2,2,4,5,4,9,1,1
+2021-04-17,Championship,2020-21,Stoke,Preston,0,0,7,1,0,8,0,0
+2021-04-17,Championship,2020-21,Sheffield Weds,Bristol City,1,1,5,0,2,5,1,0
+2021-04-17,Championship,2020-21,Norwich,Bournemouth,1,3,1,7,4,8,1,1
+2021-04-17,Championship,2020-21,Middlesbrough,QPR,1,2,9,4,3,13,1,1
+2021-04-17,Championship,2020-21,Luton,Watford,1,0,6,3,1,9,0,0
+2021-04-17,Championship,2020-21,Brentford,Millwall,0,0,5,4,0,9,0,0
+2021-04-17,Championship,2020-21,Nott'm Forest,Huddersfield,0,2,5,2,2,7,0,0
+2021-04-18,Championship,2020-21,Rotherham,Birmingham,0,1,5,5,1,10,0,0
+2021-04-18,Championship,2020-21,Coventry,Barnsley,2,0,3,3,2,6,0,0
+2021-04-20,Championship,2020-21,Brentford,Cardiff,1,1,10,3,2,13,1,0
+2021-04-20,Championship,2020-21,Norwich,Watford,0,1,5,13,1,18,0,0
+2021-04-20,Championship,2020-21,Preston,Derby,3,0,1,7,3,8,0,1
+2021-04-20,Championship,2020-21,Sheffield Weds,Blackburn,1,0,3,2,1,5,0,0
+2021-04-20,Championship,2020-21,Swansea,QPR,0,1,4,7,1,11,0,0
+2021-04-21,Championship,2020-21,Luton,Reading,0,0,7,8,0,15,0,0
+2021-04-21,Championship,2020-21,Huddersfield,Barnsley,0,1,4,6,1,10,0,0
+2021-04-21,Championship,2020-21,Birmingham,Nott'm Forest,1,1,5,3,2,8,1,0
+2021-04-21,Championship,2020-21,Millwall,Bournemouth,1,4,3,1,5,4,1,1
+2021-04-21,Championship,2020-21,Stoke,Coventry,2,3,6,2,5,8,1,1
+2021-04-21,Championship,2020-21,Rotherham,Middlesbrough,1,2,3,13,3,16,1,1
+2021-04-21,Championship,2020-21,Wycombe,Bristol City,2,1,5,2,3,7,1,1
+2021-04-24,Championship,2020-21,Middlesbrough,Sheffield Weds,3,1,8,7,4,15,1,1
+2021-04-24,Championship,2020-21,QPR,Norwich,1,3,5,5,4,10,1,1
+2021-04-24,Championship,2020-21,Nott'm Forest,Stoke,1,1,3,6,2,9,1,0
+2021-04-24,Championship,2020-21,Watford,Millwall,1,0,5,5,1,10,0,0
+2021-04-24,Championship,2020-21,Derby,Birmingham,1,2,0,3,3,3,1,1
+2021-04-24,Championship,2020-21,Blackburn,Huddersfield,5,2,7,2,7,9,1,1
+2021-04-24,Championship,2020-21,Cardiff,Wycombe,2,1,7,6,3,13,1,1
+2021-04-24,Championship,2020-21,Barnsley,Rotherham,1,0,3,9,1,12,0,0
+2021-04-24,Championship,2020-21,Bournemouth,Brentford,0,1,3,5,1,8,0,0
+2021-04-24,Championship,2020-21,Coventry,Preston,0,1,5,2,1,7,0,0
+2021-04-25,Championship,2020-21,Reading,Swansea,2,2,7,4,4,11,1,1
+2021-04-25,Championship,2020-21,Bristol City,Luton,2,3,4,5,5,9,1,1
+2021-04-27,Championship,2020-21,Brentford,Rotherham,1,0,2,4,1,6,0,0
+2021-05-01,Championship,2020-21,Wycombe,Bournemouth,1,0,4,1,1,5,0,0
+2021-05-01,Championship,2020-21,Swansea,Derby,2,1,4,6,3,10,1,1
+2021-05-01,Championship,2020-21,Stoke,QPR,0,2,9,1,2,10,0,0
+2021-05-01,Championship,2020-21,Preston,Barnsley,2,0,6,4,2,10,0,0
+2021-05-01,Championship,2020-21,Norwich,Reading,4,1,5,2,5,7,1,1
+2021-05-01,Championship,2020-21,Rotherham,Blackburn,1,1,4,7,2,11,1,0
+2021-05-01,Championship,2020-21,Luton,Middlesbrough,1,1,10,6,2,16,1,0
+2021-05-01,Championship,2020-21,Huddersfield,Coventry,1,1,7,4,2,11,1,0
+2021-05-01,Championship,2020-21,Brentford,Watford,2,0,5,1,2,6,0,0
+2021-05-01,Championship,2020-21,Birmingham,Cardiff,0,4,4,4,4,8,0,1
+2021-05-01,Championship,2020-21,Sheffield Weds,Nott'm Forest,0,0,6,2,0,8,0,0
+2021-05-01,Championship,2020-21,Millwall,Bristol City,4,1,5,0,5,5,1,1
+2021-05-04,Championship,2020-21,Luton,Rotherham,0,0,6,7,0,13,0,0
+2021-05-08,Championship,2020-21,QPR,Luton,3,1,8,6,4,14,1,1
+2021-05-08,Championship,2020-21,Nott'm Forest,Preston,1,2,4,3,3,7,1,1
+2021-05-08,Championship,2020-21,Middlesbrough,Wycombe,0,3,6,6,3,12,0,1
+2021-05-08,Championship,2020-21,Derby,Sheffield Weds,3,3,6,10,6,16,1,1
+2021-05-08,Championship,2020-21,Coventry,Millwall,6,1,10,8,7,18,1,1
+2021-05-08,Championship,2020-21,Bournemouth,Stoke,0,2,6,3,2,9,0,0
+2021-05-08,Championship,2020-21,Bristol City,Brentford,1,3,1,2,4,3,1,1
+2021-05-08,Championship,2020-21,Blackburn,Birmingham,5,2,5,1,7,6,1,1
+2021-05-08,Championship,2020-21,Barnsley,Norwich,2,2,2,1,4,3,1,1
+2021-05-08,Championship,2020-21,Reading,Huddersfield,2,2,3,3,4,6,1,1
+2021-05-08,Championship,2020-21,Cardiff,Rotherham,1,1,6,4,2,10,1,0
+2021-05-08,Championship,2020-21,Watford,Swansea,2,0,3,8,2,11,0,0

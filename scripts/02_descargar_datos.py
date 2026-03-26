@@ -72,7 +72,8 @@ LIGAS = {
 # Formato: los últimos 2 dígitos de cada año pegados
 # Ejemplo: "2324" = temporada 2023/2024
 TEMPORADAS = [
-    "2425",  # 2024/25 (en curso)
+    "2526",  # 2025/26 (en curso)
+    "2425",  # 2024/25
     "2324",  # 2023/24
     "2223",  # 2022/23
     "2122",  # 2021/22
@@ -236,17 +237,24 @@ def listar_archivos_descargados():
 # ─────────────────────────────────────────────
 if __name__ == "__main__":
 
-    # Para empezar rápido, descargamos solo las 5 ligas principales
-    # Puedes cambiar esto a LIGAS para descargar todas
-    LIGAS_PRINCIPALES = {
-        "E0"  : "Premier League",
-        "SP1" : "La Liga",
-        "D1"  : "Bundesliga",
-        "I1"  : "Serie A",
-        "F1"  : "Ligue 1",
+    # 12 ligas principales (primeras divisiones de las grandes ligas europeas)
+    # Excluye segundas divisiones (SP2, D2, I2, F2) para centrarse en datos fiables
+    LIGAS_12 = {
+        "E0"  : "Premier League (Inglaterra)",
+        "E1"  : "Championship (Inglaterra D2)",
+        "SP1" : "La Liga (España)",
+        "D1"  : "Bundesliga (Alemania)",
+        "I1"  : "Serie A (Italia)",
+        "F1"  : "Ligue 1 (Francia)",
+        "N1"  : "Eredivisie (Holanda)",
+        "P1"  : "Primeira Liga (Portugal)",
+        "SC0" : "Scottish Premiership (Escocia)",
+        "B1"  : "First Division A (Bélgica)",
+        "T1"  : "Süper Lig (Turquía)",
+        "G1"  : "Super League (Grecia)",
     }
 
-    descargar_todo(ligas=LIGAS_PRINCIPALES)
+    descargar_todo(ligas=LIGAS_12)
     listar_archivos_descargados()
 
     print("\n🎯 Listo. Continúa con el script 03_limpiar_datos.py")

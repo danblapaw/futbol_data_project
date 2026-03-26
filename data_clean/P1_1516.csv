@@ -1,0 +1,307 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2015-08-14,Primeira Liga,2015-16,Tondela,Sp Lisbon,1,2,0,0,3,0,1,1
+2015-08-15,Primeira Liga,2015-16,Belenenses,Rio Ave,3,3,0,0,6,0,1,1
+2015-08-15,Primeira Liga,2015-16,Porto,Guimaraes,3,0,0,0,3,0,0,1
+2015-08-16,Primeira Liga,2015-16,Benfica,Estoril,4,0,0,0,4,0,0,1
+2015-08-16,Primeira Liga,2015-16,Moreirense,Arouca,0,2,0,0,2,0,0,0
+2015-08-16,Primeira Liga,2015-16,Setubal,Boavista,2,2,0,0,4,0,1,1
+2015-08-16,Primeira Liga,2015-16,Sp Braga,Nacional,2,1,0,0,3,0,1,1
+2015-08-16,Primeira Liga,2015-16,Uniao Madeira,Maritimo,2,1,0,0,3,0,1,1
+2015-08-17,Primeira Liga,2015-16,Pacos Ferreira,Academica,1,0,0,0,1,0,0,0
+2015-08-21,Primeira Liga,2015-16,Rio Ave,Sp Braga,1,0,0,0,1,0,0,0
+2015-08-22,Primeira Liga,2015-16,Maritimo,Porto,1,1,0,0,2,0,1,0
+2015-08-22,Primeira Liga,2015-16,Sp Lisbon,Pacos Ferreira,1,1,0,0,2,0,1,0
+2015-08-23,Primeira Liga,2015-16,Arouca,Benfica,1,0,0,0,1,0,0,0
+2015-08-23,Primeira Liga,2015-16,Boavista,Tondela,1,0,0,0,1,0,0,0
+2015-08-23,Primeira Liga,2015-16,Estoril,Moreirense,2,0,0,0,2,0,0,0
+2015-08-23,Primeira Liga,2015-16,Guimaraes,Belenenses,1,1,0,0,2,0,1,0
+2015-08-23,Primeira Liga,2015-16,Nacional,Uniao Madeira,1,0,0,0,1,0,0,0
+2015-08-24,Primeira Liga,2015-16,Academica,Setubal,0,4,0,0,4,0,0,1
+2015-08-29,Primeira Liga,2015-16,Setubal,Rio Ave,2,2,0,0,4,0,1,1
+2015-08-29,Primeira Liga,2015-16,Benfica,Moreirense,3,2,0,0,5,0,1,1
+2015-08-29,Primeira Liga,2015-16,Porto,Estoril,2,0,0,0,2,0,0,0
+2015-08-30,Primeira Liga,2015-16,Academica,Sp Lisbon,1,3,0,0,4,0,1,1
+2015-08-30,Primeira Liga,2015-16,Pacos Ferreira,Arouca,1,1,0,0,2,0,1,0
+2015-08-30,Primeira Liga,2015-16,Sp Braga,Boavista,4,0,0,0,4,0,0,1
+2015-08-30,Primeira Liga,2015-16,Tondela,Nacional,1,0,0,0,1,0,0,0
+2015-08-31,Primeira Liga,2015-16,Belenenses,Maritimo,1,1,0,0,2,0,1,0
+2015-08-31,Primeira Liga,2015-16,Uniao Madeira,Guimaraes,0,0,0,0,0,0,0,0
+2015-09-11,Primeira Liga,2015-16,Benfica,Belenenses,6,0,0,0,6,0,0,1
+2015-09-12,Primeira Liga,2015-16,Arouca,Porto,1,3,0,0,4,0,1,1
+2015-09-12,Primeira Liga,2015-16,Estoril,Sp Braga,1,0,0,0,1,0,0,0
+2015-09-13,Primeira Liga,2015-16,Guimaraes,Tondela,1,0,0,0,1,0,0,0
+2015-09-13,Primeira Liga,2015-16,Maritimo,Setubal,5,2,0,0,7,0,1,1
+2015-09-13,Primeira Liga,2015-16,Moreirense,Uniao Madeira,0,0,0,0,0,0,0,0
+2015-09-13,Primeira Liga,2015-16,Nacional,Academica,2,0,0,0,2,0,0,0
+2015-09-13,Primeira Liga,2015-16,Rio Ave,Sp Lisbon,1,2,0,0,3,0,1,1
+2015-09-14,Primeira Liga,2015-16,Boavista,Pacos Ferreira,0,1,0,0,1,0,0,0
+2015-09-18,Primeira Liga,2015-16,Setubal,Guimaraes,2,2,0,0,4,0,1,1
+2015-09-19,Primeira Liga,2015-16,Tondela,Estoril,0,1,0,0,1,0,0,0
+2015-09-19,Primeira Liga,2015-16,Pacos Ferreira,Rio Ave,0,3,0,0,3,0,0,1
+2015-09-20,Primeira Liga,2015-16,Academica,Boavista,0,2,0,0,2,0,0,0
+2015-09-20,Primeira Liga,2015-16,Porto,Benfica,1,0,0,0,1,0,0,0
+2015-09-20,Primeira Liga,2015-16,Uniao Madeira,Arouca,0,0,0,0,0,0,0,0
+2015-09-21,Primeira Liga,2015-16,Belenenses,Moreirense,2,0,0,0,2,0,0,0
+2015-09-21,Primeira Liga,2015-16,Sp Braga,Maritimo,5,1,0,0,6,0,1,1
+2015-09-21,Primeira Liga,2015-16,Sp Lisbon,Nacional,1,0,0,0,1,0,0,0
+2015-09-25,Primeira Liga,2015-16,Moreirense,Porto,2,2,0,0,4,0,1,1
+2015-09-26,Primeira Liga,2015-16,Boavista,Sp Lisbon,0,0,0,0,0,0,0,0
+2015-09-26,Primeira Liga,2015-16,Benfica,Pacos Ferreira,3,0,0,0,3,0,0,1
+2015-09-27,Primeira Liga,2015-16,Arouca,Belenenses,2,2,0,0,4,0,1,1
+2015-09-27,Primeira Liga,2015-16,Estoril,Uniao Madeira,2,1,0,0,3,0,1,1
+2015-09-27,Primeira Liga,2015-16,Guimaraes,Sp Braga,0,1,0,0,1,0,0,0
+2015-09-27,Primeira Liga,2015-16,Maritimo,Tondela,1,0,0,0,1,0,0,0
+2015-09-27,Primeira Liga,2015-16,Nacional,Setubal,1,1,0,0,2,0,1,0
+2015-09-28,Primeira Liga,2015-16,Rio Ave,Academica,1,0,0,0,1,0,0,0
+2015-10-02,Primeira Liga,2015-16,Setubal,Estoril,1,0,0,0,1,0,0,0
+2015-10-03,Primeira Liga,2015-16,Tondela,Moreirense,1,1,0,0,2,0,1,0
+2015-10-03,Primeira Liga,2015-16,Rio Ave,Boavista,1,0,0,0,1,0,0,0
+2015-10-03,Primeira Liga,2015-16,Academica,Maritimo,1,0,0,0,1,0,0,0
+2015-10-03,Primeira Liga,2015-16,Pacos Ferreira,Nacional,3,1,0,0,4,0,1,1
+2015-10-04,Primeira Liga,2015-16,Porto,Belenenses,4,0,0,0,4,0,0,1
+2015-10-04,Primeira Liga,2015-16,Sp Braga,Arouca,0,0,0,0,0,0,0,0
+2015-10-04,Primeira Liga,2015-16,Sp Lisbon,Guimaraes,5,1,0,0,6,0,1,1
+2015-10-23,Primeira Liga,2015-16,Nacional,Boavista,0,0,0,0,0,0,0,0
+2015-10-24,Primeira Liga,2015-16,Maritimo,Pacos Ferreira,0,2,0,0,2,0,0,0
+2015-10-24,Primeira Liga,2015-16,Estoril,Rio Ave,2,2,0,0,4,0,1,1
+2015-10-24,Primeira Liga,2015-16,Guimaraes,Academica,1,1,0,0,2,0,1,0
+2015-10-25,Primeira Liga,2015-16,Porto,Sp Braga,0,0,0,0,0,0,0,0
+2015-10-25,Primeira Liga,2015-16,Moreirense,Setubal,0,2,0,0,2,0,0,0
+2015-10-25,Primeira Liga,2015-16,Arouca,Tondela,1,1,0,0,2,0,1,0
+2015-10-25,Primeira Liga,2015-16,Benfica,Sp Lisbon,0,3,0,0,3,0,0,1
+2015-10-26,Primeira Liga,2015-16,Belenenses,Uniao Madeira,1,0,0,0,1,0,0,0
+2015-10-30,Primeira Liga,2015-16,Tondela,Benfica,0,4,0,0,4,0,0,1
+2015-10-31,Primeira Liga,2015-16,Sp Braga,Belenenses,4,0,0,0,4,0,0,1
+2015-10-31,Primeira Liga,2015-16,Sp Lisbon,Estoril,1,0,0,0,1,0,0,0
+2015-11-01,Primeira Liga,2015-16,Setubal,Arouca,0,0,0,0,0,0,0,0
+2015-11-01,Primeira Liga,2015-16,Rio Ave,Nacional,1,0,0,0,1,0,0,0
+2015-11-01,Primeira Liga,2015-16,Boavista,Maritimo,0,1,0,0,1,0,0,0
+2015-11-01,Primeira Liga,2015-16,Academica,Moreirense,1,1,0,0,2,0,1,0
+2015-11-02,Primeira Liga,2015-16,Pacos Ferreira,Guimaraes,0,1,0,0,1,0,0,0
+2015-11-06,Primeira Liga,2015-16,Estoril,Academica,1,1,0,0,2,0,1,0
+2015-11-07,Primeira Liga,2015-16,Guimaraes,Nacional,0,1,0,0,1,0,0,0
+2015-11-08,Primeira Liga,2015-16,Arouca,Sp Lisbon,0,1,0,0,1,0,0,0
+2015-11-08,Primeira Liga,2015-16,Benfica,Boavista,2,0,0,0,2,0,0,0
+2015-11-08,Primeira Liga,2015-16,Maritimo,Rio Ave,3,2,0,0,5,0,1,1
+2015-11-08,Primeira Liga,2015-16,Moreirense,Pacos Ferreira,2,0,0,0,2,0,0,0
+2015-11-08,Primeira Liga,2015-16,Porto,Setubal,2,0,0,0,2,0,0,0
+2015-11-09,Primeira Liga,2015-16,Belenenses,Tondela,2,1,0,0,3,0,1,1
+2015-11-09,Primeira Liga,2015-16,Uniao Madeira,Sp Braga,0,1,0,0,1,0,0,0
+2015-11-27,Primeira Liga,2015-16,Nacional,Maritimo,3,1,0,0,4,0,1,1
+2015-11-28,Primeira Liga,2015-16,Boavista,Guimaraes,1,2,0,0,3,0,1,1
+2015-11-28,Primeira Liga,2015-16,Setubal,Uniao Madeira,2,2,0,0,4,0,1,1
+2015-11-28,Primeira Liga,2015-16,Tondela,Porto,0,1,0,0,1,0,0,0
+2015-11-29,Primeira Liga,2015-16,Pacos Ferreira,Estoril,2,0,0,0,2,0,0,0
+2015-11-29,Primeira Liga,2015-16,Rio Ave,Moreirense,0,1,0,0,1,0,0,0
+2015-11-29,Primeira Liga,2015-16,Academica,Arouca,1,1,0,0,2,0,1,0
+2015-11-30,Primeira Liga,2015-16,Sp Braga,Benfica,0,2,0,0,2,0,0,0
+2015-11-30,Primeira Liga,2015-16,Sp Lisbon,Belenenses,1,0,0,0,1,0,0,0
+2015-12-02,Primeira Liga,2015-16,Uniao Madeira,Porto,0,4,0,0,4,0,0,1
+2015-12-04,Primeira Liga,2015-16,Benfica,Academica,3,0,0,0,3,0,0,1
+2015-12-05,Primeira Liga,2015-16,Belenenses,Setubal,0,3,0,0,3,0,0,1
+2015-12-05,Primeira Liga,2015-16,Maritimo,Sp Lisbon,0,1,0,0,1,0,0,0
+2015-12-05,Primeira Liga,2015-16,Porto,Pacos Ferreira,2,1,0,0,3,0,1,1
+2015-12-06,Primeira Liga,2015-16,Arouca,Boavista,3,2,0,0,5,0,1,1
+2015-12-06,Primeira Liga,2015-16,Estoril,Nacional,1,1,0,0,2,0,1,0
+2015-12-06,Primeira Liga,2015-16,Moreirense,Sp Braga,0,0,0,0,0,0,0,0
+2015-12-06,Primeira Liga,2015-16,Uniao Madeira,Tondela,2,0,0,0,2,0,0,0
+2015-12-07,Primeira Liga,2015-16,Guimaraes,Rio Ave,3,1,0,0,4,0,1,1
+2015-12-11,Primeira Liga,2015-16,Boavista,Estoril,1,1,0,0,2,0,1,0
+2015-12-12,Primeira Liga,2015-16,Pacos Ferreira,Uniao Madeira,6,0,0,0,6,0,0,1
+2015-12-12,Primeira Liga,2015-16,Rio Ave,Arouca,3,1,0,0,4,0,1,1
+2015-12-12,Primeira Liga,2015-16,Guimaraes,Maritimo,3,4,0,0,7,0,1,1
+2015-12-12,Primeira Liga,2015-16,Setubal,Benfica,2,4,0,0,6,0,1,1
+2015-12-13,Primeira Liga,2015-16,Tondela,Sp Braga,0,1,0,0,1,0,0,0
+2015-12-13,Primeira Liga,2015-16,Sp Lisbon,Moreirense,3,1,0,0,4,0,1,1
+2015-12-14,Primeira Liga,2015-16,Academica,Belenenses,4,3,0,0,7,0,1,1
+2015-12-14,Primeira Liga,2015-16,Nacional,Porto,1,2,0,0,3,0,1,1
+2015-12-15,Primeira Liga,2015-16,Uniao Madeira,Benfica,0,0,0,0,0,0,0,0
+2015-12-19,Primeira Liga,2015-16,Arouca,Maritimo,4,1,0,0,5,0,1,1
+2015-12-19,Primeira Liga,2015-16,Estoril,Guimaraes,0,1,0,0,1,0,0,0
+2015-12-20,Primeira Liga,2015-16,Porto,Academica,3,1,0,0,4,0,1,1
+2015-12-20,Primeira Liga,2015-16,Benfica,Rio Ave,3,1,0,0,4,0,1,1
+2015-12-20,Primeira Liga,2015-16,Moreirense,Nacional,2,0,0,0,2,0,0,0
+2015-12-20,Primeira Liga,2015-16,Tondela,Setubal,1,3,0,0,4,0,1,1
+2015-12-20,Primeira Liga,2015-16,Uniao Madeira,Sp Lisbon,1,0,0,0,1,0,0,0
+2015-12-21,Primeira Liga,2015-16,Belenenses,Boavista,1,0,0,0,1,0,0,0
+2015-12-21,Primeira Liga,2015-16,Sp Braga,Pacos Ferreira,1,1,0,0,2,0,1,0
+2016-01-02,Primeira Liga,2015-16,Setubal,Sp Braga,1,1,0,0,2,0,1,0
+2016-01-02,Primeira Liga,2015-16,Pacos Ferreira,Belenenses,2,2,0,0,4,0,1,1
+2016-01-02,Primeira Liga,2015-16,Sp Lisbon,Porto,2,0,0,0,2,0,0,0
+2016-01-02,Primeira Liga,2015-16,Nacional,Arouca,2,2,0,0,4,0,1,1
+2016-01-02,Primeira Liga,2015-16,Maritimo,Estoril,1,1,0,0,2,0,1,0
+2016-01-02,Primeira Liga,2015-16,Guimaraes,Benfica,0,1,0,0,1,0,0,0
+2016-01-02,Primeira Liga,2015-16,Boavista,Moreirense,0,3,0,0,3,0,0,1
+2016-01-02,Primeira Liga,2015-16,Academica,Uniao Madeira,3,1,0,0,4,0,1,1
+2016-01-03,Primeira Liga,2015-16,Rio Ave,Tondela,2,3,0,0,5,0,1,1
+2016-01-06,Primeira Liga,2015-16,Arouca,Estoril,1,0,0,0,1,0,0,0
+2016-01-06,Primeira Liga,2015-16,Belenenses,Nacional,2,2,0,0,4,0,1,1
+2016-01-06,Primeira Liga,2015-16,Benfica,Maritimo,6,0,0,0,6,0,0,1
+2016-01-06,Primeira Liga,2015-16,Moreirense,Guimaraes,3,4,0,0,7,0,1,1
+2016-01-06,Primeira Liga,2015-16,Porto,Rio Ave,1,1,0,0,2,0,1,0
+2016-01-06,Primeira Liga,2015-16,Setubal,Sp Lisbon,0,6,0,0,6,0,0,1
+2016-01-06,Primeira Liga,2015-16,Sp Braga,Academica,3,0,0,0,3,0,0,1
+2016-01-06,Primeira Liga,2015-16,Tondela,Pacos Ferreira,0,2,0,0,2,0,0,0
+2016-01-06,Primeira Liga,2015-16,Uniao Madeira,Boavista,1,0,0,0,1,0,0,0
+2016-01-09,Primeira Liga,2015-16,Guimaraes,Arouca,2,2,0,0,4,0,1,1
+2016-01-10,Primeira Liga,2015-16,Maritimo,Moreirense,5,1,0,0,6,0,1,1
+2016-01-10,Primeira Liga,2015-16,Estoril,Belenenses,2,0,0,0,2,0,0,0
+2016-01-10,Primeira Liga,2015-16,Rio Ave,Uniao Madeira,1,0,0,0,1,0,0,0
+2016-01-10,Primeira Liga,2015-16,Academica,Tondela,2,1,0,0,3,0,1,1
+2016-01-10,Primeira Liga,2015-16,Boavista,Porto,0,5,0,0,5,0,0,1
+2016-01-10,Primeira Liga,2015-16,Sp Lisbon,Sp Braga,3,2,0,0,5,0,1,1
+2016-01-11,Primeira Liga,2015-16,Pacos Ferreira,Setubal,2,1,0,0,3,0,1,1
+2016-01-11,Primeira Liga,2015-16,Nacional,Benfica,1,4,0,0,5,0,1,1
+2016-01-15,Primeira Liga,2015-16,Sp Lisbon,Tondela,2,2,0,0,4,0,1,1
+2016-01-16,Primeira Liga,2015-16,Academica,Pacos Ferreira,1,1,0,0,2,0,1,0
+2016-01-16,Primeira Liga,2015-16,Estoril,Benfica,1,2,0,0,3,0,1,1
+2016-01-16,Primeira Liga,2015-16,Maritimo,Uniao Madeira,0,1,0,0,1,0,0,0
+2016-01-17,Primeira Liga,2015-16,Arouca,Moreirense,1,2,0,0,3,0,1,1
+2016-01-17,Primeira Liga,2015-16,Guimaraes,Porto,1,0,0,0,1,0,0,0
+2016-01-17,Primeira Liga,2015-16,Nacional,Sp Braga,2,3,0,0,5,0,1,1
+2016-01-17,Primeira Liga,2015-16,Rio Ave,Belenenses,1,2,0,0,3,0,1,1
+2016-01-18,Primeira Liga,2015-16,Boavista,Setubal,4,0,0,0,4,0,0,1
+2016-01-22,Primeira Liga,2015-16,Setubal,Academica,2,1,0,0,3,0,1,1
+2016-01-23,Primeira Liga,2015-16,Benfica,Arouca,3,1,0,0,4,0,1,1
+2016-01-23,Primeira Liga,2015-16,Moreirense,Estoril,1,3,0,0,4,0,1,1
+2016-01-23,Primeira Liga,2015-16,Pacos Ferreira,Sp Lisbon,1,3,0,0,4,0,1,1
+2016-01-23,Primeira Liga,2015-16,Uniao Madeira,Nacional,3,0,0,0,3,0,0,1
+2016-01-24,Primeira Liga,2015-16,Belenenses,Guimaraes,3,3,0,0,6,0,1,1
+2016-01-24,Primeira Liga,2015-16,Porto,Maritimo,1,0,0,0,1,0,0,0
+2016-01-24,Primeira Liga,2015-16,Sp Braga,Rio Ave,5,1,0,0,6,0,1,1
+2016-01-25,Primeira Liga,2015-16,Tondela,Boavista,1,2,0,0,3,0,1,1
+2016-01-29,Primeira Liga,2015-16,Guimaraes,Uniao Madeira,3,1,0,0,4,0,1,1
+2016-01-30,Primeira Liga,2015-16,Estoril,Porto,1,3,0,0,4,0,1,1
+2016-01-30,Primeira Liga,2015-16,Sp Lisbon,Academica,3,2,0,0,5,0,1,1
+2016-01-31,Primeira Liga,2015-16,Arouca,Pacos Ferreira,2,2,0,0,4,0,1,1
+2016-01-31,Primeira Liga,2015-16,Boavista,Sp Braga,0,0,0,0,0,0,0,0
+2016-01-31,Primeira Liga,2015-16,Moreirense,Benfica,1,4,0,0,5,0,1,1
+2016-01-31,Primeira Liga,2015-16,Nacional,Tondela,3,1,0,0,4,0,1,1
+2016-01-31,Primeira Liga,2015-16,Rio Ave,Setubal,2,1,0,0,3,0,1,1
+2016-02-01,Primeira Liga,2015-16,Maritimo,Belenenses,1,2,0,0,3,0,1,1
+2016-02-05,Primeira Liga,2015-16,Belenenses,Benfica,0,5,0,0,5,0,0,1
+2016-02-06,Primeira Liga,2015-16,Tondela,Guimaraes,1,1,0,0,2,0,1,0
+2016-02-06,Primeira Liga,2015-16,Setubal,Maritimo,1,1,0,0,2,0,1,0
+2016-02-07,Primeira Liga,2015-16,Academica,Nacional,2,2,0,0,4,0,1,1
+2016-02-07,Primeira Liga,2015-16,Pacos Ferreira,Boavista,0,1,0,0,1,0,0,0
+2016-02-07,Primeira Liga,2015-16,Porto,Arouca,1,2,0,0,3,0,1,1
+2016-02-07,Primeira Liga,2015-16,Uniao Madeira,Moreirense,0,1,0,0,1,0,0,0
+2016-02-08,Primeira Liga,2015-16,Sp Braga,Estoril,2,0,0,0,2,0,0,0
+2016-02-08,Primeira Liga,2015-16,Sp Lisbon,Rio Ave,0,0,0,0,0,0,0,0
+2016-02-12,Primeira Liga,2015-16,Benfica,Porto,1,2,0,0,3,0,1,1
+2016-02-13,Primeira Liga,2015-16,Nacional,Sp Lisbon,0,4,0,0,4,0,0,1
+2016-02-13,Primeira Liga,2015-16,Guimaraes,Setubal,2,2,0,0,4,0,1,1
+2016-02-13,Primeira Liga,2015-16,Moreirense,Belenenses,2,3,0,0,5,0,1,1
+2016-02-14,Primeira Liga,2015-16,Arouca,Uniao Madeira,3,0,0,0,3,0,0,1
+2016-02-14,Primeira Liga,2015-16,Boavista,Academica,0,0,0,0,0,0,0,0
+2016-02-14,Primeira Liga,2015-16,Estoril,Tondela,2,1,0,0,3,0,1,1
+2016-02-14,Primeira Liga,2015-16,Maritimo,Sp Braga,1,3,0,0,4,0,1,1
+2016-02-15,Primeira Liga,2015-16,Rio Ave,Pacos Ferreira,1,1,0,0,2,0,1,0
+2016-02-19,Primeira Liga,2015-16,Uniao Madeira,Estoril,1,1,0,0,2,0,1,0
+2016-02-20,Primeira Liga,2015-16,Pacos Ferreira,Benfica,1,3,0,0,4,0,1,1
+2016-02-20,Primeira Liga,2015-16,Academica,Rio Ave,0,2,0,0,2,0,0,0
+2016-02-21,Primeira Liga,2015-16,Belenenses,Arouca,0,2,0,0,2,0,0,0
+2016-02-21,Primeira Liga,2015-16,Porto,Moreirense,3,2,0,0,5,0,1,1
+2016-02-21,Primeira Liga,2015-16,Setubal,Nacional,1,1,0,0,2,0,1,0
+2016-02-21,Primeira Liga,2015-16,Sp Braga,Guimaraes,3,3,0,0,6,0,1,1
+2016-02-21,Primeira Liga,2015-16,Tondela,Maritimo,3,4,0,0,7,0,1,1
+2016-02-22,Primeira Liga,2015-16,Sp Lisbon,Boavista,2,0,0,0,2,0,0,0
+2016-02-26,Primeira Liga,2015-16,Nacional,Pacos Ferreira,3,0,0,0,3,0,0,1
+2016-02-27,Primeira Liga,2015-16,Estoril,Setubal,3,0,0,0,3,0,0,1
+2016-02-27,Primeira Liga,2015-16,Arouca,Sp Braga,0,0,0,0,0,0,0,0
+2016-02-27,Primeira Liga,2015-16,Boavista,Rio Ave,1,2,0,0,3,0,1,1
+2016-02-28,Primeira Liga,2015-16,Belenenses,Porto,1,2,0,0,3,0,1,1
+2016-02-28,Primeira Liga,2015-16,Maritimo,Academica,1,0,0,0,1,0,0,0
+2016-02-28,Primeira Liga,2015-16,Moreirense,Tondela,1,2,0,0,3,0,1,1
+2016-02-29,Primeira Liga,2015-16,Benfica,Uniao Madeira,2,0,0,0,2,0,0,0
+2016-02-29,Primeira Liga,2015-16,Guimaraes,Sp Lisbon,0,0,0,0,0,0,0,0
+2016-03-04,Primeira Liga,2015-16,Pacos Ferreira,Maritimo,2,2,0,0,4,0,1,1
+2016-03-05,Primeira Liga,2015-16,Sp Lisbon,Benfica,0,1,0,0,1,0,0,0
+2016-03-06,Primeira Liga,2015-16,Tondela,Arouca,0,1,0,0,1,0,0,0
+2016-03-06,Primeira Liga,2015-16,Academica,Guimaraes,2,0,0,0,2,0,0,0
+2016-03-06,Primeira Liga,2015-16,Boavista,Nacional,0,1,0,0,1,0,0,0
+2016-03-06,Primeira Liga,2015-16,Setubal,Moreirense,0,1,0,0,1,0,0,0
+2016-03-06,Primeira Liga,2015-16,Sp Braga,Porto,3,1,0,0,4,0,1,1
+2016-03-06,Primeira Liga,2015-16,Uniao Madeira,Belenenses,0,0,0,0,0,0,0,0
+2016-03-07,Primeira Liga,2015-16,Rio Ave,Estoril,1,3,0,0,4,0,1,1
+2016-03-11,Primeira Liga,2015-16,Maritimo,Boavista,0,3,0,0,3,0,0,1
+2016-03-12,Primeira Liga,2015-16,Porto,Uniao Madeira,3,2,0,0,5,0,1,1
+2016-03-12,Primeira Liga,2015-16,Estoril,Sp Lisbon,1,2,0,0,3,0,1,1
+2016-03-13,Primeira Liga,2015-16,Nacional,Rio Ave,1,0,0,0,1,0,0,0
+2016-03-13,Primeira Liga,2015-16,Moreirense,Academica,2,2,0,0,4,0,1,1
+2016-03-13,Primeira Liga,2015-16,Arouca,Setubal,1,0,0,0,1,0,0,0
+2016-03-13,Primeira Liga,2015-16,Belenenses,Sp Braga,3,0,0,0,3,0,0,1
+2016-03-13,Primeira Liga,2015-16,Guimaraes,Pacos Ferreira,0,1,0,0,1,0,0,0
+2016-03-14,Primeira Liga,2015-16,Benfica,Tondela,4,1,0,0,5,0,1,1
+2016-03-18,Primeira Liga,2015-16,Rio Ave,Maritimo,1,0,0,0,1,0,0,0
+2016-03-19,Primeira Liga,2015-16,Setubal,Porto,0,1,0,0,1,0,0,0
+2016-03-19,Primeira Liga,2015-16,Sp Lisbon,Arouca,5,1,0,0,6,0,1,1
+2016-03-20,Primeira Liga,2015-16,Academica,Estoril,0,3,0,0,3,0,0,1
+2016-03-20,Primeira Liga,2015-16,Boavista,Benfica,0,1,0,0,1,0,0,0
+2016-03-20,Primeira Liga,2015-16,Nacional,Guimaraes,3,2,0,0,5,0,1,1
+2016-03-20,Primeira Liga,2015-16,Pacos Ferreira,Moreirense,0,0,0,0,0,0,0,0
+2016-03-20,Primeira Liga,2015-16,Sp Braga,Uniao Madeira,2,0,0,0,2,0,0,0
+2016-03-20,Primeira Liga,2015-16,Tondela,Belenenses,2,2,0,0,4,0,1,1
+2016-04-01,Primeira Liga,2015-16,Benfica,Sp Braga,5,1,0,0,6,0,1,1
+2016-04-02,Primeira Liga,2015-16,Arouca,Academica,3,2,0,0,5,0,1,1
+2016-04-02,Primeira Liga,2015-16,Guimaraes,Boavista,1,1,0,0,2,0,1,0
+2016-04-02,Primeira Liga,2015-16,Maritimo,Nacional,2,0,0,0,2,0,0,0
+2016-04-03,Primeira Liga,2015-16,Uniao Madeira,Setubal,2,2,0,0,4,0,1,1
+2016-04-03,Primeira Liga,2015-16,Moreirense,Rio Ave,0,1,0,0,1,0,0,0
+2016-04-03,Primeira Liga,2015-16,Estoril,Pacos Ferreira,1,0,0,0,1,0,0,0
+2016-04-04,Primeira Liga,2015-16,Belenenses,Sp Lisbon,2,5,0,0,7,0,1,1
+2016-04-04,Primeira Liga,2015-16,Porto,Tondela,0,1,0,0,1,0,0,0
+2016-04-08,Primeira Liga,2015-16,Boavista,Arouca,0,0,0,0,0,0,0,0
+2016-04-09,Primeira Liga,2015-16,Academica,Benfica,1,2,0,0,3,0,1,1
+2016-04-09,Primeira Liga,2015-16,Sp Lisbon,Maritimo,3,1,0,0,4,0,1,1
+2016-04-10,Primeira Liga,2015-16,Nacional,Estoril,4,1,0,0,5,0,1,1
+2016-04-10,Primeira Liga,2015-16,Pacos Ferreira,Porto,1,0,0,0,1,0,0,0
+2016-04-10,Primeira Liga,2015-16,Setubal,Belenenses,0,1,0,0,1,0,0,0
+2016-04-10,Primeira Liga,2015-16,Sp Braga,Moreirense,1,1,0,0,2,0,1,0
+2016-04-10,Primeira Liga,2015-16,Tondela,Uniao Madeira,1,0,0,0,1,0,0,0
+2016-04-11,Primeira Liga,2015-16,Rio Ave,Guimaraes,2,0,0,0,2,0,0,0
+2016-04-16,Primeira Liga,2015-16,Moreirense,Sp Lisbon,0,1,0,0,1,0,0,0
+2016-04-16,Primeira Liga,2015-16,Arouca,Rio Ave,0,0,0,0,0,0,0,0
+2016-04-16,Primeira Liga,2015-16,Estoril,Boavista,1,0,0,0,1,0,0,0
+2016-04-17,Primeira Liga,2015-16,Uniao Madeira,Pacos Ferreira,3,4,0,0,7,0,1,1
+2016-04-17,Primeira Liga,2015-16,Porto,Nacional,4,0,0,0,4,0,0,1
+2016-04-17,Primeira Liga,2015-16,Belenenses,Academica,1,1,0,0,2,0,1,0
+2016-04-17,Primeira Liga,2015-16,Maritimo,Guimaraes,3,0,0,0,3,0,0,1
+2016-04-18,Primeira Liga,2015-16,Benfica,Setubal,2,1,0,0,3,0,1,1
+2016-04-18,Primeira Liga,2015-16,Sp Braga,Tondela,3,0,0,0,3,0,0,1
+2016-04-22,Primeira Liga,2015-16,Boavista,Belenenses,1,0,0,0,1,0,0,0
+2016-04-23,Primeira Liga,2015-16,Academica,Porto,1,2,0,0,3,0,1,1
+2016-04-23,Primeira Liga,2015-16,Pacos Ferreira,Sp Braga,1,0,0,0,1,0,0,0
+2016-04-23,Primeira Liga,2015-16,Sp Lisbon,Uniao Madeira,2,0,0,0,2,0,0,0
+2016-04-24,Primeira Liga,2015-16,Setubal,Tondela,0,1,0,0,1,0,0,0
+2016-04-24,Primeira Liga,2015-16,Rio Ave,Benfica,0,1,0,0,1,0,0,0
+2016-04-24,Primeira Liga,2015-16,Maritimo,Arouca,1,2,0,0,3,0,1,1
+2016-04-24,Primeira Liga,2015-16,Guimaraes,Estoril,1,1,0,0,2,0,1,0
+2016-04-24,Primeira Liga,2015-16,Nacional,Moreirense,0,1,0,0,1,0,0,0
+2016-04-29,Primeira Liga,2015-16,Benfica,Guimaraes,1,0,0,0,1,0,0,0
+2016-04-29,Primeira Liga,2015-16,Sp Braga,Setubal,3,2,0,0,5,0,1,1
+2016-04-30,Primeira Liga,2015-16,Belenenses,Pacos Ferreira,0,2,0,0,2,0,0,0
+2016-04-30,Primeira Liga,2015-16,Porto,Sp Lisbon,1,3,0,0,4,0,1,1
+2016-04-30,Primeira Liga,2015-16,Tondela,Rio Ave,1,1,0,0,2,0,1,0
+2016-05-01,Primeira Liga,2015-16,Uniao Madeira,Academica,3,1,0,0,4,0,1,1
+2016-05-01,Primeira Liga,2015-16,Moreirense,Boavista,1,1,0,0,2,0,1,0
+2016-05-01,Primeira Liga,2015-16,Arouca,Nacional,3,0,0,0,3,0,0,1
+2016-05-01,Primeira Liga,2015-16,Estoril,Maritimo,2,1,0,0,3,0,1,1
+2016-05-06,Primeira Liga,2015-16,Pacos Ferreira,Tondela,1,4,0,0,5,0,1,1
+2016-05-07,Primeira Liga,2015-16,Academica,Sp Braga,0,0,0,0,0,0,0,0
+2016-05-07,Primeira Liga,2015-16,Rio Ave,Porto,1,3,0,0,4,0,1,1
+2016-05-07,Primeira Liga,2015-16,Sp Lisbon,Setubal,5,0,0,0,5,0,0,1
+2016-05-08,Primeira Liga,2015-16,Boavista,Uniao Madeira,1,0,0,0,1,0,0,0
+2016-05-08,Primeira Liga,2015-16,Guimaraes,Moreirense,4,1,0,0,5,0,1,1
+2016-05-08,Primeira Liga,2015-16,Maritimo,Benfica,0,2,0,0,2,0,0,0
+2016-05-08,Primeira Liga,2015-16,Nacional,Belenenses,2,2,0,0,4,0,1,1
+2016-05-09,Primeira Liga,2015-16,Estoril,Arouca,1,1,0,0,2,0,1,0
+2016-05-14,Primeira Liga,2015-16,Tondela,Academica,2,0,0,0,2,0,0,0
+2016-05-14,Primeira Liga,2015-16,Arouca,Guimaraes,2,2,0,0,4,0,1,1
+2016-05-14,Primeira Liga,2015-16,Belenenses,Estoril,2,1,0,0,3,0,1,1
+2016-05-14,Primeira Liga,2015-16,Porto,Boavista,4,0,0,0,4,0,0,1
+2016-05-14,Primeira Liga,2015-16,Setubal,Pacos Ferreira,0,0,0,0,0,0,0,0
+2016-05-14,Primeira Liga,2015-16,Uniao Madeira,Rio Ave,1,2,0,0,3,0,1,1
+2016-05-15,Primeira Liga,2015-16,Moreirense,Maritimo,2,1,0,0,3,0,1,1
+2016-05-15,Primeira Liga,2015-16,Benfica,Nacional,4,1,0,0,5,0,1,1
+2016-05-15,Primeira Liga,2015-16,Sp Braga,Sp Lisbon,0,4,0,0,4,0,0,1

@@ -1,0 +1,553 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2018-08-03,Championship,2018-19,Reading,Derby,1,2,2,4,3,6,1,1
+2018-08-04,Championship,2018-19,West Brom,Bolton,1,2,10,6,3,16,1,1
+2018-08-04,Championship,2018-19,Sheffield United,Swansea,1,2,5,1,3,6,1,1
+2018-08-04,Championship,2018-19,Preston,QPR,1,0,6,4,1,10,0,0
+2018-08-04,Championship,2018-19,Millwall,Middlesbrough,2,2,6,6,4,12,1,1
+2018-08-04,Championship,2018-19,Wigan,Sheffield Weds,3,2,3,3,5,6,1,1
+2018-08-04,Championship,2018-19,Bristol City,Nott'm Forest,1,1,7,9,2,16,1,0
+2018-08-04,Championship,2018-19,Brentford,Rotherham,5,1,13,3,6,16,1,1
+2018-08-04,Championship,2018-19,Birmingham,Norwich,2,2,4,4,4,8,1,1
+2018-08-04,Championship,2018-19,Ipswich,Blackburn,2,2,3,0,4,3,1,1
+2018-08-05,Championship,2018-19,Leeds,Stoke,3,1,3,3,4,6,1,1
+2018-08-06,Championship,2018-19,Hull,Aston Villa,1,3,4,2,4,6,1,1
+2018-08-07,Championship,2018-19,Middlesbrough,Sheffield United,3,0,7,6,3,13,0,1
+2018-08-07,Championship,2018-19,Nott'm Forest,West Brom,1,1,7,6,2,13,1,0
+2018-08-11,Championship,2018-19,QPR,Sheffield United,1,2,4,6,3,10,1,1
+2018-08-11,Championship,2018-19,Swansea,Preston,1,0,4,5,1,9,0,0
+2018-08-11,Championship,2018-19,Stoke,Brentford,1,1,2,6,2,8,1,0
+2018-08-11,Championship,2018-19,Sheffield Weds,Hull,1,1,5,6,2,11,1,0
+2018-08-11,Championship,2018-19,Rotherham,Ipswich,1,0,0,12,1,12,0,0
+2018-08-11,Championship,2018-19,Nott'm Forest,Reading,1,0,6,4,1,10,0,0
+2018-08-11,Championship,2018-19,Blackburn,Millwall,0,0,7,1,0,8,0,0
+2018-08-11,Championship,2018-19,Middlesbrough,Birmingham,1,0,3,9,1,12,0,0
+2018-08-11,Championship,2018-19,Derby,Leeds,1,4,3,5,5,8,1,1
+2018-08-11,Championship,2018-19,Bolton,Bristol City,2,2,4,10,4,14,1,1
+2018-08-11,Championship,2018-19,Aston Villa,Wigan,3,2,3,4,5,7,1,1
+2018-08-11,Championship,2018-19,Norwich,West Brom,3,4,4,2,7,6,1,1
+2018-08-17,Championship,2018-19,Birmingham,Swansea,0,0,10,1,0,11,0,0
+2018-08-18,Championship,2018-19,Sheffield United,Norwich,2,1,9,4,3,13,1,1
+2018-08-18,Championship,2018-19,Wigan,Nott'm Forest,2,2,8,14,4,22,1,1
+2018-08-18,Championship,2018-19,West Brom,QPR,7,1,3,5,8,8,1,1
+2018-08-18,Championship,2018-19,Reading,Bolton,0,1,5,3,1,8,0,0
+2018-08-18,Championship,2018-19,Preston,Stoke,2,2,4,2,4,6,1,1
+2018-08-18,Championship,2018-19,Leeds,Rotherham,2,0,7,1,2,8,0,0
+2018-08-18,Championship,2018-19,Ipswich,Aston Villa,1,1,2,7,2,9,1,0
+2018-08-18,Championship,2018-19,Hull,Blackburn,0,1,5,1,1,6,0,0
+2018-08-18,Championship,2018-19,Bristol City,Middlesbrough,0,2,4,4,2,8,0,0
+2018-08-18,Championship,2018-19,Millwall,Derby,2,1,4,10,3,14,1,1
+2018-08-19,Championship,2018-19,Brentford,Sheffield Weds,2,0,9,0,2,9,0,0
+2018-08-21,Championship,2018-19,Derby,Ipswich,2,0,4,4,2,8,0,0
+2018-08-21,Championship,2018-19,QPR,Bristol City,0,3,2,3,3,5,0,1
+2018-08-21,Championship,2018-19,Rotherham,Hull,2,3,7,4,5,11,1,1
+2018-08-21,Championship,2018-19,Swansea,Leeds,2,2,2,5,4,7,1,1
+2018-08-22,Championship,2018-19,Sheffield Weds,Millwall,2,1,7,4,3,11,1,1
+2018-08-22,Championship,2018-19,Aston Villa,Brentford,2,2,13,6,4,19,1,1
+2018-08-22,Championship,2018-19,Blackburn,Reading,2,2,6,1,4,7,1,1
+2018-08-22,Championship,2018-19,Bolton,Birmingham,1,0,3,10,1,13,0,0
+2018-08-22,Championship,2018-19,Norwich,Preston,2,0,11,4,2,15,0,0
+2018-08-22,Championship,2018-19,Stoke,Wigan,0,3,4,3,3,7,0,1
+2018-08-24,Championship,2018-19,Middlesbrough,West Brom,1,0,10,4,1,14,0,0
+2018-08-25,Championship,2018-19,Aston Villa,Reading,1,1,4,9,2,13,1,0
+2018-08-25,Championship,2018-19,Blackburn,Brentford,1,0,3,4,1,7,0,0
+2018-08-25,Championship,2018-19,Bolton,Sheffield United,0,3,8,10,3,18,0,1
+2018-08-25,Championship,2018-19,Derby,Preston,2,0,9,4,2,13,0,0
+2018-08-25,Championship,2018-19,Norwich,Leeds,0,3,10,4,3,14,0,1
+2018-08-25,Championship,2018-19,Nott'm Forest,Birmingham,2,2,0,4,4,4,1,1
+2018-08-25,Championship,2018-19,QPR,Wigan,1,0,7,3,1,10,0,0
+2018-08-25,Championship,2018-19,Sheffield Weds,Ipswich,2,1,7,7,3,14,1,1
+2018-08-25,Championship,2018-19,Stoke,Hull,2,0,8,5,2,13,0,0
+2018-08-25,Championship,2018-19,Swansea,Bristol City,0,1,4,5,1,9,0,0
+2018-08-26,Championship,2018-19,Rotherham,Millwall,1,0,2,9,1,11,0,0
+2018-08-31,Championship,2018-19,Leeds,Middlesbrough,0,0,6,5,0,11,0,0
+2018-09-01,Championship,2018-19,Sheffield United,Aston Villa,4,1,9,1,5,10,1,1
+2018-09-01,Championship,2018-19,Reading,Sheffield Weds,1,2,9,6,3,15,1,1
+2018-09-01,Championship,2018-19,Wigan,Rotherham,1,0,3,6,1,9,0,0
+2018-09-01,Championship,2018-19,Preston,Bolton,2,2,7,4,4,11,1,1
+2018-09-01,Championship,2018-19,West Brom,Stoke,2,1,3,7,3,10,1,1
+2018-09-01,Championship,2018-19,Hull,Derby,1,2,7,10,3,17,1,1
+2018-09-01,Championship,2018-19,Birmingham,QPR,0,0,5,2,0,7,0,0
+2018-09-01,Championship,2018-19,Millwall,Swansea,1,2,5,3,3,8,1,1
+2018-09-01,Championship,2018-19,Brentford,Nott'm Forest,2,1,9,2,3,11,1,1
+2018-09-02,Championship,2018-19,Bristol City,Blackburn,4,1,8,5,5,13,1,1
+2018-09-02,Championship,2018-19,Ipswich,Norwich,1,1,7,6,2,13,1,0
+2018-09-14,Championship,2018-19,Birmingham,West Brom,1,1,6,3,2,9,1,0
+2018-09-15,Championship,2018-19,Sheffield Weds,Stoke,2,2,7,13,4,20,1,1
+2018-09-15,Championship,2018-19,Rotherham,Derby,1,0,9,5,1,14,0,0
+2018-09-15,Championship,2018-19,Preston,Reading,2,3,9,2,5,11,1,1
+2018-09-15,Championship,2018-19,Norwich,Middlesbrough,1,0,0,4,1,4,0,0
+2018-09-15,Championship,2018-19,Millwall,Leeds,1,1,6,4,2,10,1,0
+2018-09-15,Championship,2018-19,Swansea,Nott'm Forest,0,0,3,10,0,13,0,0
+2018-09-15,Championship,2018-19,Bristol City,Sheffield United,1,0,3,4,1,7,0,0
+2018-09-15,Championship,2018-19,Brentford,Wigan,2,0,9,3,2,12,0,0
+2018-09-15,Championship,2018-19,Bolton,QPR,1,2,12,1,3,13,1,1
+2018-09-15,Championship,2018-19,Blackburn,Aston Villa,1,1,8,3,2,11,1,0
+2018-09-15,Championship,2018-19,Hull,Ipswich,2,0,7,5,2,12,0,0
+2018-09-18,Championship,2018-19,West Brom,Bristol City,4,2,2,7,6,9,1,1
+2018-09-18,Championship,2018-19,Stoke,Swansea,1,0,1,3,1,4,0,0
+2018-09-18,Championship,2018-19,Leeds,Preston,3,0,4,3,3,7,0,1
+2018-09-18,Championship,2018-19,Wigan,Hull,2,1,7,3,3,10,1,1
+2018-09-18,Championship,2018-19,Aston Villa,Rotherham,2,0,3,3,2,6,0,0
+2018-09-18,Championship,2018-19,Ipswich,Brentford,1,1,8,6,2,14,1,0
+2018-09-18,Championship,2018-19,Derby,Blackburn,0,0,3,1,0,4,0,0
+2018-09-19,Championship,2018-19,Middlesbrough,Bolton,2,0,10,1,2,11,0,0
+2018-09-19,Championship,2018-19,Nott'm Forest,Sheffield Weds,2,1,2,2,3,4,1,1
+2018-09-19,Championship,2018-19,QPR,Millwall,2,0,3,5,2,8,0,0
+2018-09-19,Championship,2018-19,Reading,Norwich,1,2,6,7,3,13,1,1
+2018-09-19,Championship,2018-19,Sheffield United,Birmingham,0,0,9,5,0,14,0,0
+2018-09-21,Championship,2018-19,Wigan,Bristol City,1,0,2,4,1,6,0,0
+2018-09-22,Championship,2018-19,West Brom,Millwall,2,0,7,2,2,9,0,0
+2018-09-22,Championship,2018-19,QPR,Norwich,0,1,2,2,1,4,0,0
+2018-09-22,Championship,2018-19,Stoke,Blackburn,2,3,9,2,5,11,1,1
+2018-09-22,Championship,2018-19,Sheffield United,Preston,3,2,4,3,5,7,1,1
+2018-09-22,Championship,2018-19,Reading,Hull,3,0,4,4,3,8,0,1
+2018-09-22,Championship,2018-19,Middlesbrough,Swansea,0,0,10,3,0,13,0,0
+2018-09-22,Championship,2018-19,Leeds,Birmingham,1,2,7,4,3,11,1,1
+2018-09-22,Championship,2018-19,Ipswich,Bolton,0,0,6,4,0,10,0,0
+2018-09-22,Championship,2018-19,Derby,Brentford,3,1,3,9,4,12,1,1
+2018-09-22,Championship,2018-19,Aston Villa,Sheffield Weds,1,2,3,7,3,10,1,1
+2018-09-22,Championship,2018-19,Nott'm Forest,Rotherham,1,0,4,4,1,8,0,0
+2018-09-28,Championship,2018-19,Bristol City,Aston Villa,1,1,3,8,2,11,1,0
+2018-09-28,Championship,2018-19,Sheffield Weds,Leeds,1,1,3,11,2,14,1,0
+2018-09-29,Championship,2018-19,Rotherham,Stoke,2,2,6,8,4,14,1,1
+2018-09-29,Championship,2018-19,Preston,West Brom,2,3,2,2,5,4,1,1
+2018-09-29,Championship,2018-19,Norwich,Wigan,1,0,9,4,1,13,0,0
+2018-09-29,Championship,2018-19,Millwall,Sheffield United,2,3,5,10,5,15,1,1
+2018-09-29,Championship,2018-19,Swansea,QPR,3,0,5,5,3,10,0,1
+2018-09-29,Championship,2018-19,Brentford,Reading,2,2,6,4,4,10,1,1
+2018-09-29,Championship,2018-19,Bolton,Derby,1,0,2,9,1,11,0,0
+2018-09-29,Championship,2018-19,Blackburn,Nott'm Forest,2,2,6,8,4,14,1,1
+2018-09-29,Championship,2018-19,Birmingham,Ipswich,2,2,10,2,4,12,1,1
+2018-09-29,Championship,2018-19,Hull,Middlesbrough,1,1,2,4,2,6,1,0
+2018-10-02,Championship,2018-19,Wigan,Swansea,0,0,4,9,0,13,0,0
+2018-10-02,Championship,2018-19,Reading,QPR,0,1,4,5,1,9,0,0
+2018-10-02,Championship,2018-19,Ipswich,Middlesbrough,0,2,5,1,2,6,0,0
+2018-10-02,Championship,2018-19,Stoke,Bolton,2,0,9,3,2,12,0,0
+2018-10-02,Championship,2018-19,Brentford,Birmingham,1,1,9,7,2,16,1,0
+2018-10-02,Championship,2018-19,Aston Villa,Preston,3,3,4,4,6,8,1,1
+2018-10-02,Championship,2018-19,Hull,Leeds,0,1,3,4,1,7,0,0
+2018-10-03,Championship,2018-19,Blackburn,Sheffield United,0,2,4,7,2,11,0,0
+2018-10-03,Championship,2018-19,Derby,Norwich,1,1,7,8,2,15,1,0
+2018-10-03,Championship,2018-19,Nott'm Forest,Millwall,2,2,2,7,4,9,1,1
+2018-10-03,Championship,2018-19,Rotherham,Bristol City,0,0,6,3,0,9,0,0
+2018-10-03,Championship,2018-19,Sheffield Weds,West Brom,2,2,3,4,4,7,1,1
+2018-10-06,Championship,2018-19,QPR,Derby,1,1,1,10,2,11,1,0
+2018-10-06,Championship,2018-19,West Brom,Reading,4,1,7,7,5,14,1,1
+2018-10-06,Championship,2018-19,Swansea,Ipswich,2,3,13,6,5,19,1,1
+2018-10-06,Championship,2018-19,Sheffield United,Hull,1,0,7,5,1,12,0,0
+2018-10-06,Championship,2018-19,Preston,Wigan,4,0,6,5,4,11,0,1
+2018-10-06,Championship,2018-19,Norwich,Stoke,0,1,5,1,1,6,0,0
+2018-10-06,Championship,2018-19,Millwall,Aston Villa,2,1,9,4,3,13,1,1
+2018-10-06,Championship,2018-19,Middlesbrough,Nott'm Forest,0,2,11,4,2,15,0,0
+2018-10-06,Championship,2018-19,Leeds,Brentford,1,1,2,3,2,5,1,0
+2018-10-06,Championship,2018-19,Bolton,Blackburn,0,1,7,3,1,10,0,0
+2018-10-06,Championship,2018-19,Birmingham,Rotherham,3,1,3,5,4,8,1,1
+2018-10-07,Championship,2018-19,Bristol City,Sheffield Weds,1,2,5,5,3,10,1,1
+2018-10-19,Championship,2018-19,Sheffield Weds,Middlesbrough,1,2,3,8,3,11,1,1
+2018-10-20,Championship,2018-19,Stoke,Birmingham,0,1,11,4,1,15,0,0
+2018-10-20,Championship,2018-19,Rotherham,Bolton,1,1,5,4,2,9,1,0
+2018-10-20,Championship,2018-19,Reading,Millwall,3,1,6,14,4,20,1,1
+2018-10-20,Championship,2018-19,Nott'm Forest,Norwich,1,2,0,12,3,12,1,1
+2018-10-20,Championship,2018-19,Ipswich,QPR,0,2,2,12,2,14,0,0
+2018-10-20,Championship,2018-19,Wigan,West Brom,1,0,4,3,1,7,0,0
+2018-10-20,Championship,2018-19,Derby,Sheffield United,2,1,4,9,3,13,1,1
+2018-10-20,Championship,2018-19,Brentford,Bristol City,0,1,8,7,1,15,0,0
+2018-10-20,Championship,2018-19,Blackburn,Leeds,2,1,7,11,3,18,1,1
+2018-10-20,Championship,2018-19,Aston Villa,Swansea,1,0,3,8,1,11,0,0
+2018-10-20,Championship,2018-19,Hull,Preston,1,1,8,3,2,11,1,0
+2018-10-23,Championship,2018-19,Sheffield United,Stoke,1,1,14,4,2,18,1,0
+2018-10-23,Championship,2018-19,QPR,Sheffield Weds,3,0,4,9,3,13,0,1
+2018-10-23,Championship,2018-19,Norwich,Aston Villa,2,1,7,7,3,14,1,1
+2018-10-23,Championship,2018-19,Swansea,Blackburn,3,1,5,4,4,9,1,1
+2018-10-23,Championship,2018-19,Middlesbrough,Rotherham,0,0,13,7,0,20,0,0
+2018-10-23,Championship,2018-19,Birmingham,Reading,2,1,7,8,3,15,1,1
+2018-10-23,Championship,2018-19,Millwall,Wigan,2,1,10,2,3,12,1,1
+2018-10-24,Championship,2018-19,Bolton,Nott'm Forest,0,3,4,4,3,8,0,1
+2018-10-24,Championship,2018-19,Bristol City,Hull,1,0,7,7,1,14,0,0
+2018-10-24,Championship,2018-19,Leeds,Ipswich,2,0,15,0,2,15,0,0
+2018-10-24,Championship,2018-19,Preston,Brentford,4,3,4,6,7,10,1,1
+2018-10-24,Championship,2018-19,West Brom,Derby,1,4,4,2,5,6,1,1
+2018-10-26,Championship,2018-19,QPR,Aston Villa,1,0,5,9,1,14,0,0
+2018-10-27,Championship,2018-19,Preston,Rotherham,1,1,8,7,2,15,1,0
+2018-10-27,Championship,2018-19,West Brom,Blackburn,1,1,6,3,2,9,1,0
+2018-10-27,Championship,2018-19,Swansea,Reading,2,0,7,8,2,15,0,0
+2018-10-27,Championship,2018-19,Sheffield United,Wigan,4,2,6,11,6,17,1,1
+2018-10-27,Championship,2018-19,Norwich,Brentford,1,0,4,5,1,9,0,0
+2018-10-27,Championship,2018-19,Middlesbrough,Derby,1,1,9,4,2,13,1,0
+2018-10-27,Championship,2018-19,Leeds,Nott'm Forest,1,1,6,3,2,9,1,0
+2018-10-27,Championship,2018-19,Bristol City,Stoke,0,1,7,11,1,18,0,0
+2018-10-27,Championship,2018-19,Bolton,Hull,0,1,3,2,1,5,0,0
+2018-10-27,Championship,2018-19,Birmingham,Sheffield Weds,3,1,10,6,4,16,1,1
+2018-10-27,Championship,2018-19,Millwall,Ipswich,3,0,4,2,3,6,0,1
+2018-11-02,Championship,2018-19,Aston Villa,Bolton,2,0,2,8,2,10,0,0
+2018-11-03,Championship,2018-19,Stoke,Middlesbrough,0,0,7,2,0,9,0,0
+2018-11-03,Championship,2018-19,Sheffield Weds,Norwich,0,4,4,6,4,10,0,1
+2018-11-03,Championship,2018-19,Rotherham,Swansea,2,1,3,2,3,5,1,1
+2018-11-03,Championship,2018-19,Reading,Bristol City,3,2,1,6,5,7,1,1
+2018-11-03,Championship,2018-19,Nott'm Forest,Sheffield United,1,0,4,9,1,13,0,0
+2018-11-03,Championship,2018-19,Derby,Birmingham,3,1,6,7,4,13,1,1
+2018-11-03,Championship,2018-19,Hull,West Brom,1,0,4,4,1,8,0,0
+2018-11-03,Championship,2018-19,Brentford,Millwall,2,0,9,3,2,12,0,0
+2018-11-03,Championship,2018-19,Blackburn,QPR,1,0,5,2,1,7,0,0
+2018-11-03,Championship,2018-19,Ipswich,Preston,1,1,8,6,2,14,1,0
+2018-11-04,Championship,2018-19,Wigan,Leeds,1,2,4,6,3,10,1,1
+2018-11-09,Championship,2018-19,Sheffield United,Sheffield Weds,0,0,12,4,0,16,0,0
+2018-11-10,Championship,2018-19,Birmingham,Hull,3,3,3,3,6,6,1,1
+2018-11-10,Championship,2018-19,Blackburn,Rotherham,1,1,11,3,2,14,1,0
+2018-11-10,Championship,2018-19,Bolton,Swansea,0,1,2,6,1,8,0,0
+2018-11-10,Championship,2018-19,Bristol City,Preston,0,1,3,2,1,5,0,0
+2018-11-10,Championship,2018-19,Derby,Aston Villa,0,3,2,5,3,7,0,1
+2018-11-10,Championship,2018-19,Middlesbrough,Wigan,2,0,4,4,2,8,0,0
+2018-11-10,Championship,2018-19,Norwich,Millwall,4,3,6,3,7,9,1,1
+2018-11-10,Championship,2018-19,Nott'm Forest,Stoke,0,0,4,4,0,8,0,0
+2018-11-10,Championship,2018-19,QPR,Brentford,3,2,2,5,5,7,1,1
+2018-11-10,Championship,2018-19,Reading,Ipswich,2,2,4,5,4,9,1,1
+2018-11-10,Championship,2018-19,West Brom,Leeds,4,1,3,3,5,6,1,1
+2018-11-23,Championship,2018-19,Ipswich,West Brom,1,2,8,5,3,13,1,1
+2018-11-24,Championship,2018-19,Stoke,QPR,2,2,6,2,4,8,1,1
+2018-11-24,Championship,2018-19,Sheffield Weds,Derby,1,2,6,9,3,15,1,1
+2018-11-24,Championship,2018-19,Wigan,Reading,0,0,9,7,0,16,0,0
+2018-11-24,Championship,2018-19,Swansea,Norwich,1,4,7,2,5,9,1,1
+2018-11-24,Championship,2018-19,Rotherham,Sheffield United,2,2,6,5,4,11,1,1
+2018-11-24,Championship,2018-19,Hull,Nott'm Forest,0,2,6,5,2,11,0,0
+2018-11-24,Championship,2018-19,Millwall,Bolton,1,1,10,4,2,14,1,0
+2018-11-24,Championship,2018-19,Leeds,Bristol City,2,0,10,8,2,18,0,0
+2018-11-24,Championship,2018-19,Preston,Blackburn,4,1,4,5,5,9,1,1
+2018-11-24,Championship,2018-19,Brentford,Middlesbrough,1,2,9,4,3,13,1,1
+2018-11-25,Championship,2018-19,Aston Villa,Birmingham,4,2,3,6,6,9,1,1
+2018-11-27,Championship,2018-19,Rotherham,QPR,2,2,3,6,4,9,1,1
+2018-11-27,Championship,2018-19,Preston,Middlesbrough,1,1,7,5,2,12,1,0
+2018-11-27,Championship,2018-19,Sheffield Weds,Bolton,1,0,6,5,1,11,0,0
+2018-11-27,Championship,2018-19,Hull,Norwich,0,0,4,7,0,11,0,0
+2018-11-27,Championship,2018-19,Brentford,Sheffield United,2,3,2,9,5,11,1,1
+2018-11-27,Championship,2018-19,Leeds,Reading,1,0,3,3,1,6,0,0
+2018-11-28,Championship,2018-19,Aston Villa,Nott'm Forest,5,5,12,2,10,14,1,1
+2018-11-28,Championship,2018-19,Ipswich,Bristol City,2,3,6,2,5,8,1,1
+2018-11-28,Championship,2018-19,Millwall,Birmingham,0,2,6,4,2,10,0,0
+2018-11-28,Championship,2018-19,Stoke,Derby,2,1,6,7,3,13,1,1
+2018-11-28,Championship,2018-19,Swansea,West Brom,1,2,8,4,3,12,1,1
+2018-11-28,Championship,2018-19,Wigan,Blackburn,3,1,5,4,4,9,1,1
+2018-12-01,Championship,2018-19,Nott'm Forest,Ipswich,2,0,3,4,2,7,0,0
+2018-12-01,Championship,2018-19,Sheffield United,Leeds,0,1,9,3,1,12,0,0
+2018-12-01,Championship,2018-19,Reading,Stoke,2,2,5,5,4,10,1,1
+2018-12-01,Championship,2018-19,QPR,Hull,2,3,9,4,5,13,1,1
+2018-12-01,Championship,2018-19,Norwich,Rotherham,3,1,7,5,4,12,1,1
+2018-12-01,Championship,2018-19,Birmingham,Preston,3,0,9,2,3,11,0,1
+2018-12-01,Championship,2018-19,Derby,Swansea,2,1,5,5,3,10,1,1
+2018-12-01,Championship,2018-19,Bolton,Wigan,1,1,5,6,2,11,1,0
+2018-12-01,Championship,2018-19,Blackburn,Sheffield Weds,4,2,9,7,6,16,1,1
+2018-12-01,Championship,2018-19,Middlesbrough,Aston Villa,0,3,2,7,3,9,0,1
+2018-12-02,Championship,2018-19,Bristol City,Millwall,1,1,4,2,2,6,1,0
+2018-12-03,Championship,2018-19,West Brom,Brentford,1,1,7,3,2,10,1,0
+2018-12-07,Championship,2018-19,West Brom,Aston Villa,2,2,5,2,4,7,1,1
+2018-12-08,Championship,2018-19,Reading,Sheffield United,0,2,4,9,2,13,0,0
+2018-12-08,Championship,2018-19,Stoke,Ipswich,2,0,1,5,2,6,0,0
+2018-12-08,Championship,2018-19,Wigan,Derby,0,1,1,6,1,7,0,0
+2018-12-08,Championship,2018-19,Sheffield Weds,Rotherham,2,2,4,2,4,6,1,1
+2018-12-08,Championship,2018-19,Nott'm Forest,Preston,0,1,10,2,1,12,0,0
+2018-12-08,Championship,2018-19,Brentford,Swansea,2,3,11,3,5,14,1,1
+2018-12-08,Championship,2018-19,Millwall,Hull,2,2,8,3,4,11,1,1
+2018-12-08,Championship,2018-19,Middlesbrough,Blackburn,1,1,4,8,2,12,1,0
+2018-12-08,Championship,2018-19,Leeds,QPR,2,1,3,2,3,5,1,1
+2018-12-08,Championship,2018-19,Birmingham,Bristol City,0,1,6,4,1,10,0,0
+2018-12-08,Championship,2018-19,Norwich,Bolton,3,2,6,0,5,6,1,1
+2018-12-14,Championship,2018-19,Sheffield United,West Brom,1,2,5,5,3,10,1,1
+2018-12-15,Championship,2018-19,Swansea,Sheffield Weds,2,1,7,8,3,15,1,1
+2018-12-15,Championship,2018-19,Rotherham,Reading,1,1,13,4,2,17,1,0
+2018-12-15,Championship,2018-19,Preston,Millwall,3,2,8,10,5,18,1,1
+2018-12-15,Championship,2018-19,Ipswich,Wigan,1,0,3,7,1,10,0,0
+2018-12-15,Championship,2018-19,QPR,Middlesbrough,2,1,7,5,3,12,1,1
+2018-12-15,Championship,2018-19,Bristol City,Norwich,2,2,7,1,4,8,1,1
+2018-12-15,Championship,2018-19,Bolton,Leeds,0,1,4,10,1,14,0,0
+2018-12-15,Championship,2018-19,Blackburn,Birmingham,2,2,2,2,4,4,1,1
+2018-12-15,Championship,2018-19,Aston Villa,Stoke,2,2,8,3,4,11,1,1
+2018-12-15,Championship,2018-19,Hull,Brentford,2,0,3,7,2,10,0,0
+2018-12-17,Championship,2018-19,Derby,Nott'm Forest,0,0,2,4,0,6,0,0
+2018-12-22,Championship,2018-19,Sheffield Weds,Preston,1,0,5,4,1,9,0,0
+2018-12-22,Championship,2018-19,Rotherham,West Brom,0,4,8,3,4,11,0,1
+2018-12-22,Championship,2018-19,Reading,Middlesbrough,0,1,9,8,1,17,0,0
+2018-12-22,Championship,2018-19,Nott'm Forest,QPR,0,1,4,3,1,7,0,0
+2018-12-22,Championship,2018-19,Derby,Bristol City,1,1,9,3,2,12,1,0
+2018-12-22,Championship,2018-19,Hull,Swansea,3,2,7,2,5,9,1,1
+2018-12-22,Championship,2018-19,Brentford,Bolton,1,0,7,4,1,11,0,0
+2018-12-22,Championship,2018-19,Blackburn,Norwich,0,1,6,4,1,10,0,0
+2018-12-22,Championship,2018-19,Stoke,Millwall,1,0,8,4,1,12,0,0
+2018-12-22,Championship,2018-19,Ipswich,Sheffield United,1,1,6,5,2,11,1,0
+2018-12-22,Championship,2018-19,Wigan,Birmingham,0,3,4,3,3,7,0,1
+2018-12-23,Championship,2018-19,Aston Villa,Leeds,2,3,6,8,5,14,1,1
+2018-12-26,Championship,2018-19,Birmingham,Stoke,2,0,10,5,2,15,0,0
+2018-12-26,Championship,2018-19,West Brom,Wigan,2,0,6,6,2,12,0,0
+2018-12-26,Championship,2018-19,Swansea,Aston Villa,0,1,9,4,1,13,0,0
+2018-12-26,Championship,2018-19,Sheffield United,Derby,3,1,2,6,4,8,1,1
+2018-12-26,Championship,2018-19,Preston,Hull,1,2,6,7,3,13,1,1
+2018-12-26,Championship,2018-19,Norwich,Nott'm Forest,3,3,4,1,6,5,1,1
+2018-12-26,Championship,2018-19,QPR,Ipswich,3,0,5,5,3,10,0,1
+2018-12-26,Championship,2018-19,Middlesbrough,Sheffield Weds,0,1,5,1,1,6,0,0
+2018-12-26,Championship,2018-19,Leeds,Blackburn,3,2,6,2,5,8,1,1
+2018-12-26,Championship,2018-19,Bristol City,Brentford,1,1,3,4,2,7,1,0
+2018-12-26,Championship,2018-19,Bolton,Rotherham,2,1,2,4,3,6,1,1
+2018-12-26,Championship,2018-19,Millwall,Reading,1,0,8,4,1,12,0,0
+2018-12-29,Championship,2018-19,Preston,Aston Villa,1,1,6,5,2,11,1,0
+2018-12-29,Championship,2018-19,West Brom,Sheffield Weds,1,1,10,4,2,14,1,0
+2018-12-29,Championship,2018-19,Swansea,Wigan,2,2,7,5,4,12,1,1
+2018-12-29,Championship,2018-19,Sheffield United,Blackburn,3,0,6,4,3,10,0,1
+2018-12-29,Championship,2018-19,QPR,Reading,0,0,7,7,0,14,0,0
+2018-12-29,Championship,2018-19,Norwich,Derby,3,4,5,7,7,12,1,1
+2018-12-29,Championship,2018-19,Bristol City,Rotherham,1,0,13,8,1,21,0,0
+2018-12-29,Championship,2018-19,Middlesbrough,Ipswich,2,0,5,3,2,8,0,0
+2018-12-29,Championship,2018-19,Leeds,Hull,0,2,8,2,2,10,0,0
+2018-12-29,Championship,2018-19,Bolton,Stoke,0,0,1,6,0,7,0,0
+2018-12-29,Championship,2018-19,Birmingham,Brentford,0,0,4,3,0,7,0,0
+2018-12-29,Championship,2018-19,Millwall,Nott'm Forest,1,0,10,5,1,15,0,0
+2019-01-01,Championship,2018-19,Reading,Swansea,1,4,7,1,5,8,1,1
+2019-01-01,Championship,2018-19,Wigan,Sheffield United,0,3,7,8,3,15,0,1
+2019-01-01,Championship,2018-19,Stoke,Bristol City,0,2,7,0,2,7,0,0
+2019-01-01,Championship,2018-19,Rotherham,Preston,2,1,3,5,3,8,1,1
+2019-01-01,Championship,2018-19,Nott'm Forest,Leeds,4,2,6,8,6,14,1,1
+2019-01-01,Championship,2018-19,Sheffield Weds,Birmingham,1,1,6,4,2,10,1,0
+2019-01-01,Championship,2018-19,Hull,Bolton,6,0,6,1,6,7,0,1
+2019-01-01,Championship,2018-19,Derby,Middlesbrough,1,1,4,5,2,9,1,0
+2019-01-01,Championship,2018-19,Brentford,Norwich,1,1,5,8,2,13,1,0
+2019-01-01,Championship,2018-19,Ipswich,Millwall,2,3,6,3,5,9,1,1
+2019-01-01,Championship,2018-19,Blackburn,West Brom,2,1,3,6,3,9,1,1
+2019-01-01,Championship,2018-19,Aston Villa,QPR,2,2,9,1,4,10,1,1
+2019-01-11,Championship,2018-19,Leeds,Derby,2,0,8,2,2,10,0,0
+2019-01-12,Championship,2018-19,Sheffield United,QPR,1,0,6,2,1,8,0,0
+2019-01-12,Championship,2018-19,Reading,Nott'm Forest,2,0,6,2,2,8,0,0
+2019-01-12,Championship,2018-19,Preston,Swansea,1,1,3,4,2,7,1,0
+2019-01-12,Championship,2018-19,Millwall,Blackburn,0,2,2,1,2,3,0,0
+2019-01-12,Championship,2018-19,Brentford,Stoke,3,1,6,3,4,9,1,1
+2019-01-12,Championship,2018-19,Hull,Sheffield Weds,3,0,5,1,3,6,0,1
+2019-01-12,Championship,2018-19,Bristol City,Bolton,2,1,9,0,3,9,1,1
+2019-01-12,Championship,2018-19,West Brom,Norwich,1,1,6,5,2,11,1,0
+2019-01-12,Championship,2018-19,Birmingham,Middlesbrough,1,2,2,4,3,6,1,1
+2019-01-12,Championship,2018-19,Ipswich,Rotherham,1,0,1,4,1,5,0,0
+2019-01-12,Championship,2018-19,Wigan,Aston Villa,3,0,8,6,3,14,0,1
+2019-01-18,Championship,2018-19,Norwich,Birmingham,3,1,5,6,4,11,1,1
+2019-01-19,Championship,2018-19,Aston Villa,Hull,2,2,7,5,4,12,1,1
+2019-01-19,Championship,2018-19,Swansea,Sheffield United,1,0,3,7,1,10,0,0
+2019-01-19,Championship,2018-19,Sheffield Weds,Wigan,1,0,9,1,1,10,0,0
+2019-01-19,Championship,2018-19,Rotherham,Brentford,2,4,5,1,6,6,1,1
+2019-01-19,Championship,2018-19,QPR,Preston,1,4,5,6,5,11,1,1
+2019-01-19,Championship,2018-19,Stoke,Leeds,2,1,6,8,3,14,1,1
+2019-01-19,Championship,2018-19,Middlesbrough,Millwall,1,1,8,4,2,12,1,0
+2019-01-19,Championship,2018-19,Derby,Reading,2,1,4,3,3,7,1,1
+2019-01-19,Championship,2018-19,Blackburn,Ipswich,2,0,6,5,2,11,0,0
+2019-01-19,Championship,2018-19,Nott'm Forest,Bristol City,0,1,10,4,1,14,0,0
+2019-01-21,Championship,2018-19,Bolton,West Brom,0,2,10,5,2,15,0,0
+2019-01-26,Championship,2018-19,Stoke,Preston,0,2,9,8,2,17,0,0
+2019-01-26,Championship,2018-19,Aston Villa,Ipswich,2,1,9,3,3,12,1,1
+2019-01-26,Championship,2018-19,Blackburn,Hull,3,0,6,3,3,9,0,1
+2019-01-26,Championship,2018-19,Norwich,Sheffield United,2,2,10,3,4,13,1,1
+2019-01-26,Championship,2018-19,Nott'm Forest,Wigan,3,1,3,4,4,7,1,1
+2019-01-26,Championship,2018-19,Rotherham,Leeds,1,2,4,5,3,9,1,1
+2019-01-29,Championship,2018-19,Swansea,Birmingham,3,3,12,4,6,16,1,1
+2019-01-29,Championship,2018-19,Bolton,Reading,1,1,3,2,2,5,1,0
+2019-02-01,Championship,2018-19,Preston,Derby,0,0,11,1,0,12,0,0
+2019-02-02,Championship,2018-19,Wigan,QPR,2,1,3,6,3,9,1,1
+2019-02-02,Championship,2018-19,West Brom,Middlesbrough,2,3,9,1,5,10,1,1
+2019-02-02,Championship,2018-19,Sheffield United,Bolton,2,0,13,3,2,16,0,0
+2019-02-02,Championship,2018-19,Millwall,Rotherham,0,0,7,6,0,13,0,0
+2019-02-02,Championship,2018-19,Leeds,Norwich,1,3,4,4,4,8,1,1
+2019-02-02,Championship,2018-19,Reading,Aston Villa,0,0,5,6,0,11,0,0
+2019-02-02,Championship,2018-19,Hull,Stoke,2,0,3,3,2,6,0,0
+2019-02-02,Championship,2018-19,Bristol City,Swansea,2,0,6,3,2,9,0,0
+2019-02-02,Championship,2018-19,Brentford,Blackburn,5,2,5,5,7,10,1,1
+2019-02-02,Championship,2018-19,Birmingham,Nott'm Forest,2,0,4,5,2,9,0,0
+2019-02-02,Championship,2018-19,Ipswich,Sheffield Weds,0,1,3,2,1,5,0,0
+2019-02-08,Championship,2018-19,Aston Villa,Sheffield United,3,3,2,2,6,4,1,1
+2019-02-09,Championship,2018-19,Rotherham,Wigan,1,1,12,2,2,14,1,0
+2019-02-09,Championship,2018-19,Swansea,Millwall,1,0,9,5,1,14,0,0
+2019-02-09,Championship,2018-19,Stoke,West Brom,0,1,5,4,1,9,0,0
+2019-02-09,Championship,2018-19,Sheffield Weds,Reading,0,0,5,6,0,11,0,0
+2019-02-09,Championship,2018-19,QPR,Birmingham,3,4,6,3,7,9,1,1
+2019-02-09,Championship,2018-19,Derby,Hull,2,0,5,3,2,8,0,0
+2019-02-09,Championship,2018-19,Middlesbrough,Leeds,1,1,2,9,2,11,1,0
+2019-02-09,Championship,2018-19,Bolton,Preston,1,2,4,10,3,14,1,1
+2019-02-09,Championship,2018-19,Blackburn,Bristol City,0,1,4,8,1,12,0,0
+2019-02-09,Championship,2018-19,Nott'm Forest,Brentford,2,1,2,10,3,12,1,1
+2019-02-10,Championship,2018-19,Norwich,Ipswich,3,0,5,7,3,12,0,1
+2019-02-12,Championship,2018-19,Birmingham,Bolton,0,1,3,4,1,7,0,0
+2019-02-12,Championship,2018-19,Bristol City,QPR,2,1,8,1,3,9,1,1
+2019-02-12,Championship,2018-19,Hull,Rotherham,2,2,5,5,4,10,1,1
+2019-02-12,Championship,2018-19,Millwall,Sheffield Weds,0,0,5,4,0,9,0,0
+2019-02-12,Championship,2018-19,West Brom,Nott'm Forest,2,2,7,3,4,10,1,1
+2019-02-13,Championship,2018-19,Sheffield United,Middlesbrough,1,0,4,4,1,8,0,0
+2019-02-13,Championship,2018-19,Wigan,Stoke,0,0,6,7,0,13,0,0
+2019-02-13,Championship,2018-19,Reading,Blackburn,2,1,4,5,3,9,1,1
+2019-02-13,Championship,2018-19,Preston,Norwich,3,1,3,8,4,11,1,1
+2019-02-13,Championship,2018-19,Leeds,Swansea,2,1,6,4,3,10,1,1
+2019-02-13,Championship,2018-19,Ipswich,Derby,1,1,7,4,2,11,1,0
+2019-02-13,Championship,2018-19,Brentford,Aston Villa,1,0,8,5,1,13,0,0
+2019-02-16,Championship,2018-19,Rotherham,Sheffield Weds,2,2,5,4,4,9,1,1
+2019-02-16,Championship,2018-19,Preston,Nott'm Forest,0,0,4,6,0,10,0,0
+2019-02-16,Championship,2018-19,Sheffield United,Reading,4,0,4,5,4,9,0,1
+2019-02-16,Championship,2018-19,Bolton,Norwich,0,4,3,8,4,11,0,1
+2019-02-16,Championship,2018-19,Aston Villa,West Brom,0,2,9,2,2,11,0,0
+2019-02-16,Championship,2018-19,Ipswich,Stoke,1,1,5,6,2,11,1,0
+2019-02-17,Championship,2018-19,Blackburn,Middlesbrough,0,1,4,5,1,9,0,0
+2019-02-19,Championship,2018-19,QPR,West Brom,2,3,4,9,5,13,1,1
+2019-02-20,Championship,2018-19,Derby,Millwall,0,1,6,1,1,7,0,0
+2019-02-23,Championship,2018-19,Sheffield Weds,Swansea,3,1,4,1,4,5,1,1
+2019-02-23,Championship,2018-19,Wigan,Ipswich,1,1,5,4,2,9,1,0
+2019-02-23,Championship,2018-19,West Brom,Sheffield United,0,1,5,3,1,8,0,0
+2019-02-23,Championship,2018-19,Stoke,Aston Villa,1,1,2,6,2,8,1,0
+2019-02-23,Championship,2018-19,Reading,Rotherham,1,1,5,6,2,11,1,0
+2019-02-23,Championship,2018-19,Millwall,Preston,1,3,4,6,4,10,1,1
+2019-02-23,Championship,2018-19,Middlesbrough,QPR,2,0,4,3,2,7,0,0
+2019-02-23,Championship,2018-19,Leeds,Bolton,2,1,8,4,3,12,1,1
+2019-02-23,Championship,2018-19,Brentford,Hull,5,1,3,6,6,9,1,1
+2019-02-23,Championship,2018-19,Birmingham,Blackburn,2,2,8,3,4,11,1,1
+2019-02-23,Championship,2018-19,Norwich,Bristol City,3,2,10,4,5,14,1,1
+2019-02-25,Championship,2018-19,Nott'm Forest,Derby,1,0,2,3,1,5,0,0
+2019-02-26,Championship,2018-19,Bristol City,Birmingham,1,2,4,1,3,5,1,1
+2019-02-26,Championship,2018-19,Hull,Millwall,2,1,3,3,3,6,1,1
+2019-02-26,Championship,2018-19,QPR,Leeds,1,0,2,13,1,15,0,0
+2019-02-26,Championship,2018-19,Sheffield Weds,Brentford,2,0,5,5,2,10,0,0
+2019-03-01,Championship,2018-19,Leeds,West Brom,4,0,3,4,4,7,0,1
+2019-03-02,Championship,2018-19,Rotherham,Blackburn,3,2,1,4,5,5,1,1
+2019-03-02,Championship,2018-19,Wigan,Middlesbrough,0,0,5,7,0,12,0,0
+2019-03-02,Championship,2018-19,Swansea,Bolton,2,0,6,1,2,7,0,0
+2019-03-02,Championship,2018-19,Preston,Bristol City,1,1,5,5,2,10,1,0
+2019-03-02,Championship,2018-19,Stoke,Nott'm Forest,2,0,6,3,2,9,0,0
+2019-03-02,Championship,2018-19,Ipswich,Reading,1,2,3,1,3,4,1,1
+2019-03-02,Championship,2018-19,Aston Villa,Derby,4,0,8,1,4,9,0,1
+2019-03-02,Championship,2018-19,Brentford,QPR,3,0,3,5,3,8,0,1
+2019-03-02,Championship,2018-19,Millwall,Norwich,1,3,8,6,4,14,1,1
+2019-03-02,Championship,2018-19,Hull,Birmingham,2,0,1,8,2,9,0,0
+2019-03-04,Championship,2018-19,Sheffield Weds,Sheffield United,0,0,2,10,0,12,0,0
+2019-03-05,Championship,2018-19,Derby,Wigan,2,1,6,5,3,11,1,1
+2019-03-08,Championship,2018-19,Norwich,Swansea,1,0,7,8,1,15,0,0
+2019-03-09,Championship,2018-19,West Brom,Ipswich,1,1,8,7,2,15,1,0
+2019-03-09,Championship,2018-19,Sheffield United,Rotherham,2,0,5,3,2,8,0,0
+2019-03-09,Championship,2018-19,Reading,Wigan,3,2,3,3,5,6,1,1
+2019-03-09,Championship,2018-19,QPR,Stoke,0,0,8,1,0,9,0,0
+2019-03-09,Championship,2018-19,Nott'm Forest,Hull,3,0,4,2,3,6,0,1
+2019-03-09,Championship,2018-19,Middlesbrough,Brentford,1,2,3,3,3,6,1,1
+2019-03-09,Championship,2018-19,Derby,Sheffield Weds,1,1,6,2,2,8,1,0
+2019-03-09,Championship,2018-19,Bristol City,Leeds,0,1,1,2,1,3,0,0
+2019-03-09,Championship,2018-19,Bolton,Millwall,2,1,5,8,3,13,1,1
+2019-03-09,Championship,2018-19,Blackburn,Preston,0,1,8,5,1,13,0,0
+2019-03-10,Championship,2018-19,Birmingham,Aston Villa,0,1,6,3,1,9,0,0
+2019-03-12,Championship,2018-19,Sheffield United,Brentford,2,0,3,12,2,15,0,0
+2019-03-12,Championship,2018-19,Reading,Leeds,0,3,3,3,3,6,0,1
+2019-03-12,Championship,2018-19,Blackburn,Wigan,3,0,5,6,3,11,0,1
+2019-03-12,Championship,2018-19,Bolton,Sheffield Weds,0,2,3,3,2,6,0,0
+2019-03-12,Championship,2018-19,Bristol City,Ipswich,1,1,5,5,2,10,1,0
+2019-03-13,Championship,2018-19,Birmingham,Millwall,0,2,7,3,2,10,0,0
+2019-03-13,Championship,2018-19,Derby,Stoke,0,0,4,3,0,7,0,0
+2019-03-13,Championship,2018-19,Middlesbrough,Preston,1,2,10,7,3,17,1,1
+2019-03-13,Championship,2018-19,Norwich,Hull,3,2,8,2,5,10,1,1
+2019-03-13,Championship,2018-19,Nott'm Forest,Aston Villa,1,3,8,6,4,14,1,1
+2019-03-13,Championship,2018-19,QPR,Rotherham,1,2,5,3,3,8,1,1
+2019-03-13,Championship,2018-19,West Brom,Swansea,3,0,4,4,3,8,0,1
+2019-03-16,Championship,2018-19,Sheffield Weds,Blackburn,4,2,2,3,6,5,1,1
+2019-03-16,Championship,2018-19,Wigan,Bolton,5,2,4,9,7,13,1,1
+2019-03-16,Championship,2018-19,Stoke,Reading,0,0,6,2,0,8,0,0
+2019-03-16,Championship,2018-19,Rotherham,Norwich,1,2,4,6,3,10,1,1
+2019-03-16,Championship,2018-19,Preston,Birmingham,1,0,3,6,1,9,0,0
+2019-03-16,Championship,2018-19,Ipswich,Nott'm Forest,1,1,6,5,2,11,1,0
+2019-03-16,Championship,2018-19,Leeds,Sheffield United,0,1,3,6,1,9,0,0
+2019-03-16,Championship,2018-19,Hull,QPR,2,2,4,4,4,8,1,1
+2019-03-16,Championship,2018-19,Brentford,West Brom,0,1,6,14,1,20,0,0
+2019-03-16,Championship,2018-19,Aston Villa,Middlesbrough,3,0,6,2,3,8,0,1
+2019-03-29,Championship,2018-19,West Brom,Birmingham,3,2,6,7,5,13,1,1
+2019-03-30,Championship,2018-19,Stoke,Sheffield Weds,0,0,13,2,0,15,0,0
+2019-03-30,Championship,2018-19,Sheffield United,Bristol City,2,3,4,2,5,6,1,1
+2019-03-30,Championship,2018-19,Reading,Preston,2,1,1,6,3,7,1,1
+2019-03-30,Championship,2018-19,QPR,Bolton,1,2,9,1,3,10,1,1
+2019-03-30,Championship,2018-19,Nott'm Forest,Swansea,2,1,7,5,3,12,1,1
+2019-03-30,Championship,2018-19,Wigan,Brentford,0,0,6,5,0,11,0,0
+2019-03-30,Championship,2018-19,Leeds,Millwall,3,2,7,2,5,9,1,1
+2019-03-30,Championship,2018-19,Ipswich,Hull,0,2,5,3,2,8,0,0
+2019-03-30,Championship,2018-19,Derby,Rotherham,6,1,1,5,7,6,1,1
+2019-03-30,Championship,2018-19,Aston Villa,Blackburn,2,1,4,5,3,9,1,1
+2019-03-30,Championship,2018-19,Middlesbrough,Norwich,0,1,4,6,1,10,0,0
+2019-04-02,Championship,2018-19,Middlesbrough,Bristol City,0,1,5,6,1,11,0,0
+2019-04-02,Championship,2018-19,Swansea,Brentford,3,0,1,2,3,3,0,1
+2019-04-06,Championship,2018-19,Swansea,Middlesbrough,3,1,3,4,4,7,1,1
+2019-04-06,Championship,2018-19,Sheffield Weds,Aston Villa,1,3,6,3,4,9,1,1
+2019-04-06,Championship,2018-19,Rotherham,Nott'm Forest,2,1,4,4,3,8,1,1
+2019-04-06,Championship,2018-19,Preston,Sheffield United,0,1,5,8,1,13,0,0
+2019-04-06,Championship,2018-19,Norwich,QPR,4,0,5,4,4,9,0,1
+2019-04-06,Championship,2018-19,Millwall,West Brom,2,0,6,7,2,13,0,0
+2019-04-06,Championship,2018-19,Brentford,Derby,3,3,7,3,6,10,1,1
+2019-04-06,Championship,2018-19,Bristol City,Wigan,2,2,13,8,4,21,1,1
+2019-04-06,Championship,2018-19,Bolton,Ipswich,1,2,5,4,3,9,1,1
+2019-04-06,Championship,2018-19,Blackburn,Stoke,0,1,5,4,1,9,0,0
+2019-04-06,Championship,2018-19,Birmingham,Leeds,1,0,4,8,1,12,0,0
+2019-04-06,Championship,2018-19,Hull,Reading,3,1,5,3,4,8,1,1
+2019-04-09,Championship,2018-19,Sheffield Weds,Nott'm Forest,3,0,1,2,3,3,0,1
+2019-04-09,Championship,2018-19,Swansea,Stoke,3,1,6,1,4,7,1,1
+2019-04-09,Championship,2018-19,Preston,Leeds,0,2,3,6,2,9,0,0
+2019-04-09,Championship,2018-19,Bolton,Middlesbrough,0,2,8,9,2,17,0,0
+2019-04-09,Championship,2018-19,Blackburn,Derby,2,0,9,3,2,12,0,0
+2019-04-09,Championship,2018-19,Bristol City,West Brom,3,2,4,5,5,9,1,1
+2019-04-10,Championship,2018-19,Birmingham,Sheffield United,1,1,5,4,2,9,1,0
+2019-04-10,Championship,2018-19,Brentford,Ipswich,2,0,6,1,2,7,0,0
+2019-04-10,Championship,2018-19,Hull,Wigan,2,1,12,2,3,14,1,1
+2019-04-10,Championship,2018-19,Millwall,QPR,0,0,9,3,0,12,0,0
+2019-04-10,Championship,2018-19,Norwich,Reading,2,2,13,2,4,15,1,1
+2019-04-10,Championship,2018-19,Rotherham,Aston Villa,1,2,8,7,3,15,1,1
+2019-04-13,Championship,2018-19,Stoke,Rotherham,2,2,4,8,4,12,1,1
+2019-04-13,Championship,2018-19,Sheffield United,Millwall,1,1,10,7,2,17,1,0
+2019-04-13,Championship,2018-19,Reading,Brentford,2,1,3,12,3,15,1,1
+2019-04-13,Championship,2018-19,QPR,Swansea,4,0,8,8,4,16,0,1
+2019-04-13,Championship,2018-19,Nott'm Forest,Blackburn,1,2,3,5,3,8,1,1
+2019-04-13,Championship,2018-19,West Brom,Preston,4,1,9,6,5,15,1,1
+2019-04-13,Championship,2018-19,Leeds,Sheffield Weds,1,0,8,2,1,10,0,0
+2019-04-13,Championship,2018-19,Ipswich,Birmingham,1,1,7,5,2,12,1,0
+2019-04-13,Championship,2018-19,Derby,Bolton,4,0,10,3,4,13,0,1
+2019-04-13,Championship,2018-19,Aston Villa,Bristol City,2,1,10,4,3,14,1,1
+2019-04-13,Championship,2018-19,Middlesbrough,Hull,1,0,4,5,1,9,0,0
+2019-04-14,Championship,2018-19,Wigan,Norwich,1,1,5,8,2,13,1,0
+2019-04-19,Championship,2018-19,West Brom,Hull,3,2,5,9,5,14,1,1
+2019-04-19,Championship,2018-19,Swansea,Rotherham,4,3,6,9,7,15,1,1
+2019-04-19,Championship,2018-19,Sheffield United,Nott'm Forest,2,0,9,2,2,11,0,0
+2019-04-19,Championship,2018-19,QPR,Blackburn,1,2,8,4,3,12,1,1
+2019-04-19,Championship,2018-19,Preston,Ipswich,4,0,3,4,4,7,0,1
+2019-04-19,Championship,2018-19,Norwich,Sheffield Weds,2,2,13,2,4,15,1,1
+2019-04-19,Championship,2018-19,Millwall,Brentford,1,1,7,3,2,10,1,0
+2019-04-19,Championship,2018-19,Leeds,Wigan,1,2,15,2,3,17,1,1
+2019-04-19,Championship,2018-19,Bristol City,Reading,1,1,9,6,2,15,1,0
+2019-04-19,Championship,2018-19,Bolton,Aston Villa,0,2,2,16,2,18,0,0
+2019-04-19,Championship,2018-19,Birmingham,Derby,2,2,9,4,4,13,1,1
+2019-04-19,Championship,2018-19,Middlesbrough,Stoke,1,0,2,10,1,12,0,0
+2019-04-22,Championship,2018-19,Reading,West Brom,0,0,4,4,0,8,0,0
+2019-04-22,Championship,2018-19,Stoke,Norwich,2,2,5,7,4,12,1,1
+2019-04-22,Championship,2018-19,Sheffield Weds,Bristol City,2,0,4,4,2,8,0,0
+2019-04-22,Championship,2018-19,Wigan,Preston,2,0,2,8,2,10,0,0
+2019-04-22,Championship,2018-19,Rotherham,Birmingham,1,3,7,6,4,13,1,1
+2019-04-22,Championship,2018-19,Nott'm Forest,Middlesbrough,3,0,7,2,3,9,0,1
+2019-04-22,Championship,2018-19,Brentford,Leeds,2,0,5,10,2,15,0,0
+2019-04-22,Championship,2018-19,Hull,Sheffield United,0,3,7,4,3,11,0,1
+2019-04-22,Championship,2018-19,Derby,QPR,2,0,8,2,2,10,0,0
+2019-04-22,Championship,2018-19,Blackburn,Bolton,2,0,3,2,2,5,0,0
+2019-04-22,Championship,2018-19,Aston Villa,Millwall,1,0,12,3,1,15,0,0
+2019-04-22,Championship,2018-19,Ipswich,Swansea,0,1,4,4,1,8,0,0
+2019-04-27,Championship,2018-19,Swansea,Hull,2,2,10,6,4,16,1,1
+2019-04-27,Championship,2018-19,Sheffield United,Ipswich,2,0,9,1,2,10,0,0
+2019-04-27,Championship,2018-19,QPR,Nott'm Forest,0,1,8,4,1,12,0,0
+2019-04-27,Championship,2018-19,Preston,Sheffield Weds,3,3,5,4,6,9,1,1
+2019-04-27,Championship,2018-19,Norwich,Blackburn,2,1,11,2,3,13,1,1
+2019-04-27,Championship,2018-19,West Brom,Rotherham,2,1,7,10,3,17,1,1
+2019-04-27,Championship,2018-19,Middlesbrough,Reading,2,1,7,4,3,11,1,1
+2019-04-27,Championship,2018-19,Bristol City,Derby,0,2,5,2,2,7,0,0
+2019-04-27,Championship,2018-19,Bolton,Brentford,0,1,0,0,1,0,0,0
+2019-04-27,Championship,2018-19,Birmingham,Wigan,1,1,1,3,2,4,1,0
+2019-04-27,Championship,2018-19,Millwall,Stoke,0,0,3,5,0,8,0,0
+2019-04-28,Championship,2018-19,Leeds,Aston Villa,1,1,7,3,2,10,1,0
+2019-04-30,Championship,2018-19,Millwall,Bristol City,1,2,3,4,3,7,1,1
+2019-05-01,Championship,2018-19,Swansea,Derby,1,1,4,8,2,12,1,0
+2019-05-05,Championship,2018-19,Sheffield Weds,QPR,1,2,9,5,3,14,1,1
+2019-05-05,Championship,2018-19,Rotherham,Middlesbrough,1,2,6,5,3,11,1,1
+2019-05-05,Championship,2018-19,Reading,Birmingham,0,0,5,5,0,10,0,0
+2019-05-05,Championship,2018-19,Nott'm Forest,Bolton,1,0,3,3,1,6,0,0
+2019-05-05,Championship,2018-19,Ipswich,Leeds,3,2,2,11,5,13,1,1
+2019-05-05,Championship,2018-19,Blackburn,Swansea,2,2,11,3,4,14,1,1
+2019-05-05,Championship,2018-19,Derby,West Brom,3,1,5,2,4,7,1,1
+2019-05-05,Championship,2018-19,Brentford,Preston,3,0,8,3,3,11,0,1
+2019-05-05,Championship,2018-19,Aston Villa,Norwich,1,2,9,9,3,18,1,1
+2019-05-05,Championship,2018-19,Stoke,Sheffield United,2,2,4,6,4,10,1,1
+2019-05-05,Championship,2018-19,Hull,Bristol City,1,1,3,6,2,9,1,0
+2019-05-05,Championship,2018-19,Wigan,Millwall,1,0,5,8,1,13,0,0

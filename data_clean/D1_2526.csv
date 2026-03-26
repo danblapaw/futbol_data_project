@@ -1,0 +1,244 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2025-08-22,Bundesliga,2025-26,Bayern Munich,RB Leipzig,6,0,5,5,6,10,0,1
+2025-08-23,Bundesliga,2025-26,Ein Frankfurt,Werder Bremen,4,1,7,1,5,8,1,1
+2025-08-23,Bundesliga,2025-26,Freiburg,Augsburg,1,3,5,5,4,10,1,1
+2025-08-23,Bundesliga,2025-26,Heidenheim,Wolfsburg,1,3,2,5,4,7,1,1
+2025-08-23,Bundesliga,2025-26,Leverkusen,Hoffenheim,1,2,6,4,3,10,1,1
+2025-08-23,Bundesliga,2025-26,Union Berlin,Stuttgart,2,1,5,11,3,16,1,1
+2025-08-23,Bundesliga,2025-26,St Pauli,Dortmund,3,3,5,2,6,7,1,1
+2025-08-24,Bundesliga,2025-26,Mainz,FC Koln,0,1,8,3,1,11,0,0
+2025-08-24,Bundesliga,2025-26,M'gladbach,Hamburg,0,0,7,6,0,13,0,0
+2025-08-29,Bundesliga,2025-26,Hamburg,St Pauli,0,2,2,5,2,7,0,0
+2025-08-30,Bundesliga,2025-26,Werder Bremen,Leverkusen,3,3,3,7,6,10,1,1
+2025-08-30,Bundesliga,2025-26,Stuttgart,M'gladbach,1,0,6,10,1,16,0,0
+2025-08-30,Bundesliga,2025-26,Augsburg,Bayern Munich,2,3,7,5,5,12,1,1
+2025-08-30,Bundesliga,2025-26,Hoffenheim,Ein Frankfurt,1,3,4,5,4,9,1,1
+2025-08-30,Bundesliga,2025-26,RB Leipzig,Heidenheim,2,0,4,3,2,7,0,0
+2025-08-31,Bundesliga,2025-26,Wolfsburg,Mainz,1,1,3,10,2,13,1,0
+2025-08-31,Bundesliga,2025-26,Dortmund,Union Berlin,3,0,4,6,3,10,0,1
+2025-08-31,Bundesliga,2025-26,FC Koln,Freiburg,4,1,3,5,5,8,1,1
+2025-09-12,Bundesliga,2025-26,Leverkusen,Ein Frankfurt,3,1,4,8,4,12,1,1
+2025-09-13,Bundesliga,2025-26,Bayern Munich,Hamburg,5,0,5,3,5,8,0,1
+2025-09-13,Bundesliga,2025-26,Wolfsburg,FC Koln,3,3,7,4,6,11,1,1
+2025-09-13,Bundesliga,2025-26,Union Berlin,Hoffenheim,2,4,9,2,6,11,1,1
+2025-09-13,Bundesliga,2025-26,Mainz,RB Leipzig,0,1,3,5,1,8,0,0
+2025-09-13,Bundesliga,2025-26,Freiburg,Stuttgart,3,1,7,1,4,8,1,1
+2025-09-13,Bundesliga,2025-26,Heidenheim,Dortmund,0,2,5,4,2,9,0,0
+2025-09-14,Bundesliga,2025-26,St Pauli,Augsburg,2,1,3,1,3,4,1,1
+2025-09-14,Bundesliga,2025-26,M'gladbach,Werder Bremen,0,4,9,4,4,13,0,1
+2025-09-19,Bundesliga,2025-26,Stuttgart,St Pauli,2,0,8,4,2,12,0,0
+2025-09-20,Bundesliga,2025-26,RB Leipzig,FC Koln,3,1,9,5,4,14,1,1
+2025-09-20,Bundesliga,2025-26,Werder Bremen,Freiburg,0,3,2,0,3,2,0,1
+2025-09-20,Bundesliga,2025-26,Augsburg,Mainz,1,4,6,6,5,12,1,1
+2025-09-20,Bundesliga,2025-26,Hamburg,Heidenheim,2,1,1,12,3,13,1,1
+2025-09-20,Bundesliga,2025-26,Hoffenheim,Bayern Munich,1,4,5,5,5,10,1,1
+2025-09-21,Bundesliga,2025-26,Ein Frankfurt,Union Berlin,3,4,5,1,7,6,1,1
+2025-09-21,Bundesliga,2025-26,Leverkusen,M'gladbach,1,1,3,4,2,7,1,0
+2025-09-21,Bundesliga,2025-26,Dortmund,Wolfsburg,1,0,9,3,1,12,0,0
+2025-09-26,Bundesliga,2025-26,Bayern Munich,Werder Bremen,4,0,7,6,4,13,0,1
+2025-09-27,Bundesliga,2025-26,Heidenheim,Augsburg,2,1,3,2,3,5,1,1
+2025-09-27,Bundesliga,2025-26,Mainz,Dortmund,0,2,7,5,2,12,0,0
+2025-09-27,Bundesliga,2025-26,St Pauli,Leverkusen,1,2,13,1,3,14,1,1
+2025-09-27,Bundesliga,2025-26,Wolfsburg,RB Leipzig,0,1,6,11,1,17,0,0
+2025-09-27,Bundesliga,2025-26,M'gladbach,Ein Frankfurt,4,6,4,6,10,10,1,1
+2025-09-28,Bundesliga,2025-26,Union Berlin,Hamburg,0,0,5,3,0,8,0,0
+2025-09-28,Bundesliga,2025-26,FC Koln,Stuttgart,1,2,8,8,3,16,1,1
+2025-09-28,Bundesliga,2025-26,Freiburg,Hoffenheim,1,1,6,8,2,14,1,0
+2025-10-03,Bundesliga,2025-26,Hoffenheim,FC Koln,0,1,11,6,1,17,0,0
+2025-10-04,Bundesliga,2025-26,Augsburg,Wolfsburg,3,1,10,5,4,15,1,1
+2025-10-04,Bundesliga,2025-26,Dortmund,RB Leipzig,1,1,7,7,2,14,1,0
+2025-10-04,Bundesliga,2025-26,Leverkusen,Union Berlin,2,0,4,4,2,8,0,0
+2025-10-04,Bundesliga,2025-26,Werder Bremen,St Pauli,1,0,4,1,1,5,0,0
+2025-10-04,Bundesliga,2025-26,Ein Frankfurt,Bayern Munich,0,3,4,3,3,7,0,1
+2025-10-05,Bundesliga,2025-26,Stuttgart,Heidenheim,1,0,1,1,1,2,0,0
+2025-10-05,Bundesliga,2025-26,Hamburg,Mainz,4,0,1,4,4,5,0,1
+2025-10-05,Bundesliga,2025-26,M'gladbach,Freiburg,0,0,4,1,0,5,0,0
+2025-10-17,Bundesliga,2025-26,Union Berlin,M'gladbach,3,1,6,6,4,12,1,1
+2025-10-18,Bundesliga,2025-26,Bayern Munich,Dortmund,2,1,4,3,3,7,1,1
+2025-10-18,Bundesliga,2025-26,RB Leipzig,Hamburg,2,1,3,5,3,8,1,1
+2025-10-18,Bundesliga,2025-26,Wolfsburg,Stuttgart,0,3,3,8,3,11,0,1
+2025-10-18,Bundesliga,2025-26,Heidenheim,Werder Bremen,2,2,12,2,4,14,1,1
+2025-10-18,Bundesliga,2025-26,FC Koln,Augsburg,1,1,5,2,2,7,1,0
+2025-10-18,Bundesliga,2025-26,Mainz,Leverkusen,3,4,2,3,7,5,1,1
+2025-10-19,Bundesliga,2025-26,Freiburg,Ein Frankfurt,2,2,3,1,4,4,1,1
+2025-10-19,Bundesliga,2025-26,St Pauli,Hoffenheim,0,3,9,7,3,16,0,1
+2025-10-24,Bundesliga,2025-26,Werder Bremen,Union Berlin,1,0,5,6,1,11,0,0
+2025-10-25,Bundesliga,2025-26,Augsburg,RB Leipzig,0,6,2,3,6,5,0,1
+2025-10-25,Bundesliga,2025-26,Ein Frankfurt,St Pauli,2,0,1,3,2,4,0,0
+2025-10-25,Bundesliga,2025-26,Hamburg,Wolfsburg,0,1,11,1,1,12,0,0
+2025-10-25,Bundesliga,2025-26,Hoffenheim,Heidenheim,3,1,7,5,4,12,1,1
+2025-10-25,Bundesliga,2025-26,M'gladbach,Bayern Munich,0,3,1,8,3,9,0,1
+2025-10-25,Bundesliga,2025-26,Dortmund,FC Koln,1,0,17,2,1,19,0,0
+2025-10-26,Bundesliga,2025-26,Leverkusen,Freiburg,2,0,2,3,2,5,0,0
+2025-10-26,Bundesliga,2025-26,Stuttgart,Mainz,2,1,7,5,3,12,1,1
+2025-10-31,Bundesliga,2025-26,Augsburg,Dortmund,0,1,4,3,1,7,0,0
+2025-11-01,Bundesliga,2025-26,Heidenheim,Ein Frankfurt,1,1,2,8,2,10,1,0
+2025-11-01,Bundesliga,2025-26,RB Leipzig,Stuttgart,3,1,5,5,4,10,1,1
+2025-11-01,Bundesliga,2025-26,St Pauli,M'gladbach,0,4,8,1,4,9,0,1
+2025-11-01,Bundesliga,2025-26,Union Berlin,Freiburg,0,0,5,5,0,10,0,0
+2025-11-01,Bundesliga,2025-26,Bayern Munich,Leverkusen,3,0,10,4,3,14,0,1
+2025-11-01,Bundesliga,2025-26,Mainz,Werder Bremen,1,1,2,0,2,2,1,0
+2025-11-02,Bundesliga,2025-26,FC Koln,Hamburg,4,1,2,3,5,5,1,1
+2025-11-02,Bundesliga,2025-26,Wolfsburg,Hoffenheim,2,3,2,2,5,4,1,1
+2025-11-07,Bundesliga,2025-26,Werder Bremen,Wolfsburg,2,1,13,3,3,16,1,1
+2025-11-08,Bundesliga,2025-26,Hamburg,Dortmund,1,1,2,6,2,8,1,0
+2025-11-08,Bundesliga,2025-26,Hoffenheim,RB Leipzig,3,1,5,5,4,10,1,1
+2025-11-08,Bundesliga,2025-26,Leverkusen,Heidenheim,6,0,11,1,6,12,0,1
+2025-11-08,Bundesliga,2025-26,Union Berlin,Bayern Munich,2,2,6,5,4,11,1,1
+2025-11-08,Bundesliga,2025-26,M'gladbach,FC Koln,3,1,2,6,4,8,1,1
+2025-11-09,Bundesliga,2025-26,Ein Frankfurt,Mainz,1,0,4,3,1,7,0,0
+2025-11-09,Bundesliga,2025-26,Stuttgart,Augsburg,3,2,4,4,5,8,1,1
+2025-11-09,Bundesliga,2025-26,Freiburg,St Pauli,2,1,9,3,3,12,1,1
+2025-11-21,Bundesliga,2025-26,Mainz,Hoffenheim,1,1,7,4,2,11,1,0
+2025-11-22,Bundesliga,2025-26,Augsburg,Hamburg,1,0,4,3,1,7,0,0
+2025-11-22,Bundesliga,2025-26,Bayern Munich,Freiburg,6,2,3,5,8,8,1,1
+2025-11-22,Bundesliga,2025-26,Dortmund,Stuttgart,3,3,2,4,6,6,1,1
+2025-11-22,Bundesliga,2025-26,Heidenheim,M'gladbach,0,3,4,5,3,9,0,1
+2025-11-22,Bundesliga,2025-26,Wolfsburg,Leverkusen,1,3,9,1,4,10,1,1
+2025-11-22,Bundesliga,2025-26,FC Koln,Ein Frankfurt,3,4,3,3,7,6,1,1
+2025-11-23,Bundesliga,2025-26,RB Leipzig,Werder Bremen,2,0,13,7,2,20,0,0
+2025-11-23,Bundesliga,2025-26,St Pauli,Union Berlin,0,1,8,2,1,10,0,0
+2025-11-28,Bundesliga,2025-26,M'gladbach,RB Leipzig,0,0,5,6,0,11,0,0
+2025-11-29,Bundesliga,2025-26,Leverkusen,Dortmund,1,2,10,3,3,13,1,1
+2025-11-29,Bundesliga,2025-26,Union Berlin,Heidenheim,1,2,5,5,3,10,1,1
+2025-11-29,Bundesliga,2025-26,Werder Bremen,FC Koln,1,1,4,0,2,4,1,0
+2025-11-29,Bundesliga,2025-26,Bayern Munich,St Pauli,3,1,10,2,4,12,1,1
+2025-11-29,Bundesliga,2025-26,Hoffenheim,Augsburg,3,0,7,2,3,9,0,1
+2025-11-30,Bundesliga,2025-26,Hamburg,Stuttgart,2,1,4,6,3,10,1,1
+2025-11-30,Bundesliga,2025-26,Ein Frankfurt,Wolfsburg,1,1,14,1,2,15,1,0
+2025-11-30,Bundesliga,2025-26,Freiburg,Mainz,4,0,6,2,4,8,0,1
+2025-12-05,Bundesliga,2025-26,Mainz,M'gladbach,0,1,8,6,1,14,0,0
+2025-12-06,Bundesliga,2025-26,Augsburg,Leverkusen,2,0,5,7,2,12,0,0
+2025-12-06,Bundesliga,2025-26,FC Koln,St Pauli,1,1,5,4,2,9,1,0
+2025-12-06,Bundesliga,2025-26,Heidenheim,Freiburg,2,1,8,6,3,14,1,1
+2025-12-06,Bundesliga,2025-26,Stuttgart,Bayern Munich,0,5,3,4,5,7,0,1
+2025-12-06,Bundesliga,2025-26,Wolfsburg,Union Berlin,3,1,0,11,4,11,1,1
+2025-12-06,Bundesliga,2025-26,RB Leipzig,Ein Frankfurt,6,0,4,0,6,4,0,1
+2025-12-07,Bundesliga,2025-26,Dortmund,Hoffenheim,2,0,7,5,2,12,0,0
+2025-12-07,Bundesliga,2025-26,Hamburg,Werder Bremen,3,2,5,3,5,8,1,1
+2025-12-12,Bundesliga,2025-26,Union Berlin,RB Leipzig,3,1,4,6,4,10,1,1
+2025-12-13,Bundesliga,2025-26,Leverkusen,FC Koln,2,0,8,3,2,11,0,0
+2025-12-13,Bundesliga,2025-26,M'gladbach,Wolfsburg,1,3,6,3,4,9,1,1
+2025-12-13,Bundesliga,2025-26,St Pauli,Heidenheim,2,1,4,11,3,15,1,1
+2025-12-13,Bundesliga,2025-26,Hoffenheim,Hamburg,4,1,3,3,5,6,1,1
+2025-12-13,Bundesliga,2025-26,Ein Frankfurt,Augsburg,1,0,2,6,1,8,0,0
+2025-12-14,Bundesliga,2025-26,Freiburg,Dortmund,1,1,6,0,2,6,1,0
+2025-12-14,Bundesliga,2025-26,Bayern Munich,Mainz,2,2,7,0,4,7,1,1
+2025-12-14,Bundesliga,2025-26,Werder Bremen,Stuttgart,0,4,0,9,4,9,0,1
+2025-12-19,Bundesliga,2025-26,Dortmund,M'gladbach,2,0,6,4,2,10,0,0
+2025-12-20,Bundesliga,2025-26,RB Leipzig,Leverkusen,1,3,2,8,4,10,1,1
+2025-12-20,Bundesliga,2025-26,Wolfsburg,Freiburg,3,4,2,6,7,8,1,1
+2025-12-20,Bundesliga,2025-26,Stuttgart,Hoffenheim,0,0,4,2,0,6,0,0
+2025-12-20,Bundesliga,2025-26,Hamburg,Ein Frankfurt,1,1,5,5,2,10,1,0
+2025-12-20,Bundesliga,2025-26,FC Koln,Union Berlin,0,1,3,6,1,9,0,0
+2025-12-20,Bundesliga,2025-26,Augsburg,Werder Bremen,0,0,6,11,0,17,0,0
+2025-12-21,Bundesliga,2025-26,Mainz,St Pauli,0,0,9,5,0,14,0,0
+2025-12-21,Bundesliga,2025-26,Heidenheim,Bayern Munich,0,4,0,6,4,6,0,1
+2026-01-09,Bundesliga,2025-26,Ein Frankfurt,Dortmund,3,3,2,5,6,7,1,1
+2026-01-10,Bundesliga,2025-26,Leverkusen,Stuttgart,1,4,5,3,5,8,1,1
+2026-01-10,Bundesliga,2025-26,Union Berlin,Mainz,2,2,2,1,4,3,1,1
+2026-01-10,Bundesliga,2025-26,Heidenheim,FC Koln,2,2,5,4,4,9,1,1
+2026-01-10,Bundesliga,2025-26,Freiburg,Hamburg,2,1,0,3,3,3,1,1
+2026-01-11,Bundesliga,2025-26,M'gladbach,Augsburg,4,0,2,2,4,4,0,1
+2026-01-11,Bundesliga,2025-26,Bayern Munich,Wolfsburg,8,1,6,2,9,8,1,1
+2026-01-13,Bundesliga,2025-26,Stuttgart,Ein Frankfurt,3,2,10,2,5,12,1,1
+2026-01-13,Bundesliga,2025-26,Dortmund,Werder Bremen,3,0,3,3,3,6,0,1
+2026-01-13,Bundesliga,2025-26,Mainz,Heidenheim,2,1,4,1,3,5,1,1
+2026-01-14,Bundesliga,2025-26,RB Leipzig,Freiburg,2,0,7,2,2,9,0,0
+2026-01-14,Bundesliga,2025-26,Wolfsburg,St Pauli,2,1,7,4,3,11,1,1
+2026-01-14,Bundesliga,2025-26,FC Koln,Bayern Munich,1,3,4,6,4,10,1,1
+2026-01-14,Bundesliga,2025-26,Hoffenheim,M'gladbach,5,1,6,2,6,8,1,1
+2026-01-15,Bundesliga,2025-26,Augsburg,Union Berlin,1,1,3,3,2,6,1,0
+2026-01-16,Bundesliga,2025-26,Werder Bremen,Ein Frankfurt,3,3,4,1,6,5,1,1
+2026-01-17,Bundesliga,2025-26,Wolfsburg,Heidenheim,1,1,9,6,2,15,1,0
+2026-01-17,Bundesliga,2025-26,RB Leipzig,Bayern Munich,1,5,5,9,6,14,1,1
+2026-01-17,Bundesliga,2025-26,Hoffenheim,Leverkusen,1,0,3,5,1,8,0,0
+2026-01-17,Bundesliga,2025-26,Dortmund,St Pauli,3,2,5,5,5,10,1,1
+2026-01-17,Bundesliga,2025-26,FC Koln,Mainz,2,1,9,5,3,14,1,1
+2026-01-17,Bundesliga,2025-26,Hamburg,M'gladbach,0,0,2,5,0,7,0,0
+2026-01-18,Bundesliga,2025-26,Stuttgart,Union Berlin,1,1,3,8,2,11,1,0
+2026-01-18,Bundesliga,2025-26,Augsburg,Freiburg,2,2,9,6,4,15,1,1
+2026-01-23,Bundesliga,2025-26,St Pauli,Hamburg,0,0,5,4,0,9,0,0
+2026-01-24,Bundesliga,2025-26,Bayern Munich,Augsburg,1,2,9,3,3,12,1,1
+2026-01-24,Bundesliga,2025-26,Ein Frankfurt,Hoffenheim,1,3,6,6,4,12,1,1
+2026-01-24,Bundesliga,2025-26,Heidenheim,RB Leipzig,0,3,4,0,3,4,0,1
+2026-01-24,Bundesliga,2025-26,Leverkusen,Werder Bremen,1,0,5,5,1,10,0,0
+2026-01-24,Bundesliga,2025-26,Mainz,Wolfsburg,3,1,15,1,4,16,1,1
+2026-01-24,Bundesliga,2025-26,Union Berlin,Dortmund,0,3,7,2,3,9,0,1
+2026-01-25,Bundesliga,2025-26,Freiburg,FC Koln,2,1,5,5,3,10,1,1
+2026-01-25,Bundesliga,2025-26,M'gladbach,Stuttgart,0,3,1,4,3,5,0,1
+2026-01-27,Bundesliga,2025-26,St Pauli,RB Leipzig,1,1,4,3,2,7,1,0
+2026-01-27,Bundesliga,2025-26,Werder Bremen,Hoffenheim,0,2,6,7,2,13,0,0
+2026-01-30,Bundesliga,2025-26,FC Koln,Wolfsburg,1,0,3,4,1,7,0,0
+2026-01-31,Bundesliga,2025-26,Augsburg,St Pauli,2,1,5,5,3,10,1,1
+2026-01-31,Bundesliga,2025-26,Ein Frankfurt,Leverkusen,1,3,8,3,4,11,1,1
+2026-01-31,Bundesliga,2025-26,Hoffenheim,Union Berlin,3,1,3,10,4,13,1,1
+2026-01-31,Bundesliga,2025-26,RB Leipzig,Mainz,1,2,5,4,3,9,1,1
+2026-01-31,Bundesliga,2025-26,Werder Bremen,M'gladbach,1,1,7,3,2,10,1,0
+2026-01-31,Bundesliga,2025-26,Hamburg,Bayern Munich,2,2,3,9,4,12,1,1
+2026-02-01,Bundesliga,2025-26,Dortmund,Heidenheim,3,2,12,3,5,15,1,1
+2026-02-01,Bundesliga,2025-26,Stuttgart,Freiburg,1,0,6,2,1,8,0,0
+2026-02-06,Bundesliga,2025-26,Union Berlin,Ein Frankfurt,1,1,5,2,2,7,1,0
+2026-02-07,Bundesliga,2025-26,Heidenheim,Hamburg,0,2,10,8,2,18,0,0
+2026-02-07,Bundesliga,2025-26,M'gladbach,Leverkusen,1,1,2,2,2,4,1,0
+2026-02-07,Bundesliga,2025-26,Wolfsburg,Dortmund,1,2,4,8,3,12,1,1
+2026-02-07,Bundesliga,2025-26,Freiburg,Werder Bremen,1,0,4,8,1,12,0,0
+2026-02-07,Bundesliga,2025-26,Mainz,Augsburg,2,0,6,4,2,10,0,0
+2026-02-07,Bundesliga,2025-26,St Pauli,Stuttgart,2,1,5,5,3,10,1,1
+2026-02-08,Bundesliga,2025-26,FC Koln,RB Leipzig,1,2,4,3,3,7,1,1
+2026-02-08,Bundesliga,2025-26,Bayern Munich,Hoffenheim,5,1,8,3,6,11,1,1
+2026-02-13,Bundesliga,2025-26,Dortmund,Mainz,4,0,7,2,4,9,0,1
+2026-02-14,Bundesliga,2025-26,Ein Frankfurt,M'gladbach,3,0,2,8,3,10,0,1
+2026-02-14,Bundesliga,2025-26,Hamburg,Union Berlin,3,2,6,3,5,9,1,1
+2026-02-14,Bundesliga,2025-26,Hoffenheim,Freiburg,3,0,6,6,3,12,0,1
+2026-02-14,Bundesliga,2025-26,Leverkusen,St Pauli,4,0,8,3,4,11,0,1
+2026-02-14,Bundesliga,2025-26,Werder Bremen,Bayern Munich,0,3,2,4,3,6,0,1
+2026-02-14,Bundesliga,2025-26,Stuttgart,FC Koln,3,1,2,5,4,7,1,1
+2026-02-15,Bundesliga,2025-26,RB Leipzig,Wolfsburg,2,2,6,2,4,8,1,1
+2026-02-15,Bundesliga,2025-26,Augsburg,Heidenheim,1,0,4,5,1,9,0,0
+2026-02-20,Bundesliga,2025-26,Mainz,Hamburg,1,1,7,2,2,9,1,0
+2026-02-21,Bundesliga,2025-26,Bayern Munich,Ein Frankfurt,3,2,8,2,5,10,1,1
+2026-02-21,Bundesliga,2025-26,FC Koln,Hoffenheim,2,2,3,10,4,13,1,1
+2026-02-21,Bundesliga,2025-26,Union Berlin,Leverkusen,1,0,4,5,1,9,0,0
+2026-02-21,Bundesliga,2025-26,Wolfsburg,Augsburg,2,3,4,10,5,14,1,1
+2026-02-21,Bundesliga,2025-26,RB Leipzig,Dortmund,2,2,6,2,4,8,1,1
+2026-02-22,Bundesliga,2025-26,Freiburg,M'gladbach,2,1,3,3,3,6,1,1
+2026-02-22,Bundesliga,2025-26,St Pauli,Werder Bremen,2,1,1,5,3,6,1,1
+2026-02-22,Bundesliga,2025-26,Heidenheim,Stuttgart,3,3,3,4,6,7,1,1
+2026-02-27,Bundesliga,2025-26,Augsburg,FC Koln,2,0,6,9,2,15,0,0
+2026-02-28,Bundesliga,2025-26,Werder Bremen,Heidenheim,2,0,3,2,2,5,0,0
+2026-02-28,Bundesliga,2025-26,M'gladbach,Union Berlin,1,0,6,2,1,8,0,0
+2026-02-28,Bundesliga,2025-26,Dortmund,Bayern Munich,2,3,5,2,5,7,1,1
+2026-02-28,Bundesliga,2025-26,Hoffenheim,St Pauli,0,1,10,3,1,13,0,0
+2026-02-28,Bundesliga,2025-26,Leverkusen,Mainz,1,1,6,2,2,8,1,0
+2026-03-01,Bundesliga,2025-26,Stuttgart,Wolfsburg,4,0,7,3,4,10,0,1
+2026-03-01,Bundesliga,2025-26,Ein Frankfurt,Freiburg,2,0,5,6,2,11,0,0
+2026-03-01,Bundesliga,2025-26,Hamburg,RB Leipzig,1,2,4,9,3,13,1,1
+2026-03-04,Bundesliga,2025-26,Hamburg,Leverkusen,0,1,2,7,1,9,0,0
+2026-03-06,Bundesliga,2025-26,Bayern Munich,M'gladbach,4,1,7,1,5,8,1,1
+2026-03-07,Bundesliga,2025-26,Freiburg,Leverkusen,3,3,5,2,6,7,1,1
+2026-03-07,Bundesliga,2025-26,Heidenheim,Hoffenheim,2,4,4,3,6,7,1,1
+2026-03-07,Bundesliga,2025-26,Mainz,Stuttgart,2,2,5,6,4,11,1,1
+2026-03-07,Bundesliga,2025-26,RB Leipzig,Augsburg,2,1,6,8,3,14,1,1
+2026-03-07,Bundesliga,2025-26,Wolfsburg,Hamburg,1,2,7,3,3,10,1,1
+2026-03-07,Bundesliga,2025-26,FC Koln,Dortmund,1,2,9,4,3,13,1,1
+2026-03-08,Bundesliga,2025-26,Union Berlin,Werder Bremen,1,4,1,3,5,4,1,1
+2026-03-08,Bundesliga,2025-26,St Pauli,Ein Frankfurt,0,0,6,5,0,11,0,0
+2026-03-13,Bundesliga,2025-26,M'gladbach,St Pauli,2,0,2,2,2,4,0,0
+2026-03-14,Bundesliga,2025-26,Dortmund,Augsburg,2,0,12,2,2,14,0,0
+2026-03-14,Bundesliga,2025-26,Ein Frankfurt,Heidenheim,1,0,5,4,1,9,0,0
+2026-03-14,Bundesliga,2025-26,Hoffenheim,Wolfsburg,1,1,16,4,2,20,1,0
+2026-03-14,Bundesliga,2025-26,Leverkusen,Bayern Munich,1,1,4,1,2,5,1,0
+2026-03-14,Bundesliga,2025-26,Hamburg,FC Koln,1,1,1,8,2,9,1,0
+2026-03-15,Bundesliga,2025-26,Werder Bremen,Mainz,0,2,9,4,2,13,0,0
+2026-03-15,Bundesliga,2025-26,Freiburg,Union Berlin,0,1,6,2,1,8,0,0
+2026-03-15,Bundesliga,2025-26,Stuttgart,RB Leipzig,1,0,5,6,1,11,0,0
+2026-03-20,Bundesliga,2025-26,RB Leipzig,Hoffenheim,5,0,1,3,5,4,0,1
+2026-03-21,Bundesliga,2025-26,Wolfsburg,Werder Bremen,0,1,8,4,1,12,0,0
+2026-03-21,Bundesliga,2025-26,Bayern Munich,Union Berlin,4,0,12,1,4,13,0,1
+2026-03-21,Bundesliga,2025-26,FC Koln,M'gladbach,3,3,5,3,6,8,1,1
+2026-03-21,Bundesliga,2025-26,Heidenheim,Leverkusen,3,3,2,5,6,7,1,1
+2026-03-21,Bundesliga,2025-26,Dortmund,Hamburg,3,2,11,3,5,14,1,1
+2026-03-22,Bundesliga,2025-26,St Pauli,Freiburg,1,2,3,2,3,5,1,1
+2026-03-22,Bundesliga,2025-26,Mainz,Ein Frankfurt,2,1,5,3,3,8,1,1
+2026-03-22,Bundesliga,2025-26,Augsburg,Stuttgart,2,5,2,5,7,7,1,1

@@ -1,0 +1,307 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2016-08-19,Super Lig,2016-17,Adanaspor,Bursaspor,1,2,0,0,3,0,1,1
+2016-08-20,Super Lig,2016-17,Besiktas,Alanyaspor,4,1,0,0,5,0,1,1
+2016-08-20,Super Lig,2016-17,Rizespor,Konyaspor,1,1,0,0,2,0,1,0
+2016-08-20,Super Lig,2016-17,Trabzonspor,Kasimpasa,2,0,0,0,2,0,0,0
+2016-08-21,Super Lig,2016-17,Antalyaspor,Osmanlispor,0,0,0,0,0,0,0,0
+2016-08-21,Super Lig,2016-17,Buyuksehyr,Fenerbahce,1,0,0,0,1,0,0,0
+2016-08-21,Super Lig,2016-17,Genclerbirligi,Gaziantepspor,2,0,0,0,2,0,0,0
+2016-08-21,Super Lig,2016-17,Kayserispor,Akhisar Belediyespor,0,2,0,0,2,0,0,0
+2016-08-22,Super Lig,2016-17,Galatasaray,Karabukspor,1,0,0,0,1,0,0,0
+2016-08-26,Super Lig,2016-17,Alanyaspor,Antalyaspor,2,1,0,0,3,0,1,1
+2016-08-26,Super Lig,2016-17,Konyaspor,Besiktas,2,2,0,0,4,0,1,1
+2016-08-27,Super Lig,2016-17,Akhisar Belediyespor,Galatasaray,1,3,0,0,4,0,1,1
+2016-08-27,Super Lig,2016-17,Gaziantepspor,Trabzonspor,1,0,0,0,1,0,0,0
+2016-08-27,Super Lig,2016-17,Kasimpasa,Adanaspor,1,1,0,0,2,0,1,0
+2016-08-28,Super Lig,2016-17,Karabukspor,Rizespor,3,0,0,0,3,0,0,1
+2016-08-28,Super Lig,2016-17,Osmanlispor,Genclerbirligi,2,2,0,0,4,0,1,1
+2016-08-28,Super Lig,2016-17,Bursaspor,Buyuksehyr,0,2,0,0,2,0,0,0
+2016-08-28,Super Lig,2016-17,Fenerbahce,Kayserispor,3,3,0,0,6,0,1,1
+2016-09-10,Super Lig,2016-17,Adanaspor,Gaziantepspor,0,0,0,0,0,0,0,0
+2016-09-10,Super Lig,2016-17,Besiktas,Karabukspor,3,1,0,0,4,0,1,1
+2016-09-10,Super Lig,2016-17,Buyuksehyr,Kasimpasa,3,1,0,0,4,0,1,1
+2016-09-10,Super Lig,2016-17,Genclerbirligi,Alanyaspor,0,0,0,0,0,0,0,0
+2016-09-10,Super Lig,2016-17,Kayserispor,Galatasaray,1,1,0,0,2,0,1,0
+2016-09-11,Super Lig,2016-17,Trabzonspor,Osmanlispor,0,2,0,0,2,0,0,0
+2016-09-11,Super Lig,2016-17,Rizespor,Akhisar Belediyespor,1,0,0,0,1,0,0,0
+2016-09-11,Super Lig,2016-17,Antalyaspor,Konyaspor,1,3,0,0,4,0,1,1
+2016-09-11,Super Lig,2016-17,Fenerbahce,Bursaspor,0,1,0,0,1,0,0,0
+2016-09-16,Super Lig,2016-17,Bursaspor,Kayserispor,3,1,0,0,4,0,1,1
+2016-09-16,Super Lig,2016-17,Karabukspor,Antalyaspor,3,2,0,0,5,0,1,1
+2016-09-17,Super Lig,2016-17,Alanyaspor,Trabzonspor,3,0,0,0,3,0,0,1
+2016-09-17,Super Lig,2016-17,Galatasaray,Rizespor,2,0,0,0,2,0,0,0
+2016-09-18,Super Lig,2016-17,Osmanlispor,Adanaspor,1,0,0,0,1,0,0,0
+2016-09-18,Super Lig,2016-17,Akhisar Belediyespor,Besiktas,0,2,0,0,2,0,0,0
+2016-09-18,Super Lig,2016-17,Gaziantepspor,Buyuksehyr,0,1,0,0,1,0,0,0
+2016-09-18,Super Lig,2016-17,Konyaspor,Genclerbirligi,1,1,0,0,2,0,1,0
+2016-09-19,Super Lig,2016-17,Kasimpasa,Fenerbahce,1,5,0,0,6,0,1,1
+2016-09-23,Super Lig,2016-17,Antalyaspor,Akhisar Belediyespor,0,0,0,0,0,0,0,0
+2016-09-24,Super Lig,2016-17,Besiktas,Galatasaray,2,2,0,0,4,0,1,1
+2016-09-24,Super Lig,2016-17,Buyuksehyr,Osmanlispor,2,2,0,0,4,0,1,1
+2016-09-24,Super Lig,2016-17,Trabzonspor,Konyaspor,1,0,0,0,1,0,0,0
+2016-09-25,Super Lig,2016-17,Bursaspor,Kasimpasa,1,0,0,0,1,0,0,0
+2016-09-25,Super Lig,2016-17,Fenerbahce,Gaziantepspor,2,1,0,0,3,0,1,1
+2016-09-25,Super Lig,2016-17,Genclerbirligi,Karabukspor,2,0,0,0,2,0,0,0
+2016-09-25,Super Lig,2016-17,Kayserispor,Rizespor,2,1,0,0,3,0,1,1
+2016-09-26,Super Lig,2016-17,Adanaspor,Alanyaspor,3,2,0,0,5,0,1,1
+2016-09-30,Super Lig,2016-17,Akhisar Belediyespor,Genclerbirligi,0,0,0,0,0,0,0,0
+2016-10-01,Super Lig,2016-17,Rizespor,Besiktas,0,1,0,0,1,0,0,0
+2016-10-01,Super Lig,2016-17,Kasimpasa,Kayserispor,3,1,0,0,4,0,1,1
+2016-10-01,Super Lig,2016-17,Gaziantepspor,Bursaspor,3,2,0,0,5,0,1,1
+2016-10-01,Super Lig,2016-17,Karabukspor,Trabzonspor,4,0,0,0,4,0,0,1
+2016-10-02,Super Lig,2016-17,Alanyaspor,Buyuksehyr,0,5,0,0,5,0,0,1
+2016-10-02,Super Lig,2016-17,Galatasaray,Antalyaspor,3,1,0,0,4,0,1,1
+2016-10-02,Super Lig,2016-17,Konyaspor,Adanaspor,1,0,0,0,1,0,0,0
+2016-10-02,Super Lig,2016-17,Osmanlispor,Fenerbahce,1,1,0,0,2,0,1,0
+2016-10-15,Super Lig,2016-17,Kayserispor,Besiktas,0,1,0,0,1,0,0,0
+2016-10-15,Super Lig,2016-17,Kasimpasa,Gaziantepspor,0,0,0,0,0,0,0,0
+2016-10-15,Super Lig,2016-17,Genclerbirligi,Galatasaray,0,1,0,0,1,0,0,0
+2016-10-15,Super Lig,2016-17,Adanaspor,Karabukspor,1,2,0,0,3,0,1,1
+2016-10-16,Super Lig,2016-17,Bursaspor,Osmanlispor,0,0,0,0,0,0,0,0
+2016-10-16,Super Lig,2016-17,Buyuksehyr,Konyaspor,1,1,0,0,2,0,1,0
+2016-10-16,Super Lig,2016-17,Fenerbahce,Alanyaspor,1,1,0,0,2,0,1,0
+2016-10-16,Super Lig,2016-17,Trabzonspor,Akhisar Belediyespor,0,0,0,0,0,0,0,0
+2016-10-17,Super Lig,2016-17,Antalyaspor,Rizespor,1,1,0,0,2,0,1,0
+2016-10-21,Super Lig,2016-17,Gaziantepspor,Kayserispor,1,2,0,0,3,0,1,1
+2016-10-21,Super Lig,2016-17,Rizespor,Genclerbirligi,2,1,0,0,3,0,1,1
+2016-10-22,Super Lig,2016-17,Galatasaray,Trabzonspor,0,1,0,0,1,0,0,0
+2016-10-22,Super Lig,2016-17,Akhisar Belediyespor,Adanaspor,1,0,0,0,1,0,0,0
+2016-10-22,Super Lig,2016-17,Alanyaspor,Bursaspor,0,2,0,0,2,0,0,0
+2016-10-23,Super Lig,2016-17,Besiktas,Antalyaspor,3,0,0,0,3,0,0,1
+2016-10-23,Super Lig,2016-17,Karabukspor,Buyuksehyr,0,2,0,0,2,0,0,0
+2016-10-23,Super Lig,2016-17,Osmanlispor,Kasimpasa,1,2,0,0,3,0,1,1
+2016-10-24,Super Lig,2016-17,Konyaspor,Fenerbahce,0,1,0,0,1,0,0,0
+2016-10-28,Super Lig,2016-17,Genclerbirligi,Besiktas,1,1,0,0,2,0,1,0
+2016-10-29,Super Lig,2016-17,Bursaspor,Konyaspor,2,0,0,0,2,0,0,0
+2016-10-29,Super Lig,2016-17,Gaziantepspor,Osmanlispor,3,1,0,0,4,0,1,1
+2016-10-29,Super Lig,2016-17,Adanaspor,Galatasaray,0,1,0,0,1,0,0,0
+2016-10-30,Super Lig,2016-17,Buyuksehyr,Akhisar Belediyespor,5,1,0,0,6,0,1,1
+2016-10-30,Super Lig,2016-17,Fenerbahce,Karabukspor,5,0,0,0,5,0,0,1
+2016-10-30,Super Lig,2016-17,Trabzonspor,Rizespor,2,2,0,0,4,0,1,1
+2016-10-31,Super Lig,2016-17,Kasimpasa,Alanyaspor,2,1,0,0,3,0,1,1
+2016-10-31,Super Lig,2016-17,Kayserispor,Antalyaspor,0,1,0,0,1,0,0,0
+2016-11-04,Super Lig,2016-17,Galatasaray,Buyuksehyr,1,2,0,0,3,0,1,1
+2016-11-05,Super Lig,2016-17,Alanyaspor,Gaziantepspor,4,3,0,0,7,0,1,1
+2016-11-05,Super Lig,2016-17,Antalyaspor,Genclerbirligi,1,0,0,0,1,0,0,0
+2016-11-05,Super Lig,2016-17,Besiktas,Trabzonspor,2,1,0,0,3,0,1,1
+2016-11-05,Super Lig,2016-17,Karabukspor,Bursaspor,0,0,0,0,0,0,0,0
+2016-11-06,Super Lig,2016-17,Akhisar Belediyespor,Fenerbahce,1,3,0,0,4,0,1,1
+2016-11-06,Super Lig,2016-17,Konyaspor,Kasimpasa,2,1,0,0,3,0,1,1
+2016-11-06,Super Lig,2016-17,Osmanlispor,Kayserispor,1,1,0,0,2,0,1,0
+2016-11-06,Super Lig,2016-17,Rizespor,Adanaspor,2,2,0,0,4,0,1,1
+2016-11-19,Super Lig,2016-17,Gaziantepspor,Konyaspor,0,3,0,0,3,0,0,1
+2016-11-19,Super Lig,2016-17,Osmanlispor,Alanyaspor,2,0,0,0,2,0,0,0
+2016-11-19,Super Lig,2016-17,Adanaspor,Besiktas,1,2,0,0,3,0,1,1
+2016-11-19,Super Lig,2016-17,Bursaspor,Akhisar Belediyespor,0,0,0,0,0,0,0,0
+2016-11-20,Super Lig,2016-17,Fenerbahce,Galatasaray,2,0,0,0,2,0,0,0
+2016-11-20,Super Lig,2016-17,Kasimpasa,Karabukspor,2,2,0,0,4,0,1,1
+2016-11-20,Super Lig,2016-17,Kayserispor,Genclerbirligi,0,2,0,0,2,0,0,0
+2016-11-21,Super Lig,2016-17,Buyuksehyr,Rizespor,2,1,0,0,3,0,1,1
+2016-11-21,Super Lig,2016-17,Trabzonspor,Antalyaspor,0,1,0,0,1,0,0,0
+2016-11-25,Super Lig,2016-17,Alanyaspor,Kayserispor,3,0,0,0,3,0,0,1
+2016-11-25,Super Lig,2016-17,Galatasaray,Bursaspor,3,1,0,0,4,0,1,1
+2016-11-26,Super Lig,2016-17,Karabukspor,Gaziantepspor,2,0,0,0,2,0,0,0
+2016-11-26,Super Lig,2016-17,Besiktas,Buyuksehyr,1,1,0,0,2,0,1,0
+2016-11-26,Super Lig,2016-17,Akhisar Belediyespor,Kasimpasa,1,0,0,0,1,0,0,0
+2016-11-26,Super Lig,2016-17,Antalyaspor,Adanaspor,1,0,0,0,1,0,0,0
+2016-11-27,Super Lig,2016-17,Genclerbirligi,Trabzonspor,0,0,0,0,0,0,0,0
+2016-11-27,Super Lig,2016-17,Rizespor,Fenerbahce,1,5,0,0,6,0,1,1
+2016-11-28,Super Lig,2016-17,Konyaspor,Osmanlispor,1,1,0,0,2,0,1,0
+2016-12-03,Super Lig,2016-17,Buyuksehyr,Antalyaspor,2,2,0,0,4,0,1,1
+2016-12-03,Super Lig,2016-17,Fenerbahce,Besiktas,0,0,0,0,0,0,0,0
+2016-12-04,Super Lig,2016-17,Osmanlispor,Karabukspor,2,1,0,0,3,0,1,1
+2016-12-04,Super Lig,2016-17,Kasimpasa,Galatasaray,1,2,0,0,3,0,1,1
+2016-12-04,Super Lig,2016-17,Alanyaspor,Konyaspor,2,3,0,0,5,0,1,1
+2016-12-04,Super Lig,2016-17,Gaziantepspor,Akhisar Belediyespor,1,2,0,0,3,0,1,1
+2016-12-04,Super Lig,2016-17,Adanaspor,Genclerbirligi,0,2,0,0,2,0,0,0
+2016-12-05,Super Lig,2016-17,Bursaspor,Rizespor,2,1,0,0,3,0,1,1
+2016-12-05,Super Lig,2016-17,Kayserispor,Trabzonspor,0,1,0,0,1,0,0,0
+2016-12-09,Super Lig,2016-17,Trabzonspor,Adanaspor,4,1,0,0,5,0,1,1
+2016-12-10,Super Lig,2016-17,Besiktas,Bursaspor,2,1,0,0,3,0,1,1
+2016-12-10,Super Lig,2016-17,Genclerbirligi,Buyuksehyr,0,0,0,0,0,0,0,0
+2016-12-10,Super Lig,2016-17,Rizespor,Kasimpasa,0,1,0,0,1,0,0,0
+2016-12-11,Super Lig,2016-17,Konyaspor,Kayserispor,1,0,0,0,1,0,0,0
+2016-12-11,Super Lig,2016-17,Karabukspor,Alanyaspor,0,2,0,0,2,0,0,0
+2016-12-11,Super Lig,2016-17,Akhisar Belediyespor,Osmanlispor,1,2,0,0,3,0,1,1
+2016-12-11,Super Lig,2016-17,Galatasaray,Gaziantepspor,3,1,0,0,4,0,1,1
+2016-12-12,Super Lig,2016-17,Antalyaspor,Fenerbahce,1,0,0,0,1,0,0,0
+2016-12-17,Super Lig,2016-17,Buyuksehyr,Trabzonspor,1,0,0,0,1,0,0,0
+2016-12-17,Super Lig,2016-17,Kasimpasa,Besiktas,2,1,0,0,3,0,1,1
+2016-12-18,Super Lig,2016-17,Karabukspor,Konyaspor,1,1,0,0,2,0,1,0
+2016-12-18,Super Lig,2016-17,Osmanlispor,Galatasaray,2,2,0,0,4,0,1,1
+2016-12-18,Super Lig,2016-17,Gaziantepspor,Rizespor,1,2,0,0,3,0,1,1
+2016-12-18,Super Lig,2016-17,Alanyaspor,Akhisar Belediyespor,0,0,0,0,0,0,0,0
+2016-12-18,Super Lig,2016-17,Adanaspor,Kayserispor,2,1,0,0,3,0,1,1
+2016-12-19,Super Lig,2016-17,Bursaspor,Antalyaspor,2,1,0,0,3,0,1,1
+2016-12-19,Super Lig,2016-17,Fenerbahce,Genclerbirligi,3,0,0,0,3,0,0,1
+2016-12-24,Super Lig,2016-17,Adanaspor,Buyuksehyr,1,1,0,0,2,0,1,0
+2016-12-24,Super Lig,2016-17,Besiktas,Gaziantepspor,1,0,0,0,1,0,0,0
+2016-12-25,Super Lig,2016-17,Akhisar Belediyespor,Konyaspor,1,0,0,0,1,0,0,0
+2016-12-25,Super Lig,2016-17,Antalyaspor,Kasimpasa,2,1,0,0,3,0,1,1
+2016-12-25,Super Lig,2016-17,Galatasaray,Alanyaspor,5,1,0,0,6,0,1,1
+2016-12-25,Super Lig,2016-17,Kayserispor,Karabukspor,2,0,0,0,2,0,0,0
+2016-12-25,Super Lig,2016-17,Rizespor,Osmanlispor,0,1,0,0,1,0,0,0
+2016-12-26,Super Lig,2016-17,Genclerbirligi,Bursaspor,3,1,0,0,4,0,1,1
+2016-12-26,Super Lig,2016-17,Trabzonspor,Fenerbahce,0,3,0,0,3,0,0,1
+2017-01-13,Super Lig,2016-17,Bursaspor,Trabzonspor,1,2,0,0,3,0,1,1
+2017-01-14,Super Lig,2016-17,Buyuksehyr,Kayserispor,5,0,0,0,5,0,0,1
+2017-01-14,Super Lig,2016-17,Karabukspor,Akhisar Belediyespor,1,0,0,0,1,0,0,0
+2017-01-14,Super Lig,2016-17,Alanyaspor,Rizespor,2,3,0,0,5,0,1,1
+2017-01-14,Super Lig,2016-17,Konyaspor,Galatasaray,0,1,0,0,1,0,0,0
+2017-01-15,Super Lig,2016-17,Gaziantepspor,Antalyaspor,0,3,0,0,3,0,0,1
+2017-01-15,Super Lig,2016-17,Fenerbahce,Adanaspor,2,2,0,0,4,0,1,1
+2017-01-15,Super Lig,2016-17,Kasimpasa,Genclerbirligi,3,0,0,0,3,0,0,1
+2017-01-16,Super Lig,2016-17,Osmanlispor,Besiktas,0,2,0,0,2,0,0,0
+2017-01-21,Super Lig,2016-17,Akhisar Belediyespor,Kayserispor,0,0,0,0,0,0,0,0
+2017-01-21,Super Lig,2016-17,Bursaspor,Adanaspor,0,1,0,0,1,0,0,0
+2017-01-21,Super Lig,2016-17,Karabukspor,Galatasaray,2,1,0,0,3,0,1,1
+2017-01-21,Super Lig,2016-17,Konyaspor,Rizespor,2,1,0,0,3,0,1,1
+2017-01-22,Super Lig,2016-17,Fenerbahce,Buyuksehyr,1,0,0,0,1,0,0,0
+2017-01-22,Super Lig,2016-17,Kasimpasa,Trabzonspor,0,1,0,0,1,0,0,0
+2017-01-22,Super Lig,2016-17,Osmanlispor,Antalyaspor,1,2,0,0,3,0,1,1
+2017-01-23,Super Lig,2016-17,Alanyaspor,Besiktas,1,4,0,0,5,0,1,1
+2017-01-28,Super Lig,2016-17,Rizespor,Karabukspor,1,0,0,0,1,0,0,0
+2017-01-28,Super Lig,2016-17,Galatasaray,Akhisar Belediyespor,6,0,0,0,6,0,0,1
+2017-01-28,Super Lig,2016-17,Antalyaspor,Alanyaspor,2,1,0,0,3,0,1,1
+2017-01-29,Super Lig,2016-17,Buyuksehyr,Bursaspor,1,0,0,0,1,0,0,0
+2017-01-29,Super Lig,2016-17,Genclerbirligi,Osmanlispor,1,1,0,0,2,0,1,0
+2017-01-29,Super Lig,2016-17,Kayserispor,Fenerbahce,4,1,0,0,5,0,1,1
+2017-01-29,Super Lig,2016-17,Trabzonspor,Gaziantepspor,4,0,0,0,4,0,0,1
+2017-01-30,Super Lig,2016-17,Adanaspor,Kasimpasa,2,0,0,0,2,0,0,0
+2017-01-30,Super Lig,2016-17,Besiktas,Konyaspor,5,1,0,0,6,0,1,1
+2017-02-10,Super Lig,2016-17,Karabukspor,Besiktas,2,1,0,0,3,0,1,1
+2017-02-11,Super Lig,2016-17,Osmanlispor,Trabzonspor,0,1,0,0,1,0,0,0
+2017-02-11,Super Lig,2016-17,Alanyaspor,Genclerbirligi,3,0,0,0,3,0,0,1
+2017-02-11,Super Lig,2016-17,Bursaspor,Fenerbahce,1,1,0,0,2,0,1,0
+2017-02-12,Super Lig,2016-17,Akhisar Belediyespor,Rizespor,1,0,0,0,1,0,0,0
+2017-02-12,Super Lig,2016-17,Galatasaray,Kayserispor,1,2,0,0,3,0,1,1
+2017-02-12,Super Lig,2016-17,Kasimpasa,Buyuksehyr,4,0,0,0,4,0,0,1
+2017-02-12,Super Lig,2016-17,Konyaspor,Antalyaspor,1,1,0,0,2,0,1,0
+2017-02-13,Super Lig,2016-17,Gaziantepspor,Adanaspor,1,0,0,0,1,0,0,0
+2017-02-17,Super Lig,2016-17,Kayserispor,Bursaspor,2,0,0,0,2,0,0,0
+2017-02-18,Super Lig,2016-17,Buyuksehyr,Gaziantepspor,0,0,0,0,0,0,0,0
+2017-02-18,Super Lig,2016-17,Antalyaspor,Karabukspor,1,0,0,0,1,0,0,0
+2017-02-18,Super Lig,2016-17,Rizespor,Galatasaray,1,1,0,0,2,0,1,0
+2017-02-19,Super Lig,2016-17,Adanaspor,Osmanlispor,1,5,0,0,6,0,1,1
+2017-02-19,Super Lig,2016-17,Besiktas,Akhisar Belediyespor,3,1,0,0,4,0,1,1
+2017-02-19,Super Lig,2016-17,Fenerbahce,Kasimpasa,0,0,0,0,0,0,0,0
+2017-02-19,Super Lig,2016-17,Genclerbirligi,Konyaspor,2,0,0,0,2,0,0,0
+2017-02-20,Super Lig,2016-17,Trabzonspor,Alanyaspor,0,0,0,0,0,0,0,0
+2017-02-24,Super Lig,2016-17,Rizespor,Kayserispor,2,4,0,0,6,0,1,1
+2017-02-24,Super Lig,2016-17,Kasimpasa,Bursaspor,4,0,0,0,4,0,0,1
+2017-02-25,Super Lig,2016-17,Konyaspor,Trabzonspor,1,1,0,0,2,0,1,0
+2017-02-25,Super Lig,2016-17,Alanyaspor,Adanaspor,4,1,0,0,5,0,1,1
+2017-02-25,Super Lig,2016-17,Akhisar Belediyespor,Antalyaspor,3,0,0,0,3,0,0,1
+2017-02-26,Super Lig,2016-17,Gaziantepspor,Fenerbahce,1,1,0,0,2,0,1,0
+2017-02-26,Super Lig,2016-17,Karabukspor,Genclerbirligi,1,0,0,0,1,0,0,0
+2017-02-26,Super Lig,2016-17,Osmanlispor,Buyuksehyr,0,1,0,0,1,0,0,0
+2017-02-27,Super Lig,2016-17,Galatasaray,Besiktas,0,1,0,0,1,0,0,0
+2017-03-03,Super Lig,2016-17,Trabzonspor,Karabukspor,1,0,0,0,1,0,0,0
+2017-03-04,Super Lig,2016-17,Besiktas,Rizespor,1,0,0,0,1,0,0,0
+2017-03-04,Super Lig,2016-17,Bursaspor,Gaziantepspor,2,1,0,0,3,0,1,1
+2017-03-05,Super Lig,2016-17,Adanaspor,Konyaspor,0,1,0,0,1,0,0,0
+2017-03-05,Super Lig,2016-17,Buyuksehyr,Alanyaspor,2,1,0,0,3,0,1,1
+2017-03-05,Super Lig,2016-17,Fenerbahce,Osmanlispor,1,0,0,0,1,0,0,0
+2017-03-05,Super Lig,2016-17,Kayserispor,Kasimpasa,2,2,0,0,4,0,1,1
+2017-03-06,Super Lig,2016-17,Antalyaspor,Galatasaray,2,3,0,0,5,0,1,1
+2017-03-06,Super Lig,2016-17,Genclerbirligi,Akhisar Belediyespor,2,0,0,0,2,0,0,0
+2017-03-10,Super Lig,2016-17,Alanyaspor,Fenerbahce,2,3,0,0,5,0,1,1
+2017-03-11,Super Lig,2016-17,Karabukspor,Adanaspor,2,0,0,0,2,0,0,0
+2017-03-11,Super Lig,2016-17,Osmanlispor,Bursaspor,1,1,0,0,2,0,1,0
+2017-03-11,Super Lig,2016-17,Galatasaray,Genclerbirligi,3,2,0,0,5,0,1,1
+2017-03-11,Super Lig,2016-17,Gaziantepspor,Kasimpasa,0,2,0,0,2,0,0,0
+2017-03-12,Super Lig,2016-17,Besiktas,Kayserispor,2,2,0,0,4,0,1,1
+2017-03-12,Super Lig,2016-17,Konyaspor,Buyuksehyr,0,3,0,0,3,0,0,1
+2017-03-12,Super Lig,2016-17,Rizespor,Antalyaspor,1,2,0,0,3,0,1,1
+2017-03-13,Super Lig,2016-17,Akhisar Belediyespor,Trabzonspor,1,3,0,0,4,0,1,1
+2017-03-17,Super Lig,2016-17,Fenerbahce,Konyaspor,2,3,0,0,5,0,1,1
+2017-03-18,Super Lig,2016-17,Kayserispor,Gaziantepspor,3,4,0,0,7,0,1,1
+2017-03-18,Super Lig,2016-17,Trabzonspor,Galatasaray,2,0,0,0,2,0,0,0
+2017-03-18,Super Lig,2016-17,Adanaspor,Akhisar Belediyespor,2,1,0,0,3,0,1,1
+2017-03-18,Super Lig,2016-17,Kasimpasa,Osmanlispor,3,2,0,0,5,0,1,1
+2017-03-19,Super Lig,2016-17,Antalyaspor,Besiktas,0,0,0,0,0,0,0,0
+2017-03-19,Super Lig,2016-17,Bursaspor,Alanyaspor,1,3,0,0,4,0,1,1
+2017-03-19,Super Lig,2016-17,Buyuksehyr,Karabukspor,3,3,0,0,6,0,1,1
+2017-03-19,Super Lig,2016-17,Genclerbirligi,Rizespor,1,0,0,0,1,0,0,0
+2017-04-01,Super Lig,2016-17,Akhisar Belediyespor,Buyuksehyr,2,1,0,0,3,0,1,1
+2017-04-01,Super Lig,2016-17,Alanyaspor,Kasimpasa,3,1,0,0,4,0,1,1
+2017-04-01,Super Lig,2016-17,Antalyaspor,Kayserispor,2,1,0,0,3,0,1,1
+2017-04-01,Super Lig,2016-17,Karabukspor,Fenerbahce,0,1,0,0,1,0,0,0
+2017-04-02,Super Lig,2016-17,Rizespor,Trabzonspor,0,1,0,0,1,0,0,0
+2017-04-02,Super Lig,2016-17,Osmanlispor,Gaziantepspor,0,2,0,0,2,0,0,0
+2017-04-02,Super Lig,2016-17,Konyaspor,Bursaspor,2,0,0,0,2,0,0,0
+2017-04-02,Super Lig,2016-17,Besiktas,Genclerbirligi,3,0,0,0,3,0,0,1
+2017-04-03,Super Lig,2016-17,Galatasaray,Adanaspor,4,0,0,0,4,0,0,1
+2017-04-07,Super Lig,2016-17,Bursaspor,Karabukspor,3,0,0,0,3,0,0,1
+2017-04-08,Super Lig,2016-17,Gaziantepspor,Alanyaspor,2,3,0,0,5,0,1,1
+2017-04-08,Super Lig,2016-17,Genclerbirligi,Antalyaspor,1,1,0,0,2,0,1,0
+2017-04-08,Super Lig,2016-17,Trabzonspor,Besiktas,3,4,0,0,7,0,1,1
+2017-04-09,Super Lig,2016-17,Adanaspor,Rizespor,1,3,0,0,4,0,1,1
+2017-04-09,Super Lig,2016-17,Fenerbahce,Akhisar Belediyespor,3,1,0,0,4,0,1,1
+2017-04-09,Super Lig,2016-17,Kayserispor,Osmanlispor,1,4,0,0,5,0,1,1
+2017-04-10,Super Lig,2016-17,Kasimpasa,Konyaspor,1,1,0,0,2,0,1,0
+2017-04-10,Super Lig,2016-17,Buyuksehyr,Galatasaray,4,0,0,0,4,0,0,1
+2017-04-12,Super Lig,2016-17,Gaziantepspor,Genclerbirligi,0,1,0,0,1,0,0,0
+2017-04-21,Super Lig,2016-17,Karabukspor,Kasimpasa,0,0,0,0,0,0,0,0
+2017-04-21,Super Lig,2016-17,Konyaspor,Gaziantepspor,1,2,0,0,3,0,1,1
+2017-04-22,Super Lig,2016-17,Alanyaspor,Osmanlispor,0,1,0,0,1,0,0,0
+2017-04-22,Super Lig,2016-17,Antalyaspor,Trabzonspor,0,3,0,0,3,0,0,1
+2017-04-22,Super Lig,2016-17,Genclerbirligi,Kayserispor,2,1,0,0,3,0,1,1
+2017-04-22,Super Lig,2016-17,Rizespor,Buyuksehyr,3,3,0,0,6,0,1,1
+2017-04-23,Super Lig,2016-17,Galatasaray,Fenerbahce,0,1,0,0,1,0,0,0
+2017-04-23,Super Lig,2016-17,Akhisar Belediyespor,Bursaspor,5,1,0,0,6,0,1,1
+2017-04-24,Super Lig,2016-17,Besiktas,Adanaspor,3,2,0,0,5,0,1,1
+2017-04-28,Super Lig,2016-17,Gaziantepspor,Karabukspor,0,0,0,0,0,0,0,0
+2017-04-29,Super Lig,2016-17,Kayserispor,Alanyaspor,3,0,0,0,3,0,0,1
+2017-04-29,Super Lig,2016-17,Trabzonspor,Genclerbirligi,0,0,0,0,0,0,0,0
+2017-04-30,Super Lig,2016-17,Adanaspor,Antalyaspor,2,5,0,0,7,0,1,1
+2017-04-30,Super Lig,2016-17,Buyuksehyr,Besiktas,3,1,0,0,4,0,1,1
+2017-04-30,Super Lig,2016-17,Fenerbahce,Rizespor,2,1,0,0,3,0,1,1
+2017-04-30,Super Lig,2016-17,Kasimpasa,Akhisar Belediyespor,0,2,0,0,2,0,0,0
+2017-05-01,Super Lig,2016-17,Osmanlispor,Konyaspor,0,0,0,0,0,0,0,0
+2017-05-01,Super Lig,2016-17,Bursaspor,Galatasaray,0,5,0,0,5,0,0,1
+2017-05-05,Super Lig,2016-17,Antalyaspor,Buyuksehyr,0,1,0,0,1,0,0,0
+2017-05-06,Super Lig,2016-17,Galatasaray,Kasimpasa,1,3,0,0,4,0,1,1
+2017-05-06,Super Lig,2016-17,Genclerbirligi,Adanaspor,0,1,0,0,1,0,0,0
+2017-05-06,Super Lig,2016-17,Konyaspor,Alanyaspor,2,3,0,0,5,0,1,1
+2017-05-06,Super Lig,2016-17,Trabzonspor,Kayserispor,2,3,0,0,5,0,1,1
+2017-05-07,Super Lig,2016-17,Besiktas,Fenerbahce,1,1,0,0,2,0,1,0
+2017-05-07,Super Lig,2016-17,Rizespor,Bursaspor,6,0,0,0,6,0,0,1
+2017-05-08,Super Lig,2016-17,Karabukspor,Osmanlispor,1,0,0,0,1,0,0,0
+2017-05-08,Super Lig,2016-17,Akhisar Belediyespor,Gaziantepspor,6,0,0,0,6,0,0,1
+2017-05-12,Super Lig,2016-17,Kasimpasa,Rizespor,4,2,0,0,6,0,1,1
+2017-05-12,Super Lig,2016-17,Kayserispor,Konyaspor,2,1,0,0,3,0,1,1
+2017-05-13,Super Lig,2016-17,Adanaspor,Trabzonspor,1,1,0,0,2,0,1,0
+2017-05-13,Super Lig,2016-17,Buyuksehyr,Genclerbirligi,2,1,0,0,3,0,1,1
+2017-05-13,Super Lig,2016-17,Fenerbahce,Antalyaspor,0,1,0,0,1,0,0,0
+2017-05-14,Super Lig,2016-17,Alanyaspor,Karabukspor,4,2,0,0,6,0,1,1
+2017-05-14,Super Lig,2016-17,Gaziantepspor,Galatasaray,1,2,0,0,3,0,1,1
+2017-05-14,Super Lig,2016-17,Osmanlispor,Akhisar Belediyespor,0,4,0,0,4,0,0,1
+2017-05-15,Super Lig,2016-17,Bursaspor,Besiktas,0,2,0,0,2,0,0,0
+2017-05-19,Super Lig,2016-17,Galatasaray,Osmanlispor,2,0,0,0,2,0,0,0
+2017-05-20,Super Lig,2016-17,Antalyaspor,Bursaspor,2,1,0,0,3,0,1,1
+2017-05-20,Super Lig,2016-17,Besiktas,Kasimpasa,4,1,0,0,5,0,1,1
+2017-05-20,Super Lig,2016-17,Kayserispor,Adanaspor,1,1,0,0,2,0,1,0
+2017-05-20,Super Lig,2016-17,Rizespor,Gaziantepspor,2,0,0,0,2,0,0,0
+2017-05-21,Super Lig,2016-17,Konyaspor,Karabukspor,3,0,0,0,3,0,0,1
+2017-05-21,Super Lig,2016-17,Trabzonspor,Buyuksehyr,0,0,0,0,0,0,0,0
+2017-05-22,Super Lig,2016-17,Genclerbirligi,Fenerbahce,1,2,0,0,3,0,1,1
+2017-05-22,Super Lig,2016-17,Akhisar Belediyespor,Alanyaspor,3,0,0,0,3,0,0,1
+2017-05-27,Super Lig,2016-17,Buyuksehyr,Adanaspor,2,1,0,0,3,0,1,1
+2017-05-27,Super Lig,2016-17,Fenerbahce,Trabzonspor,1,1,0,0,2,0,1,0
+2017-05-27,Super Lig,2016-17,Kasimpasa,Antalyaspor,0,3,0,0,3,0,0,1
+2017-05-27,Super Lig,2016-17,Konyaspor,Akhisar Belediyespor,0,3,0,0,3,0,0,1
+2017-05-28,Super Lig,2016-17,Bursaspor,Genclerbirligi,1,2,0,0,3,0,1,1
+2017-05-28,Super Lig,2016-17,Gaziantepspor,Besiktas,0,4,0,0,4,0,0,1
+2017-05-28,Super Lig,2016-17,Karabukspor,Kayserispor,2,2,0,0,4,0,1,1
+2017-05-28,Super Lig,2016-17,Osmanlispor,Rizespor,1,2,0,0,3,0,1,1
+2017-05-29,Super Lig,2016-17,Alanyaspor,Galatasaray,2,3,0,0,5,0,1,1
+2017-06-02,Super Lig,2016-17,Akhisar Belediyespor,Karabukspor,2,3,0,0,5,0,1,1
+2017-06-02,Super Lig,2016-17,Antalyaspor,Gaziantepspor,4,1,0,0,5,0,1,1
+2017-06-02,Super Lig,2016-17,Genclerbirligi,Kasimpasa,1,0,0,0,1,0,0,0
+2017-06-03,Super Lig,2016-17,Kayserispor,Buyuksehyr,0,1,0,0,1,0,0,0
+2017-06-03,Super Lig,2016-17,Galatasaray,Konyaspor,2,1,0,0,3,0,1,1
+2017-06-03,Super Lig,2016-17,Rizespor,Alanyaspor,1,0,0,0,1,0,0,0
+2017-06-03,Super Lig,2016-17,Adanaspor,Fenerbahce,1,3,0,0,4,0,1,1
+2017-06-03,Super Lig,2016-17,Besiktas,Osmanlispor,4,0,0,0,4,0,0,1
+2017-06-03,Super Lig,2016-17,Trabzonspor,Bursaspor,1,2,0,0,3,0,1,1

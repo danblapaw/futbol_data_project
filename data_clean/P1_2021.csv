@@ -1,0 +1,307 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2020-09-18,Primeira Liga,2020-21,Famalicao,Benfica,1,5,3,4,6,7,1,1
+2020-09-18,Primeira Liga,2020-21,Guimaraes,Belenenses,0,1,7,2,1,9,0,0
+2020-09-19,Primeira Liga,2020-21,Nacional,Boavista,3,3,6,4,6,10,1,1
+2020-09-19,Primeira Liga,2020-21,Porto,Sp Braga,3,1,5,1,4,6,1,1
+2020-09-20,Primeira Liga,2020-21,Santa Clara,Maritimo,2,0,5,6,2,11,0,0
+2020-09-20,Primeira Liga,2020-21,Moreirense,Farense,2,0,4,6,2,10,0,0
+2020-09-20,Primeira Liga,2020-21,Tondela,Rio Ave,1,1,1,6,2,7,1,0
+2020-09-21,Primeira Liga,2020-21,Portimonense,Pacos Ferreira,1,1,4,9,2,13,1,0
+2020-09-25,Primeira Liga,2020-21,Sp Braga,Santa Clara,0,1,8,0,1,8,0,0
+2020-09-26,Primeira Liga,2020-21,Maritimo,Tondela,2,1,0,8,3,8,1,1
+2020-09-26,Primeira Liga,2020-21,Benfica,Moreirense,2,0,10,1,2,11,0,0
+2020-09-26,Primeira Liga,2020-21,Boavista,Porto,0,5,3,2,5,5,0,1
+2020-09-27,Primeira Liga,2020-21,Farense,Nacional,0,1,11,5,1,16,0,0
+2020-09-27,Primeira Liga,2020-21,Gil Vicente,Portimonense,1,0,10,7,1,17,0,0
+2020-09-27,Primeira Liga,2020-21,Pacos Ferreira,Sp Lisbon,0,2,4,8,2,12,0,0
+2020-09-27,Primeira Liga,2020-21,Rio Ave,Guimaraes,0,0,4,4,0,8,0,0
+2020-09-28,Primeira Liga,2020-21,Belenenses,Famalicao,1,2,5,2,3,7,1,1
+2020-10-02,Primeira Liga,2020-21,Guimaraes,Pacos Ferreira,1,0,2,7,1,9,0,0
+2020-10-02,Primeira Liga,2020-21,Moreirense,Boavista,1,1,5,3,2,8,1,0
+2020-10-03,Primeira Liga,2020-21,Santa Clara,Gil Vicente,0,0,8,3,0,11,0,0
+2020-10-03,Primeira Liga,2020-21,Porto,Maritimo,2,3,9,0,5,9,1,1
+2020-10-03,Primeira Liga,2020-21,Tondela,Sp Braga,0,4,5,8,4,13,0,1
+2020-10-04,Primeira Liga,2020-21,Nacional,Belenenses,0,0,7,2,0,9,0,0
+2020-10-04,Primeira Liga,2020-21,Benfica,Farense,3,2,3,2,5,5,1,1
+2020-10-04,Primeira Liga,2020-21,Famalicao,Rio Ave,1,1,3,5,2,8,1,0
+2020-10-04,Primeira Liga,2020-21,Portimonense,Sp Lisbon,0,2,7,2,2,9,0,0
+2020-10-17,Primeira Liga,2020-21,Maritimo,Portimonense,1,2,10,6,3,16,1,1
+2020-10-17,Primeira Liga,2020-21,Sp Lisbon,Porto,2,2,4,1,4,5,1,1
+2020-10-17,Primeira Liga,2020-21,Gil Vicente,Tondela,1,1,5,1,2,6,1,0
+2020-10-17,Primeira Liga,2020-21,Sp Braga,Nacional,2,1,4,2,3,6,1,1
+2020-10-18,Primeira Liga,2020-21,Rio Ave,Benfica,0,3,4,4,3,8,0,1
+2020-10-18,Primeira Liga,2020-21,Belenenses,Moreirense,0,0,7,3,0,10,0,0
+2020-10-18,Primeira Liga,2020-21,Pacos Ferreira,Santa Clara,2,1,7,2,3,9,1,1
+2020-10-18,Primeira Liga,2020-21,Farense,Famalicao,3,3,6,9,6,15,1,1
+2020-10-19,Primeira Liga,2020-21,Boavista,Guimaraes,0,1,9,4,1,13,0,0
+2020-10-23,Primeira Liga,2020-21,Tondela,Portimonense,1,0,5,6,1,11,0,0
+2020-10-24,Primeira Liga,2020-21,Porto,Gil Vicente,1,0,8,3,1,11,0,0
+2020-10-24,Primeira Liga,2020-21,Nacional,Pacos Ferreira,1,1,3,6,2,9,1,0
+2020-10-24,Primeira Liga,2020-21,Santa Clara,Sp Lisbon,1,2,1,9,3,10,1,1
+2020-10-25,Primeira Liga,2020-21,Farense,Rio Ave,0,1,6,1,1,7,0,0
+2020-10-25,Primeira Liga,2020-21,Moreirense,Maritimo,2,1,9,3,3,12,1,1
+2020-10-25,Primeira Liga,2020-21,Famalicao,Boavista,2,2,9,1,4,10,1,1
+2020-10-25,Primeira Liga,2020-21,Guimaraes,Sp Braga,0,1,4,9,1,13,0,0
+2020-10-26,Primeira Liga,2020-21,Benfica,Belenenses,2,0,7,2,2,9,0,0
+2020-10-28,Primeira Liga,2020-21,Sp Lisbon,Gil Vicente,3,1,9,4,4,13,1,1
+2020-10-30,Primeira Liga,2020-21,Pacos Ferreira,Porto,3,2,5,4,5,9,1,1
+2020-10-31,Primeira Liga,2020-21,Maritimo,Nacional,0,0,3,6,0,9,0,0
+2020-10-31,Primeira Liga,2020-21,Belenenses,Farense,1,1,8,6,2,14,1,0
+2020-10-31,Primeira Liga,2020-21,Rio Ave,Moreirense,2,0,3,5,2,8,0,0
+2020-11-01,Primeira Liga,2020-21,Portimonense,Santa Clara,1,2,7,5,3,12,1,1
+2020-11-01,Primeira Liga,2020-21,Gil Vicente,Guimaraes,1,2,8,4,3,12,1,1
+2020-11-01,Primeira Liga,2020-21,Sp Lisbon,Tondela,4,0,8,1,4,9,0,1
+2020-11-02,Primeira Liga,2020-21,Sp Braga,Famalicao,1,0,11,2,1,13,0,0
+2020-11-02,Primeira Liga,2020-21,Boavista,Benfica,3,0,4,6,3,10,0,1
+2020-11-06,Primeira Liga,2020-21,Belenenses,Rio Ave,0,0,6,2,0,8,0,0
+2020-11-07,Primeira Liga,2020-21,Guimaraes,Sp Lisbon,0,4,5,2,4,7,0,1
+2020-11-07,Primeira Liga,2020-21,Tondela,Santa Clara,2,0,3,3,2,6,0,0
+2020-11-07,Primeira Liga,2020-21,Famalicao,Maritimo,2,1,4,2,3,6,1,1
+2020-11-08,Primeira Liga,2020-21,Farense,Boavista,3,1,5,7,4,12,1,1
+2020-11-08,Primeira Liga,2020-21,Nacional,Gil Vicente,2,1,8,11,3,19,1,1
+2020-11-08,Primeira Liga,2020-21,Porto,Portimonense,3,1,11,4,4,15,1,1
+2020-11-08,Primeira Liga,2020-21,Benfica,Sp Braga,2,3,5,3,5,8,1,1
+2020-11-27,Primeira Liga,2020-21,Pacos Ferreira,Famalicao,2,0,3,3,2,6,0,0
+2020-11-27,Primeira Liga,2020-21,Tondela,Guimaraes,0,2,5,2,2,7,0,0
+2020-11-28,Primeira Liga,2020-21,Santa Clara,Porto,0,1,2,7,1,9,0,0
+2020-11-28,Primeira Liga,2020-21,Sp Lisbon,Moreirense,2,1,9,0,3,9,1,1
+2020-11-29,Primeira Liga,2020-21,Sp Braga,Farense,1,0,7,3,1,10,0,0
+2020-11-29,Primeira Liga,2020-21,Gil Vicente,Rio Ave,2,0,2,8,2,10,0,0
+2020-11-29,Primeira Liga,2020-21,Portimonense,Nacional,1,0,7,3,1,10,0,0
+2020-11-29,Primeira Liga,2020-21,Boavista,Belenenses,0,0,4,7,0,11,0,0
+2020-11-30,Primeira Liga,2020-21,Maritimo,Benfica,1,2,1,12,3,13,1,1
+2020-12-01,Primeira Liga,2020-21,Moreirense,Pacos Ferreira,0,1,2,2,1,4,0,0
+2020-12-05,Primeira Liga,2020-21,Famalicao,Sp Lisbon,2,2,3,4,4,7,1,1
+2020-12-05,Primeira Liga,2020-21,Porto,Tondela,4,3,5,2,7,7,1,1
+2020-12-05,Primeira Liga,2020-21,Guimaraes,Portimonense,1,0,5,3,1,8,0,0
+2020-12-05,Primeira Liga,2020-21,Moreirense,Gil Vicente,1,1,1,2,2,3,1,0
+2020-12-06,Primeira Liga,2020-21,Nacional,Santa Clara,1,3,7,12,4,19,1,1
+2020-12-06,Primeira Liga,2020-21,Rio Ave,Boavista,0,0,7,0,0,7,0,0
+2020-12-06,Primeira Liga,2020-21,Belenenses,Sp Braga,2,1,5,9,3,14,1,1
+2020-12-06,Primeira Liga,2020-21,Benfica,Pacos Ferreira,2,1,6,4,3,10,1,1
+2020-12-07,Primeira Liga,2020-21,Farense,Maritimo,2,1,1,4,3,5,1,1
+2020-12-18,Primeira Liga,2020-21,Portimonense,Famalicao,0,0,4,1,0,5,0,0
+2020-12-19,Primeira Liga,2020-21,Maritimo,Belenenses,1,0,4,2,1,6,0,0
+2020-12-19,Primeira Liga,2020-21,Tondela,Moreirense,0,0,1,6,0,7,0,0
+2020-12-19,Primeira Liga,2020-21,Sp Lisbon,Farense,1,0,7,2,1,9,0,0
+2020-12-20,Primeira Liga,2020-21,Pacos Ferreira,Boavista,1,1,5,3,2,8,1,0
+2020-12-20,Primeira Liga,2020-21,Gil Vicente,Benfica,0,2,4,3,2,7,0,0
+2020-12-20,Primeira Liga,2020-21,Porto,Nacional,2,0,8,1,2,9,0,0
+2020-12-21,Primeira Liga,2020-21,Santa Clara,Guimaraes,0,4,7,3,4,10,0,1
+2020-12-22,Primeira Liga,2020-21,Sp Braga,Rio Ave,3,0,3,4,3,7,0,1
+2020-12-27,Primeira Liga,2020-21,Farense,Pacos Ferreira,1,1,5,3,2,8,1,0
+2020-12-27,Primeira Liga,2020-21,Belenenses,Sp Lisbon,1,2,5,3,3,8,1,1
+2020-12-27,Primeira Liga,2020-21,Famalicao,Gil Vicente,0,1,4,6,1,10,0,0
+2020-12-27,Primeira Liga,2020-21,Nacional,Tondela,2,0,2,6,2,8,0,0
+2020-12-28,Primeira Liga,2020-21,Boavista,Sp Braga,1,4,8,6,5,14,1,1
+2020-12-28,Primeira Liga,2020-21,Rio Ave,Maritimo,1,3,4,5,4,9,1,1
+2020-12-29,Primeira Liga,2020-21,Benfica,Portimonense,2,1,3,2,3,5,1,1
+2020-12-29,Primeira Liga,2020-21,Moreirense,Santa Clara,1,0,2,0,1,2,0,0
+2020-12-29,Primeira Liga,2020-21,Guimaraes,Porto,2,3,0,3,5,3,1,1
+2021-01-02,Primeira Liga,2020-21,Sp Lisbon,Sp Braga,2,0,5,4,2,9,0,0
+2021-01-03,Primeira Liga,2020-21,Porto,Moreirense,3,0,6,1,3,7,0,1
+2021-01-03,Primeira Liga,2020-21,Pacos Ferreira,Rio Ave,2,0,3,4,2,7,0,0
+2021-01-03,Primeira Liga,2020-21,Tondela,Famalicao,1,0,4,5,1,9,0,0
+2021-01-03,Primeira Liga,2020-21,Maritimo,Boavista,0,0,2,3,0,5,0,0
+2021-01-04,Primeira Liga,2020-21,Gil Vicente,Belenenses,0,0,8,3,0,11,0,0
+2021-01-04,Primeira Liga,2020-21,Portimonense,Farense,2,0,5,1,2,6,0,0
+2021-01-04,Primeira Liga,2020-21,Santa Clara,Benfica,1,1,3,10,2,13,1,0
+2021-01-07,Primeira Liga,2020-21,Sp Braga,Maritimo,2,1,4,1,3,5,1,1
+2021-01-08,Primeira Liga,2020-21,Famalicao,Porto,1,4,3,3,5,6,1,1
+2021-01-08,Primeira Liga,2020-21,Nacional,Sp Lisbon,0,2,1,10,2,11,0,0
+2021-01-08,Primeira Liga,2020-21,Benfica,Tondela,2,0,11,0,2,11,0,0
+2021-01-08,Primeira Liga,2020-21,Rio Ave,Portimonense,3,0,4,4,3,8,0,1
+2021-01-09,Primeira Liga,2020-21,Boavista,Santa Clara,1,1,3,4,2,7,1,0
+2021-01-09,Primeira Liga,2020-21,Moreirense,Guimaraes,2,2,2,3,4,5,1,1
+2021-01-10,Primeira Liga,2020-21,Farense,Gil Vicente,3,1,7,6,4,13,1,1
+2021-01-10,Primeira Liga,2020-21,Belenenses,Pacos Ferreira,0,2,8,4,2,12,0,0
+2021-01-15,Primeira Liga,2020-21,Sp Lisbon,Rio Ave,1,1,5,2,2,7,1,0
+2021-01-15,Primeira Liga,2020-21,Porto,Benfica,1,1,1,3,2,4,1,0
+2021-01-16,Primeira Liga,2020-21,Pacos Ferreira,Sp Braga,2,0,2,4,2,6,0,0
+2021-01-16,Primeira Liga,2020-21,Tondela,Boavista,3,1,7,5,4,12,1,1
+2021-01-17,Primeira Liga,2020-21,Nacional,Moreirense,0,1,5,6,1,11,0,0
+2021-01-17,Primeira Liga,2020-21,Santa Clara,Famalicao,1,2,1,4,3,5,1,1
+2021-01-17,Primeira Liga,2020-21,Gil Vicente,Maritimo,0,1,3,4,1,7,0,0
+2021-01-18,Primeira Liga,2020-21,Portimonense,Belenenses,1,0,7,2,1,9,0,0
+2021-01-21,Primeira Liga,2020-21,Guimaraes,Nacional,3,1,3,3,4,6,1,1
+2021-01-24,Primeira Liga,2020-21,Maritimo,Pacos Ferreira,0,3,5,2,3,7,0,1
+2021-01-24,Primeira Liga,2020-21,Moreirense,Portimonense,2,2,3,1,4,4,1,1
+2021-01-24,Primeira Liga,2020-21,Famalicao,Guimaraes,0,1,7,4,1,11,0,0
+2021-01-25,Primeira Liga,2020-21,Belenenses,Tondela,2,0,4,9,2,13,0,0
+2021-01-25,Primeira Liga,2020-21,Rio Ave,Santa Clara,1,2,6,2,3,8,1,1
+2021-01-25,Primeira Liga,2020-21,Benfica,Nacional,1,1,7,3,2,10,1,0
+2021-01-25,Primeira Liga,2020-21,Farense,Porto,0,1,7,4,1,11,0,0
+2021-01-26,Primeira Liga,2020-21,Boavista,Sp Lisbon,0,2,4,8,2,12,0,0
+2021-01-26,Primeira Liga,2020-21,Sp Braga,Gil Vicente,1,0,7,4,1,11,0,0
+2021-01-30,Primeira Liga,2020-21,Nacional,Famalicao,2,1,9,3,3,12,1,1
+2021-01-30,Primeira Liga,2020-21,Tondela,Farense,2,0,5,5,2,10,0,0
+2021-01-30,Primeira Liga,2020-21,Portimonense,Boavista,1,2,4,2,3,6,1,1
+2021-01-31,Primeira Liga,2020-21,Guimaraes,Maritimo,1,0,7,1,1,8,0,0
+2021-02-01,Primeira Liga,2020-21,Santa Clara,Belenenses,2,0,2,2,2,4,0,0
+2021-02-01,Primeira Liga,2020-21,Porto,Rio Ave,2,0,7,8,2,15,0,0
+2021-02-01,Primeira Liga,2020-21,Moreirense,Sp Braga,0,4,5,5,4,10,0,1
+2021-02-01,Primeira Liga,2020-21,Sp Lisbon,Benfica,1,0,8,1,1,9,0,0
+2021-02-02,Primeira Liga,2020-21,Gil Vicente,Pacos Ferreira,1,2,8,3,3,11,1,1
+2021-02-04,Primeira Liga,2020-21,Farense,Santa Clara,1,1,11,7,2,18,1,0
+2021-02-04,Primeira Liga,2020-21,Belenenses,Porto,0,0,2,10,0,12,0,0
+2021-02-04,Primeira Liga,2020-21,Sp Braga,Portimonense,2,1,4,1,3,5,1,1
+2021-02-04,Primeira Liga,2020-21,Famalicao,Moreirense,0,2,5,3,2,8,0,0
+2021-02-05,Primeira Liga,2020-21,Rio Ave,Nacional,0,0,5,3,0,8,0,0
+2021-02-05,Primeira Liga,2020-21,Benfica,Guimaraes,0,0,9,2,0,11,0,0
+2021-02-05,Primeira Liga,2020-21,Maritimo,Sp Lisbon,0,2,2,5,2,7,0,0
+2021-02-05,Primeira Liga,2020-21,Boavista,Gil Vicente,1,2,3,5,3,8,1,1
+2021-02-05,Primeira Liga,2020-21,Pacos Ferreira,Tondela,2,1,3,3,3,6,1,1
+2021-02-07,Primeira Liga,2020-21,Sp Braga,Porto,2,2,6,5,4,11,1,1
+2021-02-08,Primeira Liga,2020-21,Farense,Moreirense,1,2,10,1,3,11,1,1
+2021-02-08,Primeira Liga,2020-21,Benfica,Famalicao,2,0,4,1,2,5,0,0
+2021-02-08,Primeira Liga,2020-21,Maritimo,Santa Clara,1,2,3,5,3,8,1,1
+2021-02-08,Primeira Liga,2020-21,Belenenses,Guimaraes,1,1,4,7,2,11,1,0
+2021-02-09,Primeira Liga,2020-21,Pacos Ferreira,Portimonense,0,0,3,2,0,5,0,0
+2021-02-09,Primeira Liga,2020-21,Rio Ave,Tondela,2,1,2,3,3,5,1,1
+2021-02-09,Primeira Liga,2020-21,Boavista,Nacional,0,1,6,1,1,7,0,0
+2021-02-09,Primeira Liga,2020-21,Gil Vicente,Sp Lisbon,1,2,1,4,3,5,1,1
+2021-02-12,Primeira Liga,2020-21,Famalicao,Belenenses,0,0,4,5,0,9,0,0
+2021-02-13,Primeira Liga,2020-21,Nacional,Farense,2,3,6,10,5,16,1,1
+2021-02-13,Primeira Liga,2020-21,Guimaraes,Rio Ave,1,3,11,0,4,11,1,1
+2021-02-13,Primeira Liga,2020-21,Porto,Boavista,2,2,7,2,4,9,1,1
+2021-02-14,Primeira Liga,2020-21,Portimonense,Gil Vicente,4,1,6,4,5,10,1,1
+2021-02-14,Primeira Liga,2020-21,Santa Clara,Sp Braga,0,1,9,3,1,12,0,0
+2021-02-14,Primeira Liga,2020-21,Moreirense,Benfica,1,1,3,9,2,12,1,0
+2021-02-15,Primeira Liga,2020-21,Sp Lisbon,Pacos Ferreira,2,0,2,4,2,6,0,0
+2021-02-16,Primeira Liga,2020-21,Tondela,Maritimo,2,1,2,1,3,3,1,1
+2021-02-17,Primeira Liga,2020-21,Guimaraes,Farense,2,2,8,4,4,12,1,1
+2021-02-19,Primeira Liga,2020-21,Boavista,Moreirense,1,0,10,5,1,15,0,0
+2021-02-20,Primeira Liga,2020-21,Belenenses,Nacional,2,1,9,1,3,10,1,1
+2021-02-20,Primeira Liga,2020-21,Gil Vicente,Santa Clara,1,0,6,4,1,10,0,0
+2021-02-20,Primeira Liga,2020-21,Sp Lisbon,Portimonense,2,0,5,4,2,9,0,0
+2021-02-21,Primeira Liga,2020-21,Pacos Ferreira,Guimaraes,2,1,3,3,3,6,1,1
+2021-02-21,Primeira Liga,2020-21,Rio Ave,Famalicao,0,1,4,8,1,12,0,0
+2021-02-21,Primeira Liga,2020-21,Sp Braga,Tondela,4,2,8,2,6,10,1,1
+2021-02-21,Primeira Liga,2020-21,Farense,Benfica,0,0,4,7,0,11,0,0
+2021-02-22,Primeira Liga,2020-21,Maritimo,Porto,1,2,3,3,3,6,1,1
+2021-02-26,Primeira Liga,2020-21,Guimaraes,Boavista,2,1,10,1,3,11,1,1
+2021-02-27,Primeira Liga,2020-21,Famalicao,Farense,0,0,5,4,0,9,0,0
+2021-02-27,Primeira Liga,2020-21,Santa Clara,Pacos Ferreira,3,0,2,13,3,15,0,1
+2021-02-27,Primeira Liga,2020-21,Porto,Sp Lisbon,0,0,3,1,0,4,0,0
+2021-02-28,Primeira Liga,2020-21,Portimonense,Maritimo,0,0,6,4,0,10,0,0
+2021-02-28,Primeira Liga,2020-21,Tondela,Gil Vicente,1,0,6,8,1,14,0,0
+2021-02-28,Primeira Liga,2020-21,Nacional,Sp Braga,1,2,2,5,3,7,1,1
+2021-03-01,Primeira Liga,2020-21,Benfica,Rio Ave,2,0,6,6,2,12,0,0
+2021-03-01,Primeira Liga,2020-21,Moreirense,Belenenses,2,2,4,5,4,9,1,1
+2021-03-05,Primeira Liga,2020-21,Sp Lisbon,Santa Clara,2,1,4,8,3,12,1,1
+2021-03-05,Primeira Liga,2020-21,Pacos Ferreira,Nacional,2,1,5,4,3,9,1,1
+2021-03-06,Primeira Liga,2020-21,Portimonense,Tondela,3,0,3,3,3,6,0,1
+2021-03-06,Primeira Liga,2020-21,Gil Vicente,Porto,0,2,4,10,2,14,0,0
+2021-03-06,Primeira Liga,2020-21,Boavista,Famalicao,3,0,2,7,3,9,0,1
+2021-03-07,Primeira Liga,2020-21,Maritimo,Moreirense,0,2,5,2,2,7,0,0
+2021-03-07,Primeira Liga,2020-21,Rio Ave,Farense,2,0,4,6,2,10,0,0
+2021-03-08,Primeira Liga,2020-21,Belenenses,Benfica,0,3,4,5,3,9,0,1
+2021-03-09,Primeira Liga,2020-21,Sp Braga,Guimaraes,3,0,3,12,3,15,0,1
+2021-03-12,Primeira Liga,2020-21,Nacional,Maritimo,1,2,8,6,3,14,1,1
+2021-03-13,Primeira Liga,2020-21,Tondela,Sp Lisbon,0,1,3,5,1,8,0,0
+2021-03-13,Primeira Liga,2020-21,Santa Clara,Portimonense,2,0,6,2,2,8,0,0
+2021-03-13,Primeira Liga,2020-21,Benfica,Boavista,2,0,13,3,2,16,0,0
+2021-03-13,Primeira Liga,2020-21,Farense,Belenenses,0,1,6,2,1,8,0,0
+2021-03-14,Primeira Liga,2020-21,Moreirense,Rio Ave,1,1,7,5,2,12,1,0
+2021-03-14,Primeira Liga,2020-21,Guimaraes,Gil Vicente,2,4,8,6,6,14,1,1
+2021-03-14,Primeira Liga,2020-21,Porto,Pacos Ferreira,2,0,10,2,2,12,0,0
+2021-03-15,Primeira Liga,2020-21,Famalicao,Sp Braga,2,2,2,4,4,6,1,1
+2021-03-19,Primeira Liga,2020-21,Gil Vicente,Nacional,2,0,3,3,2,6,0,0
+2021-03-20,Primeira Liga,2020-21,Sp Lisbon,Guimaraes,1,0,5,6,1,11,0,0
+2021-03-20,Primeira Liga,2020-21,Portimonense,Porto,1,2,2,4,3,6,1,1
+2021-03-20,Primeira Liga,2020-21,Pacos Ferreira,Moreirense,3,0,5,10,3,15,0,1
+2021-03-20,Primeira Liga,2020-21,Santa Clara,Tondela,1,1,6,4,2,10,1,0
+2021-03-21,Primeira Liga,2020-21,Rio Ave,Belenenses,0,0,9,2,0,11,0,0
+2021-03-21,Primeira Liga,2020-21,Boavista,Farense,0,1,5,9,1,14,0,0
+2021-03-21,Primeira Liga,2020-21,Maritimo,Famalicao,0,4,5,1,4,6,0,1
+2021-03-21,Primeira Liga,2020-21,Sp Braga,Benfica,0,2,2,1,2,3,0,0
+2021-04-02,Primeira Liga,2020-21,Nacional,Portimonense,1,5,6,6,6,12,1,1
+2021-04-03,Primeira Liga,2020-21,Rio Ave,Gil Vicente,0,2,4,6,2,10,0,0
+2021-04-03,Primeira Liga,2020-21,Porto,Santa Clara,2,1,7,5,3,12,1,1
+2021-04-04,Primeira Liga,2020-21,Belenenses,Boavista,0,2,5,4,2,9,0,0
+2021-04-04,Primeira Liga,2020-21,Guimaraes,Tondela,1,2,11,5,3,16,1,1
+2021-04-04,Primeira Liga,2020-21,Famalicao,Pacos Ferreira,2,0,6,3,2,9,0,0
+2021-04-05,Primeira Liga,2020-21,Farense,Sp Braga,1,2,4,5,3,9,1,1
+2021-04-05,Primeira Liga,2020-21,Benfica,Maritimo,1,0,4,3,1,7,0,0
+2021-04-05,Primeira Liga,2020-21,Moreirense,Sp Lisbon,1,1,2,4,2,6,1,0
+2021-04-09,Primeira Liga,2020-21,Portimonense,Guimaraes,3,0,3,8,3,11,0,1
+2021-04-10,Primeira Liga,2020-21,Tondela,Porto,0,2,1,6,2,7,0,0
+2021-04-10,Primeira Liga,2020-21,Pacos Ferreira,Benfica,0,5,1,11,5,12,0,1
+2021-04-10,Primeira Liga,2020-21,Maritimo,Farense,1,0,6,12,1,18,0,0
+2021-04-10,Primeira Liga,2020-21,Boavista,Rio Ave,3,3,6,5,6,11,1,1
+2021-04-11,Primeira Liga,2020-21,Gil Vicente,Moreirense,1,2,7,2,3,9,1,1
+2021-04-11,Primeira Liga,2020-21,Santa Clara,Nacional,5,1,3,3,6,6,1,1
+2021-04-11,Primeira Liga,2020-21,Sp Braga,Belenenses,1,1,9,7,2,16,1,0
+2021-04-11,Primeira Liga,2020-21,Sp Lisbon,Famalicao,1,1,6,5,2,11,1,0
+2021-04-16,Primeira Liga,2020-21,Boavista,Pacos Ferreira,2,0,0,8,2,8,0,0
+2021-04-16,Primeira Liga,2020-21,Farense,Sp Lisbon,0,1,7,9,1,16,0,0
+2021-04-17,Primeira Liga,2020-21,Rio Ave,Sp Braga,0,0,2,5,0,7,0,0
+2021-04-17,Primeira Liga,2020-21,Benfica,Gil Vicente,1,2,5,5,3,10,1,1
+2021-04-17,Primeira Liga,2020-21,Guimaraes,Santa Clara,1,0,4,5,1,9,0,0
+2021-04-17,Primeira Liga,2020-21,Moreirense,Tondela,2,3,5,3,5,8,1,1
+2021-04-17,Primeira Liga,2020-21,Belenenses,Maritimo,2,0,2,11,2,13,0,0
+2021-04-18,Primeira Liga,2020-21,Famalicao,Portimonense,0,1,5,4,1,9,0,0
+2021-04-18,Primeira Liga,2020-21,Nacional,Porto,0,1,2,2,1,4,0,0
+2021-04-20,Primeira Liga,2020-21,Pacos Ferreira,Farense,0,2,6,6,2,12,0,0
+2021-04-21,Primeira Liga,2020-21,Sp Braga,Boavista,2,1,15,2,3,17,1,1
+2021-04-21,Primeira Liga,2020-21,Sp Lisbon,Belenenses,2,2,9,0,4,9,1,1
+2021-04-21,Primeira Liga,2020-21,Santa Clara,Moreirense,0,0,8,5,0,13,0,0
+2021-04-21,Primeira Liga,2020-21,Maritimo,Rio Ave,1,0,4,10,1,14,0,0
+2021-04-22,Primeira Liga,2020-21,Tondela,Nacional,2,1,6,7,3,13,1,1
+2021-04-22,Primeira Liga,2020-21,Gil Vicente,Famalicao,0,3,6,5,3,11,0,1
+2021-04-22,Primeira Liga,2020-21,Portimonense,Benfica,1,5,5,4,6,9,1,1
+2021-04-22,Primeira Liga,2020-21,Porto,Guimaraes,1,0,8,4,1,12,0,0
+2021-04-25,Primeira Liga,2020-21,Boavista,Maritimo,0,1,3,8,1,11,0,0
+2021-04-25,Primeira Liga,2020-21,Rio Ave,Pacos Ferreira,1,1,5,2,2,7,1,0
+2021-04-25,Primeira Liga,2020-21,Sp Braga,Sp Lisbon,0,1,6,2,1,8,0,0
+2021-04-26,Primeira Liga,2020-21,Moreirense,Porto,1,1,6,11,2,17,1,0
+2021-04-26,Primeira Liga,2020-21,Nacional,Guimaraes,1,0,6,4,1,10,0,0
+2021-04-26,Primeira Liga,2020-21,Benfica,Santa Clara,2,1,5,4,3,9,1,1
+2021-04-26,Primeira Liga,2020-21,Belenenses,Gil Vicente,2,1,4,5,3,9,1,1
+2021-04-26,Primeira Liga,2020-21,Famalicao,Tondela,2,2,8,9,4,17,1,1
+2021-04-27,Primeira Liga,2020-21,Farense,Portimonense,1,1,8,5,2,13,1,0
+2021-04-29,Primeira Liga,2020-21,Maritimo,Sp Braga,1,0,2,8,1,10,0,0
+2021-04-30,Primeira Liga,2020-21,Pacos Ferreira,Belenenses,1,0,3,5,1,8,0,0
+2021-04-30,Primeira Liga,2020-21,Guimaraes,Moreirense,2,0,4,10,2,14,0,0
+2021-04-30,Primeira Liga,2020-21,Tondela,Benfica,0,2,3,6,2,9,0,0
+2021-04-30,Primeira Liga,2020-21,Porto,Famalicao,3,2,5,4,5,9,1,1
+2021-05-01,Primeira Liga,2020-21,Sp Lisbon,Nacional,2,0,7,4,2,11,0,0
+2021-05-01,Primeira Liga,2020-21,Santa Clara,Boavista,3,3,5,4,6,9,1,1
+2021-05-01,Primeira Liga,2020-21,Gil Vicente,Farense,0,0,5,4,0,9,0,0
+2021-05-01,Primeira Liga,2020-21,Portimonense,Rio Ave,0,0,6,10,0,16,0,0
+2021-05-05,Primeira Liga,2020-21,Maritimo,Gil Vicente,0,1,9,3,1,12,0,0
+2021-05-05,Primeira Liga,2020-21,Sp Braga,Pacos Ferreira,1,1,7,5,2,12,1,0
+2021-05-05,Primeira Liga,2020-21,Rio Ave,Sp Lisbon,0,2,2,9,2,11,0,0
+2021-05-06,Primeira Liga,2020-21,Moreirense,Nacional,2,2,3,7,4,10,1,1
+2021-05-06,Primeira Liga,2020-21,Belenenses,Portimonense,1,0,3,4,1,7,0,0
+2021-05-06,Primeira Liga,2020-21,Benfica,Porto,1,1,7,11,2,18,1,0
+2021-05-06,Primeira Liga,2020-21,Farense,Guimaraes,2,2,3,6,4,9,1,1
+2021-05-07,Primeira Liga,2020-21,Famalicao,Santa Clara,1,0,5,2,1,7,0,0
+2021-05-07,Primeira Liga,2020-21,Boavista,Tondela,1,1,8,2,2,10,1,0
+2021-05-09,Primeira Liga,2020-21,Pacos Ferreira,Maritimo,1,1,7,4,2,11,1,0
+2021-05-09,Primeira Liga,2020-21,Gil Vicente,Sp Braga,1,1,2,4,2,6,1,0
+2021-05-10,Primeira Liga,2020-21,Portimonense,Moreirense,1,2,2,6,3,8,1,1
+2021-05-10,Primeira Liga,2020-21,Porto,Farense,5,1,3,1,6,4,1,1
+2021-05-11,Primeira Liga,2020-21,Tondela,Belenenses,1,3,11,3,4,14,1,1
+2021-05-11,Primeira Liga,2020-21,Nacional,Benfica,1,3,5,6,4,11,1,1
+2021-05-11,Primeira Liga,2020-21,Santa Clara,Rio Ave,1,0,8,6,1,14,0,0
+2021-05-11,Primeira Liga,2020-21,Sp Lisbon,Boavista,1,0,12,1,1,13,0,0
+2021-05-12,Primeira Liga,2020-21,Guimaraes,Famalicao,1,2,7,8,3,15,1,1
+2021-05-14,Primeira Liga,2020-21,Pacos Ferreira,Gil Vicente,0,2,2,9,2,11,0,0
+2021-05-14,Primeira Liga,2020-21,Sp Braga,Moreirense,2,1,10,1,3,11,1,1
+2021-05-15,Primeira Liga,2020-21,Boavista,Portimonense,1,0,2,5,1,7,0,0
+2021-05-15,Primeira Liga,2020-21,Farense,Tondela,1,0,5,3,1,8,0,0
+2021-05-15,Primeira Liga,2020-21,Benfica,Sp Lisbon,4,3,5,5,7,10,1,1
+2021-05-15,Primeira Liga,2020-21,Rio Ave,Porto,0,3,5,5,3,10,0,1
+2021-05-16,Primeira Liga,2020-21,Famalicao,Nacional,3,0,5,2,3,7,0,1
+2021-05-16,Primeira Liga,2020-21,Belenenses,Santa Clara,0,2,10,5,2,15,0,0
+2021-05-16,Primeira Liga,2020-21,Maritimo,Guimaraes,0,0,2,2,0,4,0,0
+2021-05-18,Primeira Liga,2020-21,Tondela,Pacos Ferreira,2,3,3,6,5,9,1,1
+2021-05-19,Primeira Liga,2020-21,Portimonense,Sp Braga,0,0,4,5,0,9,0,0
+2021-05-19,Primeira Liga,2020-21,Nacional,Rio Ave,1,2,1,16,3,17,1,1
+2021-05-19,Primeira Liga,2020-21,Moreirense,Famalicao,3,0,6,3,3,9,0,1
+2021-05-19,Primeira Liga,2020-21,Santa Clara,Farense,4,0,1,4,4,5,0,1
+2021-05-19,Primeira Liga,2020-21,Gil Vicente,Boavista,1,2,7,8,3,15,1,1
+2021-05-19,Primeira Liga,2020-21,Porto,Belenenses,4,0,6,6,4,12,0,1
+2021-05-19,Primeira Liga,2020-21,Guimaraes,Benfica,1,3,7,4,4,11,1,1
+2021-05-19,Primeira Liga,2020-21,Sp Lisbon,Maritimo,5,1,4,3,6,7,1,1

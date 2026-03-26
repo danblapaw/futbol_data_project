@@ -1,0 +1,240 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2018-08-25,Super League Greece,2018-19,AEK,Giannina,2,0,2,3,2,5,0,0
+2018-08-25,Super League Greece,2018-19,Apollon,Larisa,0,1,5,2,1,7,0,0
+2018-08-25,Super League Greece,2018-19,Panetolikos,Atromitos,1,2,4,4,3,8,1,1
+2018-08-25,Super League Greece,2018-19,PAOK,Asteras Tripolis,1,0,4,6,1,10,0,0
+2018-08-26,Super League Greece,2018-19,Olympiakos,Levadeiakos,1,0,8,0,1,8,0,0
+2018-08-26,Super League Greece,2018-19,Panionios,OFI Crete,2,2,9,3,4,12,1,1
+2018-08-26,Super League Greece,2018-19,Xanthi,Panathinaikos,0,1,1,2,1,3,0,0
+2018-08-27,Super League Greece,2018-19,Lamia,Aris,0,3,5,4,3,9,0,1
+2018-09-01,Super League Greece,2018-19,Asteras Tripolis,AEK,0,1,1,7,1,8,0,0
+2018-09-01,Super League Greece,2018-19,Atromitos,Xanthi,0,0,5,3,0,8,0,0
+2018-09-01,Super League Greece,2018-19,Panathinaikos,Lamia,3,1,2,1,4,3,1,1
+2018-09-02,Super League Greece,2018-19,Olympiakos,Giannina,5,0,4,2,5,6,0,1
+2018-09-02,Super League Greece,2018-19,Panionios,PAOK,0,1,3,4,1,7,0,0
+2018-09-02,Super League Greece,2018-19,Aris,Larisa,2,0,5,2,2,7,0,0
+2018-09-03,Super League Greece,2018-19,Levadeiakos,Apollon,1,0,5,1,1,6,0,0
+2018-09-03,Super League Greece,2018-19,Panetolikos,OFI Crete,2,1,2,5,3,7,1,1
+2018-09-15,Super League Greece,2018-19,AEK,Panionios,4,0,7,0,4,7,0,1
+2018-09-15,Super League Greece,2018-19,Apollon,Giannina,1,2,1,6,3,7,1,1
+2018-09-15,Super League Greece,2018-19,OFI Crete,PAOK,1,3,1,3,4,4,1,1
+2018-09-16,Super League Greece,2018-19,Atromitos,Lamia,1,0,6,3,1,9,0,0
+2018-09-16,Super League Greece,2018-19,Larisa,Panathinaikos,1,3,5,3,4,8,1,1
+2018-09-16,Super League Greece,2018-19,Olympiakos,Asteras Tripolis,2,1,2,4,3,6,1,1
+2018-09-16,Super League Greece,2018-19,Xanthi,Panetolikos,1,1,10,0,2,10,1,0
+2018-09-17,Super League Greece,2018-19,Aris,Levadeiakos,2,0,4,3,2,7,0,0
+2018-09-22,Super League Greece,2018-19,Giannina,Aris,1,0,3,2,1,5,0,0
+2018-09-22,Super League Greece,2018-19,Asteras Tripolis,Apollon,2,0,9,2,2,11,0,0
+2018-09-22,Super League Greece,2018-19,Atromitos,Larisa,2,0,5,3,2,8,0,0
+2018-09-23,Super League Greece,2018-19,PAOK,AEK,2,0,4,5,2,9,0,0
+2018-09-23,Super League Greece,2018-19,Xanthi,OFI Crete,3,0,3,3,3,6,0,1
+2018-09-23,Super League Greece,2018-19,Panathinaikos,Levadeiakos,3,0,2,4,3,6,0,1
+2018-09-24,Super League Greece,2018-19,Panetolikos,Lamia,2,2,1,4,4,5,1,1
+2018-09-24,Super League Greece,2018-19,Panionios,Olympiakos,0,1,3,5,1,8,0,0
+2018-09-29,Super League Greece,2018-19,Larisa,Panetolikos,1,0,5,2,1,7,0,0
+2018-09-29,Super League Greece,2018-19,OFI Crete,AEK,0,3,2,5,3,7,0,1
+2018-09-29,Super League Greece,2018-19,Panathinaikos,Giannina,2,1,1,0,3,1,1,1
+2018-09-30,Super League Greece,2018-19,Apollon,Panionios,0,2,5,7,2,12,0,0
+2018-09-30,Super League Greece,2018-19,Aris,Asteras Tripolis,2,0,2,1,2,3,0,0
+2018-09-30,Super League Greece,2018-19,Levadeiakos,Atromitos,0,2,5,5,2,10,0,0
+2018-09-30,Super League Greece,2018-19,Olympiakos,PAOK,0,1,6,3,1,9,0,0
+2018-10-01,Super League Greece,2018-19,Lamia,Xanthi,0,0,9,2,0,11,0,0
+2018-10-06,Super League Greece,2018-19,Panionios,Aris,1,0,4,6,1,10,0,0
+2018-10-06,Super League Greece,2018-19,Asteras Tripolis,Panathinaikos,1,1,6,4,2,10,1,0
+2018-10-06,Super League Greece,2018-19,Panetolikos,Levadeiakos,2,1,5,0,3,5,1,1
+2018-10-07,Super League Greece,2018-19,PAOK,Apollon,2,0,8,2,2,10,0,0
+2018-10-07,Super League Greece,2018-19,Lamia,OFI Crete,1,1,9,2,2,11,1,0
+2018-10-07,Super League Greece,2018-19,AEK,Olympiakos,1,1,4,1,2,5,1,0
+2018-10-07,Super League Greece,2018-19,Atromitos,Giannina,1,0,5,0,1,5,0,0
+2018-10-08,Super League Greece,2018-19,Xanthi,Larisa,1,0,3,3,1,6,0,0
+2018-10-20,Super League Greece,2018-19,Apollon,AEK,0,2,3,1,2,4,0,0
+2018-10-20,Super League Greece,2018-19,Giannina,Panetolikos,0,2,5,5,2,10,0,0
+2018-10-20,Super League Greece,2018-19,Larisa,Lamia,1,2,4,2,3,6,1,1
+2018-10-20,Super League Greece,2018-19,Panathinaikos,Panionios,1,0,9,4,1,13,0,0
+2018-10-21,Super League Greece,2018-19,OFI Crete,Olympiakos,1,0,3,4,1,7,0,0
+2018-10-21,Super League Greece,2018-19,Aris,PAOK,1,2,2,1,3,3,1,1
+2018-10-21,Super League Greece,2018-19,Levadeiakos,Xanthi,1,2,6,1,3,7,1,1
+2018-10-22,Super League Greece,2018-19,Atromitos,Asteras Tripolis,3,2,6,4,5,10,1,1
+2018-10-27,Super League Greece,2018-19,Larisa,OFI Crete,0,0,7,4,0,11,0,0
+2018-10-27,Super League Greece,2018-19,Lamia,Levadeiakos,3,2,6,2,5,8,1,1
+2018-10-28,Super League Greece,2018-19,Panionios,Atromitos,2,2,3,5,4,8,1,1
+2018-10-28,Super League Greece,2018-19,AEK,Aris,4,0,5,7,4,12,0,1
+2018-10-28,Super League Greece,2018-19,Panetolikos,Asteras Tripolis,1,1,2,0,2,2,1,0
+2018-10-29,Super League Greece,2018-19,Olympiakos,Apollon,1,0,12,2,1,14,0,0
+2018-10-29,Super League Greece,2018-19,PAOK,Panathinaikos,2,0,7,1,2,8,0,0
+2018-10-29,Super League Greece,2018-19,Xanthi,Giannina,2,1,3,3,3,6,1,1
+2018-11-03,Super League Greece,2018-19,Atromitos,PAOK,1,1,3,3,2,6,1,0
+2018-11-03,Super League Greece,2018-19,Levadeiakos,Larisa,1,1,5,4,2,9,1,0
+2018-11-03,Super League Greece,2018-19,Panathinaikos,AEK,0,0,3,3,0,6,0,0
+2018-11-03,Super League Greece,2018-19,Panionios,Panetolikos,3,0,1,6,3,7,0,1
+2018-11-04,Super League Greece,2018-19,Aris,Olympiakos,0,1,2,3,1,5,0,0
+2018-11-04,Super League Greece,2018-19,Giannina,Lamia,0,0,3,6,0,9,0,0
+2018-11-04,Super League Greece,2018-19,OFI Crete,Apollon,0,0,11,5,0,16,0,0
+2018-11-05,Super League Greece,2018-19,Asteras Tripolis,Xanthi,0,1,7,0,1,7,0,0
+2018-11-10,Super League Greece,2018-19,Levadeiakos,OFI Crete,2,1,6,4,3,10,1,1
+2018-11-10,Super League Greece,2018-19,Xanthi,Panionios,0,1,7,2,1,9,0,0
+2018-11-10,Super League Greece,2018-19,Larisa,Giannina,2,0,5,2,2,7,0,0
+2018-11-11,Super League Greece,2018-19,AEK,Atromitos,0,2,3,1,2,4,0,0
+2018-11-11,Super League Greece,2018-19,Lamia,Asteras Tripolis,0,0,3,10,0,13,0,0
+2018-11-11,Super League Greece,2018-19,Olympiakos,Panathinaikos,1,1,11,0,2,11,1,0
+2018-11-11,Super League Greece,2018-19,PAOK,Panetolikos,2,1,12,0,3,12,1,1
+2018-11-12,Super League Greece,2018-19,Apollon,Aris,1,2,5,5,3,10,1,1
+2018-11-24,Super League Greece,2018-19,Asteras Tripolis,Larisa,2,0,8,0,2,8,0,0
+2018-11-24,Super League Greece,2018-19,Panathinaikos,Apollon,5,1,5,6,6,11,1,1
+2018-11-24,Super League Greece,2018-19,Panetolikos,AEK,2,1,5,5,3,10,1,1
+2018-11-24,Super League Greece,2018-19,PAOK,Xanthi,2,0,3,3,2,6,0,0
+2018-11-25,Super League Greece,2018-19,Atromitos,Olympiakos,1,2,4,9,3,13,1,1
+2018-11-25,Super League Greece,2018-19,Giannina,Levadeiakos,2,0,3,3,2,6,0,0
+2018-11-25,Super League Greece,2018-19,OFI Crete,Aris,1,2,6,8,3,14,1,1
+2018-11-26,Super League Greece,2018-19,Panionios,Lamia,1,0,6,5,1,11,0,0
+2018-12-01,Super League Greece,2018-19,Larisa,Panionios,4,2,7,3,6,10,1,1
+2018-12-01,Super League Greece,2018-19,Apollon,Atromitos,1,1,4,6,2,10,1,0
+2018-12-01,Super League Greece,2018-19,Giannina,OFI Crete,1,1,8,3,2,11,1,0
+2018-12-02,Super League Greece,2018-19,AEK,Xanthi,2,0,7,0,2,7,0,0
+2018-12-02,Super League Greece,2018-19,Aris,Panathinaikos,1,1,4,3,2,7,1,0
+2018-12-02,Super League Greece,2018-19,Levadeiakos,Asteras Tripolis,0,2,3,9,2,12,0,0
+2018-12-03,Super League Greece,2018-19,Lamia,PAOK,0,1,5,2,1,7,0,0
+2018-12-03,Super League Greece,2018-19,Olympiakos,Panetolikos,2,1,9,1,3,10,1,1
+2018-12-08,Super League Greece,2018-19,AEK,Lamia,2,0,5,0,2,5,0,0
+2018-12-08,Super League Greece,2018-19,Asteras Tripolis,Giannina,1,0,4,7,1,11,0,0
+2018-12-09,Super League Greece,2018-19,PAOK,Larisa,2,1,9,1,3,10,1,1
+2018-12-09,Super League Greece,2018-19,Atromitos,Aris,4,2,4,4,6,8,1,1
+2018-12-09,Super League Greece,2018-19,OFI Crete,Panathinaikos,3,1,3,1,4,4,1,1
+2018-12-09,Super League Greece,2018-19,Xanthi,Olympiakos,1,1,2,8,2,10,1,0
+2018-12-10,Super League Greece,2018-19,Panionios,Levadeiakos,1,1,8,5,2,13,1,0
+2018-12-10,Super League Greece,2018-19,Panetolikos,Apollon,2,1,5,2,3,7,1,1
+2018-12-15,Super League Greece,2018-19,Aris,Panetolikos,1,2,7,5,3,12,1,1
+2018-12-15,Super League Greece,2018-19,Asteras Tripolis,OFI Crete,2,1,10,4,3,14,1,1
+2018-12-15,Super League Greece,2018-19,Giannina,Panionios,3,1,1,2,4,3,1,1
+2018-12-16,Super League Greece,2018-19,Apollon,Xanthi,1,0,4,6,1,10,0,0
+2018-12-16,Super League Greece,2018-19,Larisa,AEK,0,0,4,5,0,9,0,0
+2018-12-16,Super League Greece,2018-19,Olympiakos,Lamia,3,0,4,7,3,11,0,1
+2018-12-16,Super League Greece,2018-19,Panathinaikos,Atromitos,1,0,1,4,1,5,0,0
+2018-12-17,Super League Greece,2018-19,Levadeiakos,PAOK,1,2,1,4,3,5,1,1
+2019-01-12,Super League Greece,2018-19,Larisa,Apollon,3,0,5,6,3,11,0,1
+2019-01-12,Super League Greece,2018-19,Atromitos,Panetolikos,2,2,4,2,4,6,1,1
+2019-01-12,Super League Greece,2018-19,OFI Crete,Panionios,1,1,5,5,2,10,1,0
+2019-01-13,Super League Greece,2018-19,Levadeiakos,Olympiakos,0,2,2,9,2,11,0,0
+2019-01-13,Super League Greece,2018-19,Asteras Tripolis,PAOK,0,3,6,7,3,13,0,1
+2019-01-13,Super League Greece,2018-19,Panathinaikos,Xanthi,2,2,7,3,4,10,1,1
+2019-01-14,Super League Greece,2018-19,Giannina,AEK,0,4,1,3,4,4,0,1
+2019-01-14,Super League Greece,2018-19,Aris,Lamia,1,0,6,2,1,8,0,0
+2019-01-19,Super League Greece,2018-19,Apollon,Levadeiakos,0,0,10,3,0,13,0,0
+2019-01-19,Super League Greece,2018-19,Giannina,Olympiakos,1,2,4,7,3,11,1,1
+2019-01-19,Super League Greece,2018-19,PAOK,Panionios,3,0,6,2,3,8,0,1
+2019-01-20,Super League Greece,2018-19,AEK,Asteras Tripolis,3,0,5,1,3,6,0,1
+2019-01-20,Super League Greece,2018-19,Larisa,Aris,0,0,0,6,0,6,0,0
+2019-01-20,Super League Greece,2018-19,OFI Crete,Panetolikos,3,0,9,2,3,11,0,1
+2019-01-20,Super League Greece,2018-19,Xanthi,Atromitos,2,1,5,2,3,7,1,1
+2019-01-21,Super League Greece,2018-19,Lamia,Panathinaikos,1,0,7,6,1,13,0,0
+2019-01-26,Super League Greece,2018-19,Giannina,Apollon,1,0,5,4,1,9,0,0
+2019-01-26,Super League Greece,2018-19,Panetolikos,Xanthi,0,0,5,2,0,7,0,0
+2019-01-26,Super League Greece,2018-19,Panionios,AEK,0,2,7,3,2,10,0,0
+2019-01-27,Super League Greece,2018-19,PAOK,OFI Crete,4,0,3,0,4,3,0,1
+2019-01-27,Super League Greece,2018-19,Panathinaikos,Larisa,1,1,6,0,2,6,1,0
+2019-01-27,Super League Greece,2018-19,Levadeiakos,Aris,1,0,1,7,1,8,0,0
+2019-01-27,Super League Greece,2018-19,Lamia,Atromitos,2,1,5,4,3,9,1,1
+2019-01-27,Super League Greece,2018-19,Asteras Tripolis,Olympiakos,0,2,6,2,2,8,0,0
+2019-01-30,Super League Greece,2018-19,AEK,Levadeiakos,1,0,6,5,1,11,0,0
+2019-01-30,Super League Greece,2018-19,Lamia,Apollon,2,1,6,3,3,9,1,1
+2019-01-30,Super League Greece,2018-19,Olympiakos,Larisa,4,0,10,1,4,11,0,1
+2019-01-30,Super League Greece,2018-19,Panetolikos,Panathinaikos,0,1,3,1,1,4,0,0
+2019-01-30,Super League Greece,2018-19,Panionios,Asteras Tripolis,1,0,3,5,1,8,0,0
+2019-01-30,Super League Greece,2018-19,PAOK,Giannina,2,1,7,1,3,8,1,1
+2019-01-31,Super League Greece,2018-19,OFI Crete,Atromitos,1,1,4,5,2,9,1,0
+2019-01-31,Super League Greece,2018-19,Xanthi,Aris,0,1,1,4,1,5,0,0
+2019-02-02,Super League Greece,2018-19,Lamia,Panetolikos,0,2,6,2,2,8,0,0
+2019-02-02,Super League Greece,2018-19,Olympiakos,Panionios,4,0,8,2,4,10,0,1
+2019-02-03,Super League Greece,2018-19,OFI Crete,Xanthi,0,0,7,1,0,8,0,0
+2019-02-03,Super League Greece,2018-19,Levadeiakos,Panathinaikos,0,0,3,6,0,9,0,0
+2019-02-03,Super League Greece,2018-19,Larisa,Atromitos,0,1,2,7,1,9,0,0
+2019-02-03,Super League Greece,2018-19,Apollon,Asteras Tripolis,0,2,9,2,2,11,0,0
+2019-02-03,Super League Greece,2018-19,AEK,PAOK,1,1,10,4,2,14,1,0
+2019-02-03,Super League Greece,2018-19,Aris,Giannina,1,0,6,1,1,7,0,0
+2019-02-09,Super League Greece,2018-19,Giannina,Panathinaikos,1,0,6,3,1,9,0,0
+2019-02-09,Super League Greece,2018-19,Panionios,Apollon,0,1,8,7,1,15,0,0
+2019-02-09,Super League Greece,2018-19,Xanthi,Lamia,0,0,3,3,0,6,0,0
+2019-02-10,Super League Greece,2018-19,AEK,OFI Crete,1,0,5,3,1,8,0,0
+2019-02-10,Super League Greece,2018-19,Atromitos,Levadeiakos,1,0,3,0,1,3,0,0
+2019-02-10,Super League Greece,2018-19,PAOK,Olympiakos,3,1,2,5,4,7,1,1
+2019-02-11,Super League Greece,2018-19,Asteras Tripolis,Aris,0,3,7,3,3,10,0,1
+2019-02-11,Super League Greece,2018-19,Panetolikos,Larisa,2,2,2,4,4,6,1,1
+2019-02-16,Super League Greece,2018-19,Panathinaikos,Asteras Tripolis,1,0,0,2,1,2,0,0
+2019-02-16,Super League Greece,2018-19,Giannina,Atromitos,0,2,5,2,2,7,0,0
+2019-02-17,Super League Greece,2018-19,Olympiakos,AEK,4,1,3,2,5,5,1,1
+2019-02-17,Super League Greece,2018-19,Levadeiakos,Panetolikos,1,0,5,2,1,7,0,0
+2019-02-17,Super League Greece,2018-19,Larisa,Xanthi,1,1,5,2,2,7,1,0
+2019-02-17,Super League Greece,2018-19,Aris,Panionios,1,1,3,6,2,9,1,0
+2019-02-18,Super League Greece,2018-19,Apollon,PAOK,1,5,5,5,6,10,1,1
+2019-02-18,Super League Greece,2018-19,OFI Crete,Lamia,1,3,5,6,4,11,1,1
+2019-02-23,Super League Greece,2018-19,AEK,Apollon,2,1,7,5,3,12,1,1
+2019-02-23,Super League Greece,2018-19,Asteras Tripolis,Atromitos,1,1,8,6,2,14,1,0
+2019-02-23,Super League Greece,2018-19,Xanthi,Levadeiakos,0,1,2,3,1,5,0,0
+2019-02-24,Super League Greece,2018-19,Panionios,Panathinaikos,2,0,4,8,2,12,0,0
+2019-02-24,Super League Greece,2018-19,Lamia,Larisa,2,1,3,2,3,5,1,1
+2019-02-24,Super League Greece,2018-19,PAOK,Aris,1,1,4,4,2,8,1,0
+2019-02-25,Super League Greece,2018-19,Panetolikos,Giannina,1,0,5,5,1,10,0,0
+2019-02-25,Super League Greece,2018-19,Olympiakos,OFI Crete,5,1,10,2,6,12,1,1
+2019-03-02,Super League Greece,2018-19,Giannina,Xanthi,0,0,7,2,0,9,0,0
+2019-03-02,Super League Greece,2018-19,Aris,AEK,2,0,3,1,2,4,0,0
+2019-03-03,Super League Greece,2018-19,Panathinaikos,PAOK,0,2,3,3,2,6,0,0
+2019-03-03,Super League Greece,2018-19,OFI Crete,Larisa,0,0,11,2,0,13,0,0
+2019-03-03,Super League Greece,2018-19,Asteras Tripolis,Panetolikos,3,0,4,4,3,8,0,1
+2019-03-03,Super League Greece,2018-19,Atromitos,Panionios,3,0,2,6,3,8,0,1
+2019-03-03,Super League Greece,2018-19,Levadeiakos,Lamia,1,1,7,5,2,12,1,0
+2019-03-04,Super League Greece,2018-19,Apollon,Olympiakos,0,2,4,9,2,13,0,0
+2019-03-09,Super League Greece,2018-19,AEK,Panathinaikos,0,0,2,1,0,3,0,0
+2019-03-09,Super League Greece,2018-19,Xanthi,Asteras Tripolis,0,0,2,1,0,3,0,0
+2019-03-10,Super League Greece,2018-19,Apollon,OFI Crete,0,0,1,6,0,7,0,0
+2019-03-10,Super League Greece,2018-19,Lamia,Giannina,1,1,4,5,2,9,1,0
+2019-03-10,Super League Greece,2018-19,Larisa,Levadeiakos,2,0,3,5,2,8,0,0
+2019-03-10,Super League Greece,2018-19,Olympiakos,Aris,4,1,5,4,5,9,1,1
+2019-03-10,Super League Greece,2018-19,PAOK,Atromitos,3,0,6,7,3,13,0,1
+2019-03-11,Super League Greece,2018-19,Panetolikos,Panionios,5,0,2,4,5,6,0,1
+2019-03-16,Super League Greece,2018-19,Giannina,Larisa,0,0,9,1,0,10,0,0
+2019-03-16,Super League Greece,2018-19,Panetolikos,PAOK,1,2,3,5,3,8,1,1
+2019-03-16,Super League Greece,2018-19,Asteras Tripolis,Lamia,0,0,3,2,0,5,0,0
+2019-03-17,Super League Greece,2018-19,OFI Crete,Levadeiakos,2,0,8,1,2,9,0,0
+2019-03-17,Super League Greece,2018-19,Panionios,Xanthi,1,0,8,3,1,11,0,0
+2019-03-17,Super League Greece,2018-19,Atromitos,AEK,0,1,4,5,1,9,0,0
+2019-03-18,Super League Greece,2018-19,Aris,Apollon,5,0,6,1,5,7,0,1
+2019-03-30,Super League Greece,2018-19,Lamia,Panionios,1,0,8,9,1,17,0,0
+2019-03-30,Super League Greece,2018-19,Larisa,Asteras Tripolis,2,1,3,3,3,6,1,1
+2019-03-30,Super League Greece,2018-19,Levadeiakos,Giannina,0,2,6,6,2,12,0,0
+2019-03-31,Super League Greece,2018-19,AEK,Panetolikos,4,0,3,0,4,3,0,1
+2019-03-31,Super League Greece,2018-19,Aris,OFI Crete,3,1,5,5,4,10,1,1
+2019-03-31,Super League Greece,2018-19,Olympiakos,Atromitos,2,1,6,1,3,7,1,1
+2019-03-31,Super League Greece,2018-19,Xanthi,PAOK,1,2,2,4,3,6,1,1
+2019-04-01,Super League Greece,2018-19,Apollon,Panathinaikos,1,3,1,8,4,9,1,1
+2019-04-06,Super League Greece,2018-19,Panionios,Larisa,1,0,4,5,1,9,0,0
+2019-04-06,Super League Greece,2018-19,OFI Crete,Giannina,1,0,6,4,1,10,0,0
+2019-04-06,Super League Greece,2018-19,Panathinaikos,Aris,2,0,3,3,2,6,0,0
+2019-04-07,Super League Greece,2018-19,Asteras Tripolis,Levadeiakos,0,0,11,2,0,13,0,0
+2019-04-07,Super League Greece,2018-19,Panetolikos,Olympiakos,0,5,1,3,5,4,0,1
+2019-04-07,Super League Greece,2018-19,PAOK,Lamia,3,0,2,3,3,5,0,1
+2019-04-07,Super League Greece,2018-19,Xanthi,AEK,1,3,3,7,4,10,1,1
+2019-04-08,Super League Greece,2018-19,Atromitos,Apollon,1,0,6,1,1,7,0,0
+2019-04-14,Super League Greece,2018-19,Olympiakos,Xanthi,4,0,8,1,4,9,0,1
+2019-04-14,Super League Greece,2018-19,Panathinaikos,OFI Crete,1,3,2,6,4,8,1,1
+2019-04-14,Super League Greece,2018-19,Larisa,PAOK,1,1,1,2,2,3,1,0
+2019-04-14,Super League Greece,2018-19,Levadeiakos,Panionios,1,2,5,9,3,14,1,1
+2019-04-14,Super League Greece,2018-19,Giannina,Asteras Tripolis,0,0,8,4,0,12,0,0
+2019-04-14,Super League Greece,2018-19,Aris,Atromitos,0,2,2,1,2,3,0,0
+2019-04-14,Super League Greece,2018-19,Apollon,Panetolikos,0,1,4,0,1,4,0,0
+2019-04-14,Super League Greece,2018-19,Lamia,AEK,2,2,3,5,4,8,1,1
+2019-04-21,Super League Greece,2018-19,Xanthi,Apollon,2,0,6,2,2,8,0,0
+2019-04-21,Super League Greece,2018-19,AEK,Larisa,0,1,10,2,1,12,0,0
+2019-04-21,Super League Greece,2018-19,Atromitos,Panathinaikos,2,0,5,4,2,9,0,0
+2019-04-21,Super League Greece,2018-19,Lamia,Olympiakos,1,3,1,4,4,5,1,1
+2019-04-21,Super League Greece,2018-19,OFI Crete,Asteras Tripolis,1,1,4,1,2,5,1,0
+2019-04-21,Super League Greece,2018-19,Panetolikos,Aris,1,2,4,4,3,8,1,1
+2019-04-21,Super League Greece,2018-19,Panionios,Giannina,2,1,3,4,3,7,1,1
+2019-04-21,Super League Greece,2018-19,PAOK,Levadeiakos,5,0,12,3,5,15,0,1
+2019-05-04,Super League Greece,2018-19,Apollon,Lamia,0,3,5,4,3,9,0,1
+2019-05-05,Super League Greece,2018-19,Larisa,Olympiakos,0,3,4,0,3,4,0,1
+2019-05-05,Super League Greece,2018-19,Giannina,PAOK,0,2,5,3,2,8,0,0
+2019-05-05,Super League Greece,2018-19,Levadeiakos,AEK,0,3,0,5,3,5,0,1
+2019-05-05,Super League Greece,2018-19,Asteras Tripolis,Panionios,3,0,6,4,3,10,0,1
+2019-05-05,Super League Greece,2018-19,Aris,Xanthi,7,2,6,1,9,7,1,1
+2019-05-05,Super League Greece,2018-19,Atromitos,OFI Crete,0,2,7,3,2,10,0,0
+2019-05-05,Super League Greece,2018-19,Panathinaikos,Panetolikos,4,0,3,4,4,7,0,1

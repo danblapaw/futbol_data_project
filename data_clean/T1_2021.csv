@@ -1,0 +1,421 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2020-09-11,Super Lig,2020-21,Rizespor,Fenerbahce,1,2,3,11,3,14,1,1
+2020-09-12,Super Lig,2020-21,Karagumruk,Yeni Malatyaspor,3,0,8,6,3,14,0,1
+2020-09-12,Super Lig,2020-21,Sivasspor,Alanyaspor,0,2,7,6,2,13,0,0
+2020-09-12,Super Lig,2020-21,Galatasaray,Gaziantep,3,1,8,6,4,14,1,1
+2020-09-12,Super Lig,2020-21,Goztep,Denizlispor,5,1,4,6,6,10,1,1
+2020-09-13,Super Lig,2020-21,Ankaragucu,Erzurum BB,1,2,6,3,3,9,1,1
+2020-09-13,Super Lig,2020-21,Kayserispor,Kasimpasa,1,0,1,6,1,7,0,0
+2020-09-13,Super Lig,2020-21,Antalyaspor,Genclerbirligi,2,0,2,3,2,5,0,0
+2020-09-13,Super Lig,2020-21,Trabzonspor,Besiktas,1,3,4,3,4,7,1,1
+2020-09-14,Super Lig,2020-21,Hatayspor,Buyuksehyr,2,0,1,6,2,7,0,0
+2020-09-18,Super Lig,2020-21,Yeni Malatyaspor,Goztep,1,1,5,6,2,11,1,0
+2020-09-19,Super Lig,2020-21,Besiktas,Antalyaspor,1,1,5,3,2,8,1,0
+2020-09-19,Super Lig,2020-21,Alanyaspor,Kayserispor,2,0,5,1,2,6,0,0
+2020-09-19,Super Lig,2020-21,Genclerbirligi,Konyaspor,0,0,6,1,0,7,0,0
+2020-09-19,Super Lig,2020-21,Denizlispor,Trabzonspor,0,0,7,7,0,14,0,0
+2020-09-20,Super Lig,2020-21,Erzurum BB,Sivasspor,1,2,2,7,3,9,1,1
+2020-09-20,Super Lig,2020-21,Kasimpasa,Rizespor,2,0,5,8,2,13,0,0
+2020-09-20,Super Lig,2020-21,Buyuksehyr,Galatasaray,0,2,5,2,2,7,0,0
+2020-09-20,Super Lig,2020-21,Gaziantep,Karagumruk,2,2,7,7,4,14,1,1
+2020-09-21,Super Lig,2020-21,Fenerbahce,Hatayspor,0,0,3,1,0,4,0,0
+2020-09-25,Super Lig,2020-21,Karagumruk,Buyuksehyr,2,0,2,2,2,4,0,0
+2020-09-26,Super Lig,2020-21,Kayserispor,Erzurum BB,1,3,5,5,4,10,1,1
+2020-09-26,Super Lig,2020-21,Goztep,Gaziantep,2,2,2,4,4,6,1,1
+2020-09-26,Super Lig,2020-21,Hatayspor,Kasimpasa,1,0,6,3,1,9,0,0
+2020-09-26,Super Lig,2020-21,Trabzonspor,Yeni Malatyaspor,3,1,5,5,4,10,1,1
+2020-09-27,Super Lig,2020-21,Galatasaray,Fenerbahce,0,0,5,9,0,14,0,0
+2020-09-27,Super Lig,2020-21,Sivasspor,Ankaragucu,0,0,6,2,0,8,0,0
+2020-09-27,Super Lig,2020-21,Rizespor,Alanyaspor,1,1,4,6,2,10,1,0
+2020-09-27,Super Lig,2020-21,Konyaspor,Besiktas,4,1,3,4,5,7,1,1
+2020-09-28,Super Lig,2020-21,Antalyaspor,Denizlispor,1,0,7,3,1,10,0,0
+2020-10-02,Super Lig,2020-21,Ankaragucu,Kayserispor,0,1,7,2,1,9,0,0
+2020-10-02,Super Lig,2020-21,Gaziantep,Trabzonspor,1,1,5,6,2,11,1,0
+2020-10-03,Super Lig,2020-21,Yeni Malatyaspor,Antalyaspor,1,0,7,3,1,10,0,0
+2020-10-03,Super Lig,2020-21,Buyuksehyr,Goztep,0,0,10,3,0,13,0,0
+2020-10-03,Super Lig,2020-21,Erzurum BB,Rizespor,0,0,9,3,0,12,0,0
+2020-10-03,Super Lig,2020-21,Fenerbahce,Karagumruk,2,1,3,7,3,10,1,1
+2020-10-04,Super Lig,2020-21,Kasimpasa,Galatasaray,1,0,6,7,1,13,0,0
+2020-10-04,Super Lig,2020-21,Besiktas,Genclerbirligi,0,1,6,5,1,11,0,0
+2020-10-04,Super Lig,2020-21,Denizlispor,Konyaspor,0,0,6,6,0,12,0,0
+2020-10-04,Super Lig,2020-21,Alanyaspor,Hatayspor,6,0,6,3,6,9,0,1
+2020-10-17,Super Lig,2020-21,Rizespor,Ankaragucu,5,3,2,3,8,5,1,1
+2020-10-17,Super Lig,2020-21,Kayserispor,Sivasspor,1,3,4,6,4,10,1,1
+2020-10-17,Super Lig,2020-21,Konyaspor,Yeni Malatyaspor,1,1,4,4,2,8,1,0
+2020-10-17,Super Lig,2020-21,Trabzonspor,Buyuksehyr,0,2,4,4,2,8,0,0
+2020-10-18,Super Lig,2020-21,Antalyaspor,Gaziantep,1,1,2,7,2,9,1,0
+2020-10-18,Super Lig,2020-21,Karagumruk,Kasimpasa,1,1,4,4,2,8,1,0
+2020-10-18,Super Lig,2020-21,Goztep,Fenerbahce,2,3,4,7,5,11,1,1
+2020-10-19,Super Lig,2020-21,Galatasaray,Alanyaspor,1,2,3,10,3,13,1,1
+2020-10-19,Super Lig,2020-21,Genclerbirligi,Denizlispor,1,2,5,4,3,9,1,1
+2020-10-23,Super Lig,2020-21,Kasimpasa,Goztep,0,0,7,5,0,12,0,0
+2020-10-24,Super Lig,2020-21,Erzurum BB,Galatasaray,1,2,3,3,3,6,1,1
+2020-10-24,Super Lig,2020-21,Buyuksehyr,Antalyaspor,5,1,12,1,6,13,1,1
+2020-10-24,Super Lig,2020-21,Gaziantep,Konyaspor,1,0,6,4,1,10,0,0
+2020-10-25,Super Lig,2020-21,Yeni Malatyaspor,Genclerbirligi,2,1,5,6,3,11,1,1
+2020-10-25,Super Lig,2020-21,Alanyaspor,Karagumruk,2,0,4,4,2,8,0,0
+2020-10-25,Super Lig,2020-21,Fenerbahce,Trabzonspor,3,1,10,2,4,12,1,1
+2020-10-26,Super Lig,2020-21,Denizlispor,Besiktas,2,3,2,5,5,7,1,1
+2020-10-26,Super Lig,2020-21,Sivasspor,Rizespor,0,2,5,0,2,5,0,0
+2020-10-30,Super Lig,2020-21,Karagumruk,Erzurum BB,5,1,7,5,6,12,1,1
+2020-10-30,Super Lig,2020-21,Trabzonspor,Kasimpasa,3,4,2,5,7,7,1,1
+2020-10-31,Super Lig,2020-21,Genclerbirligi,Gaziantep,1,1,7,9,2,16,1,0
+2020-10-31,Super Lig,2020-21,Galatasaray,Ankaragucu,1,0,7,3,1,10,0,0
+2020-11-01,Super Lig,2020-21,Rizespor,Kayserispor,1,0,2,3,1,5,0,0
+2020-11-01,Super Lig,2020-21,Konyaspor,Buyuksehyr,1,2,2,7,3,9,1,1
+2020-11-01,Super Lig,2020-21,Besiktas,Yeni Malatyaspor,1,0,4,1,1,5,0,0
+2020-11-02,Super Lig,2020-21,Hatayspor,Sivasspor,1,1,2,2,2,4,1,0
+2020-11-02,Super Lig,2020-21,Antalyaspor,Fenerbahce,1,2,0,12,3,12,1,1
+2020-11-06,Super Lig,2020-21,Gaziantep,Besiktas,3,1,5,2,4,7,1,1
+2020-11-07,Super Lig,2020-21,Kasimpasa,Antalyaspor,2,2,3,7,4,10,1,1
+2020-11-07,Super Lig,2020-21,Alanyaspor,Trabzonspor,1,1,8,8,2,16,1,0
+2020-11-07,Super Lig,2020-21,Erzurum BB,Goztep,1,1,9,6,2,15,1,0
+2020-11-07,Super Lig,2020-21,Fenerbahce,Konyaspor,0,2,13,4,2,17,0,0
+2020-11-08,Super Lig,2020-21,Ankaragucu,Karagumruk,2,2,10,3,4,13,1,1
+2020-11-08,Super Lig,2020-21,Yeni Malatyaspor,Denizlispor,2,0,2,9,2,11,0,0
+2020-11-08,Super Lig,2020-21,Buyuksehyr,Genclerbirligi,2,1,17,3,3,20,1,1
+2020-11-08,Super Lig,2020-21,Kayserispor,Hatayspor,0,1,3,6,1,9,0,0
+2020-11-08,Super Lig,2020-21,Sivasspor,Galatasaray,1,2,7,2,3,9,1,1
+2020-11-21,Super Lig,2020-21,Besiktas,Buyuksehyr,3,2,4,8,5,12,1,1
+2020-11-21,Super Lig,2020-21,Genclerbirligi,Fenerbahce,1,5,5,3,6,8,1,1
+2020-11-21,Super Lig,2020-21,Karagumruk,Sivasspor,1,1,5,5,2,10,1,0
+2020-11-21,Super Lig,2020-21,Denizlispor,Gaziantep,0,1,6,3,1,9,0,0
+2020-11-22,Super Lig,2020-21,Hatayspor,Rizespor,2,2,6,4,4,10,1,1
+2020-11-22,Super Lig,2020-21,Goztep,Ankaragucu,3,1,7,6,4,13,1,1
+2020-11-22,Super Lig,2020-21,Konyaspor,Kasimpasa,2,1,5,5,3,10,1,1
+2020-11-22,Super Lig,2020-21,Antalyaspor,Alanyaspor,0,2,5,3,2,8,0,0
+2020-11-22,Super Lig,2020-21,Trabzonspor,Erzurum BB,1,0,4,10,1,14,0,0
+2020-11-23,Super Lig,2020-21,Galatasaray,Kayserispor,1,1,10,2,2,12,1,0
+2020-11-27,Super Lig,2020-21,Ankaragucu,Trabzonspor,0,1,5,5,1,10,0,0
+2020-11-28,Super Lig,2020-21,Buyuksehyr,Denizlispor,3,3,6,4,6,10,1,1
+2020-11-28,Super Lig,2020-21,Gaziantep,Yeni Malatyaspor,2,2,3,7,4,10,1,1
+2020-11-28,Super Lig,2020-21,Rizespor,Galatasaray,0,4,1,7,4,8,0,1
+2020-11-29,Super Lig,2020-21,Fenerbahce,Besiktas,3,4,9,1,7,10,1,1
+2020-11-29,Super Lig,2020-21,Kasimpasa,Genclerbirligi,2,0,5,3,2,8,0,0
+2020-11-29,Super Lig,2020-21,Erzurum BB,Antalyaspor,2,2,2,8,4,10,1,1
+2020-11-29,Super Lig,2020-21,Alanyaspor,Konyaspor,1,0,3,4,1,7,0,0
+2020-11-30,Super Lig,2020-21,Kayserispor,Karagumruk,0,0,6,4,0,10,0,0
+2020-11-30,Super Lig,2020-21,Sivasspor,Goztep,0,1,6,3,1,9,0,0
+2020-12-04,Super Lig,2020-21,Besiktas,Kasimpasa,3,0,6,3,3,9,0,1
+2020-12-05,Super Lig,2020-21,Yeni Malatyaspor,Buyuksehyr,1,1,4,2,2,6,1,0
+2020-12-05,Super Lig,2020-21,Konyaspor,Erzurum BB,2,0,2,9,2,11,0,0
+2020-12-05,Super Lig,2020-21,Galatasaray,Hatayspor,3,0,7,5,3,12,0,1
+2020-12-05,Super Lig,2020-21,Genclerbirligi,Alanyaspor,2,1,4,9,3,13,1,1
+2020-12-05,Super Lig,2020-21,Goztep,Kayserispor,1,1,6,4,2,10,1,0
+2020-12-06,Super Lig,2020-21,Denizlispor,Fenerbahce,0,2,11,4,2,15,0,0
+2020-12-06,Super Lig,2020-21,Karagumruk,Rizespor,2,1,6,5,3,11,1,1
+2020-12-06,Super Lig,2020-21,Antalyaspor,Ankaragucu,1,0,4,5,1,9,0,0
+2020-12-07,Super Lig,2020-21,Trabzonspor,Sivasspor,1,1,6,6,2,12,1,0
+2020-12-09,Super Lig,2020-21,Goztep,Alanyaspor,1,0,4,6,1,10,0,0
+2020-12-09,Super Lig,2020-21,Hatayspor,Erzurum BB,3,0,2,6,3,8,0,1
+2020-12-11,Super Lig,2020-21,Kasimpasa,Denizlispor,3,2,3,7,5,10,1,1
+2020-12-12,Super Lig,2020-21,Hatayspor,Karagumruk,3,1,1,4,4,5,1,1
+2020-12-12,Super Lig,2020-21,Kayserispor,Trabzonspor,0,0,4,4,0,8,0,0
+2020-12-12,Super Lig,2020-21,Rizespor,Goztep,3,2,3,4,5,7,1,1
+2020-12-12,Super Lig,2020-21,Ankaragucu,Konyaspor,4,3,4,2,7,6,1,1
+2020-12-12,Super Lig,2020-21,Fenerbahce,Yeni Malatyaspor,0,3,9,2,3,11,0,1
+2020-12-13,Super Lig,2020-21,Alanyaspor,Besiktas,2,1,6,4,3,10,1,1
+2020-12-13,Super Lig,2020-21,Buyuksehyr,Gaziantep,1,2,4,4,3,8,1,1
+2020-12-13,Super Lig,2020-21,Erzurum BB,Genclerbirligi,0,1,6,8,1,14,0,0
+2020-12-14,Super Lig,2020-21,Sivasspor,Antalyaspor,0,0,4,8,0,12,0,0
+2020-12-15,Super Lig,2020-21,Ankaragucu,Hatayspor,2,0,3,4,2,7,0,0
+2020-12-18,Super Lig,2020-21,Karagumruk,Galatasaray,2,1,5,8,3,13,1,1
+2020-12-19,Super Lig,2020-21,Goztep,Hatayspor,0,1,2,3,1,5,0,0
+2020-12-19,Super Lig,2020-21,Trabzonspor,Rizespor,2,1,9,3,3,12,1,1
+2020-12-19,Super Lig,2020-21,Yeni Malatyaspor,Kasimpasa,2,0,2,3,2,5,0,0
+2020-12-19,Super Lig,2020-21,Gaziantep,Fenerbahce,3,1,7,4,4,11,1,1
+2020-12-20,Super Lig,2020-21,Genclerbirligi,Ankaragucu,1,1,4,5,2,9,1,0
+2020-12-20,Super Lig,2020-21,Denizlispor,Alanyaspor,1,0,3,8,1,11,0,0
+2020-12-20,Super Lig,2020-21,Besiktas,Erzurum BB,4,0,10,6,4,16,0,1
+2020-12-21,Super Lig,2020-21,Konyaspor,Sivasspor,0,1,2,3,1,5,0,0
+2020-12-21,Super Lig,2020-21,Antalyaspor,Kayserispor,2,0,4,2,2,6,0,0
+2020-12-22,Super Lig,2020-21,Galatasaray,Goztep,3,1,8,7,4,15,1,1
+2020-12-22,Super Lig,2020-21,Hatayspor,Trabzonspor,0,1,6,2,1,8,0,0
+2020-12-23,Super Lig,2020-21,Alanyaspor,Yeni Malatyaspor,1,1,6,1,2,7,1,0
+2020-12-23,Super Lig,2020-21,Erzurum BB,Denizlispor,1,2,12,4,3,16,1,1
+2020-12-23,Super Lig,2020-21,Fenerbahce,Buyuksehyr,4,1,7,10,5,17,1,1
+2020-12-23,Super Lig,2020-21,Kasimpasa,Gaziantep,0,4,5,6,4,11,0,1
+2020-12-24,Super Lig,2020-21,Kayserispor,Konyaspor,1,2,6,1,3,7,1,1
+2020-12-24,Super Lig,2020-21,Sivasspor,Genclerbirligi,3,1,9,6,4,15,1,1
+2020-12-24,Super Lig,2020-21,Ankaragucu,Besiktas,0,1,2,1,1,3,0,0
+2020-12-24,Super Lig,2020-21,Rizespor,Antalyaspor,2,1,2,4,3,6,1,1
+2020-12-26,Super Lig,2020-21,Goztep,Karagumruk,1,1,6,8,2,14,1,0
+2020-12-26,Super Lig,2020-21,Trabzonspor,Galatasaray,0,2,1,2,2,3,0,0
+2020-12-27,Super Lig,2020-21,Buyuksehyr,Kasimpasa,2,2,6,4,4,10,1,1
+2020-12-27,Super Lig,2020-21,Yeni Malatyaspor,Erzurum BB,1,3,7,3,4,10,1,1
+2020-12-27,Super Lig,2020-21,Gaziantep,Alanyaspor,3,1,2,5,4,7,1,1
+2020-12-27,Super Lig,2020-21,Denizlispor,Ankaragucu,1,2,7,4,3,11,1,1
+2020-12-28,Super Lig,2020-21,Genclerbirligi,Kayserispor,3,2,5,2,5,7,1,1
+2020-12-28,Super Lig,2020-21,Konyaspor,Rizespor,1,1,1,3,2,4,1,0
+2020-12-28,Super Lig,2020-21,Besiktas,Sivasspor,3,0,1,5,3,6,0,1
+2020-12-29,Super Lig,2020-21,Antalyaspor,Hatayspor,0,6,2,5,6,7,0,1
+2021-01-02,Super Lig,2020-21,Hatayspor,Konyaspor,2,1,4,8,3,12,1,1
+2021-01-02,Super Lig,2020-21,Erzurum BB,Gaziantep,1,1,2,5,2,7,1,0
+2021-01-02,Super Lig,2020-21,Sivasspor,Denizlispor,2,2,1,6,4,7,1,1
+2021-01-02,Super Lig,2020-21,Alanyaspor,Buyuksehyr,3,0,2,8,3,10,0,1
+2021-01-02,Super Lig,2020-21,Ankaragucu,Yeni Malatyaspor,3,1,4,7,4,11,1,1
+2021-01-02,Super Lig,2020-21,Galatasaray,Antalyaspor,0,0,6,8,0,14,0,0
+2021-01-03,Super Lig,2020-21,Kayserispor,Besiktas,0,2,3,5,2,8,0,0
+2021-01-03,Super Lig,2020-21,Rizespor,Genclerbirligi,1,1,6,2,2,8,1,0
+2021-01-03,Super Lig,2020-21,Karagumruk,Trabzonspor,1,2,5,8,3,13,1,1
+2021-01-04,Super Lig,2020-21,Kasimpasa,Fenerbahce,0,3,7,1,3,8,0,1
+2021-01-05,Super Lig,2020-21,Gaziantep,Ankaragucu,2,0,9,4,2,13,0,0
+2021-01-05,Super Lig,2020-21,Yeni Malatyaspor,Sivasspor,2,2,4,5,4,9,1,1
+2021-01-05,Super Lig,2020-21,Konyaspor,Galatasaray,4,3,4,4,7,8,1,1
+2021-01-06,Super Lig,2020-21,Antalyaspor,Karagumruk,3,1,3,2,4,5,1,1
+2021-01-06,Super Lig,2020-21,Trabzonspor,Goztep,1,0,5,5,1,10,0,0
+2021-01-06,Super Lig,2020-21,Besiktas,Rizespor,6,0,2,4,6,6,0,1
+2021-01-06,Super Lig,2020-21,Buyuksehyr,Erzurum BB,1,0,4,2,1,6,0,0
+2021-01-06,Super Lig,2020-21,Denizlispor,Kayserispor,0,1,7,8,1,15,0,0
+2021-01-06,Super Lig,2020-21,Genclerbirligi,Hatayspor,3,1,6,2,4,8,1,1
+2021-01-07,Super Lig,2020-21,Fenerbahce,Alanyaspor,2,1,2,9,3,11,1,1
+2021-01-09,Super Lig,2020-21,Sivasspor,Gaziantep,2,1,8,7,3,15,1,1
+2021-01-09,Super Lig,2020-21,Goztep,Antalyaspor,0,1,8,5,1,13,0,0
+2021-01-09,Super Lig,2020-21,Kayserispor,Yeni Malatyaspor,1,0,2,5,1,7,0,0
+2021-01-09,Super Lig,2020-21,Galatasaray,Genclerbirligi,6,0,5,4,6,9,0,1
+2021-01-10,Super Lig,2020-21,Karagumruk,Konyaspor,2,1,4,5,3,9,1,1
+2021-01-10,Super Lig,2020-21,Ankaragucu,Buyuksehyr,1,2,5,3,3,8,1,1
+2021-01-10,Super Lig,2020-21,Rizespor,Denizlispor,1,1,11,5,2,16,1,0
+2021-01-10,Super Lig,2020-21,Hatayspor,Besiktas,2,2,3,9,4,12,1,1
+2021-01-11,Super Lig,2020-21,Erzurum BB,Fenerbahce,0,3,6,5,3,11,0,1
+2021-01-11,Super Lig,2020-21,Alanyaspor,Kasimpasa,1,2,8,1,3,9,1,1
+2021-01-15,Super Lig,2020-21,Genclerbirligi,Karagumruk,1,3,8,3,4,11,1,1
+2021-01-16,Super Lig,2020-21,Konyaspor,Goztep,2,3,7,5,5,12,1,1
+2021-01-16,Super Lig,2020-21,Buyuksehyr,Sivasspor,1,1,3,3,2,6,1,0
+2021-01-16,Super Lig,2020-21,Gaziantep,Kayserispor,2,1,5,2,3,7,1,1
+2021-01-16,Super Lig,2020-21,Antalyaspor,Trabzonspor,1,1,2,6,2,8,1,0
+2021-01-17,Super Lig,2020-21,Denizlispor,Hatayspor,0,2,6,2,2,8,0,0
+2021-01-17,Super Lig,2020-21,Yeni Malatyaspor,Rizespor,4,1,4,4,5,8,1,1
+2021-01-17,Super Lig,2020-21,Besiktas,Galatasaray,2,0,10,7,2,17,0,0
+2021-01-18,Super Lig,2020-21,Fenerbahce,Ankaragucu,3,1,4,4,4,8,1,1
+2021-01-18,Super Lig,2020-21,Kasimpasa,Erzurum BB,1,2,3,2,3,5,1,1
+2021-01-19,Super Lig,2020-21,Trabzonspor,Konyaspor,3,1,0,6,4,6,1,1
+2021-01-19,Super Lig,2020-21,Kayserispor,Buyuksehyr,2,0,4,4,2,8,0,0
+2021-01-19,Super Lig,2020-21,Goztep,Genclerbirligi,4,0,2,1,4,3,0,1
+2021-01-20,Super Lig,2020-21,Hatayspor,Yeni Malatyaspor,1,2,3,4,3,7,1,1
+2021-01-20,Super Lig,2020-21,Rizespor,Gaziantep,3,0,3,3,3,6,0,1
+2021-01-20,Super Lig,2020-21,Galatasaray,Denizlispor,6,1,8,11,7,19,1,1
+2021-01-21,Super Lig,2020-21,Erzurum BB,Alanyaspor,1,1,1,9,2,10,1,0
+2021-01-21,Super Lig,2020-21,Karagumruk,Besiktas,1,4,4,7,5,11,1,1
+2021-01-21,Super Lig,2020-21,Ankaragucu,Kasimpasa,1,0,0,7,1,7,0,0
+2021-01-21,Super Lig,2020-21,Sivasspor,Fenerbahce,1,1,7,3,2,10,1,0
+2021-01-23,Super Lig,2020-21,Genclerbirligi,Trabzonspor,1,2,5,5,3,10,1,1
+2021-01-23,Super Lig,2020-21,Buyuksehyr,Rizespor,1,1,9,1,2,10,1,0
+2021-01-24,Super Lig,2020-21,Besiktas,Goztep,2,1,1,2,3,3,1,1
+2021-01-24,Super Lig,2020-21,Yeni Malatyaspor,Galatasaray,0,1,3,6,1,9,0,0
+2021-01-24,Super Lig,2020-21,Gaziantep,Hatayspor,1,1,2,5,2,7,1,0
+2021-01-24,Super Lig,2020-21,Konyaspor,Antalyaspor,0,0,6,2,0,8,0,0
+2021-01-24,Super Lig,2020-21,Denizlispor,Karagumruk,1,2,4,1,3,5,1,1
+2021-01-25,Super Lig,2020-21,Alanyaspor,Ankaragucu,4,3,13,4,7,17,1,1
+2021-01-25,Super Lig,2020-21,Fenerbahce,Kayserispor,3,0,6,5,3,11,0,1
+2021-01-25,Super Lig,2020-21,Kasimpasa,Sivasspor,2,0,4,10,2,14,0,0
+2021-01-29,Super Lig,2020-21,Yeni Malatyaspor,Karagumruk,0,0,7,7,0,14,0,0
+2021-01-29,Super Lig,2020-21,Gaziantep,Galatasaray,1,2,8,4,3,12,1,1
+2021-01-30,Super Lig,2020-21,Kasimpasa,Kayserispor,0,1,3,5,1,8,0,0
+2021-01-30,Super Lig,2020-21,Buyuksehyr,Hatayspor,1,5,4,4,6,8,1,1
+2021-01-30,Super Lig,2020-21,Fenerbahce,Rizespor,1,0,7,2,1,9,0,0
+2021-01-31,Super Lig,2020-21,Erzurum BB,Ankaragucu,1,0,3,4,1,7,0,0
+2021-01-31,Super Lig,2020-21,Alanyaspor,Sivasspor,3,1,1,5,4,6,1,1
+2021-01-31,Super Lig,2020-21,Denizlispor,Goztep,2,1,2,5,3,7,1,1
+2021-01-31,Super Lig,2020-21,Genclerbirligi,Antalyaspor,0,1,3,4,1,7,0,0
+2021-01-31,Super Lig,2020-21,Besiktas,Trabzonspor,1,2,7,5,3,12,1,1
+2021-02-02,Super Lig,2020-21,Galatasaray,Buyuksehyr,3,0,6,5,3,11,0,1
+2021-02-02,Super Lig,2020-21,Rizespor,Kasimpasa,1,1,1,4,2,5,1,0
+2021-02-02,Super Lig,2020-21,Hatayspor,Fenerbahce,1,2,7,4,3,11,1,1
+2021-02-03,Super Lig,2020-21,Sivasspor,Erzurum BB,0,0,4,5,0,9,0,0
+2021-02-03,Super Lig,2020-21,Karagumruk,Gaziantep,2,0,6,7,2,13,0,0
+2021-02-03,Super Lig,2020-21,Kayserispor,Alanyaspor,1,1,2,1,2,3,1,0
+2021-02-03,Super Lig,2020-21,Antalyaspor,Besiktas,1,1,3,7,2,10,1,0
+2021-02-03,Super Lig,2020-21,Konyaspor,Genclerbirligi,0,0,7,2,0,9,0,0
+2021-02-04,Super Lig,2020-21,Goztep,Yeni Malatyaspor,2,2,10,2,4,12,1,1
+2021-02-04,Super Lig,2020-21,Trabzonspor,Denizlispor,1,0,5,5,1,10,0,0
+2021-02-06,Super Lig,2020-21,Kasimpasa,Hatayspor,1,4,9,3,5,12,1,1
+2021-02-06,Super Lig,2020-21,Alanyaspor,Rizespor,2,1,13,4,3,17,1,1
+2021-02-06,Super Lig,2020-21,Buyuksehyr,Karagumruk,0,1,5,3,1,8,0,0
+2021-02-06,Super Lig,2020-21,Fenerbahce,Galatasaray,0,1,8,6,1,14,0,0
+2021-02-07,Super Lig,2020-21,Besiktas,Konyaspor,1,0,5,3,1,8,0,0
+2021-02-07,Super Lig,2020-21,Denizlispor,Antalyaspor,1,1,2,3,2,5,1,0
+2021-02-07,Super Lig,2020-21,Erzurum BB,Kayserispor,1,1,1,5,2,6,1,0
+2021-02-07,Super Lig,2020-21,Ankaragucu,Sivasspor,1,4,3,2,5,5,1,1
+2021-02-08,Super Lig,2020-21,Gaziantep,Goztep,2,0,2,2,2,4,0,0
+2021-02-08,Super Lig,2020-21,Yeni Malatyaspor,Trabzonspor,0,2,11,4,2,15,0,0
+2021-02-12,Super Lig,2020-21,Rizespor,Erzurum BB,0,2,3,1,2,4,0,0
+2021-02-13,Super Lig,2020-21,Kayserispor,Ankaragucu,0,0,12,4,0,16,0,0
+2021-02-13,Super Lig,2020-21,Trabzonspor,Gaziantep,1,0,2,4,1,6,0,0
+2021-02-13,Super Lig,2020-21,Karagumruk,Fenerbahce,1,2,8,4,3,12,1,1
+2021-02-14,Super Lig,2020-21,Hatayspor,Alanyaspor,0,0,3,7,0,10,0,0
+2021-02-14,Super Lig,2020-21,Konyaspor,Denizlispor,2,0,3,4,2,7,0,0
+2021-02-14,Super Lig,2020-21,Galatasaray,Kasimpasa,2,1,8,2,3,10,1,1
+2021-02-14,Super Lig,2020-21,Goztep,Buyuksehyr,2,1,3,5,3,8,1,1
+2021-02-15,Super Lig,2020-21,Antalyaspor,Yeni Malatyaspor,1,1,1,3,2,4,1,0
+2021-02-15,Super Lig,2020-21,Genclerbirligi,Besiktas,0,3,2,9,3,11,0,1
+2021-02-19,Super Lig,2020-21,Buyuksehyr,Trabzonspor,0,1,3,3,1,6,0,0
+2021-02-20,Super Lig,2020-21,Kasimpasa,Karagumruk,3,2,13,3,5,16,1,1
+2021-02-20,Super Lig,2020-21,Denizlispor,Genclerbirligi,1,0,5,4,1,9,0,0
+2021-02-20,Super Lig,2020-21,Yeni Malatyaspor,Konyaspor,2,3,3,8,5,11,1,1
+2021-02-20,Super Lig,2020-21,Alanyaspor,Galatasaray,0,1,12,1,1,13,0,0
+2021-02-21,Super Lig,2020-21,Erzurum BB,Hatayspor,1,3,3,7,4,10,1,1
+2021-02-21,Super Lig,2020-21,Gaziantep,Antalyaspor,0,0,7,4,0,11,0,0
+2021-02-21,Super Lig,2020-21,Sivasspor,Kayserispor,2,0,6,5,2,11,0,0
+2021-02-21,Super Lig,2020-21,Fenerbahce,Goztep,0,1,13,1,1,14,0,0
+2021-02-22,Super Lig,2020-21,Ankaragucu,Rizespor,1,1,5,1,2,6,1,0
+2021-02-26,Super Lig,2020-21,Besiktas,Denizlispor,3,0,9,6,3,15,0,1
+2021-02-26,Super Lig,2020-21,Genclerbirligi,Yeni Malatyaspor,1,1,13,4,2,17,1,0
+2021-02-26,Super Lig,2020-21,Konyaspor,Gaziantep,0,0,6,7,0,13,0,0
+2021-02-27,Super Lig,2020-21,Hatayspor,Ankaragucu,4,1,14,4,5,18,1,1
+2021-02-27,Super Lig,2020-21,Karagumruk,Alanyaspor,2,0,4,7,2,11,0,0
+2021-02-27,Super Lig,2020-21,Antalyaspor,Buyuksehyr,0,0,2,2,0,4,0,0
+2021-02-27,Super Lig,2020-21,Rizespor,Sivasspor,0,0,3,4,0,7,0,0
+2021-02-27,Super Lig,2020-21,Galatasaray,Erzurum BB,2,0,5,3,2,8,0,0
+2021-02-28,Super Lig,2020-21,Goztep,Kasimpasa,1,0,3,4,1,7,0,0
+2021-02-28,Super Lig,2020-21,Trabzonspor,Fenerbahce,0,1,5,7,1,12,0,0
+2021-03-02,Super Lig,2020-21,Gaziantep,Genclerbirligi,2,1,7,3,3,10,1,1
+2021-03-02,Super Lig,2020-21,Yeni Malatyaspor,Besiktas,0,1,4,10,1,14,0,0
+2021-03-03,Super Lig,2020-21,Sivasspor,Hatayspor,1,1,6,3,2,9,1,0
+2021-03-03,Super Lig,2020-21,Kayserispor,Rizespor,2,1,4,6,3,10,1,1
+2021-03-03,Super Lig,2020-21,Ankaragucu,Galatasaray,2,1,1,5,3,6,1,1
+2021-03-03,Super Lig,2020-21,Erzurum BB,Karagumruk,2,2,3,6,4,9,1,1
+2021-03-03,Super Lig,2020-21,Buyuksehyr,Konyaspor,1,1,4,4,2,8,1,0
+2021-03-04,Super Lig,2020-21,Alanyaspor,Goztep,1,1,10,3,2,13,1,0
+2021-03-04,Super Lig,2020-21,Kasimpasa,Trabzonspor,1,2,6,5,3,11,1,1
+2021-03-04,Super Lig,2020-21,Fenerbahce,Antalyaspor,1,1,11,1,2,12,1,0
+2021-03-06,Super Lig,2020-21,Besiktas,Gaziantep,2,1,4,5,3,9,1,1
+2021-03-06,Super Lig,2020-21,Denizlispor,Yeni Malatyaspor,3,2,4,4,5,8,1,1
+2021-03-07,Super Lig,2020-21,Hatayspor,Kayserispor,1,3,7,5,4,12,1,1
+2021-03-07,Super Lig,2020-21,Galatasaray,Sivasspor,2,2,6,4,4,10,1,1
+2021-03-07,Super Lig,2020-21,Karagumruk,Ankaragucu,0,1,4,2,1,6,0,0
+2021-03-07,Super Lig,2020-21,Genclerbirligi,Buyuksehyr,0,1,1,7,1,8,0,0
+2021-03-08,Super Lig,2020-21,Konyaspor,Fenerbahce,0,3,2,2,3,4,0,1
+2021-03-08,Super Lig,2020-21,Goztep,Erzurum BB,3,1,7,2,4,9,1,1
+2021-03-08,Super Lig,2020-21,Antalyaspor,Kasimpasa,1,1,0,4,2,4,1,0
+2021-03-08,Super Lig,2020-21,Trabzonspor,Alanyaspor,1,3,3,4,4,7,1,1
+2021-03-12,Super Lig,2020-21,Buyuksehyr,Besiktas,2,3,4,1,5,5,1,1
+2021-03-13,Super Lig,2020-21,Sivasspor,Karagumruk,1,0,1,8,1,9,0,0
+2021-03-13,Super Lig,2020-21,Alanyaspor,Antalyaspor,4,0,5,5,4,10,0,1
+2021-03-13,Super Lig,2020-21,Rizespor,Hatayspor,1,0,3,5,1,8,0,0
+2021-03-13,Super Lig,2020-21,Kayserispor,Galatasaray,0,3,3,3,3,6,0,1
+2021-03-14,Super Lig,2020-21,Gaziantep,Denizlispor,2,0,8,3,2,11,0,0
+2021-03-14,Super Lig,2020-21,Ankaragucu,Goztep,3,0,5,7,3,12,0,1
+2021-03-14,Super Lig,2020-21,Erzurum BB,Trabzonspor,0,0,12,2,0,14,0,0
+2021-03-14,Super Lig,2020-21,Fenerbahce,Genclerbirligi,1,2,6,1,3,7,1,1
+2021-03-15,Super Lig,2020-21,Kasimpasa,Konyaspor,1,1,8,0,2,8,1,0
+2021-03-19,Super Lig,2020-21,Karagumruk,Kayserispor,3,0,7,7,3,14,0,1
+2021-03-19,Super Lig,2020-21,Galatasaray,Rizespor,3,4,7,1,7,8,1,1
+2021-03-20,Super Lig,2020-21,Genclerbirligi,Kasimpasa,2,1,3,8,3,11,1,1
+2021-03-20,Super Lig,2020-21,Goztep,Sivasspor,3,5,8,3,8,11,1,1
+2021-03-20,Super Lig,2020-21,Yeni Malatyaspor,Gaziantep,2,2,7,5,4,12,1,1
+2021-03-20,Super Lig,2020-21,Trabzonspor,Ankaragucu,4,1,4,1,5,5,1,1
+2021-03-21,Super Lig,2020-21,Konyaspor,Alanyaspor,1,0,3,4,1,7,0,0
+2021-03-21,Super Lig,2020-21,Denizlispor,Buyuksehyr,0,0,2,5,0,7,0,0
+2021-03-21,Super Lig,2020-21,Antalyaspor,Erzurum BB,3,1,6,3,4,9,1,1
+2021-03-21,Super Lig,2020-21,Besiktas,Fenerbahce,1,1,3,7,2,10,1,0
+2021-04-03,Super Lig,2020-21,Hatayspor,Galatasaray,3,0,5,7,3,12,0,1
+2021-04-03,Super Lig,2020-21,Sivasspor,Trabzonspor,0,0,7,9,0,16,0,0
+2021-04-03,Super Lig,2020-21,Rizespor,Karagumruk,0,0,5,7,0,12,0,0
+2021-04-03,Super Lig,2020-21,Kayserispor,Goztep,1,1,6,4,2,10,1,0
+2021-04-04,Super Lig,2020-21,Kasimpasa,Besiktas,1,0,2,5,1,7,0,0
+2021-04-04,Super Lig,2020-21,Buyuksehyr,Yeni Malatyaspor,3,1,7,3,4,10,1,1
+2021-04-04,Super Lig,2020-21,Erzurum BB,Konyaspor,1,2,4,6,3,10,1,1
+2021-04-04,Super Lig,2020-21,Alanyaspor,Genclerbirligi,1,2,7,4,3,11,1,1
+2021-04-04,Super Lig,2020-21,Ankaragucu,Antalyaspor,1,0,3,9,1,12,0,0
+2021-04-05,Super Lig,2020-21,Fenerbahce,Denizlispor,1,0,13,1,1,14,0,0
+2021-04-06,Super Lig,2020-21,Goztep,Rizespor,2,0,5,1,2,6,0,0
+2021-04-06,Super Lig,2020-21,Karagumruk,Hatayspor,1,0,10,3,1,13,0,0
+2021-04-06,Super Lig,2020-21,Trabzonspor,Kayserispor,1,1,7,4,2,11,1,0
+2021-04-07,Super Lig,2020-21,Genclerbirligi,Erzurum BB,1,1,4,8,2,12,1,0
+2021-04-07,Super Lig,2020-21,Konyaspor,Ankaragucu,1,1,4,4,2,8,1,0
+2021-04-07,Super Lig,2020-21,Antalyaspor,Sivasspor,2,4,1,1,6,2,1,1
+2021-04-07,Super Lig,2020-21,Besiktas,Alanyaspor,3,0,4,5,3,9,0,1
+2021-04-08,Super Lig,2020-21,Yeni Malatyaspor,Fenerbahce,1,1,4,7,2,11,1,0
+2021-04-08,Super Lig,2020-21,Denizlispor,Kasimpasa,1,1,1,2,2,3,1,0
+2021-04-08,Super Lig,2020-21,Gaziantep,Buyuksehyr,2,0,2,13,2,15,0,0
+2021-04-10,Super Lig,2020-21,Hatayspor,Goztep,2,3,5,2,5,7,1,1
+2021-04-10,Super Lig,2020-21,Rizespor,Trabzonspor,0,0,2,7,0,9,0,0
+2021-04-10,Super Lig,2020-21,Galatasaray,Karagumruk,1,1,3,9,2,12,1,0
+2021-04-11,Super Lig,2020-21,Erzurum BB,Besiktas,2,4,3,2,6,5,1,1
+2021-04-11,Super Lig,2020-21,Sivasspor,Konyaspor,3,1,2,5,4,7,1,1
+2021-04-11,Super Lig,2020-21,Ankaragucu,Genclerbirligi,2,1,5,3,3,8,1,1
+2021-04-11,Super Lig,2020-21,Kayserispor,Antalyaspor,0,1,7,3,1,10,0,0
+2021-04-12,Super Lig,2020-21,Alanyaspor,Denizlispor,3,2,8,1,5,9,1,1
+2021-04-12,Super Lig,2020-21,Fenerbahce,Gaziantep,3,1,8,3,4,11,1,1
+2021-04-12,Super Lig,2020-21,Kasimpasa,Yeni Malatyaspor,0,0,4,4,0,8,0,0
+2021-04-16,Super Lig,2020-21,Genclerbirligi,Sivasspor,2,3,3,5,5,8,1,1
+2021-04-16,Super Lig,2020-21,Konyaspor,Kayserispor,0,0,10,3,0,13,0,0
+2021-04-16,Super Lig,2020-21,Antalyaspor,Rizespor,2,3,7,3,5,10,1,1
+2021-04-16,Super Lig,2020-21,Besiktas,Ankaragucu,2,2,5,2,4,7,1,1
+2021-04-17,Super Lig,2020-21,Denizlispor,Erzurum BB,2,3,6,4,5,10,1,1
+2021-04-17,Super Lig,2020-21,Trabzonspor,Hatayspor,1,1,6,1,2,7,1,0
+2021-04-17,Super Lig,2020-21,Yeni Malatyaspor,Alanyaspor,1,0,2,7,1,9,0,0
+2021-04-17,Super Lig,2020-21,Goztep,Galatasaray,1,3,3,8,4,11,1,1
+2021-04-18,Super Lig,2020-21,Buyuksehyr,Fenerbahce,1,2,1,6,3,7,1,1
+2021-04-18,Super Lig,2020-21,Gaziantep,Kasimpasa,2,2,9,6,4,15,1,1
+2021-04-20,Super Lig,2020-21,Sivasspor,Besiktas,0,0,1,1,0,2,0,0
+2021-04-20,Super Lig,2020-21,Hatayspor,Antalyaspor,3,2,7,7,5,14,1,1
+2021-04-20,Super Lig,2020-21,Karagumruk,Goztep,1,1,4,7,2,11,1,0
+2021-04-20,Super Lig,2020-21,Kayserispor,Genclerbirligi,2,2,6,3,4,9,1,1
+2021-04-20,Super Lig,2020-21,Rizespor,Konyaspor,5,3,9,6,8,15,1,1
+2021-04-21,Super Lig,2020-21,Ankaragucu,Denizlispor,1,1,6,3,2,9,1,0
+2021-04-21,Super Lig,2020-21,Erzurum BB,Yeni Malatyaspor,1,0,2,6,1,8,0,0
+2021-04-21,Super Lig,2020-21,Galatasaray,Trabzonspor,1,1,7,5,2,12,1,0
+2021-04-22,Super Lig,2020-21,Kasimpasa,Buyuksehyr,0,1,4,3,1,7,0,0
+2021-04-22,Super Lig,2020-21,Alanyaspor,Gaziantep,3,2,4,4,5,8,1,1
+2021-04-23,Super Lig,2020-21,Genclerbirligi,Rizespor,2,1,4,7,3,11,1,1
+2021-04-24,Super Lig,2020-21,Besiktas,Kayserispor,3,1,3,0,4,3,1,1
+2021-04-24,Super Lig,2020-21,Antalyaspor,Galatasaray,0,1,1,8,1,9,0,0
+2021-04-24,Super Lig,2020-21,Denizlispor,Sivasspor,1,1,5,5,2,10,1,0
+2021-04-24,Super Lig,2020-21,Konyaspor,Hatayspor,0,0,4,0,0,4,0,0
+2021-04-24,Super Lig,2020-21,Trabzonspor,Karagumruk,2,0,2,10,2,12,0,0
+2021-04-25,Super Lig,2020-21,Yeni Malatyaspor,Ankaragucu,2,1,4,4,3,8,1,1
+2021-04-25,Super Lig,2020-21,Buyuksehyr,Alanyaspor,0,0,4,3,0,7,0,0
+2021-04-25,Super Lig,2020-21,Gaziantep,Erzurum BB,2,3,7,5,5,12,1,1
+2021-04-25,Super Lig,2020-21,Fenerbahce,Kasimpasa,3,2,7,3,5,10,1,1
+2021-04-27,Super Lig,2020-21,Hatayspor,Genclerbirligi,3,1,4,4,4,8,1,1
+2021-04-28,Super Lig,2020-21,Galatasaray,Konyaspor,1,0,11,1,1,12,0,0
+2021-04-28,Super Lig,2020-21,Kayserispor,Denizlispor,6,3,7,6,9,13,1,1
+2021-04-28,Super Lig,2020-21,Rizespor,Besiktas,2,3,5,6,5,11,1,1
+2021-04-28,Super Lig,2020-21,Goztep,Trabzonspor,1,1,7,2,2,9,1,0
+2021-04-28,Super Lig,2020-21,Karagumruk,Antalyaspor,2,2,0,4,4,4,1,1
+2021-04-29,Super Lig,2020-21,Erzurum BB,Buyuksehyr,1,2,5,6,3,11,1,1
+2021-04-29,Super Lig,2020-21,Sivasspor,Yeni Malatyaspor,1,0,8,2,1,10,0,0
+2021-04-29,Super Lig,2020-21,Alanyaspor,Fenerbahce,0,0,4,3,0,7,0,0
+2021-04-29,Super Lig,2020-21,Ankaragucu,Gaziantep,0,1,8,4,1,12,0,0
+2021-05-01,Super Lig,2020-21,Besiktas,Hatayspor,7,0,3,3,7,6,0,1
+2021-05-02,Super Lig,2020-21,Antalyaspor,Goztep,2,3,7,2,5,9,1,1
+2021-05-02,Super Lig,2020-21,Denizlispor,Rizespor,0,1,0,4,1,4,0,0
+2021-05-02,Super Lig,2020-21,Konyaspor,Karagumruk,5,1,7,5,6,12,1,1
+2021-05-02,Super Lig,2020-21,Genclerbirligi,Galatasaray,0,2,2,6,2,8,0,0
+2021-05-03,Super Lig,2020-21,Gaziantep,Sivasspor,0,1,4,14,1,18,0,0
+2021-05-03,Super Lig,2020-21,Yeni Malatyaspor,Kayserispor,1,1,9,4,2,13,1,0
+2021-05-03,Super Lig,2020-21,Fenerbahce,Erzurum BB,3,1,10,5,4,15,1,1
+2021-05-03,Super Lig,2020-21,Buyuksehyr,Ankaragucu,2,1,7,5,3,12,1,1
+2021-05-03,Super Lig,2020-21,Kasimpasa,Alanyaspor,3,0,1,5,3,6,0,1
+2021-05-08,Super Lig,2020-21,Trabzonspor,Antalyaspor,2,1,5,3,3,8,1,1
+2021-05-08,Super Lig,2020-21,Sivasspor,Buyuksehyr,0,0,5,7,0,12,0,0
+2021-05-08,Super Lig,2020-21,Rizespor,Yeni Malatyaspor,0,4,4,3,4,7,0,1
+2021-05-08,Super Lig,2020-21,Karagumruk,Genclerbirligi,5,1,8,6,6,14,1,1
+2021-05-08,Super Lig,2020-21,Kayserispor,Gaziantep,0,0,5,3,0,8,0,0
+2021-05-08,Super Lig,2020-21,Goztep,Konyaspor,0,1,5,3,1,8,0,0
+2021-05-08,Super Lig,2020-21,Galatasaray,Besiktas,3,1,4,5,4,9,1,1
+2021-05-08,Super Lig,2020-21,Erzurum BB,Kasimpasa,0,1,3,4,1,7,0,0
+2021-05-08,Super Lig,2020-21,Ankaragucu,Fenerbahce,1,2,5,12,3,17,1,1
+2021-05-08,Super Lig,2020-21,Hatayspor,Denizlispor,1,0,1,3,1,4,0,0
+2021-05-11,Super Lig,2020-21,Gaziantep,Rizespor,4,5,9,3,9,12,1,1
+2021-05-11,Super Lig,2020-21,Yeni Malatyaspor,Hatayspor,1,1,5,4,2,9,1,0
+2021-05-11,Super Lig,2020-21,Kasimpasa,Ankaragucu,3,1,2,3,4,5,1,1
+2021-05-11,Super Lig,2020-21,Genclerbirligi,Goztep,5,3,4,6,8,10,1,1
+2021-05-11,Super Lig,2020-21,Fenerbahce,Sivasspor,1,2,8,1,3,9,1,1
+2021-05-11,Super Lig,2020-21,Konyaspor,Trabzonspor,1,1,10,1,2,11,1,0
+2021-05-11,Super Lig,2020-21,Buyuksehyr,Kayserispor,0,0,1,6,0,7,0,0
+2021-05-11,Super Lig,2020-21,Besiktas,Karagumruk,1,2,8,2,3,10,1,1
+2021-05-11,Super Lig,2020-21,Alanyaspor,Erzurum BB,2,3,7,2,5,9,1,1
+2021-05-11,Super Lig,2020-21,Denizlispor,Galatasaray,1,4,1,6,5,7,1,1
+2021-05-15,Super Lig,2020-21,Sivasspor,Kasimpasa,2,1,7,1,3,8,1,1
+2021-05-15,Super Lig,2020-21,Goztep,Besiktas,1,2,3,6,3,9,1,1
+2021-05-15,Super Lig,2020-21,Galatasaray,Yeni Malatyaspor,3,1,15,0,4,15,1,1
+2021-05-15,Super Lig,2020-21,Rizespor,Buyuksehyr,0,2,6,1,2,7,0,0
+2021-05-15,Super Lig,2020-21,Kayserispor,Fenerbahce,1,2,2,11,3,13,1,1
+2021-05-15,Super Lig,2020-21,Hatayspor,Gaziantep,0,1,3,1,1,4,0,0
+2021-05-15,Super Lig,2020-21,Antalyaspor,Konyaspor,0,0,1,4,0,5,0,0
+2021-05-15,Super Lig,2020-21,Ankaragucu,Alanyaspor,0,1,6,3,1,9,0,0
+2021-05-15,Super Lig,2020-21,Karagumruk,Denizlispor,5,1,6,0,6,6,1,1
+2021-05-15,Super Lig,2020-21,Trabzonspor,Genclerbirligi,2,1,9,2,3,11,1,1

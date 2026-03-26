@@ -19,7 +19,7 @@ import sqlite3, json, os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DB_PATH  = os.path.join(BASE_DIR, "db", "futbol.db")
-OUT_PATH = os.path.join(BASE_DIR, "data_clean", "explorador.html")
+OUT_PATH = os.path.join(BASE_DIR, "football_explorer.html")
 os.makedirs(os.path.dirname(OUT_PATH), exist_ok=True)
 
 
@@ -627,7 +627,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementB
     size = os.path.getsize(OUT_PATH) / 1024
     print(f"\n✅ Explorador generado: {OUT_PATH}")
     print(f"   Tamaño: {size:.0f} KB")
-    print(f"\n🌐 Abre en Chrome: data_clean/explorador.html")
+    print(f"\n🌐 Abre en Chrome: football_explorer.html")
 
 
 if __name__ == "__main__":

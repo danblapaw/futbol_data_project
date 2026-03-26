@@ -1,0 +1,756 @@
+2026-03-06 01:12:21,387 | INFO | 
+🚀 Limpiando 50 archivos CSV...
+2026-03-06 01:12:21,388 | INFO | 
+🔧 Procesando: D1_1516.csv
+2026-03-06 01:12:21,405 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:21,525 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2015-16
+2026-03-06 01:12:21,533 | INFO | 
+🔧 Procesando: D1_1617.csv
+2026-03-06 01:12:21,540 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:21,663 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2016-17
+2026-03-06 01:12:21,668 | INFO | 
+🔧 Procesando: D1_1718.csv
+2026-03-06 01:12:21,679 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:21,779 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2017-18
+2026-03-06 01:12:21,783 | INFO | 
+🔧 Procesando: D1_1819.csv
+2026-03-06 01:12:21,792 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:21,922 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2018-19
+2026-03-06 01:12:21,926 | INFO | 
+🔧 Procesando: D1_1920.csv
+2026-03-06 01:12:21,937 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:22,052 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2019-20
+2026-03-06 01:12:22,062 | INFO | 
+🔧 Procesando: D1_2021.csv
+2026-03-06 01:12:22,071 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:22,211 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2020-21
+2026-03-06 01:12:22,216 | INFO | 
+🔧 Procesando: D1_2122.csv
+2026-03-06 01:12:22,226 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:22,345 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2021-22
+2026-03-06 01:12:22,352 | INFO | 
+🔧 Procesando: D1_2223.csv
+2026-03-06 01:12:22,360 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:22,472 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2022-23
+2026-03-06 01:12:22,476 | INFO | 
+🔧 Procesando: D1_2324.csv
+2026-03-06 01:12:22,486 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:22,592 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2023-24
+2026-03-06 01:12:22,599 | INFO | 
+🔧 Procesando: D1_2425.csv
+2026-03-06 01:12:22,609 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:22,718 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2024-25
+2026-03-06 01:12:22,724 | INFO | 
+🔧 Procesando: E0_1516.csv
+2026-03-06 01:12:22,736 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:22,869 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2015-16
+2026-03-06 01:12:22,875 | INFO | 
+🔧 Procesando: E0_1617.csv
+2026-03-06 01:12:22,883 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:23,028 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2016-17
+2026-03-06 01:12:23,033 | INFO | 
+🔧 Procesando: E0_1718.csv
+2026-03-06 01:12:23,046 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:23,197 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2017-18
+2026-03-06 01:12:23,204 | INFO | 
+🔧 Procesando: E0_1819.csv
+2026-03-06 01:12:23,214 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:23,366 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2018-19
+2026-03-06 01:12:23,370 | INFO | 
+🔧 Procesando: E0_1920.csv
+2026-03-06 01:12:23,380 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:23,523 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2019-20
+2026-03-06 01:12:23,528 | INFO | 
+🔧 Procesando: E0_2021.csv
+2026-03-06 01:12:23,544 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:23,693 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2020-21
+2026-03-06 01:12:23,697 | INFO | 
+🔧 Procesando: E0_2122.csv
+2026-03-06 01:12:23,711 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:23,853 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2021-22
+2026-03-06 01:12:23,860 | INFO | 
+🔧 Procesando: E0_2223.csv
+2026-03-06 01:12:23,875 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:24,016 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2022-23
+2026-03-06 01:12:24,023 | INFO | 
+🔧 Procesando: E0_2324.csv
+2026-03-06 01:12:24,036 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:24,170 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2023-24
+2026-03-06 01:12:24,177 | INFO | 
+🔧 Procesando: E0_2425.csv
+2026-03-06 01:12:24,190 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:24,332 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2024-25
+2026-03-06 01:12:24,340 | INFO | 
+🔧 Procesando: F1_1516.csv
+2026-03-06 01:12:24,347 | INFO |    📊 Filas originales: 381 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:24,477 | INFO |    🗑️  Filas eliminadas (datos incompletos): 1
+2026-03-06 01:12:24,483 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2015-16
+2026-03-06 01:12:24,488 | INFO | 
+🔧 Procesando: F1_1617.csv
+2026-03-06 01:12:24,495 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:24,616 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2016-17
+2026-03-06 01:12:24,622 | INFO | 
+🔧 Procesando: F1_1718.csv
+2026-03-06 01:12:24,628 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:24,779 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2017-18
+2026-03-06 01:12:24,784 | INFO | 
+🔧 Procesando: F1_1819.csv
+2026-03-06 01:12:24,793 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:24,973 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2018-19
+2026-03-06 01:12:24,977 | INFO | 
+🔧 Procesando: F1_1920.csv
+2026-03-06 01:12:24,985 | INFO |    📊 Filas originales: 279 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:25,086 | INFO |    ✅ Partidos limpios: 279 | Liga: Ligue 1 | Temporada: 2019-20
+2026-03-06 01:12:25,091 | INFO | 
+🔧 Procesando: F1_2021.csv
+2026-03-06 01:12:25,099 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:25,250 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2020-21
+2026-03-06 01:12:25,254 | INFO | 
+🔧 Procesando: F1_2122.csv
+2026-03-06 01:12:25,265 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:25,410 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2021-22
+2026-03-06 01:12:25,413 | INFO | 
+🔧 Procesando: F1_2223.csv
+2026-03-06 01:12:25,422 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:25,552 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2022-23
+2026-03-06 01:12:25,561 | INFO | 
+🔧 Procesando: F1_2324.csv
+2026-03-06 01:12:25,576 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:25,701 | INFO |    ✅ Partidos limpios: 306 | Liga: Ligue 1 | Temporada: 2023-24
+2026-03-06 01:12:25,704 | INFO | 
+🔧 Procesando: F1_2425.csv
+2026-03-06 01:12:25,714 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:25,840 | INFO |    ✅ Partidos limpios: 306 | Liga: Ligue 1 | Temporada: 2024-25
+2026-03-06 01:12:25,844 | INFO | 
+🔧 Procesando: I1_1516.csv
+2026-03-06 01:12:25,851 | INFO |    📊 Filas originales: 381 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:25,984 | INFO |    🗑️  Filas eliminadas (datos incompletos): 1
+2026-03-06 01:12:25,990 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2015-16
+2026-03-06 01:12:25,995 | INFO | 
+🔧 Procesando: I1_1617.csv
+2026-03-06 01:12:26,002 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:26,141 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2016-17
+2026-03-06 01:12:26,146 | INFO | 
+🔧 Procesando: I1_1718.csv
+2026-03-06 01:12:26,154 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:26,287 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2017-18
+2026-03-06 01:12:26,292 | INFO | 
+🔧 Procesando: I1_1819.csv
+2026-03-06 01:12:26,300 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:26,437 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2018-19
+2026-03-06 01:12:26,441 | INFO | 
+🔧 Procesando: I1_1920.csv
+2026-03-06 01:12:26,454 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:26,591 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2019-20
+2026-03-06 01:12:26,596 | INFO | 
+🔧 Procesando: I1_2021.csv
+2026-03-06 01:12:26,607 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:26,760 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2020-21
+2026-03-06 01:12:26,764 | INFO | 
+🔧 Procesando: I1_2122.csv
+2026-03-06 01:12:26,774 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:26,908 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2021-22
+2026-03-06 01:12:26,914 | INFO | 
+🔧 Procesando: I1_2223.csv
+2026-03-06 01:12:26,930 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:27,067 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2022-23
+2026-03-06 01:12:27,073 | INFO | 
+🔧 Procesando: I1_2324.csv
+2026-03-06 01:12:27,082 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:27,229 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2023-24
+2026-03-06 01:12:27,235 | INFO | 
+🔧 Procesando: I1_2425.csv
+2026-03-06 01:12:27,245 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:27,388 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2024-25
+2026-03-06 01:12:27,393 | INFO | 
+🔧 Procesando: SP1_1516.csv
+2026-03-06 01:12:27,408 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:27,546 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2015-16
+2026-03-06 01:12:27,550 | INFO | 
+🔧 Procesando: SP1_1617.csv
+2026-03-06 01:12:27,558 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:27,682 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2016-17
+2026-03-06 01:12:27,690 | INFO | 
+🔧 Procesando: SP1_1718.csv
+2026-03-06 01:12:27,699 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:27,864 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2017-18
+2026-03-06 01:12:27,871 | INFO | 
+🔧 Procesando: SP1_1819.csv
+2026-03-06 01:12:27,878 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-06 01:12:28,015 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2018-19
+2026-03-06 01:12:28,019 | INFO | 
+🔧 Procesando: SP1_1920.csv
+2026-03-06 01:12:28,029 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:28,165 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2019-20
+2026-03-06 01:12:28,169 | INFO | 
+🔧 Procesando: SP1_2021.csv
+2026-03-06 01:12:28,180 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:28,312 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2020-21
+2026-03-06 01:12:28,317 | INFO | 
+🔧 Procesando: SP1_2122.csv
+2026-03-06 01:12:28,327 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:28,454 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2021-22
+2026-03-06 01:12:28,458 | INFO | 
+🔧 Procesando: SP1_2223.csv
+2026-03-06 01:12:28,468 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:28,599 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2022-23
+2026-03-06 01:12:28,603 | INFO | 
+🔧 Procesando: SP1_2324.csv
+2026-03-06 01:12:28,613 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:28,744 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2023-24
+2026-03-06 01:12:28,748 | INFO | 
+🔧 Procesando: SP1_2425.csv
+2026-03-06 01:12:28,760 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-06 01:12:28,918 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2024-25
+2026-03-06 01:12:28,923 | INFO | 
+============================================================
+2026-03-06 01:12:28,924 | INFO | 📊 RESUMEN DE LIMPIEZA:
+2026-03-06 01:12:28,924 | INFO |    ✅ Archivos procesados : 50
+2026-03-06 01:12:28,924 | INFO |    ❌ Archivos fallidos   : 0
+2026-03-06 01:12:28,925 | INFO |    ⚽ Total de partidos   : 18,011
+2026-03-06 01:12:28,925 | INFO |    📁 Carpeta de salida   : C:\Users\danbl\Desktop\futbol_data_project\data_clean
+2026-03-06 01:12:28,925 | INFO | ============================================================
+2026-03-26 13:22:29,509 | INFO | 
+🚀 Limpiando 132 archivos CSV...
+2026-03-26 13:22:29,509 | INFO | 
+🔧 Procesando: B1_1516.csv
+2026-03-26 13:22:29,519 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:29,621 | INFO |    ✅ Partidos limpios: 240 | Liga: First Division A | Temporada: 2015-16
+2026-03-26 13:22:29,627 | INFO | 
+🔧 Procesando: B1_1617.csv
+2026-03-26 13:22:29,633 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:29,731 | INFO |    ✅ Partidos limpios: 240 | Liga: First Division A | Temporada: 2016-17
+2026-03-26 13:22:29,736 | INFO | 
+🔧 Procesando: B1_1718.csv
+2026-03-26 13:22:29,741 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:29,836 | INFO |    ✅ Partidos limpios: 240 | Liga: First Division A | Temporada: 2017-18
+2026-03-26 13:22:29,839 | INFO | 
+🔧 Procesando: B1_1819.csv
+2026-03-26 13:22:29,845 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:29,939 | INFO |    ✅ Partidos limpios: 240 | Liga: First Division A | Temporada: 2018-19
+2026-03-26 13:22:29,942 | INFO | 
+🔧 Procesando: B1_1920.csv
+2026-03-26 13:22:29,951 | INFO |    📊 Filas originales: 232 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,042 | INFO |    ✅ Partidos limpios: 232 | Liga: First Division A | Temporada: 2019-20
+2026-03-26 13:22:30,046 | INFO | 
+🔧 Procesando: B1_2021.csv
+2026-03-26 13:22:30,055 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,174 | INFO |    ✅ Partidos limpios: 306 | Liga: First Division A | Temporada: 2020-21
+2026-03-26 13:22:30,177 | INFO | 
+🔧 Procesando: B1_2122.csv
+2026-03-26 13:22:30,188 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,305 | INFO |    ✅ Partidos limpios: 306 | Liga: First Division A | Temporada: 2021-22
+2026-03-26 13:22:30,309 | INFO | 
+🔧 Procesando: B1_2223.csv
+2026-03-26 13:22:30,317 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,461 | INFO |    ✅ Partidos limpios: 306 | Liga: First Division A | Temporada: 2022-23
+2026-03-26 13:22:30,465 | INFO | 
+🔧 Procesando: B1_2324.csv
+2026-03-26 13:22:30,474 | INFO |    📊 Filas originales: 312 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,596 | INFO |    ✅ Partidos limpios: 312 | Liga: First Division A | Temporada: 2023-24
+2026-03-26 13:22:30,604 | INFO | 
+🔧 Procesando: B1_2425.csv
+2026-03-26 13:22:30,614 | INFO |    📊 Filas originales: 312 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,763 | INFO |    ✅ Partidos limpios: 312 | Liga: First Division A | Temporada: 2024-25
+2026-03-26 13:22:30,767 | INFO | 
+🔧 Procesando: B1_2526.csv
+2026-03-26 13:22:30,777 | INFO |    📊 Filas originales: 240 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:30,884 | INFO |    ✅ Partidos limpios: 240 | Liga: First Division A | Temporada: 2025-26
+2026-03-26 13:22:30,887 | INFO | 
+🔧 Procesando: D1_1516.csv
+2026-03-26 13:22:30,893 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:31,003 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2015-16
+2026-03-26 13:22:31,007 | INFO | 
+🔧 Procesando: D1_1617.csv
+2026-03-26 13:22:31,016 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:31,157 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2016-17
+2026-03-26 13:22:31,161 | INFO | 
+🔧 Procesando: D1_1718.csv
+2026-03-26 13:22:31,167 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:31,327 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2017-18
+2026-03-26 13:22:31,333 | INFO | 
+🔧 Procesando: D1_1819.csv
+2026-03-26 13:22:31,338 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:31,472 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2018-19
+2026-03-26 13:22:31,476 | INFO | 
+🔧 Procesando: D1_1920.csv
+2026-03-26 13:22:31,486 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:31,602 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2019-20
+2026-03-26 13:22:31,606 | INFO | 
+🔧 Procesando: D1_2021.csv
+2026-03-26 13:22:31,614 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:31,738 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2020-21
+2026-03-26 13:22:31,742 | INFO | 
+🔧 Procesando: D1_2122.csv
+2026-03-26 13:22:31,751 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:31,885 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2021-22
+2026-03-26 13:22:31,888 | INFO | 
+🔧 Procesando: D1_2223.csv
+2026-03-26 13:22:31,896 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:32,014 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2022-23
+2026-03-26 13:22:32,019 | INFO | 
+🔧 Procesando: D1_2324.csv
+2026-03-26 13:22:32,028 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:32,151 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2023-24
+2026-03-26 13:22:32,155 | INFO | 
+🔧 Procesando: D1_2425.csv
+2026-03-26 13:22:32,164 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:32,292 | INFO |    ✅ Partidos limpios: 306 | Liga: Bundesliga | Temporada: 2024-25
+2026-03-26 13:22:32,296 | INFO | 
+🔧 Procesando: D1_2526.csv
+2026-03-26 13:22:32,306 | INFO |    📊 Filas originales: 243 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:32,410 | INFO |    ✅ Partidos limpios: 243 | Liga: Bundesliga | Temporada: 2025-26
+2026-03-26 13:22:32,416 | INFO | 
+🔧 Procesando: E0_1516.csv
+2026-03-26 13:22:32,423 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:32,589 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2015-16
+2026-03-26 13:22:32,592 | INFO | 
+🔧 Procesando: E0_1617.csv
+2026-03-26 13:22:32,600 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:32,742 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2016-17
+2026-03-26 13:22:32,746 | INFO | 
+🔧 Procesando: E0_1718.csv
+2026-03-26 13:22:32,754 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:32,909 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2017-18
+2026-03-26 13:22:32,913 | INFO | 
+🔧 Procesando: E0_1819.csv
+2026-03-26 13:22:32,920 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:33,078 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2018-19
+2026-03-26 13:22:33,084 | INFO | 
+🔧 Procesando: E0_1920.csv
+2026-03-26 13:22:33,095 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:33,263 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2019-20
+2026-03-26 13:22:33,267 | INFO | 
+🔧 Procesando: E0_2021.csv
+2026-03-26 13:22:33,276 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:33,426 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2020-21
+2026-03-26 13:22:33,430 | INFO | 
+🔧 Procesando: E0_2122.csv
+2026-03-26 13:22:33,440 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:33,609 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2021-22
+2026-03-26 13:22:33,613 | INFO | 
+🔧 Procesando: E0_2223.csv
+2026-03-26 13:22:33,626 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:33,815 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2022-23
+2026-03-26 13:22:33,820 | INFO | 
+🔧 Procesando: E0_2324.csv
+2026-03-26 13:22:33,830 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:33,992 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2023-24
+2026-03-26 13:22:33,996 | INFO | 
+🔧 Procesando: E0_2425.csv
+2026-03-26 13:22:34,010 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:34,164 | INFO |    ✅ Partidos limpios: 380 | Liga: Premier League | Temporada: 2024-25
+2026-03-26 13:22:34,168 | INFO | 
+🔧 Procesando: E0_2526.csv
+2026-03-26 13:22:34,178 | INFO |    📊 Filas originales: 309 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:34,327 | INFO |    ✅ Partidos limpios: 309 | Liga: Premier League | Temporada: 2025-26
+2026-03-26 13:22:34,332 | INFO | 
+🔧 Procesando: E1_1516.csv
+2026-03-26 13:22:34,341 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:34,543 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2015-16
+2026-03-26 13:22:34,549 | INFO | 
+🔧 Procesando: E1_1617.csv
+2026-03-26 13:22:34,557 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:34,776 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2016-17
+2026-03-26 13:22:34,782 | INFO | 
+🔧 Procesando: E1_1718.csv
+2026-03-26 13:22:34,791 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:35,011 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2017-18
+2026-03-26 13:22:35,017 | INFO | 
+🔧 Procesando: E1_1819.csv
+2026-03-26 13:22:35,025 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:35,244 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2018-19
+2026-03-26 13:22:35,249 | INFO | 
+🔧 Procesando: E1_1920.csv
+2026-03-26 13:22:35,261 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:35,501 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2019-20
+2026-03-26 13:22:35,506 | INFO | 
+🔧 Procesando: E1_2021.csv
+2026-03-26 13:22:35,519 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:35,722 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2020-21
+2026-03-26 13:22:35,726 | INFO | 
+🔧 Procesando: E1_2122.csv
+2026-03-26 13:22:35,745 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:35,977 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2021-22
+2026-03-26 13:22:35,982 | INFO | 
+🔧 Procesando: E1_2223.csv
+2026-03-26 13:22:35,994 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:36,223 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2022-23
+2026-03-26 13:22:36,228 | INFO | 
+🔧 Procesando: E1_2324.csv
+2026-03-26 13:22:36,242 | INFO |    📊 Filas originales: 552 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:36,452 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2023-24
+2026-03-26 13:22:36,460 | INFO | 
+🔧 Procesando: E1_2425.csv
+2026-03-26 13:22:36,478 | INFO |    📊 Filas originales: 552 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:36,691 | INFO |    ✅ Partidos limpios: 552 | Liga: Championship | Temporada: 2024-25
+2026-03-26 13:22:36,695 | INFO | 
+🔧 Procesando: E1_2526.csv
+2026-03-26 13:22:36,709 | INFO |    📊 Filas originales: 467 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:36,910 | INFO |    ✅ Partidos limpios: 467 | Liga: Championship | Temporada: 2025-26
+2026-03-26 13:22:36,915 | INFO | 
+🔧 Procesando: F1_1516.csv
+2026-03-26 13:22:36,923 | INFO |    📊 Filas originales: 381 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:37,047 | INFO |    🗑️  Filas eliminadas (datos incompletos): 1
+2026-03-26 13:22:37,052 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2015-16
+2026-03-26 13:22:37,056 | INFO | 
+🔧 Procesando: F1_1617.csv
+2026-03-26 13:22:37,064 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:37,209 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2016-17
+2026-03-26 13:22:37,214 | INFO | 
+🔧 Procesando: F1_1718.csv
+2026-03-26 13:22:37,221 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:37,359 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2017-18
+2026-03-26 13:22:37,365 | INFO | 
+🔧 Procesando: F1_1819.csv
+2026-03-26 13:22:37,379 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:37,543 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2018-19
+2026-03-26 13:22:37,547 | INFO | 
+🔧 Procesando: F1_1920.csv
+2026-03-26 13:22:37,556 | INFO |    📊 Filas originales: 279 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:37,673 | INFO |    ✅ Partidos limpios: 279 | Liga: Ligue 1 | Temporada: 2019-20
+2026-03-26 13:22:37,676 | INFO | 
+🔧 Procesando: F1_2021.csv
+2026-03-26 13:22:37,687 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:37,838 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2020-21
+2026-03-26 13:22:37,842 | INFO | 
+🔧 Procesando: F1_2122.csv
+2026-03-26 13:22:37,850 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:37,997 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2021-22
+2026-03-26 13:22:38,001 | INFO | 
+🔧 Procesando: F1_2223.csv
+2026-03-26 13:22:38,009 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:38,160 | INFO |    ✅ Partidos limpios: 380 | Liga: Ligue 1 | Temporada: 2022-23
+2026-03-26 13:22:38,163 | INFO | 
+🔧 Procesando: F1_2324.csv
+2026-03-26 13:22:38,172 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:38,303 | INFO |    ✅ Partidos limpios: 306 | Liga: Ligue 1 | Temporada: 2023-24
+2026-03-26 13:22:38,307 | INFO | 
+🔧 Procesando: F1_2425.csv
+2026-03-26 13:22:38,316 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:38,440 | INFO |    ✅ Partidos limpios: 306 | Liga: Ligue 1 | Temporada: 2024-25
+2026-03-26 13:22:38,444 | INFO | 
+🔧 Procesando: F1_2526.csv
+2026-03-26 13:22:38,454 | INFO |    📊 Filas originales: 242 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:38,545 | INFO |    ✅ Partidos limpios: 242 | Liga: Ligue 1 | Temporada: 2025-26
+2026-03-26 13:22:38,548 | INFO | 
+🔧 Procesando: G1_1516.csv
+2026-03-26 13:22:38,555 | INFO |    📊 Filas originales: 252 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:38,647 | INFO |    🗑️  Filas eliminadas (datos incompletos): 12
+2026-03-26 13:22:38,654 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2015-16
+2026-03-26 13:22:38,657 | INFO | 
+🔧 Procesando: G1_1617.csv
+2026-03-26 13:22:38,661 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:38,761 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2016-17
+2026-03-26 13:22:38,764 | INFO | 
+🔧 Procesando: G1_1718.csv
+2026-03-26 13:22:38,769 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:38,864 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2017-18
+2026-03-26 13:22:38,869 | INFO | 
+🔧 Procesando: G1_1819.csv
+2026-03-26 13:22:38,875 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:38,969 | INFO |    🗑️  Filas eliminadas (datos incompletos): 1
+2026-03-26 13:22:38,974 | INFO |    ✅ Partidos limpios: 239 | Liga: Super League Greece | Temporada: 2018-19
+2026-03-26 13:22:38,978 | INFO | 
+🔧 Procesando: G1_1920.csv
+2026-03-26 13:22:38,987 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,080 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2019-20
+2026-03-26 13:22:39,084 | INFO | 
+🔧 Procesando: G1_2021.csv
+2026-03-26 13:22:39,092 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,203 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2020-21
+2026-03-26 13:22:39,206 | INFO | 
+🔧 Procesando: G1_2122.csv
+2026-03-26 13:22:39,216 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,324 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2021-22
+2026-03-26 13:22:39,328 | INFO | 
+🔧 Procesando: G1_2223.csv
+2026-03-26 13:22:39,335 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,489 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2022-23
+2026-03-26 13:22:39,492 | INFO | 
+🔧 Procesando: G1_2324.csv
+2026-03-26 13:22:39,501 | INFO |    📊 Filas originales: 240 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,595 | INFO |    ✅ Partidos limpios: 240 | Liga: Super League Greece | Temporada: 2023-24
+2026-03-26 13:22:39,598 | INFO | 
+🔧 Procesando: G1_2425.csv
+2026-03-26 13:22:39,608 | INFO |    📊 Filas originales: 233 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,715 | INFO |    ✅ Partidos limpios: 233 | Liga: Super League Greece | Temporada: 2024-25
+2026-03-26 13:22:39,719 | INFO | 
+🔧 Procesando: G1_2526.csv
+2026-03-26 13:22:39,727 | INFO |    📊 Filas originales: 182 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:39,819 | INFO |    ✅ Partidos limpios: 182 | Liga: Super League Greece | Temporada: 2025-26
+2026-03-26 13:22:39,822 | INFO | 
+🔧 Procesando: I1_1516.csv
+2026-03-26 13:22:39,828 | INFO |    📊 Filas originales: 381 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:39,974 | INFO |    🗑️  Filas eliminadas (datos incompletos): 1
+2026-03-26 13:22:39,980 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2015-16
+2026-03-26 13:22:39,985 | INFO | 
+🔧 Procesando: I1_1617.csv
+2026-03-26 13:22:39,991 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:40,134 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2016-17
+2026-03-26 13:22:40,137 | INFO | 
+🔧 Procesando: I1_1718.csv
+2026-03-26 13:22:40,149 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:40,347 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2017-18
+2026-03-26 13:22:40,351 | INFO | 
+🔧 Procesando: I1_1819.csv
+2026-03-26 13:22:40,357 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:40,522 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2018-19
+2026-03-26 13:22:40,526 | INFO | 
+🔧 Procesando: I1_1920.csv
+2026-03-26 13:22:40,537 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:40,725 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2019-20
+2026-03-26 13:22:40,728 | INFO | 
+🔧 Procesando: I1_2021.csv
+2026-03-26 13:22:40,738 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:40,914 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2020-21
+2026-03-26 13:22:40,920 | INFO | 
+🔧 Procesando: I1_2122.csv
+2026-03-26 13:22:40,929 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:41,089 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2021-22
+2026-03-26 13:22:41,094 | INFO | 
+🔧 Procesando: I1_2223.csv
+2026-03-26 13:22:41,105 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:41,277 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2022-23
+2026-03-26 13:22:41,281 | INFO | 
+🔧 Procesando: I1_2324.csv
+2026-03-26 13:22:41,290 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:41,469 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2023-24
+2026-03-26 13:22:41,472 | INFO | 
+🔧 Procesando: I1_2425.csv
+2026-03-26 13:22:41,481 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:41,624 | INFO |    ✅ Partidos limpios: 380 | Liga: Serie A | Temporada: 2024-25
+2026-03-26 13:22:41,628 | INFO | 
+🔧 Procesando: I1_2526.csv
+2026-03-26 13:22:41,638 | INFO |    📊 Filas originales: 300 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:41,784 | INFO |    ✅ Partidos limpios: 300 | Liga: Serie A | Temporada: 2025-26
+2026-03-26 13:22:41,790 | INFO | 
+🔧 Procesando: N1_1516.csv
+2026-03-26 13:22:41,795 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:41,913 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2015-16
+2026-03-26 13:22:41,921 | INFO | 
+🔧 Procesando: N1_1617.csv
+2026-03-26 13:22:41,926 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:42,045 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2016-17
+2026-03-26 13:22:42,049 | INFO | 
+🔧 Procesando: N1_1718.csv
+2026-03-26 13:22:42,056 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:42,173 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2017-18
+2026-03-26 13:22:42,177 | INFO | 
+🔧 Procesando: N1_1819.csv
+2026-03-26 13:22:42,183 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:42,309 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2018-19
+2026-03-26 13:22:42,312 | INFO | 
+🔧 Procesando: N1_1920.csv
+2026-03-26 13:22:42,321 | INFO |    📊 Filas originales: 232 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:42,434 | INFO |    ✅ Partidos limpios: 232 | Liga: Eredivisie | Temporada: 2019-20
+2026-03-26 13:22:42,438 | INFO | 
+🔧 Procesando: N1_2021.csv
+2026-03-26 13:22:42,446 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:42,562 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2020-21
+2026-03-26 13:22:42,566 | INFO | 
+🔧 Procesando: N1_2122.csv
+2026-03-26 13:22:42,573 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:42,706 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2021-22
+2026-03-26 13:22:42,709 | INFO | 
+🔧 Procesando: N1_2223.csv
+2026-03-26 13:22:42,720 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:42,866 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2022-23
+2026-03-26 13:22:42,871 | INFO | 
+🔧 Procesando: N1_2324.csv
+2026-03-26 13:22:42,879 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:43,013 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2023-24
+2026-03-26 13:22:43,018 | INFO | 
+🔧 Procesando: N1_2425.csv
+2026-03-26 13:22:43,027 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:43,144 | INFO |    ✅ Partidos limpios: 306 | Liga: Eredivisie | Temporada: 2024-25
+2026-03-26 13:22:43,147 | INFO | 
+🔧 Procesando: N1_2526.csv
+2026-03-26 13:22:43,162 | INFO |    📊 Filas originales: 252 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:43,275 | INFO |    ✅ Partidos limpios: 252 | Liga: Eredivisie | Temporada: 2025-26
+2026-03-26 13:22:43,278 | INFO | 
+🔧 Procesando: P1_1516.csv
+2026-03-26 13:22:43,284 | INFO |    📊 Filas originales: 307 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:43,389 | INFO |    🗑️  Filas eliminadas (datos incompletos): 1
+2026-03-26 13:22:43,394 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2015-16
+2026-03-26 13:22:43,399 | INFO | 
+🔧 Procesando: P1_1617.csv
+2026-03-26 13:22:43,406 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:43,576 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2016-17
+2026-03-26 13:22:43,586 | INFO | 
+🔧 Procesando: P1_1718.csv
+2026-03-26 13:22:43,595 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:43,703 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2017-18
+2026-03-26 13:22:43,706 | INFO | 
+🔧 Procesando: P1_1819.csv
+2026-03-26 13:22:43,711 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:43,829 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2018-19
+2026-03-26 13:22:43,833 | INFO | 
+🔧 Procesando: P1_1920.csv
+2026-03-26 13:22:43,844 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:43,963 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2019-20
+2026-03-26 13:22:43,968 | INFO | 
+🔧 Procesando: P1_2021.csv
+2026-03-26 13:22:43,976 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:44,110 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2020-21
+2026-03-26 13:22:44,114 | INFO | 
+🔧 Procesando: P1_2122.csv
+2026-03-26 13:22:44,125 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:44,250 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2021-22
+2026-03-26 13:22:44,254 | INFO | 
+🔧 Procesando: P1_2223.csv
+2026-03-26 13:22:44,264 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:44,388 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2022-23
+2026-03-26 13:22:44,393 | INFO | 
+🔧 Procesando: P1_2324.csv
+2026-03-26 13:22:44,404 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:44,535 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2023-24
+2026-03-26 13:22:44,540 | INFO | 
+🔧 Procesando: P1_2425.csv
+2026-03-26 13:22:44,549 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:44,673 | INFO |    ✅ Partidos limpios: 306 | Liga: Primeira Liga | Temporada: 2024-25
+2026-03-26 13:22:44,677 | INFO | 
+🔧 Procesando: P1_2526.csv
+2026-03-26 13:22:44,689 | INFO |    📊 Filas originales: 241 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:44,788 | INFO |    ✅ Partidos limpios: 241 | Liga: Primeira Liga | Temporada: 2025-26
+2026-03-26 13:22:44,794 | INFO | 
+🔧 Procesando: SC0_1516.csv
+2026-03-26 13:22:44,800 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:44,899 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2015-16
+2026-03-26 13:22:44,903 | INFO | 
+🔧 Procesando: SC0_1617.csv
+2026-03-26 13:22:44,908 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:44,990 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2016-17
+2026-03-26 13:22:44,995 | INFO | 
+🔧 Procesando: SC0_1718.csv
+2026-03-26 13:22:45,003 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:45,090 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2017-18
+2026-03-26 13:22:45,093 | INFO | 
+🔧 Procesando: SC0_1819.csv
+2026-03-26 13:22:45,098 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:45,189 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2018-19
+2026-03-26 13:22:45,192 | INFO | 
+🔧 Procesando: SC0_1920.csv
+2026-03-26 13:22:45,199 | INFO |    📊 Filas originales: 179 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,278 | INFO |    ✅ Partidos limpios: 179 | Liga: Scottish Premiership | Temporada: 2019-20
+2026-03-26 13:22:45,281 | INFO | 
+🔧 Procesando: SC0_2021.csv
+2026-03-26 13:22:45,290 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,427 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2020-21
+2026-03-26 13:22:45,432 | INFO | 
+🔧 Procesando: SC0_2122.csv
+2026-03-26 13:22:45,443 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,532 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2021-22
+2026-03-26 13:22:45,536 | INFO | 
+🔧 Procesando: SC0_2223.csv
+2026-03-26 13:22:45,546 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,644 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2022-23
+2026-03-26 13:22:45,648 | INFO | 
+🔧 Procesando: SC0_2324.csv
+2026-03-26 13:22:45,660 | INFO |    📊 Filas originales: 228 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,773 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2023-24
+2026-03-26 13:22:45,777 | INFO | 
+🔧 Procesando: SC0_2425.csv
+2026-03-26 13:22:45,786 | INFO |    📊 Filas originales: 228 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,897 | INFO |    ✅ Partidos limpios: 228 | Liga: Scottish Premiership | Temporada: 2024-25
+2026-03-26 13:22:45,904 | INFO | 
+🔧 Procesando: SC0_2526.csv
+2026-03-26 13:22:45,910 | INFO |    📊 Filas originales: 186 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:45,992 | INFO |    ✅ Partidos limpios: 186 | Liga: Scottish Premiership | Temporada: 2025-26
+2026-03-26 13:22:45,995 | INFO | 
+🔧 Procesando: SP1_1516.csv
+2026-03-26 13:22:46,002 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:46,134 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2015-16
+2026-03-26 13:22:46,137 | INFO | 
+🔧 Procesando: SP1_1617.csv
+2026-03-26 13:22:46,142 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:46,294 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2016-17
+2026-03-26 13:22:46,299 | INFO | 
+🔧 Procesando: SP1_1718.csv
+2026-03-26 13:22:46,306 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:46,461 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2017-18
+2026-03-26 13:22:46,464 | INFO | 
+🔧 Procesando: SP1_1819.csv
+2026-03-26 13:22:46,472 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:46,624 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2018-19
+2026-03-26 13:22:46,628 | INFO | 
+🔧 Procesando: SP1_1920.csv
+2026-03-26 13:22:46,638 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:46,796 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2019-20
+2026-03-26 13:22:46,802 | INFO | 
+🔧 Procesando: SP1_2021.csv
+2026-03-26 13:22:46,811 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:46,959 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2020-21
+2026-03-26 13:22:46,963 | INFO | 
+🔧 Procesando: SP1_2122.csv
+2026-03-26 13:22:46,972 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:47,121 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2021-22
+2026-03-26 13:22:47,124 | INFO | 
+🔧 Procesando: SP1_2223.csv
+2026-03-26 13:22:47,133 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:47,298 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2022-23
+2026-03-26 13:22:47,302 | INFO | 
+🔧 Procesando: SP1_2324.csv
+2026-03-26 13:22:47,310 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:47,478 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2023-24
+2026-03-26 13:22:47,484 | INFO | 
+🔧 Procesando: SP1_2425.csv
+2026-03-26 13:22:47,503 | INFO |    📊 Filas originales: 380 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:47,643 | INFO |    ✅ Partidos limpios: 380 | Liga: La Liga | Temporada: 2024-25
+2026-03-26 13:22:47,648 | INFO | 
+🔧 Procesando: SP1_2526.csv
+2026-03-26 13:22:47,658 | INFO |    📊 Filas originales: 290 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:47,777 | INFO |    ✅ Partidos limpios: 290 | Liga: La Liga | Temporada: 2025-26
+2026-03-26 13:22:47,780 | INFO | 
+🔧 Procesando: T1_1516.csv
+2026-03-26 13:22:47,787 | INFO |    📊 Filas originales: 311 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:47,907 | INFO |    🗑️  Filas eliminadas (datos incompletos): 5
+2026-03-26 13:22:47,912 | INFO |    ✅ Partidos limpios: 306 | Liga: Super Lig | Temporada: 2015-16
+2026-03-26 13:22:47,917 | INFO | 
+🔧 Procesando: T1_1617.csv
+2026-03-26 13:22:47,927 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:48,036 | INFO |    ✅ Partidos limpios: 306 | Liga: Super Lig | Temporada: 2016-17
+2026-03-26 13:22:48,039 | INFO | 
+🔧 Procesando: T1_1718.csv
+2026-03-26 13:22:48,045 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:48,156 | INFO |    ✅ Partidos limpios: 306 | Liga: Super Lig | Temporada: 2017-18
+2026-03-26 13:22:48,162 | INFO | 
+🔧 Procesando: T1_1819.csv
+2026-03-26 13:22:48,168 | INFO |    📊 Filas originales: 306 | Columnas: ['ï»¿Div', 'Date', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR', 'HTHG']...
+2026-03-26 13:22:48,310 | INFO |    ✅ Partidos limpios: 306 | Liga: Super Lig | Temporada: 2018-19
+2026-03-26 13:22:48,315 | INFO | 
+🔧 Procesando: T1_1920.csv
+2026-03-26 13:22:48,324 | INFO |    📊 Filas originales: 306 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:48,472 | INFO |    ✅ Partidos limpios: 306 | Liga: Super Lig | Temporada: 2019-20
+2026-03-26 13:22:48,476 | INFO | 
+🔧 Procesando: T1_2021.csv
+2026-03-26 13:22:48,487 | INFO |    📊 Filas originales: 420 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:48,665 | INFO |    ✅ Partidos limpios: 420 | Liga: Super Lig | Temporada: 2020-21
+2026-03-26 13:22:48,669 | INFO | 
+🔧 Procesando: T1_2122.csv
+2026-03-26 13:22:48,678 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:48,828 | INFO |    ✅ Partidos limpios: 380 | Liga: Super Lig | Temporada: 2021-22
+2026-03-26 13:22:48,832 | INFO | 
+🔧 Procesando: T1_2223.csv
+2026-03-26 13:22:48,840 | INFO |    📊 Filas originales: 342 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:49,025 | INFO |    ✅ Partidos limpios: 342 | Liga: Super Lig | Temporada: 2022-23
+2026-03-26 13:22:49,029 | INFO | 
+🔧 Procesando: T1_2324.csv
+2026-03-26 13:22:49,038 | INFO |    📊 Filas originales: 380 | Columnas: ['Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:49,191 | INFO |    ✅ Partidos limpios: 380 | Liga: Super Lig | Temporada: 2023-24
+2026-03-26 13:22:49,195 | INFO | 
+🔧 Procesando: T1_2425.csv
+2026-03-26 13:22:49,206 | INFO |    📊 Filas originales: 342 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:49,386 | INFO |    ✅ Partidos limpios: 342 | Liga: Super Lig | Temporada: 2024-25
+2026-03-26 13:22:49,389 | INFO | 
+🔧 Procesando: T1_2526.csv
+2026-03-26 13:22:49,398 | INFO |    📊 Filas originales: 241 | Columnas: ['ï»¿Div', 'Date', 'Time', 'HomeTeam', 'AwayTeam', 'FTHG', 'FTAG', 'FTR']...
+2026-03-26 13:22:49,498 | INFO |    ✅ Partidos limpios: 241 | Liga: Super Lig | Temporada: 2025-26
+2026-03-26 13:22:49,503 | INFO | 
+============================================================
+2026-03-26 13:22:49,503 | INFO | 📊 RESUMEN DE LIMPIEZA:
+2026-03-26 13:22:49,503 | INFO |    ✅ Archivos procesados : 132
+2026-03-26 13:22:49,503 | INFO |    ❌ Archivos fallidos   : 0
+2026-03-26 13:22:49,503 | INFO |    ⚽ Total de partidos   : 43,521
+2026-03-26 13:22:49,503 | INFO |    📁 Carpeta de salida   : C:\Users\danbl\Desktop\futbol_data_project\data_clean
+2026-03-26 13:22:49,503 | INFO | ============================================================

@@ -1,0 +1,553 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2015-08-07,Championship,2015-16,Brighton,Nott'm Forest,1,0,10,3,1,13,0,0
+2015-08-08,Championship,2015-16,Sheffield Weds,Bristol City,2,0,7,2,2,9,0,0
+2015-08-08,Championship,2015-16,Rotherham,Milton Keynes Dons,1,4,12,2,5,14,1,1
+2015-08-08,Championship,2015-16,Hull,Huddersfield,2,0,8,4,2,12,0,0
+2015-08-08,Championship,2015-16,Charlton,QPR,2,0,3,11,2,14,0,0
+2015-08-08,Championship,2015-16,Leeds,Burnley,1,1,4,4,2,8,1,0
+2015-08-08,Championship,2015-16,Brentford,Ipswich,2,2,9,5,4,14,1,1
+2015-08-08,Championship,2015-16,Bolton,Derby,0,0,4,9,0,13,0,0
+2015-08-08,Championship,2015-16,Blackburn,Wolves,1,2,4,3,3,7,1,1
+2015-08-08,Championship,2015-16,Birmingham,Reading,2,1,2,5,3,7,1,1
+2015-08-08,Championship,2015-16,Cardiff,Fulham,1,1,7,3,2,10,1,0
+2015-08-09,Championship,2015-16,Preston,Middlesbrough,0,0,1,1,0,2,0,0
+2015-08-15,Championship,2015-16,Middlesbrough,Bolton,3,0,7,3,3,10,0,1
+2015-08-15,Championship,2015-16,QPR,Cardiff,2,2,9,5,4,14,1,1
+2015-08-15,Championship,2015-16,Nott'm Forest,Rotherham,2,1,11,7,3,18,1,1
+2015-08-15,Championship,2015-16,Milton Keynes Dons,Preston,0,1,10,6,1,16,0,0
+2015-08-15,Championship,2015-16,Ipswich,Sheffield Weds,2,1,13,8,3,21,1,1
+2015-08-15,Championship,2015-16,Huddersfield,Blackburn,1,1,7,3,2,10,1,0
+2015-08-15,Championship,2015-16,Fulham,Brighton,1,2,4,9,3,13,1,1
+2015-08-15,Championship,2015-16,Derby,Charlton,1,1,14,4,2,18,1,0
+2015-08-15,Championship,2015-16,Burnley,Birmingham,2,2,8,5,4,13,1,1
+2015-08-15,Championship,2015-16,Bristol City,Brentford,2,4,4,4,6,8,1,1
+2015-08-16,Championship,2015-16,Reading,Leeds,0,0,5,4,0,9,0,0
+2015-08-16,Championship,2015-16,Wolves,Hull,1,1,6,2,2,8,1,0
+2015-08-18,Championship,2015-16,Blackburn,Cardiff,1,1,4,4,2,8,1,0
+2015-08-18,Championship,2015-16,Derby,Middlesbrough,1,1,4,3,2,7,1,0
+2015-08-18,Championship,2015-16,Huddersfield,Brighton,1,1,6,3,2,9,1,0
+2015-08-18,Championship,2015-16,Ipswich,Burnley,2,0,9,3,2,12,0,0
+2015-08-18,Championship,2015-16,Milton Keynes Dons,Bolton,1,0,2,13,1,15,0,0
+2015-08-18,Championship,2015-16,Nott'm Forest,Charlton,0,0,4,4,0,8,0,0
+2015-08-18,Championship,2015-16,Rotherham,Preston,0,0,1,4,0,5,0,0
+2015-08-19,Championship,2015-16,Wolves,QPR,2,3,5,2,5,7,1,1
+2015-08-19,Championship,2015-16,Sheffield Weds,Reading,1,1,1,5,2,6,1,0
+2015-08-19,Championship,2015-16,Bristol City,Leeds,2,2,8,3,4,11,1,1
+2015-08-19,Championship,2015-16,Hull,Fulham,2,1,6,1,3,7,1,1
+2015-08-21,Championship,2015-16,Birmingham,Derby,1,1,5,8,2,13,1,0
+2015-08-22,Championship,2015-16,Middlesbrough,Bristol City,0,1,8,1,1,9,0,0
+2015-08-22,Championship,2015-16,Bolton,Nott'm Forest,1,1,8,3,2,11,1,0
+2015-08-22,Championship,2015-16,Brighton,Blackburn,1,0,4,6,1,10,0,0
+2015-08-22,Championship,2015-16,Burnley,Brentford,1,0,10,1,1,11,0,0
+2015-08-22,Championship,2015-16,Cardiff,Wolves,2,0,3,4,2,7,0,0
+2015-08-22,Championship,2015-16,Charlton,Hull,2,1,5,4,3,9,1,1
+2015-08-22,Championship,2015-16,Fulham,Huddersfield,1,1,10,9,2,19,1,0
+2015-08-22,Championship,2015-16,Leeds,Sheffield Weds,1,1,3,4,2,7,1,0
+2015-08-22,Championship,2015-16,Preston,Ipswich,1,2,3,4,3,7,1,1
+2015-08-22,Championship,2015-16,QPR,Rotherham,4,2,5,6,6,11,1,1
+2015-08-22,Championship,2015-16,Reading,Milton Keynes Dons,0,0,8,2,0,10,0,0
+2015-08-28,Championship,2015-16,Blackburn,Bolton,0,0,9,6,0,15,0,0
+2015-08-29,Championship,2015-16,Nott'm Forest,Cardiff,1,2,11,2,3,13,1,1
+2015-08-29,Championship,2015-16,Sheffield Weds,Middlesbrough,1,3,5,9,4,14,1,1
+2015-08-29,Championship,2015-16,Rotherham,Fulham,1,3,2,6,4,8,1,1
+2015-08-29,Championship,2015-16,Wolves,Charlton,2,1,4,3,3,7,1,1
+2015-08-29,Championship,2015-16,Milton Keynes Dons,Birmingham,0,2,3,4,2,7,0,0
+2015-08-29,Championship,2015-16,Brentford,Reading,1,3,4,4,4,8,1,1
+2015-08-29,Championship,2015-16,Hull,Preston,2,0,6,6,2,12,0,0
+2015-08-29,Championship,2015-16,Huddersfield,QPR,0,1,8,2,1,10,0,0
+2015-08-29,Championship,2015-16,Derby,Leeds,1,2,6,7,3,13,1,1
+2015-08-29,Championship,2015-16,Bristol City,Burnley,1,2,5,5,3,10,1,1
+2015-08-29,Championship,2015-16,Ipswich,Brighton,2,3,5,5,5,10,1,1
+2015-09-11,Championship,2015-16,Reading,Ipswich,5,1,3,2,6,5,1,1
+2015-09-12,Championship,2015-16,Preston,Derby,1,2,5,1,3,6,1,1
+2015-09-12,Championship,2015-16,Leeds,Brentford,1,1,2,4,2,6,1,0
+2015-09-12,Championship,2015-16,QPR,Nott'm Forest,1,2,4,4,3,8,1,1
+2015-09-12,Championship,2015-16,Charlton,Rotherham,1,1,8,6,2,14,1,0
+2015-09-12,Championship,2015-16,Middlesbrough,Milton Keynes Dons,2,0,8,6,2,14,0,0
+2015-09-12,Championship,2015-16,Burnley,Sheffield Weds,3,1,5,6,4,11,1,1
+2015-09-12,Championship,2015-16,Birmingham,Bristol City,4,2,6,3,6,9,1,1
+2015-09-12,Championship,2015-16,Bolton,Wolves,2,1,8,9,3,17,1,1
+2015-09-12,Championship,2015-16,Cardiff,Huddersfield,2,0,1,5,2,6,0,0
+2015-09-12,Championship,2015-16,Brighton,Hull,1,0,3,5,1,8,0,0
+2015-09-13,Championship,2015-16,Fulham,Blackburn,2,1,4,7,3,11,1,1
+2015-09-15,Championship,2015-16,Birmingham,Nott'm Forest,0,1,3,6,1,9,0,0
+2015-09-15,Championship,2015-16,Bolton,Sheffield Weds,0,0,6,2,0,8,0,0
+2015-09-15,Championship,2015-16,Brighton,Rotherham,2,1,7,3,3,10,1,1
+2015-09-15,Championship,2015-16,Burnley,Milton Keynes Dons,2,1,8,3,3,11,1,1
+2015-09-15,Championship,2015-16,Cardiff,Hull,0,2,12,3,2,15,0,0
+2015-09-15,Championship,2015-16,Charlton,Huddersfield,1,2,2,8,3,10,1,1
+2015-09-15,Championship,2015-16,Leeds,Ipswich,0,1,5,3,1,8,0,0
+2015-09-15,Championship,2015-16,Middlesbrough,Brentford,3,1,4,1,4,5,1,1
+2015-09-15,Championship,2015-16,Preston,Bristol City,1,1,5,12,2,17,1,0
+2015-09-15,Championship,2015-16,Reading,Derby,0,1,7,5,1,12,0,0
+2015-09-16,Championship,2015-16,QPR,Blackburn,2,2,11,13,4,24,1,1
+2015-09-18,Championship,2015-16,Ipswich,Birmingham,1,1,7,1,2,8,1,0
+2015-09-19,Championship,2015-16,Blackburn,Charlton,3,0,11,7,3,18,0,1
+2015-09-19,Championship,2015-16,Wolves,Brighton,0,0,3,4,0,7,0,0
+2015-09-19,Championship,2015-16,Rotherham,Cardiff,2,1,5,4,3,9,1,1
+2015-09-19,Championship,2015-16,Nott'm Forest,Middlesbrough,1,2,11,1,3,12,1,1
+2015-09-19,Championship,2015-16,Milton Keynes Dons,Leeds,1,2,13,3,3,16,1,1
+2015-09-19,Championship,2015-16,Sheffield Weds,Fulham,3,2,6,1,5,7,1,1
+2015-09-19,Championship,2015-16,Huddersfield,Bolton,4,1,2,1,5,3,1,1
+2015-09-19,Championship,2015-16,Bristol City,Reading,0,2,11,4,2,15,0,0
+2015-09-19,Championship,2015-16,Hull,QPR,1,1,12,4,2,16,1,0
+2015-09-19,Championship,2015-16,Brentford,Preston,2,1,6,5,3,11,1,1
+2015-09-21,Championship,2015-16,Derby,Burnley,0,0,7,5,0,12,0,0
+2015-09-24,Championship,2015-16,Huddersfield,Nott'm Forest,1,1,11,2,2,13,1,0
+2015-09-25,Championship,2015-16,Fulham,QPR,4,0,5,2,4,7,0,1
+2015-09-26,Championship,2015-16,Hull,Blackburn,1,1,6,7,2,13,1,0
+2015-09-26,Championship,2015-16,Preston,Wolves,1,1,3,7,2,10,1,0
+2015-09-26,Championship,2015-16,Milton Keynes Dons,Derby,1,3,8,2,4,10,1,1
+2015-09-26,Championship,2015-16,Ipswich,Bristol City,2,2,11,7,4,18,1,1
+2015-09-26,Championship,2015-16,Cardiff,Charlton,2,1,9,4,3,13,1,1
+2015-09-26,Championship,2015-16,Brentford,Sheffield Weds,1,2,6,3,3,9,1,1
+2015-09-26,Championship,2015-16,Bolton,Brighton,2,2,9,4,4,13,1,1
+2015-09-26,Championship,2015-16,Birmingham,Rotherham,0,2,8,2,2,10,0,0
+2015-09-26,Championship,2015-16,Burnley,Reading,1,2,7,3,3,10,1,1
+2015-09-27,Championship,2015-16,Middlesbrough,Leeds,3,0,8,4,3,12,0,1
+2015-09-29,Championship,2015-16,Brentford,Birmingham,0,2,5,6,2,11,0,0
+2015-09-29,Championship,2015-16,Fulham,Wolves,0,3,1,3,3,4,0,1
+2015-10-02,Championship,2015-16,Rotherham,Burnley,1,2,3,4,3,7,1,1
+2015-10-03,Championship,2015-16,Sheffield Weds,Preston,3,1,6,8,4,14,1,1
+2015-10-03,Championship,2015-16,Reading,Middlesbrough,2,0,3,3,2,6,0,0
+2015-10-03,Championship,2015-16,QPR,Bolton,4,3,4,3,7,7,1,1
+2015-10-03,Championship,2015-16,Nott'm Forest,Hull,0,1,9,8,1,17,0,0
+2015-10-03,Championship,2015-16,Wolves,Huddersfield,3,0,6,4,3,10,0,1
+2015-10-03,Championship,2015-16,Derby,Brentford,2,0,12,3,2,15,0,0
+2015-10-03,Championship,2015-16,Bristol City,Milton Keynes Dons,1,1,1,3,2,4,1,0
+2015-10-03,Championship,2015-16,Brighton,Cardiff,1,1,11,2,2,13,1,0
+2015-10-03,Championship,2015-16,Blackburn,Ipswich,2,0,5,8,2,13,0,0
+2015-10-03,Championship,2015-16,Leeds,Birmingham,0,2,13,5,2,18,0,0
+2015-10-04,Championship,2015-16,Charlton,Fulham,2,2,10,5,4,15,1,1
+2015-10-16,Championship,2015-16,Bristol City,Nott'm Forest,2,0,6,10,2,16,0,0
+2015-10-17,Championship,2015-16,Sheffield Weds,Hull,1,1,5,6,2,11,1,0
+2015-10-17,Championship,2015-16,Reading,Charlton,1,0,7,1,1,8,0,0
+2015-10-17,Championship,2015-16,Preston,Cardiff,0,0,6,1,0,7,0,0
+2015-10-17,Championship,2015-16,Milton Keynes Dons,Blackburn,3,0,8,4,3,12,0,1
+2015-10-17,Championship,2015-16,Middlesbrough,Fulham,0,0,6,1,0,7,0,0
+2015-10-17,Championship,2015-16,Ipswich,Huddersfield,0,0,4,6,0,10,0,0
+2015-10-17,Championship,2015-16,Burnley,Bolton,2,0,5,4,2,9,0,0
+2015-10-17,Championship,2015-16,Brentford,Rotherham,2,1,5,4,3,9,1,1
+2015-10-17,Championship,2015-16,Birmingham,QPR,2,1,5,2,3,7,1,1
+2015-10-17,Championship,2015-16,Leeds,Brighton,1,2,3,7,3,10,1,1
+2015-10-18,Championship,2015-16,Derby,Wolves,4,2,7,2,6,9,1,1
+2015-10-20,Championship,2015-16,Hull,Ipswich,3,0,2,4,3,6,0,1
+2015-10-20,Championship,2015-16,Rotherham,Reading,1,1,6,6,2,12,1,0
+2015-10-20,Championship,2015-16,Nott'm Forest,Burnley,1,1,5,6,2,11,1,0
+2015-10-20,Championship,2015-16,Huddersfield,Milton Keynes Dons,2,0,4,5,2,9,0,0
+2015-10-20,Championship,2015-16,QPR,Sheffield Weds,0,0,5,4,0,9,0,0
+2015-10-20,Championship,2015-16,Cardiff,Middlesbrough,1,0,5,6,1,11,0,0
+2015-10-20,Championship,2015-16,Brighton,Bristol City,2,1,4,5,3,9,1,1
+2015-10-20,Championship,2015-16,Charlton,Preston,0,3,2,6,3,8,0,1
+2015-10-20,Championship,2015-16,Bolton,Birmingham,0,1,6,4,1,10,0,0
+2015-10-21,Championship,2015-16,Blackburn,Derby,0,0,6,2,0,8,0,0
+2015-10-21,Championship,2015-16,Fulham,Leeds,1,1,3,6,2,9,1,0
+2015-10-21,Championship,2015-16,Wolves,Brentford,0,2,4,3,2,7,0,0
+2015-10-23,Championship,2015-16,Rotherham,Sheffield Weds,1,2,1,1,3,2,1,1
+2015-10-24,Championship,2015-16,Nott'm Forest,Ipswich,1,1,8,4,2,12,1,0
+2015-10-24,Championship,2015-16,Hull,Birmingham,2,0,7,5,2,12,0,0
+2015-10-24,Championship,2015-16,Huddersfield,Derby,1,2,8,9,3,17,1,1
+2015-10-24,Championship,2015-16,Fulham,Reading,4,2,10,3,6,13,1,1
+2015-10-24,Championship,2015-16,Blackburn,Burnley,0,1,4,0,1,4,0,0
+2015-10-24,Championship,2015-16,Brighton,Preston,0,0,6,7,0,13,0,0
+2015-10-24,Championship,2015-16,Bolton,Leeds,1,1,4,7,2,11,1,0
+2015-10-24,Championship,2015-16,QPR,Milton Keynes Dons,3,0,11,8,3,19,0,1
+2015-10-24,Championship,2015-16,Charlton,Brentford,0,3,1,4,3,5,0,1
+2015-10-24,Championship,2015-16,Wolves,Middlesbrough,1,3,7,3,4,10,1,1
+2015-10-26,Championship,2015-16,Cardiff,Bristol City,0,0,4,9,0,13,0,0
+2015-10-29,Championship,2015-16,Leeds,Blackburn,0,2,3,1,2,4,0,0
+2015-10-30,Championship,2015-16,Brentford,QPR,1,0,2,1,1,3,0,0
+2015-10-31,Championship,2015-16,Sheffield Weds,Nott'm Forest,1,0,6,2,1,8,0,0
+2015-10-31,Championship,2015-16,Reading,Brighton,1,1,4,9,2,13,1,0
+2015-10-31,Championship,2015-16,Preston,Bolton,0,0,9,3,0,12,0,0
+2015-10-31,Championship,2015-16,Middlesbrough,Charlton,3,0,15,2,3,17,0,1
+2015-10-31,Championship,2015-16,Milton Keynes Dons,Hull,0,2,4,1,2,5,0,0
+2015-10-31,Championship,2015-16,Derby,Rotherham,3,0,8,0,3,8,0,1
+2015-10-31,Championship,2015-16,Burnley,Huddersfield,2,1,4,13,3,17,1,1
+2015-10-31,Championship,2015-16,Bristol City,Fulham,1,4,7,1,5,8,1,1
+2015-10-31,Championship,2015-16,Birmingham,Wolves,0,2,8,6,2,14,0,0
+2015-10-31,Championship,2015-16,Ipswich,Cardiff,0,0,3,4,0,7,0,0
+2015-11-03,Championship,2015-16,Middlesbrough,Rotherham,1,0,4,2,1,6,0,0
+2015-11-03,Championship,2015-16,Sheffield Weds,Brighton,0,0,4,2,0,6,0,0
+2015-11-03,Championship,2015-16,Reading,Huddersfield,2,2,5,2,4,7,1,1
+2015-11-03,Championship,2015-16,Preston,Nott'm Forest,1,0,0,6,1,6,0,0
+2015-11-03,Championship,2015-16,Milton Keynes Dons,Charlton,1,0,4,3,1,7,0,0
+2015-11-03,Championship,2015-16,Leeds,Cardiff,1,0,3,4,1,7,0,0
+2015-11-03,Championship,2015-16,Ipswich,Bolton,2,0,6,6,2,12,0,0
+2015-11-03,Championship,2015-16,Derby,QPR,1,0,8,4,1,12,0,0
+2015-11-03,Championship,2015-16,Burnley,Fulham,3,1,5,11,4,16,1,1
+2015-11-03,Championship,2015-16,Bristol City,Wolves,1,0,1,7,1,8,0,0
+2015-11-03,Championship,2015-16,Brentford,Hull,0,2,1,9,2,10,0,0
+2015-11-03,Championship,2015-16,Birmingham,Blackburn,0,0,12,2,0,14,0,0
+2015-11-06,Championship,2015-16,Nott'm Forest,Derby,1,0,2,5,1,7,0,0
+2015-11-07,Championship,2015-16,QPR,Preston,0,0,5,4,0,9,0,0
+2015-11-07,Championship,2015-16,Hull,Middlesbrough,3,0,7,3,3,10,0,1
+2015-11-07,Championship,2015-16,Huddersfield,Leeds,0,3,3,6,3,9,0,1
+2015-11-07,Championship,2015-16,Fulham,Birmingham,2,5,3,6,7,9,1,1
+2015-11-07,Championship,2015-16,Brighton,Milton Keynes Dons,2,1,6,3,3,9,1,1
+2015-11-07,Championship,2015-16,Cardiff,Reading,2,0,4,8,2,12,0,0
+2015-11-07,Championship,2015-16,Rotherham,Ipswich,2,5,5,6,7,11,1,1
+2015-11-07,Championship,2015-16,Bolton,Bristol City,0,0,2,6,0,8,0,0
+2015-11-07,Championship,2015-16,Blackburn,Brentford,1,1,8,3,2,11,1,0
+2015-11-07,Championship,2015-16,Charlton,Sheffield Weds,3,1,3,2,4,5,1,1
+2015-11-07,Championship,2015-16,Wolves,Burnley,0,0,3,1,0,4,0,0
+2015-11-20,Championship,2015-16,Middlesbrough,QPR,1,0,9,3,1,12,0,0
+2015-11-21,Championship,2015-16,Birmingham,Charlton,0,1,7,4,1,11,0,0
+2015-11-21,Championship,2015-16,Sheffield Weds,Huddersfield,3,1,3,6,4,9,1,1
+2015-11-21,Championship,2015-16,Preston,Blackburn,1,2,4,2,3,6,1,1
+2015-11-21,Championship,2015-16,Milton Keynes Dons,Fulham,1,1,5,2,2,7,1,0
+2015-11-21,Championship,2015-16,Leeds,Rotherham,0,1,9,4,1,13,0,0
+2015-11-21,Championship,2015-16,Reading,Bolton,2,1,10,3,3,13,1,1
+2015-11-21,Championship,2015-16,Derby,Cardiff,2,0,8,3,2,11,0,0
+2015-11-21,Championship,2015-16,Bristol City,Hull,1,1,1,12,2,13,1,0
+2015-11-21,Championship,2015-16,Brentford,Nott'm Forest,2,1,3,6,3,9,1,1
+2015-11-21,Championship,2015-16,Ipswich,Wolves,2,2,3,3,4,6,1,1
+2015-11-22,Championship,2015-16,Burnley,Brighton,1,1,8,5,2,13,1,0
+2015-11-27,Championship,2015-16,Hull,Derby,0,2,10,4,2,14,0,0
+2015-11-28,Championship,2015-16,Nott'm Forest,Reading,3,1,4,9,4,13,1,1
+2015-11-28,Championship,2015-16,Rotherham,Bristol City,3,0,2,5,3,7,0,1
+2015-11-28,Championship,2015-16,QPR,Leeds,1,0,8,1,1,9,0,0
+2015-11-28,Championship,2015-16,Wolves,Milton Keynes Dons,0,0,5,1,0,6,0,0
+2015-11-28,Championship,2015-16,Huddersfield,Middlesbrough,0,2,3,2,2,5,0,0
+2015-11-28,Championship,2015-16,Cardiff,Burnley,2,2,8,4,4,12,1,1
+2015-11-28,Championship,2015-16,Charlton,Ipswich,0,3,7,4,3,11,0,1
+2015-11-28,Championship,2015-16,Blackburn,Sheffield Weds,2,2,8,3,4,11,1,1
+2015-11-28,Championship,2015-16,Fulham,Preston,1,1,3,6,2,9,1,0
+2015-11-28,Championship,2015-16,Brighton,Birmingham,2,1,9,6,3,15,1,1
+2015-11-30,Championship,2015-16,Bolton,Brentford,1,1,10,4,2,14,1,0
+2015-12-03,Championship,2015-16,Reading,QPR,0,1,3,7,1,10,0,0
+2015-12-04,Championship,2015-16,Ipswich,Middlesbrough,0,2,5,3,2,8,0,0
+2015-12-05,Championship,2015-16,Birmingham,Huddersfield,0,2,8,5,2,13,0,0
+2015-12-05,Championship,2015-16,Bolton,Cardiff,2,3,4,5,5,9,1,1
+2015-12-05,Championship,2015-16,Brentford,Milton Keynes Dons,2,0,7,4,2,11,0,0
+2015-12-05,Championship,2015-16,Brighton,Charlton,3,2,11,1,5,12,1,1
+2015-12-05,Championship,2015-16,Bristol City,Blackburn,0,2,4,4,2,8,0,0
+2015-12-05,Championship,2015-16,Burnley,Preston,0,2,9,3,2,12,0,0
+2015-12-05,Championship,2015-16,Leeds,Hull,2,1,2,6,3,8,1,1
+2015-12-05,Championship,2015-16,Nott'm Forest,Fulham,3,0,6,7,3,13,0,1
+2015-12-05,Championship,2015-16,Rotherham,Wolves,1,2,5,7,3,12,1,1
+2015-12-06,Championship,2015-16,Sheffield Weds,Derby,0,0,5,2,0,7,0,0
+2015-12-11,Championship,2015-16,Wolves,Nott'm Forest,1,1,7,5,2,12,1,0
+2015-12-11,Championship,2015-16,Blackburn,Rotherham,1,0,7,4,1,11,0,0
+2015-12-12,Championship,2015-16,Cardiff,Sheffield Weds,2,2,3,6,4,9,1,1
+2015-12-12,Championship,2015-16,Charlton,Leeds,0,0,4,8,0,12,0,0
+2015-12-12,Championship,2015-16,Derby,Brighton,2,2,7,4,4,11,1,1
+2015-12-12,Championship,2015-16,Fulham,Brentford,2,2,10,4,4,14,1,1
+2015-12-12,Championship,2015-16,Huddersfield,Bristol City,1,2,7,2,3,9,1,1
+2015-12-12,Championship,2015-16,Hull,Bolton,1,0,2,1,1,3,0,0
+2015-12-12,Championship,2015-16,Middlesbrough,Birmingham,0,0,8,7,0,15,0,0
+2015-12-12,Championship,2015-16,Milton Keynes Dons,Ipswich,0,1,14,2,1,16,0,0
+2015-12-12,Championship,2015-16,Preston,Reading,1,0,4,4,1,8,0,0
+2015-12-12,Championship,2015-16,QPR,Burnley,0,0,6,5,0,11,0,0
+2015-12-14,Championship,2015-16,Blackburn,Nott'm Forest,0,0,8,1,0,9,0,0
+2015-12-15,Championship,2015-16,Middlesbrough,Burnley,1,0,7,2,1,9,0,0
+2015-12-15,Championship,2015-16,Preston,Birmingham,1,1,5,7,2,12,1,0
+2015-12-15,Championship,2015-16,Milton Keynes Dons,Sheffield Weds,2,1,6,3,3,9,1,1
+2015-12-15,Championship,2015-16,QPR,Brighton,2,2,10,7,4,17,1,1
+2015-12-15,Championship,2015-16,Fulham,Ipswich,1,2,10,5,3,15,1,1
+2015-12-15,Championship,2015-16,Derby,Bristol City,4,0,5,3,4,8,0,1
+2015-12-15,Championship,2015-16,Charlton,Bolton,2,2,3,8,4,11,1,1
+2015-12-15,Championship,2015-16,Cardiff,Brentford,3,2,4,9,5,13,1,1
+2015-12-15,Championship,2015-16,Huddersfield,Rotherham,2,0,5,4,2,9,0,0
+2015-12-16,Championship,2015-16,Hull,Reading,2,1,6,3,3,9,1,1
+2015-12-17,Championship,2015-16,Wolves,Leeds,2,3,6,2,5,8,1,1
+2015-12-18,Championship,2015-16,Birmingham,Cardiff,1,0,7,4,1,11,0,0
+2015-12-19,Championship,2015-16,Bolton,Fulham,2,2,5,5,4,10,1,1
+2015-12-19,Championship,2015-16,Brentford,Huddersfield,4,2,5,5,6,10,1,1
+2015-12-19,Championship,2015-16,Brighton,Middlesbrough,0,3,3,4,3,7,0,1
+2015-12-19,Championship,2015-16,Bristol City,QPR,1,1,7,5,2,12,1,0
+2015-12-19,Championship,2015-16,Burnley,Charlton,4,0,7,5,4,12,0,1
+2015-12-19,Championship,2015-16,Ipswich,Derby,0,1,9,3,1,12,0,0
+2015-12-19,Championship,2015-16,Nott'm Forest,Milton Keynes Dons,2,1,4,6,3,10,1,1
+2015-12-19,Championship,2015-16,Rotherham,Hull,2,0,3,10,2,13,0,0
+2015-12-20,Championship,2015-16,Sheffield Weds,Wolves,4,1,2,3,5,5,1,1
+2015-12-20,Championship,2015-16,Reading,Blackburn,1,0,6,1,1,7,0,0
+2015-12-20,Championship,2015-16,Leeds,Preston,1,0,8,5,1,13,0,0
+2015-12-26,Championship,2015-16,Brentford,Brighton,0,0,10,1,0,11,0,0
+2015-12-26,Championship,2015-16,Bristol City,Charlton,1,1,7,3,2,10,1,0
+2015-12-26,Championship,2015-16,Derby,Fulham,2,0,4,4,2,8,0,0
+2015-12-26,Championship,2015-16,Huddersfield,Preston,3,1,4,4,4,8,1,1
+2015-12-26,Championship,2015-16,Hull,Burnley,3,0,8,2,3,10,0,1
+2015-12-26,Championship,2015-16,Ipswich,QPR,2,1,6,5,3,11,1,1
+2015-12-26,Championship,2015-16,Milton Keynes Dons,Cardiff,2,1,1,3,3,4,1,1
+2015-12-26,Championship,2015-16,Rotherham,Bolton,4,0,12,1,4,13,0,1
+2015-12-26,Championship,2015-16,Sheffield Weds,Birmingham,3,0,3,4,3,7,0,1
+2015-12-26,Championship,2015-16,Wolves,Reading,1,0,9,8,1,17,0,0
+2015-12-27,Championship,2015-16,Nott'm Forest,Leeds,1,1,5,6,2,11,1,0
+2015-12-28,Championship,2015-16,Preston,Hull,1,0,2,6,1,8,0,0
+2015-12-28,Championship,2015-16,Reading,Brentford,1,2,12,3,3,15,1,1
+2015-12-28,Championship,2015-16,QPR,Huddersfield,1,1,4,8,2,12,1,0
+2015-12-28,Championship,2015-16,Middlesbrough,Sheffield Weds,1,0,3,5,1,8,0,0
+2015-12-28,Championship,2015-16,Birmingham,Milton Keynes Dons,1,0,11,2,1,13,0,0
+2015-12-28,Championship,2015-16,Burnley,Bristol City,4,0,8,3,4,11,0,1
+2015-12-28,Championship,2015-16,Bolton,Blackburn,1,0,2,7,1,9,0,0
+2015-12-28,Championship,2015-16,Charlton,Wolves,0,2,6,8,2,14,0,0
+2015-12-29,Championship,2015-16,Brighton,Ipswich,0,1,5,8,1,13,0,0
+2015-12-29,Championship,2015-16,Cardiff,Nott'm Forest,1,1,4,1,2,5,1,0
+2015-12-29,Championship,2015-16,Fulham,Rotherham,4,1,4,8,5,12,1,1
+2015-12-29,Championship,2015-16,Leeds,Derby,2,2,3,9,4,12,1,1
+2016-01-01,Championship,2015-16,Brighton,Wolves,0,1,10,4,1,14,0,0
+2016-01-01,Championship,2015-16,QPR,Hull,1,2,6,8,3,14,1,1
+2016-01-02,Championship,2015-16,Reading,Bristol City,1,0,6,5,1,11,0,0
+2016-01-02,Championship,2015-16,Preston,Rotherham,2,1,7,5,3,12,1,1
+2016-01-02,Championship,2015-16,Middlesbrough,Derby,2,0,5,7,2,12,0,0
+2016-01-02,Championship,2015-16,Fulham,Sheffield Weds,0,1,4,7,1,11,0,0
+2016-01-02,Championship,2015-16,Leeds,Milton Keynes Dons,1,1,6,5,2,11,1,0
+2016-01-02,Championship,2015-16,Cardiff,Blackburn,1,0,6,5,1,11,0,0
+2016-01-02,Championship,2015-16,Burnley,Ipswich,0,0,2,8,0,10,0,0
+2016-01-02,Championship,2015-16,Bolton,Huddersfield,0,2,2,7,2,9,0,0
+2016-01-02,Championship,2015-16,Birmingham,Brentford,2,1,0,5,3,5,1,1
+2016-01-02,Championship,2015-16,Charlton,Nott'm Forest,1,1,6,8,2,14,1,0
+2016-01-12,Championship,2015-16,Sheffield Weds,Bolton,3,2,2,0,5,2,1,1
+2016-01-12,Championship,2015-16,Rotherham,Brighton,2,0,3,7,2,10,0,0
+2016-01-12,Championship,2015-16,Nott'm Forest,Birmingham,1,1,0,4,2,4,1,0
+2016-01-12,Championship,2015-16,Milton Keynes Dons,Burnley,0,5,4,4,5,8,0,1
+2016-01-12,Championship,2015-16,Ipswich,Leeds,2,1,7,2,3,9,1,1
+2016-01-12,Championship,2015-16,Derby,Reading,1,1,4,7,2,11,1,0
+2016-01-12,Championship,2015-16,Bristol City,Preston,1,2,8,2,3,10,1,1
+2016-01-12,Championship,2015-16,Brentford,Middlesbrough,0,1,11,5,1,16,0,0
+2016-01-12,Championship,2015-16,Blackburn,QPR,1,1,7,3,2,10,1,0
+2016-01-12,Championship,2015-16,Wolves,Fulham,3,2,4,5,5,9,1,1
+2016-01-12,Championship,2015-16,Huddersfield,Charlton,5,0,7,3,5,10,0,1
+2016-01-13,Championship,2015-16,Hull,Cardiff,2,0,6,1,2,7,0,0
+2016-01-15,Championship,2015-16,Brentford,Burnley,1,3,3,3,4,6,1,1
+2016-01-16,Championship,2015-16,Blackburn,Brighton,0,1,5,6,1,11,0,0
+2016-01-16,Championship,2015-16,Bristol City,Middlesbrough,1,0,7,3,1,10,0,0
+2016-01-16,Championship,2015-16,Derby,Birmingham,0,3,6,3,3,9,0,1
+2016-01-16,Championship,2015-16,Huddersfield,Fulham,1,1,7,2,2,9,1,0
+2016-01-16,Championship,2015-16,Hull,Charlton,6,0,6,1,6,7,0,1
+2016-01-16,Championship,2015-16,Ipswich,Preston,1,1,5,2,2,7,1,0
+2016-01-16,Championship,2015-16,Milton Keynes Dons,Reading,1,0,7,8,1,15,0,0
+2016-01-16,Championship,2015-16,Nott'm Forest,Bolton,3,0,5,4,3,9,0,1
+2016-01-16,Championship,2015-16,Rotherham,QPR,0,3,9,2,3,11,0,1
+2016-01-16,Championship,2015-16,Sheffield Weds,Leeds,2,0,2,7,2,9,0,0
+2016-01-16,Championship,2015-16,Wolves,Cardiff,1,3,7,5,4,12,1,1
+2016-01-23,Championship,2015-16,Reading,Sheffield Weds,1,1,7,6,2,13,1,0
+2016-01-23,Championship,2015-16,QPR,Wolves,1,1,6,1,2,7,1,0
+2016-01-23,Championship,2015-16,Preston,Brentford,1,3,3,2,4,5,1,1
+2016-01-23,Championship,2015-16,Middlesbrough,Nott'm Forest,0,1,4,3,1,7,0,0
+2016-01-23,Championship,2015-16,Leeds,Bristol City,1,0,6,5,1,11,0,0
+2016-01-23,Championship,2015-16,Charlton,Blackburn,1,1,1,4,2,5,1,0
+2016-01-23,Championship,2015-16,Cardiff,Rotherham,2,2,5,4,4,9,1,1
+2016-01-23,Championship,2015-16,Brighton,Huddersfield,2,1,1,5,3,6,1,1
+2016-01-23,Championship,2015-16,Bolton,Milton Keynes Dons,3,1,9,10,4,19,1,1
+2016-01-23,Championship,2015-16,Birmingham,Ipswich,3,0,5,4,3,9,0,1
+2016-01-23,Championship,2015-16,Fulham,Hull,0,1,4,4,1,8,0,0
+2016-01-25,Championship,2015-16,Burnley,Derby,4,1,3,11,5,14,1,1
+2016-01-26,Championship,2015-16,Brentford,Leeds,1,1,4,4,2,8,1,0
+2016-01-26,Championship,2015-16,Nott'm Forest,QPR,0,0,6,7,0,13,0,0
+2016-01-30,Championship,2015-16,Bristol City,Birmingham,0,0,3,0,0,3,0,0
+2016-01-30,Championship,2015-16,Huddersfield,Cardiff,2,3,4,2,5,6,1,1
+2016-01-30,Championship,2015-16,Rotherham,Charlton,1,4,4,3,5,7,1,1
+2016-02-02,Championship,2015-16,Sheffield Weds,Burnley,1,1,3,2,2,5,1,0
+2016-02-02,Championship,2015-16,Derby,Preston,0,0,10,2,0,12,0,0
+2016-02-02,Championship,2015-16,Ipswich,Reading,2,1,12,2,3,14,1,1
+2016-02-02,Championship,2015-16,Wolves,Bolton,2,2,4,5,4,9,1,1
+2016-02-05,Championship,2015-16,Brighton,Brentford,3,0,3,6,3,9,0,1
+2016-02-06,Championship,2015-16,Birmingham,Sheffield Weds,1,2,6,8,3,14,1,1
+2016-02-06,Championship,2015-16,Reading,Wolves,0,0,8,7,0,15,0,0
+2016-02-06,Championship,2015-16,QPR,Ipswich,1,0,5,6,1,11,0,0
+2016-02-06,Championship,2015-16,Middlesbrough,Blackburn,1,1,6,6,2,12,1,0
+2016-02-06,Championship,2015-16,Leeds,Nott'm Forest,0,1,5,1,1,6,0,0
+2016-02-06,Championship,2015-16,Preston,Huddersfield,2,1,2,5,3,7,1,1
+2016-02-06,Championship,2015-16,Charlton,Bristol City,0,1,4,5,1,9,0,0
+2016-02-06,Championship,2015-16,Cardiff,Milton Keynes Dons,0,0,10,5,0,15,0,0
+2016-02-06,Championship,2015-16,Burnley,Hull,1,0,8,6,1,14,0,0
+2016-02-06,Championship,2015-16,Bolton,Rotherham,2,1,7,6,3,13,1,1
+2016-02-06,Championship,2015-16,Fulham,Derby,1,1,5,5,2,10,1,0
+2016-02-09,Championship,2015-16,Milton Keynes Dons,Middlesbrough,1,1,4,10,2,14,1,0
+2016-02-13,Championship,2015-16,Reading,Burnley,0,0,4,4,0,8,0,0
+2016-02-13,Championship,2015-16,Wolves,Preston,1,2,3,3,3,6,1,1
+2016-02-13,Championship,2015-16,Sheffield Weds,Brentford,4,0,5,1,4,6,0,1
+2016-02-13,Championship,2015-16,Rotherham,Birmingham,0,0,7,2,0,9,0,0
+2016-02-13,Championship,2015-16,QPR,Fulham,1,3,11,5,4,16,1,1
+2016-02-13,Championship,2015-16,Bristol City,Ipswich,2,1,13,6,3,19,1,1
+2016-02-13,Championship,2015-16,Derby,Milton Keynes Dons,0,1,7,4,1,11,0,0
+2016-02-13,Championship,2015-16,Charlton,Cardiff,0,0,4,8,0,12,0,0
+2016-02-13,Championship,2015-16,Brighton,Bolton,3,2,5,2,5,7,1,1
+2016-02-13,Championship,2015-16,Blackburn,Hull,0,2,7,2,2,9,0,0
+2016-02-13,Championship,2015-16,Nott'm Forest,Huddersfield,0,2,5,3,2,8,0,0
+2016-02-15,Championship,2015-16,Leeds,Middlesbrough,0,0,10,3,0,13,0,0
+2016-02-16,Championship,2015-16,Blackburn,Fulham,3,0,4,5,3,9,0,1
+2016-02-16,Championship,2015-16,Hull,Brighton,0,0,4,2,0,6,0,0
+2016-02-20,Championship,2015-16,Huddersfield,Wolves,1,0,4,6,1,10,0,0
+2016-02-20,Championship,2015-16,Preston,Sheffield Weds,1,0,7,5,1,12,0,0
+2016-02-20,Championship,2015-16,Fulham,Charlton,3,0,9,6,3,15,0,1
+2016-02-20,Championship,2015-16,Milton Keynes Dons,Bristol City,0,2,2,3,2,5,0,0
+2016-02-20,Championship,2015-16,Burnley,Rotherham,2,0,6,1,2,7,0,0
+2016-02-20,Championship,2015-16,Brentford,Derby,1,3,7,3,4,10,1,1
+2016-02-20,Championship,2015-16,Cardiff,Brighton,4,1,3,6,5,9,1,1
+2016-02-20,Championship,2015-16,Bolton,QPR,1,1,2,4,2,6,1,0
+2016-02-23,Championship,2015-16,Sheffield Weds,QPR,1,1,9,4,2,13,1,0
+2016-02-23,Championship,2015-16,Reading,Rotherham,1,0,4,3,1,7,0,0
+2016-02-23,Championship,2015-16,Preston,Charlton,2,1,2,3,3,5,1,1
+2016-02-23,Championship,2015-16,Milton Keynes Dons,Huddersfield,1,1,3,4,2,7,1,0
+2016-02-23,Championship,2015-16,Leeds,Fulham,1,1,5,6,2,11,1,0
+2016-02-23,Championship,2015-16,Middlesbrough,Cardiff,3,1,4,5,4,9,1,1
+2016-02-23,Championship,2015-16,Burnley,Nott'm Forest,1,0,6,6,1,12,0,0
+2016-02-23,Championship,2015-16,Bristol City,Brighton,0,4,9,3,4,12,0,1
+2016-02-23,Championship,2015-16,Brentford,Wolves,3,0,10,4,3,14,0,1
+2016-02-23,Championship,2015-16,Birmingham,Bolton,1,0,6,3,1,9,0,0
+2016-02-23,Championship,2015-16,Ipswich,Hull,0,1,4,4,1,8,0,0
+2016-02-24,Championship,2015-16,Derby,Blackburn,1,0,1,2,1,3,0,0
+2016-02-26,Championship,2015-16,Hull,Sheffield Weds,0,0,5,2,0,7,0,0
+2016-02-27,Championship,2015-16,Nott'm Forest,Bristol City,1,2,1,6,3,7,1,1
+2016-02-27,Championship,2015-16,Wolves,Derby,2,1,3,3,3,6,1,1
+2016-02-27,Championship,2015-16,Rotherham,Brentford,2,1,6,2,3,8,1,1
+2016-02-27,Championship,2015-16,QPR,Birmingham,2,0,6,6,2,12,0,0
+2016-02-27,Championship,2015-16,Huddersfield,Ipswich,0,1,4,1,1,5,0,0
+2016-02-27,Championship,2015-16,Blackburn,Milton Keynes Dons,3,2,6,2,5,8,1,1
+2016-02-27,Championship,2015-16,Charlton,Reading,3,4,2,7,7,9,1,1
+2016-02-27,Championship,2015-16,Cardiff,Preston,2,1,2,2,3,4,1,1
+2016-02-27,Championship,2015-16,Bolton,Burnley,1,2,10,3,3,13,1,1
+2016-02-27,Championship,2015-16,Fulham,Middlesbrough,0,2,3,11,2,14,0,0
+2016-02-29,Championship,2015-16,Brighton,Leeds,4,0,5,8,4,13,0,1
+2016-03-01,Championship,2015-16,Blackburn,Middlesbrough,2,1,3,4,3,7,1,1
+2016-03-03,Championship,2015-16,Birmingham,Hull,1,0,4,4,1,8,0,0
+2016-03-04,Championship,2015-16,Middlesbrough,Wolves,2,1,6,5,3,11,1,1
+2016-03-05,Championship,2015-16,Milton Keynes Dons,QPR,2,0,6,4,2,10,0,0
+2016-03-05,Championship,2015-16,Reading,Fulham,2,2,7,5,4,12,1,1
+2016-03-05,Championship,2015-16,Preston,Brighton,0,0,7,5,0,12,0,0
+2016-03-05,Championship,2015-16,Leeds,Bolton,2,1,12,9,3,21,1,1
+2016-03-05,Championship,2015-16,Sheffield Weds,Rotherham,0,1,6,2,1,8,0,0
+2016-03-05,Championship,2015-16,Derby,Huddersfield,2,0,5,5,2,10,0,0
+2016-03-05,Championship,2015-16,Brentford,Charlton,1,2,11,7,3,18,1,1
+2016-03-05,Championship,2015-16,Ipswich,Nott'm Forest,1,0,4,7,1,11,0,0
+2016-03-05,Championship,2015-16,Burnley,Blackburn,1,0,4,8,1,12,0,0
+2016-03-05,Championship,2015-16,Bristol City,Cardiff,0,2,7,2,2,9,0,0
+2016-03-08,Championship,2015-16,Blackburn,Birmingham,2,0,5,5,2,10,0,0
+2016-03-08,Championship,2015-16,Bolton,Ipswich,2,2,9,2,4,11,1,1
+2016-03-08,Championship,2015-16,Brighton,Sheffield Weds,0,0,5,8,0,13,0,0
+2016-03-08,Championship,2015-16,Cardiff,Leeds,0,2,13,3,2,16,0,0
+2016-03-08,Championship,2015-16,Charlton,Milton Keynes Dons,0,0,8,7,0,15,0,0
+2016-03-08,Championship,2015-16,Fulham,Burnley,2,3,5,6,5,11,1,1
+2016-03-08,Championship,2015-16,Huddersfield,Reading,3,1,5,3,4,8,1,1
+2016-03-08,Championship,2015-16,Nott'm Forest,Preston,1,0,3,8,1,11,0,0
+2016-03-08,Championship,2015-16,QPR,Derby,2,0,2,11,2,13,0,0
+2016-03-08,Championship,2015-16,Rotherham,Middlesbrough,1,0,8,2,1,10,0,0
+2016-03-08,Championship,2015-16,Wolves,Bristol City,2,1,4,8,3,12,1,1
+2016-03-12,Championship,2015-16,Rotherham,Derby,3,3,6,5,6,11,1,1
+2016-03-12,Championship,2015-16,QPR,Brentford,3,0,3,5,3,8,0,1
+2016-03-12,Championship,2015-16,Nott'm Forest,Sheffield Weds,0,3,8,5,3,13,0,1
+2016-03-12,Championship,2015-16,Hull,Milton Keynes Dons,1,1,8,2,2,10,1,0
+2016-03-12,Championship,2015-16,Huddersfield,Burnley,1,3,4,3,4,7,1,1
+2016-03-12,Championship,2015-16,Cardiff,Ipswich,1,0,6,9,1,15,0,0
+2016-03-12,Championship,2015-16,Bolton,Preston,1,2,7,2,3,9,1,1
+2016-03-12,Championship,2015-16,Blackburn,Leeds,1,2,8,4,3,12,1,1
+2016-03-12,Championship,2015-16,Fulham,Bristol City,1,2,3,5,3,8,1,1
+2016-03-13,Championship,2015-16,Charlton,Middlesbrough,2,0,2,12,2,14,0,0
+2016-03-13,Championship,2015-16,Wolves,Birmingham,0,0,2,10,0,12,0,0
+2016-03-15,Championship,2015-16,Brighton,Reading,1,0,4,1,1,5,0,0
+2016-03-15,Championship,2015-16,Hull,Nott'm Forest,1,1,8,4,2,12,1,0
+2016-03-15,Championship,2015-16,Ipswich,Blackburn,2,0,3,5,2,8,0,0
+2016-03-18,Championship,2015-16,Middlesbrough,Hull,1,0,4,5,1,9,0,0
+2016-03-19,Championship,2015-16,Leeds,Huddersfield,1,4,0,6,5,6,1,1
+2016-03-19,Championship,2015-16,Reading,Cardiff,1,1,3,1,2,4,1,0
+2016-03-19,Championship,2015-16,Preston,QPR,1,1,10,3,2,13,1,0
+2016-03-19,Championship,2015-16,Milton Keynes Dons,Brighton,1,2,7,4,3,11,1,1
+2016-03-19,Championship,2015-16,Sheffield Weds,Charlton,3,0,7,1,3,8,0,1
+2016-03-19,Championship,2015-16,Ipswich,Rotherham,0,1,10,1,1,11,0,0
+2016-03-19,Championship,2015-16,Burnley,Wolves,1,1,3,7,2,10,1,0
+2016-03-19,Championship,2015-16,Birmingham,Fulham,1,1,6,3,2,9,1,0
+2016-03-19,Championship,2015-16,Derby,Nott'm Forest,1,0,2,7,1,9,0,0
+2016-03-19,Championship,2015-16,Bristol City,Bolton,6,0,2,3,6,5,0,1
+2016-03-19,Championship,2015-16,Brentford,Blackburn,0,1,6,4,1,10,0,0
+2016-04-01,Championship,2015-16,QPR,Middlesbrough,2,3,3,6,5,9,1,1
+2016-04-02,Championship,2015-16,Rotherham,Leeds,2,1,3,6,3,9,1,1
+2016-04-02,Championship,2015-16,Nott'm Forest,Brentford,0,3,2,2,3,4,0,1
+2016-04-02,Championship,2015-16,Hull,Bristol City,4,0,10,1,4,11,0,1
+2016-04-02,Championship,2015-16,Huddersfield,Sheffield Weds,0,1,6,2,1,8,0,0
+2016-04-02,Championship,2015-16,Fulham,Milton Keynes Dons,2,1,5,6,3,11,1,1
+2016-04-02,Championship,2015-16,Wolves,Ipswich,0,0,4,6,0,10,0,0
+2016-04-02,Championship,2015-16,Cardiff,Derby,2,1,6,2,3,8,1,1
+2016-04-02,Championship,2015-16,Brighton,Burnley,2,2,4,9,4,13,1,1
+2016-04-02,Championship,2015-16,Bolton,Reading,0,1,3,7,1,10,0,0
+2016-04-02,Championship,2015-16,Blackburn,Preston,1,2,4,4,3,8,1,1
+2016-04-02,Championship,2015-16,Charlton,Birmingham,2,1,8,3,3,11,1,1
+2016-04-05,Championship,2015-16,Sheffield Weds,Blackburn,2,1,7,3,3,10,1,1
+2016-04-05,Championship,2015-16,Reading,Nott'm Forest,2,1,6,2,3,8,1,1
+2016-04-05,Championship,2015-16,Preston,Fulham,1,2,10,1,3,11,1,1
+2016-04-05,Championship,2015-16,Milton Keynes Dons,Wolves,1,2,8,5,3,13,1,1
+2016-04-05,Championship,2015-16,Middlesbrough,Huddersfield,3,0,5,1,3,6,0,1
+2016-04-05,Championship,2015-16,Leeds,QPR,1,1,7,3,2,10,1,0
+2016-04-05,Championship,2015-16,Ipswich,Charlton,0,0,3,8,0,11,0,0
+2016-04-05,Championship,2015-16,Burnley,Cardiff,0,0,6,2,0,8,0,0
+2016-04-05,Championship,2015-16,Bristol City,Rotherham,1,1,7,1,2,8,1,0
+2016-04-05,Championship,2015-16,Birmingham,Brighton,1,2,1,6,3,7,1,1
+2016-04-05,Championship,2015-16,Derby,Hull,4,0,3,6,4,9,0,1
+2016-04-05,Championship,2015-16,Brentford,Bolton,3,1,6,5,4,11,1,1
+2016-04-09,Championship,2015-16,Wolves,Blackburn,0,0,5,4,0,9,0,0
+2016-04-09,Championship,2015-16,Middlesbrough,Preston,1,0,4,4,1,8,0,0
+2016-04-09,Championship,2015-16,Reading,Birmingham,0,2,7,0,2,7,0,0
+2016-04-09,Championship,2015-16,QPR,Charlton,2,1,6,4,3,10,1,1
+2016-04-09,Championship,2015-16,Milton Keynes Dons,Rotherham,0,4,9,1,4,10,0,1
+2016-04-09,Championship,2015-16,Huddersfield,Hull,2,2,5,1,4,6,1,1
+2016-04-09,Championship,2015-16,Fulham,Cardiff,2,1,7,6,3,13,1,1
+2016-04-09,Championship,2015-16,Derby,Bolton,4,1,7,6,5,13,1,1
+2016-04-09,Championship,2015-16,Burnley,Leeds,1,0,2,11,1,13,0,0
+2016-04-09,Championship,2015-16,Bristol City,Sheffield Weds,4,1,2,4,5,6,1,1
+2016-04-09,Championship,2015-16,Ipswich,Brentford,1,3,8,2,4,10,1,1
+2016-04-11,Championship,2015-16,Nott'm Forest,Brighton,1,2,3,6,3,9,1,1
+2016-04-12,Championship,2015-16,Birmingham,Leeds,1,2,9,5,3,14,1,1
+2016-04-12,Championship,2015-16,Middlesbrough,Reading,2,1,13,4,3,17,1,1
+2016-04-15,Championship,2015-16,Brighton,Fulham,5,0,8,3,5,11,0,1
+2016-04-15,Championship,2015-16,Hull,Wolves,2,1,7,7,3,14,1,1
+2016-04-16,Championship,2015-16,Sheffield Weds,Ipswich,1,1,7,4,2,11,1,0
+2016-04-16,Championship,2015-16,Preston,Milton Keynes Dons,1,1,5,9,2,14,1,0
+2016-04-16,Championship,2015-16,Leeds,Reading,3,2,6,6,5,12,1,1
+2016-04-16,Championship,2015-16,Charlton,Derby,0,1,6,11,1,17,0,0
+2016-04-16,Championship,2015-16,Rotherham,Nott'm Forest,0,0,5,4,0,9,0,0
+2016-04-16,Championship,2015-16,Brentford,Bristol City,1,1,12,4,2,16,1,0
+2016-04-16,Championship,2015-16,Bolton,Middlesbrough,1,2,1,11,3,12,1,1
+2016-04-16,Championship,2015-16,Blackburn,Huddersfield,0,2,3,4,2,7,0,0
+2016-04-16,Championship,2015-16,Birmingham,Burnley,1,2,6,3,3,9,1,1
+2016-04-16,Championship,2015-16,Cardiff,QPR,0,0,6,4,0,10,0,0
+2016-04-19,Championship,2015-16,Sheffield Weds,Milton Keynes Dons,0,0,10,2,0,12,0,0
+2016-04-19,Championship,2015-16,Rotherham,Huddersfield,1,1,7,2,2,9,1,0
+2016-04-19,Championship,2015-16,Reading,Hull,1,2,7,7,3,14,1,1
+2016-04-19,Championship,2015-16,Nott'm Forest,Blackburn,1,1,5,2,2,7,1,0
+2016-04-19,Championship,2015-16,Leeds,Wolves,2,1,5,2,3,7,1,1
+2016-04-19,Championship,2015-16,Ipswich,Fulham,1,1,4,7,2,11,1,0
+2016-04-19,Championship,2015-16,Bristol City,Derby,2,3,4,6,5,10,1,1
+2016-04-19,Championship,2015-16,Brighton,QPR,4,0,4,3,4,7,0,1
+2016-04-19,Championship,2015-16,Brentford,Cardiff,2,1,2,5,3,7,1,1
+2016-04-19,Championship,2015-16,Bolton,Charlton,0,0,7,4,0,11,0,0
+2016-04-19,Championship,2015-16,Birmingham,Preston,2,2,4,4,4,8,1,1
+2016-04-19,Championship,2015-16,Burnley,Middlesbrough,1,1,7,3,2,10,1,0
+2016-04-22,Championship,2015-16,Preston,Burnley,0,1,3,1,1,4,0,0
+2016-04-23,Championship,2015-16,Middlesbrough,Ipswich,0,0,8,0,0,8,0,0
+2016-04-23,Championship,2015-16,QPR,Reading,1,1,7,7,2,14,1,0
+2016-04-23,Championship,2015-16,Wolves,Rotherham,0,0,6,4,0,10,0,0
+2016-04-23,Championship,2015-16,Milton Keynes Dons,Brentford,1,4,7,7,5,14,1,1
+2016-04-23,Championship,2015-16,Hull,Leeds,2,2,10,3,4,13,1,1
+2016-04-23,Championship,2015-16,Cardiff,Bolton,2,1,7,5,3,12,1,1
+2016-04-23,Championship,2015-16,Fulham,Nott'm Forest,1,3,5,2,4,7,1,1
+2016-04-23,Championship,2015-16,Derby,Sheffield Weds,1,1,9,7,2,16,1,0
+2016-04-23,Championship,2015-16,Charlton,Brighton,1,3,6,6,4,12,1,1
+2016-04-23,Championship,2015-16,Blackburn,Bristol City,2,2,4,8,4,12,1,1
+2016-04-23,Championship,2015-16,Huddersfield,Birmingham,1,1,15,2,2,17,1,0
+2016-04-26,Championship,2015-16,Hull,Brentford,2,0,10,3,2,13,0,0
+2016-04-29,Championship,2015-16,Birmingham,Middlesbrough,2,2,4,2,4,6,1,1
+2016-04-30,Championship,2015-16,Sheffield Weds,Cardiff,3,0,6,3,3,9,0,1
+2016-04-30,Championship,2015-16,Reading,Preston,1,2,6,6,3,12,1,1
+2016-04-30,Championship,2015-16,Nott'm Forest,Wolves,1,1,6,7,2,13,1,0
+2016-04-30,Championship,2015-16,Leeds,Charlton,1,2,9,4,3,13,1,1
+2016-04-30,Championship,2015-16,Rotherham,Blackburn,0,1,3,5,1,8,0,0
+2016-04-30,Championship,2015-16,Bristol City,Huddersfield,4,0,1,6,4,7,0,1
+2016-04-30,Championship,2015-16,Brentford,Fulham,3,0,6,3,3,9,0,1
+2016-04-30,Championship,2015-16,Bolton,Hull,1,0,3,11,1,14,0,0
+2016-04-30,Championship,2015-16,Ipswich,Milton Keynes Dons,3,2,6,2,5,8,1,1
+2016-05-02,Championship,2015-16,Brighton,Derby,1,1,11,7,2,18,1,0
+2016-05-02,Championship,2015-16,Burnley,QPR,1,0,3,5,1,8,0,0
+2016-05-07,Championship,2015-16,Preston,Leeds,1,1,7,6,2,13,1,0
+2016-05-07,Championship,2015-16,Milton Keynes Dons,Nott'm Forest,1,2,7,5,3,12,1,1
+2016-05-07,Championship,2015-16,Middlesbrough,Brighton,1,1,4,4,2,8,1,0
+2016-05-07,Championship,2015-16,Hull,Rotherham,5,1,11,3,6,14,1,1
+2016-05-07,Championship,2015-16,Huddersfield,Brentford,1,5,2,2,6,4,1,1
+2016-05-07,Championship,2015-16,Charlton,Burnley,0,3,7,4,3,11,0,1
+2016-05-07,Championship,2015-16,Derby,Ipswich,0,1,7,4,1,11,0,0
+2016-05-07,Championship,2015-16,Cardiff,Birmingham,1,1,5,5,2,10,1,0
+2016-05-07,Championship,2015-16,Blackburn,Reading,3,1,8,1,4,9,1,1
+2016-05-07,Championship,2015-16,QPR,Bristol City,1,0,7,11,1,18,0,0
+2016-05-07,Championship,2015-16,Fulham,Bolton,1,0,12,4,1,16,0,0
+2016-05-07,Championship,2015-16,Wolves,Sheffield Weds,2,1,4,8,3,12,1,1

@@ -1,0 +1,343 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2024-08-09,Super Lig,2024-25,Galatasaray,Hatayspor,2,1,12,2,3,14,1,1
+2024-08-10,Super Lig,2024-25,Kasimpasa,Konyaspor,2,3,2,7,5,9,1,1
+2024-08-10,Super Lig,2024-25,Antalyaspor,Goztep,0,0,4,6,0,10,0,0
+2024-08-10,Super Lig,2024-25,Fenerbahce,Ad. Demirspor,1,0,9,4,1,13,0,0
+2024-08-11,Super Lig,2024-25,Sivasspor,Trabzonspor,0,0,5,7,0,12,0,0
+2024-08-11,Super Lig,2024-25,Alanyaspor,Eyupspor,1,1,6,1,2,7,1,0
+2024-08-11,Super Lig,2024-25,Samsunspor,Besiktas,0,2,6,2,2,8,0,0
+2024-08-12,Super Lig,2024-25,Bodrumspor,Gaziantep,0,1,4,1,1,5,0,0
+2024-08-12,Super Lig,2024-25,Rizespor,Buyuksehyr,1,1,12,1,2,13,1,0
+2024-08-16,Super Lig,2024-25,Konyaspor,Galatasaray,1,2,5,8,3,13,1,1
+2024-08-17,Super Lig,2024-25,Kayserispor,Sivasspor,1,2,5,4,3,9,1,1
+2024-08-17,Super Lig,2024-25,Ad. Demirspor,Rizespor,1,2,1,6,3,7,1,1
+2024-08-17,Super Lig,2024-25,Goztep,Fenerbahce,2,2,5,5,4,10,1,1
+2024-08-18,Super Lig,2024-25,Buyuksehyr,Alanyaspor,4,2,4,4,6,8,1,1
+2024-08-18,Super Lig,2024-25,Besiktas,Antalyaspor,4,2,3,0,6,3,1,1
+2024-08-18,Super Lig,2024-25,Gaziantep,Samsunspor,0,1,6,3,1,9,0,0
+2024-08-19,Super Lig,2024-25,Eyupspor,Bodrumspor,4,1,3,4,5,7,1,1
+2024-08-19,Super Lig,2024-25,Hatayspor,Kasimpasa,1,1,3,7,2,10,1,0
+2024-08-23,Super Lig,2024-25,Alanyaspor,Goztep,1,1,8,2,2,10,1,0
+2024-08-24,Super Lig,2024-25,Bodrumspor,Konyaspor,3,1,5,5,4,10,1,1
+2024-08-24,Super Lig,2024-25,Sivasspor,Eyupspor,0,1,4,4,1,8,0,0
+2024-08-25,Super Lig,2024-25,Kasimpasa,Ad. Demirspor,2,2,8,4,4,12,1,1
+2024-08-25,Super Lig,2024-25,Antalyaspor,Hatayspor,3,2,10,2,5,12,1,1
+2024-08-25,Super Lig,2024-25,Rizespor,Fenerbahce,0,5,1,6,5,7,0,1
+2024-08-30,Super Lig,2024-25,Fenerbahce,Alanyaspor,3,0,2,1,3,3,0,1
+2024-08-31,Super Lig,2024-25,Goztep,Bodrumspor,2,0,6,2,2,8,0,0
+2024-08-31,Super Lig,2024-25,Konyaspor,Kayserispor,0,0,6,5,0,11,0,0
+2024-08-31,Super Lig,2024-25,Rizespor,Kasimpasa,0,1,10,3,1,13,0,0
+2024-08-31,Super Lig,2024-25,Ad. Demirspor,Galatasaray,1,5,2,2,6,4,1,1
+2024-09-01,Super Lig,2024-25,Hatayspor,Samsunspor,0,3,2,4,3,6,0,1
+2024-09-01,Super Lig,2024-25,Besiktas,Sivasspor,2,0,5,5,2,10,0,0
+2024-09-01,Super Lig,2024-25,Eyupspor,Trabzonspor,0,0,3,4,0,7,0,0
+2024-09-01,Super Lig,2024-25,Buyuksehyr,Antalyaspor,5,2,3,5,7,8,1,1
+2024-09-14,Super Lig,2024-25,Galatasaray,Rizespor,5,0,6,1,5,7,0,1
+2024-09-14,Super Lig,2024-25,Samsunspor,Konyaspor,0,1,12,1,1,13,0,0
+2024-09-14,Super Lig,2024-25,Sivasspor,Gaziantep,3,2,3,5,5,8,1,1
+2024-09-14,Super Lig,2024-25,Bodrumspor,Buyuksehyr,0,1,5,7,1,12,0,0
+2024-09-15,Super Lig,2024-25,Kayserispor,Eyupspor,2,2,6,8,4,14,1,1
+2024-09-15,Super Lig,2024-25,Alanyaspor,Hatayspor,0,0,5,4,0,9,0,0
+2024-09-15,Super Lig,2024-25,Kasimpasa,Fenerbahce,0,2,6,5,2,11,0,0
+2024-09-15,Super Lig,2024-25,Trabzonspor,Besiktas,1,1,1,13,2,14,1,0
+2024-09-16,Super Lig,2024-25,Antalyaspor,Ad. Demirspor,2,1,8,4,3,12,1,1
+2024-09-17,Super Lig,2024-25,Galatasaray,Gaziantep,3,1,11,4,4,15,1,1
+2024-09-18,Super Lig,2024-25,Samsunspor,Buyuksehyr,2,0,4,2,2,6,0,0
+2024-09-19,Super Lig,2024-25,Trabzonspor,Kayserispor,2,2,8,3,4,11,1,1
+2024-09-20,Super Lig,2024-25,Hatayspor,Bodrumspor,0,1,9,7,1,16,0,0
+2024-09-21,Super Lig,2024-25,Konyaspor,Sivasspor,0,0,7,4,0,11,0,0
+2024-09-21,Super Lig,2024-25,Fenerbahce,Galatasaray,1,3,10,2,4,12,1,1
+2024-09-22,Super Lig,2024-25,Ad. Demirspor,Alanyaspor,0,2,6,6,2,12,0,0
+2024-09-22,Super Lig,2024-25,Besiktas,Eyupspor,2,1,8,4,3,12,1,1
+2024-09-22,Super Lig,2024-25,Kasimpasa,Antalyaspor,0,0,3,1,0,4,0,0
+2024-09-22,Super Lig,2024-25,Rizespor,Samsunspor,0,1,3,0,1,3,0,0
+2024-09-23,Super Lig,2024-25,Gaziantep,Trabzonspor,0,0,9,2,0,11,0,0
+2024-09-23,Super Lig,2024-25,Goztep,Kayserispor,3,0,6,4,3,10,0,1
+2024-09-27,Super Lig,2024-25,Sivasspor,Buyuksehyr,1,2,2,3,3,5,1,1
+2024-09-28,Super Lig,2024-25,Samsunspor,Goztep,4,3,6,3,7,9,1,1
+2024-09-28,Super Lig,2024-25,Alanyaspor,Rizespor,1,0,7,2,1,9,0,0
+2024-09-28,Super Lig,2024-25,Galatasaray,Kasimpasa,3,3,2,4,6,6,1,1
+2024-09-29,Super Lig,2024-25,Antalyaspor,Fenerbahce,0,2,2,5,2,7,0,0
+2024-09-29,Super Lig,2024-25,Eyupspor,Gaziantep,3,2,5,5,5,10,1,1
+2024-09-29,Super Lig,2024-25,Trabzonspor,Konyaspor,3,2,4,2,5,6,1,1
+2024-09-29,Super Lig,2024-25,Bodrumspor,Ad. Demirspor,3,1,7,6,4,13,1,1
+2024-09-30,Super Lig,2024-25,Kayserispor,Besiktas,0,3,7,3,3,10,0,1
+2024-10-04,Super Lig,2024-25,Rizespor,Antalyaspor,2,1,3,3,3,6,1,1
+2024-10-05,Super Lig,2024-25,Kasimpasa,Bodrumspor,0,0,5,0,0,5,0,0
+2024-10-05,Super Lig,2024-25,Goztep,Sivasspor,3,2,4,4,5,8,1,1
+2024-10-05,Super Lig,2024-25,Buyuksehyr,Kayserispor,1,1,3,3,2,6,1,0
+2024-10-05,Super Lig,2024-25,Hatayspor,Trabzonspor,1,1,4,7,2,11,1,0
+2024-10-06,Super Lig,2024-25,Konyaspor,Eyupspor,2,1,5,2,3,7,1,1
+2024-10-06,Super Lig,2024-25,Ad. Demirspor,Samsunspor,1,3,5,5,4,10,1,1
+2024-10-06,Super Lig,2024-25,Galatasaray,Alanyaspor,1,0,10,3,1,13,0,0
+2024-10-06,Super Lig,2024-25,Gaziantep,Besiktas,1,1,4,4,2,8,1,0
+2024-10-19,Super Lig,2024-25,Eyupspor,Goztep,1,0,4,3,1,7,0,0
+2024-10-19,Super Lig,2024-25,Antalyaspor,Galatasaray,0,3,5,7,3,12,0,1
+2024-10-19,Super Lig,2024-25,Kayserispor,Gaziantep,2,2,13,0,4,13,1,1
+2024-10-19,Super Lig,2024-25,Trabzonspor,Buyuksehyr,1,0,8,1,1,9,0,0
+2024-10-20,Super Lig,2024-25,Sivasspor,Hatayspor,3,2,8,7,5,15,1,1
+2024-10-20,Super Lig,2024-25,Besiktas,Konyaspor,2,0,9,5,2,14,0,0
+2024-10-20,Super Lig,2024-25,Alanyaspor,Kasimpasa,1,2,7,2,3,9,1,1
+2024-10-20,Super Lig,2024-25,Samsunspor,Fenerbahce,2,2,4,2,4,6,1,1
+2024-10-21,Super Lig,2024-25,Bodrumspor,Rizespor,0,1,5,0,1,5,0,0
+2024-10-25,Super Lig,2024-25,Ad. Demirspor,Sivasspor,2,4,4,6,6,10,1,1
+2024-10-26,Super Lig,2024-25,Kasimpasa,Samsunspor,1,4,0,5,5,5,1,1
+2024-10-26,Super Lig,2024-25,Goztep,Trabzonspor,2,1,3,4,3,7,1,1
+2024-10-26,Super Lig,2024-25,Hatayspor,Kayserispor,0,1,6,6,1,12,0,0
+2024-10-27,Super Lig,2024-25,Gaziantep,Konyaspor,3,1,8,3,4,11,1,1
+2024-10-27,Super Lig,2024-25,Alanyaspor,Antalyaspor,1,2,7,3,3,10,1,1
+2024-10-27,Super Lig,2024-25,Fenerbahce,Bodrumspor,2,0,9,1,2,10,0,0
+2024-10-28,Super Lig,2024-25,Buyuksehyr,Eyupspor,1,1,8,5,2,13,1,0
+2024-10-28,Super Lig,2024-25,Galatasaray,Besiktas,2,1,8,5,3,13,1,1
+2024-11-01,Super Lig,2024-25,Gaziantep,Goztep,2,1,1,3,3,4,1,1
+2024-11-02,Super Lig,2024-25,Kayserispor,Ad. Demirspor,0,0,7,7,0,14,0,0
+2024-11-02,Super Lig,2024-25,Sivasspor,Rizespor,2,1,6,4,3,10,1,1
+2024-11-02,Super Lig,2024-25,Besiktas,Kasimpasa,1,3,7,5,4,12,1,1
+2024-11-03,Super Lig,2024-25,Trabzonspor,Fenerbahce,2,3,9,10,5,19,1,1
+2024-11-03,Super Lig,2024-25,Eyupspor,Hatayspor,2,0,3,5,2,8,0,0
+2024-11-03,Super Lig,2024-25,Konyaspor,Buyuksehyr,3,2,2,3,5,5,1,1
+2024-11-03,Super Lig,2024-25,Bodrumspor,Alanyaspor,0,0,2,5,0,7,0,0
+2024-11-04,Super Lig,2024-25,Samsunspor,Antalyaspor,2,0,5,2,2,7,0,0
+2024-11-08,Super Lig,2024-25,Kasimpasa,Kayserispor,1,2,7,4,3,11,1,1
+2024-11-09,Super Lig,2024-25,Ad. Demirspor,Eyupspor,0,1,9,2,1,11,0,0
+2024-11-09,Super Lig,2024-25,Rizespor,Trabzonspor,3,1,1,5,4,6,1,1
+2024-11-09,Super Lig,2024-25,Antalyaspor,Bodrumspor,3,2,4,5,5,9,1,1
+2024-11-09,Super Lig,2024-25,Hatayspor,Gaziantep,3,1,5,6,4,11,1,1
+2024-11-10,Super Lig,2024-25,Fenerbahce,Sivasspor,4,0,8,5,4,13,0,1
+2024-11-10,Super Lig,2024-25,Buyuksehyr,Besiktas,0,0,6,2,0,8,0,0
+2024-11-10,Super Lig,2024-25,Goztep,Konyaspor,2,0,5,6,2,11,0,0
+2024-11-10,Super Lig,2024-25,Galatasaray,Samsunspor,3,2,7,3,5,10,1,1
+2024-11-23,Super Lig,2024-25,Eyupspor,Rizespor,1,2,5,7,3,12,1,1
+2024-11-23,Super Lig,2024-25,Gaziantep,Buyuksehyr,3,0,2,6,3,8,0,1
+2024-11-23,Super Lig,2024-25,Kayserispor,Fenerbahce,2,6,10,5,8,15,1,1
+2024-11-23,Super Lig,2024-25,Bodrumspor,Galatasaray,0,1,7,9,1,16,0,0
+2024-11-24,Super Lig,2024-25,Besiktas,Goztep,2,4,4,4,6,8,1,1
+2024-11-24,Super Lig,2024-25,Sivasspor,Kasimpasa,0,0,5,4,0,9,0,0
+2024-11-24,Super Lig,2024-25,Konyaspor,Hatayspor,1,1,2,8,2,10,1,0
+2024-11-24,Super Lig,2024-25,Samsunspor,Alanyaspor,1,1,1,9,2,10,1,0
+2024-11-25,Super Lig,2024-25,Trabzonspor,Ad. Demirspor,5,0,8,1,5,9,0,1
+2024-11-29,Super Lig,2024-25,Antalyaspor,Sivasspor,2,1,9,5,3,14,1,1
+2024-11-30,Super Lig,2024-25,Samsunspor,Bodrumspor,4,0,3,4,4,7,0,1
+2024-11-30,Super Lig,2024-25,Ad. Demirspor,Konyaspor,0,1,1,9,1,10,0,0
+2024-11-30,Super Lig,2024-25,Alanyaspor,Trabzonspor,2,1,5,10,3,15,1,1
+2024-11-30,Super Lig,2024-25,Buyuksehyr,Goztep,4,1,5,5,5,10,1,1
+2024-12-01,Super Lig,2024-25,Rizespor,Kayserispor,3,0,3,8,3,11,0,1
+2024-12-01,Super Lig,2024-25,Galatasaray,Eyupspor,2,2,11,1,4,12,1,1
+2024-12-02,Super Lig,2024-25,Fenerbahce,Gaziantep,3,1,17,3,4,20,1,1
+2024-12-02,Super Lig,2024-25,Hatayspor,Besiktas,1,1,6,9,2,15,1,0
+2024-12-06,Super Lig,2024-25,Trabzonspor,Kasimpasa,2,2,8,1,4,9,1,1
+2024-12-07,Super Lig,2024-25,Konyaspor,Antalyaspor,1,1,5,3,2,8,1,0
+2024-12-07,Super Lig,2024-25,Goztep,Ad. Demirspor,3,1,7,6,4,13,1,1
+2024-12-07,Super Lig,2024-25,Besiktas,Fenerbahce,1,0,1,3,1,4,0,0
+2024-12-08,Super Lig,2024-25,Eyupspor,Samsunspor,3,0,5,3,3,8,0,1
+2024-12-08,Super Lig,2024-25,Kayserispor,Alanyaspor,2,0,5,10,2,15,0,0
+2024-12-08,Super Lig,2024-25,Sivasspor,Galatasaray,2,3,3,7,5,10,1,1
+2024-12-08,Super Lig,2024-25,Buyuksehyr,Hatayspor,3,0,7,5,3,12,0,1
+2024-12-09,Super Lig,2024-25,Gaziantep,Rizespor,1,0,3,5,1,8,0,0
+2024-12-13,Super Lig,2024-25,Kasimpasa,Eyupspor,2,0,7,6,2,13,0,0
+2024-12-13,Super Lig,2024-25,Bodrumspor,Sivasspor,2,0,4,2,2,6,0,0
+2024-12-14,Super Lig,2024-25,Rizespor,Konyaspor,1,1,8,4,2,12,1,0
+2024-12-14,Super Lig,2024-25,Alanyaspor,Gaziantep,3,0,6,1,3,7,0,1
+2024-12-15,Super Lig,2024-25,Hatayspor,Goztep,1,1,7,6,2,13,1,0
+2024-12-15,Super Lig,2024-25,Antalyaspor,Kayserispor,2,0,4,9,2,13,0,0
+2024-12-15,Super Lig,2024-25,Fenerbahce,Buyuksehyr,3,1,14,0,4,14,1,1
+2024-12-16,Super Lig,2024-25,Ad. Demirspor,Besiktas,2,1,2,14,3,16,1,1
+2024-12-16,Super Lig,2024-25,Galatasaray,Trabzonspor,4,3,10,6,7,16,1,1
+2024-12-20,Super Lig,2024-25,Eyupspor,Fenerbahce,1,1,3,9,2,12,1,0
+2024-12-21,Super Lig,2024-25,Besiktas,Alanyaspor,1,1,6,7,2,13,1,0
+2024-12-21,Super Lig,2024-25,Sivasspor,Samsunspor,0,0,2,10,0,12,0,0
+2024-12-22,Super Lig,2024-25,Gaziantep,Antalyaspor,2,0,4,3,2,7,0,0
+2024-12-22,Super Lig,2024-25,Goztep,Rizespor,3,0,3,5,3,8,0,1
+2024-12-22,Super Lig,2024-25,Kayserispor,Galatasaray,1,5,7,7,6,14,1,1
+2024-12-22,Super Lig,2024-25,Trabzonspor,Bodrumspor,1,0,8,4,1,12,0,0
+2024-12-23,Super Lig,2024-25,Buyuksehyr,Kasimpasa,2,2,4,4,4,8,1,1
+2024-12-23,Super Lig,2024-25,Hatayspor,Ad. Demirspor,1,3,4,6,4,10,1,1
+2025-01-03,Super Lig,2024-25,Rizespor,Besiktas,1,1,6,2,2,8,1,0
+2025-01-03,Super Lig,2024-25,Alanyaspor,Konyaspor,2,1,7,2,3,9,1,1
+2025-01-04,Super Lig,2024-25,Samsunspor,Trabzonspor,2,1,2,8,3,10,1,1
+2025-01-04,Super Lig,2024-25,Galatasaray,Goztep,2,1,9,4,3,13,1,1
+2025-01-04,Super Lig,2024-25,Ad. Demirspor,Buyuksehyr,0,1,3,3,1,6,0,0
+2025-01-04,Super Lig,2024-25,Antalyaspor,Eyupspor,1,4,11,4,5,15,1,1
+2025-01-05,Super Lig,2024-25,Fenerbahce,Hatayspor,2,1,7,1,3,8,1,1
+2025-01-05,Super Lig,2024-25,Kasimpasa,Gaziantep,2,2,7,2,4,9,1,1
+2025-01-05,Super Lig,2024-25,Bodrumspor,Kayserispor,1,1,6,6,2,12,1,0
+2025-01-11,Super Lig,2024-25,Hatayspor,Rizespor,1,2,3,4,3,7,1,1
+2025-01-11,Super Lig,2024-25,Besiktas,Bodrumspor,2,1,4,12,3,16,1,1
+2025-01-11,Super Lig,2024-25,Kayserispor,Samsunspor,0,1,5,3,1,8,0,0
+2025-01-12,Super Lig,2024-25,Trabzonspor,Antalyaspor,5,0,7,5,5,12,0,1
+2025-01-12,Super Lig,2024-25,Buyuksehyr,Galatasaray,1,2,7,5,3,12,1,1
+2025-01-12,Super Lig,2024-25,Sivasspor,Alanyaspor,1,1,2,6,2,8,1,0
+2025-01-12,Super Lig,2024-25,Gaziantep,Ad. Demirspor,1,0,2,11,1,13,0,0
+2025-01-13,Super Lig,2024-25,Konyaspor,Fenerbahce,2,3,2,6,5,8,1,1
+2025-01-13,Super Lig,2024-25,Goztep,Kasimpasa,5,0,8,3,5,11,0,1
+2025-01-17,Super Lig,2024-25,Hatayspor,Galatasaray,1,1,5,9,2,14,1,0
+2025-01-18,Super Lig,2024-25,Buyuksehyr,Rizespor,2,0,2,8,2,10,0,0
+2025-01-18,Super Lig,2024-25,Gaziantep,Bodrumspor,0,0,5,7,0,12,0,0
+2025-01-18,Super Lig,2024-25,Besiktas,Samsunspor,0,0,5,4,0,9,0,0
+2025-01-19,Super Lig,2024-25,Goztep,Antalyaspor,1,0,5,4,1,9,0,0
+2025-01-19,Super Lig,2024-25,Konyaspor,Kasimpasa,3,3,12,7,6,19,1,1
+2025-01-19,Super Lig,2024-25,Ad. Demirspor,Fenerbahce,0,4,2,11,4,13,0,1
+2025-01-19,Super Lig,2024-25,Eyupspor,Alanyaspor,3,0,11,5,3,16,0,1
+2025-01-20,Super Lig,2024-25,Trabzonspor,Sivasspor,4,0,7,3,4,10,0,1
+2025-01-24,Super Lig,2024-25,Samsunspor,Gaziantep,2,1,7,2,3,9,1,1
+2025-01-25,Super Lig,2024-25,Sivasspor,Kayserispor,5,2,6,6,7,12,1,1
+2025-01-25,Super Lig,2024-25,Alanyaspor,Buyuksehyr,5,4,4,4,9,8,1,1
+2025-01-25,Super Lig,2024-25,Galatasaray,Konyaspor,1,0,6,2,1,8,0,0
+2025-01-26,Super Lig,2024-25,Rizespor,Ad. Demirspor,3,2,8,2,5,10,1,1
+2025-01-26,Super Lig,2024-25,Antalyaspor,Besiktas,1,1,1,5,2,6,1,0
+2025-01-26,Super Lig,2024-25,Bodrumspor,Eyupspor,0,1,7,2,1,9,0,0
+2025-01-26,Super Lig,2024-25,Fenerbahce,Goztep,3,2,4,4,5,8,1,1
+2025-01-27,Super Lig,2024-25,Kasimpasa,Hatayspor,5,4,11,5,9,16,1,1
+2025-01-31,Super Lig,2024-25,Eyupspor,Sivasspor,1,0,4,2,1,6,0,0
+2025-01-31,Super Lig,2024-25,Konyaspor,Bodrumspor,3,1,5,7,4,12,1,1
+2025-02-01,Super Lig,2024-25,Buyuksehyr,Samsunspor,4,0,4,6,4,10,0,1
+2025-02-01,Super Lig,2024-25,Hatayspor,Antalyaspor,2,3,5,2,5,7,1,1
+2025-02-01,Super Lig,2024-25,Kayserispor,Trabzonspor,0,0,4,4,0,8,0,0
+2025-02-02,Super Lig,2024-25,Ad. Demirspor,Kasimpasa,3,5,5,4,8,9,1,1
+2025-02-02,Super Lig,2024-25,Goztep,Alanyaspor,0,1,7,3,1,10,0,0
+2025-02-02,Super Lig,2024-25,Fenerbahce,Rizespor,3,2,10,1,5,11,1,1
+2025-02-03,Super Lig,2024-25,Gaziantep,Galatasaray,0,1,7,8,1,15,0,0
+2025-02-07,Super Lig,2024-25,Samsunspor,Hatayspor,2,0,4,7,2,11,0,0
+2025-02-08,Super Lig,2024-25,Kayserispor,Konyaspor,3,2,4,7,5,11,1,1
+2025-02-08,Super Lig,2024-25,Sivasspor,Besiktas,0,2,5,5,2,10,0,0
+2025-02-09,Super Lig,2024-25,Alanyaspor,Fenerbahce,0,2,2,3,2,5,0,0
+2025-02-09,Super Lig,2024-25,Galatasaray,Ad. Demirspor,3,0,0,0,3,0,0,1
+2025-02-09,Super Lig,2024-25,Kasimpasa,Rizespor,3,2,4,11,5,15,1,1
+2025-02-09,Super Lig,2024-25,Antalyaspor,Buyuksehyr,0,0,3,2,0,5,0,0
+2025-02-10,Super Lig,2024-25,Bodrumspor,Goztep,0,0,4,5,0,9,0,0
+2025-02-10,Super Lig,2024-25,Trabzonspor,Eyupspor,1,0,6,4,1,10,0,0
+2025-02-14,Super Lig,2024-25,Ad. Demirspor,Antalyaspor,1,1,0,9,2,9,1,0
+2025-02-15,Super Lig,2024-25,Buyuksehyr,Bodrumspor,0,1,1,1,1,2,0,0
+2025-02-15,Super Lig,2024-25,Gaziantep,Sivasspor,2,1,6,2,3,8,1,1
+2025-02-15,Super Lig,2024-25,Besiktas,Trabzonspor,2,1,8,1,3,9,1,1
+2025-02-16,Super Lig,2024-25,Fenerbahce,Kasimpasa,3,1,1,3,4,4,1,1
+2025-02-16,Super Lig,2024-25,Konyaspor,Samsunspor,0,1,7,5,1,12,0,0
+2025-02-16,Super Lig,2024-25,Hatayspor,Alanyaspor,1,0,3,6,1,9,0,0
+2025-02-16,Super Lig,2024-25,Eyupspor,Kayserispor,1,1,4,6,2,10,1,0
+2025-02-17,Super Lig,2024-25,Rizespor,Galatasaray,1,2,3,7,3,10,1,1
+2025-02-21,Super Lig,2024-25,Bodrumspor,Hatayspor,1,0,9,6,1,15,0,0
+2025-02-21,Super Lig,2024-25,Eyupspor,Besiktas,1,3,4,2,4,6,1,1
+2025-02-22,Super Lig,2024-25,Sivasspor,Konyaspor,1,1,4,2,2,6,1,0
+2025-02-22,Super Lig,2024-25,Antalyaspor,Kasimpasa,2,1,4,6,3,10,1,1
+2025-02-22,Super Lig,2024-25,Samsunspor,Rizespor,2,3,1,5,5,6,1,1
+2025-02-23,Super Lig,2024-25,Alanyaspor,Ad. Demirspor,3,2,10,1,5,11,1,1
+2025-02-23,Super Lig,2024-25,Kayserispor,Goztep,1,0,5,3,1,8,0,0
+2025-02-23,Super Lig,2024-25,Trabzonspor,Gaziantep,3,2,1,6,5,7,1,1
+2025-02-24,Super Lig,2024-25,Galatasaray,Fenerbahce,0,0,0,5,0,5,0,0
+2025-03-01,Super Lig,2024-25,Ad. Demirspor,Bodrumspor,0,0,3,6,0,9,0,0
+2025-03-01,Super Lig,2024-25,Besiktas,Kayserispor,2,0,4,5,2,9,0,0
+2025-03-02,Super Lig,2024-25,Rizespor,Alanyaspor,3,1,5,5,4,10,1,1
+2025-03-02,Super Lig,2024-25,Kasimpasa,Galatasaray,3,3,10,3,6,13,1,1
+2025-03-02,Super Lig,2024-25,Fenerbahce,Antalyaspor,3,0,8,5,3,13,0,1
+2025-03-03,Super Lig,2024-25,Goztep,Samsunspor,2,2,1,2,4,3,1,1
+2025-03-03,Super Lig,2024-25,Buyuksehyr,Sivasspor,1,0,6,2,1,8,0,0
+2025-03-03,Super Lig,2024-25,Konyaspor,Trabzonspor,1,0,5,4,1,9,0,0
+2025-03-03,Super Lig,2024-25,Gaziantep,Eyupspor,3,1,4,1,4,5,1,1
+2025-03-07,Super Lig,2024-25,Bodrumspor,Kasimpasa,1,0,3,4,1,7,0,0
+2025-03-08,Super Lig,2024-25,Kayserispor,Buyuksehyr,3,1,4,7,4,11,1,1
+2025-03-08,Super Lig,2024-25,Antalyaspor,Rizespor,2,1,4,1,3,5,1,1
+2025-03-08,Super Lig,2024-25,Trabzonspor,Hatayspor,1,2,7,1,3,8,1,1
+2025-03-09,Super Lig,2024-25,Sivasspor,Goztep,3,1,2,5,4,7,1,1
+2025-03-09,Super Lig,2024-25,Eyupspor,Konyaspor,2,1,5,5,3,10,1,1
+2025-03-09,Super Lig,2024-25,Samsunspor,Ad. Demirspor,3,2,8,2,5,10,1,1
+2025-03-09,Super Lig,2024-25,Alanyaspor,Galatasaray,1,2,3,4,3,7,1,1
+2025-03-10,Super Lig,2024-25,Besiktas,Gaziantep,1,2,5,3,3,8,1,1
+2025-03-14,Super Lig,2024-25,Galatasaray,Antalyaspor,4,0,7,4,4,11,0,1
+2025-03-15,Super Lig,2024-25,Gaziantep,Kayserispor,1,0,3,4,1,7,0,0
+2025-03-15,Super Lig,2024-25,Kasimpasa,Alanyaspor,2,1,2,6,3,8,1,1
+2025-03-15,Super Lig,2024-25,Buyuksehyr,Trabzonspor,0,3,4,2,3,6,0,1
+2025-03-15,Super Lig,2024-25,Konyaspor,Besiktas,1,0,4,12,1,16,0,0
+2025-03-16,Super Lig,2024-25,Hatayspor,Sivasspor,3,2,8,9,5,17,1,1
+2025-03-16,Super Lig,2024-25,Fenerbahce,Samsunspor,0,0,10,2,0,12,0,0
+2025-03-16,Super Lig,2024-25,Rizespor,Bodrumspor,0,2,5,7,2,12,0,0
+2025-03-16,Super Lig,2024-25,Goztep,Eyupspor,1,1,4,4,2,8,1,0
+2025-03-28,Super Lig,2024-25,Konyaspor,Gaziantep,1,0,2,2,1,4,0,0
+2025-03-28,Super Lig,2024-25,Bodrumspor,Fenerbahce,2,4,4,1,6,5,1,1
+2025-03-28,Super Lig,2024-25,Kayserispor,Hatayspor,5,0,8,3,5,11,0,1
+2025-03-28,Super Lig,2024-25,Antalyaspor,Alanyaspor,2,1,4,3,3,7,1,1
+2025-03-29,Super Lig,2024-25,Sivasspor,Ad. Demirspor,5,1,3,6,6,9,1,1
+2025-03-29,Super Lig,2024-25,Samsunspor,Kasimpasa,0,2,2,2,2,4,0,0
+2025-03-29,Super Lig,2024-25,Trabzonspor,Goztep,1,1,7,1,2,8,1,0
+2025-03-29,Super Lig,2024-25,Besiktas,Galatasaray,2,1,9,3,3,12,1,1
+2025-03-31,Super Lig,2024-25,Eyupspor,Buyuksehyr,1,3,4,3,4,7,1,1
+2025-04-04,Super Lig,2024-25,Ad. Demirspor,Kayserispor,0,2,7,7,2,14,0,0
+2025-04-05,Super Lig,2024-25,Buyuksehyr,Konyaspor,1,0,0,5,1,5,0,0
+2025-04-05,Super Lig,2024-25,Antalyaspor,Samsunspor,2,1,3,1,3,4,1,1
+2025-04-05,Super Lig,2024-25,Rizespor,Sivasspor,1,1,9,2,2,11,1,0
+2025-04-06,Super Lig,2024-25,Alanyaspor,Bodrumspor,0,1,3,2,1,5,0,0
+2025-04-06,Super Lig,2024-25,Hatayspor,Eyupspor,0,1,2,5,1,7,0,0
+2025-04-06,Super Lig,2024-25,Fenerbahce,Trabzonspor,4,1,2,3,5,5,1,1
+2025-04-07,Super Lig,2024-25,Goztep,Gaziantep,1,1,6,2,2,8,1,0
+2025-04-07,Super Lig,2024-25,Kasimpasa,Besiktas,1,1,4,5,2,9,1,0
+2025-04-11,Super Lig,2024-25,Samsunspor,Galatasaray,0,2,0,6,2,6,0,0
+2025-04-12,Super Lig,2024-25,Konyaspor,Goztep,1,0,4,6,1,10,0,0
+2025-04-12,Super Lig,2024-25,Besiktas,Buyuksehyr,0,2,3,6,2,9,0,0
+2025-04-12,Super Lig,2024-25,Bodrumspor,Antalyaspor,0,0,3,1,0,4,0,0
+2025-04-13,Super Lig,2024-25,Trabzonspor,Rizespor,2,0,4,5,2,9,0,0
+2025-04-13,Super Lig,2024-25,Sivasspor,Fenerbahce,1,3,5,6,4,11,1,1
+2025-04-13,Super Lig,2024-25,Gaziantep,Hatayspor,2,1,4,10,3,14,1,1
+2025-04-13,Super Lig,2024-25,Kayserispor,Kasimpasa,1,0,3,8,1,11,0,0
+2025-04-14,Super Lig,2024-25,Eyupspor,Ad. Demirspor,6,0,5,7,6,12,0,1
+2025-04-18,Super Lig,2024-25,Galatasaray,Bodrumspor,2,0,16,1,2,17,0,0
+2025-04-18,Super Lig,2024-25,Hatayspor,Konyaspor,2,3,2,3,5,5,1,1
+2025-04-19,Super Lig,2024-25,Kasimpasa,Sivasspor,3,1,12,4,4,16,1,1
+2025-04-19,Super Lig,2024-25,Ad. Demirspor,Trabzonspor,0,1,2,4,1,6,0,0
+2025-04-19,Super Lig,2024-25,Goztep,Besiktas,1,1,5,3,2,8,1,0
+2025-04-20,Super Lig,2024-25,Fenerbahce,Kayserispor,3,3,12,0,6,12,1,1
+2025-04-20,Super Lig,2024-25,Buyuksehyr,Gaziantep,2,1,5,1,3,6,1,1
+2025-04-20,Super Lig,2024-25,Rizespor,Eyupspor,1,0,9,6,1,15,0,0
+2025-04-21,Super Lig,2024-25,Alanyaspor,Samsunspor,1,0,5,1,1,6,0,0
+2025-04-25,Super Lig,2024-25,Besiktas,Hatayspor,5,1,4,4,6,8,1,1
+2025-04-26,Super Lig,2024-25,Sivasspor,Antalyaspor,2,0,6,4,2,10,0,0
+2025-04-26,Super Lig,2024-25,Bodrumspor,Samsunspor,1,2,9,6,3,15,1,1
+2025-04-26,Super Lig,2024-25,Gaziantep,Fenerbahce,1,3,1,8,4,9,1,1
+2025-04-27,Super Lig,2024-25,Trabzonspor,Alanyaspor,4,3,2,4,7,6,1,1
+2025-04-27,Super Lig,2024-25,Eyupspor,Galatasaray,1,5,3,5,6,8,1,1
+2025-04-27,Super Lig,2024-25,Konyaspor,Ad. Demirspor,3,1,11,0,4,11,1,1
+2025-04-27,Super Lig,2024-25,Kayserispor,Rizespor,1,0,1,7,1,8,0,0
+2025-04-28,Super Lig,2024-25,Goztep,Buyuksehyr,4,1,7,4,5,11,1,1
+2025-05-02,Super Lig,2024-25,Antalyaspor,Konyaspor,1,0,4,6,1,10,0,0
+2025-05-03,Super Lig,2024-25,Alanyaspor,Kayserispor,1,1,4,6,2,10,1,0
+2025-05-03,Super Lig,2024-25,Rizespor,Gaziantep,2,0,12,6,2,18,0,0
+2025-05-03,Super Lig,2024-25,Galatasaray,Sivasspor,4,1,3,0,5,3,1,1
+2025-05-03,Super Lig,2024-25,Hatayspor,Buyuksehyr,2,4,4,7,6,11,1,1
+2025-05-04,Super Lig,2024-25,Samsunspor,Eyupspor,3,0,5,3,3,8,0,1
+2025-05-04,Super Lig,2024-25,Ad. Demirspor,Goztep,1,2,3,4,3,7,1,1
+2025-05-04,Super Lig,2024-25,Fenerbahce,Besiktas,0,1,8,5,1,13,0,0
+2025-05-05,Super Lig,2024-25,Kasimpasa,Trabzonspor,1,1,12,1,2,13,1,0
+2025-05-09,Super Lig,2024-25,Buyuksehyr,Fenerbahce,1,4,5,5,5,10,1,1
+2025-05-09,Super Lig,2024-25,Gaziantep,Alanyaspor,0,1,2,0,1,2,0,0
+2025-05-10,Super Lig,2024-25,Trabzonspor,Galatasaray,0,2,1,9,2,10,0,0
+2025-05-10,Super Lig,2024-25,Eyupspor,Kasimpasa,0,3,2,2,3,4,0,1
+2025-05-10,Super Lig,2024-25,Konyaspor,Rizespor,2,1,5,5,3,10,1,1
+2025-05-11,Super Lig,2024-25,Sivasspor,Bodrumspor,0,0,9,5,0,14,0,0
+2025-05-11,Super Lig,2024-25,Besiktas,Ad. Demirspor,4,1,13,4,5,17,1,1
+2025-05-11,Super Lig,2024-25,Goztep,Hatayspor,1,1,9,4,2,13,1,0
+2025-05-12,Super Lig,2024-25,Kayserispor,Antalyaspor,3,1,6,1,4,7,1,1
+2025-05-17,Super Lig,2024-25,Ad. Demirspor,Hatayspor,0,5,5,6,5,11,0,1
+2025-05-18,Super Lig,2024-25,Kasimpasa,Buyuksehyr,2,3,6,2,5,8,1,1
+2025-05-18,Super Lig,2024-25,Samsunspor,Sivasspor,1,0,5,4,1,9,0,0
+2025-05-18,Super Lig,2024-25,Rizespor,Goztep,6,3,2,2,9,4,1,1
+2025-05-18,Super Lig,2024-25,Galatasaray,Kayserispor,3,0,5,3,3,8,0,1
+2025-05-18,Super Lig,2024-25,Alanyaspor,Besiktas,1,1,4,2,2,6,1,0
+2025-05-18,Super Lig,2024-25,Bodrumspor,Trabzonspor,1,1,5,4,2,9,1,0
+2025-05-18,Super Lig,2024-25,Antalyaspor,Gaziantep,0,0,5,6,0,11,0,0
+2025-05-18,Super Lig,2024-25,Fenerbahce,Eyupspor,2,1,7,2,3,9,1,1
+2025-05-24,Super Lig,2024-25,Eyupspor,Antalyaspor,2,1,2,6,3,8,1,1
+2025-05-24,Super Lig,2024-25,Gaziantep,Kasimpasa,2,2,3,8,4,11,1,1
+2025-05-24,Super Lig,2024-25,Goztep,Galatasaray,0,2,7,6,2,13,0,0
+2025-05-25,Super Lig,2024-25,Besiktas,Rizespor,1,2,6,7,3,13,1,1
+2025-05-25,Super Lig,2024-25,Buyuksehyr,Ad. Demirspor,2,3,10,0,5,10,1,1
+2025-05-25,Super Lig,2024-25,Kayserispor,Bodrumspor,1,1,8,6,2,14,1,0
+2025-05-25,Super Lig,2024-25,Konyaspor,Alanyaspor,1,2,6,2,3,8,1,1
+2025-05-25,Super Lig,2024-25,Trabzonspor,Samsunspor,2,2,11,2,4,13,1,1
+2025-05-26,Super Lig,2024-25,Hatayspor,Fenerbahce,4,2,2,8,6,10,1,1
+2025-05-30,Super Lig,2024-25,Kasimpasa,Goztep,1,2,4,5,3,9,1,1
+2025-05-30,Super Lig,2024-25,Antalyaspor,Trabzonspor,0,2,2,2,2,4,0,0
+2025-05-30,Super Lig,2024-25,Galatasaray,Buyuksehyr,2,0,4,3,2,7,0,0
+2025-05-31,Super Lig,2024-25,Rizespor,Hatayspor,5,2,7,8,7,15,1,1
+2025-05-31,Super Lig,2024-25,Ad. Demirspor,Gaziantep,2,2,7,2,4,9,1,1
+2025-05-31,Super Lig,2024-25,Fenerbahce,Konyaspor,2,1,6,2,3,8,1,1
+2025-05-31,Super Lig,2024-25,Alanyaspor,Sivasspor,2,0,5,2,2,7,0,0
+2025-06-01,Super Lig,2024-25,Bodrumspor,Besiktas,0,4,7,3,4,10,0,1
+2025-06-01,Super Lig,2024-25,Samsunspor,Kayserispor,2,1,12,4,3,16,1,1

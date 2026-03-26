@@ -1,0 +1,553 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
+2019-08-02,Championship,2019-20,Luton,Middlesbrough,3,3,8,11,6,19,1,1
+2019-08-03,Championship,2019-20,Nott'm Forest,West Brom,1,2,9,5,3,14,1,1
+2019-08-03,Championship,2019-20,Swansea,Hull,2,1,10,4,3,14,1,1
+2019-08-03,Championship,2019-20,Stoke,QPR,1,2,7,0,3,7,1,1
+2019-08-03,Championship,2019-20,Reading,Sheffield Weds,1,3,7,3,4,10,1,1
+2019-08-03,Championship,2019-20,Wigan,Cardiff,3,2,6,6,5,12,1,1
+2019-08-03,Championship,2019-20,Brentford,Birmingham,0,1,6,2,1,8,0,0
+2019-08-03,Championship,2019-20,Blackburn,Charlton,1,2,12,2,3,14,1,1
+2019-08-03,Championship,2019-20,Barnsley,Fulham,1,0,7,5,1,12,0,0
+2019-08-03,Championship,2019-20,Millwall,Preston,1,0,8,7,1,15,0,0
+2019-08-04,Championship,2019-20,Bristol City,Leeds,1,3,4,6,4,10,1,1
+2019-08-05,Championship,2019-20,Huddersfield,Derby,1,2,8,0,3,8,1,1
+2019-08-10,Championship,2019-20,Middlesbrough,Brentford,0,1,7,3,1,10,0,0
+2019-08-10,Championship,2019-20,West Brom,Millwall,1,1,8,1,2,9,1,0
+2019-08-10,Championship,2019-20,Sheffield Weds,Barnsley,2,0,6,4,2,10,0,0
+2019-08-10,Championship,2019-20,QPR,Huddersfield,1,1,7,0,2,7,1,0
+2019-08-10,Championship,2019-20,Preston,Wigan,3,0,8,7,3,15,0,1
+2019-08-10,Championship,2019-20,Hull,Reading,2,1,5,7,3,12,1,1
+2019-08-10,Championship,2019-20,Cardiff,Luton,2,1,3,3,3,6,1,1
+2019-08-10,Championship,2019-20,Derby,Swansea,0,0,8,3,0,11,0,0
+2019-08-10,Championship,2019-20,Charlton,Stoke,3,1,1,4,4,5,1,1
+2019-08-10,Championship,2019-20,Birmingham,Bristol City,1,1,5,8,2,13,1,0
+2019-08-10,Championship,2019-20,Leeds,Nott'm Forest,1,1,10,3,2,13,1,0
+2019-08-10,Championship,2019-20,Fulham,Blackburn,2,0,5,5,2,10,0,0
+2019-08-16,Championship,2019-20,Huddersfield,Fulham,1,2,5,5,3,10,1,1
+2019-08-17,Championship,2019-20,Nott'm Forest,Birmingham,3,0,3,6,3,9,0,1
+2019-08-17,Championship,2019-20,Wigan,Leeds,0,2,6,6,2,12,0,0
+2019-08-17,Championship,2019-20,Swansea,Preston,3,2,4,9,5,13,1,1
+2019-08-17,Championship,2019-20,Millwall,Sheffield Weds,1,0,6,4,1,10,0,0
+2019-08-17,Championship,2019-20,Stoke,Derby,2,2,10,5,4,15,1,1
+2019-08-17,Championship,2019-20,Bristol City,QPR,2,0,3,6,2,9,0,0
+2019-08-17,Championship,2019-20,Brentford,Hull,1,1,5,4,2,9,1,0
+2019-08-17,Championship,2019-20,Luton,West Brom,1,2,4,8,3,12,1,1
+2019-08-17,Championship,2019-20,Blackburn,Middlesbrough,1,0,9,2,1,11,0,0
+2019-08-17,Championship,2019-20,Barnsley,Charlton,2,2,4,2,4,6,1,1
+2019-08-18,Championship,2019-20,Reading,Cardiff,3,0,4,2,3,6,0,1
+2019-08-20,Championship,2019-20,Birmingham,Barnsley,2,0,4,7,2,11,0,0
+2019-08-20,Championship,2019-20,Derby,Bristol City,1,2,9,0,3,9,1,1
+2019-08-20,Championship,2019-20,Hull,Blackburn,0,1,1,8,1,9,0,0
+2019-08-20,Championship,2019-20,Middlesbrough,Wigan,1,0,3,5,1,8,0,0
+2019-08-20,Championship,2019-20,Sheffield Weds,Luton,1,0,3,8,1,11,0,0
+2019-08-21,Championship,2019-20,QPR,Swansea,1,3,7,2,4,9,1,1
+2019-08-21,Championship,2019-20,Preston,Stoke,3,1,0,4,4,4,1,1
+2019-08-21,Championship,2019-20,Leeds,Brentford,1,0,8,4,1,12,0,0
+2019-08-21,Championship,2019-20,West Brom,Reading,1,1,11,5,2,16,1,0
+2019-08-21,Championship,2019-20,Charlton,Nott'm Forest,1,1,7,1,2,8,1,0
+2019-08-21,Championship,2019-20,Cardiff,Huddersfield,2,1,8,2,3,10,1,1
+2019-08-21,Championship,2019-20,Fulham,Millwall,4,0,8,1,4,9,0,1
+2019-08-24,Championship,2019-20,Stoke,Leeds,0,3,4,4,3,8,0,1
+2019-08-24,Championship,2019-20,QPR,Wigan,3,1,3,5,4,8,1,1
+2019-08-24,Championship,2019-20,Preston,Sheffield Weds,2,1,9,7,3,16,1,1
+2019-08-24,Championship,2019-20,Hull,Bristol City,1,3,9,6,4,15,1,1
+2019-08-24,Championship,2019-20,Huddersfield,Reading,0,2,8,3,2,11,0,0
+2019-08-24,Championship,2019-20,Middlesbrough,Millwall,1,1,6,7,2,13,1,0
+2019-08-24,Championship,2019-20,Charlton,Brentford,1,0,2,14,1,16,0,0
+2019-08-24,Championship,2019-20,Blackburn,Cardiff,0,0,9,4,0,13,0,0
+2019-08-24,Championship,2019-20,Barnsley,Luton,1,3,8,8,4,16,1,1
+2019-08-24,Championship,2019-20,Derby,West Brom,1,1,6,6,2,12,1,0
+2019-08-24,Championship,2019-20,Fulham,Nott'm Forest,1,2,13,1,3,14,1,1
+2019-08-25,Championship,2019-20,Swansea,Birmingham,3,0,5,1,3,6,0,1
+2019-08-30,Championship,2019-20,Cardiff,Fulham,1,1,4,3,2,7,1,0
+2019-08-31,Championship,2019-20,Nott'm Forest,Preston,1,1,5,0,2,5,1,0
+2019-08-31,Championship,2019-20,Wigan,Barnsley,0,0,6,7,0,13,0,0
+2019-08-31,Championship,2019-20,West Brom,Blackburn,3,2,7,3,5,10,1,1
+2019-08-31,Championship,2019-20,Sheffield Weds,QPR,1,2,1,6,3,7,1,1
+2019-08-31,Championship,2019-20,Millwall,Hull,1,1,11,5,2,16,1,0
+2019-08-31,Championship,2019-20,Reading,Charlton,0,2,8,4,2,12,0,0
+2019-08-31,Championship,2019-20,Leeds,Swansea,0,1,6,5,1,11,0,0
+2019-08-31,Championship,2019-20,Bristol City,Middlesbrough,2,2,6,10,4,16,1,1
+2019-08-31,Championship,2019-20,Birmingham,Stoke,2,1,1,3,3,4,1,1
+2019-08-31,Championship,2019-20,Luton,Huddersfield,2,1,6,9,3,15,1,1
+2019-08-31,Championship,2019-20,Brentford,Derby,3,0,6,3,3,9,0,1
+2019-09-13,Championship,2019-20,Derby,Cardiff,1,1,6,4,2,10,1,0
+2019-09-14,Championship,2019-20,Stoke,Bristol City,1,2,6,7,3,13,1,1
+2019-09-14,Championship,2019-20,Fulham,West Brom,1,1,13,3,2,16,1,0
+2019-09-14,Championship,2019-20,Blackburn,Millwall,2,0,2,6,2,8,0,0
+2019-09-14,Championship,2019-20,Charlton,Birmingham,0,1,2,4,1,6,0,0
+2019-09-14,Championship,2019-20,Hull,Wigan,2,2,7,5,4,12,1,1
+2019-09-14,Championship,2019-20,Middlesbrough,Reading,1,0,5,10,1,15,0,0
+2019-09-14,Championship,2019-20,Preston,Brentford,2,0,5,11,2,16,0,0
+2019-09-14,Championship,2019-20,QPR,Luton,3,2,4,5,5,9,1,1
+2019-09-14,Championship,2019-20,Swansea,Nott'm Forest,0,1,5,4,1,9,0,0
+2019-09-15,Championship,2019-20,Huddersfield,Sheffield Weds,0,2,3,3,2,6,0,0
+2019-09-15,Championship,2019-20,Barnsley,Leeds,0,2,5,9,2,14,0,0
+2019-09-21,Championship,2019-20,Reading,Blackburn,1,2,3,3,3,6,1,1
+2019-09-21,Championship,2019-20,Brentford,Stoke,0,0,4,5,0,9,0,0
+2019-09-21,Championship,2019-20,Wigan,Charlton,2,0,9,5,2,14,0,0
+2019-09-21,Championship,2019-20,Nott'm Forest,Barnsley,1,0,8,10,1,18,0,0
+2019-09-21,Championship,2019-20,Sheffield Weds,Fulham,1,1,2,5,2,7,1,0
+2019-09-21,Championship,2019-20,Millwall,QPR,1,2,6,3,3,9,1,1
+2019-09-21,Championship,2019-20,Leeds,Derby,1,1,8,3,2,11,1,0
+2019-09-21,Championship,2019-20,Cardiff,Middlesbrough,1,0,3,8,1,11,0,0
+2019-09-21,Championship,2019-20,Bristol City,Swansea,0,0,2,7,0,9,0,0
+2019-09-21,Championship,2019-20,Birmingham,Preston,0,1,7,0,1,7,0,0
+2019-09-21,Championship,2019-20,Luton,Hull,0,3,5,4,3,9,0,1
+2019-09-22,Championship,2019-20,West Brom,Huddersfield,4,2,8,2,6,10,1,1
+2019-09-27,Championship,2019-20,Fulham,Wigan,2,0,7,4,2,11,0,0
+2019-09-27,Championship,2019-20,Stoke,Nott'm Forest,2,3,9,3,5,12,1,1
+2019-09-28,Championship,2019-20,Hull,Cardiff,2,2,5,8,4,13,1,1
+2019-09-28,Championship,2019-20,Preston,Bristol City,3,3,3,5,6,8,1,1
+2019-09-28,Championship,2019-20,Middlesbrough,Sheffield Weds,1,4,5,6,5,11,1,1
+2019-09-28,Championship,2019-20,Swansea,Reading,1,1,3,6,2,9,1,0
+2019-09-28,Championship,2019-20,Derby,Birmingham,3,2,2,9,5,11,1,1
+2019-09-28,Championship,2019-20,Charlton,Leeds,1,0,2,13,1,15,0,0
+2019-09-28,Championship,2019-20,Blackburn,Luton,1,2,8,1,3,9,1,1
+2019-09-28,Championship,2019-20,QPR,West Brom,0,2,4,6,2,10,0,0
+2019-09-28,Championship,2019-20,Huddersfield,Millwall,1,1,7,6,2,13,1,0
+2019-09-29,Championship,2019-20,Barnsley,Brentford,1,3,8,3,4,11,1,1
+2019-10-01,Championship,2019-20,Blackburn,Nott'm Forest,1,1,11,3,2,14,1,0
+2019-10-01,Championship,2019-20,Hull,Sheffield Weds,1,0,8,3,1,11,0,0
+2019-10-01,Championship,2019-20,Leeds,West Brom,1,0,7,6,1,13,0,0
+2019-10-01,Championship,2019-20,Middlesbrough,Preston,1,1,2,3,2,5,1,0
+2019-10-01,Championship,2019-20,Wigan,Birmingham,1,0,7,6,1,13,0,0
+2019-10-01,Championship,2019-20,Reading,Fulham,1,4,2,5,5,7,1,1
+2019-10-01,Championship,2019-20,Stoke,Huddersfield,0,1,9,1,1,10,0,0
+2019-10-02,Championship,2019-20,Charlton,Swansea,1,2,3,3,3,6,1,1
+2019-10-02,Championship,2019-20,Cardiff,QPR,3,0,3,5,3,8,0,1
+2019-10-02,Championship,2019-20,Luton,Millwall,1,1,5,4,2,9,1,0
+2019-10-02,Championship,2019-20,Barnsley,Derby,2,2,8,2,4,10,1,1
+2019-10-02,Championship,2019-20,Brentford,Bristol City,1,1,13,3,2,16,1,0
+2019-10-04,Championship,2019-20,Birmingham,Middlesbrough,2,1,11,3,3,14,1,1
+2019-10-05,Championship,2019-20,West Brom,Cardiff,4,2,6,10,6,16,1,1
+2019-10-05,Championship,2019-20,Swansea,Stoke,1,2,7,1,3,8,1,1
+2019-10-05,Championship,2019-20,Sheffield Weds,Wigan,1,0,3,2,1,5,0,0
+2019-10-05,Championship,2019-20,QPR,Blackburn,4,2,4,4,6,8,1,1
+2019-10-05,Championship,2019-20,Nott'm Forest,Brentford,1,0,9,5,1,14,0,0
+2019-10-05,Championship,2019-20,Preston,Barnsley,5,1,5,2,6,7,1,1
+2019-10-05,Championship,2019-20,Huddersfield,Hull,3,0,5,4,3,9,0,1
+2019-10-05,Championship,2019-20,Derby,Luton,2,0,1,5,2,6,0,0
+2019-10-05,Championship,2019-20,Bristol City,Reading,1,0,3,5,1,8,0,0
+2019-10-05,Championship,2019-20,Fulham,Charlton,2,2,8,6,4,14,1,1
+2019-10-05,Championship,2019-20,Millwall,Leeds,2,1,6,1,3,7,1,1
+2019-10-18,Championship,2019-20,Cardiff,Sheffield Weds,1,1,4,4,2,8,1,0
+2019-10-19,Championship,2019-20,Luton,Bristol City,3,0,8,7,3,15,0,1
+2019-10-19,Championship,2019-20,Stoke,Fulham,2,0,4,6,2,10,0,0
+2019-10-19,Championship,2019-20,Reading,Preston,1,0,9,6,1,15,0,0
+2019-10-19,Championship,2019-20,Leeds,Birmingham,1,0,9,2,1,11,0,0
+2019-10-19,Championship,2019-20,Middlesbrough,West Brom,0,1,6,7,1,13,0,0
+2019-10-19,Championship,2019-20,Charlton,Derby,3,0,7,5,3,12,0,1
+2019-10-19,Championship,2019-20,Brentford,Millwall,3,2,8,4,5,12,1,1
+2019-10-19,Championship,2019-20,Hull,QPR,2,3,4,8,5,12,1,1
+2019-10-19,Championship,2019-20,Barnsley,Swansea,1,1,2,5,2,7,1,0
+2019-10-19,Championship,2019-20,Blackburn,Huddersfield,2,2,5,6,4,11,1,1
+2019-10-20,Championship,2019-20,Wigan,Nott'm Forest,1,0,2,7,1,9,0,0
+2019-10-22,Championship,2019-20,Birmingham,Blackburn,1,0,7,6,1,13,0,0
+2019-10-22,Championship,2019-20,Millwall,Cardiff,2,2,4,2,4,6,1,1
+2019-10-22,Championship,2019-20,Preston,Leeds,1,1,4,8,2,12,1,0
+2019-10-22,Championship,2019-20,QPR,Reading,2,2,1,5,4,6,1,1
+2019-10-22,Championship,2019-20,Sheffield Weds,Stoke,1,0,5,3,1,8,0,0
+2019-10-22,Championship,2019-20,Swansea,Brentford,0,3,6,6,3,12,0,1
+2019-10-22,Championship,2019-20,West Brom,Barnsley,2,2,4,1,4,5,1,1
+2019-10-23,Championship,2019-20,Nott'm Forest,Hull,1,2,11,1,3,12,1,1
+2019-10-23,Championship,2019-20,Fulham,Luton,3,2,4,3,5,7,1,1
+2019-10-23,Championship,2019-20,Huddersfield,Middlesbrough,0,0,4,3,0,7,0,0
+2019-10-23,Championship,2019-20,Bristol City,Charlton,2,1,9,5,3,14,1,1
+2019-10-23,Championship,2019-20,Derby,Wigan,1,0,7,8,1,15,0,0
+2019-10-26,Championship,2019-20,Preston,Blackburn,3,2,6,5,5,11,1,1
+2019-10-26,Championship,2019-20,Sheffield Weds,Leeds,0,0,5,4,0,9,0,0
+2019-10-26,Championship,2019-20,Birmingham,Luton,2,1,13,5,3,18,1,1
+2019-10-26,Championship,2019-20,Huddersfield,Barnsley,2,1,3,5,3,8,1,1
+2019-10-26,Championship,2019-20,Hull,Derby,2,0,7,1,2,8,0,0
+2019-10-26,Championship,2019-20,Middlesbrough,Fulham,0,0,5,2,0,7,0,0
+2019-10-26,Championship,2019-20,Millwall,Stoke,2,0,6,2,2,8,0,0
+2019-10-26,Championship,2019-20,West Brom,Charlton,2,2,4,4,4,8,1,1
+2019-10-27,Championship,2019-20,Swansea,Cardiff,1,0,9,3,1,12,0,0
+2019-10-27,Championship,2019-20,Bristol City,Wigan,2,2,5,10,4,15,1,1
+2019-10-28,Championship,2019-20,QPR,Brentford,1,3,3,6,4,9,1,1
+2019-11-01,Championship,2019-20,Barnsley,Bristol City,2,2,10,6,4,16,1,1
+2019-11-02,Championship,2019-20,Luton,Nott'm Forest,1,2,8,7,3,15,1,1
+2019-11-02,Championship,2019-20,Fulham,Hull,0,3,9,1,3,10,0,1
+2019-11-02,Championship,2019-20,Reading,Millwall,2,1,3,6,3,9,1,1
+2019-11-02,Championship,2019-20,Derby,Middlesbrough,2,0,6,2,2,8,0,0
+2019-11-02,Championship,2019-20,Leeds,QPR,2,0,6,2,2,8,0,0
+2019-11-02,Championship,2019-20,Brentford,Huddersfield,0,1,1,4,1,5,0,0
+2019-11-02,Championship,2019-20,Cardiff,Birmingham,4,2,8,10,6,18,1,1
+2019-11-02,Championship,2019-20,Blackburn,Sheffield Weds,2,1,4,13,3,17,1,1
+2019-11-02,Championship,2019-20,Wigan,Swansea,1,2,11,2,3,13,1,1
+2019-11-03,Championship,2019-20,Charlton,Preston,0,1,3,9,1,12,0,0
+2019-11-04,Championship,2019-20,Stoke,West Brom,0,2,4,3,2,7,0,0
+2019-11-09,Championship,2019-20,Wigan,Brentford,0,3,1,2,3,3,0,1
+2019-11-09,Championship,2019-20,Sheffield Weds,Swansea,2,2,7,4,4,11,1,1
+2019-11-09,Championship,2019-20,Reading,Luton,3,0,5,3,3,8,0,1
+2019-11-09,Championship,2019-20,QPR,Middlesbrough,2,2,8,6,4,14,1,1
+2019-11-09,Championship,2019-20,Preston,Huddersfield,3,1,12,4,4,16,1,1
+2019-11-09,Championship,2019-20,Millwall,Charlton,2,1,8,3,3,11,1,1
+2019-11-09,Championship,2019-20,Leeds,Blackburn,2,1,4,5,3,9,1,1
+2019-11-09,Championship,2019-20,Hull,West Brom,0,1,2,4,1,6,0,0
+2019-11-09,Championship,2019-20,Birmingham,Fulham,0,1,5,7,1,12,0,0
+2019-11-09,Championship,2019-20,Barnsley,Stoke,2,4,5,7,6,12,1,1
+2019-11-09,Championship,2019-20,Nott'm Forest,Derby,1,0,7,8,1,15,0,0
+2019-11-10,Championship,2019-20,Cardiff,Bristol City,0,1,7,2,1,9,0,0
+2019-11-22,Championship,2019-20,Fulham,QPR,2,1,4,11,3,15,1,1
+2019-11-23,Championship,2019-20,West Brom,Sheffield Weds,2,1,6,8,3,14,1,1
+2019-11-23,Championship,2019-20,Swansea,Millwall,0,1,4,3,1,7,0,0
+2019-11-23,Championship,2019-20,Stoke,Wigan,2,1,3,5,3,8,1,1
+2019-11-23,Championship,2019-20,Luton,Leeds,1,2,4,8,3,12,1,1
+2019-11-23,Championship,2019-20,Huddersfield,Birmingham,1,1,5,2,2,7,1,0
+2019-11-23,Championship,2019-20,Charlton,Cardiff,2,2,5,4,4,9,1,1
+2019-11-23,Championship,2019-20,Bristol City,Nott'm Forest,0,0,6,6,0,12,0,0
+2019-11-23,Championship,2019-20,Brentford,Reading,1,0,8,7,1,15,0,0
+2019-11-23,Championship,2019-20,Blackburn,Barnsley,3,2,2,3,5,5,1,1
+2019-11-23,Championship,2019-20,Derby,Preston,1,0,6,3,1,9,0,0
+2019-11-24,Championship,2019-20,Middlesbrough,Hull,2,2,3,9,4,12,1,1
+2019-11-26,Championship,2019-20,Cardiff,Stoke,1,0,2,4,1,6,0,0
+2019-11-26,Championship,2019-20,Fulham,Derby,3,0,6,3,3,9,0,1
+2019-11-26,Championship,2019-20,Huddersfield,Swansea,1,1,11,6,2,17,1,0
+2019-11-26,Championship,2019-20,Luton,Charlton,2,1,5,9,3,14,1,1
+2019-11-26,Championship,2019-20,Millwall,Wigan,2,2,7,5,4,12,1,1
+2019-11-26,Championship,2019-20,Reading,Leeds,0,1,7,11,1,18,0,0
+2019-11-27,Championship,2019-20,Sheffield Weds,Birmingham,1,1,12,1,2,13,1,0
+2019-11-27,Championship,2019-20,West Brom,Bristol City,4,1,4,4,5,8,1,1
+2019-11-27,Championship,2019-20,QPR,Nott'm Forest,0,4,5,6,4,11,0,1
+2019-11-27,Championship,2019-20,Blackburn,Brentford,1,0,4,4,1,8,0,0
+2019-11-27,Championship,2019-20,Hull,Preston,4,0,4,8,4,12,0,1
+2019-11-27,Championship,2019-20,Middlesbrough,Barnsley,1,0,8,3,1,11,0,0
+2019-11-29,Championship,2019-20,Swansea,Fulham,1,2,6,0,3,6,1,1
+2019-11-30,Championship,2019-20,Wigan,Reading,1,3,4,3,4,7,1,1
+2019-11-30,Championship,2019-20,Stoke,Blackburn,1,2,6,2,3,8,1,1
+2019-11-30,Championship,2019-20,Nott'm Forest,Cardiff,0,1,9,1,1,10,0,0
+2019-11-30,Championship,2019-20,Derby,QPR,1,1,8,9,2,17,1,0
+2019-11-30,Championship,2019-20,Leeds,Middlesbrough,4,0,4,1,4,5,0,1
+2019-11-30,Championship,2019-20,Brentford,Luton,7,0,9,3,7,12,0,1
+2019-11-30,Championship,2019-20,Birmingham,Millwall,1,1,5,3,2,8,1,0
+2019-11-30,Championship,2019-20,Barnsley,Hull,3,1,6,6,4,12,1,1
+2019-11-30,Championship,2019-20,Charlton,Sheffield Weds,1,3,1,7,4,8,1,1
+2019-11-30,Championship,2019-20,Bristol City,Huddersfield,5,2,4,4,7,8,1,1
+2019-12-02,Championship,2019-20,Preston,West Brom,0,1,4,9,1,13,0,0
+2019-12-06,Championship,2019-20,Millwall,Nott'm Forest,2,2,10,2,4,12,1,1
+2019-12-07,Championship,2019-20,Middlesbrough,Charlton,1,0,4,5,1,9,0,0
+2019-12-07,Championship,2019-20,Reading,Birmingham,2,3,8,5,5,13,1,1
+2019-12-07,Championship,2019-20,QPR,Preston,2,0,2,2,2,4,0,0
+2019-12-07,Championship,2019-20,Sheffield Weds,Brentford,2,1,5,7,3,12,1,1
+2019-12-07,Championship,2019-20,Luton,Wigan,2,1,8,3,3,11,1,1
+2019-12-07,Championship,2019-20,Cardiff,Barnsley,3,2,8,5,5,13,1,1
+2019-12-07,Championship,2019-20,Fulham,Bristol City,1,2,8,2,3,10,1,1
+2019-12-07,Championship,2019-20,Blackburn,Derby,1,0,7,3,1,10,0,0
+2019-12-07,Championship,2019-20,Huddersfield,Leeds,0,2,7,5,2,12,0,0
+2019-12-07,Championship,2019-20,Hull,Stoke,2,1,7,4,3,11,1,1
+2019-12-08,Championship,2019-20,West Brom,Swansea,5,1,7,7,6,14,1,1
+2019-12-10,Championship,2019-20,Bristol City,Millwall,1,2,6,4,3,10,1,1
+2019-12-10,Championship,2019-20,Charlton,Huddersfield,0,1,1,6,1,7,0,0
+2019-12-10,Championship,2019-20,Leeds,Hull,2,0,5,5,2,10,0,0
+2019-12-10,Championship,2019-20,Nott'm Forest,Middlesbrough,1,1,10,1,2,11,1,0
+2019-12-10,Championship,2019-20,Preston,Fulham,2,1,6,5,3,11,1,1
+2019-12-10,Championship,2019-20,Stoke,Luton,3,0,7,4,3,11,0,1
+2019-12-11,Championship,2019-20,Wigan,West Brom,1,1,4,3,2,7,1,0
+2019-12-11,Championship,2019-20,Swansea,Blackburn,1,1,12,3,2,15,1,0
+2019-12-11,Championship,2019-20,Derby,Sheffield Weds,1,1,5,12,2,17,1,0
+2019-12-11,Championship,2019-20,Birmingham,QPR,0,2,9,0,2,9,0,0
+2019-12-11,Championship,2019-20,Barnsley,Reading,1,1,7,5,2,12,1,0
+2019-12-11,Championship,2019-20,Brentford,Cardiff,2,1,6,9,3,15,1,1
+2019-12-13,Championship,2019-20,Charlton,Hull,2,2,4,9,4,13,1,1
+2019-12-14,Championship,2019-20,Wigan,Huddersfield,1,1,3,2,2,5,1,0
+2019-12-14,Championship,2019-20,Swansea,Middlesbrough,3,1,6,6,4,12,1,1
+2019-12-14,Championship,2019-20,Stoke,Reading,0,0,1,4,0,5,0,0
+2019-12-14,Championship,2019-20,Preston,Luton,2,1,6,5,3,11,1,1
+2019-12-14,Championship,2019-20,Leeds,Cardiff,3,3,14,3,6,17,1,1
+2019-12-14,Championship,2019-20,Nott'm Forest,Sheffield Weds,0,4,4,4,4,8,0,1
+2019-12-14,Championship,2019-20,Bristol City,Blackburn,0,2,5,5,2,10,0,0
+2019-12-14,Championship,2019-20,Brentford,Fulham,1,0,10,3,1,13,0,0
+2019-12-14,Championship,2019-20,Barnsley,QPR,5,3,3,2,8,5,1,1
+2019-12-14,Championship,2019-20,Birmingham,West Brom,2,3,7,2,5,9,1,1
+2019-12-14,Championship,2019-20,Derby,Millwall,0,1,9,3,1,12,0,0
+2019-12-20,Championship,2019-20,Middlesbrough,Stoke,2,1,4,2,3,6,1,1
+2019-12-21,Championship,2019-20,QPR,Charlton,2,2,9,8,4,17,1,1
+2019-12-21,Championship,2019-20,West Brom,Brentford,1,1,6,7,2,13,1,0
+2019-12-21,Championship,2019-20,Reading,Derby,3,0,6,6,3,12,0,1
+2019-12-21,Championship,2019-20,Millwall,Barnsley,1,2,8,3,3,11,1,1
+2019-12-21,Championship,2019-20,Cardiff,Preston,0,0,1,3,0,4,0,0
+2019-12-21,Championship,2019-20,Hull,Birmingham,3,0,9,6,3,15,0,1
+2019-12-21,Championship,2019-20,Huddersfield,Nott'm Forest,2,1,5,9,3,14,1,1
+2019-12-21,Championship,2019-20,Fulham,Leeds,2,1,4,7,3,11,1,1
+2019-12-21,Championship,2019-20,Luton,Swansea,0,1,4,8,1,12,0,0
+2019-12-22,Championship,2019-20,Sheffield Weds,Bristol City,1,0,8,1,1,9,0,0
+2019-12-23,Championship,2019-20,Blackburn,Wigan,0,0,7,5,0,12,0,0
+2019-12-26,Championship,2019-20,Middlesbrough,Huddersfield,1,0,5,4,1,9,0,0
+2019-12-26,Championship,2019-20,Reading,QPR,1,0,7,6,1,13,0,0
+2019-12-26,Championship,2019-20,Leeds,Preston,1,1,12,4,2,16,1,0
+2019-12-26,Championship,2019-20,Wigan,Derby,1,1,10,2,2,12,1,0
+2019-12-26,Championship,2019-20,Stoke,Sheffield Weds,3,2,8,2,5,10,1,1
+2019-12-26,Championship,2019-20,Luton,Fulham,3,3,6,8,6,14,1,1
+2019-12-26,Championship,2019-20,Barnsley,West Brom,1,1,6,2,2,8,1,0
+2019-12-26,Championship,2019-20,Charlton,Bristol City,3,2,6,10,5,16,1,1
+2019-12-26,Championship,2019-20,Blackburn,Birmingham,1,1,3,2,2,5,1,0
+2019-12-26,Championship,2019-20,Hull,Nott'm Forest,0,2,6,2,2,8,0,0
+2019-12-26,Championship,2019-20,Cardiff,Millwall,1,1,5,8,2,13,1,0
+2019-12-26,Championship,2019-20,Brentford,Swansea,3,1,7,2,4,9,1,1
+2019-12-29,Championship,2019-20,West Brom,Middlesbrough,0,2,5,12,2,17,0,0
+2019-12-29,Championship,2019-20,Swansea,Barnsley,0,0,7,3,0,10,0,0
+2019-12-29,Championship,2019-20,Sheffield Weds,Cardiff,1,2,8,0,3,8,1,1
+2019-12-29,Championship,2019-20,Preston,Reading,0,2,8,1,2,9,0,0
+2019-12-29,Championship,2019-20,Nott'm Forest,Wigan,1,0,2,13,1,15,0,0
+2019-12-29,Championship,2019-20,QPR,Hull,1,2,7,0,3,7,1,1
+2019-12-29,Championship,2019-20,Huddersfield,Blackburn,2,1,7,3,3,10,1,1
+2019-12-29,Championship,2019-20,Fulham,Stoke,1,0,5,3,1,8,0,0
+2019-12-29,Championship,2019-20,Bristol City,Luton,3,0,5,4,3,9,0,1
+2019-12-29,Championship,2019-20,Birmingham,Leeds,4,5,7,9,9,16,1,1
+2019-12-29,Championship,2019-20,Millwall,Brentford,1,0,4,5,1,9,0,0
+2019-12-30,Championship,2019-20,Derby,Charlton,2,1,5,2,3,7,1,1
+2020-01-01,Championship,2019-20,Preston,Middlesbrough,0,2,6,3,2,9,0,0
+2020-01-01,Championship,2019-20,West Brom,Leeds,1,1,8,9,2,17,1,0
+2020-01-01,Championship,2019-20,Sheffield Weds,Hull,0,1,1,2,1,3,0,0
+2020-01-01,Championship,2019-20,QPR,Cardiff,6,1,4,10,7,14,1,1
+2020-01-01,Championship,2019-20,Nott'm Forest,Blackburn,3,2,6,5,5,11,1,1
+2020-01-01,Championship,2019-20,Birmingham,Wigan,2,3,3,11,5,14,1,1
+2020-01-01,Championship,2019-20,Fulham,Reading,1,2,9,2,3,11,1,1
+2020-01-01,Championship,2019-20,Bristol City,Brentford,0,4,2,5,4,7,0,1
+2020-01-01,Championship,2019-20,Millwall,Luton,3,1,5,1,4,6,1,1
+2020-01-01,Championship,2019-20,Huddersfield,Stoke,2,5,5,5,7,10,1,1
+2020-01-02,Championship,2019-20,Derby,Barnsley,2,1,5,6,3,11,1,1
+2020-01-02,Championship,2019-20,Swansea,Charlton,1,0,7,5,1,12,0,0
+2020-01-11,Championship,2019-20,Middlesbrough,Derby,2,2,5,2,4,7,1,1
+2020-01-11,Championship,2019-20,Wigan,Bristol City,0,2,5,6,2,11,0,0
+2020-01-11,Championship,2019-20,Stoke,Millwall,0,0,6,3,0,9,0,0
+2020-01-11,Championship,2019-20,Reading,Nott'm Forest,1,1,10,9,2,19,1,0
+2020-01-11,Championship,2019-20,Luton,Birmingham,1,2,5,5,3,10,1,1
+2020-01-11,Championship,2019-20,Leeds,Sheffield Weds,0,2,7,5,2,12,0,0
+2020-01-11,Championship,2019-20,Hull,Fulham,0,1,2,2,1,4,0,0
+2020-01-11,Championship,2019-20,Charlton,West Brom,2,2,5,5,4,10,1,1
+2020-01-11,Championship,2019-20,Blackburn,Preston,1,1,6,2,2,8,1,0
+2020-01-11,Championship,2019-20,Barnsley,Huddersfield,2,1,4,4,3,8,1,1
+2020-01-11,Championship,2019-20,Brentford,QPR,3,1,8,0,4,8,1,1
+2020-01-12,Championship,2019-20,Cardiff,Swansea,0,0,4,8,0,12,0,0
+2020-01-17,Championship,2019-20,Fulham,Middlesbrough,1,0,3,8,1,11,0,0
+2020-01-18,Championship,2019-20,Sheffield Weds,Blackburn,0,5,1,5,5,6,0,1
+2020-01-18,Championship,2019-20,Preston,Charlton,2,1,3,4,3,7,1,1
+2020-01-18,Championship,2019-20,Millwall,Reading,2,0,10,1,2,11,0,0
+2020-01-18,Championship,2019-20,Huddersfield,Brentford,0,0,6,4,0,10,0,0
+2020-01-18,Championship,2019-20,Swansea,Wigan,2,1,6,5,3,11,1,1
+2020-01-18,Championship,2019-20,Bristol City,Barnsley,1,0,9,5,1,14,0,0
+2020-01-18,Championship,2019-20,Birmingham,Cardiff,1,1,8,6,2,14,1,0
+2020-01-18,Championship,2019-20,QPR,Leeds,1,0,4,11,1,15,0,0
+2020-01-18,Championship,2019-20,Derby,Hull,1,0,5,5,1,10,0,0
+2020-01-19,Championship,2019-20,Nott'm Forest,Luton,3,1,12,2,4,14,1,1
+2020-01-20,Championship,2019-20,West Brom,Stoke,0,1,7,1,1,8,0,0
+2020-01-21,Championship,2019-20,Barnsley,Preston,0,3,7,1,3,8,0,1
+2020-01-21,Championship,2019-20,Middlesbrough,Birmingham,1,1,7,5,2,12,1,0
+2020-01-22,Championship,2019-20,Nott'm Forest,Reading,1,1,5,4,2,9,1,0
+2020-01-22,Championship,2019-20,Charlton,Fulham,0,0,6,6,0,12,0,0
+2020-01-25,Championship,2019-20,Stoke,Swansea,2,0,1,11,2,12,0,0
+2020-01-28,Championship,2019-20,Reading,Bristol City,0,1,10,3,1,13,0,0
+2020-01-28,Championship,2019-20,Blackburn,QPR,2,1,6,2,3,8,1,1
+2020-01-28,Championship,2019-20,Brentford,Nott'm Forest,0,1,10,6,1,16,0,0
+2020-01-28,Championship,2019-20,Cardiff,West Brom,2,1,1,7,3,8,1,1
+2020-01-28,Championship,2019-20,Hull,Huddersfield,1,2,8,7,3,15,1,1
+2020-01-28,Championship,2019-20,Leeds,Millwall,3,2,7,3,5,10,1,1
+2020-01-28,Championship,2019-20,Luton,Derby,3,2,10,3,5,13,1,1
+2020-01-28,Championship,2019-20,Wigan,Sheffield Weds,2,1,7,3,3,10,1,1
+2020-01-31,Championship,2019-20,Derby,Stoke,4,0,1,7,4,8,0,1
+2020-01-31,Championship,2019-20,Cardiff,Reading,1,1,8,5,2,13,1,0
+2020-02-01,Championship,2019-20,Hull,Brentford,1,5,2,5,6,7,1,1
+2020-02-01,Championship,2019-20,Birmingham,Nott'm Forest,2,1,5,5,3,10,1,1
+2020-02-01,Championship,2019-20,Charlton,Barnsley,2,1,6,6,3,12,1,1
+2020-02-01,Championship,2019-20,Fulham,Huddersfield,3,2,2,6,5,8,1,1
+2020-02-01,Championship,2019-20,Leeds,Wigan,0,1,13,6,1,19,0,0
+2020-02-01,Championship,2019-20,Middlesbrough,Blackburn,1,1,6,2,2,8,1,0
+2020-02-01,Championship,2019-20,Preston,Swansea,1,1,3,3,2,6,1,0
+2020-02-01,Championship,2019-20,QPR,Bristol City,0,1,10,5,1,15,0,0
+2020-02-01,Championship,2019-20,Sheffield Weds,Millwall,0,0,6,2,0,8,0,0
+2020-02-01,Championship,2019-20,West Brom,Luton,2,0,11,5,2,16,0,0
+2020-02-07,Championship,2019-20,Bristol City,Birmingham,1,3,6,4,4,10,1,1
+2020-02-08,Championship,2019-20,Nott'm Forest,Leeds,2,0,3,8,2,11,0,0
+2020-02-08,Championship,2019-20,Swansea,Derby,2,3,3,2,5,5,1,1
+2020-02-08,Championship,2019-20,Stoke,Charlton,3,1,8,4,4,12,1,1
+2020-02-08,Championship,2019-20,Reading,Hull,1,1,3,4,2,7,1,0
+2020-02-08,Championship,2019-20,Luton,Cardiff,0,1,4,7,1,11,0,0
+2020-02-08,Championship,2019-20,Brentford,Middlesbrough,3,2,7,4,5,11,1,1
+2020-02-08,Championship,2019-20,Blackburn,Fulham,0,1,4,6,1,10,0,0
+2020-02-08,Championship,2019-20,Barnsley,Sheffield Weds,1,1,6,6,2,12,1,0
+2020-02-08,Championship,2019-20,Wigan,Preston,1,2,11,8,3,19,1,1
+2020-02-08,Championship,2019-20,Huddersfield,QPR,2,0,4,3,2,7,0,0
+2020-02-09,Championship,2019-20,Millwall,West Brom,0,2,4,9,2,13,0,0
+2020-02-11,Championship,2019-20,Barnsley,Birmingham,0,1,3,5,1,8,0,0
+2020-02-11,Championship,2019-20,Blackburn,Hull,3,0,7,3,3,10,0,1
+2020-02-11,Championship,2019-20,Brentford,Leeds,1,1,3,10,2,13,1,0
+2020-02-11,Championship,2019-20,Nott'm Forest,Charlton,0,1,6,5,1,11,0,0
+2020-02-11,Championship,2019-20,Swansea,QPR,0,0,4,3,0,7,0,0
+2020-02-11,Championship,2019-20,Wigan,Middlesbrough,2,2,3,6,4,9,1,1
+2020-02-12,Championship,2019-20,Stoke,Preston,0,2,7,4,2,11,0,0
+2020-02-12,Championship,2019-20,Millwall,Fulham,1,1,4,3,2,7,1,0
+2020-02-12,Championship,2019-20,Reading,West Brom,1,2,8,4,3,12,1,1
+2020-02-12,Championship,2019-20,Huddersfield,Cardiff,0,3,5,6,3,11,0,1
+2020-02-12,Championship,2019-20,Luton,Sheffield Weds,1,0,5,3,1,8,0,0
+2020-02-12,Championship,2019-20,Bristol City,Derby,3,2,9,6,5,15,1,1
+2020-02-14,Championship,2019-20,Hull,Swansea,4,4,3,8,8,11,1,1
+2020-02-15,Championship,2019-20,Sheffield Weds,Reading,0,3,5,3,3,8,0,1
+2020-02-15,Championship,2019-20,QPR,Stoke,4,2,8,5,6,13,1,1
+2020-02-15,Championship,2019-20,Preston,Millwall,0,1,1,8,1,9,0,0
+2020-02-15,Championship,2019-20,Middlesbrough,Luton,0,1,8,9,1,17,0,0
+2020-02-15,Championship,2019-20,Fulham,Barnsley,0,3,10,3,3,13,0,1
+2020-02-15,Championship,2019-20,Leeds,Bristol City,1,0,12,0,1,12,0,0
+2020-02-15,Championship,2019-20,Charlton,Blackburn,0,2,4,4,2,8,0,0
+2020-02-15,Championship,2019-20,Cardiff,Wigan,2,2,9,8,4,17,1,1
+2020-02-15,Championship,2019-20,Birmingham,Brentford,1,1,3,8,2,11,1,0
+2020-02-15,Championship,2019-20,West Brom,Nott'm Forest,2,2,8,0,4,8,1,1
+2020-02-15,Championship,2019-20,Derby,Huddersfield,1,1,4,5,2,9,1,0
+2020-02-21,Championship,2019-20,Derby,Fulham,1,1,11,4,2,15,1,0
+2020-02-22,Championship,2019-20,Preston,Hull,2,1,2,6,3,8,1,1
+2020-02-22,Championship,2019-20,Swansea,Huddersfield,3,1,5,5,4,10,1,1
+2020-02-22,Championship,2019-20,Wigan,Millwall,1,0,6,5,1,11,0,0
+2020-02-22,Championship,2019-20,Stoke,Cardiff,2,0,4,7,2,11,0,0
+2020-02-22,Championship,2019-20,Nott'm Forest,QPR,0,0,10,2,0,12,0,0
+2020-02-22,Championship,2019-20,Barnsley,Middlesbrough,1,0,6,2,1,8,0,0
+2020-02-22,Championship,2019-20,Charlton,Luton,3,1,6,5,4,11,1,1
+2020-02-22,Championship,2019-20,Bristol City,West Brom,0,3,3,7,3,10,0,1
+2020-02-22,Championship,2019-20,Birmingham,Sheffield Weds,3,3,4,3,6,7,1,1
+2020-02-22,Championship,2019-20,Brentford,Blackburn,2,2,7,1,4,8,1,1
+2020-02-22,Championship,2019-20,Leeds,Reading,1,0,6,3,1,9,0,0
+2020-02-25,Championship,2019-20,Cardiff,Nott'm Forest,0,1,4,5,1,9,0,0
+2020-02-25,Championship,2019-20,Huddersfield,Bristol City,2,1,2,2,3,4,1,1
+2020-02-25,Championship,2019-20,Luton,Brentford,2,1,2,11,3,13,1,1
+2020-02-25,Championship,2019-20,QPR,Derby,2,1,4,9,3,13,1,1
+2020-02-25,Championship,2019-20,West Brom,Preston,2,0,7,2,2,9,0,0
+2020-02-26,Championship,2019-20,Millwall,Birmingham,0,0,14,2,0,16,0,0
+2020-02-26,Championship,2019-20,Sheffield Weds,Charlton,1,0,12,3,1,15,0,0
+2020-02-26,Championship,2019-20,Reading,Wigan,0,3,5,8,3,13,0,1
+2020-02-26,Championship,2019-20,Middlesbrough,Leeds,0,1,3,6,1,9,0,0
+2020-02-26,Championship,2019-20,Fulham,Swansea,1,0,11,4,1,15,0,0
+2020-02-26,Championship,2019-20,Hull,Barnsley,0,1,4,9,1,13,0,0
+2020-02-26,Championship,2019-20,Blackburn,Stoke,0,0,4,3,0,7,0,0
+2020-02-29,Championship,2019-20,Reading,Barnsley,2,0,2,4,2,6,0,0
+2020-02-29,Championship,2019-20,Hull,Leeds,0,4,5,11,4,16,0,1
+2020-02-29,Championship,2019-20,Blackburn,Swansea,2,2,2,1,4,3,1,1
+2020-02-29,Championship,2019-20,Cardiff,Brentford,2,2,2,7,4,9,1,1
+2020-02-29,Championship,2019-20,Fulham,Preston,2,0,7,3,2,10,0,0
+2020-02-29,Championship,2019-20,Huddersfield,Charlton,4,0,5,4,4,9,0,1
+2020-02-29,Championship,2019-20,Luton,Stoke,1,1,4,6,2,10,1,0
+2020-02-29,Championship,2019-20,Millwall,Bristol City,1,1,5,7,2,12,1,0
+2020-02-29,Championship,2019-20,QPR,Birmingham,2,2,6,3,4,9,1,1
+2020-02-29,Championship,2019-20,Sheffield Weds,Derby,1,3,9,3,4,12,1,1
+2020-02-29,Championship,2019-20,West Brom,Wigan,0,1,6,7,1,13,0,0
+2020-03-02,Championship,2019-20,Middlesbrough,Nott'm Forest,2,2,4,11,4,15,1,1
+2020-03-06,Championship,2019-20,Nott'm Forest,Millwall,0,3,9,5,3,14,0,1
+2020-03-07,Championship,2019-20,Preston,QPR,1,3,5,2,4,7,1,1
+2020-03-07,Championship,2019-20,Swansea,West Brom,0,0,3,4,0,7,0,0
+2020-03-07,Championship,2019-20,Stoke,Hull,5,1,4,3,6,7,1,1
+2020-03-07,Championship,2019-20,Wigan,Luton,0,0,6,3,0,9,0,0
+2020-03-07,Championship,2019-20,Leeds,Huddersfield,2,0,2,3,2,5,0,0
+2020-03-07,Championship,2019-20,Bristol City,Fulham,1,1,3,7,2,10,1,0
+2020-03-07,Championship,2019-20,Brentford,Sheffield Weds,5,0,4,7,5,11,0,1
+2020-03-07,Championship,2019-20,Birmingham,Reading,1,3,4,2,4,6,1,1
+2020-03-07,Championship,2019-20,Barnsley,Cardiff,0,2,3,8,2,11,0,0
+2020-03-07,Championship,2019-20,Charlton,Middlesbrough,0,1,3,9,1,12,0,0
+2020-03-08,Championship,2019-20,Derby,Blackburn,3,0,3,6,3,9,0,1
+2020-06-20,Championship,2019-20,Reading,Stoke,1,1,4,5,2,9,1,0
+2020-06-20,Championship,2019-20,QPR,Barnsley,0,1,2,6,1,8,0,0
+2020-06-20,Championship,2019-20,West Brom,Birmingham,0,0,12,3,0,15,0,0
+2020-06-20,Championship,2019-20,Sheffield Weds,Nott'm Forest,1,1,7,4,2,11,1,0
+2020-06-20,Championship,2019-20,Hull,Charlton,0,1,9,3,1,12,0,0
+2020-06-20,Championship,2019-20,Luton,Preston,1,1,5,7,2,12,1,0
+2020-06-20,Championship,2019-20,Blackburn,Bristol City,3,1,2,1,4,3,1,1
+2020-06-20,Championship,2019-20,Millwall,Derby,2,3,6,3,5,9,1,1
+2020-06-20,Championship,2019-20,Middlesbrough,Swansea,0,3,10,0,3,10,0,1
+2020-06-20,Championship,2019-20,Fulham,Brentford,0,2,2,5,2,7,0,0
+2020-06-20,Championship,2019-20,Huddersfield,Wigan,0,2,3,2,2,5,0,0
+2020-06-21,Championship,2019-20,Cardiff,Leeds,2,0,2,10,2,12,0,0
+2020-06-26,Championship,2019-20,Brentford,West Brom,1,0,3,2,1,5,0,0
+2020-06-27,Championship,2019-20,Wigan,Blackburn,2,0,3,6,2,9,0,0
+2020-06-27,Championship,2019-20,Charlton,QPR,1,0,10,1,1,11,0,0
+2020-06-27,Championship,2019-20,Preston,Cardiff,1,3,3,5,4,8,1,1
+2020-06-27,Championship,2019-20,Swansea,Luton,0,1,6,2,1,8,0,0
+2020-06-27,Championship,2019-20,Barnsley,Millwall,0,0,4,8,0,12,0,0
+2020-06-27,Championship,2019-20,Derby,Reading,2,1,4,8,3,12,1,1
+2020-06-27,Championship,2019-20,Birmingham,Hull,3,3,4,5,6,9,1,1
+2020-06-27,Championship,2019-20,Leeds,Fulham,3,0,4,4,3,8,0,1
+2020-06-27,Championship,2019-20,Stoke,Middlesbrough,0,2,7,7,2,14,0,0
+2020-06-28,Championship,2019-20,Nott'm Forest,Huddersfield,3,1,3,11,4,14,1,1
+2020-06-28,Championship,2019-20,Bristol City,Sheffield Weds,1,2,3,9,3,12,1,1
+2020-06-30,Championship,2019-20,Millwall,Swansea,1,1,12,5,2,17,1,0
+2020-06-30,Championship,2019-20,Barnsley,Blackburn,2,0,3,3,2,6,0,0
+2020-06-30,Championship,2019-20,Cardiff,Charlton,0,0,3,3,0,6,0,0
+2020-06-30,Championship,2019-20,Reading,Brentford,0,3,3,6,3,9,0,1
+2020-06-30,Championship,2019-20,QPR,Fulham,1,2,6,6,3,12,1,1
+2020-06-30,Championship,2019-20,Leeds,Luton,1,1,15,1,2,16,1,0
+2020-06-30,Championship,2019-20,Wigan,Stoke,3,0,6,4,3,10,0,1
+2020-07-01,Championship,2019-20,Preston,Derby,0,1,7,5,1,12,0,0
+2020-07-01,Championship,2019-20,Birmingham,Huddersfield,0,3,4,4,3,8,0,1
+2020-07-01,Championship,2019-20,Nott'm Forest,Bristol City,1,0,3,8,1,11,0,0
+2020-07-01,Championship,2019-20,Sheffield Weds,West Brom,0,3,11,4,3,15,0,1
+2020-07-02,Championship,2019-20,Hull,Middlesbrough,2,1,0,5,3,5,1,1
+2020-07-03,Championship,2019-20,Charlton,Millwall,0,1,4,9,1,13,0,0
+2020-07-04,Championship,2019-20,Huddersfield,Preston,0,0,2,7,0,9,0,0
+2020-07-04,Championship,2019-20,Fulham,Birmingham,1,0,9,4,1,13,0,0
+2020-07-04,Championship,2019-20,Luton,Reading,0,5,4,3,5,7,0,1
+2020-07-04,Championship,2019-20,Stoke,Barnsley,4,0,6,3,4,9,0,1
+2020-07-04,Championship,2019-20,Bristol City,Cardiff,0,1,5,6,1,11,0,0
+2020-07-04,Championship,2019-20,Blackburn,Leeds,1,3,0,4,4,4,1,1
+2020-07-04,Championship,2019-20,Brentford,Wigan,3,0,9,2,3,11,0,1
+2020-07-04,Championship,2019-20,Derby,Nott'm Forest,1,1,3,4,2,7,1,0
+2020-07-05,Championship,2019-20,Swansea,Sheffield Weds,2,1,5,8,3,13,1,1
+2020-07-05,Championship,2019-20,Middlesbrough,QPR,0,1,9,7,1,16,0,0
+2020-07-05,Championship,2019-20,West Brom,Hull,4,2,11,7,6,18,1,1
+2020-07-07,Championship,2019-20,Nott'm Forest,Fulham,0,1,8,6,1,14,0,0
+2020-07-07,Championship,2019-20,Brentford,Charlton,2,1,7,1,3,8,1,1
+2020-07-07,Championship,2019-20,Luton,Barnsley,1,1,3,11,2,14,1,0
+2020-07-07,Championship,2019-20,Reading,Huddersfield,0,0,4,2,0,6,0,0
+2020-07-07,Championship,2019-20,Cardiff,Blackburn,2,3,2,5,5,7,1,1
+2020-07-08,Championship,2019-20,Sheffield Weds,Preston,1,3,7,2,4,9,1,1
+2020-07-08,Championship,2019-20,Millwall,Middlesbrough,0,2,8,2,2,10,0,0
+2020-07-08,Championship,2019-20,West Brom,Derby,2,0,8,0,2,8,0,0
+2020-07-08,Championship,2019-20,Birmingham,Swansea,1,3,9,4,4,13,1,1
+2020-07-08,Championship,2019-20,Bristol City,Hull,2,1,3,6,3,9,1,1
+2020-07-08,Championship,2019-20,Wigan,QPR,1,0,9,2,1,11,0,0
+2020-07-09,Championship,2019-20,Leeds,Stoke,5,0,7,3,5,10,0,1
+2020-07-10,Championship,2019-20,Huddersfield,Luton,0,2,6,2,2,8,0,0
+2020-07-10,Championship,2019-20,Fulham,Cardiff,2,0,3,3,2,6,0,0
+2020-07-11,Championship,2019-20,Charlton,Reading,0,1,8,1,1,9,0,0
+2020-07-11,Championship,2019-20,Derby,Brentford,1,3,6,3,4,9,1,1
+2020-07-11,Championship,2019-20,Barnsley,Wigan,0,0,5,3,0,8,0,0
+2020-07-11,Championship,2019-20,Blackburn,West Brom,1,1,3,7,2,10,1,0
+2020-07-11,Championship,2019-20,Hull,Millwall,0,1,2,4,1,6,0,0
+2020-07-11,Championship,2019-20,Middlesbrough,Bristol City,1,3,9,7,4,16,1,1
+2020-07-11,Championship,2019-20,Preston,Nott'm Forest,1,1,11,2,2,13,1,0
+2020-07-11,Championship,2019-20,QPR,Sheffield Weds,0,3,7,4,3,11,0,1
+2020-07-12,Championship,2019-20,Stoke,Birmingham,2,0,8,7,2,15,0,0
+2020-07-12,Championship,2019-20,Swansea,Leeds,0,1,6,7,1,13,0,0
+2020-07-14,Championship,2019-20,Millwall,Blackburn,1,0,7,4,1,11,0,0
+2020-07-14,Championship,2019-20,Luton,QPR,1,1,6,4,2,10,1,0
+2020-07-14,Championship,2019-20,Sheffield Weds,Huddersfield,0,0,6,5,0,11,0,0
+2020-07-14,Championship,2019-20,Wigan,Hull,8,0,4,3,8,7,0,1
+2020-07-14,Championship,2019-20,Reading,Middlesbrough,1,2,5,5,3,10,1,1
+2020-07-14,Championship,2019-20,West Brom,Fulham,0,0,8,7,0,15,0,0
+2020-07-14,Championship,2019-20,Cardiff,Derby,2,1,3,2,3,5,1,1
+2020-07-15,Championship,2019-20,Brentford,Preston,1,0,4,6,1,10,0,0
+2020-07-15,Championship,2019-20,Bristol City,Stoke,1,1,4,2,2,6,1,0
+2020-07-15,Championship,2019-20,Birmingham,Charlton,1,1,5,1,2,6,1,0
+2020-07-15,Championship,2019-20,Nott'm Forest,Swansea,2,2,5,3,4,8,1,1
+2020-07-16,Championship,2019-20,Leeds,Barnsley,1,0,7,7,1,14,0,0
+2020-07-17,Championship,2019-20,Huddersfield,West Brom,2,1,2,7,3,9,1,1
+2020-07-18,Championship,2019-20,Swansea,Bristol City,1,0,2,8,1,10,0,0
+2020-07-18,Championship,2019-20,QPR,Millwall,4,3,7,9,7,16,1,1
+2020-07-18,Championship,2019-20,Middlesbrough,Cardiff,1,3,8,5,4,13,1,1
+2020-07-18,Championship,2019-20,Hull,Luton,0,1,3,6,1,9,0,0
+2020-07-18,Championship,2019-20,Preston,Birmingham,2,0,5,7,2,12,0,0
+2020-07-18,Championship,2019-20,Blackburn,Reading,4,3,5,4,7,9,1,1
+2020-07-18,Championship,2019-20,Stoke,Brentford,1,0,0,4,1,4,0,0
+2020-07-18,Championship,2019-20,Charlton,Wigan,2,2,8,0,4,8,1,1
+2020-07-18,Championship,2019-20,Fulham,Sheffield Weds,5,3,4,8,8,12,1,1
+2020-07-19,Championship,2019-20,Derby,Leeds,1,3,4,5,4,9,1,1
+2020-07-19,Championship,2019-20,Barnsley,Nott'm Forest,1,0,9,1,1,10,0,0
+2020-07-22,Championship,2019-20,Sheffield Weds,Middlesbrough,1,2,10,2,3,12,1,1
+2020-07-22,Championship,2019-20,Reading,Swansea,1,4,4,8,5,12,1,1
+2020-07-22,Championship,2019-20,Nott'm Forest,Stoke,1,4,6,4,5,10,1,1
+2020-07-22,Championship,2019-20,Millwall,Huddersfield,4,1,9,2,5,11,1,1
+2020-07-22,Championship,2019-20,Luton,Blackburn,3,2,2,6,5,8,1,1
+2020-07-22,Championship,2019-20,Bristol City,Preston,1,1,4,7,2,11,1,0
+2020-07-22,Championship,2019-20,Cardiff,Hull,3,0,4,5,3,9,0,1
+2020-07-22,Championship,2019-20,Brentford,Barnsley,1,2,3,3,3,6,1,1
+2020-07-22,Championship,2019-20,Birmingham,Derby,1,3,4,4,4,8,1,1
+2020-07-22,Championship,2019-20,West Brom,QPR,2,2,5,3,4,8,1,1
+2020-07-22,Championship,2019-20,Leeds,Charlton,4,0,10,4,4,14,0,1
+2020-07-22,Championship,2019-20,Wigan,Fulham,1,1,5,4,2,9,1,0
