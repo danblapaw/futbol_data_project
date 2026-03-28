@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2024-08-23,Bundesliga,2024-25,M'gladbach,Leverkusen,2,3,2,4,5,6,1,1
-2024-08-24,Bundesliga,2024-25,Augsburg,Werder Bremen,2,2,4,2,4,6,1,1
-2024-08-24,Bundesliga,2024-25,Freiburg,Stuttgart,3,1,6,3,4,9,1,1
-2024-08-24,Bundesliga,2024-25,Hoffenheim,Holstein Kiel,3,2,8,6,5,14,1,1
-2024-08-24,Bundesliga,2024-25,Mainz,Union Berlin,1,1,8,9,2,17,1,0
-2024-08-24,Bundesliga,2024-25,RB Leipzig,Bochum,1,0,9,3,1,12,0,0
-2024-08-24,Bundesliga,2024-25,Dortmund,Ein Frankfurt,2,0,7,7,2,14,0,0
-2024-08-25,Bundesliga,2024-25,Wolfsburg,Bayern Munich,2,3,1,7,5,8,1,1
-2024-08-25,Bundesliga,2024-25,St Pauli,Heidenheim,0,2,4,2,2,6,0,0
-2024-08-30,Bundesliga,2024-25,Union Berlin,St Pauli,1,0,5,4,1,9,0,0
-2024-08-31,Bundesliga,2024-25,Leverkusen,RB Leipzig,2,3,18,2,5,20,1,1
-2024-08-31,Bundesliga,2024-25,Werder Bremen,Dortmund,0,0,5,6,0,11,0,0
-2024-08-31,Bundesliga,2024-25,Stuttgart,Mainz,3,3,11,2,6,13,1,1
-2024-08-31,Bundesliga,2024-25,Bochum,M'gladbach,0,2,3,4,2,7,0,0
-2024-08-31,Bundesliga,2024-25,Ein Frankfurt,Hoffenheim,3,1,1,4,4,5,1,1
-2024-08-31,Bundesliga,2024-25,Holstein Kiel,Wolfsburg,0,2,1,7,2,8,0,0
-2024-09-01,Bundesliga,2024-25,Heidenheim,Augsburg,4,0,5,6,4,11,0,1
-2024-09-01,Bundesliga,2024-25,Bayern Munich,Freiburg,2,0,2,4,2,6,0,0
-2024-09-13,Bundesliga,2024-25,Dortmund,Heidenheim,4,2,8,1,6,9,1,1
-2024-09-14,Bundesliga,2024-25,Wolfsburg,Ein Frankfurt,1,2,5,4,3,9,1,1
-2024-09-14,Bundesliga,2024-25,Holstein Kiel,Bayern Munich,1,6,2,10,7,12,1,1
-2024-09-14,Bundesliga,2024-25,RB Leipzig,Union Berlin,0,0,6,5,0,11,0,0
-2024-09-14,Bundesliga,2024-25,Freiburg,Bochum,2,1,5,6,3,11,1,1
-2024-09-14,Bundesliga,2024-25,Hoffenheim,Leverkusen,1,4,4,12,5,16,1,1
-2024-09-14,Bundesliga,2024-25,M'gladbach,Stuttgart,1,3,6,2,4,8,1,1
-2024-09-15,Bundesliga,2024-25,Augsburg,St Pauli,3,1,7,7,4,14,1,1
-2024-09-15,Bundesliga,2024-25,Mainz,Werder Bremen,1,2,10,4,3,14,1,1
-2024-09-20,Bundesliga,2024-25,Augsburg,Mainz,2,3,14,1,5,15,1,1
-2024-09-21,Bundesliga,2024-25,Ein Frankfurt,M'gladbach,2,0,8,5,2,13,0,0
-2024-09-21,Bundesliga,2024-25,Union Berlin,Hoffenheim,2,1,5,5,3,10,1,1
-2024-09-21,Bundesliga,2024-25,Werder Bremen,Bayern Munich,0,5,1,4,5,5,0,1
-2024-09-21,Bundesliga,2024-25,Bochum,Holstein Kiel,2,2,2,5,4,7,1,1
-2024-09-21,Bundesliga,2024-25,Heidenheim,Freiburg,0,3,3,9,3,12,0,1
-2024-09-22,Bundesliga,2024-25,Leverkusen,Wolfsburg,4,3,6,2,7,8,1,1
-2024-09-22,Bundesliga,2024-25,Stuttgart,Dortmund,5,1,6,4,6,10,1,1
-2024-09-22,Bundesliga,2024-25,St Pauli,RB Leipzig,0,0,3,1,0,4,0,0
-2024-09-27,Bundesliga,2024-25,Dortmund,Bochum,4,2,11,0,6,11,1,1
-2024-09-28,Bundesliga,2024-25,Wolfsburg,Stuttgart,2,2,1,3,4,4,1,1
-2024-09-28,Bundesliga,2024-25,Bayern Munich,Leverkusen,1,1,6,1,2,7,1,0
-2024-09-28,Bundesliga,2024-25,RB Leipzig,Augsburg,4,0,8,5,4,13,0,1
-2024-09-28,Bundesliga,2024-25,Freiburg,St Pauli,0,3,4,2,3,6,0,1
-2024-09-28,Bundesliga,2024-25,Mainz,Heidenheim,0,2,7,6,2,13,0,0
-2024-09-28,Bundesliga,2024-25,M'gladbach,Union Berlin,1,0,2,4,1,6,0,0
-2024-09-29,Bundesliga,2024-25,Holstein Kiel,Ein Frankfurt,2,4,4,9,6,13,1,1
-2024-09-29,Bundesliga,2024-25,Hoffenheim,Werder Bremen,3,4,2,6,7,8,1,1
-2024-10-04,Bundesliga,2024-25,Augsburg,M'gladbach,2,1,6,5,3,11,1,1
-2024-10-05,Bundesliga,2024-25,Bochum,Wolfsburg,1,3,7,6,4,13,1,1
-2024-10-05,Bundesliga,2024-25,Leverkusen,Holstein Kiel,2,2,12,3,4,15,1,1
-2024-10-05,Bundesliga,2024-25,Union Berlin,Dortmund,2,1,3,3,3,6,1,1
-2024-10-05,Bundesliga,2024-25,Werder Bremen,Freiburg,0,1,7,5,1,12,0,0
-2024-10-05,Bundesliga,2024-25,St Pauli,Mainz,0,3,2,2,3,4,0,1
-2024-10-06,Bundesliga,2024-25,Heidenheim,RB Leipzig,0,1,3,2,1,5,0,0
-2024-10-06,Bundesliga,2024-25,Ein Frankfurt,Bayern Munich,3,3,0,11,6,11,1,1
-2024-10-06,Bundesliga,2024-25,Stuttgart,Hoffenheim,1,1,10,5,2,15,1,0
-2024-10-18,Bundesliga,2024-25,Dortmund,St Pauli,2,1,7,1,3,8,1,1
-2024-10-19,Bundesliga,2024-25,Bayern Munich,Stuttgart,4,0,7,3,4,10,0,1
-2024-10-19,Bundesliga,2024-25,M'gladbach,Heidenheim,3,2,6,3,5,9,1,1
-2024-10-19,Bundesliga,2024-25,Mainz,RB Leipzig,0,2,5,3,2,8,0,0
-2024-10-19,Bundesliga,2024-25,Hoffenheim,Bochum,3,1,4,2,4,6,1,1
-2024-10-19,Bundesliga,2024-25,Freiburg,Augsburg,3,1,5,4,4,9,1,1
-2024-10-19,Bundesliga,2024-25,Leverkusen,Ein Frankfurt,2,1,8,3,3,11,1,1
-2024-10-20,Bundesliga,2024-25,Holstein Kiel,Union Berlin,0,2,7,3,2,10,0,0
-2024-10-20,Bundesliga,2024-25,Wolfsburg,Werder Bremen,2,4,4,4,6,8,1,1
-2024-10-25,Bundesliga,2024-25,Mainz,M'gladbach,1,1,2,4,2,6,1,0
-2024-10-26,Bundesliga,2024-25,Werder Bremen,Leverkusen,2,2,3,5,4,8,1,1
-2024-10-26,Bundesliga,2024-25,Stuttgart,Holstein Kiel,2,1,9,5,3,14,1,1
-2024-10-26,Bundesliga,2024-25,St Pauli,Wolfsburg,0,0,7,6,0,13,0,0
-2024-10-26,Bundesliga,2024-25,Augsburg,Dortmund,2,1,3,5,3,8,1,1
-2024-10-26,Bundesliga,2024-25,RB Leipzig,Freiburg,3,1,3,3,4,6,1,1
-2024-10-27,Bundesliga,2024-25,Bochum,Bayern Munich,0,5,2,5,5,7,0,1
-2024-10-27,Bundesliga,2024-25,Union Berlin,Ein Frankfurt,1,1,4,5,2,9,1,0
-2024-10-27,Bundesliga,2024-25,Heidenheim,Hoffenheim,0,0,7,3,0,10,0,0
-2024-11-01,Bundesliga,2024-25,Leverkusen,Stuttgart,0,0,10,2,0,12,0,0
-2024-11-02,Bundesliga,2024-25,Wolfsburg,Augsburg,1,1,8,1,2,9,1,0
-2024-11-02,Bundesliga,2024-25,Dortmund,RB Leipzig,2,1,4,0,3,4,1,1
-2024-11-02,Bundesliga,2024-25,Holstein Kiel,Heidenheim,1,0,5,6,1,11,0,0
-2024-11-02,Bundesliga,2024-25,Ein Frankfurt,Bochum,7,2,5,2,9,7,1,1
-2024-11-02,Bundesliga,2024-25,Hoffenheim,St Pauli,0,2,7,2,2,9,0,0
-2024-11-02,Bundesliga,2024-25,Bayern Munich,Union Berlin,3,0,7,4,3,11,0,1
-2024-11-03,Bundesliga,2024-25,Freiburg,Mainz,0,0,8,4,0,12,0,0
-2024-11-03,Bundesliga,2024-25,M'gladbach,Werder Bremen,4,1,7,7,5,14,1,1
-2024-11-08,Bundesliga,2024-25,Union Berlin,Freiburg,0,0,4,1,0,5,0,0
-2024-11-09,Bundesliga,2024-25,RB Leipzig,M'gladbach,0,0,8,4,0,12,0,0
-2024-11-09,Bundesliga,2024-25,St Pauli,Bayern Munich,0,1,5,10,1,15,0,0
-2024-11-09,Bundesliga,2024-25,Werder Bremen,Holstein Kiel,2,1,6,3,3,9,1,1
-2024-11-09,Bundesliga,2024-25,Bochum,Leverkusen,1,1,6,4,2,10,1,0
-2024-11-09,Bundesliga,2024-25,Mainz,Dortmund,3,1,8,0,4,8,1,1
-2024-11-10,Bundesliga,2024-25,Augsburg,Hoffenheim,0,0,10,6,0,16,0,0
-2024-11-10,Bundesliga,2024-25,Stuttgart,Ein Frankfurt,2,3,8,3,5,11,1,1
-2024-11-10,Bundesliga,2024-25,Heidenheim,Wolfsburg,1,3,5,5,4,10,1,1
-2024-11-22,Bundesliga,2024-25,Bayern Munich,Augsburg,3,0,8,0,3,8,0,1
-2024-11-23,Bundesliga,2024-25,Wolfsburg,Union Berlin,1,0,8,5,1,13,0,0
-2024-11-23,Bundesliga,2024-25,Ein Frankfurt,Werder Bremen,1,0,5,6,1,11,0,0
-2024-11-23,Bundesliga,2024-25,Stuttgart,Bochum,2,0,7,4,2,11,0,0
-2024-11-23,Bundesliga,2024-25,Leverkusen,Heidenheim,5,2,6,0,7,6,1,1
-2024-11-23,Bundesliga,2024-25,Hoffenheim,RB Leipzig,4,3,4,3,7,7,1,1
-2024-11-23,Bundesliga,2024-25,Dortmund,Freiburg,4,0,7,0,4,7,0,1
-2024-11-24,Bundesliga,2024-25,Holstein Kiel,Mainz,0,3,2,6,3,8,0,1
-2024-11-24,Bundesliga,2024-25,M'gladbach,St Pauli,2,0,5,4,2,9,0,0
-2024-11-29,Bundesliga,2024-25,St Pauli,Holstein Kiel,3,1,4,4,4,8,1,1
-2024-11-30,Bundesliga,2024-25,Augsburg,Bochum,1,0,6,1,1,7,0,0
-2024-11-30,Bundesliga,2024-25,Freiburg,M'gladbach,3,1,4,6,4,10,1,1
-2024-11-30,Bundesliga,2024-25,RB Leipzig,Wolfsburg,1,5,7,3,6,10,1,1
-2024-11-30,Bundesliga,2024-25,Union Berlin,Leverkusen,1,2,1,3,3,4,1,1
-2024-11-30,Bundesliga,2024-25,Werder Bremen,Stuttgart,2,2,11,2,4,13,1,1
-2024-11-30,Bundesliga,2024-25,Dortmund,Bayern Munich,1,1,2,3,2,5,1,0
-2024-12-01,Bundesliga,2024-25,Mainz,Hoffenheim,2,0,8,3,2,11,0,0
-2024-12-01,Bundesliga,2024-25,Heidenheim,Ein Frankfurt,0,4,6,5,4,11,0,1
-2024-12-06,Bundesliga,2024-25,Stuttgart,Union Berlin,3,2,1,6,5,7,1,1
-2024-12-07,Bundesliga,2024-25,M'gladbach,Dortmund,1,1,7,4,2,11,1,0
-2024-12-07,Bundesliga,2024-25,Leverkusen,St Pauli,2,1,7,4,3,11,1,1
-2024-12-07,Bundesliga,2024-25,Holstein Kiel,RB Leipzig,0,2,6,1,2,7,0,0
-2024-12-07,Bundesliga,2024-25,Ein Frankfurt,Augsburg,2,2,4,0,4,4,1,1
-2024-12-07,Bundesliga,2024-25,Bochum,Werder Bremen,0,1,9,5,1,14,0,0
-2024-12-07,Bundesliga,2024-25,Bayern Munich,Heidenheim,4,2,8,0,6,8,1,1
-2024-12-08,Bundesliga,2024-25,Wolfsburg,Mainz,4,3,3,5,7,8,1,1
-2024-12-08,Bundesliga,2024-25,Hoffenheim,Freiburg,1,1,6,1,2,7,1,0
-2024-12-13,Bundesliga,2024-25,Freiburg,Wolfsburg,3,2,5,6,5,11,1,1
-2024-12-14,Bundesliga,2024-25,St Pauli,Werder Bremen,0,2,4,5,2,9,0,0
-2024-12-14,Bundesliga,2024-25,Union Berlin,Bochum,0,2,0,0,2,0,0,0
-2024-12-14,Bundesliga,2024-25,M'gladbach,Holstein Kiel,4,1,5,2,5,7,1,1
-2024-12-14,Bundesliga,2024-25,Mainz,Bayern Munich,2,1,3,2,3,5,1,1
-2024-12-14,Bundesliga,2024-25,Augsburg,Leverkusen,0,2,4,9,2,13,0,0
-2024-12-15,Bundesliga,2024-25,Heidenheim,Stuttgart,1,3,9,6,4,15,1,1
-2024-12-15,Bundesliga,2024-25,Dortmund,Hoffenheim,1,1,3,9,2,12,1,0
-2024-12-15,Bundesliga,2024-25,RB Leipzig,Ein Frankfurt,2,1,6,7,3,13,1,1
-2024-12-20,Bundesliga,2024-25,Bayern Munich,RB Leipzig,5,1,8,1,6,9,1,1
-2024-12-21,Bundesliga,2024-25,Leverkusen,Freiburg,5,1,4,2,6,6,1,1
-2024-12-21,Bundesliga,2024-25,Werder Bremen,Union Berlin,4,1,4,9,5,13,1,1
-2024-12-21,Bundesliga,2024-25,Holstein Kiel,Augsburg,5,1,3,8,6,11,1,1
-2024-12-21,Bundesliga,2024-25,Hoffenheim,M'gladbach,1,2,8,4,3,12,1,1
-2024-12-21,Bundesliga,2024-25,Ein Frankfurt,Mainz,1,3,17,2,4,19,1,1
-2024-12-21,Bundesliga,2024-25,Stuttgart,St Pauli,0,1,9,1,1,10,0,0
-2024-12-22,Bundesliga,2024-25,Bochum,Heidenheim,2,0,5,2,2,7,0,0
-2024-12-22,Bundesliga,2024-25,Wolfsburg,Dortmund,1,3,10,4,4,14,1,1
-2025-01-10,Bundesliga,2024-25,Dortmund,Leverkusen,2,3,6,1,5,7,1,1
-2025-01-11,Bundesliga,2024-25,Freiburg,Holstein Kiel,3,2,7,1,5,8,1,1
-2025-01-11,Bundesliga,2024-25,Heidenheim,Union Berlin,2,0,5,4,2,9,0,0
-2025-01-11,Bundesliga,2024-25,Hoffenheim,Wolfsburg,0,1,4,8,1,12,0,0
-2025-01-11,Bundesliga,2024-25,Mainz,Bochum,2,0,5,6,2,11,0,0
-2025-01-11,Bundesliga,2024-25,St Pauli,Ein Frankfurt,0,1,3,3,1,6,0,0
-2025-01-11,Bundesliga,2024-25,M'gladbach,Bayern Munich,0,1,4,10,1,14,0,0
-2025-01-12,Bundesliga,2024-25,Augsburg,Stuttgart,0,1,3,9,1,12,0,0
-2025-01-12,Bundesliga,2024-25,RB Leipzig,Werder Bremen,4,2,4,1,6,5,1,1
-2025-01-14,Bundesliga,2024-25,Ein Frankfurt,Freiburg,4,1,8,1,5,9,1,1
-2025-01-14,Bundesliga,2024-25,Leverkusen,Mainz,1,0,8,4,1,12,0,0
-2025-01-14,Bundesliga,2024-25,Holstein Kiel,Dortmund,4,2,1,9,6,10,1,1
-2025-01-14,Bundesliga,2024-25,Wolfsburg,M'gladbach,5,1,4,7,6,11,1,1
-2025-01-15,Bundesliga,2024-25,Union Berlin,Augsburg,0,2,7,4,2,11,0,0
-2025-01-15,Bundesliga,2024-25,Stuttgart,RB Leipzig,2,1,5,0,3,5,1,1
-2025-01-15,Bundesliga,2024-25,Werder Bremen,Heidenheim,3,3,4,2,6,6,1,1
-2025-01-15,Bundesliga,2024-25,Bochum,St Pauli,1,0,6,7,1,13,0,0
-2025-01-15,Bundesliga,2024-25,Bayern Munich,Hoffenheim,5,0,13,1,5,14,0,1
-2025-01-17,Bundesliga,2024-25,Ein Frankfurt,Dortmund,2,0,5,7,2,12,0,0
-2025-01-18,Bundesliga,2024-25,Bayern Munich,Wolfsburg,3,2,6,2,5,8,1,1
-2025-01-18,Bundesliga,2024-25,Bochum,RB Leipzig,3,3,6,3,6,9,1,1
-2025-01-18,Bundesliga,2024-25,Heidenheim,St Pauli,0,2,4,4,2,8,0,0
-2025-01-18,Bundesliga,2024-25,Holstein Kiel,Hoffenheim,1,3,4,3,4,7,1,1
-2025-01-18,Bundesliga,2024-25,Stuttgart,Freiburg,4,0,4,1,4,5,0,1
-2025-01-18,Bundesliga,2024-25,Leverkusen,M'gladbach,3,1,7,6,4,13,1,1
-2025-01-19,Bundesliga,2024-25,Union Berlin,Mainz,2,1,2,2,3,4,1,1
-2025-01-19,Bundesliga,2024-25,Werder Bremen,Augsburg,0,2,6,2,2,8,0,0
-2025-01-24,Bundesliga,2024-25,Wolfsburg,Holstein Kiel,2,2,10,3,4,13,1,1
-2025-01-25,Bundesliga,2024-25,Augsburg,Heidenheim,2,1,6,4,3,10,1,1
-2025-01-25,Bundesliga,2024-25,Dortmund,Werder Bremen,2,2,5,5,4,10,1,1
-2025-01-25,Bundesliga,2024-25,Freiburg,Bayern Munich,1,2,2,4,3,6,1,1
-2025-01-25,Bundesliga,2024-25,Mainz,Stuttgart,2,0,9,2,2,11,0,0
-2025-01-25,Bundesliga,2024-25,RB Leipzig,Leverkusen,2,2,7,3,4,10,1,1
-2025-01-25,Bundesliga,2024-25,M'gladbach,Bochum,3,0,8,7,3,15,0,1
-2025-01-26,Bundesliga,2024-25,St Pauli,Union Berlin,3,0,5,7,3,12,0,1
-2025-01-26,Bundesliga,2024-25,Hoffenheim,Ein Frankfurt,2,2,9,3,4,12,1,1
-2025-01-31,Bundesliga,2024-25,Werder Bremen,Mainz,1,0,3,8,1,11,0,0
-2025-02-01,Bundesliga,2024-25,Bayern Munich,Holstein Kiel,4,3,12,1,7,13,1,1
-2025-02-01,Bundesliga,2024-25,Bochum,Freiburg,0,1,9,7,1,16,0,0
-2025-02-01,Bundesliga,2024-25,Heidenheim,Dortmund,1,2,4,5,3,9,1,1
-2025-02-01,Bundesliga,2024-25,St Pauli,Augsburg,1,1,3,1,2,4,1,0
-2025-02-01,Bundesliga,2024-25,Stuttgart,M'gladbach,1,2,2,0,3,2,1,1
-2025-02-01,Bundesliga,2024-25,Union Berlin,RB Leipzig,0,0,4,5,0,9,0,0
-2025-02-02,Bundesliga,2024-25,Leverkusen,Hoffenheim,3,1,3,3,4,6,1,1
-2025-02-02,Bundesliga,2024-25,Ein Frankfurt,Wolfsburg,1,1,9,1,2,10,1,0
-2025-02-07,Bundesliga,2024-25,Bayern Munich,Werder Bremen,3,0,5,2,3,7,0,1
-2025-02-08,Bundesliga,2024-25,Dortmund,Stuttgart,1,2,9,4,3,13,1,1
-2025-02-08,Bundesliga,2024-25,Freiburg,Heidenheim,1,0,6,3,1,9,0,0
-2025-02-08,Bundesliga,2024-25,Hoffenheim,Union Berlin,0,4,8,4,4,12,0,1
-2025-02-08,Bundesliga,2024-25,Mainz,Augsburg,0,0,1,3,0,4,0,0
-2025-02-08,Bundesliga,2024-25,Wolfsburg,Leverkusen,0,0,3,9,0,12,0,0
-2025-02-08,Bundesliga,2024-25,M'gladbach,Ein Frankfurt,1,1,6,1,2,7,1,0
-2025-02-09,Bundesliga,2024-25,Holstein Kiel,Bochum,2,2,3,5,4,8,1,1
-2025-02-09,Bundesliga,2024-25,RB Leipzig,St Pauli,2,0,5,4,2,9,0,0
-2025-02-14,Bundesliga,2024-25,Augsburg,RB Leipzig,0,0,8,9,0,17,0,0
-2025-02-15,Bundesliga,2024-25,Bochum,Dortmund,2,0,2,8,2,10,0,0
-2025-02-15,Bundesliga,2024-25,St Pauli,Freiburg,0,1,2,6,1,8,0,0
-2025-02-15,Bundesliga,2024-25,Stuttgart,Wolfsburg,1,2,7,5,3,12,1,1
-2025-02-15,Bundesliga,2024-25,Union Berlin,M'gladbach,1,2,4,5,3,9,1,1
-2025-02-15,Bundesliga,2024-25,Leverkusen,Bayern Munich,0,0,6,0,0,6,0,0
-2025-02-16,Bundesliga,2024-25,Werder Bremen,Hoffenheim,1,3,6,4,4,10,1,1
-2025-02-16,Bundesliga,2024-25,Ein Frankfurt,Holstein Kiel,3,1,4,6,4,10,1,1
-2025-02-16,Bundesliga,2024-25,Heidenheim,Mainz,0,2,8,4,2,12,0,0
-2025-02-21,Bundesliga,2024-25,Freiburg,Werder Bremen,5,0,3,7,5,10,0,1
-2025-02-22,Bundesliga,2024-25,Dortmund,Union Berlin,6,0,5,3,6,8,0,1
-2025-02-22,Bundesliga,2024-25,Wolfsburg,Bochum,1,1,3,5,2,8,1,0
-2025-02-22,Bundesliga,2024-25,Mainz,St Pauli,2,0,6,5,2,11,0,0
-2025-02-22,Bundesliga,2024-25,Holstein Kiel,Leverkusen,0,2,5,11,2,16,0,0
-2025-02-22,Bundesliga,2024-25,M'gladbach,Augsburg,0,3,2,4,3,6,0,1
-2025-02-23,Bundesliga,2024-25,RB Leipzig,Heidenheim,2,2,7,4,4,11,1,1
-2025-02-23,Bundesliga,2024-25,Bayern Munich,Ein Frankfurt,4,0,4,1,4,5,0,1
-2025-02-23,Bundesliga,2024-25,Hoffenheim,Stuttgart,1,1,4,8,2,12,1,0
-2025-02-28,Bundesliga,2024-25,Stuttgart,Bayern Munich,1,3,4,6,4,10,1,1
-2025-03-01,Bundesliga,2024-25,Werder Bremen,Wolfsburg,1,2,8,2,3,10,1,1
-2025-03-01,Bundesliga,2024-25,Ein Frankfurt,Leverkusen,1,4,2,6,5,8,1,1
-2025-03-01,Bundesliga,2024-25,St Pauli,Dortmund,0,2,7,1,2,8,0,0
-2025-03-01,Bundesliga,2024-25,Bochum,Hoffenheim,0,1,8,5,1,13,0,0
-2025-03-01,Bundesliga,2024-25,Heidenheim,M'gladbach,0,3,6,2,3,8,0,1
-2025-03-01,Bundesliga,2024-25,RB Leipzig,Mainz,1,2,7,1,3,8,1,1
-2025-03-02,Bundesliga,2024-25,Union Berlin,Holstein Kiel,0,1,11,3,1,14,0,0
-2025-03-02,Bundesliga,2024-25,Augsburg,Freiburg,0,0,5,2,0,7,0,0
-2025-03-07,Bundesliga,2024-25,M'gladbach,Mainz,1,3,4,3,4,7,1,1
-2025-03-08,Bundesliga,2024-25,Bayern Munich,Bochum,2,3,9,3,5,12,1,1
-2025-03-08,Bundesliga,2024-25,Dortmund,Augsburg,0,1,12,3,1,15,0,0
-2025-03-08,Bundesliga,2024-25,Holstein Kiel,Stuttgart,2,2,3,1,4,4,1,1
-2025-03-08,Bundesliga,2024-25,Leverkusen,Werder Bremen,0,2,10,3,2,13,0,0
-2025-03-08,Bundesliga,2024-25,Wolfsburg,St Pauli,1,1,6,6,2,12,1,0
-2025-03-08,Bundesliga,2024-25,Freiburg,RB Leipzig,0,0,2,6,0,8,0,0
-2025-03-09,Bundesliga,2024-25,Ein Frankfurt,Union Berlin,1,2,1,5,3,6,1,1
-2025-03-09,Bundesliga,2024-25,Hoffenheim,Heidenheim,1,1,6,4,2,10,1,0
-2025-03-14,Bundesliga,2024-25,St Pauli,Hoffenheim,1,0,11,2,1,13,0,0
-2025-03-15,Bundesliga,2024-25,Werder Bremen,M'gladbach,2,4,4,1,6,5,1,1
-2025-03-15,Bundesliga,2024-25,RB Leipzig,Dortmund,2,0,3,12,2,15,0,0
-2025-03-15,Bundesliga,2024-25,Union Berlin,Bayern Munich,1,1,2,14,2,16,1,0
-2025-03-15,Bundesliga,2024-25,Augsburg,Wolfsburg,1,0,1,4,1,5,0,0
-2025-03-15,Bundesliga,2024-25,Mainz,Freiburg,2,2,1,4,4,5,1,1
-2025-03-16,Bundesliga,2024-25,Bochum,Ein Frankfurt,1,3,8,3,4,11,1,1
-2025-03-16,Bundesliga,2024-25,Heidenheim,Holstein Kiel,3,1,3,5,4,8,1,1
-2025-03-16,Bundesliga,2024-25,Stuttgart,Leverkusen,3,4,1,10,7,11,1,1
-2025-03-28,Bundesliga,2024-25,Leverkusen,Bochum,3,1,3,2,4,5,1,1
-2025-03-29,Bundesliga,2024-25,Bayern Munich,St Pauli,3,2,5,4,5,9,1,1
-2025-03-29,Bundesliga,2024-25,Hoffenheim,Augsburg,1,1,2,2,2,4,1,0
-2025-03-29,Bundesliga,2024-25,Holstein Kiel,Werder Bremen,0,3,3,4,3,7,0,1
-2025-03-29,Bundesliga,2024-25,M'gladbach,RB Leipzig,1,0,5,8,1,13,0,0
-2025-03-29,Bundesliga,2024-25,Wolfsburg,Heidenheim,0,1,4,5,1,9,0,0
-2025-03-29,Bundesliga,2024-25,Ein Frankfurt,Stuttgart,1,0,6,10,1,16,0,0
-2025-03-30,Bundesliga,2024-25,Freiburg,Union Berlin,1,2,3,3,3,6,1,1
-2025-03-30,Bundesliga,2024-25,Dortmund,Mainz,3,1,6,4,4,10,1,1
-2025-04-04,Bundesliga,2024-25,Augsburg,Bayern Munich,1,3,2,4,4,6,1,1
-2025-04-05,Bundesliga,2024-25,Mainz,Holstein Kiel,1,1,4,4,2,8,1,0
-2025-04-05,Bundesliga,2024-25,Heidenheim,Leverkusen,0,1,4,0,1,4,0,0
-2025-04-05,Bundesliga,2024-25,Werder Bremen,Ein Frankfurt,2,0,5,6,2,11,0,0
-2025-04-05,Bundesliga,2024-25,Bochum,Stuttgart,0,4,2,4,4,6,0,1
-2025-04-05,Bundesliga,2024-25,Freiburg,Dortmund,1,4,3,4,5,7,1,1
-2025-04-05,Bundesliga,2024-25,RB Leipzig,Hoffenheim,3,1,8,2,4,10,1,1
-2025-04-06,Bundesliga,2024-25,St Pauli,M'gladbach,1,1,11,2,2,13,1,0
-2025-04-06,Bundesliga,2024-25,Union Berlin,Wolfsburg,1,0,6,4,1,10,0,0
-2025-04-11,Bundesliga,2024-25,Wolfsburg,RB Leipzig,2,3,8,5,5,13,1,1
-2025-04-12,Bundesliga,2024-25,Leverkusen,Union Berlin,0,0,7,3,0,10,0,0
-2025-04-12,Bundesliga,2024-25,Holstein Kiel,St Pauli,1,2,3,3,3,6,1,1
-2025-04-12,Bundesliga,2024-25,Bayern Munich,Dortmund,2,2,6,5,4,11,1,1
-2025-04-12,Bundesliga,2024-25,Bochum,Augsburg,1,2,7,6,3,13,1,1
-2025-04-12,Bundesliga,2024-25,Hoffenheim,Mainz,2,0,4,7,2,11,0,0
-2025-04-12,Bundesliga,2024-25,M'gladbach,Freiburg,1,2,4,6,3,10,1,1
-2025-04-13,Bundesliga,2024-25,Stuttgart,Werder Bremen,1,2,3,4,3,7,1,1
-2025-04-13,Bundesliga,2024-25,Ein Frankfurt,Heidenheim,3,0,5,3,3,8,0,1
-2025-04-19,Bundesliga,2024-25,Union Berlin,Stuttgart,4,4,3,5,8,8,1,1
-2025-04-19,Bundesliga,2024-25,Freiburg,Hoffenheim,3,2,2,6,5,8,1,1
-2025-04-19,Bundesliga,2024-25,Heidenheim,Bayern Munich,0,4,4,4,4,8,0,1
-2025-04-19,Bundesliga,2024-25,Mainz,Wolfsburg,2,2,7,5,4,12,1,1
-2025-04-19,Bundesliga,2024-25,RB Leipzig,Holstein Kiel,1,1,9,7,2,16,1,0
-2025-04-19,Bundesliga,2024-25,Werder Bremen,Bochum,1,0,2,7,1,9,0,0
-2025-04-20,Bundesliga,2024-25,St Pauli,Leverkusen,1,1,4,4,2,8,1,0
-2025-04-20,Bundesliga,2024-25,Augsburg,Ein Frankfurt,0,0,3,9,0,12,0,0
-2025-04-20,Bundesliga,2024-25,Dortmund,M'gladbach,3,2,6,2,5,8,1,1
-2025-04-25,Bundesliga,2024-25,Stuttgart,Heidenheim,0,1,6,5,1,11,0,0
-2025-04-26,Bundesliga,2024-25,Bayern Munich,Mainz,3,0,4,4,3,8,0,1
-2025-04-26,Bundesliga,2024-25,Hoffenheim,Dortmund,2,3,2,5,5,7,1,1
-2025-04-26,Bundesliga,2024-25,Holstein Kiel,M'gladbach,4,3,7,8,7,15,1,1
-2025-04-26,Bundesliga,2024-25,Leverkusen,Augsburg,2,0,3,7,2,10,0,0
-2025-04-26,Bundesliga,2024-25,Wolfsburg,Freiburg,0,1,3,2,1,5,0,0
-2025-04-26,Bundesliga,2024-25,Ein Frankfurt,RB Leipzig,4,0,8,4,4,12,0,1
-2025-04-27,Bundesliga,2024-25,Bochum,Union Berlin,1,1,10,4,2,14,1,0
-2025-04-27,Bundesliga,2024-25,Werder Bremen,St Pauli,0,0,1,3,0,4,0,0
-2025-05-02,Bundesliga,2024-25,Heidenheim,Bochum,0,0,6,4,0,10,0,0
-2025-05-03,Bundesliga,2024-25,Union Berlin,Werder Bremen,2,2,5,5,4,10,1,1
-2025-05-03,Bundesliga,2024-25,St Pauli,Stuttgart,0,1,4,4,1,8,0,0
-2025-05-03,Bundesliga,2024-25,Dortmund,Wolfsburg,4,0,4,3,4,7,0,1
-2025-05-03,Bundesliga,2024-25,M'gladbach,Hoffenheim,4,4,4,7,8,11,1,1
-2025-05-03,Bundesliga,2024-25,RB Leipzig,Bayern Munich,3,3,2,7,6,9,1,1
-2025-05-04,Bundesliga,2024-25,Freiburg,Leverkusen,2,2,4,1,4,5,1,1
-2025-05-04,Bundesliga,2024-25,Mainz,Ein Frankfurt,1,1,8,1,2,9,1,0
-2025-05-04,Bundesliga,2024-25,Augsburg,Holstein Kiel,1,3,12,0,4,12,1,1
-2025-05-09,Bundesliga,2024-25,Wolfsburg,Hoffenheim,2,2,5,6,4,11,1,1
-2025-05-10,Bundesliga,2024-25,Bochum,Mainz,1,4,6,6,5,12,1,1
-2025-05-10,Bundesliga,2024-25,Holstein Kiel,Freiburg,1,2,2,5,3,7,1,1
-2025-05-10,Bundesliga,2024-25,Union Berlin,Heidenheim,0,3,1,2,3,3,0,1
-2025-05-10,Bundesliga,2024-25,Werder Bremen,RB Leipzig,0,0,11,4,0,15,0,0
-2025-05-10,Bundesliga,2024-25,Bayern Munich,M'gladbach,2,0,4,9,2,13,0,0
-2025-05-11,Bundesliga,2024-25,Leverkusen,Dortmund,2,4,12,0,6,12,1,1
-2025-05-11,Bundesliga,2024-25,Ein Frankfurt,St Pauli,2,2,3,1,4,4,1,1
-2025-05-11,Bundesliga,2024-25,Stuttgart,Augsburg,4,0,11,2,4,13,0,1
-2025-05-17,Bundesliga,2024-25,Mainz,Leverkusen,2,2,7,3,4,10,1,1
-2025-05-17,Bundesliga,2024-25,M'gladbach,Wolfsburg,0,1,7,10,1,17,0,0
-2025-05-17,Bundesliga,2024-25,Hoffenheim,Bayern Munich,0,4,1,4,4,5,0,1
-2025-05-17,Bundesliga,2024-25,RB Leipzig,Stuttgart,2,3,5,8,5,13,1,1
-2025-05-17,Bundesliga,2024-25,Freiburg,Ein Frankfurt,1,3,4,7,4,11,1,1
-2025-05-17,Bundesliga,2024-25,Dortmund,Holstein Kiel,3,0,7,1,3,8,0,1
-2025-05-17,Bundesliga,2024-25,Augsburg,Union Berlin,1,2,4,0,3,4,1,1
-2025-05-17,Bundesliga,2024-25,Heidenheim,Werder Bremen,1,4,6,4,5,10,1,1
-2025-05-17,Bundesliga,2024-25,St Pauli,Bochum,0,2,7,4,2,11,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2024-08-23,Bundesliga,2024-25,M'gladbach,Leverkusen,2,3,2,4,1,0,0,0,5,6,1,0,1,1
+2024-08-24,Bundesliga,2024-25,Augsburg,Werder Bremen,2,2,4,2,3,1,0,0,4,6,4,0,1,1
+2024-08-24,Bundesliga,2024-25,Freiburg,Stuttgart,3,1,6,3,2,1,0,0,4,9,3,0,1,1
+2024-08-24,Bundesliga,2024-25,Hoffenheim,Holstein Kiel,3,2,8,6,2,3,0,1,5,14,5,1,1,1
+2024-08-24,Bundesliga,2024-25,Mainz,Union Berlin,1,1,8,9,1,3,0,0,2,17,4,0,1,0
+2024-08-24,Bundesliga,2024-25,RB Leipzig,Bochum,1,0,9,3,1,3,1,0,1,12,4,1,0,0
+2024-08-24,Bundesliga,2024-25,Dortmund,Ein Frankfurt,2,0,7,7,0,1,0,0,2,14,1,0,0,0
+2024-08-25,Bundesliga,2024-25,Wolfsburg,Bayern Munich,2,3,1,7,2,3,0,0,5,8,5,0,1,1
+2024-08-25,Bundesliga,2024-25,St Pauli,Heidenheim,0,2,4,2,2,3,0,0,2,6,5,0,0,0
+2024-08-30,Bundesliga,2024-25,Union Berlin,St Pauli,1,0,5,4,3,1,0,0,1,9,4,0,0,0
+2024-08-31,Bundesliga,2024-25,Leverkusen,RB Leipzig,2,3,18,2,3,1,0,0,5,20,4,0,1,1
+2024-08-31,Bundesliga,2024-25,Werder Bremen,Dortmund,0,0,5,6,2,7,0,1,0,11,9,1,0,0
+2024-08-31,Bundesliga,2024-25,Stuttgart,Mainz,3,3,11,2,4,2,0,0,6,13,6,0,1,1
+2024-08-31,Bundesliga,2024-25,Bochum,M'gladbach,0,2,3,4,1,0,0,0,2,7,1,0,0,0
+2024-08-31,Bundesliga,2024-25,Ein Frankfurt,Hoffenheim,3,1,1,4,0,3,0,0,4,5,3,0,1,1
+2024-08-31,Bundesliga,2024-25,Holstein Kiel,Wolfsburg,0,2,1,7,4,7,0,0,2,8,11,0,0,0
+2024-09-01,Bundesliga,2024-25,Heidenheim,Augsburg,4,0,5,6,0,3,0,0,4,11,3,0,0,1
+2024-09-01,Bundesliga,2024-25,Bayern Munich,Freiburg,2,0,2,4,1,0,0,0,2,6,1,0,0,0
+2024-09-13,Bundesliga,2024-25,Dortmund,Heidenheim,4,2,8,1,2,2,0,0,6,9,4,0,1,1
+2024-09-14,Bundesliga,2024-25,Wolfsburg,Ein Frankfurt,1,2,5,4,1,2,0,0,3,9,3,0,1,1
+2024-09-14,Bundesliga,2024-25,Holstein Kiel,Bayern Munich,1,6,2,10,0,1,0,0,7,12,1,0,1,1
+2024-09-14,Bundesliga,2024-25,RB Leipzig,Union Berlin,0,0,6,5,2,3,0,0,0,11,5,0,0,0
+2024-09-14,Bundesliga,2024-25,Freiburg,Bochum,2,1,5,6,0,3,0,0,3,11,3,0,1,1
+2024-09-14,Bundesliga,2024-25,Hoffenheim,Leverkusen,1,4,4,12,2,2,0,0,5,16,4,0,1,1
+2024-09-14,Bundesliga,2024-25,M'gladbach,Stuttgart,1,3,6,2,2,2,0,0,4,8,4,0,1,1
+2024-09-15,Bundesliga,2024-25,Augsburg,St Pauli,3,1,7,7,4,3,0,0,4,14,7,0,1,1
+2024-09-15,Bundesliga,2024-25,Mainz,Werder Bremen,1,2,10,4,3,1,0,1,3,14,4,1,1,1
+2024-09-20,Bundesliga,2024-25,Augsburg,Mainz,2,3,14,1,3,5,1,1,5,15,8,2,1,1
+2024-09-21,Bundesliga,2024-25,Ein Frankfurt,M'gladbach,2,0,8,5,1,1,0,0,2,13,2,0,0,0
+2024-09-21,Bundesliga,2024-25,Union Berlin,Hoffenheim,2,1,5,5,3,3,0,0,3,10,6,0,1,1
+2024-09-21,Bundesliga,2024-25,Werder Bremen,Bayern Munich,0,5,1,4,0,3,0,0,5,5,3,0,0,1
+2024-09-21,Bundesliga,2024-25,Bochum,Holstein Kiel,2,2,2,5,4,1,0,0,4,7,5,0,1,1
+2024-09-21,Bundesliga,2024-25,Heidenheim,Freiburg,0,3,3,9,1,1,0,0,3,12,2,0,0,1
+2024-09-22,Bundesliga,2024-25,Leverkusen,Wolfsburg,4,3,6,2,4,5,0,1,7,8,9,1,1,1
+2024-09-22,Bundesliga,2024-25,Stuttgart,Dortmund,5,1,6,4,1,3,0,0,6,10,4,0,1,1
+2024-09-22,Bundesliga,2024-25,St Pauli,RB Leipzig,0,0,3,1,2,1,0,0,0,4,3,0,0,0
+2024-09-27,Bundesliga,2024-25,Dortmund,Bochum,4,2,11,0,2,0,0,0,6,11,2,0,1,1
+2024-09-28,Bundesliga,2024-25,Wolfsburg,Stuttgart,2,2,1,3,5,2,0,1,4,4,7,1,1,1
+2024-09-28,Bundesliga,2024-25,Bayern Munich,Leverkusen,1,1,6,1,1,3,0,0,2,7,4,0,1,0
+2024-09-28,Bundesliga,2024-25,RB Leipzig,Augsburg,4,0,8,5,1,2,0,0,4,13,3,0,0,1
+2024-09-28,Bundesliga,2024-25,Freiburg,St Pauli,0,3,4,2,3,3,0,0,3,6,6,0,0,1
+2024-09-28,Bundesliga,2024-25,Mainz,Heidenheim,0,2,7,6,4,4,1,1,2,13,8,2,0,0
+2024-09-28,Bundesliga,2024-25,M'gladbach,Union Berlin,1,0,2,4,3,1,0,0,1,6,4,0,0,0
+2024-09-29,Bundesliga,2024-25,Holstein Kiel,Ein Frankfurt,2,4,4,9,1,3,0,0,6,13,4,0,1,1
+2024-09-29,Bundesliga,2024-25,Hoffenheim,Werder Bremen,3,4,2,6,3,3,1,0,7,8,6,1,1,1
+2024-10-04,Bundesliga,2024-25,Augsburg,M'gladbach,2,1,6,5,2,4,0,0,3,11,6,0,1,1
+2024-10-05,Bundesliga,2024-25,Bochum,Wolfsburg,1,3,7,6,1,2,0,0,4,13,3,0,1,1
+2024-10-05,Bundesliga,2024-25,Leverkusen,Holstein Kiel,2,2,12,3,2,2,0,0,4,15,4,0,1,1
+2024-10-05,Bundesliga,2024-25,Union Berlin,Dortmund,2,1,3,3,4,4,0,0,3,6,8,0,1,1
+2024-10-05,Bundesliga,2024-25,Werder Bremen,Freiburg,0,1,7,5,1,2,0,0,1,12,3,0,0,0
+2024-10-05,Bundesliga,2024-25,St Pauli,Mainz,0,3,2,2,0,3,0,0,3,4,3,0,0,1
+2024-10-06,Bundesliga,2024-25,Heidenheim,RB Leipzig,0,1,3,2,2,2,0,0,1,5,4,0,0,0
+2024-10-06,Bundesliga,2024-25,Ein Frankfurt,Bayern Munich,3,3,0,11,1,1,0,0,6,11,2,0,1,1
+2024-10-06,Bundesliga,2024-25,Stuttgart,Hoffenheim,1,1,10,5,1,4,0,0,2,15,5,0,1,0
+2024-10-18,Bundesliga,2024-25,Dortmund,St Pauli,2,1,7,1,2,1,0,0,3,8,3,0,1,1
+2024-10-19,Bundesliga,2024-25,Bayern Munich,Stuttgart,4,0,7,3,0,2,0,0,4,10,2,0,0,1
+2024-10-19,Bundesliga,2024-25,M'gladbach,Heidenheim,3,2,6,3,3,3,0,0,5,9,6,0,1,1
+2024-10-19,Bundesliga,2024-25,Mainz,RB Leipzig,0,2,5,3,1,3,0,0,2,8,4,0,0,0
+2024-10-19,Bundesliga,2024-25,Hoffenheim,Bochum,3,1,4,2,1,1,0,0,4,6,2,0,1,1
+2024-10-19,Bundesliga,2024-25,Freiburg,Augsburg,3,1,5,4,1,1,0,0,4,9,2,0,1,1
+2024-10-19,Bundesliga,2024-25,Leverkusen,Ein Frankfurt,2,1,8,3,2,1,0,0,3,11,3,0,1,1
+2024-10-20,Bundesliga,2024-25,Holstein Kiel,Union Berlin,0,2,7,3,2,1,0,0,2,10,3,0,0,0
+2024-10-20,Bundesliga,2024-25,Wolfsburg,Werder Bremen,2,4,4,4,1,1,1,0,6,8,2,1,1,1
+2024-10-25,Bundesliga,2024-25,Mainz,M'gladbach,1,1,2,4,3,2,0,0,2,6,5,0,1,0
+2024-10-26,Bundesliga,2024-25,Werder Bremen,Leverkusen,2,2,3,5,1,1,0,0,4,8,2,0,1,1
+2024-10-26,Bundesliga,2024-25,Stuttgart,Holstein Kiel,2,1,9,5,3,6,1,1,3,14,9,2,1,1
+2024-10-26,Bundesliga,2024-25,St Pauli,Wolfsburg,0,0,7,6,0,3,0,0,0,13,3,0,0,0
+2024-10-26,Bundesliga,2024-25,Augsburg,Dortmund,2,1,3,5,3,3,0,1,3,8,6,1,1,1
+2024-10-26,Bundesliga,2024-25,RB Leipzig,Freiburg,3,1,3,3,3,2,0,0,4,6,5,0,1,1
+2024-10-27,Bundesliga,2024-25,Bochum,Bayern Munich,0,5,2,5,1,1,0,0,5,7,2,0,0,1
+2024-10-27,Bundesliga,2024-25,Union Berlin,Ein Frankfurt,1,1,4,5,5,3,0,1,2,9,8,1,1,0
+2024-10-27,Bundesliga,2024-25,Heidenheim,Hoffenheim,0,0,7,3,1,2,0,0,0,10,3,0,0,0
+2024-11-01,Bundesliga,2024-25,Leverkusen,Stuttgart,0,0,10,2,3,4,0,0,0,12,7,0,0,0
+2024-11-02,Bundesliga,2024-25,Wolfsburg,Augsburg,1,1,8,1,1,3,0,0,2,9,4,0,1,0
+2024-11-02,Bundesliga,2024-25,Dortmund,RB Leipzig,2,1,4,0,3,4,0,0,3,4,7,0,1,1
+2024-11-02,Bundesliga,2024-25,Holstein Kiel,Heidenheim,1,0,5,6,4,5,0,0,1,11,9,0,0,0
+2024-11-02,Bundesliga,2024-25,Ein Frankfurt,Bochum,7,2,5,2,1,2,0,0,9,7,3,0,1,1
+2024-11-02,Bundesliga,2024-25,Hoffenheim,St Pauli,0,2,7,2,0,2,0,0,2,9,2,0,0,0
+2024-11-02,Bundesliga,2024-25,Bayern Munich,Union Berlin,3,0,7,4,0,2,0,0,3,11,2,0,0,1
+2024-11-03,Bundesliga,2024-25,Freiburg,Mainz,0,0,8,4,1,2,0,0,0,12,3,0,0,0
+2024-11-03,Bundesliga,2024-25,M'gladbach,Werder Bremen,4,1,7,7,1,4,0,1,5,14,5,1,1,1
+2024-11-08,Bundesliga,2024-25,Union Berlin,Freiburg,0,0,4,1,2,0,0,0,0,5,2,0,0,0
+2024-11-09,Bundesliga,2024-25,RB Leipzig,M'gladbach,0,0,8,4,2,2,0,0,0,12,4,0,0,0
+2024-11-09,Bundesliga,2024-25,St Pauli,Bayern Munich,0,1,5,10,2,2,0,0,1,15,4,0,0,0
+2024-11-09,Bundesliga,2024-25,Werder Bremen,Holstein Kiel,2,1,6,3,3,2,0,0,3,9,5,0,1,1
+2024-11-09,Bundesliga,2024-25,Bochum,Leverkusen,1,1,6,4,0,1,0,0,2,10,1,0,1,0
+2024-11-09,Bundesliga,2024-25,Mainz,Dortmund,3,1,8,0,3,1,0,1,4,8,4,1,1,1
+2024-11-10,Bundesliga,2024-25,Augsburg,Hoffenheim,0,0,10,6,2,3,0,0,0,16,5,0,0,0
+2024-11-10,Bundesliga,2024-25,Stuttgart,Ein Frankfurt,2,3,8,3,2,3,0,0,5,11,5,0,1,1
+2024-11-10,Bundesliga,2024-25,Heidenheim,Wolfsburg,1,3,5,5,1,6,0,0,4,10,7,0,1,1
+2024-11-22,Bundesliga,2024-25,Bayern Munich,Augsburg,3,0,8,0,0,2,0,1,3,8,2,1,0,1
+2024-11-23,Bundesliga,2024-25,Wolfsburg,Union Berlin,1,0,8,5,1,2,0,0,1,13,3,0,0,0
+2024-11-23,Bundesliga,2024-25,Ein Frankfurt,Werder Bremen,1,0,5,6,2,2,0,0,1,11,4,0,0,0
+2024-11-23,Bundesliga,2024-25,Stuttgart,Bochum,2,0,7,4,2,3,0,0,2,11,5,0,0,0
+2024-11-23,Bundesliga,2024-25,Leverkusen,Heidenheim,5,2,6,0,0,0,0,0,7,6,0,0,1,1
+2024-11-23,Bundesliga,2024-25,Hoffenheim,RB Leipzig,4,3,4,3,2,1,0,0,7,7,3,0,1,1
+2024-11-23,Bundesliga,2024-25,Dortmund,Freiburg,4,0,7,0,1,2,0,2,4,7,3,2,0,1
+2024-11-24,Bundesliga,2024-25,Holstein Kiel,Mainz,0,3,2,6,1,0,0,0,3,8,1,0,0,1
+2024-11-24,Bundesliga,2024-25,M'gladbach,St Pauli,2,0,5,4,1,0,0,0,2,9,1,0,0,0
+2024-11-29,Bundesliga,2024-25,St Pauli,Holstein Kiel,3,1,4,4,2,5,0,0,4,8,7,0,1,1
+2024-11-30,Bundesliga,2024-25,Augsburg,Bochum,1,0,6,1,3,3,0,0,1,7,6,0,0,0
+2024-11-30,Bundesliga,2024-25,Freiburg,M'gladbach,3,1,4,6,1,1,0,0,4,10,2,0,1,1
+2024-11-30,Bundesliga,2024-25,RB Leipzig,Wolfsburg,1,5,7,3,2,1,0,0,6,10,3,0,1,1
+2024-11-30,Bundesliga,2024-25,Union Berlin,Leverkusen,1,2,1,3,4,2,0,0,3,4,6,0,1,1
+2024-11-30,Bundesliga,2024-25,Werder Bremen,Stuttgart,2,2,11,2,1,1,0,0,4,13,2,0,1,1
+2024-11-30,Bundesliga,2024-25,Dortmund,Bayern Munich,1,1,2,3,2,2,0,0,2,5,4,0,1,0
+2024-12-01,Bundesliga,2024-25,Mainz,Hoffenheim,2,0,8,3,1,3,0,0,2,11,4,0,0,0
+2024-12-01,Bundesliga,2024-25,Heidenheim,Ein Frankfurt,0,4,6,5,0,2,0,0,4,11,2,0,0,1
+2024-12-06,Bundesliga,2024-25,Stuttgart,Union Berlin,3,2,1,6,1,6,0,0,5,7,7,0,1,1
+2024-12-07,Bundesliga,2024-25,M'gladbach,Dortmund,1,1,7,4,3,2,1,0,2,11,5,1,1,0
+2024-12-07,Bundesliga,2024-25,Leverkusen,St Pauli,2,1,7,4,1,3,0,0,3,11,4,0,1,1
+2024-12-07,Bundesliga,2024-25,Holstein Kiel,RB Leipzig,0,2,6,1,4,3,0,0,2,7,7,0,0,0
+2024-12-07,Bundesliga,2024-25,Ein Frankfurt,Augsburg,2,2,4,0,2,2,0,0,4,4,4,0,1,1
+2024-12-07,Bundesliga,2024-25,Bochum,Werder Bremen,0,1,9,5,1,1,0,0,1,14,2,0,0,0
+2024-12-07,Bundesliga,2024-25,Bayern Munich,Heidenheim,4,2,8,0,1,0,0,0,6,8,1,0,1,1
+2024-12-08,Bundesliga,2024-25,Wolfsburg,Mainz,4,3,3,5,3,4,0,0,7,8,7,0,1,1
+2024-12-08,Bundesliga,2024-25,Hoffenheim,Freiburg,1,1,6,1,1,1,0,0,2,7,2,0,1,0
+2024-12-13,Bundesliga,2024-25,Freiburg,Wolfsburg,3,2,5,6,4,1,0,0,5,11,5,0,1,1
+2024-12-14,Bundesliga,2024-25,St Pauli,Werder Bremen,0,2,4,5,2,3,0,0,2,9,5,0,0,0
+2024-12-14,Bundesliga,2024-25,Union Berlin,Bochum,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2024-12-14,Bundesliga,2024-25,M'gladbach,Holstein Kiel,4,1,5,2,1,1,0,0,5,7,2,0,1,1
+2024-12-14,Bundesliga,2024-25,Mainz,Bayern Munich,2,1,3,2,3,2,0,0,3,5,5,0,1,1
+2024-12-14,Bundesliga,2024-25,Augsburg,Leverkusen,0,2,4,9,3,0,0,0,2,13,3,0,0,0
+2024-12-15,Bundesliga,2024-25,Heidenheim,Stuttgart,1,3,9,6,4,3,0,0,4,15,7,0,1,1
+2024-12-15,Bundesliga,2024-25,Dortmund,Hoffenheim,1,1,3,9,5,2,0,0,2,12,7,0,1,0
+2024-12-15,Bundesliga,2024-25,RB Leipzig,Ein Frankfurt,2,1,6,7,1,3,0,0,3,13,4,0,1,1
+2024-12-20,Bundesliga,2024-25,Bayern Munich,RB Leipzig,5,1,8,1,5,2,0,0,6,9,7,0,1,1
+2024-12-21,Bundesliga,2024-25,Leverkusen,Freiburg,5,1,4,2,1,2,0,0,6,6,3,0,1,1
+2024-12-21,Bundesliga,2024-25,Werder Bremen,Union Berlin,4,1,4,9,2,2,0,0,5,13,4,0,1,1
+2024-12-21,Bundesliga,2024-25,Holstein Kiel,Augsburg,5,1,3,8,0,4,0,0,6,11,4,0,1,1
+2024-12-21,Bundesliga,2024-25,Hoffenheim,M'gladbach,1,2,8,4,0,0,0,0,3,12,0,0,1,1
+2024-12-21,Bundesliga,2024-25,Ein Frankfurt,Mainz,1,3,17,2,1,1,0,1,4,19,2,1,1,1
+2024-12-21,Bundesliga,2024-25,Stuttgart,St Pauli,0,1,9,1,2,2,0,0,1,10,4,0,0,0
+2024-12-22,Bundesliga,2024-25,Bochum,Heidenheim,2,0,5,2,2,7,0,0,2,7,9,0,0,0
+2024-12-22,Bundesliga,2024-25,Wolfsburg,Dortmund,1,3,10,4,3,2,0,1,4,14,5,1,1,1
+2025-01-10,Bundesliga,2024-25,Dortmund,Leverkusen,2,3,6,1,1,2,0,0,5,7,3,0,1,1
+2025-01-11,Bundesliga,2024-25,Freiburg,Holstein Kiel,3,2,7,1,2,3,0,0,5,8,5,0,1,1
+2025-01-11,Bundesliga,2024-25,Heidenheim,Union Berlin,2,0,5,4,0,1,0,1,2,9,1,1,0,0
+2025-01-11,Bundesliga,2024-25,Hoffenheim,Wolfsburg,0,1,4,8,1,2,0,0,1,12,3,0,0,0
+2025-01-11,Bundesliga,2024-25,Mainz,Bochum,2,0,5,6,0,2,0,0,2,11,2,0,0,0
+2025-01-11,Bundesliga,2024-25,St Pauli,Ein Frankfurt,0,1,3,3,0,3,0,0,1,6,3,0,0,0
+2025-01-11,Bundesliga,2024-25,M'gladbach,Bayern Munich,0,1,4,10,3,1,0,0,1,14,4,0,0,0
+2025-01-12,Bundesliga,2024-25,Augsburg,Stuttgart,0,1,3,9,5,1,0,0,1,12,6,0,0,0
+2025-01-12,Bundesliga,2024-25,RB Leipzig,Werder Bremen,4,2,4,1,1,1,0,0,6,5,2,0,1,1
+2025-01-14,Bundesliga,2024-25,Ein Frankfurt,Freiburg,4,1,8,1,1,1,0,0,5,9,2,0,1,1
+2025-01-14,Bundesliga,2024-25,Leverkusen,Mainz,1,0,8,4,2,3,0,0,1,12,5,0,0,0
+2025-01-14,Bundesliga,2024-25,Holstein Kiel,Dortmund,4,2,1,9,2,2,1,0,6,10,4,1,1,1
+2025-01-14,Bundesliga,2024-25,Wolfsburg,M'gladbach,5,1,4,7,1,0,0,0,6,11,1,0,1,1
+2025-01-15,Bundesliga,2024-25,Union Berlin,Augsburg,0,2,7,4,1,2,0,0,2,11,3,0,0,0
+2025-01-15,Bundesliga,2024-25,Stuttgart,RB Leipzig,2,1,5,0,2,7,0,2,3,5,9,2,1,1
+2025-01-15,Bundesliga,2024-25,Werder Bremen,Heidenheim,3,3,4,2,5,3,0,0,6,6,8,0,1,1
+2025-01-15,Bundesliga,2024-25,Bochum,St Pauli,1,0,6,7,1,3,0,1,1,13,4,1,0,0
+2025-01-15,Bundesliga,2024-25,Bayern Munich,Hoffenheim,5,0,13,1,1,1,0,0,5,14,2,0,0,1
+2025-01-17,Bundesliga,2024-25,Ein Frankfurt,Dortmund,2,0,5,7,0,2,0,0,2,12,2,0,0,0
+2025-01-18,Bundesliga,2024-25,Bayern Munich,Wolfsburg,3,2,6,2,2,3,0,0,5,8,5,0,1,1
+2025-01-18,Bundesliga,2024-25,Bochum,RB Leipzig,3,3,6,3,4,0,0,0,6,9,4,0,1,1
+2025-01-18,Bundesliga,2024-25,Heidenheim,St Pauli,0,2,4,4,1,2,0,0,2,8,3,0,0,0
+2025-01-18,Bundesliga,2024-25,Holstein Kiel,Hoffenheim,1,3,4,3,2,1,0,0,4,7,3,0,1,1
+2025-01-18,Bundesliga,2024-25,Stuttgart,Freiburg,4,0,4,1,5,3,0,0,4,5,8,0,0,1
+2025-01-18,Bundesliga,2024-25,Leverkusen,M'gladbach,3,1,7,6,0,2,0,0,4,13,2,0,1,1
+2025-01-19,Bundesliga,2024-25,Union Berlin,Mainz,2,1,2,2,2,2,0,0,3,4,4,0,1,1
+2025-01-19,Bundesliga,2024-25,Werder Bremen,Augsburg,0,2,6,2,1,2,0,0,2,8,3,0,0,0
+2025-01-24,Bundesliga,2024-25,Wolfsburg,Holstein Kiel,2,2,10,3,2,4,0,0,4,13,6,0,1,1
+2025-01-25,Bundesliga,2024-25,Augsburg,Heidenheim,2,1,6,4,1,0,0,0,3,10,1,0,1,1
+2025-01-25,Bundesliga,2024-25,Dortmund,Werder Bremen,2,2,5,5,1,4,1,0,4,10,5,1,1,1
+2025-01-25,Bundesliga,2024-25,Freiburg,Bayern Munich,1,2,2,4,4,2,0,0,3,6,6,0,1,1
+2025-01-25,Bundesliga,2024-25,Mainz,Stuttgart,2,0,9,2,4,3,0,0,2,11,7,0,0,0
+2025-01-25,Bundesliga,2024-25,RB Leipzig,Leverkusen,2,2,7,3,0,0,0,0,4,10,0,0,1,1
+2025-01-25,Bundesliga,2024-25,M'gladbach,Bochum,3,0,8,7,1,3,0,0,3,15,4,0,0,1
+2025-01-26,Bundesliga,2024-25,St Pauli,Union Berlin,3,0,5,7,0,3,0,0,3,12,3,0,0,1
+2025-01-26,Bundesliga,2024-25,Hoffenheim,Ein Frankfurt,2,2,9,3,3,0,0,0,4,12,3,0,1,1
+2025-01-31,Bundesliga,2024-25,Werder Bremen,Mainz,1,0,3,8,8,4,3,0,1,11,12,3,0,0
+2025-02-01,Bundesliga,2024-25,Bayern Munich,Holstein Kiel,4,3,12,1,1,1,0,0,7,13,2,0,1,1
+2025-02-01,Bundesliga,2024-25,Bochum,Freiburg,0,1,9,7,3,2,0,0,1,16,5,0,0,0
+2025-02-01,Bundesliga,2024-25,Heidenheim,Dortmund,1,2,4,5,0,0,0,0,3,9,0,0,1,1
+2025-02-01,Bundesliga,2024-25,St Pauli,Augsburg,1,1,3,1,1,3,0,0,2,4,4,0,1,0
+2025-02-01,Bundesliga,2024-25,Stuttgart,M'gladbach,1,2,2,0,2,2,0,0,3,2,4,0,1,1
+2025-02-01,Bundesliga,2024-25,Union Berlin,RB Leipzig,0,0,4,5,3,2,0,0,0,9,5,0,0,0
+2025-02-02,Bundesliga,2024-25,Leverkusen,Hoffenheim,3,1,3,3,4,3,1,0,4,6,7,1,1,1
+2025-02-02,Bundesliga,2024-25,Ein Frankfurt,Wolfsburg,1,1,9,1,1,3,0,0,2,10,4,0,1,0
+2025-02-07,Bundesliga,2024-25,Bayern Munich,Werder Bremen,3,0,5,2,1,3,0,0,3,7,4,0,0,1
+2025-02-08,Bundesliga,2024-25,Dortmund,Stuttgart,1,2,9,4,5,2,1,0,3,13,7,1,1,1
+2025-02-08,Bundesliga,2024-25,Freiburg,Heidenheim,1,0,6,3,3,1,0,0,1,9,4,0,0,0
+2025-02-08,Bundesliga,2024-25,Hoffenheim,Union Berlin,0,4,8,4,2,1,0,0,4,12,3,0,0,1
+2025-02-08,Bundesliga,2024-25,Mainz,Augsburg,0,0,1,3,3,3,0,0,0,4,6,0,0,0
+2025-02-08,Bundesliga,2024-25,Wolfsburg,Leverkusen,0,0,3,9,2,3,0,0,0,12,5,0,0,0
+2025-02-08,Bundesliga,2024-25,M'gladbach,Ein Frankfurt,1,1,6,1,3,3,0,0,2,7,6,0,1,0
+2025-02-09,Bundesliga,2024-25,Holstein Kiel,Bochum,2,2,3,5,2,2,0,0,4,8,4,0,1,1
+2025-02-09,Bundesliga,2024-25,RB Leipzig,St Pauli,2,0,5,4,2,2,1,0,2,9,4,1,0,0
+2025-02-14,Bundesliga,2024-25,Augsburg,RB Leipzig,0,0,8,9,2,1,0,0,0,17,3,0,0,0
+2025-02-15,Bundesliga,2024-25,Bochum,Dortmund,2,0,2,8,1,0,0,0,2,10,1,0,0,0
+2025-02-15,Bundesliga,2024-25,St Pauli,Freiburg,0,1,2,6,1,0,0,0,1,8,1,0,0,0
+2025-02-15,Bundesliga,2024-25,Stuttgart,Wolfsburg,1,2,7,5,3,4,0,0,3,12,7,0,1,1
+2025-02-15,Bundesliga,2024-25,Union Berlin,M'gladbach,1,2,4,5,0,1,0,0,3,9,1,0,1,1
+2025-02-15,Bundesliga,2024-25,Leverkusen,Bayern Munich,0,0,6,0,2,3,0,0,0,6,5,0,0,0
+2025-02-16,Bundesliga,2024-25,Werder Bremen,Hoffenheim,1,3,6,4,2,3,0,0,4,10,5,0,1,1
+2025-02-16,Bundesliga,2024-25,Ein Frankfurt,Holstein Kiel,3,1,4,6,2,0,0,0,4,10,2,0,1,1
+2025-02-16,Bundesliga,2024-25,Heidenheim,Mainz,0,2,8,4,1,3,0,0,2,12,4,0,0,0
+2025-02-21,Bundesliga,2024-25,Freiburg,Werder Bremen,5,0,3,7,3,0,0,0,5,10,3,0,0,1
+2025-02-22,Bundesliga,2024-25,Dortmund,Union Berlin,6,0,5,3,2,2,0,0,6,8,4,0,0,1
+2025-02-22,Bundesliga,2024-25,Wolfsburg,Bochum,1,1,3,5,2,3,0,0,2,8,5,0,1,0
+2025-02-22,Bundesliga,2024-25,Mainz,St Pauli,2,0,6,5,3,3,0,0,2,11,6,0,0,0
+2025-02-22,Bundesliga,2024-25,Holstein Kiel,Leverkusen,0,2,5,11,4,1,0,0,2,16,5,0,0,0
+2025-02-22,Bundesliga,2024-25,M'gladbach,Augsburg,0,3,2,4,3,2,1,0,3,6,5,1,0,1
+2025-02-23,Bundesliga,2024-25,RB Leipzig,Heidenheim,2,2,7,4,3,3,0,0,4,11,6,0,1,1
+2025-02-23,Bundesliga,2024-25,Bayern Munich,Ein Frankfurt,4,0,4,1,1,1,0,0,4,5,2,0,0,1
+2025-02-23,Bundesliga,2024-25,Hoffenheim,Stuttgart,1,1,4,8,0,0,0,0,2,12,0,0,1,0
+2025-02-28,Bundesliga,2024-25,Stuttgart,Bayern Munich,1,3,4,6,5,3,0,0,4,10,8,0,1,1
+2025-03-01,Bundesliga,2024-25,Werder Bremen,Wolfsburg,1,2,8,2,2,0,0,0,3,10,2,0,1,1
+2025-03-01,Bundesliga,2024-25,Ein Frankfurt,Leverkusen,1,4,2,6,1,1,0,0,5,8,2,0,1,1
+2025-03-01,Bundesliga,2024-25,St Pauli,Dortmund,0,2,7,1,1,2,0,0,2,8,3,0,0,0
+2025-03-01,Bundesliga,2024-25,Bochum,Hoffenheim,0,1,8,5,0,1,0,0,1,13,1,0,0,0
+2025-03-01,Bundesliga,2024-25,Heidenheim,M'gladbach,0,3,6,2,2,3,0,0,3,8,5,0,0,1
+2025-03-01,Bundesliga,2024-25,RB Leipzig,Mainz,1,2,7,1,1,1,0,0,3,8,2,0,1,1
+2025-03-02,Bundesliga,2024-25,Union Berlin,Holstein Kiel,0,1,11,3,4,0,0,0,1,14,4,0,0,0
+2025-03-02,Bundesliga,2024-25,Augsburg,Freiburg,0,0,5,2,1,1,0,0,0,7,2,0,0,0
+2025-03-07,Bundesliga,2024-25,M'gladbach,Mainz,1,3,4,3,0,1,0,0,4,7,1,0,1,1
+2025-03-08,Bundesliga,2024-25,Bayern Munich,Bochum,2,3,9,3,0,6,1,0,5,12,6,1,1,1
+2025-03-08,Bundesliga,2024-25,Dortmund,Augsburg,0,1,12,3,1,4,0,0,1,15,5,0,0,0
+2025-03-08,Bundesliga,2024-25,Holstein Kiel,Stuttgart,2,2,3,1,1,2,1,0,4,4,3,1,1,1
+2025-03-08,Bundesliga,2024-25,Leverkusen,Werder Bremen,0,2,10,3,4,4,0,0,2,13,8,0,0,0
+2025-03-08,Bundesliga,2024-25,Wolfsburg,St Pauli,1,1,6,6,1,0,0,0,2,12,1,0,1,0
+2025-03-08,Bundesliga,2024-25,Freiburg,RB Leipzig,0,0,2,6,0,3,0,0,0,8,3,0,0,0
+2025-03-09,Bundesliga,2024-25,Ein Frankfurt,Union Berlin,1,2,1,5,3,0,0,0,3,6,3,0,1,1
+2025-03-09,Bundesliga,2024-25,Hoffenheim,Heidenheim,1,1,6,4,2,3,0,0,2,10,5,0,1,0
+2025-03-14,Bundesliga,2024-25,St Pauli,Hoffenheim,1,0,11,2,0,1,0,0,1,13,1,0,0,0
+2025-03-15,Bundesliga,2024-25,Werder Bremen,M'gladbach,2,4,4,1,1,2,0,1,6,5,3,1,1,1
+2025-03-15,Bundesliga,2024-25,RB Leipzig,Dortmund,2,0,3,12,3,3,0,0,2,15,6,0,0,0
+2025-03-15,Bundesliga,2024-25,Union Berlin,Bayern Munich,1,1,2,14,1,2,0,0,2,16,3,0,1,0
+2025-03-15,Bundesliga,2024-25,Augsburg,Wolfsburg,1,0,1,4,1,2,0,0,1,5,3,0,0,0
+2025-03-15,Bundesliga,2024-25,Mainz,Freiburg,2,2,1,4,1,2,1,0,4,5,3,1,1,1
+2025-03-16,Bundesliga,2024-25,Bochum,Ein Frankfurt,1,3,8,3,4,1,0,0,4,11,5,0,1,1
+2025-03-16,Bundesliga,2024-25,Heidenheim,Holstein Kiel,3,1,3,5,1,3,0,0,4,8,4,0,1,1
+2025-03-16,Bundesliga,2024-25,Stuttgart,Leverkusen,3,4,1,10,3,2,0,0,7,11,5,0,1,1
+2025-03-28,Bundesliga,2024-25,Leverkusen,Bochum,3,1,3,2,0,1,0,0,4,5,1,0,1,1
+2025-03-29,Bundesliga,2024-25,Bayern Munich,St Pauli,3,2,5,4,3,0,0,0,5,9,3,0,1,1
+2025-03-29,Bundesliga,2024-25,Hoffenheim,Augsburg,1,1,2,2,1,2,0,0,2,4,3,0,1,0
+2025-03-29,Bundesliga,2024-25,Holstein Kiel,Werder Bremen,0,3,3,4,4,1,0,0,3,7,5,0,0,1
+2025-03-29,Bundesliga,2024-25,M'gladbach,RB Leipzig,1,0,5,8,2,2,0,0,1,13,4,0,0,0
+2025-03-29,Bundesliga,2024-25,Wolfsburg,Heidenheim,0,1,4,5,2,4,0,0,1,9,6,0,0,0
+2025-03-29,Bundesliga,2024-25,Ein Frankfurt,Stuttgart,1,0,6,10,1,3,0,1,1,16,4,1,0,0
+2025-03-30,Bundesliga,2024-25,Freiburg,Union Berlin,1,2,3,3,3,4,0,0,3,6,7,0,1,1
+2025-03-30,Bundesliga,2024-25,Dortmund,Mainz,3,1,6,4,2,0,0,0,4,10,2,0,1,1
+2025-04-04,Bundesliga,2024-25,Augsburg,Bayern Munich,1,3,2,4,4,0,1,0,4,6,4,1,1,1
+2025-04-05,Bundesliga,2024-25,Mainz,Holstein Kiel,1,1,4,4,4,4,0,0,2,8,8,0,1,0
+2025-04-05,Bundesliga,2024-25,Heidenheim,Leverkusen,0,1,4,0,1,0,0,0,1,4,1,0,0,0
+2025-04-05,Bundesliga,2024-25,Werder Bremen,Ein Frankfurt,2,0,5,6,3,3,0,0,2,11,6,0,0,0
+2025-04-05,Bundesliga,2024-25,Bochum,Stuttgart,0,4,2,4,1,1,0,0,4,6,2,0,0,1
+2025-04-05,Bundesliga,2024-25,Freiburg,Dortmund,1,4,3,4,1,0,0,0,5,7,1,0,1,1
+2025-04-05,Bundesliga,2024-25,RB Leipzig,Hoffenheim,3,1,8,2,0,3,0,1,4,10,3,1,1,1
+2025-04-06,Bundesliga,2024-25,St Pauli,M'gladbach,1,1,11,2,0,2,0,0,2,13,2,0,1,0
+2025-04-06,Bundesliga,2024-25,Union Berlin,Wolfsburg,1,0,6,4,0,1,0,0,1,10,1,0,0,0
+2025-04-11,Bundesliga,2024-25,Wolfsburg,RB Leipzig,2,3,8,5,2,3,0,0,5,13,5,0,1,1
+2025-04-12,Bundesliga,2024-25,Leverkusen,Union Berlin,0,0,7,3,2,1,0,0,0,10,3,0,0,0
+2025-04-12,Bundesliga,2024-25,Holstein Kiel,St Pauli,1,2,3,3,3,4,0,0,3,6,7,0,1,1
+2025-04-12,Bundesliga,2024-25,Bayern Munich,Dortmund,2,2,6,5,0,0,0,0,4,11,0,0,1,1
+2025-04-12,Bundesliga,2024-25,Bochum,Augsburg,1,2,7,6,2,1,0,1,3,13,3,1,1,1
+2025-04-12,Bundesliga,2024-25,Hoffenheim,Mainz,2,0,4,7,4,2,0,1,2,11,6,1,0,0
+2025-04-12,Bundesliga,2024-25,M'gladbach,Freiburg,1,2,4,6,0,1,0,0,3,10,1,0,1,1
+2025-04-13,Bundesliga,2024-25,Stuttgart,Werder Bremen,1,2,3,4,3,2,1,0,3,7,5,1,1,1
+2025-04-13,Bundesliga,2024-25,Ein Frankfurt,Heidenheim,3,0,5,3,1,1,0,0,3,8,2,0,0,1
+2025-04-19,Bundesliga,2024-25,Union Berlin,Stuttgart,4,4,3,5,0,2,0,0,8,8,2,0,1,1
+2025-04-19,Bundesliga,2024-25,Freiburg,Hoffenheim,3,2,2,6,3,2,0,0,5,8,5,0,1,1
+2025-04-19,Bundesliga,2024-25,Heidenheim,Bayern Munich,0,4,4,4,3,1,0,0,4,8,4,0,0,1
+2025-04-19,Bundesliga,2024-25,Mainz,Wolfsburg,2,2,7,5,2,3,0,0,4,12,5,0,1,1
+2025-04-19,Bundesliga,2024-25,RB Leipzig,Holstein Kiel,1,1,9,7,1,2,0,0,2,16,3,0,1,0
+2025-04-19,Bundesliga,2024-25,Werder Bremen,Bochum,1,0,2,7,3,3,0,1,1,9,6,1,0,0
+2025-04-20,Bundesliga,2024-25,St Pauli,Leverkusen,1,1,4,4,1,4,0,0,2,8,5,0,1,0
+2025-04-20,Bundesliga,2024-25,Augsburg,Ein Frankfurt,0,0,3,9,2,1,0,0,0,12,3,0,0,0
+2025-04-20,Bundesliga,2024-25,Dortmund,M'gladbach,3,2,6,2,1,2,0,0,5,8,3,0,1,1
+2025-04-25,Bundesliga,2024-25,Stuttgart,Heidenheim,0,1,6,5,0,4,0,0,1,11,4,0,0,0
+2025-04-26,Bundesliga,2024-25,Bayern Munich,Mainz,3,0,4,4,2,2,0,0,3,8,4,0,0,1
+2025-04-26,Bundesliga,2024-25,Hoffenheim,Dortmund,2,3,2,5,5,1,0,0,5,7,6,0,1,1
+2025-04-26,Bundesliga,2024-25,Holstein Kiel,M'gladbach,4,3,7,8,2,1,0,0,7,15,3,0,1,1
+2025-04-26,Bundesliga,2024-25,Leverkusen,Augsburg,2,0,3,7,0,1,0,0,2,10,1,0,0,0
+2025-04-26,Bundesliga,2024-25,Wolfsburg,Freiburg,0,1,3,2,3,1,1,0,1,5,4,1,0,0
+2025-04-26,Bundesliga,2024-25,Ein Frankfurt,RB Leipzig,4,0,8,4,1,2,0,1,4,12,3,1,0,1
+2025-04-27,Bundesliga,2024-25,Bochum,Union Berlin,1,1,10,4,3,2,0,0,2,14,5,0,1,0
+2025-04-27,Bundesliga,2024-25,Werder Bremen,St Pauli,0,0,1,3,2,3,0,1,0,4,5,1,0,0
+2025-05-02,Bundesliga,2024-25,Heidenheim,Bochum,0,0,6,4,0,1,0,0,0,10,1,0,0,0
+2025-05-03,Bundesliga,2024-25,Union Berlin,Werder Bremen,2,2,5,5,2,3,0,0,4,10,5,0,1,1
+2025-05-03,Bundesliga,2024-25,St Pauli,Stuttgart,0,1,4,4,6,3,2,0,1,8,9,2,0,0
+2025-05-03,Bundesliga,2024-25,Dortmund,Wolfsburg,4,0,4,3,0,1,0,0,4,7,1,0,0,1
+2025-05-03,Bundesliga,2024-25,M'gladbach,Hoffenheim,4,4,4,7,0,0,0,0,8,11,0,0,1,1
+2025-05-03,Bundesliga,2024-25,RB Leipzig,Bayern Munich,3,3,2,7,3,1,0,0,6,9,4,0,1,1
+2025-05-04,Bundesliga,2024-25,Freiburg,Leverkusen,2,2,4,1,1,2,0,0,4,5,3,0,1,1
+2025-05-04,Bundesliga,2024-25,Mainz,Ein Frankfurt,1,1,8,1,1,0,0,0,2,9,1,0,1,0
+2025-05-04,Bundesliga,2024-25,Augsburg,Holstein Kiel,1,3,12,0,0,2,0,0,4,12,2,0,1,1
+2025-05-09,Bundesliga,2024-25,Wolfsburg,Hoffenheim,2,2,5,6,0,2,0,0,4,11,2,0,1,1
+2025-05-10,Bundesliga,2024-25,Bochum,Mainz,1,4,6,6,3,0,0,0,5,12,3,0,1,1
+2025-05-10,Bundesliga,2024-25,Holstein Kiel,Freiburg,1,2,2,5,1,0,0,0,3,7,1,0,1,1
+2025-05-10,Bundesliga,2024-25,Union Berlin,Heidenheim,0,3,1,2,2,0,0,0,3,3,2,0,0,1
+2025-05-10,Bundesliga,2024-25,Werder Bremen,RB Leipzig,0,0,11,4,1,3,0,0,0,15,4,0,0,0
+2025-05-10,Bundesliga,2024-25,Bayern Munich,M'gladbach,2,0,4,9,1,1,0,0,2,13,2,0,0,0
+2025-05-11,Bundesliga,2024-25,Leverkusen,Dortmund,2,4,12,0,0,2,0,0,6,12,2,0,1,1
+2025-05-11,Bundesliga,2024-25,Ein Frankfurt,St Pauli,2,2,3,1,2,2,0,0,4,4,4,0,1,1
+2025-05-11,Bundesliga,2024-25,Stuttgart,Augsburg,4,0,11,2,1,1,0,1,4,13,2,1,0,1
+2025-05-17,Bundesliga,2024-25,Mainz,Leverkusen,2,2,7,3,2,6,0,0,4,10,8,0,1,1
+2025-05-17,Bundesliga,2024-25,M'gladbach,Wolfsburg,0,1,7,10,0,0,0,0,1,17,0,0,0,0
+2025-05-17,Bundesliga,2024-25,Hoffenheim,Bayern Munich,0,4,1,4,0,0,0,0,4,5,0,0,0,1
+2025-05-17,Bundesliga,2024-25,RB Leipzig,Stuttgart,2,3,5,8,1,0,0,0,5,13,1,0,1,1
+2025-05-17,Bundesliga,2024-25,Freiburg,Ein Frankfurt,1,3,4,7,2,4,0,0,4,11,6,0,1,1
+2025-05-17,Bundesliga,2024-25,Dortmund,Holstein Kiel,3,0,7,1,3,1,0,1,3,8,4,1,0,1
+2025-05-17,Bundesliga,2024-25,Augsburg,Union Berlin,1,2,4,0,0,0,0,0,3,4,0,0,1,1
+2025-05-17,Bundesliga,2024-25,Heidenheim,Werder Bremen,1,4,6,4,2,2,0,0,5,10,4,0,1,1
+2025-05-17,Bundesliga,2024-25,St Pauli,Bochum,0,2,7,4,0,0,0,0,2,11,0,0,0,0

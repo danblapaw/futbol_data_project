@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2016-08-12,Primeira Liga,2016-17,Rio Ave,Porto,1,3,0,0,4,0,1,1
-2016-08-13,Primeira Liga,2016-17,Moreirense,Pacos Ferreira,1,1,0,0,2,0,1,0
-2016-08-13,Primeira Liga,2016-17,Sp Lisbon,Maritimo,2,0,0,0,2,0,0,0
-2016-08-13,Primeira Liga,2016-17,Tondela,Benfica,0,2,0,0,2,0,0,0
-2016-08-14,Primeira Liga,2016-17,Boavista,Arouca,2,0,0,0,2,0,0,0
-2016-08-14,Primeira Liga,2016-17,Guimaraes,Sp Braga,0,1,0,0,1,0,0,0
-2016-08-14,Primeira Liga,2016-17,Setubal,Belenenses,2,0,0,0,2,0,0,0
-2016-08-15,Primeira Liga,2016-17,Estoril,Feirense,0,2,0,0,2,0,0,0
-2016-08-19,Primeira Liga,2016-17,Belenenses,Boavista,0,0,0,0,0,0,0,0
-2016-08-20,Primeira Liga,2016-17,Porto,Estoril,1,0,0,0,1,0,0,0
-2016-08-20,Primeira Liga,2016-17,Pacos Ferreira,Sp Lisbon,0,1,0,0,1,0,0,0
-2016-08-20,Primeira Liga,2016-17,Chaves,Tondela,1,1,0,0,2,0,1,0
-2016-08-20,Primeira Liga,2016-17,Maritimo,Guimaraes,0,2,0,0,2,0,0,0
-2016-08-21,Primeira Liga,2016-17,Arouca,Nacional,2,0,0,0,2,0,0,0
-2016-08-21,Primeira Liga,2016-17,Benfica,Setubal,1,1,0,0,2,0,1,0
-2016-08-21,Primeira Liga,2016-17,Feirense,Moreirense,0,3,0,0,3,0,0,1
-2016-08-22,Primeira Liga,2016-17,Sp Braga,Rio Ave,1,1,0,0,2,0,1,0
-2016-08-26,Primeira Liga,2016-17,Guimaraes,Pacos Ferreira,5,3,0,0,8,0,1,1
-2016-08-27,Primeira Liga,2016-17,Tondela,Belenenses,0,1,0,0,1,0,0,0
-2016-08-27,Primeira Liga,2016-17,Estoril,Sp Braga,1,3,0,0,4,0,1,1
-2016-08-27,Primeira Liga,2016-17,Nacional,Benfica,1,3,0,0,4,0,1,1
-2016-08-28,Primeira Liga,2016-17,Boavista,Chaves,2,2,0,0,4,0,1,1
-2016-08-28,Primeira Liga,2016-17,Moreirense,Maritimo,0,1,0,0,1,0,0,0
-2016-08-28,Primeira Liga,2016-17,Rio Ave,Feirense,1,0,0,0,1,0,0,0
-2016-08-28,Primeira Liga,2016-17,Setubal,Arouca,2,0,0,0,2,0,0,0
-2016-08-28,Primeira Liga,2016-17,Sp Lisbon,Porto,2,1,0,0,3,0,1,1
-2016-09-04,Primeira Liga,2016-17,Nacional,Chaves,0,1,0,0,1,0,0,0
-2016-09-09,Primeira Liga,2016-17,Arouca,Benfica,1,2,0,0,3,0,1,1
-2016-09-10,Primeira Liga,2016-17,Belenenses,Nacional,2,1,0,0,3,0,1,1
-2016-09-10,Primeira Liga,2016-17,Porto,Guimaraes,3,0,0,0,3,0,0,1
-2016-09-10,Primeira Liga,2016-17,Sp Lisbon,Moreirense,3,0,0,0,3,0,0,1
-2016-09-11,Primeira Liga,2016-17,Chaves,Setubal,0,0,0,0,0,0,0,0
-2016-09-11,Primeira Liga,2016-17,Maritimo,Rio Ave,0,1,0,0,1,0,0,0
-2016-09-11,Primeira Liga,2016-17,Pacos Ferreira,Estoril,0,0,0,0,0,0,0,0
-2016-09-11,Primeira Liga,2016-17,Sp Braga,Boavista,3,0,0,0,3,0,0,1
-2016-09-12,Primeira Liga,2016-17,Feirense,Tondela,2,1,0,0,3,0,1,1
-2016-09-16,Primeira Liga,2016-17,Nacional,Maritimo,2,0,0,0,2,0,0,0
-2016-09-17,Primeira Liga,2016-17,Setubal,Pacos Ferreira,1,4,0,0,5,0,1,1
-2016-09-17,Primeira Liga,2016-17,Estoril,Moreirense,2,0,0,0,2,0,0,0
-2016-09-17,Primeira Liga,2016-17,Guimaraes,Belenenses,1,1,0,0,2,0,1,0
-2016-09-18,Primeira Liga,2016-17,Arouca,Chaves,0,1,0,0,1,0,0,0
-2016-09-18,Primeira Liga,2016-17,Boavista,Feirense,1,2,0,0,3,0,1,1
-2016-09-18,Primeira Liga,2016-17,Rio Ave,Sp Lisbon,3,1,0,0,4,0,1,1
-2016-09-18,Primeira Liga,2016-17,Tondela,Porto,0,0,0,0,0,0,0,0
-2016-09-19,Primeira Liga,2016-17,Benfica,Sp Braga,3,1,0,0,4,0,1,1
-2016-09-23,Primeira Liga,2016-17,Porto,Boavista,3,1,0,0,4,0,1,1
-2016-09-23,Primeira Liga,2016-17,Sp Lisbon,Estoril,4,2,0,0,6,0,1,1
-2016-09-24,Primeira Liga,2016-17,Sp Braga,Setubal,2,1,0,0,3,0,1,1
-2016-09-24,Primeira Liga,2016-17,Chaves,Benfica,0,2,0,0,2,0,0,0
-2016-09-24,Primeira Liga,2016-17,Feirense,Nacional,0,3,0,0,3,0,0,1
-2016-09-25,Primeira Liga,2016-17,Maritimo,Tondela,2,0,0,0,2,0,0,0
-2016-09-25,Primeira Liga,2016-17,Moreirense,Guimaraes,0,1,0,0,1,0,0,0
-2016-09-25,Primeira Liga,2016-17,Pacos Ferreira,Rio Ave,2,1,0,0,3,0,1,1
-2016-09-26,Primeira Liga,2016-17,Belenenses,Arouca,1,1,0,0,2,0,1,0
-2016-09-30,Primeira Liga,2016-17,Tondela,Pacos Ferreira,2,1,0,0,3,0,1,1
-2016-10-01,Primeira Liga,2016-17,Rio Ave,Estoril,1,2,0,0,3,0,1,1
-2016-10-01,Primeira Liga,2016-17,Guimaraes,Sp Lisbon,3,3,0,0,6,0,1,1
-2016-10-01,Primeira Liga,2016-17,Chaves,Belenenses,3,1,0,0,4,0,1,1
-2016-10-01,Primeira Liga,2016-17,Nacional,Porto,0,4,0,0,4,0,0,1
-2016-10-02,Primeira Liga,2016-17,Arouca,Sp Braga,1,1,0,0,2,0,1,0
-2016-10-02,Primeira Liga,2016-17,Benfica,Feirense,4,0,0,0,4,0,0,1
-2016-10-02,Primeira Liga,2016-17,Boavista,Moreirense,2,0,0,0,2,0,0,0
-2016-10-02,Primeira Liga,2016-17,Setubal,Maritimo,0,1,0,0,1,0,0,0
-2016-10-21,Primeira Liga,2016-17,Maritimo,Boavista,1,1,0,0,2,0,1,0
-2016-10-21,Primeira Liga,2016-17,Pacos Ferreira,Nacional,1,1,0,0,2,0,1,0
-2016-10-22,Primeira Liga,2016-17,Feirense,Setubal,1,1,0,0,2,0,1,0
-2016-10-22,Primeira Liga,2016-17,Porto,Arouca,3,0,0,0,3,0,0,1
-2016-10-22,Primeira Liga,2016-17,Sp Lisbon,Tondela,1,1,0,0,2,0,1,0
-2016-10-23,Primeira Liga,2016-17,Moreirense,Rio Ave,1,1,0,0,2,0,1,0
-2016-10-23,Primeira Liga,2016-17,Belenenses,Benfica,0,2,0,0,2,0,0,0
-2016-10-23,Primeira Liga,2016-17,Estoril,Guimaraes,0,2,0,0,2,0,0,0
-2016-10-24,Primeira Liga,2016-17,Sp Braga,Chaves,1,0,0,0,1,0,0,0
-2016-10-28,Primeira Liga,2016-17,Nacional,Sp Lisbon,0,0,0,0,0,0,0,0
-2016-10-28,Primeira Liga,2016-17,Benfica,Pacos Ferreira,3,0,0,0,3,0,0,1
-2016-10-29,Primeira Liga,2016-17,Tondela,Moreirense,1,2,0,0,3,0,1,1
-2016-10-29,Primeira Liga,2016-17,Setubal,Porto,0,0,0,0,0,0,0,0
-2016-10-29,Primeira Liga,2016-17,Boavista,Estoril,0,0,0,0,0,0,0,0
-2016-10-30,Primeira Liga,2016-17,Arouca,Maritimo,1,0,0,0,1,0,0,0
-2016-10-30,Primeira Liga,2016-17,Rio Ave,Guimaraes,0,3,0,0,3,0,0,1
-2016-10-30,Primeira Liga,2016-17,Sp Braga,Belenenses,2,1,0,0,3,0,1,1
-2016-10-31,Primeira Liga,2016-17,Chaves,Feirense,1,1,0,0,2,0,1,0
-2016-11-04,Primeira Liga,2016-17,Guimaraes,Nacional,2,1,0,0,3,0,1,1
-2016-11-05,Primeira Liga,2016-17,Estoril,Tondela,2,0,0,0,2,0,0,0
-2016-11-05,Primeira Liga,2016-17,Feirense,Belenenses,0,1,0,0,1,0,0,0
-2016-11-05,Primeira Liga,2016-17,Pacos Ferreira,Chaves,1,1,0,0,2,0,1,0
-2016-11-05,Primeira Liga,2016-17,Rio Ave,Boavista,1,2,0,0,3,0,1,1
-2016-11-06,Primeira Liga,2016-17,Maritimo,Sp Braga,1,0,0,0,1,0,0,0
-2016-11-06,Primeira Liga,2016-17,Moreirense,Setubal,1,2,0,0,3,0,1,1
-2016-11-06,Primeira Liga,2016-17,Porto,Benfica,1,1,0,0,2,0,1,0
-2016-11-06,Primeira Liga,2016-17,Sp Lisbon,Arouca,3,0,0,0,3,0,0,1
-2016-11-25,Primeira Liga,2016-17,Setubal,Rio Ave,0,1,0,0,1,0,0,0
-2016-11-26,Primeira Liga,2016-17,Chaves,Maritimo,0,0,0,0,0,0,0,0
-2016-11-26,Primeira Liga,2016-17,Nacional,Estoril,0,1,0,0,1,0,0,0
-2016-11-26,Primeira Liga,2016-17,Belenenses,Porto,0,0,0,0,0,0,0,0
-2016-11-26,Primeira Liga,2016-17,Boavista,Sp Lisbon,0,1,0,0,1,0,0,0
-2016-11-27,Primeira Liga,2016-17,Arouca,Pacos Ferreira,1,0,0,0,1,0,0,0
-2016-11-27,Primeira Liga,2016-17,Benfica,Moreirense,3,0,0,0,3,0,0,1
-2016-11-27,Primeira Liga,2016-17,Tondela,Guimaraes,2,1,0,0,3,0,1,1
-2016-11-28,Primeira Liga,2016-17,Sp Braga,Feirense,6,2,0,0,8,0,1,1
-2016-12-02,Primeira Liga,2016-17,Maritimo,Benfica,2,1,0,0,3,0,1,1
-2016-12-03,Primeira Liga,2016-17,Porto,Sp Braga,1,0,0,0,1,0,0,0
-2016-12-03,Primeira Liga,2016-17,Rio Ave,Tondela,3,1,0,0,4,0,1,1
-2016-12-03,Primeira Liga,2016-17,Sp Lisbon,Setubal,2,0,0,0,2,0,0,0
-2016-12-04,Primeira Liga,2016-17,Moreirense,Nacional,3,1,0,0,4,0,1,1
-2016-12-04,Primeira Liga,2016-17,Guimaraes,Chaves,1,1,0,0,2,0,1,0
-2016-12-04,Primeira Liga,2016-17,Estoril,Belenenses,1,1,0,0,2,0,1,0
-2016-12-04,Primeira Liga,2016-17,Feirense,Arouca,0,2,0,0,2,0,0,0
-2016-12-05,Primeira Liga,2016-17,Pacos Ferreira,Boavista,2,1,0,0,3,0,1,1
-2016-12-09,Primeira Liga,2016-17,Setubal,Estoril,2,0,0,0,2,0,0,0
-2016-12-10,Primeira Liga,2016-17,Belenenses,Maritimo,1,0,0,0,1,0,0,0
-2016-12-10,Primeira Liga,2016-17,Boavista,Guimaraes,1,2,0,0,3,0,1,1
-2016-12-10,Primeira Liga,2016-17,Chaves,Moreirense,2,1,0,0,3,0,1,1
-2016-12-11,Primeira Liga,2016-17,Sp Braga,Pacos Ferreira,3,0,0,0,3,0,0,1
-2016-12-11,Primeira Liga,2016-17,Nacional,Tondela,3,2,0,0,5,0,1,1
-2016-12-11,Primeira Liga,2016-17,Feirense,Porto,0,4,0,0,4,0,0,1
-2016-12-11,Primeira Liga,2016-17,Benfica,Sp Lisbon,2,1,0,0,3,0,1,1
-2016-12-12,Primeira Liga,2016-17,Arouca,Rio Ave,0,2,0,0,2,0,0,0
-2016-12-15,Primeira Liga,2016-17,Porto,Maritimo,2,1,0,0,3,0,1,1
-2016-12-16,Primeira Liga,2016-17,Pacos Ferreira,Belenenses,1,0,0,0,1,0,0,0
-2016-12-17,Primeira Liga,2016-17,Estoril,Benfica,0,1,0,0,1,0,0,0
-2016-12-17,Primeira Liga,2016-17,Moreirense,Arouca,1,4,0,0,5,0,1,1
-2016-12-18,Primeira Liga,2016-17,Sp Lisbon,Sp Braga,0,1,0,0,1,0,0,0
-2016-12-18,Primeira Liga,2016-17,Tondela,Boavista,1,1,0,0,2,0,1,0
-2016-12-18,Primeira Liga,2016-17,Guimaraes,Setubal,3,1,0,0,4,0,1,1
-2016-12-18,Primeira Liga,2016-17,Rio Ave,Nacional,2,1,0,0,3,0,1,1
-2016-12-19,Primeira Liga,2016-17,Maritimo,Feirense,2,0,0,0,2,0,0,0
-2016-12-19,Primeira Liga,2016-17,Porto,Chaves,2,1,0,0,3,0,1,1
-2016-12-21,Primeira Liga,2016-17,Benfica,Rio Ave,2,0,0,0,2,0,0,0
-2016-12-22,Primeira Liga,2016-17,Sp Braga,Moreirense,2,1,0,0,3,0,1,1
-2016-12-22,Primeira Liga,2016-17,Belenenses,Sp Lisbon,0,1,0,0,1,0,0,0
-2016-12-22,Primeira Liga,2016-17,Chaves,Estoril,1,0,0,0,1,0,0,0
-2016-12-22,Primeira Liga,2016-17,Feirense,Pacos Ferreira,2,0,0,0,2,0,0,0
-2016-12-22,Primeira Liga,2016-17,Nacional,Boavista,0,2,0,0,2,0,0,0
-2016-12-23,Primeira Liga,2016-17,Setubal,Tondela,3,0,0,0,3,0,0,1
-2016-12-23,Primeira Liga,2016-17,Arouca,Guimaraes,0,1,0,0,1,0,0,0
-2017-01-07,Primeira Liga,2016-17,Estoril,Maritimo,0,1,0,0,1,0,0,0
-2017-01-07,Primeira Liga,2016-17,Guimaraes,Benfica,0,2,0,0,2,0,0,0
-2017-01-07,Primeira Liga,2016-17,Nacional,Sp Braga,0,0,0,0,0,0,0,0
-2017-01-07,Primeira Liga,2016-17,Pacos Ferreira,Porto,0,0,0,0,0,0,0,0
-2017-01-08,Primeira Liga,2016-17,Boavista,Setubal,1,0,0,0,1,0,0,0
-2017-01-08,Primeira Liga,2016-17,Rio Ave,Chaves,2,2,0,0,4,0,1,1
-2017-01-08,Primeira Liga,2016-17,Sp Lisbon,Feirense,2,1,0,0,3,0,1,1
-2017-01-08,Primeira Liga,2016-17,Tondela,Arouca,1,2,0,0,3,0,1,1
-2017-01-09,Primeira Liga,2016-17,Moreirense,Belenenses,1,0,0,0,1,0,0,0
-2017-01-13,Primeira Liga,2016-17,Arouca,Estoril,2,1,0,0,3,0,1,1
-2017-01-14,Primeira Liga,2016-17,Benfica,Boavista,3,3,0,0,6,0,1,1
-2017-01-14,Primeira Liga,2016-17,Chaves,Sp Lisbon,2,2,0,0,4,0,1,1
-2017-01-14,Primeira Liga,2016-17,Feirense,Guimaraes,0,0,0,0,0,0,0,0
-2017-01-14,Primeira Liga,2016-17,Setubal,Nacional,1,0,0,0,1,0,0,0
-2017-01-15,Primeira Liga,2016-17,Belenenses,Rio Ave,1,0,0,0,1,0,0,0
-2017-01-15,Primeira Liga,2016-17,Maritimo,Pacos Ferreira,3,1,0,0,4,0,1,1
-2017-01-15,Primeira Liga,2016-17,Porto,Moreirense,3,0,0,0,3,0,0,1
-2017-01-16,Primeira Liga,2016-17,Sp Braga,Tondela,2,0,0,0,2,0,0,0
-2017-01-20,Primeira Liga,2016-17,Pacos Ferreira,Moreirense,0,2,0,0,2,0,0,0
-2017-01-21,Primeira Liga,2016-17,Arouca,Boavista,1,2,0,0,3,0,1,1
-2017-01-21,Primeira Liga,2016-17,Maritimo,Sp Lisbon,2,2,0,0,4,0,1,1
-2017-01-21,Primeira Liga,2016-17,Porto,Rio Ave,4,2,0,0,6,0,1,1
-2017-01-22,Primeira Liga,2016-17,Belenenses,Setubal,1,2,0,0,3,0,1,1
-2017-01-22,Primeira Liga,2016-17,Benfica,Tondela,4,0,0,0,4,0,0,1
-2017-01-22,Primeira Liga,2016-17,Feirense,Estoril,1,0,0,0,1,0,0,0
-2017-01-22,Primeira Liga,2016-17,Sp Braga,Guimaraes,1,2,0,0,3,0,1,1
-2017-01-23,Primeira Liga,2016-17,Chaves,Nacional,2,0,0,0,2,0,0,0
-2017-01-27,Primeira Liga,2016-17,Boavista,Belenenses,0,1,0,0,1,0,0,0
-2017-01-28,Primeira Liga,2016-17,Estoril,Porto,1,2,0,0,3,0,1,1
-2017-01-28,Primeira Liga,2016-17,Guimaraes,Maritimo,0,0,0,0,0,0,0,0
-2017-01-28,Primeira Liga,2016-17,Nacional,Arouca,1,1,0,0,2,0,1,0
-2017-01-28,Primeira Liga,2016-17,Sp Lisbon,Pacos Ferreira,4,2,0,0,6,0,1,1
-2017-01-28,Primeira Liga,2016-17,Tondela,Chaves,2,0,0,0,2,0,0,0
-2017-01-30,Primeira Liga,2016-17,Setubal,Benfica,1,0,0,0,1,0,0,0
-2017-02-02,Primeira Liga,2016-17,Rio Ave,Sp Braga,1,0,0,0,1,0,0,0
-2017-02-02,Primeira Liga,2016-17,Moreirense,Feirense,1,1,0,0,2,0,1,0
-2017-02-03,Primeira Liga,2016-17,Pacos Ferreira,Guimaraes,2,0,0,0,2,0,0,0
-2017-02-04,Primeira Liga,2016-17,Chaves,Boavista,0,0,0,0,0,0,0,0
-2017-02-04,Primeira Liga,2016-17,Porto,Sp Lisbon,2,1,0,0,3,0,1,1
-2017-02-05,Primeira Liga,2016-17,Arouca,Setubal,2,1,0,0,3,0,1,1
-2017-02-05,Primeira Liga,2016-17,Belenenses,Tondela,0,0,0,0,0,0,0,0
-2017-02-05,Primeira Liga,2016-17,Benfica,Nacional,3,0,0,0,3,0,0,1
-2017-02-06,Primeira Liga,2016-17,Sp Braga,Estoril,1,1,0,0,2,0,1,0
-2017-02-06,Primeira Liga,2016-17,Feirense,Rio Ave,2,1,0,0,3,0,1,1
-2017-02-06,Primeira Liga,2016-17,Maritimo,Moreirense,1,0,0,0,1,0,0,0
-2017-02-10,Primeira Liga,2016-17,Benfica,Arouca,3,0,0,0,3,0,0,1
-2017-02-11,Primeira Liga,2016-17,Estoril,Pacos Ferreira,2,1,0,0,3,0,1,1
-2017-02-11,Primeira Liga,2016-17,Guimaraes,Porto,0,2,0,0,2,0,0,0
-2017-02-11,Primeira Liga,2016-17,Setubal,Chaves,0,0,0,0,0,0,0,0
-2017-02-11,Primeira Liga,2016-17,Tondela,Feirense,0,1,0,0,1,0,0,0
-2017-02-12,Primeira Liga,2016-17,Moreirense,Sp Lisbon,2,3,0,0,5,0,1,1
-2017-02-12,Primeira Liga,2016-17,Nacional,Belenenses,1,1,0,0,2,0,1,0
-2017-02-12,Primeira Liga,2016-17,Boavista,Sp Braga,1,1,0,0,2,0,1,0
-2017-02-13,Primeira Liga,2016-17,Rio Ave,Maritimo,0,0,0,0,0,0,0,0
-2017-02-17,Primeira Liga,2016-17,Porto,Tondela,4,0,0,0,4,0,0,1
-2017-02-18,Primeira Liga,2016-17,Chaves,Arouca,2,0,0,0,2,0,0,0
-2017-02-18,Primeira Liga,2016-17,Feirense,Boavista,0,1,0,0,1,0,0,0
-2017-02-18,Primeira Liga,2016-17,Moreirense,Estoril,1,1,0,0,2,0,1,0
-2017-02-18,Primeira Liga,2016-17,Sp Lisbon,Rio Ave,1,0,0,0,1,0,0,0
-2017-02-19,Primeira Liga,2016-17,Belenenses,Guimaraes,1,1,0,0,2,0,1,0
-2017-02-19,Primeira Liga,2016-17,Pacos Ferreira,Setubal,2,1,0,0,3,0,1,1
-2017-02-19,Primeira Liga,2016-17,Sp Braga,Benfica,0,1,0,0,1,0,0,0
-2017-02-20,Primeira Liga,2016-17,Maritimo,Nacional,0,0,0,0,0,0,0,0
-2017-02-24,Primeira Liga,2016-17,Guimaraes,Moreirense,1,0,0,0,1,0,0,0
-2017-02-24,Primeira Liga,2016-17,Benfica,Chaves,3,1,0,0,4,0,1,1
-2017-02-25,Primeira Liga,2016-17,Estoril,Sp Lisbon,0,2,0,0,2,0,0,0
-2017-02-25,Primeira Liga,2016-17,Rio Ave,Pacos Ferreira,0,0,0,0,0,0,0,0
-2017-02-25,Primeira Liga,2016-17,Tondela,Maritimo,1,1,0,0,2,0,1,0
-2017-02-26,Primeira Liga,2016-17,Boavista,Porto,0,1,0,0,1,0,0,0
-2017-02-26,Primeira Liga,2016-17,Nacional,Feirense,0,0,0,0,0,0,0,0
-2017-02-26,Primeira Liga,2016-17,Setubal,Sp Braga,1,1,0,0,2,0,1,0
-2017-02-27,Primeira Liga,2016-17,Arouca,Belenenses,1,2,0,0,3,0,1,1
-2017-03-03,Primeira Liga,2016-17,Moreirense,Boavista,0,0,0,0,0,0,0,0
-2017-03-04,Primeira Liga,2016-17,Sp Braga,Arouca,3,1,0,0,4,0,1,1
-2017-03-04,Primeira Liga,2016-17,Feirense,Benfica,0,1,0,0,1,0,0,0
-2017-03-04,Primeira Liga,2016-17,Porto,Nacional,7,0,0,0,7,0,0,1
-2017-03-05,Primeira Liga,2016-17,Belenenses,Chaves,2,1,0,0,3,0,1,1
-2017-03-05,Primeira Liga,2016-17,Maritimo,Setubal,1,0,0,0,1,0,0,0
-2017-03-05,Primeira Liga,2016-17,Pacos Ferreira,Tondela,0,0,0,0,0,0,0,0
-2017-03-05,Primeira Liga,2016-17,Sp Lisbon,Guimaraes,1,1,0,0,2,0,1,0
-2017-03-06,Primeira Liga,2016-17,Estoril,Rio Ave,0,2,0,0,2,0,0,0
-2017-03-10,Primeira Liga,2016-17,Arouca,Porto,0,4,0,0,4,0,0,1
-2017-03-11,Primeira Liga,2016-17,Setubal,Feirense,1,2,0,0,3,0,1,1
-2017-03-11,Primeira Liga,2016-17,Chaves,Sp Braga,0,0,0,0,0,0,0,0
-2017-03-11,Primeira Liga,2016-17,Tondela,Sp Lisbon,1,4,0,0,5,0,1,1
-2017-03-12,Primeira Liga,2016-17,Boavista,Maritimo,3,0,0,0,3,0,0,1
-2017-03-12,Primeira Liga,2016-17,Guimaraes,Estoril,3,3,0,0,6,0,1,1
-2017-03-12,Primeira Liga,2016-17,Rio Ave,Moreirense,3,2,0,0,5,0,1,1
-2017-03-13,Primeira Liga,2016-17,Nacional,Pacos Ferreira,1,1,0,0,2,0,1,0
-2017-03-13,Primeira Liga,2016-17,Benfica,Belenenses,4,0,0,0,4,0,0,1
-2017-03-17,Primeira Liga,2016-17,Estoril,Boavista,0,0,0,0,0,0,0,0
-2017-03-18,Primeira Liga,2016-17,Pacos Ferreira,Benfica,0,0,0,0,0,0,0,0
-2017-03-18,Primeira Liga,2016-17,Sp Lisbon,Nacional,2,0,0,0,2,0,0,0
-2017-03-18,Primeira Liga,2016-17,Belenenses,Sp Braga,1,2,0,0,3,0,1,1
-2017-03-18,Primeira Liga,2016-17,Moreirense,Tondela,1,1,0,0,2,0,1,0
-2017-03-19,Primeira Liga,2016-17,Feirense,Chaves,3,2,0,0,5,0,1,1
-2017-03-19,Primeira Liga,2016-17,Guimaraes,Rio Ave,3,0,0,0,3,0,0,1
-2017-03-19,Primeira Liga,2016-17,Maritimo,Arouca,3,1,0,0,4,0,1,1
-2017-03-19,Primeira Liga,2016-17,Porto,Setubal,1,1,0,0,2,0,1,0
-2017-03-31,Primeira Liga,2016-17,Chaves,Pacos Ferreira,1,0,0,0,1,0,0,0
-2017-03-31,Primeira Liga,2016-17,Nacional,Guimaraes,1,2,0,0,3,0,1,1
-2017-04-01,Primeira Liga,2016-17,Benfica,Porto,1,1,0,0,2,0,1,0
-2017-04-01,Primeira Liga,2016-17,Boavista,Rio Ave,0,1,0,0,1,0,0,0
-2017-04-01,Primeira Liga,2016-17,Tondela,Estoril,0,2,0,0,2,0,0,0
-2017-04-02,Primeira Liga,2016-17,Sp Braga,Maritimo,3,3,0,0,6,0,1,1
-2017-04-02,Primeira Liga,2016-17,Setubal,Moreirense,2,0,0,0,2,0,0,0
-2017-04-02,Primeira Liga,2016-17,Arouca,Sp Lisbon,1,2,0,0,3,0,1,1
-2017-04-02,Primeira Liga,2016-17,Belenenses,Feirense,1,2,0,0,3,0,1,1
-2017-04-07,Primeira Liga,2016-17,Feirense,Sp Braga,0,1,0,0,1,0,0,0
-2017-04-08,Primeira Liga,2016-17,Pacos Ferreira,Arouca,1,1,0,0,2,0,1,0
-2017-04-08,Primeira Liga,2016-17,Porto,Belenenses,3,0,0,0,3,0,0,1
-2017-04-08,Primeira Liga,2016-17,Sp Lisbon,Boavista,4,0,0,0,4,0,0,1
-2017-04-09,Primeira Liga,2016-17,Rio Ave,Setubal,0,0,0,0,0,0,0,0
-2017-04-09,Primeira Liga,2016-17,Moreirense,Benfica,0,1,0,0,1,0,0,0
-2017-04-09,Primeira Liga,2016-17,Guimaraes,Tondela,2,1,0,0,3,0,1,1
-2017-04-09,Primeira Liga,2016-17,Estoril,Nacional,0,1,0,0,1,0,0,0
-2017-04-10,Primeira Liga,2016-17,Maritimo,Chaves,2,1,0,0,3,0,1,1
-2017-04-14,Primeira Liga,2016-17,Belenenses,Estoril,1,3,0,0,4,0,1,1
-2017-04-14,Primeira Liga,2016-17,Benfica,Maritimo,3,0,0,0,3,0,0,1
-2017-04-14,Primeira Liga,2016-17,Boavista,Pacos Ferreira,0,0,0,0,0,0,0,0
-2017-04-14,Primeira Liga,2016-17,Setubal,Sp Lisbon,0,3,0,0,3,0,0,1
-2017-04-15,Primeira Liga,2016-17,Tondela,Rio Ave,2,1,0,0,3,0,1,1
-2017-04-15,Primeira Liga,2016-17,Sp Braga,Porto,1,1,0,0,2,0,1,0
-2017-04-15,Primeira Liga,2016-17,Arouca,Feirense,2,0,0,0,2,0,0,0
-2017-04-15,Primeira Liga,2016-17,Chaves,Guimaraes,2,3,0,0,5,0,1,1
-2017-04-17,Primeira Liga,2016-17,Nacional,Moreirense,0,1,0,0,1,0,0,0
-2017-04-21,Primeira Liga,2016-17,Rio Ave,Arouca,3,0,0,0,3,0,0,1
-2017-04-22,Primeira Liga,2016-17,Estoril,Setubal,3,0,0,0,3,0,0,1
-2017-04-22,Primeira Liga,2016-17,Maritimo,Belenenses,3,0,0,0,3,0,0,1
-2017-04-22,Primeira Liga,2016-17,Sp Lisbon,Benfica,1,1,0,0,2,0,1,0
-2017-04-22,Primeira Liga,2016-17,Tondela,Nacional,2,0,0,0,2,0,0,0
-2017-04-23,Primeira Liga,2016-17,Porto,Feirense,0,0,0,0,0,0,0,0
-2017-04-23,Primeira Liga,2016-17,Guimaraes,Boavista,2,0,0,0,2,0,0,0
-2017-04-23,Primeira Liga,2016-17,Pacos Ferreira,Sp Braga,3,1,0,0,4,0,1,1
-2017-04-24,Primeira Liga,2016-17,Moreirense,Chaves,0,0,0,0,0,0,0,0
-2017-04-28,Primeira Liga,2016-17,Setubal,Guimaraes,0,2,0,0,2,0,0,0
-2017-04-29,Primeira Liga,2016-17,Benfica,Estoril,2,1,0,0,3,0,1,1
-2017-04-29,Primeira Liga,2016-17,Boavista,Tondela,1,0,0,0,1,0,0,0
-2017-04-29,Primeira Liga,2016-17,Chaves,Porto,0,2,0,0,2,0,0,0
-2017-04-29,Primeira Liga,2016-17,Nacional,Rio Ave,0,2,0,0,2,0,0,0
-2017-04-30,Primeira Liga,2016-17,Arouca,Moreirense,2,2,0,0,4,0,1,1
-2017-04-30,Primeira Liga,2016-17,Belenenses,Pacos Ferreira,1,2,0,0,3,0,1,1
-2017-04-30,Primeira Liga,2016-17,Feirense,Maritimo,2,1,0,0,3,0,1,1
-2017-04-30,Primeira Liga,2016-17,Sp Braga,Sp Lisbon,2,3,0,0,5,0,1,1
-2017-05-05,Primeira Liga,2016-17,Moreirense,Sp Braga,2,1,0,0,3,0,1,1
-2017-05-06,Primeira Liga,2016-17,Boavista,Nacional,2,2,0,0,4,0,1,1
-2017-05-06,Primeira Liga,2016-17,Maritimo,Porto,1,1,0,0,2,0,1,0
-2017-05-06,Primeira Liga,2016-17,Pacos Ferreira,Feirense,0,1,0,0,1,0,0,0
-2017-05-07,Primeira Liga,2016-17,Tondela,Setubal,2,1,0,0,3,0,1,1
-2017-05-07,Primeira Liga,2016-17,Sp Lisbon,Belenenses,1,3,0,0,4,0,1,1
-2017-05-07,Primeira Liga,2016-17,Guimaraes,Arouca,1,0,0,0,1,0,0,0
-2017-05-07,Primeira Liga,2016-17,Rio Ave,Benfica,0,1,0,0,1,0,0,0
-2017-05-08,Primeira Liga,2016-17,Estoril,Chaves,2,1,0,0,3,0,1,1
-2017-05-12,Primeira Liga,2016-17,Belenenses,Moreirense,1,1,0,0,2,0,1,0
-2017-05-13,Primeira Liga,2016-17,Arouca,Tondela,1,2,0,0,3,0,1,1
-2017-05-13,Primeira Liga,2016-17,Benfica,Guimaraes,5,0,0,0,5,0,0,1
-2017-05-13,Primeira Liga,2016-17,Feirense,Sp Lisbon,2,1,0,0,3,0,1,1
-2017-05-14,Primeira Liga,2016-17,Maritimo,Estoril,1,1,0,0,2,0,1,0
-2017-05-14,Primeira Liga,2016-17,Chaves,Rio Ave,2,2,0,0,4,0,1,1
-2017-05-14,Primeira Liga,2016-17,Porto,Pacos Ferreira,4,1,0,0,5,0,1,1
-2017-05-14,Primeira Liga,2016-17,Sp Braga,Nacional,4,0,0,0,4,0,0,1
-2017-05-15,Primeira Liga,2016-17,Setubal,Boavista,0,1,0,0,1,0,0,0
-2017-05-20,Primeira Liga,2016-17,Pacos Ferreira,Maritimo,0,0,0,0,0,0,0,0
-2017-05-20,Primeira Liga,2016-17,Nacional,Setubal,1,2,0,0,3,0,1,1
-2017-05-20,Primeira Liga,2016-17,Rio Ave,Belenenses,2,0,0,0,2,0,0,0
-2017-05-20,Primeira Liga,2016-17,Boavista,Benfica,2,2,0,0,4,0,1,1
-2017-05-20,Primeira Liga,2016-17,Guimaraes,Feirense,0,1,0,0,1,0,0,0
-2017-05-21,Primeira Liga,2016-17,Moreirense,Porto,3,1,0,0,4,0,1,1
-2017-05-21,Primeira Liga,2016-17,Sp Lisbon,Chaves,4,1,0,0,5,0,1,1
-2017-05-21,Primeira Liga,2016-17,Estoril,Arouca,4,2,0,0,6,0,1,1
-2017-05-21,Primeira Liga,2016-17,Tondela,Sp Braga,2,0,0,0,2,0,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2016-08-12,Primeira Liga,2016-17,Rio Ave,Porto,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2016-08-13,Primeira Liga,2016-17,Moreirense,Pacos Ferreira,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-08-13,Primeira Liga,2016-17,Sp Lisbon,Maritimo,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-13,Primeira Liga,2016-17,Tondela,Benfica,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-14,Primeira Liga,2016-17,Boavista,Arouca,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-14,Primeira Liga,2016-17,Guimaraes,Sp Braga,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-08-14,Primeira Liga,2016-17,Setubal,Belenenses,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-15,Primeira Liga,2016-17,Estoril,Feirense,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-19,Primeira Liga,2016-17,Belenenses,Boavista,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-08-20,Primeira Liga,2016-17,Porto,Estoril,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-08-20,Primeira Liga,2016-17,Pacos Ferreira,Sp Lisbon,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-08-20,Primeira Liga,2016-17,Chaves,Tondela,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-08-20,Primeira Liga,2016-17,Maritimo,Guimaraes,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-21,Primeira Liga,2016-17,Arouca,Nacional,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-21,Primeira Liga,2016-17,Benfica,Setubal,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-08-21,Primeira Liga,2016-17,Feirense,Moreirense,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-08-22,Primeira Liga,2016-17,Sp Braga,Rio Ave,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-08-26,Primeira Liga,2016-17,Guimaraes,Pacos Ferreira,5,3,0,0,0,0,0,0,8,0,0,0,1,1
+2016-08-27,Primeira Liga,2016-17,Tondela,Belenenses,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-08-27,Primeira Liga,2016-17,Estoril,Sp Braga,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2016-08-27,Primeira Liga,2016-17,Nacional,Benfica,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2016-08-28,Primeira Liga,2016-17,Boavista,Chaves,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-08-28,Primeira Liga,2016-17,Moreirense,Maritimo,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-08-28,Primeira Liga,2016-17,Rio Ave,Feirense,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-08-28,Primeira Liga,2016-17,Setubal,Arouca,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-08-28,Primeira Liga,2016-17,Sp Lisbon,Porto,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-04,Primeira Liga,2016-17,Nacional,Chaves,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-09-09,Primeira Liga,2016-17,Arouca,Benfica,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-10,Primeira Liga,2016-17,Belenenses,Nacional,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-10,Primeira Liga,2016-17,Porto,Guimaraes,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-09-10,Primeira Liga,2016-17,Sp Lisbon,Moreirense,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-09-11,Primeira Liga,2016-17,Chaves,Setubal,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-09-11,Primeira Liga,2016-17,Maritimo,Rio Ave,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-09-11,Primeira Liga,2016-17,Pacos Ferreira,Estoril,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-09-11,Primeira Liga,2016-17,Sp Braga,Boavista,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-09-12,Primeira Liga,2016-17,Feirense,Tondela,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-16,Primeira Liga,2016-17,Nacional,Maritimo,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-09-17,Primeira Liga,2016-17,Setubal,Pacos Ferreira,1,4,0,0,0,0,0,0,5,0,0,0,1,1
+2016-09-17,Primeira Liga,2016-17,Estoril,Moreirense,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-09-17,Primeira Liga,2016-17,Guimaraes,Belenenses,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-09-18,Primeira Liga,2016-17,Arouca,Chaves,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-09-18,Primeira Liga,2016-17,Boavista,Feirense,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-18,Primeira Liga,2016-17,Rio Ave,Sp Lisbon,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-09-18,Primeira Liga,2016-17,Tondela,Porto,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-09-19,Primeira Liga,2016-17,Benfica,Sp Braga,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-09-23,Primeira Liga,2016-17,Porto,Boavista,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-09-23,Primeira Liga,2016-17,Sp Lisbon,Estoril,4,2,0,0,0,0,0,0,6,0,0,0,1,1
+2016-09-24,Primeira Liga,2016-17,Sp Braga,Setubal,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-24,Primeira Liga,2016-17,Chaves,Benfica,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-09-24,Primeira Liga,2016-17,Feirense,Nacional,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-09-25,Primeira Liga,2016-17,Maritimo,Tondela,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-09-25,Primeira Liga,2016-17,Moreirense,Guimaraes,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-09-25,Primeira Liga,2016-17,Pacos Ferreira,Rio Ave,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-09-26,Primeira Liga,2016-17,Belenenses,Arouca,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-09-30,Primeira Liga,2016-17,Tondela,Pacos Ferreira,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-10-01,Primeira Liga,2016-17,Rio Ave,Estoril,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-10-01,Primeira Liga,2016-17,Guimaraes,Sp Lisbon,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2016-10-01,Primeira Liga,2016-17,Chaves,Belenenses,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-10-01,Primeira Liga,2016-17,Nacional,Porto,0,4,0,0,0,0,0,0,4,0,0,0,0,1
+2016-10-02,Primeira Liga,2016-17,Arouca,Sp Braga,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-10-02,Primeira Liga,2016-17,Benfica,Feirense,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2016-10-02,Primeira Liga,2016-17,Boavista,Moreirense,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-10-02,Primeira Liga,2016-17,Setubal,Maritimo,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-10-21,Primeira Liga,2016-17,Maritimo,Boavista,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-10-21,Primeira Liga,2016-17,Pacos Ferreira,Nacional,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-10-22,Primeira Liga,2016-17,Feirense,Setubal,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-10-22,Primeira Liga,2016-17,Porto,Arouca,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-10-22,Primeira Liga,2016-17,Sp Lisbon,Tondela,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-10-23,Primeira Liga,2016-17,Moreirense,Rio Ave,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-10-23,Primeira Liga,2016-17,Belenenses,Benfica,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-10-23,Primeira Liga,2016-17,Estoril,Guimaraes,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-10-24,Primeira Liga,2016-17,Sp Braga,Chaves,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-10-28,Primeira Liga,2016-17,Nacional,Sp Lisbon,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-10-28,Primeira Liga,2016-17,Benfica,Pacos Ferreira,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-10-29,Primeira Liga,2016-17,Tondela,Moreirense,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-10-29,Primeira Liga,2016-17,Setubal,Porto,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-10-29,Primeira Liga,2016-17,Boavista,Estoril,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-10-30,Primeira Liga,2016-17,Arouca,Maritimo,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-10-30,Primeira Liga,2016-17,Rio Ave,Guimaraes,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-10-30,Primeira Liga,2016-17,Sp Braga,Belenenses,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-10-31,Primeira Liga,2016-17,Chaves,Feirense,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-11-04,Primeira Liga,2016-17,Guimaraes,Nacional,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-11-05,Primeira Liga,2016-17,Estoril,Tondela,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-11-05,Primeira Liga,2016-17,Feirense,Belenenses,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-11-05,Primeira Liga,2016-17,Pacos Ferreira,Chaves,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-11-05,Primeira Liga,2016-17,Rio Ave,Boavista,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-11-06,Primeira Liga,2016-17,Maritimo,Sp Braga,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-11-06,Primeira Liga,2016-17,Moreirense,Setubal,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-11-06,Primeira Liga,2016-17,Porto,Benfica,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-11-06,Primeira Liga,2016-17,Sp Lisbon,Arouca,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-11-25,Primeira Liga,2016-17,Setubal,Rio Ave,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-11-26,Primeira Liga,2016-17,Chaves,Maritimo,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-11-26,Primeira Liga,2016-17,Nacional,Estoril,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-11-26,Primeira Liga,2016-17,Belenenses,Porto,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-11-26,Primeira Liga,2016-17,Boavista,Sp Lisbon,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-11-27,Primeira Liga,2016-17,Arouca,Pacos Ferreira,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-11-27,Primeira Liga,2016-17,Benfica,Moreirense,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-11-27,Primeira Liga,2016-17,Tondela,Guimaraes,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-11-28,Primeira Liga,2016-17,Sp Braga,Feirense,6,2,0,0,0,0,0,0,8,0,0,0,1,1
+2016-12-02,Primeira Liga,2016-17,Maritimo,Benfica,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-03,Primeira Liga,2016-17,Porto,Sp Braga,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-03,Primeira Liga,2016-17,Rio Ave,Tondela,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-12-03,Primeira Liga,2016-17,Sp Lisbon,Setubal,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-04,Primeira Liga,2016-17,Moreirense,Nacional,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-12-04,Primeira Liga,2016-17,Guimaraes,Chaves,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-12-04,Primeira Liga,2016-17,Estoril,Belenenses,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-12-04,Primeira Liga,2016-17,Feirense,Arouca,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-05,Primeira Liga,2016-17,Pacos Ferreira,Boavista,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-09,Primeira Liga,2016-17,Setubal,Estoril,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-10,Primeira Liga,2016-17,Belenenses,Maritimo,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-10,Primeira Liga,2016-17,Boavista,Guimaraes,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-10,Primeira Liga,2016-17,Chaves,Moreirense,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-11,Primeira Liga,2016-17,Sp Braga,Pacos Ferreira,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-12-11,Primeira Liga,2016-17,Nacional,Tondela,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2016-12-11,Primeira Liga,2016-17,Feirense,Porto,0,4,0,0,0,0,0,0,4,0,0,0,0,1
+2016-12-11,Primeira Liga,2016-17,Benfica,Sp Lisbon,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-12,Primeira Liga,2016-17,Arouca,Rio Ave,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-15,Primeira Liga,2016-17,Porto,Maritimo,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-16,Primeira Liga,2016-17,Pacos Ferreira,Belenenses,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-17,Primeira Liga,2016-17,Estoril,Benfica,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-17,Primeira Liga,2016-17,Moreirense,Arouca,1,4,0,0,0,0,0,0,5,0,0,0,1,1
+2016-12-18,Primeira Liga,2016-17,Sp Lisbon,Sp Braga,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-18,Primeira Liga,2016-17,Tondela,Boavista,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-12-18,Primeira Liga,2016-17,Guimaraes,Setubal,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-12-18,Primeira Liga,2016-17,Rio Ave,Nacional,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-19,Primeira Liga,2016-17,Maritimo,Feirense,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-19,Primeira Liga,2016-17,Porto,Chaves,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-21,Primeira Liga,2016-17,Benfica,Rio Ave,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-22,Primeira Liga,2016-17,Sp Braga,Moreirense,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-12-22,Primeira Liga,2016-17,Belenenses,Sp Lisbon,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-22,Primeira Liga,2016-17,Chaves,Estoril,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-12-22,Primeira Liga,2016-17,Feirense,Pacos Ferreira,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-22,Primeira Liga,2016-17,Nacional,Boavista,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-12-23,Primeira Liga,2016-17,Setubal,Tondela,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-12-23,Primeira Liga,2016-17,Arouca,Guimaraes,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-07,Primeira Liga,2016-17,Estoril,Maritimo,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-07,Primeira Liga,2016-17,Guimaraes,Benfica,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-01-07,Primeira Liga,2016-17,Nacional,Sp Braga,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-01-07,Primeira Liga,2016-17,Pacos Ferreira,Porto,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-01-08,Primeira Liga,2016-17,Boavista,Setubal,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-08,Primeira Liga,2016-17,Rio Ave,Chaves,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-01-08,Primeira Liga,2016-17,Sp Lisbon,Feirense,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-08,Primeira Liga,2016-17,Tondela,Arouca,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-09,Primeira Liga,2016-17,Moreirense,Belenenses,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-13,Primeira Liga,2016-17,Arouca,Estoril,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-14,Primeira Liga,2016-17,Benfica,Boavista,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2017-01-14,Primeira Liga,2016-17,Chaves,Sp Lisbon,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-01-14,Primeira Liga,2016-17,Feirense,Guimaraes,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-01-14,Primeira Liga,2016-17,Setubal,Nacional,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-15,Primeira Liga,2016-17,Belenenses,Rio Ave,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-15,Primeira Liga,2016-17,Maritimo,Pacos Ferreira,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2017-01-15,Primeira Liga,2016-17,Porto,Moreirense,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-01-16,Primeira Liga,2016-17,Sp Braga,Tondela,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-01-20,Primeira Liga,2016-17,Pacos Ferreira,Moreirense,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-01-21,Primeira Liga,2016-17,Arouca,Boavista,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-21,Primeira Liga,2016-17,Maritimo,Sp Lisbon,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-01-21,Primeira Liga,2016-17,Porto,Rio Ave,4,2,0,0,0,0,0,0,6,0,0,0,1,1
+2017-01-22,Primeira Liga,2016-17,Belenenses,Setubal,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-22,Primeira Liga,2016-17,Benfica,Tondela,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2017-01-22,Primeira Liga,2016-17,Feirense,Estoril,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-22,Primeira Liga,2016-17,Sp Braga,Guimaraes,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-23,Primeira Liga,2016-17,Chaves,Nacional,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-01-27,Primeira Liga,2016-17,Boavista,Belenenses,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-01-28,Primeira Liga,2016-17,Estoril,Porto,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-01-28,Primeira Liga,2016-17,Guimaraes,Maritimo,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-01-28,Primeira Liga,2016-17,Nacional,Arouca,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-01-28,Primeira Liga,2016-17,Sp Lisbon,Pacos Ferreira,4,2,0,0,0,0,0,0,6,0,0,0,1,1
+2017-01-28,Primeira Liga,2016-17,Tondela,Chaves,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-01-30,Primeira Liga,2016-17,Setubal,Benfica,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-02,Primeira Liga,2016-17,Rio Ave,Sp Braga,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-02,Primeira Liga,2016-17,Moreirense,Feirense,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-03,Primeira Liga,2016-17,Pacos Ferreira,Guimaraes,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-02-04,Primeira Liga,2016-17,Chaves,Boavista,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-04,Primeira Liga,2016-17,Porto,Sp Lisbon,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-02-05,Primeira Liga,2016-17,Arouca,Setubal,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-02-05,Primeira Liga,2016-17,Belenenses,Tondela,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-05,Primeira Liga,2016-17,Benfica,Nacional,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-02-06,Primeira Liga,2016-17,Sp Braga,Estoril,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-06,Primeira Liga,2016-17,Feirense,Rio Ave,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-02-06,Primeira Liga,2016-17,Maritimo,Moreirense,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-10,Primeira Liga,2016-17,Benfica,Arouca,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-02-11,Primeira Liga,2016-17,Estoril,Pacos Ferreira,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-02-11,Primeira Liga,2016-17,Guimaraes,Porto,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-02-11,Primeira Liga,2016-17,Setubal,Chaves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-11,Primeira Liga,2016-17,Tondela,Feirense,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-12,Primeira Liga,2016-17,Moreirense,Sp Lisbon,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2017-02-12,Primeira Liga,2016-17,Nacional,Belenenses,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-12,Primeira Liga,2016-17,Boavista,Sp Braga,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-13,Primeira Liga,2016-17,Rio Ave,Maritimo,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-17,Primeira Liga,2016-17,Porto,Tondela,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2017-02-18,Primeira Liga,2016-17,Chaves,Arouca,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-02-18,Primeira Liga,2016-17,Feirense,Boavista,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-18,Primeira Liga,2016-17,Moreirense,Estoril,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-18,Primeira Liga,2016-17,Sp Lisbon,Rio Ave,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-19,Primeira Liga,2016-17,Belenenses,Guimaraes,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-19,Primeira Liga,2016-17,Pacos Ferreira,Setubal,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-02-19,Primeira Liga,2016-17,Sp Braga,Benfica,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-20,Primeira Liga,2016-17,Maritimo,Nacional,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-24,Primeira Liga,2016-17,Guimaraes,Moreirense,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-24,Primeira Liga,2016-17,Benfica,Chaves,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2017-02-25,Primeira Liga,2016-17,Estoril,Sp Lisbon,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-02-25,Primeira Liga,2016-17,Rio Ave,Pacos Ferreira,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-25,Primeira Liga,2016-17,Tondela,Maritimo,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-26,Primeira Liga,2016-17,Boavista,Porto,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-02-26,Primeira Liga,2016-17,Nacional,Feirense,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-02-26,Primeira Liga,2016-17,Setubal,Sp Braga,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-02-27,Primeira Liga,2016-17,Arouca,Belenenses,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-03-03,Primeira Liga,2016-17,Moreirense,Boavista,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-04,Primeira Liga,2016-17,Sp Braga,Arouca,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2017-03-04,Primeira Liga,2016-17,Feirense,Benfica,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-03-04,Primeira Liga,2016-17,Porto,Nacional,7,0,0,0,0,0,0,0,7,0,0,0,0,1
+2017-03-05,Primeira Liga,2016-17,Belenenses,Chaves,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-03-05,Primeira Liga,2016-17,Maritimo,Setubal,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-03-05,Primeira Liga,2016-17,Pacos Ferreira,Tondela,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-05,Primeira Liga,2016-17,Sp Lisbon,Guimaraes,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-03-06,Primeira Liga,2016-17,Estoril,Rio Ave,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-03-10,Primeira Liga,2016-17,Arouca,Porto,0,4,0,0,0,0,0,0,4,0,0,0,0,1
+2017-03-11,Primeira Liga,2016-17,Setubal,Feirense,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-03-11,Primeira Liga,2016-17,Chaves,Sp Braga,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-11,Primeira Liga,2016-17,Tondela,Sp Lisbon,1,4,0,0,0,0,0,0,5,0,0,0,1,1
+2017-03-12,Primeira Liga,2016-17,Boavista,Maritimo,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-03-12,Primeira Liga,2016-17,Guimaraes,Estoril,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2017-03-12,Primeira Liga,2016-17,Rio Ave,Moreirense,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2017-03-13,Primeira Liga,2016-17,Nacional,Pacos Ferreira,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-03-13,Primeira Liga,2016-17,Benfica,Belenenses,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2017-03-17,Primeira Liga,2016-17,Estoril,Boavista,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-18,Primeira Liga,2016-17,Pacos Ferreira,Benfica,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-03-18,Primeira Liga,2016-17,Sp Lisbon,Nacional,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-03-18,Primeira Liga,2016-17,Belenenses,Sp Braga,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-03-18,Primeira Liga,2016-17,Moreirense,Tondela,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-03-19,Primeira Liga,2016-17,Feirense,Chaves,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2017-03-19,Primeira Liga,2016-17,Guimaraes,Rio Ave,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-03-19,Primeira Liga,2016-17,Maritimo,Arouca,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2017-03-19,Primeira Liga,2016-17,Porto,Setubal,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-03-31,Primeira Liga,2016-17,Chaves,Pacos Ferreira,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-03-31,Primeira Liga,2016-17,Nacional,Guimaraes,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-01,Primeira Liga,2016-17,Benfica,Porto,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-04-01,Primeira Liga,2016-17,Boavista,Rio Ave,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-04-01,Primeira Liga,2016-17,Tondela,Estoril,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-02,Primeira Liga,2016-17,Sp Braga,Maritimo,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2017-04-02,Primeira Liga,2016-17,Setubal,Moreirense,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-02,Primeira Liga,2016-17,Arouca,Sp Lisbon,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-02,Primeira Liga,2016-17,Belenenses,Feirense,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-07,Primeira Liga,2016-17,Feirense,Sp Braga,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-04-08,Primeira Liga,2016-17,Pacos Ferreira,Arouca,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-04-08,Primeira Liga,2016-17,Porto,Belenenses,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-04-08,Primeira Liga,2016-17,Sp Lisbon,Boavista,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2017-04-09,Primeira Liga,2016-17,Rio Ave,Setubal,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-04-09,Primeira Liga,2016-17,Moreirense,Benfica,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-04-09,Primeira Liga,2016-17,Guimaraes,Tondela,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-09,Primeira Liga,2016-17,Estoril,Nacional,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-04-10,Primeira Liga,2016-17,Maritimo,Chaves,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-14,Primeira Liga,2016-17,Belenenses,Estoril,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2017-04-14,Primeira Liga,2016-17,Benfica,Maritimo,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-04-14,Primeira Liga,2016-17,Boavista,Pacos Ferreira,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-04-14,Primeira Liga,2016-17,Setubal,Sp Lisbon,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2017-04-15,Primeira Liga,2016-17,Tondela,Rio Ave,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-15,Primeira Liga,2016-17,Sp Braga,Porto,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-04-15,Primeira Liga,2016-17,Arouca,Feirense,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-15,Primeira Liga,2016-17,Chaves,Guimaraes,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2017-04-17,Primeira Liga,2016-17,Nacional,Moreirense,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-04-21,Primeira Liga,2016-17,Rio Ave,Arouca,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-04-22,Primeira Liga,2016-17,Estoril,Setubal,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-04-22,Primeira Liga,2016-17,Maritimo,Belenenses,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2017-04-22,Primeira Liga,2016-17,Sp Lisbon,Benfica,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-04-22,Primeira Liga,2016-17,Tondela,Nacional,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-23,Primeira Liga,2016-17,Porto,Feirense,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-04-23,Primeira Liga,2016-17,Guimaraes,Boavista,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-23,Primeira Liga,2016-17,Pacos Ferreira,Sp Braga,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2017-04-24,Primeira Liga,2016-17,Moreirense,Chaves,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-04-28,Primeira Liga,2016-17,Setubal,Guimaraes,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-29,Primeira Liga,2016-17,Benfica,Estoril,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-29,Primeira Liga,2016-17,Boavista,Tondela,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-04-29,Primeira Liga,2016-17,Chaves,Porto,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-29,Primeira Liga,2016-17,Nacional,Rio Ave,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2017-04-30,Primeira Liga,2016-17,Arouca,Moreirense,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-04-30,Primeira Liga,2016-17,Belenenses,Pacos Ferreira,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-30,Primeira Liga,2016-17,Feirense,Maritimo,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-04-30,Primeira Liga,2016-17,Sp Braga,Sp Lisbon,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2017-05-05,Primeira Liga,2016-17,Moreirense,Sp Braga,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-05-06,Primeira Liga,2016-17,Boavista,Nacional,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-05-06,Primeira Liga,2016-17,Maritimo,Porto,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-05-06,Primeira Liga,2016-17,Pacos Ferreira,Feirense,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-05-07,Primeira Liga,2016-17,Tondela,Setubal,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-05-07,Primeira Liga,2016-17,Sp Lisbon,Belenenses,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2017-05-07,Primeira Liga,2016-17,Guimaraes,Arouca,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2017-05-07,Primeira Liga,2016-17,Rio Ave,Benfica,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-05-08,Primeira Liga,2016-17,Estoril,Chaves,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-05-12,Primeira Liga,2016-17,Belenenses,Moreirense,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-05-13,Primeira Liga,2016-17,Arouca,Tondela,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-05-13,Primeira Liga,2016-17,Benfica,Guimaraes,5,0,0,0,0,0,0,0,5,0,0,0,0,1
+2017-05-13,Primeira Liga,2016-17,Feirense,Sp Lisbon,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2017-05-14,Primeira Liga,2016-17,Maritimo,Estoril,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2017-05-14,Primeira Liga,2016-17,Chaves,Rio Ave,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-05-14,Primeira Liga,2016-17,Porto,Pacos Ferreira,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2017-05-14,Primeira Liga,2016-17,Sp Braga,Nacional,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2017-05-15,Primeira Liga,2016-17,Setubal,Boavista,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-05-20,Primeira Liga,2016-17,Pacos Ferreira,Maritimo,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2017-05-20,Primeira Liga,2016-17,Nacional,Setubal,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2017-05-20,Primeira Liga,2016-17,Rio Ave,Belenenses,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2017-05-20,Primeira Liga,2016-17,Boavista,Benfica,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2017-05-20,Primeira Liga,2016-17,Guimaraes,Feirense,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2017-05-21,Primeira Liga,2016-17,Moreirense,Porto,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2017-05-21,Primeira Liga,2016-17,Sp Lisbon,Chaves,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2017-05-21,Primeira Liga,2016-17,Estoril,Arouca,4,2,0,0,0,0,0,0,6,0,0,0,1,1
+2017-05-21,Primeira Liga,2016-17,Tondela,Sp Braga,2,0,0,0,0,0,0,0,2,0,0,0,0,0

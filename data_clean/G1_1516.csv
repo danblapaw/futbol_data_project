@@ -1,241 +1,241 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2015-08-22,Super League Greece,2015-16,AEK,Platanias,3,0,0,0,3,0,0,1
-2015-08-22,Super League Greece,2015-16,Kallonis,Iraklis,0,1,0,0,1,0,0,0
-2015-08-22,Super League Greece,2015-16,Panthrakikos,Asteras Tripolis,0,2,0,0,2,0,0,0
-2015-08-23,Super League Greece,2015-16,Atromitos,Levadeiakos,1,0,0,0,1,0,0,0
-2015-08-23,Super League Greece,2015-16,Olympiakos,Panionios,3,0,0,0,3,0,0,1
-2015-08-23,Super League Greece,2015-16,PAOK,Xanthi,0,0,0,0,0,0,0,0
-2015-08-23,Super League Greece,2015-16,Veria,Giannina,1,1,0,0,2,0,1,0
-2015-08-24,Super League Greece,2015-16,Panetolikos,Panathinaikos,1,2,0,0,3,0,1,1
-2015-08-29,Super League Greece,2015-16,Levadeiakos,Olympiakos,0,2,0,0,2,0,0,0
-2015-08-29,Super League Greece,2015-16,Panthrakikos,Veria,0,2,0,0,2,0,0,0
-2015-08-29,Super League Greece,2015-16,Xanthi,AEK,0,0,0,0,0,0,0,0
-2015-08-30,Super League Greece,2015-16,Iraklis,Panionios,0,1,0,0,1,0,0,0
-2015-08-30,Super League Greece,2015-16,Panathinaikos,Kallonis,4,0,0,0,4,0,0,1
-2015-08-30,Super League Greece,2015-16,Asteras Tripolis,Panetolikos,0,2,0,0,2,0,0,0
-2015-08-30,Super League Greece,2015-16,Giannina,PAOK,3,1,0,0,4,0,1,1
-2015-08-31,Super League Greece,2015-16,Platanias,Atromitos,1,2,0,0,3,0,1,1
-2015-09-12,Super League Greece,2015-16,Kallonis,Asteras Tripolis,1,1,0,0,2,0,1,0
-2015-09-12,Super League Greece,2015-16,Olympiakos,Platanias,3,1,0,0,4,0,1,1
-2015-09-12,Super League Greece,2015-16,Veria,PAOK,0,3,0,0,3,0,0,1
-2015-09-13,Super League Greece,2015-16,AEK,Giannina,3,1,0,0,4,0,1,1
-2015-09-13,Super League Greece,2015-16,Atromitos,Xanthi,0,1,0,0,1,0,0,0
-2015-09-13,Super League Greece,2015-16,Panetolikos,Panthrakikos,1,0,0,0,1,0,0,0
-2015-09-13,Super League Greece,2015-16,Panionios,Panathinaikos,1,0,0,0,1,0,0,0
-2015-09-14,Super League Greece,2015-16,Iraklis,Levadeiakos,0,1,0,0,1,0,0,0
-2015-09-22,Super League Greece,2015-16,Panetolikos,Veria,1,1,0,0,2,0,1,0
-2015-09-22,Super League Greece,2015-16,Platanias,Iraklis,0,0,0,0,0,0,0,0
-2015-09-22,Super League Greece,2015-16,Xanthi,Olympiakos,1,3,0,0,4,0,1,1
-2015-09-23,Super League Greece,2015-16,PAOK,AEK,2,1,0,0,3,0,1,1
-2015-09-23,Super League Greece,2015-16,Panathinaikos,Levadeiakos,3,0,0,0,3,0,0,1
-2015-09-23,Super League Greece,2015-16,Panthrakikos,Kallonis,0,0,0,0,0,0,0,0
-2015-09-23,Super League Greece,2015-16,Asteras Tripolis,Panionios,2,1,0,0,3,0,1,1
-2015-09-23,Super League Greece,2015-16,Giannina,Atromitos,1,0,0,0,1,0,0,0
-2015-09-26,Super League Greece,2015-16,Iraklis,Xanthi,1,1,0,0,2,0,1,0
-2015-09-26,Super League Greece,2015-16,Kallonis,Panetolikos,5,1,0,0,6,0,1,1
-2015-09-26,Super League Greece,2015-16,Olympiakos,Giannina,5,1,0,0,6,0,1,1
-2015-09-27,Super League Greece,2015-16,Atromitos,PAOK,1,2,0,0,3,0,1,1
-2015-09-27,Super League Greece,2015-16,Levadeiakos,Asteras Tripolis,2,1,0,0,3,0,1,1
-2015-09-27,Super League Greece,2015-16,Panathinaikos,Platanias,1,0,0,0,1,0,0,0
-2015-09-27,Super League Greece,2015-16,Panionios,Panthrakikos,1,1,0,0,2,0,1,0
-2015-09-28,Super League Greece,2015-16,Veria,AEK,1,2,0,0,3,0,1,1
-2015-10-03,Super League Greece,2015-16,Panetolikos,Panionios,1,5,0,0,6,0,1,1
-2015-10-03,Super League Greece,2015-16,Panthrakikos,Levadeiakos,1,3,0,0,4,0,1,1
-2015-10-03,Super League Greece,2015-16,Xanthi,Panathinaikos,0,1,0,0,1,0,0,0
-2015-10-04,Super League Greece,2015-16,Kallonis,Veria,0,1,0,0,1,0,0,0
-2015-10-04,Super League Greece,2015-16,PAOK,Olympiakos,0,2,0,0,2,0,0,0
-2015-10-04,Super League Greece,2015-16,Giannina,Iraklis,2,2,0,0,4,0,1,1
-2015-10-04,Super League Greece,2015-16,AEK,Atromitos,1,0,0,0,1,0,0,0
-2015-10-05,Super League Greece,2015-16,Asteras Tripolis,Platanias,1,1,0,0,2,0,1,0
-2015-10-17,Super League Greece,2015-16,Olympiakos,AEK,4,0,0,0,4,0,0,1
-2015-10-17,Super League Greece,2015-16,Panionios,Kallonis,2,0,0,0,2,0,0,0
-2015-10-17,Super League Greece,2015-16,Platanias,Panthrakikos,4,0,0,0,4,0,0,1
-2015-10-18,Super League Greece,2015-16,Asteras Tripolis,Xanthi,1,1,0,0,2,0,1,0
-2015-10-18,Super League Greece,2015-16,Iraklis,PAOK,3,3,0,0,6,0,1,1
-2015-10-18,Super League Greece,2015-16,Levadeiakos,Panetolikos,2,2,0,0,4,0,1,1
-2015-10-18,Super League Greece,2015-16,Veria,Atromitos,0,1,0,0,1,0,0,0
-2015-10-19,Super League Greece,2015-16,Panathinaikos,Giannina,3,1,0,0,4,0,1,1
-2015-10-24,Super League Greece,2015-16,AEK,Iraklis,5,1,0,0,6,0,1,1
-2015-10-24,Super League Greece,2015-16,Kallonis,Levadeiakos,0,0,0,0,0,0,0,0
-2015-10-24,Super League Greece,2015-16,Panetolikos,Platanias,1,2,0,0,3,0,1,1
-2015-10-25,Super League Greece,2015-16,PAOK,Panathinaikos,3,1,0,0,4,0,1,1
-2015-10-25,Super League Greece,2015-16,Panthrakikos,Xanthi,0,0,0,0,0,0,0,0
-2015-10-25,Super League Greece,2015-16,Atromitos,Olympiakos,1,2,0,0,3,0,1,1
-2015-10-25,Super League Greece,2015-16,Giannina,Asteras Tripolis,1,2,0,0,3,0,1,1
-2015-10-25,Super League Greece,2015-16,Panionios,Veria,0,1,0,0,1,0,0,0
-2015-10-31,Super League Greece,2015-16,Levadeiakos,Panionios,0,2,0,0,2,0,0,0
-2015-10-31,Super League Greece,2015-16,Platanias,Kallonis,2,1,0,0,3,0,1,1
-2015-10-31,Super League Greece,2015-16,Veria,Olympiakos,0,2,0,0,2,0,0,0
-2015-11-01,Super League Greece,2015-16,Asteras Tripolis,PAOK,2,1,0,0,3,0,1,1
-2015-11-01,Super League Greece,2015-16,Giannina,Panthrakikos,2,0,0,0,2,0,0,0
-2015-11-01,Super League Greece,2015-16,Panathinaikos,AEK,0,0,0,0,0,0,0,0
-2015-11-01,Super League Greece,2015-16,Xanthi,Panetolikos,3,1,0,0,4,0,1,1
-2015-11-02,Super League Greece,2015-16,Iraklis,Atromitos,2,0,0,0,2,0,0,0
-2015-11-07,Super League Greece,2015-16,Atromitos,Panathinaikos,1,2,0,0,3,0,1,1
-2015-11-07,Super League Greece,2015-16,Kallonis,Xanthi,2,2,0,0,4,0,1,1
-2015-11-07,Super League Greece,2015-16,Panionios,Platanias,2,1,0,0,3,0,1,1
-2015-11-08,Super League Greece,2015-16,PAOK,Panthrakikos,3,3,0,0,6,0,1,1
-2015-11-08,Super League Greece,2015-16,Olympiakos,Iraklis,2,0,0,0,2,0,0,0
-2015-11-08,Super League Greece,2015-16,AEK,Asteras Tripolis,0,1,0,0,1,0,0,0
-2015-11-08,Super League Greece,2015-16,Levadeiakos,Veria,1,1,0,0,2,0,1,0
-2015-11-09,Super League Greece,2015-16,Panetolikos,Giannina,2,1,0,0,3,0,1,1
-2015-11-21,Super League Greece,2015-16,Asteras Tripolis,Atromitos,1,0,0,0,1,0,0,0
-2015-11-21,Super League Greece,2015-16,Giannina,Kallonis,2,1,0,0,3,0,1,1
-2015-11-21,Super League Greece,2015-16,Panathinaikos,Olympiakos,0,3,0,0,3,0,0,1
-2015-11-22,Super League Greece,2015-16,Panthrakikos,AEK,1,2,0,0,3,0,1,1
-2015-11-22,Super League Greece,2015-16,PAOK,Panetolikos,0,0,0,0,0,0,0,0
-2015-11-22,Super League Greece,2015-16,Platanias,Levadeiakos,2,1,0,0,3,0,1,1
-2015-11-22,Super League Greece,2015-16,Xanthi,Panionios,2,0,0,0,2,0,0,0
-2015-11-23,Super League Greece,2015-16,Veria,Iraklis,0,0,0,0,0,0,0,0
-2015-11-28,Super League Greece,2015-16,Iraklis,Panathinaikos,1,0,0,0,1,0,0,0
-2015-11-28,Super League Greece,2015-16,Panionios,Giannina,2,0,0,0,2,0,0,0
-2015-11-28,Super League Greece,2015-16,Atromitos,Panthrakikos,1,2,0,0,3,0,1,1
-2015-11-29,Super League Greece,2015-16,AEK,Panetolikos,2,0,0,0,2,0,0,0
-2015-11-29,Super League Greece,2015-16,Levadeiakos,Xanthi,1,0,0,0,1,0,0,0
-2015-11-29,Super League Greece,2015-16,Olympiakos,Asteras Tripolis,3,1,0,0,4,0,1,1
-2015-11-29,Super League Greece,2015-16,Platanias,Veria,0,0,0,0,0,0,0,0
-2015-11-30,Super League Greece,2015-16,Kallonis,PAOK,1,3,0,0,4,0,1,1
-2015-12-05,Super League Greece,2015-16,Asteras Tripolis,Iraklis,1,2,0,0,3,0,1,1
-2015-12-05,Super League Greece,2015-16,Panthrakikos,Olympiakos,3,4,0,0,7,0,1,1
-2015-12-05,Super League Greece,2015-16,Xanthi,Platanias,0,2,0,0,2,0,0,0
-2015-12-06,Super League Greece,2015-16,Veria,Panathinaikos,0,1,0,0,1,0,0,0
-2015-12-06,Super League Greece,2015-16,AEK,Kallonis,3,0,0,0,3,0,0,1
-2015-12-06,Super League Greece,2015-16,Giannina,Levadeiakos,0,1,0,0,1,0,0,0
-2015-12-06,Super League Greece,2015-16,PAOK,Panionios,2,1,0,0,3,0,1,1
-2015-12-07,Super League Greece,2015-16,Panetolikos,Atromitos,1,1,0,0,2,0,1,0
-2015-12-12,Super League Greece,2015-16,Platanias,Giannina,0,1,0,0,1,0,0,0
-2015-12-12,Super League Greece,2015-16,Iraklis,Panthrakikos,0,0,0,0,0,0,0,0
-2015-12-12,Super League Greece,2015-16,Panionios,AEK,1,1,0,0,2,0,1,0
-2015-12-13,Super League Greece,2015-16,Atromitos,Kallonis,1,0,0,0,1,0,0,0
-2015-12-13,Super League Greece,2015-16,Olympiakos,Panetolikos,1,0,0,0,1,0,0,0
-2015-12-13,Super League Greece,2015-16,Panathinaikos,Asteras Tripolis,2,0,0,0,2,0,0,0
-2015-12-13,Super League Greece,2015-16,Xanthi,Veria,1,1,0,0,2,0,1,0
-2015-12-14,Super League Greece,2015-16,Levadeiakos,PAOK,0,0,0,0,0,0,0,0
-2015-12-19,Super League Greece,2015-16,Veria,Asteras Tripolis,1,0,0,0,1,0,0,0
-2015-12-19,Super League Greece,2015-16,Atromitos,Panionios,1,0,0,0,1,0,0,0
-2015-12-19,Super League Greece,2015-16,Kallonis,Olympiakos,0,2,0,0,2,0,0,0
-2015-12-20,Super League Greece,2015-16,Panetolikos,Iraklis,2,0,0,0,2,0,0,0
-2015-12-20,Super League Greece,2015-16,Panthrakikos,Panathinaikos,1,0,0,0,1,0,0,0
-2015-12-20,Super League Greece,2015-16,Giannina,Xanthi,1,1,0,0,2,0,1,0
-2015-12-20,Super League Greece,2015-16,PAOK,Platanias,1,0,0,0,1,0,0,0
-2015-12-21,Super League Greece,2015-16,AEK,Levadeiakos,1,2,0,0,3,0,1,1
-2016-01-02,Super League Greece,2015-16,Asteras Tripolis,Panthrakikos,4,0,0,0,4,0,0,1
-2016-01-02,Super League Greece,2015-16,Giannina,Veria,2,0,0,0,2,0,0,0
-2016-01-02,Super League Greece,2015-16,Iraklis,Kallonis,3,0,0,0,3,0,0,1
-2016-01-03,Super League Greece,2015-16,Panionios,Olympiakos,1,3,0,0,4,0,1,1
-2016-01-03,Super League Greece,2015-16,Platanias,AEK,0,3,0,0,3,0,0,1
-2016-01-04,Super League Greece,2015-16,Panathinaikos,Panetolikos,4,2,0,0,6,0,1,1
-2016-01-09,Super League Greece,2015-16,AEK,Xanthi,2,1,0,0,3,0,1,1
-2016-01-09,Super League Greece,2015-16,Atromitos,Platanias,0,0,0,0,0,0,0,0
-2016-01-09,Super League Greece,2015-16,Veria,Panthrakikos,0,0,0,0,0,0,0,0
-2016-01-10,Super League Greece,2015-16,Olympiakos,Levadeiakos,3,1,0,0,4,0,1,1
-2016-01-10,Super League Greece,2015-16,Panetolikos,Asteras Tripolis,2,1,0,0,3,0,1,1
-2016-01-10,Super League Greece,2015-16,Panionios,Iraklis,1,0,0,0,1,0,0,0
-2016-01-10,Super League Greece,2015-16,PAOK,Giannina,3,1,0,0,4,0,1,1
-2016-01-11,Super League Greece,2015-16,Kallonis,Panathinaikos,0,2,0,0,2,0,0,0
-2016-01-16,Super League Greece,2015-16,Xanthi,Atromitos,2,2,0,0,4,0,1,1
-2016-01-16,Super League Greece,2015-16,Levadeiakos,Iraklis,1,1,0,0,2,0,1,0
-2016-01-16,Super League Greece,2015-16,Panthrakikos,Panetolikos,0,0,0,0,0,0,0,0
-2016-01-17,Super League Greece,2015-16,Asteras Tripolis,Kallonis,3,1,0,0,4,0,1,1
-2016-01-17,Super League Greece,2015-16,Giannina,AEK,0,2,0,0,2,0,0,0
-2016-01-17,Super League Greece,2015-16,Panathinaikos,Panionios,0,0,0,0,0,0,0,0
-2016-01-17,Super League Greece,2015-16,PAOK,Veria,2,1,0,0,3,0,1,1
-2016-01-18,Super League Greece,2015-16,Platanias,Olympiakos,1,1,0,0,2,0,1,0
-2016-01-20,Super League Greece,2015-16,Xanthi,PAOK,1,1,0,0,2,0,1,0
-2016-01-23,Super League Greece,2015-16,Kallonis,Panthrakikos,2,0,0,0,2,0,0,0
-2016-01-23,Super League Greece,2015-16,Olympiakos,Xanthi,1,0,0,0,1,0,0,0
-2016-01-23,Super League Greece,2015-16,Panionios,Asteras Tripolis,0,0,0,0,0,0,0,0
-2016-01-24,Super League Greece,2015-16,Levadeiakos,Panathinaikos,0,2,0,0,2,0,0,0
-2016-01-24,Super League Greece,2015-16,AEK,PAOK,1,0,0,0,1,0,0,0
-2016-01-24,Super League Greece,2015-16,Atromitos,Giannina,0,2,0,0,2,0,0,0
-2016-01-24,Super League Greece,2015-16,Veria,Panetolikos,0,1,0,0,1,0,0,0
-2016-01-25,Super League Greece,2015-16,Iraklis,Platanias,0,0,0,0,0,0,0,0
-2016-01-30,Super League Greece,2015-16,Panetolikos,Kallonis,1,0,0,0,1,0,0,0
-2016-01-30,Super League Greece,2015-16,Panthrakikos,Panionios,0,1,0,0,1,0,0,0
-2016-01-30,Super League Greece,2015-16,PAOK,Atromitos,1,1,0,0,2,0,1,0
-2016-01-31,Super League Greece,2015-16,AEK,Veria,3,0,0,0,3,0,0,1
-2016-01-31,Super League Greece,2015-16,Asteras Tripolis,Levadeiakos,2,0,0,0,2,0,0,0
-2016-01-31,Super League Greece,2015-16,Giannina,Olympiakos,0,3,0,0,3,0,0,1
-2016-01-31,Super League Greece,2015-16,Platanias,Panathinaikos,2,3,0,0,5,0,1,1
-2016-01-31,Super League Greece,2015-16,Xanthi,Iraklis,2,0,0,0,2,0,0,0
-2016-02-06,Super League Greece,2015-16,Levadeiakos,Panthrakikos,1,1,0,0,2,0,1,0
-2016-02-06,Super League Greece,2015-16,Panathinaikos,Xanthi,0,1,0,0,1,0,0,0
-2016-02-06,Super League Greece,2015-16,Platanias,Asteras Tripolis,2,0,0,0,2,0,0,0
-2016-02-07,Super League Greece,2015-16,Olympiakos,PAOK,1,0,0,0,1,0,0,0
-2016-02-07,Super League Greece,2015-16,Veria,Kallonis,2,0,0,0,2,0,0,0
-2016-02-07,Super League Greece,2015-16,Atromitos,AEK,1,0,0,0,1,0,0,0
-2016-02-07,Super League Greece,2015-16,Iraklis,Giannina,1,0,0,0,1,0,0,0
-2016-02-08,Super League Greece,2015-16,Panionios,Panetolikos,2,0,0,0,2,0,0,0
-2016-02-13,Super League Greece,2015-16,AEK,Olympiakos,1,0,0,0,1,0,0,0
-2016-02-13,Super League Greece,2015-16,Atromitos,Veria,0,0,0,0,0,0,0,0
-2016-02-13,Super League Greece,2015-16,Panthrakikos,Platanias,0,2,0,0,2,0,0,0
-2016-02-14,Super League Greece,2015-16,PAOK,Iraklis,0,1,0,0,1,0,0,0
-2016-02-14,Super League Greece,2015-16,Panetolikos,Levadeiakos,2,0,0,0,2,0,0,0
-2016-02-14,Super League Greece,2015-16,Giannina,Panathinaikos,0,3,0,0,3,0,0,1
-2016-02-14,Super League Greece,2015-16,Kallonis,Panionios,1,1,0,0,2,0,1,0
-2016-02-15,Super League Greece,2015-16,Xanthi,Asteras Tripolis,0,0,0,0,0,0,0,0
-2016-02-17,Super League Greece,2015-16,Levadeiakos,Atromitos,1,1,0,0,2,0,1,0
-2016-02-20,Super League Greece,2015-16,Asteras Tripolis,Giannina,0,0,0,0,0,0,0,0
-2016-02-20,Super League Greece,2015-16,Iraklis,AEK,1,1,0,0,2,0,1,0
-2016-02-20,Super League Greece,2015-16,Levadeiakos,Kallonis,1,0,0,0,1,0,0,0
-2016-02-21,Super League Greece,2015-16,Xanthi,Panthrakikos,1,0,0,0,1,0,0,0
-2016-02-21,Super League Greece,2015-16,Platanias,Panetolikos,1,1,0,0,2,0,1,0
-2016-02-21,Super League Greece,2015-16,Olympiakos,Atromitos,4,0,0,0,4,0,0,1
-2016-02-21,Super League Greece,2015-16,Panathinaikos,PAOK,2,2,0,0,4,0,1,1
-2016-02-22,Super League Greece,2015-16,Veria,Panionios,1,1,0,0,2,0,1,0
-2016-02-27,Super League Greece,2015-16,Kallonis,Platanias,2,1,0,0,3,0,1,1
-2016-02-27,Super League Greece,2015-16,Panetolikos,Xanthi,2,2,0,0,4,0,1,1
-2016-02-27,Super League Greece,2015-16,PAOK,Asteras Tripolis,2,0,0,0,2,0,0,0
-2016-02-28,Super League Greece,2015-16,AEK,Panathinaikos,1,0,0,0,1,0,0,0
-2016-02-28,Super League Greece,2015-16,Olympiakos,Veria,3,0,0,0,3,0,0,1
-2016-02-28,Super League Greece,2015-16,Panionios,Levadeiakos,0,2,0,0,2,0,0,0
-2016-02-28,Super League Greece,2015-16,Panthrakikos,Giannina,2,4,0,0,6,0,1,1
-2016-02-29,Super League Greece,2015-16,Atromitos,Iraklis,1,0,0,0,1,0,0,0
-2016-03-05,Super League Greece,2015-16,Giannina,Panetolikos,2,0,0,0,2,0,0,0
-2016-03-05,Super League Greece,2015-16,Platanias,Panionios,0,0,0,0,0,0,0,0
-2016-03-06,Super League Greece,2015-16,Veria,Levadeiakos,0,0,0,0,0,0,0,0
-2016-03-06,Super League Greece,2015-16,Xanthi,Kallonis,0,0,0,0,0,0,0,0
-2016-03-06,Super League Greece,2015-16,Panathinaikos,Atromitos,2,0,0,0,2,0,0,0
-2016-03-06,Super League Greece,2015-16,Panthrakikos,PAOK,2,1,0,0,3,0,1,1
-2016-03-07,Super League Greece,2015-16,Asteras Tripolis,AEK,0,0,0,0,0,0,0,0
-2016-03-12,Super League Greece,2015-16,Kallonis,Giannina,0,2,0,0,2,0,0,0
-2016-03-12,Super League Greece,2015-16,Panetolikos,PAOK,0,3,0,0,3,0,0,1
-2016-03-12,Super League Greece,2015-16,Panionios,Xanthi,3,0,0,0,3,0,0,1
-2016-03-13,Super League Greece,2015-16,Atromitos,Asteras Tripolis,2,1,0,0,3,0,1,1
-2016-03-13,Super League Greece,2015-16,Iraklis,Veria,1,1,0,0,2,0,1,0
-2016-03-13,Super League Greece,2015-16,Levadeiakos,Platanias,0,3,0,0,3,0,0,1
-2016-03-13,Super League Greece,2015-16,Olympiakos,Panathinaikos,3,1,0,0,4,0,1,1
-2016-03-14,Super League Greece,2015-16,AEK,Panthrakikos,3,0,0,0,3,0,0,1
-2016-03-19,Super League Greece,2015-16,Xanthi,Levadeiakos,2,2,0,0,4,0,1,1
-2016-03-19,Super League Greece,2015-16,Veria,Platanias,0,1,0,0,1,0,0,0
-2016-03-19,Super League Greece,2015-16,Panathinaikos,Iraklis,4,0,0,0,4,0,0,1
-2016-03-20,Super League Greece,2015-16,PAOK,Kallonis,3,0,0,0,3,0,0,1
-2016-03-20,Super League Greece,2015-16,Panthrakikos,Atromitos,0,1,0,0,1,0,0,0
-2016-03-20,Super League Greece,2015-16,Asteras Tripolis,Olympiakos,1,2,0,0,3,0,1,1
-2016-03-20,Super League Greece,2015-16,Panetolikos,AEK,1,0,0,0,1,0,0,0
-2016-03-21,Super League Greece,2015-16,Giannina,Panionios,1,1,0,0,2,0,1,0
-2016-04-03,Super League Greece,2015-16,Platanias,Xanthi,3,1,0,0,4,0,1,1
-2016-04-03,Super League Greece,2015-16,Atromitos,Panetolikos,1,0,0,0,1,0,0,0
-2016-04-03,Super League Greece,2015-16,Iraklis,Asteras Tripolis,0,1,0,0,1,0,0,0
-2016-04-03,Super League Greece,2015-16,Kallonis,AEK,0,0,0,0,0,0,0,0
-2016-04-03,Super League Greece,2015-16,Levadeiakos,Giannina,1,1,0,0,2,0,1,0
-2016-04-03,Super League Greece,2015-16,Olympiakos,Panthrakikos,4,0,0,0,4,0,0,1
-2016-04-03,Super League Greece,2015-16,Panathinaikos,Veria,3,2,0,0,5,0,1,1
-2016-04-03,Super League Greece,2015-16,Panionios,PAOK,3,1,0,0,4,0,1,1
-2016-04-06,Super League Greece,2015-16,Iraklis,Olympiakos,0,2,0,0,2,0,0,0
-2016-04-10,Super League Greece,2015-16,AEK,Panionios,2,0,0,0,2,0,0,0
-2016-04-10,Super League Greece,2015-16,Asteras Tripolis,Panathinaikos,0,0,0,0,0,0,0,0
-2016-04-10,Super League Greece,2015-16,Giannina,Platanias,2,0,0,0,2,0,0,0
-2016-04-10,Super League Greece,2015-16,Kallonis,Atromitos,2,4,0,0,6,0,1,1
-2016-04-10,Super League Greece,2015-16,Panetolikos,Olympiakos,2,5,0,0,7,0,1,1
-2016-04-10,Super League Greece,2015-16,Panthrakikos,Iraklis,0,3,0,0,3,0,0,1
-2016-04-10,Super League Greece,2015-16,PAOK,Levadeiakos,2,0,0,0,2,0,0,0
-2016-04-10,Super League Greece,2015-16,Veria,Xanthi,1,1,0,0,2,0,1,0
-2016-04-17,Super League Greece,2015-16,Panathinaikos,Panthrakikos,6,1,0,0,7,0,1,1
-2016-04-17,Super League Greece,2015-16,Panionios,Atromitos,0,1,0,0,1,0,0,0
-2016-04-17,Super League Greece,2015-16,Olympiakos,Kallonis,5,0,0,0,5,0,0,1
-2016-04-17,Super League Greece,2015-16,Platanias,PAOK,0,0,0,0,0,0,0,0
-2016-04-17,Super League Greece,2015-16,Iraklis,Panetolikos,0,0,0,0,0,0,0,0
-2016-04-17,Super League Greece,2015-16,Asteras Tripolis,Veria,2,1,0,0,3,0,1,1
-2016-04-17,Super League Greece,2015-16,Levadeiakos,AEK,3,0,0,0,3,0,0,1
-2016-04-17,Super League Greece,2015-16,Xanthi,Giannina,0,1,0,0,1,0,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2015-08-22,Super League Greece,2015-16,AEK,Platanias,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-08-22,Super League Greece,2015-16,Kallonis,Iraklis,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-22,Super League Greece,2015-16,Panthrakikos,Asteras Tripolis,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-23,Super League Greece,2015-16,Atromitos,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-23,Super League Greece,2015-16,Olympiakos,Panionios,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-08-23,Super League Greece,2015-16,PAOK,Xanthi,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-23,Super League Greece,2015-16,Veria,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-08-24,Super League Greece,2015-16,Panetolikos,Panathinaikos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-29,Super League Greece,2015-16,Levadeiakos,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-29,Super League Greece,2015-16,Panthrakikos,Veria,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-29,Super League Greece,2015-16,Xanthi,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-30,Super League Greece,2015-16,Iraklis,Panionios,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-30,Super League Greece,2015-16,Panathinaikos,Kallonis,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2015-08-30,Super League Greece,2015-16,Asteras Tripolis,Panetolikos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-30,Super League Greece,2015-16,Giannina,PAOK,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-08-31,Super League Greece,2015-16,Platanias,Atromitos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-12,Super League Greece,2015-16,Kallonis,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-12,Super League Greece,2015-16,Olympiakos,Platanias,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-12,Super League Greece,2015-16,Veria,PAOK,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2015-09-13,Super League Greece,2015-16,AEK,Giannina,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-13,Super League Greece,2015-16,Atromitos,Xanthi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-13,Super League Greece,2015-16,Panetolikos,Panthrakikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-13,Super League Greece,2015-16,Panionios,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-14,Super League Greece,2015-16,Iraklis,Levadeiakos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-22,Super League Greece,2015-16,Panetolikos,Veria,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-22,Super League Greece,2015-16,Platanias,Iraklis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-09-22,Super League Greece,2015-16,Xanthi,Olympiakos,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-23,Super League Greece,2015-16,PAOK,AEK,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-23,Super League Greece,2015-16,Panathinaikos,Levadeiakos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-09-23,Super League Greece,2015-16,Panthrakikos,Kallonis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-09-23,Super League Greece,2015-16,Asteras Tripolis,Panionios,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-23,Super League Greece,2015-16,Giannina,Atromitos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-26,Super League Greece,2015-16,Iraklis,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-26,Super League Greece,2015-16,Kallonis,Panetolikos,5,1,0,0,0,0,0,0,6,0,0,0,1,1
+2015-09-26,Super League Greece,2015-16,Olympiakos,Giannina,5,1,0,0,0,0,0,0,6,0,0,0,1,1
+2015-09-27,Super League Greece,2015-16,Atromitos,PAOK,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-27,Super League Greece,2015-16,Levadeiakos,Asteras Tripolis,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-27,Super League Greece,2015-16,Panathinaikos,Platanias,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-27,Super League Greece,2015-16,Panionios,Panthrakikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-28,Super League Greece,2015-16,Veria,AEK,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-03,Super League Greece,2015-16,Panetolikos,Panionios,1,5,0,0,0,0,0,0,6,0,0,0,1,1
+2015-10-03,Super League Greece,2015-16,Panthrakikos,Levadeiakos,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-03,Super League Greece,2015-16,Xanthi,Panathinaikos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-04,Super League Greece,2015-16,Kallonis,Veria,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-04,Super League Greece,2015-16,PAOK,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-04,Super League Greece,2015-16,Giannina,Iraklis,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-04,Super League Greece,2015-16,AEK,Atromitos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-05,Super League Greece,2015-16,Asteras Tripolis,Platanias,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-17,Super League Greece,2015-16,Olympiakos,AEK,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2015-10-17,Super League Greece,2015-16,Panionios,Kallonis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-17,Super League Greece,2015-16,Platanias,Panthrakikos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2015-10-18,Super League Greece,2015-16,Asteras Tripolis,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-18,Super League Greece,2015-16,Iraklis,PAOK,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2015-10-18,Super League Greece,2015-16,Levadeiakos,Panetolikos,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-18,Super League Greece,2015-16,Veria,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-19,Super League Greece,2015-16,Panathinaikos,Giannina,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-24,Super League Greece,2015-16,AEK,Iraklis,5,1,0,0,0,0,0,0,6,0,0,0,1,1
+2015-10-24,Super League Greece,2015-16,Kallonis,Levadeiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-10-24,Super League Greece,2015-16,Panetolikos,Platanias,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-25,Super League Greece,2015-16,PAOK,Panathinaikos,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-25,Super League Greece,2015-16,Panthrakikos,Xanthi,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-10-25,Super League Greece,2015-16,Atromitos,Olympiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-25,Super League Greece,2015-16,Giannina,Asteras Tripolis,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-25,Super League Greece,2015-16,Panionios,Veria,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-31,Super League Greece,2015-16,Levadeiakos,Panionios,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-31,Super League Greece,2015-16,Platanias,Kallonis,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-31,Super League Greece,2015-16,Veria,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-01,Super League Greece,2015-16,Asteras Tripolis,PAOK,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-01,Super League Greece,2015-16,Giannina,Panthrakikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-01,Super League Greece,2015-16,Panathinaikos,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-11-01,Super League Greece,2015-16,Xanthi,Panetolikos,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-02,Super League Greece,2015-16,Iraklis,Atromitos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-07,Super League Greece,2015-16,Atromitos,Panathinaikos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-07,Super League Greece,2015-16,Kallonis,Xanthi,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-07,Super League Greece,2015-16,Panionios,Platanias,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-08,Super League Greece,2015-16,PAOK,Panthrakikos,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2015-11-08,Super League Greece,2015-16,Olympiakos,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-08,Super League Greece,2015-16,AEK,Asteras Tripolis,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-08,Super League Greece,2015-16,Levadeiakos,Veria,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-11-09,Super League Greece,2015-16,Panetolikos,Giannina,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-21,Super League Greece,2015-16,Asteras Tripolis,Atromitos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-21,Super League Greece,2015-16,Giannina,Kallonis,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-21,Super League Greece,2015-16,Panathinaikos,Olympiakos,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2015-11-22,Super League Greece,2015-16,Panthrakikos,AEK,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-22,Super League Greece,2015-16,PAOK,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-11-22,Super League Greece,2015-16,Platanias,Levadeiakos,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-22,Super League Greece,2015-16,Xanthi,Panionios,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-23,Super League Greece,2015-16,Veria,Iraklis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-11-28,Super League Greece,2015-16,Iraklis,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-28,Super League Greece,2015-16,Panionios,Giannina,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-28,Super League Greece,2015-16,Atromitos,Panthrakikos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-29,Super League Greece,2015-16,AEK,Panetolikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-29,Super League Greece,2015-16,Levadeiakos,Xanthi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-29,Super League Greece,2015-16,Olympiakos,Asteras Tripolis,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-29,Super League Greece,2015-16,Platanias,Veria,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-11-30,Super League Greece,2015-16,Kallonis,PAOK,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-12-05,Super League Greece,2015-16,Asteras Tripolis,Iraklis,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-05,Super League Greece,2015-16,Panthrakikos,Olympiakos,3,4,0,0,0,0,0,0,7,0,0,0,1,1
+2015-12-05,Super League Greece,2015-16,Xanthi,Platanias,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-06,Super League Greece,2015-16,Veria,Panathinaikos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-06,Super League Greece,2015-16,AEK,Kallonis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-12-06,Super League Greece,2015-16,Giannina,Levadeiakos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-06,Super League Greece,2015-16,PAOK,Panionios,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-07,Super League Greece,2015-16,Panetolikos,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-12,Super League Greece,2015-16,Platanias,Giannina,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-12,Super League Greece,2015-16,Iraklis,Panthrakikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-12-12,Super League Greece,2015-16,Panionios,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-13,Super League Greece,2015-16,Atromitos,Kallonis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-13,Super League Greece,2015-16,Olympiakos,Panetolikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-13,Super League Greece,2015-16,Panathinaikos,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-13,Super League Greece,2015-16,Xanthi,Veria,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-14,Super League Greece,2015-16,Levadeiakos,PAOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-12-19,Super League Greece,2015-16,Veria,Asteras Tripolis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-19,Super League Greece,2015-16,Atromitos,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-19,Super League Greece,2015-16,Kallonis,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-20,Super League Greece,2015-16,Panetolikos,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-20,Super League Greece,2015-16,Panthrakikos,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-20,Super League Greece,2015-16,Giannina,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-20,Super League Greece,2015-16,PAOK,Platanias,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-21,Super League Greece,2015-16,AEK,Levadeiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-02,Super League Greece,2015-16,Asteras Tripolis,Panthrakikos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2016-01-02,Super League Greece,2015-16,Giannina,Veria,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-02,Super League Greece,2015-16,Iraklis,Kallonis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-01-03,Super League Greece,2015-16,Panionios,Olympiakos,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2016-01-03,Super League Greece,2015-16,Platanias,AEK,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-01-04,Super League Greece,2015-16,Panathinaikos,Panetolikos,4,2,0,0,0,0,0,0,6,0,0,0,1,1
+2016-01-09,Super League Greece,2015-16,AEK,Xanthi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-09,Super League Greece,2015-16,Atromitos,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-09,Super League Greece,2015-16,Veria,Panthrakikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-10,Super League Greece,2015-16,Olympiakos,Levadeiakos,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-01-10,Super League Greece,2015-16,Panetolikos,Asteras Tripolis,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-10,Super League Greece,2015-16,Panionios,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-10,Super League Greece,2015-16,PAOK,Giannina,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-01-11,Super League Greece,2015-16,Kallonis,Panathinaikos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-16,Super League Greece,2015-16,Xanthi,Atromitos,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-01-16,Super League Greece,2015-16,Levadeiakos,Iraklis,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-01-16,Super League Greece,2015-16,Panthrakikos,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-17,Super League Greece,2015-16,Asteras Tripolis,Kallonis,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-01-17,Super League Greece,2015-16,Giannina,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-17,Super League Greece,2015-16,Panathinaikos,Panionios,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-17,Super League Greece,2015-16,PAOK,Veria,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-18,Super League Greece,2015-16,Platanias,Olympiakos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-01-20,Super League Greece,2015-16,Xanthi,PAOK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-01-23,Super League Greece,2015-16,Kallonis,Panthrakikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-23,Super League Greece,2015-16,Olympiakos,Xanthi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-23,Super League Greece,2015-16,Panionios,Asteras Tripolis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-24,Super League Greece,2015-16,Levadeiakos,Panathinaikos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-24,Super League Greece,2015-16,AEK,PAOK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-24,Super League Greece,2015-16,Atromitos,Giannina,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-24,Super League Greece,2015-16,Veria,Panetolikos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-25,Super League Greece,2015-16,Iraklis,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-30,Super League Greece,2015-16,Panetolikos,Kallonis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-30,Super League Greece,2015-16,Panthrakikos,Panionios,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-30,Super League Greece,2015-16,PAOK,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-01-31,Super League Greece,2015-16,AEK,Veria,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-01-31,Super League Greece,2015-16,Asteras Tripolis,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-31,Super League Greece,2015-16,Giannina,Olympiakos,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-01-31,Super League Greece,2015-16,Platanias,Panathinaikos,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2016-01-31,Super League Greece,2015-16,Xanthi,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-06,Super League Greece,2015-16,Levadeiakos,Panthrakikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-06,Super League Greece,2015-16,Panathinaikos,Xanthi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-06,Super League Greece,2015-16,Platanias,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-07,Super League Greece,2015-16,Olympiakos,PAOK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-07,Super League Greece,2015-16,Veria,Kallonis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-07,Super League Greece,2015-16,Atromitos,AEK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-07,Super League Greece,2015-16,Iraklis,Giannina,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-08,Super League Greece,2015-16,Panionios,Panetolikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-13,Super League Greece,2015-16,AEK,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-13,Super League Greece,2015-16,Atromitos,Veria,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-02-13,Super League Greece,2015-16,Panthrakikos,Platanias,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-14,Super League Greece,2015-16,PAOK,Iraklis,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-14,Super League Greece,2015-16,Panetolikos,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-14,Super League Greece,2015-16,Giannina,Panathinaikos,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-02-14,Super League Greece,2015-16,Kallonis,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-15,Super League Greece,2015-16,Xanthi,Asteras Tripolis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-02-17,Super League Greece,2015-16,Levadeiakos,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-20,Super League Greece,2015-16,Asteras Tripolis,Giannina,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-02-20,Super League Greece,2015-16,Iraklis,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-20,Super League Greece,2015-16,Levadeiakos,Kallonis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-21,Super League Greece,2015-16,Xanthi,Panthrakikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-21,Super League Greece,2015-16,Platanias,Panetolikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-21,Super League Greece,2015-16,Olympiakos,Atromitos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2016-02-21,Super League Greece,2015-16,Panathinaikos,PAOK,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-22,Super League Greece,2015-16,Veria,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-27,Super League Greece,2015-16,Kallonis,Platanias,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-02-27,Super League Greece,2015-16,Panetolikos,Xanthi,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-27,Super League Greece,2015-16,PAOK,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-28,Super League Greece,2015-16,AEK,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-28,Super League Greece,2015-16,Olympiakos,Veria,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-02-28,Super League Greece,2015-16,Panionios,Levadeiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-28,Super League Greece,2015-16,Panthrakikos,Giannina,2,4,0,0,0,0,0,0,6,0,0,0,1,1
+2016-02-29,Super League Greece,2015-16,Atromitos,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-03-05,Super League Greece,2015-16,Giannina,Panetolikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-03-05,Super League Greece,2015-16,Platanias,Panionios,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-03-06,Super League Greece,2015-16,Veria,Levadeiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-03-06,Super League Greece,2015-16,Xanthi,Kallonis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-03-06,Super League Greece,2015-16,Panathinaikos,Atromitos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-03-06,Super League Greece,2015-16,Panthrakikos,PAOK,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-07,Super League Greece,2015-16,Asteras Tripolis,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-03-12,Super League Greece,2015-16,Kallonis,Giannina,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-03-12,Super League Greece,2015-16,Panetolikos,PAOK,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-12,Super League Greece,2015-16,Panionios,Xanthi,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-13,Super League Greece,2015-16,Atromitos,Asteras Tripolis,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-13,Super League Greece,2015-16,Iraklis,Veria,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-03-13,Super League Greece,2015-16,Levadeiakos,Platanias,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-13,Super League Greece,2015-16,Olympiakos,Panathinaikos,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-03-14,Super League Greece,2015-16,AEK,Panthrakikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-19,Super League Greece,2015-16,Xanthi,Levadeiakos,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-03-19,Super League Greece,2015-16,Veria,Platanias,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-03-19,Super League Greece,2015-16,Panathinaikos,Iraklis,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2016-03-20,Super League Greece,2015-16,PAOK,Kallonis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-20,Super League Greece,2015-16,Panthrakikos,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-03-20,Super League Greece,2015-16,Asteras Tripolis,Olympiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-20,Super League Greece,2015-16,Panetolikos,AEK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-03-21,Super League Greece,2015-16,Giannina,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-04-03,Super League Greece,2015-16,Platanias,Xanthi,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-04-03,Super League Greece,2015-16,Atromitos,Panetolikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-04-03,Super League Greece,2015-16,Iraklis,Asteras Tripolis,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-04-03,Super League Greece,2015-16,Kallonis,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-04-03,Super League Greece,2015-16,Levadeiakos,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-04-03,Super League Greece,2015-16,Olympiakos,Panthrakikos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2016-04-03,Super League Greece,2015-16,Panathinaikos,Veria,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2016-04-03,Super League Greece,2015-16,Panionios,PAOK,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-04-06,Super League Greece,2015-16,Iraklis,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-04-10,Super League Greece,2015-16,AEK,Panionios,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-04-10,Super League Greece,2015-16,Asteras Tripolis,Panathinaikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-04-10,Super League Greece,2015-16,Giannina,Platanias,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-04-10,Super League Greece,2015-16,Kallonis,Atromitos,2,4,0,0,0,0,0,0,6,0,0,0,1,1
+2016-04-10,Super League Greece,2015-16,Panetolikos,Olympiakos,2,5,0,0,0,0,0,0,7,0,0,0,1,1
+2016-04-10,Super League Greece,2015-16,Panthrakikos,Iraklis,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-04-10,Super League Greece,2015-16,PAOK,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-04-10,Super League Greece,2015-16,Veria,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-04-17,Super League Greece,2015-16,Panathinaikos,Panthrakikos,6,1,0,0,0,0,0,0,7,0,0,0,1,1
+2016-04-17,Super League Greece,2015-16,Panionios,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-04-17,Super League Greece,2015-16,Olympiakos,Kallonis,5,0,0,0,0,0,0,0,5,0,0,0,0,1
+2016-04-17,Super League Greece,2015-16,Platanias,PAOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-04-17,Super League Greece,2015-16,Iraklis,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-04-17,Super League Greece,2015-16,Asteras Tripolis,Veria,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-04-17,Super League Greece,2015-16,Levadeiakos,AEK,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-04-17,Super League Greece,2015-16,Xanthi,Giannina,0,1,0,0,0,0,0,0,1,0,0,0,0,0

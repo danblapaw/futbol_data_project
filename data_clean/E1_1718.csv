@@ -1,553 +1,553 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2017-08-04,Championship,2017-18,Nott'm Forest,Millwall,1,0,5,4,1,9,0,0
-2017-08-04,Championship,2017-18,Sunderland,Derby,1,1,6,7,2,13,1,0
-2017-08-05,Championship,2017-18,Wolves,Middlesbrough,1,0,4,4,1,8,0,0
-2017-08-05,Championship,2017-18,Sheffield United,Brentford,1,0,6,3,1,9,0,0
-2017-08-05,Championship,2017-18,Preston,Sheffield Weds,1,0,6,3,1,9,0,0
-2017-08-05,Championship,2017-18,Ipswich,Birmingham,1,0,8,2,1,10,0,0
-2017-08-05,Championship,2017-18,QPR,Reading,2,0,10,1,2,11,0,0
-2017-08-05,Championship,2017-18,Burton,Cardiff,0,1,4,6,1,10,0,0
-2017-08-05,Championship,2017-18,Bristol City,Barnsley,3,1,3,2,4,5,1,1
-2017-08-05,Championship,2017-18,Aston Villa,Hull,1,1,5,3,2,8,1,0
-2017-08-05,Championship,2017-18,Fulham,Norwich,1,1,7,1,2,8,1,0
-2017-08-06,Championship,2017-18,Bolton,Leeds,2,3,6,8,5,14,1,1
-2017-08-12,Championship,2017-18,Middlesbrough,Sheffield United,1,0,4,3,1,7,0,0
-2017-08-12,Championship,2017-18,Sheffield Weds,QPR,1,1,4,1,2,5,1,0
-2017-08-12,Championship,2017-18,Reading,Fulham,1,1,9,3,2,12,1,0
-2017-08-12,Championship,2017-18,Millwall,Bolton,1,1,4,0,2,4,1,0
-2017-08-12,Championship,2017-18,Leeds,Preston,0,0,6,4,0,10,0,0
-2017-08-12,Championship,2017-18,Birmingham,Bristol City,2,1,2,10,3,12,1,1
-2017-08-12,Championship,2017-18,Derby,Wolves,0,2,10,5,2,15,0,0
-2017-08-12,Championship,2017-18,Cardiff,Aston Villa,3,0,4,7,3,11,0,1
-2017-08-12,Championship,2017-18,Brentford,Nott'm Forest,3,4,12,3,7,15,1,1
-2017-08-12,Championship,2017-18,Barnsley,Ipswich,1,2,11,7,3,18,1,1
-2017-08-12,Championship,2017-18,Hull,Burton,4,1,5,2,5,7,1,1
-2017-08-13,Championship,2017-18,Norwich,Sunderland,1,3,13,1,4,14,1,1
-2017-08-15,Championship,2017-18,Leeds,Fulham,0,0,3,3,0,6,0,0
-2017-08-15,Championship,2017-18,Reading,Aston Villa,2,1,4,1,3,5,1,1
-2017-08-15,Championship,2017-18,Middlesbrough,Burton,2,0,3,7,2,10,0,0
-2017-08-15,Championship,2017-18,Hull,Wolves,2,3,4,4,5,8,1,1
-2017-08-15,Championship,2017-18,Millwall,Ipswich,3,4,8,3,7,11,1,1
-2017-08-15,Championship,2017-18,Cardiff,Sheffield United,2,0,7,6,2,13,0,0
-2017-08-15,Championship,2017-18,Brentford,Bristol City,2,2,5,3,4,8,1,1
-2017-08-15,Championship,2017-18,Birmingham,Bolton,0,0,7,4,0,11,0,0
-2017-08-15,Championship,2017-18,Derby,Preston,1,0,4,4,1,8,0,0
-2017-08-15,Championship,2017-18,Barnsley,Nott'm Forest,2,1,2,9,3,11,1,1
-2017-08-16,Championship,2017-18,Norwich,QPR,2,0,8,3,2,11,0,0
-2017-08-16,Championship,2017-18,Sheffield Weds,Sunderland,1,1,9,3,2,12,1,0
-2017-08-18,Championship,2017-18,Burton,Birmingham,2,1,4,5,3,9,1,1
-2017-08-19,Championship,2017-18,Sunderland,Leeds,0,2,7,4,2,11,0,0
-2017-08-19,Championship,2017-18,Sheffield United,Barnsley,1,0,12,2,1,14,0,0
-2017-08-19,Championship,2017-18,QPR,Hull,2,1,11,5,3,16,1,1
-2017-08-19,Championship,2017-18,Preston,Reading,1,0,4,5,1,9,0,0
-2017-08-19,Championship,2017-18,Nott'm Forest,Middlesbrough,2,1,5,5,3,10,1,1
-2017-08-19,Championship,2017-18,Wolves,Cardiff,1,2,2,4,3,6,1,1
-2017-08-19,Championship,2017-18,Fulham,Sheffield Weds,0,1,6,3,1,9,0,0
-2017-08-19,Championship,2017-18,Bristol City,Millwall,0,0,5,16,0,21,0,0
-2017-08-19,Championship,2017-18,Bolton,Derby,1,2,3,2,3,5,1,1
-2017-08-19,Championship,2017-18,Aston Villa,Norwich,4,2,3,3,6,6,1,1
-2017-08-19,Championship,2017-18,Ipswich,Brentford,2,0,6,11,2,17,0,0
-2017-08-25,Championship,2017-18,Bristol City,Aston Villa,1,1,8,1,2,9,1,0
-2017-08-25,Championship,2017-18,Hull,Bolton,4,0,5,5,4,10,0,1
-2017-08-26,Championship,2017-18,Sheffield United,Derby,3,1,6,2,4,8,1,1
-2017-08-26,Championship,2017-18,Nott'm Forest,Leeds,0,2,4,2,2,6,0,0
-2017-08-26,Championship,2017-18,Millwall,Norwich,4,0,5,6,4,11,0,1
-2017-08-26,Championship,2017-18,Middlesbrough,Preston,0,0,3,8,0,11,0,0
-2017-08-26,Championship,2017-18,Ipswich,Fulham,0,2,5,6,2,11,0,0
-2017-08-26,Championship,2017-18,Cardiff,QPR,2,1,8,2,3,10,1,1
-2017-08-26,Championship,2017-18,Brentford,Wolves,0,0,8,6,0,14,0,0
-2017-08-26,Championship,2017-18,Birmingham,Reading,0,2,4,3,2,7,0,0
-2017-08-26,Championship,2017-18,Barnsley,Sunderland,3,0,7,3,3,10,0,1
-2017-08-26,Championship,2017-18,Burton,Sheffield Weds,1,1,6,5,2,11,1,0
-2017-09-08,Championship,2017-18,Derby,Hull,5,0,3,9,5,12,0,1
-2017-09-09,Championship,2017-18,Reading,Bristol City,0,1,3,4,1,7,0,0
-2017-09-09,Championship,2017-18,Wolves,Millwall,1,0,6,4,1,10,0,0
-2017-09-09,Championship,2017-18,Sunderland,Sheffield United,1,2,2,4,3,6,1,1
-2017-09-09,Championship,2017-18,Sheffield Weds,Nott'm Forest,3,1,8,4,4,12,1,1
-2017-09-09,Championship,2017-18,Preston,Barnsley,1,1,10,2,2,12,1,0
-2017-09-09,Championship,2017-18,QPR,Ipswich,2,1,9,4,3,13,1,1
-2017-09-09,Championship,2017-18,Leeds,Burton,5,0,10,1,5,11,0,1
-2017-09-09,Championship,2017-18,Fulham,Cardiff,1,1,5,2,2,7,1,0
-2017-09-09,Championship,2017-18,Bolton,Middlesbrough,0,3,4,7,3,11,0,1
-2017-09-09,Championship,2017-18,Aston Villa,Brentford,0,0,5,4,0,9,0,0
-2017-09-09,Championship,2017-18,Norwich,Birmingham,1,0,5,6,1,11,0,0
-2017-09-12,Championship,2017-18,Wolves,Bristol City,3,3,9,8,6,17,1,1
-2017-09-12,Championship,2017-18,Sunderland,Nott'm Forest,0,1,6,4,1,10,0,0
-2017-09-12,Championship,2017-18,Sheffield Weds,Brentford,2,1,8,8,3,16,1,1
-2017-09-12,Championship,2017-18,QPR,Millwall,2,2,7,5,4,12,1,1
-2017-09-12,Championship,2017-18,Preston,Cardiff,3,0,5,4,3,9,0,1
-2017-09-12,Championship,2017-18,Norwich,Burton,0,0,10,3,0,13,0,0
-2017-09-12,Championship,2017-18,Leeds,Birmingham,2,0,2,8,2,10,0,0
-2017-09-12,Championship,2017-18,Bolton,Sheffield United,0,1,3,2,1,5,0,0
-2017-09-12,Championship,2017-18,Aston Villa,Middlesbrough,0,0,6,5,0,11,0,0
-2017-09-13,Championship,2017-18,Fulham,Hull,2,1,6,3,3,9,1,1
-2017-09-16,Championship,2017-18,Nott'm Forest,Wolves,1,2,1,4,3,5,1,1
-2017-09-16,Championship,2017-18,Millwall,Leeds,1,0,14,2,1,16,0,0
-2017-09-16,Championship,2017-18,Middlesbrough,QPR,3,2,6,1,5,7,1,1
-2017-09-16,Championship,2017-18,Ipswich,Bolton,2,0,6,8,2,14,0,0
-2017-09-16,Championship,2017-18,Hull,Sunderland,1,1,11,2,2,13,1,0
-2017-09-16,Championship,2017-18,Barnsley,Aston Villa,0,3,6,1,3,7,0,1
-2017-09-16,Championship,2017-18,Burton,Fulham,2,1,2,8,3,10,1,1
-2017-09-16,Championship,2017-18,Bristol City,Derby,4,1,5,6,5,11,1,1
-2017-09-16,Championship,2017-18,Brentford,Reading,1,1,3,6,2,9,1,0
-2017-09-16,Championship,2017-18,Birmingham,Preston,1,3,7,5,4,12,1,1
-2017-09-16,Championship,2017-18,Sheffield United,Norwich,0,1,6,2,1,8,0,0
-2017-09-16,Championship,2017-18,Cardiff,Sheffield Weds,1,1,6,3,2,9,1,0
-2017-09-23,Championship,2017-18,Reading,Hull,1,1,9,1,2,10,1,0
-2017-09-23,Championship,2017-18,QPR,Burton,0,0,8,6,0,14,0,0
-2017-09-23,Championship,2017-18,Wolves,Barnsley,2,1,5,8,3,13,1,1
-2017-09-23,Championship,2017-18,Sunderland,Cardiff,1,2,1,8,3,9,1,1
-2017-09-23,Championship,2017-18,Preston,Millwall,0,0,7,6,0,13,0,0
-2017-09-23,Championship,2017-18,Norwich,Bristol City,0,0,3,6,0,9,0,0
-2017-09-23,Championship,2017-18,Leeds,Ipswich,3,2,6,12,5,18,1,1
-2017-09-23,Championship,2017-18,Fulham,Middlesbrough,1,1,6,3,2,9,1,0
-2017-09-23,Championship,2017-18,Derby,Birmingham,1,1,4,6,2,10,1,0
-2017-09-23,Championship,2017-18,Bolton,Brentford,0,3,5,6,3,11,0,1
-2017-09-23,Championship,2017-18,Aston Villa,Nott'm Forest,2,1,3,4,3,7,1,1
-2017-09-24,Championship,2017-18,Sheffield Weds,Sheffield United,2,4,9,7,6,16,1,1
-2017-09-26,Championship,2017-18,Millwall,Reading,2,1,3,4,3,7,1,1
-2017-09-26,Championship,2017-18,Middlesbrough,Norwich,0,1,13,1,1,14,0,0
-2017-09-26,Championship,2017-18,Ipswich,Sunderland,5,2,5,4,7,9,1,1
-2017-09-26,Championship,2017-18,Hull,Preston,1,2,6,2,3,8,1,1
-2017-09-26,Championship,2017-18,Bristol City,Bolton,2,0,9,1,2,10,0,0
-2017-09-26,Championship,2017-18,Burton,Aston Villa,0,4,4,4,4,8,0,1
-2017-09-26,Championship,2017-18,Nott'm Forest,Fulham,1,3,3,3,4,6,1,1
-2017-09-26,Championship,2017-18,Brentford,Derby,1,1,11,0,2,11,1,0
-2017-09-26,Championship,2017-18,Barnsley,QPR,1,1,2,6,2,8,1,0
-2017-09-26,Championship,2017-18,Cardiff,Leeds,3,1,2,0,4,2,1,1
-2017-09-27,Championship,2017-18,Sheffield United,Wolves,2,0,11,2,2,13,0,0
-2017-09-27,Championship,2017-18,Birmingham,Sheffield Weds,1,0,4,10,1,14,0,0
-2017-09-29,Championship,2017-18,QPR,Fulham,1,2,10,2,3,12,1,1
-2017-09-30,Championship,2017-18,Aston Villa,Bolton,1,0,5,4,1,9,0,0
-2017-09-30,Championship,2017-18,Burton,Wolves,0,4,9,4,4,13,0,1
-2017-09-30,Championship,2017-18,Cardiff,Derby,0,0,8,2,0,10,0,0
-2017-09-30,Championship,2017-18,Hull,Birmingham,6,1,3,4,7,7,1,1
-2017-09-30,Championship,2017-18,Ipswich,Bristol City,1,3,1,4,4,5,1,1
-2017-09-30,Championship,2017-18,Middlesbrough,Brentford,2,2,3,7,4,10,1,1
-2017-09-30,Championship,2017-18,Millwall,Barnsley,1,3,9,2,4,11,1,1
-2017-09-30,Championship,2017-18,Nott'm Forest,Sheffield United,2,1,4,9,3,13,1,1
-2017-09-30,Championship,2017-18,Preston,Sunderland,2,2,2,5,4,7,1,1
-2017-09-30,Championship,2017-18,Reading,Norwich,1,2,1,1,3,2,1,1
-2017-10-01,Championship,2017-18,Sheffield Weds,Leeds,3,0,7,4,3,11,0,1
-2017-10-13,Championship,2017-18,Birmingham,Cardiff,1,0,6,8,1,14,0,0
-2017-10-13,Championship,2017-18,Bristol City,Burton,0,0,9,0,0,9,0,0
-2017-10-14,Championship,2017-18,Sunderland,QPR,1,1,15,9,2,24,1,0
-2017-10-14,Championship,2017-18,Sheffield United,Ipswich,1,0,8,4,1,12,0,0
-2017-10-14,Championship,2017-18,Wolves,Aston Villa,2,0,6,2,2,8,0,0
-2017-10-14,Championship,2017-18,Norwich,Hull,1,1,10,7,2,17,1,0
-2017-10-14,Championship,2017-18,Brentford,Millwall,1,0,6,9,1,15,0,0
-2017-10-14,Championship,2017-18,Fulham,Preston,2,2,5,4,4,9,1,1
-2017-10-14,Championship,2017-18,Leeds,Reading,0,1,6,5,1,11,0,0
-2017-10-14,Championship,2017-18,Bolton,Sheffield Weds,2,1,10,6,3,16,1,1
-2017-10-14,Championship,2017-18,Barnsley,Middlesbrough,2,2,4,7,4,11,1,1
-2017-10-15,Championship,2017-18,Derby,Nott'm Forest,2,0,7,7,2,14,0,0
-2017-10-21,Championship,2017-18,Aston Villa,Fulham,2,1,2,5,3,7,1,1
-2017-10-21,Championship,2017-18,Barnsley,Hull,0,1,3,7,1,10,0,0
-2017-10-21,Championship,2017-18,Bolton,QPR,1,1,4,8,2,12,1,0
-2017-10-21,Championship,2017-18,Brentford,Sunderland,3,3,6,9,6,15,1,1
-2017-10-21,Championship,2017-18,Bristol City,Leeds,0,3,6,3,3,9,0,1
-2017-10-21,Championship,2017-18,Derby,Sheffield Weds,2,0,6,4,2,10,0,0
-2017-10-21,Championship,2017-18,Middlesbrough,Cardiff,0,1,8,2,1,10,0,0
-2017-10-21,Championship,2017-18,Millwall,Birmingham,2,0,6,3,2,9,0,0
-2017-10-21,Championship,2017-18,Nott'm Forest,Burton,2,0,4,6,2,10,0,0
-2017-10-21,Championship,2017-18,Sheffield United,Reading,2,1,4,4,3,8,1,1
-2017-10-21,Championship,2017-18,Wolves,Preston,3,2,3,3,5,6,1,1
-2017-10-22,Championship,2017-18,Ipswich,Norwich,0,1,6,5,1,11,0,0
-2017-10-27,Championship,2017-18,Leeds,Sheffield United,1,2,0,5,3,5,1,1
-2017-10-28,Championship,2017-18,Burton,Ipswich,1,2,4,5,3,9,1,1
-2017-10-28,Championship,2017-18,Cardiff,Millwall,0,0,5,6,0,11,0,0
-2017-10-28,Championship,2017-18,Fulham,Bolton,1,1,11,5,2,16,1,0
-2017-10-28,Championship,2017-18,Hull,Nott'm Forest,2,3,4,4,5,8,1,1
-2017-10-28,Championship,2017-18,Norwich,Derby,1,2,6,3,3,9,1,1
-2017-10-28,Championship,2017-18,Preston,Brentford,2,3,4,5,5,9,1,1
-2017-10-28,Championship,2017-18,QPR,Wolves,2,1,3,4,3,7,1,1
-2017-10-28,Championship,2017-18,Reading,Middlesbrough,0,2,3,3,2,6,0,0
-2017-10-28,Championship,2017-18,Sheffield Weds,Barnsley,1,1,7,5,2,12,1,0
-2017-10-28,Championship,2017-18,Sunderland,Bristol City,1,2,6,5,3,11,1,1
-2017-10-29,Championship,2017-18,Birmingham,Aston Villa,0,0,3,4,0,7,0,0
-2017-10-31,Championship,2017-18,Sunderland,Bolton,3,3,11,9,6,20,1,1
-2017-10-31,Championship,2017-18,Sheffield Weds,Millwall,2,1,8,5,3,13,1,1
-2017-10-31,Championship,2017-18,Reading,Nott'm Forest,3,1,4,4,4,8,1,1
-2017-10-31,Championship,2017-18,QPR,Sheffield United,1,0,4,6,1,10,0,0
-2017-10-31,Championship,2017-18,Norwich,Wolves,0,2,6,7,2,13,0,0
-2017-10-31,Championship,2017-18,Hull,Middlesbrough,1,3,5,5,4,10,1,1
-2017-10-31,Championship,2017-18,Fulham,Bristol City,0,2,2,4,2,6,0,0
-2017-10-31,Championship,2017-18,Cardiff,Ipswich,3,1,5,7,4,12,1,1
-2017-10-31,Championship,2017-18,Burton,Barnsley,2,4,5,4,6,9,1,1
-2017-10-31,Championship,2017-18,Leeds,Derby,1,2,5,8,3,13,1,1
-2017-11-01,Championship,2017-18,Birmingham,Brentford,0,2,7,4,2,11,0,0
-2017-11-01,Championship,2017-18,Preston,Aston Villa,0,2,3,1,2,4,0,0
-2017-11-03,Championship,2017-18,Wolves,Fulham,2,0,4,1,2,5,0,0
-2017-11-04,Championship,2017-18,Sheffield United,Hull,4,1,10,0,5,10,1,1
-2017-11-04,Championship,2017-18,Nott'm Forest,QPR,4,0,6,3,4,9,0,1
-2017-11-04,Championship,2017-18,Ipswich,Preston,3,0,2,1,3,3,0,1
-2017-11-04,Championship,2017-18,Derby,Reading,2,4,9,0,6,9,1,1
-2017-11-04,Championship,2017-18,Millwall,Burton,0,1,5,1,1,6,0,0
-2017-11-04,Championship,2017-18,Brentford,Leeds,3,1,5,2,4,7,1,1
-2017-11-04,Championship,2017-18,Bolton,Norwich,2,1,4,5,3,9,1,1
-2017-11-04,Championship,2017-18,Barnsley,Birmingham,2,0,8,2,2,10,0,0
-2017-11-04,Championship,2017-18,Aston Villa,Sheffield Weds,1,2,6,2,3,8,1,1
-2017-11-04,Championship,2017-18,Bristol City,Cardiff,2,1,11,3,3,14,1,1
-2017-11-05,Championship,2017-18,Middlesbrough,Sunderland,1,0,1,5,1,6,0,0
-2017-11-17,Championship,2017-18,Burton,Sheffield United,1,3,4,5,4,9,1,1
-2017-11-17,Championship,2017-18,Preston,Bolton,0,0,5,6,0,11,0,0
-2017-11-18,Championship,2017-18,Sunderland,Millwall,2,2,6,2,4,8,1,1
-2017-11-18,Championship,2017-18,Sheffield Weds,Bristol City,0,0,6,2,0,8,0,0
-2017-11-18,Championship,2017-18,Reading,Wolves,0,2,6,8,2,14,0,0
-2017-11-18,Championship,2017-18,QPR,Aston Villa,1,2,4,6,3,10,1,1
-2017-11-18,Championship,2017-18,Cardiff,Brentford,2,0,3,10,2,13,0,0
-2017-11-18,Championship,2017-18,Hull,Ipswich,2,2,3,6,4,9,1,1
-2017-11-18,Championship,2017-18,Fulham,Derby,1,1,10,2,2,12,1,0
-2017-11-18,Championship,2017-18,Birmingham,Nott'm Forest,1,0,5,12,1,17,0,0
-2017-11-18,Championship,2017-18,Norwich,Barnsley,1,1,6,5,2,11,1,0
-2017-11-19,Championship,2017-18,Leeds,Middlesbrough,2,1,3,10,3,13,1,1
-2017-11-21,Championship,2017-18,Sheffield United,Fulham,4,5,4,3,9,7,1,1
-2017-11-21,Championship,2017-18,Millwall,Hull,0,0,6,4,0,10,0,0
-2017-11-21,Championship,2017-18,Nott'm Forest,Norwich,1,0,5,4,1,9,0,0
-2017-11-21,Championship,2017-18,Derby,QPR,2,0,4,2,2,6,0,0
-2017-11-21,Championship,2017-18,Barnsley,Cardiff,0,1,4,4,1,8,0,0
-2017-11-21,Championship,2017-18,Brentford,Burton,1,1,10,5,2,15,1,0
-2017-11-21,Championship,2017-18,Bolton,Reading,2,2,6,9,4,15,1,1
-2017-11-21,Championship,2017-18,Aston Villa,Sunderland,2,1,2,2,3,4,1,1
-2017-11-21,Championship,2017-18,Bristol City,Preston,1,2,5,0,3,5,1,1
-2017-11-22,Championship,2017-18,Ipswich,Sheffield Weds,2,2,4,7,4,11,1,1
-2017-11-22,Championship,2017-18,Middlesbrough,Birmingham,2,0,9,5,2,14,0,0
-2017-11-22,Championship,2017-18,Wolves,Leeds,4,1,1,2,5,3,1,1
-2017-11-25,Championship,2017-18,Wolves,Bolton,5,1,7,4,6,11,1,1
-2017-11-25,Championship,2017-18,Sheffield United,Birmingham,1,1,9,1,2,10,1,0
-2017-11-25,Championship,2017-18,Reading,Sheffield Weds,0,0,7,2,0,9,0,0
-2017-11-25,Championship,2017-18,Middlesbrough,Derby,0,3,11,6,3,17,0,1
-2017-11-25,Championship,2017-18,Norwich,Preston,1,1,4,5,2,9,1,0
-2017-11-25,Championship,2017-18,Fulham,Millwall,1,0,10,4,1,14,0,0
-2017-11-25,Championship,2017-18,Burton,Sunderland,0,2,7,7,2,14,0,0
-2017-11-25,Championship,2017-18,Barnsley,Leeds,0,2,5,12,2,17,0,0
-2017-11-25,Championship,2017-18,Aston Villa,Ipswich,2,0,4,6,2,10,0,0
-2017-11-25,Championship,2017-18,Hull,Bristol City,2,3,2,2,5,4,1,1
-2017-11-26,Championship,2017-18,Nott'm Forest,Cardiff,0,2,8,4,2,12,0,0
-2017-11-27,Championship,2017-18,QPR,Brentford,2,2,7,9,4,16,1,1
-2017-11-28,Championship,2017-18,Derby,Ipswich,0,1,10,3,1,13,0,0
-2017-11-28,Championship,2017-18,Reading,Barnsley,3,0,5,4,3,9,0,1
-2017-12-01,Championship,2017-18,Cardiff,Norwich,3,1,3,7,4,10,1,1
-2017-12-01,Championship,2017-18,Leeds,Aston Villa,1,1,5,1,2,6,1,0
-2017-12-02,Championship,2017-18,Millwall,Sheffield United,3,1,3,4,4,7,1,1
-2017-12-02,Championship,2017-18,Sheffield Weds,Hull,2,2,6,2,4,8,1,1
-2017-12-02,Championship,2017-18,Preston,QPR,1,0,9,3,1,12,0,0
-2017-12-02,Championship,2017-18,Ipswich,Nott'm Forest,4,2,1,8,6,9,1,1
-2017-12-02,Championship,2017-18,Sunderland,Reading,1,3,3,7,4,10,1,1
-2017-12-02,Championship,2017-18,Bristol City,Middlesbrough,2,1,0,5,3,5,1,1
-2017-12-02,Championship,2017-18,Brentford,Fulham,3,1,6,3,4,9,1,1
-2017-12-02,Championship,2017-18,Bolton,Barnsley,3,1,4,4,4,8,1,1
-2017-12-02,Championship,2017-18,Derby,Burton,1,0,5,4,1,9,0,0
-2017-12-04,Championship,2017-18,Birmingham,Wolves,0,1,3,1,1,4,0,0
-2017-12-08,Championship,2017-18,Sheffield United,Bristol City,1,2,7,4,3,11,1,1
-2017-12-09,Championship,2017-18,QPR,Leeds,1,3,2,5,4,7,1,1
-2017-12-09,Championship,2017-18,Nott'm Forest,Bolton,3,2,5,3,5,8,1,1
-2017-12-09,Championship,2017-18,Norwich,Sheffield Weds,3,1,3,4,4,7,1,1
-2017-12-09,Championship,2017-18,Middlesbrough,Ipswich,2,0,4,4,2,8,0,0
-2017-12-09,Championship,2017-18,Burton,Preston,1,2,5,7,3,12,1,1
-2017-12-09,Championship,2017-18,Fulham,Birmingham,1,0,11,7,1,18,0,0
-2017-12-09,Championship,2017-18,Wolves,Sunderland,0,0,8,2,0,10,0,0
-2017-12-09,Championship,2017-18,Barnsley,Derby,0,3,6,4,3,10,0,1
-2017-12-09,Championship,2017-18,Aston Villa,Millwall,0,0,11,5,0,16,0,0
-2017-12-09,Championship,2017-18,Hull,Brentford,3,2,9,5,5,14,1,1
-2017-12-11,Championship,2017-18,Reading,Cardiff,2,2,8,3,4,11,1,1
-2017-12-15,Championship,2017-18,Sheffield Weds,Wolves,0,1,7,2,1,9,0,0
-2017-12-16,Championship,2017-18,Birmingham,QPR,1,2,7,3,3,10,1,1
-2017-12-16,Championship,2017-18,Sunderland,Fulham,1,0,1,9,1,10,0,0
-2017-12-16,Championship,2017-18,Preston,Sheffield United,1,0,6,7,1,13,0,0
-2017-12-16,Championship,2017-18,Leeds,Norwich,1,0,5,4,1,9,0,0
-2017-12-16,Championship,2017-18,Ipswich,Reading,2,0,8,14,2,22,0,0
-2017-12-16,Championship,2017-18,Millwall,Middlesbrough,2,1,7,2,3,9,1,1
-2017-12-16,Championship,2017-18,Cardiff,Hull,1,0,3,2,1,5,0,0
-2017-12-16,Championship,2017-18,Bristol City,Nott'm Forest,2,1,6,3,3,9,1,1
-2017-12-16,Championship,2017-18,Brentford,Barnsley,0,0,13,3,0,16,0,0
-2017-12-16,Championship,2017-18,Bolton,Burton,0,1,8,3,1,11,0,0
-2017-12-16,Championship,2017-18,Derby,Aston Villa,2,0,7,8,2,15,0,0
-2017-12-22,Championship,2017-18,Norwich,Brentford,1,2,2,3,3,5,1,1
-2017-12-23,Championship,2017-18,QPR,Bristol City,1,1,5,8,2,13,1,0
-2017-12-23,Championship,2017-18,Sunderland,Birmingham,1,1,6,2,2,8,1,0
-2017-12-23,Championship,2017-18,Sheffield Weds,Middlesbrough,1,2,4,4,3,8,1,1
-2017-12-23,Championship,2017-18,Reading,Burton,1,2,3,3,3,6,1,1
-2017-12-23,Championship,2017-18,Preston,Nott'm Forest,1,1,9,5,2,14,1,0
-2017-12-23,Championship,2017-18,Wolves,Ipswich,1,0,4,5,1,9,0,0
-2017-12-23,Championship,2017-18,Fulham,Barnsley,2,1,10,4,3,14,1,1
-2017-12-23,Championship,2017-18,Aston Villa,Sheffield United,2,2,2,4,4,6,1,1
-2017-12-23,Championship,2017-18,Leeds,Hull,1,0,2,8,1,10,0,0
-2017-12-23,Championship,2017-18,Derby,Millwall,3,0,6,11,3,17,0,1
-2017-12-23,Championship,2017-18,Bolton,Cardiff,2,0,3,6,2,9,0,0
-2017-12-26,Championship,2017-18,Barnsley,Preston,0,0,1,4,0,5,0,0
-2017-12-26,Championship,2017-18,Birmingham,Norwich,0,2,4,4,2,8,0,0
-2017-12-26,Championship,2017-18,Brentford,Aston Villa,2,1,10,5,3,15,1,1
-2017-12-26,Championship,2017-18,Bristol City,Reading,2,0,6,5,2,11,0,0
-2017-12-26,Championship,2017-18,Burton,Leeds,1,2,0,3,3,3,1,1
-2017-12-26,Championship,2017-18,Cardiff,Fulham,2,4,7,2,6,9,1,1
-2017-12-26,Championship,2017-18,Hull,Derby,0,0,4,3,0,7,0,0
-2017-12-26,Championship,2017-18,Ipswich,QPR,0,0,5,6,0,11,0,0
-2017-12-26,Championship,2017-18,Middlesbrough,Bolton,2,0,2,4,2,6,0,0
-2017-12-26,Championship,2017-18,Millwall,Wolves,2,2,7,8,4,15,1,1
-2017-12-26,Championship,2017-18,Nott'm Forest,Sheffield Weds,0,3,4,8,3,12,0,1
-2017-12-26,Championship,2017-18,Sheffield United,Sunderland,3,0,6,0,3,6,0,1
-2017-12-29,Championship,2017-18,Millwall,QPR,1,0,6,3,1,9,0,0
-2017-12-29,Championship,2017-18,Cardiff,Preston,0,1,4,7,1,11,0,0
-2017-12-30,Championship,2017-18,Barnsley,Reading,1,1,7,5,2,12,1,0
-2017-12-30,Championship,2017-18,Birmingham,Leeds,1,0,8,3,1,11,0,0
-2017-12-30,Championship,2017-18,Brentford,Sheffield Weds,2,0,7,5,2,12,0,0
-2017-12-30,Championship,2017-18,Bristol City,Wolves,1,2,6,3,3,9,1,1
-2017-12-30,Championship,2017-18,Burton,Norwich,0,0,3,4,0,7,0,0
-2017-12-30,Championship,2017-18,Hull,Fulham,2,2,4,6,4,10,1,1
-2017-12-30,Championship,2017-18,Ipswich,Derby,1,2,9,5,3,14,1,1
-2017-12-30,Championship,2017-18,Middlesbrough,Aston Villa,0,1,5,9,1,14,0,0
-2017-12-30,Championship,2017-18,Nott'm Forest,Sunderland,0,1,5,1,1,6,0,0
-2017-12-30,Championship,2017-18,Sheffield United,Bolton,0,1,8,5,1,13,0,0
-2018-01-01,Championship,2017-18,Preston,Middlesbrough,2,3,7,4,5,11,1,1
-2018-01-01,Championship,2017-18,Sheffield Weds,Burton,0,3,6,1,3,7,0,1
-2018-01-01,Championship,2017-18,QPR,Cardiff,2,1,4,5,3,9,1,1
-2018-01-01,Championship,2017-18,Norwich,Millwall,2,1,5,4,3,9,1,1
-2018-01-01,Championship,2017-18,Sunderland,Barnsley,0,1,7,7,1,14,0,0
-2018-01-01,Championship,2017-18,Derby,Sheffield United,1,1,2,13,2,15,1,0
-2018-01-01,Championship,2017-18,Bolton,Hull,1,0,5,9,1,14,0,0
-2018-01-01,Championship,2017-18,Aston Villa,Bristol City,5,0,5,3,5,8,0,1
-2018-01-01,Championship,2017-18,Leeds,Nott'm Forest,0,0,2,8,0,10,0,0
-2018-01-02,Championship,2017-18,Wolves,Brentford,3,0,6,7,3,13,0,1
-2018-01-02,Championship,2017-18,Fulham,Ipswich,4,1,8,2,5,10,1,1
-2018-01-02,Championship,2017-18,Reading,Birmingham,0,2,9,7,2,16,0,0
-2018-01-12,Championship,2017-18,Sheffield United,Sheffield Weds,0,0,8,2,0,10,0,0
-2018-01-13,Championship,2017-18,Nott'm Forest,Aston Villa,0,1,4,2,1,6,0,0
-2018-01-13,Championship,2017-18,Millwall,Preston,1,1,3,4,2,7,1,0
-2018-01-13,Championship,2017-18,Middlesbrough,Fulham,0,1,5,1,1,6,0,0
-2018-01-13,Championship,2017-18,Hull,Reading,0,0,6,7,0,13,0,0
-2018-01-13,Championship,2017-18,Cardiff,Sunderland,4,0,8,1,4,9,0,1
-2018-01-13,Championship,2017-18,Ipswich,Leeds,1,0,4,1,1,5,0,0
-2018-01-13,Championship,2017-18,Bristol City,Norwich,0,1,8,4,1,12,0,0
-2018-01-13,Championship,2017-18,Brentford,Bolton,2,0,6,6,2,12,0,0
-2018-01-13,Championship,2017-18,Birmingham,Derby,0,3,6,4,3,10,0,1
-2018-01-13,Championship,2017-18,Barnsley,Wolves,0,0,1,6,0,7,0,0
-2018-01-13,Championship,2017-18,Burton,QPR,1,3,5,3,4,8,1,1
-2018-01-19,Championship,2017-18,Derby,Bristol City,0,0,6,3,0,9,0,0
-2018-01-20,Championship,2017-18,Reading,Brentford,0,1,7,4,1,11,0,0
-2018-01-20,Championship,2017-18,Wolves,Nott'm Forest,0,2,5,4,2,9,0,0
-2018-01-20,Championship,2017-18,Sunderland,Hull,1,0,4,7,1,11,0,0
-2018-01-20,Championship,2017-18,Sheffield Weds,Cardiff,0,0,3,5,0,8,0,0
-2018-01-20,Championship,2017-18,QPR,Middlesbrough,0,3,3,2,3,5,0,1
-2018-01-20,Championship,2017-18,Bolton,Ipswich,1,1,3,3,2,6,1,0
-2018-01-20,Championship,2017-18,Norwich,Sheffield United,1,2,6,2,3,8,1,1
-2018-01-20,Championship,2017-18,Leeds,Millwall,3,4,1,9,7,10,1,1
-2018-01-20,Championship,2017-18,Fulham,Burton,6,0,3,1,6,4,0,1
-2018-01-20,Championship,2017-18,Aston Villa,Barnsley,3,1,8,6,4,14,1,1
-2018-01-20,Championship,2017-18,Preston,Birmingham,1,1,4,8,2,12,1,0
-2018-01-27,Championship,2017-18,Barnsley,Fulham,1,3,6,3,4,9,1,1
-2018-01-27,Championship,2017-18,Brentford,Norwich,0,1,6,4,1,10,0,0
-2018-01-27,Championship,2017-18,Bristol City,QPR,2,0,6,7,2,13,0,0
-2018-01-27,Championship,2017-18,Ipswich,Wolves,0,1,5,4,1,9,0,0
-2018-01-30,Championship,2017-18,Millwall,Derby,0,0,4,5,0,9,0,0
-2018-01-30,Championship,2017-18,Nott'm Forest,Preston,0,3,4,5,3,9,0,1
-2018-01-30,Championship,2017-18,Sheffield United,Aston Villa,0,1,9,7,1,16,0,0
-2018-01-30,Championship,2017-18,Hull,Leeds,0,0,7,3,0,10,0,0
-2018-01-30,Championship,2017-18,Burton,Reading,1,3,3,6,4,9,1,1
-2018-01-30,Championship,2017-18,Middlesbrough,Sheffield Weds,0,0,9,3,0,12,0,0
-2018-01-30,Championship,2017-18,Birmingham,Sunderland,3,1,3,5,4,8,1,1
-2018-02-02,Championship,2017-18,Bolton,Bristol City,1,0,3,6,1,9,0,0
-2018-02-03,Championship,2017-18,Wolves,Sheffield United,3,0,5,1,3,6,0,1
-2018-02-03,Championship,2017-18,Sunderland,Ipswich,0,2,12,2,2,14,0,0
-2018-02-03,Championship,2017-18,Sheffield Weds,Birmingham,1,3,5,3,4,8,1,1
-2018-02-03,Championship,2017-18,QPR,Barnsley,1,0,4,4,1,8,0,0
-2018-02-03,Championship,2017-18,Preston,Hull,2,1,5,4,3,9,1,1
-2018-02-03,Championship,2017-18,Reading,Millwall,0,2,6,6,2,12,0,0
-2018-02-03,Championship,2017-18,Leeds,Cardiff,1,4,5,5,5,10,1,1
-2018-02-03,Championship,2017-18,Fulham,Nott'm Forest,2,0,10,6,2,16,0,0
-2018-02-03,Championship,2017-18,Derby,Brentford,3,0,6,5,3,11,0,1
-2018-02-03,Championship,2017-18,Aston Villa,Burton,3,2,7,5,5,12,1,1
-2018-02-03,Championship,2017-18,Norwich,Middlesbrough,1,0,5,4,1,9,0,0
-2018-02-09,Championship,2017-18,Millwall,Cardiff,1,1,6,6,2,12,1,0
-2018-02-10,Championship,2017-18,Middlesbrough,Reading,2,1,6,8,3,14,1,1
-2018-02-10,Championship,2017-18,Wolves,QPR,2,1,6,5,3,11,1,1
-2018-02-10,Championship,2017-18,Sheffield United,Leeds,2,1,8,5,3,13,1,1
-2018-02-10,Championship,2017-18,Nott'm Forest,Hull,0,2,2,2,2,4,0,0
-2018-02-10,Championship,2017-18,Ipswich,Burton,0,0,2,5,0,7,0,0
-2018-02-10,Championship,2017-18,Barnsley,Sheffield Weds,1,1,5,8,2,13,1,0
-2018-02-10,Championship,2017-18,Bristol City,Sunderland,3,3,2,4,6,6,1,1
-2018-02-10,Championship,2017-18,Brentford,Preston,1,1,11,5,2,16,1,0
-2018-02-10,Championship,2017-18,Bolton,Fulham,1,1,5,8,2,13,1,0
-2018-02-10,Championship,2017-18,Derby,Norwich,1,1,3,1,2,4,1,0
-2018-02-11,Championship,2017-18,Aston Villa,Birmingham,2,0,10,6,2,16,0,0
-2018-02-13,Championship,2017-18,Cardiff,Bolton,2,0,4,3,2,7,0,0
-2018-02-13,Championship,2017-18,Sheffield Weds,Derby,2,0,1,7,2,8,0,0
-2018-02-17,Championship,2017-18,Sunderland,Brentford,0,2,6,7,2,13,0,0
-2018-02-17,Championship,2017-18,Fulham,Aston Villa,2,0,1,0,2,1,0,0
-2018-02-17,Championship,2017-18,QPR,Bolton,2,0,9,5,2,14,0,0
-2018-02-17,Championship,2017-18,Burton,Nott'm Forest,0,0,5,2,0,7,0,0
-2018-02-17,Championship,2017-18,Cardiff,Middlesbrough,1,0,5,3,1,8,0,0
-2018-02-17,Championship,2017-18,Birmingham,Millwall,0,1,7,7,1,14,0,0
-2018-02-17,Championship,2017-18,Preston,Wolves,1,1,4,5,2,9,1,0
-2018-02-18,Championship,2017-18,Leeds,Bristol City,2,2,5,6,4,11,1,1
-2018-02-18,Championship,2017-18,Norwich,Ipswich,1,1,4,5,2,9,1,0
-2018-02-20,Championship,2017-18,Aston Villa,Preston,1,1,3,7,2,10,1,0
-2018-02-20,Championship,2017-18,Barnsley,Burton,1,2,5,0,3,5,1,1
-2018-02-20,Championship,2017-18,Bolton,Sunderland,1,0,3,7,1,10,0,0
-2018-02-20,Championship,2017-18,Brentford,Birmingham,5,0,6,3,5,9,0,1
-2018-02-20,Championship,2017-18,Middlesbrough,Hull,3,1,4,4,4,8,1,1
-2018-02-20,Championship,2017-18,Millwall,Sheffield Weds,2,1,4,3,3,7,1,1
-2018-02-20,Championship,2017-18,Nott'm Forest,Reading,1,1,5,5,2,10,1,0
-2018-02-20,Championship,2017-18,Sheffield United,QPR,2,1,9,4,3,13,1,1
-2018-02-21,Championship,2017-18,Ipswich,Cardiff,0,1,8,5,1,13,0,0
-2018-02-21,Championship,2017-18,Wolves,Norwich,2,2,3,4,4,7,1,1
-2018-02-21,Championship,2017-18,Bristol City,Fulham,1,1,8,5,2,13,1,0
-2018-02-21,Championship,2017-18,Derby,Leeds,2,2,10,2,4,12,1,1
-2018-02-23,Championship,2017-18,Hull,Sheffield United,1,0,1,7,1,8,0,0
-2018-02-24,Championship,2017-18,Sunderland,Middlesbrough,3,3,4,2,6,6,1,1
-2018-02-24,Championship,2017-18,Sheffield Weds,Aston Villa,2,4,7,6,6,13,1,1
-2018-02-24,Championship,2017-18,Reading,Derby,3,3,8,3,6,11,1,1
-2018-02-24,Championship,2017-18,Preston,Ipswich,0,1,9,1,1,10,0,0
-2018-02-24,Championship,2017-18,QPR,Nott'm Forest,2,5,7,2,7,9,1,1
-2018-02-24,Championship,2017-18,Leeds,Brentford,1,0,5,9,1,14,0,0
-2018-02-24,Championship,2017-18,Fulham,Wolves,2,0,3,0,2,3,0,0
-2018-02-24,Championship,2017-18,Burton,Millwall,0,1,7,5,1,12,0,0
-2018-02-24,Championship,2017-18,Norwich,Bolton,0,0,8,4,0,12,0,0
-2018-02-24,Championship,2017-18,Birmingham,Barnsley,0,2,5,2,2,7,0,0
-2018-02-25,Championship,2017-18,Cardiff,Bristol City,1,0,4,2,1,6,0,0
-2018-02-27,Championship,2017-18,Hull,Barnsley,1,1,7,0,2,7,1,0
-2018-02-27,Championship,2017-18,Reading,Sheffield United,1,3,6,4,4,10,1,1
-2018-03-02,Championship,2017-18,Middlesbrough,Leeds,3,0,13,5,3,18,0,1
-2018-03-03,Championship,2017-18,Nott'm Forest,Birmingham,2,1,2,8,3,10,1,1
-2018-03-03,Championship,2017-18,Millwall,Sunderland,1,1,8,3,2,11,1,0
-2018-03-03,Championship,2017-18,Derby,Fulham,1,2,7,6,3,13,1,1
-2018-03-03,Championship,2017-18,Bolton,Preston,1,3,4,4,4,8,1,1
-2018-03-03,Championship,2017-18,Bristol City,Sheffield Weds,4,0,3,3,4,6,0,1
-2018-03-06,Championship,2017-18,Sunderland,Aston Villa,0,3,3,8,3,11,0,1
-2018-03-06,Championship,2017-18,Sheffield Weds,Ipswich,1,2,4,6,3,10,1,1
-2018-03-06,Championship,2017-18,Reading,Bolton,1,1,2,10,2,12,1,0
-2018-03-06,Championship,2017-18,Preston,Bristol City,2,1,6,6,3,12,1,1
-2018-03-06,Championship,2017-18,Norwich,Nott'm Forest,0,0,7,4,0,11,0,0
-2018-03-06,Championship,2017-18,QPR,Derby,1,1,5,2,2,7,1,0
-2018-03-06,Championship,2017-18,Fulham,Sheffield United,3,0,3,3,3,6,0,1
-2018-03-06,Championship,2017-18,Cardiff,Barnsley,2,1,2,6,3,8,1,1
-2018-03-06,Championship,2017-18,Burton,Brentford,0,2,3,4,2,7,0,0
-2018-03-06,Championship,2017-18,Birmingham,Middlesbrough,0,1,5,5,1,10,0,0
-2018-03-06,Championship,2017-18,Hull,Millwall,1,2,9,5,3,14,1,1
-2018-03-07,Championship,2017-18,Leeds,Wolves,0,3,3,9,3,12,0,1
-2018-03-10,Championship,2017-18,Preston,Fulham,1,2,6,8,3,14,1,1
-2018-03-10,Championship,2017-18,Sheffield Weds,Bolton,1,1,2,4,2,6,1,0
-2018-03-10,Championship,2017-18,Reading,Leeds,2,2,13,7,4,20,1,1
-2018-03-10,Championship,2017-18,QPR,Sunderland,1,0,5,6,1,11,0,0
-2018-03-10,Championship,2017-18,Millwall,Brentford,1,0,5,7,1,12,0,0
-2018-03-10,Championship,2017-18,Ipswich,Sheffield United,0,0,7,2,0,9,0,0
-2018-03-10,Championship,2017-18,Hull,Norwich,4,3,5,4,7,9,1,1
-2018-03-10,Championship,2017-18,Cardiff,Birmingham,3,2,6,12,5,18,1,1
-2018-03-10,Championship,2017-18,Burton,Bristol City,0,0,5,3,0,8,0,0
-2018-03-10,Championship,2017-18,Aston Villa,Wolves,4,1,2,4,5,6,1,1
-2018-03-10,Championship,2017-18,Middlesbrough,Barnsley,3,1,3,5,4,8,1,1
-2018-03-11,Championship,2017-18,Nott'm Forest,Derby,0,0,6,6,0,12,0,0
-2018-03-13,Championship,2017-18,Brentford,Cardiff,1,3,7,6,4,13,1,1
-2018-03-13,Championship,2017-18,Aston Villa,QPR,1,3,14,2,4,16,1,1
-2018-03-13,Championship,2017-18,Barnsley,Norwich,1,1,4,4,2,8,1,0
-2018-03-13,Championship,2017-18,Ipswich,Hull,0,3,5,1,3,6,0,1
-2018-03-13,Championship,2017-18,Sheffield United,Burton,2,0,7,7,2,14,0,0
-2018-03-13,Championship,2017-18,Wolves,Reading,3,0,8,2,3,10,0,1
-2018-03-17,Championship,2017-18,Sheffield United,Nott'm Forest,0,0,3,5,0,8,0,0
-2018-03-17,Championship,2017-18,Norwich,Reading,3,2,8,2,5,10,1,1
-2018-03-17,Championship,2017-18,Wolves,Burton,3,1,4,4,4,8,1,1
-2018-03-17,Championship,2017-18,Sunderland,Preston,0,2,4,5,2,9,0,0
-2018-03-17,Championship,2017-18,Leeds,Sheffield Weds,1,2,10,4,3,14,1,1
-2018-03-17,Championship,2017-18,Brentford,Middlesbrough,1,1,9,4,2,13,1,0
-2018-03-17,Championship,2017-18,Bristol City,Ipswich,1,0,2,4,1,6,0,0
-2018-03-17,Championship,2017-18,Fulham,QPR,2,2,8,2,4,10,1,1
-2018-03-17,Championship,2017-18,Bolton,Aston Villa,1,0,9,6,1,15,0,0
-2018-03-17,Championship,2017-18,Birmingham,Hull,3,0,8,5,3,13,0,1
-2018-03-17,Championship,2017-18,Barnsley,Millwall,0,2,9,3,2,12,0,0
-2018-03-30,Championship,2017-18,Barnsley,Bristol City,2,2,6,8,4,14,1,1
-2018-03-30,Championship,2017-18,Brentford,Sheffield United,1,1,4,2,2,6,1,0
-2018-03-30,Championship,2017-18,Cardiff,Burton,3,1,6,4,4,10,1,1
-2018-03-30,Championship,2017-18,Derby,Sunderland,1,4,3,7,5,10,1,1
-2018-03-30,Championship,2017-18,Leeds,Bolton,2,1,9,5,3,14,1,1
-2018-03-30,Championship,2017-18,Middlesbrough,Wolves,1,2,6,2,3,8,1,1
-2018-03-30,Championship,2017-18,Millwall,Nott'm Forest,2,0,6,6,2,12,0,0
-2018-03-30,Championship,2017-18,Norwich,Fulham,0,2,5,2,2,7,0,0
-2018-03-30,Championship,2017-18,Reading,QPR,1,0,4,7,1,11,0,0
-2018-03-30,Championship,2017-18,Sheffield Weds,Preston,4,1,2,4,5,6,1,1
-2018-03-31,Championship,2017-18,Hull,Aston Villa,0,0,4,8,0,12,0,0
-2018-03-31,Championship,2017-18,Birmingham,Ipswich,1,0,7,6,1,13,0,0
-2018-04-02,Championship,2017-18,Bristol City,Brentford,0,1,1,9,1,10,0,0
-2018-04-02,Championship,2017-18,Burton,Middlesbrough,1,1,5,5,2,10,1,0
-2018-04-02,Championship,2017-18,Ipswich,Millwall,2,2,4,5,4,9,1,1
-2018-04-02,Championship,2017-18,Preston,Derby,0,1,7,2,1,9,0,0
-2018-04-02,Championship,2017-18,QPR,Norwich,4,1,3,9,5,12,1,1
-2018-04-02,Championship,2017-18,Sheffield United,Cardiff,1,1,10,1,2,11,1,0
-2018-04-02,Championship,2017-18,Sunderland,Sheffield Weds,1,3,8,3,4,11,1,1
-2018-04-03,Championship,2017-18,Aston Villa,Reading,3,0,6,2,3,8,0,1
-2018-04-03,Championship,2017-18,Bolton,Birmingham,0,1,8,6,1,14,0,0
-2018-04-03,Championship,2017-18,Fulham,Leeds,2,0,6,5,2,11,0,0
-2018-04-03,Championship,2017-18,Wolves,Hull,2,2,5,1,4,6,1,1
-2018-04-06,Championship,2017-18,Cardiff,Wolves,0,1,8,3,1,11,0,0
-2018-04-07,Championship,2017-18,Sheffield Weds,Fulham,0,1,1,11,1,12,0,0
-2018-04-07,Championship,2017-18,Millwall,Bristol City,2,0,3,7,2,10,0,0
-2018-04-07,Championship,2017-18,Reading,Preston,1,0,2,4,1,6,0,0
-2018-04-07,Championship,2017-18,Norwich,Aston Villa,3,1,5,7,4,12,1,1
-2018-04-07,Championship,2017-18,Middlesbrough,Nott'm Forest,2,0,5,8,2,13,0,0
-2018-04-07,Championship,2017-18,Brentford,Ipswich,1,0,6,4,1,10,0,0
-2018-04-07,Championship,2017-18,Hull,QPR,4,0,4,10,4,14,0,1
-2018-04-07,Championship,2017-18,Derby,Bolton,3,0,5,5,3,10,0,1
-2018-04-07,Championship,2017-18,Birmingham,Burton,1,1,9,3,2,12,1,0
-2018-04-07,Championship,2017-18,Barnsley,Sheffield United,3,2,3,11,5,14,1,1
-2018-04-07,Championship,2017-18,Leeds,Sunderland,1,1,6,13,2,19,1,0
-2018-04-10,Championship,2017-18,Sheffield United,Middlesbrough,2,1,5,1,3,6,1,1
-2018-04-10,Championship,2017-18,QPR,Sheffield Weds,4,2,7,4,6,11,1,1
-2018-04-10,Championship,2017-18,Preston,Leeds,3,1,9,9,4,18,1,1
-2018-04-10,Championship,2017-18,Nott'm Forest,Brentford,0,1,4,8,1,12,0,0
-2018-04-10,Championship,2017-18,Ipswich,Barnsley,1,0,5,5,1,10,0,0
-2018-04-10,Championship,2017-18,Burton,Hull,0,5,2,4,5,6,0,1
-2018-04-10,Championship,2017-18,Sunderland,Norwich,1,1,5,6,2,11,1,0
-2018-04-10,Championship,2017-18,Bristol City,Birmingham,3,1,4,6,4,10,1,1
-2018-04-10,Championship,2017-18,Bolton,Millwall,0,2,6,5,2,11,0,0
-2018-04-10,Championship,2017-18,Aston Villa,Cardiff,1,0,8,3,1,11,0,0
-2018-04-10,Championship,2017-18,Fulham,Reading,1,0,6,2,1,8,0,0
-2018-04-11,Championship,2017-18,Wolves,Derby,2,0,7,3,2,10,0,0
-2018-04-13,Championship,2017-18,Aston Villa,Leeds,1,0,5,4,1,9,0,0
-2018-04-14,Championship,2017-18,Barnsley,Bolton,2,2,4,9,4,13,1,1
-2018-04-14,Championship,2017-18,Sheffield United,Millwall,1,1,8,9,2,17,1,0
-2018-04-14,Championship,2017-18,QPR,Preston,1,2,5,10,3,15,1,1
-2018-04-14,Championship,2017-18,Nott'm Forest,Ipswich,2,1,8,9,3,17,1,1
-2018-04-14,Championship,2017-18,Norwich,Cardiff,0,2,10,6,2,16,0,0
-2018-04-14,Championship,2017-18,Reading,Sunderland,2,2,3,8,4,11,1,1
-2018-04-14,Championship,2017-18,Hull,Sheffield Weds,0,1,11,5,1,16,0,0
-2018-04-14,Championship,2017-18,Fulham,Brentford,1,1,4,7,2,11,1,0
-2018-04-14,Championship,2017-18,Burton,Derby,3,1,2,5,4,7,1,1
-2018-04-14,Championship,2017-18,Middlesbrough,Bristol City,2,1,4,2,3,6,1,1
-2018-04-15,Championship,2017-18,Wolves,Birmingham,2,0,4,4,2,8,0,0
-2018-04-20,Championship,2017-18,Millwall,Fulham,0,3,2,1,3,3,0,1
-2018-04-21,Championship,2017-18,Sunderland,Burton,1,2,2,8,3,10,1,1
-2018-04-21,Championship,2017-18,Sheffield Weds,Reading,3,0,4,2,3,6,0,1
-2018-04-21,Championship,2017-18,Preston,Norwich,0,0,5,5,0,10,0,0
-2018-04-21,Championship,2017-18,Leeds,Barnsley,2,1,5,9,3,14,1,1
-2018-04-21,Championship,2017-18,Ipswich,Aston Villa,0,4,4,8,4,12,0,1
-2018-04-21,Championship,2017-18,Bristol City,Hull,5,5,6,1,10,7,1,1
-2018-04-21,Championship,2017-18,Cardiff,Nott'm Forest,2,1,6,2,3,8,1,1
-2018-04-21,Championship,2017-18,Brentford,QPR,2,1,11,4,3,15,1,1
-2018-04-21,Championship,2017-18,Bolton,Wolves,0,4,2,5,4,7,0,1
-2018-04-21,Championship,2017-18,Birmingham,Sheffield United,2,1,4,3,3,7,1,1
-2018-04-21,Championship,2017-18,Derby,Middlesbrough,1,2,12,6,3,18,1,1
-2018-04-24,Championship,2017-18,Derby,Cardiff,3,1,9,6,4,15,1,1
-2018-04-24,Championship,2017-18,Nott'm Forest,Barnsley,3,0,8,5,3,13,0,1
-2018-04-27,Championship,2017-18,Fulham,Sunderland,2,1,4,2,3,6,1,1
-2018-04-28,Championship,2017-18,Wolves,Sheffield Weds,0,0,9,4,0,13,0,0
-2018-04-28,Championship,2017-18,Sheffield United,Preston,0,1,13,3,1,16,0,0
-2018-04-28,Championship,2017-18,Reading,Ipswich,0,4,12,4,4,16,0,1
-2018-04-28,Championship,2017-18,Nott'm Forest,Bristol City,0,0,6,2,0,8,0,0
-2018-04-28,Championship,2017-18,Norwich,Leeds,2,1,9,3,3,12,1,1
-2018-04-28,Championship,2017-18,QPR,Birmingham,3,1,3,11,4,14,1,1
-2018-04-28,Championship,2017-18,Hull,Cardiff,0,2,3,5,2,8,0,0
-2018-04-28,Championship,2017-18,Burton,Bolton,2,0,8,5,2,13,0,0
-2018-04-28,Championship,2017-18,Barnsley,Brentford,2,0,3,2,2,5,0,0
-2018-04-28,Championship,2017-18,Aston Villa,Derby,1,1,9,2,2,11,1,0
-2018-04-28,Championship,2017-18,Middlesbrough,Millwall,2,0,3,8,2,11,0,0
-2018-05-06,Championship,2017-18,Preston,Burton,2,1,6,8,3,14,1,1
-2018-05-06,Championship,2017-18,Millwall,Aston Villa,1,0,5,5,1,10,0,0
-2018-05-06,Championship,2017-18,Leeds,QPR,2,0,9,4,2,13,0,0
-2018-05-06,Championship,2017-18,Ipswich,Middlesbrough,2,2,6,11,4,17,1,1
-2018-05-06,Championship,2017-18,Derby,Barnsley,4,1,5,3,5,8,1,1
-2018-05-06,Championship,2017-18,Bristol City,Sheffield United,2,3,2,3,5,5,1,1
-2018-05-06,Championship,2017-18,Brentford,Hull,1,1,14,1,2,15,1,0
-2018-05-06,Championship,2017-18,Bolton,Nott'm Forest,3,2,6,2,5,8,1,1
-2018-05-06,Championship,2017-18,Birmingham,Fulham,3,1,3,4,4,7,1,1
-2018-05-06,Championship,2017-18,Sheffield Weds,Norwich,5,1,1,10,6,11,1,1
-2018-05-06,Championship,2017-18,Cardiff,Reading,0,0,4,2,0,6,0,0
-2018-05-06,Championship,2017-18,Sunderland,Wolves,3,0,7,7,3,14,0,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2017-08-04,Championship,2017-18,Nott'm Forest,Millwall,1,0,5,4,0,1,0,0,1,9,1,0,0,0
+2017-08-04,Championship,2017-18,Sunderland,Derby,1,1,6,7,1,0,0,0,2,13,1,0,1,0
+2017-08-05,Championship,2017-18,Wolves,Middlesbrough,1,0,4,4,1,2,0,0,1,8,3,0,0,0
+2017-08-05,Championship,2017-18,Sheffield United,Brentford,1,0,6,3,0,0,0,0,1,9,0,0,0,0
+2017-08-05,Championship,2017-18,Preston,Sheffield Weds,1,0,6,3,2,3,0,0,1,9,5,0,0,0
+2017-08-05,Championship,2017-18,Ipswich,Birmingham,1,0,8,2,1,1,0,0,1,10,2,0,0,0
+2017-08-05,Championship,2017-18,QPR,Reading,2,0,10,1,1,2,0,1,2,11,3,1,0,0
+2017-08-05,Championship,2017-18,Burton,Cardiff,0,1,4,6,1,0,0,0,1,10,1,0,0,0
+2017-08-05,Championship,2017-18,Bristol City,Barnsley,3,1,3,2,1,2,0,0,4,5,3,0,1,1
+2017-08-05,Championship,2017-18,Aston Villa,Hull,1,1,5,3,2,0,0,0,2,8,2,0,1,0
+2017-08-05,Championship,2017-18,Fulham,Norwich,1,1,7,1,3,2,0,0,2,8,5,0,1,0
+2017-08-06,Championship,2017-18,Bolton,Leeds,2,3,6,8,1,0,0,0,5,14,1,0,1,1
+2017-08-12,Championship,2017-18,Middlesbrough,Sheffield United,1,0,4,3,1,1,0,0,1,7,2,0,0,0
+2017-08-12,Championship,2017-18,Sheffield Weds,QPR,1,1,4,1,0,3,0,0,2,5,3,0,1,0
+2017-08-12,Championship,2017-18,Reading,Fulham,1,1,9,3,3,1,0,1,2,12,4,1,1,0
+2017-08-12,Championship,2017-18,Millwall,Bolton,1,1,4,0,2,3,0,0,2,4,5,0,1,0
+2017-08-12,Championship,2017-18,Leeds,Preston,0,0,6,4,1,1,0,1,0,10,2,1,0,0
+2017-08-12,Championship,2017-18,Birmingham,Bristol City,2,1,2,10,0,2,1,0,3,12,2,1,1,1
+2017-08-12,Championship,2017-18,Derby,Wolves,0,2,10,5,0,0,0,0,2,15,0,0,0,0
+2017-08-12,Championship,2017-18,Cardiff,Aston Villa,3,0,4,7,0,1,0,0,3,11,1,0,0,1
+2017-08-12,Championship,2017-18,Brentford,Nott'm Forest,3,4,12,3,1,3,0,0,7,15,4,0,1,1
+2017-08-12,Championship,2017-18,Barnsley,Ipswich,1,2,11,7,1,2,0,0,3,18,3,0,1,1
+2017-08-12,Championship,2017-18,Hull,Burton,4,1,5,2,2,1,0,1,5,7,3,1,1,1
+2017-08-13,Championship,2017-18,Norwich,Sunderland,1,3,13,1,0,1,0,0,4,14,1,0,1,1
+2017-08-15,Championship,2017-18,Leeds,Fulham,0,0,3,3,2,1,0,0,0,6,3,0,0,0
+2017-08-15,Championship,2017-18,Reading,Aston Villa,2,1,4,1,2,2,0,0,3,5,4,0,1,1
+2017-08-15,Championship,2017-18,Middlesbrough,Burton,2,0,3,7,1,2,0,1,2,10,3,1,0,0
+2017-08-15,Championship,2017-18,Hull,Wolves,2,3,4,4,2,4,0,0,5,8,6,0,1,1
+2017-08-15,Championship,2017-18,Millwall,Ipswich,3,4,8,3,1,4,0,0,7,11,5,0,1,1
+2017-08-15,Championship,2017-18,Cardiff,Sheffield United,2,0,7,6,2,1,0,0,2,13,3,0,0,0
+2017-08-15,Championship,2017-18,Brentford,Bristol City,2,2,5,3,2,3,0,0,4,8,5,0,1,1
+2017-08-15,Championship,2017-18,Birmingham,Bolton,0,0,7,4,1,1,0,0,0,11,2,0,0,0
+2017-08-15,Championship,2017-18,Derby,Preston,1,0,4,4,2,3,0,0,1,8,5,0,0,0
+2017-08-15,Championship,2017-18,Barnsley,Nott'm Forest,2,1,2,9,2,1,0,0,3,11,3,0,1,1
+2017-08-16,Championship,2017-18,Norwich,QPR,2,0,8,3,1,1,0,0,2,11,2,0,0,0
+2017-08-16,Championship,2017-18,Sheffield Weds,Sunderland,1,1,9,3,0,1,0,0,2,12,1,0,1,0
+2017-08-18,Championship,2017-18,Burton,Birmingham,2,1,4,5,1,0,0,0,3,9,1,0,1,1
+2017-08-19,Championship,2017-18,Sunderland,Leeds,0,2,7,4,3,1,0,0,2,11,4,0,0,0
+2017-08-19,Championship,2017-18,Sheffield United,Barnsley,1,0,12,2,3,3,1,1,1,14,6,2,0,0
+2017-08-19,Championship,2017-18,QPR,Hull,2,1,11,5,3,3,0,0,3,16,6,0,1,1
+2017-08-19,Championship,2017-18,Preston,Reading,1,0,4,5,2,3,0,0,1,9,5,0,0,0
+2017-08-19,Championship,2017-18,Nott'm Forest,Middlesbrough,2,1,5,5,2,4,0,0,3,10,6,0,1,1
+2017-08-19,Championship,2017-18,Wolves,Cardiff,1,2,2,4,2,4,0,0,3,6,6,0,1,1
+2017-08-19,Championship,2017-18,Fulham,Sheffield Weds,0,1,6,3,2,0,0,0,1,9,2,0,0,0
+2017-08-19,Championship,2017-18,Bristol City,Millwall,0,0,5,16,3,2,0,0,0,21,5,0,0,0
+2017-08-19,Championship,2017-18,Bolton,Derby,1,2,3,2,2,1,0,0,3,5,3,0,1,1
+2017-08-19,Championship,2017-18,Aston Villa,Norwich,4,2,3,3,1,3,0,0,6,6,4,0,1,1
+2017-08-19,Championship,2017-18,Ipswich,Brentford,2,0,6,11,1,2,0,0,2,17,3,0,0,0
+2017-08-25,Championship,2017-18,Bristol City,Aston Villa,1,1,8,1,1,1,0,0,2,9,2,0,1,0
+2017-08-25,Championship,2017-18,Hull,Bolton,4,0,5,5,1,1,0,0,4,10,2,0,0,1
+2017-08-26,Championship,2017-18,Sheffield United,Derby,3,1,6,2,3,3,0,0,4,8,6,0,1,1
+2017-08-26,Championship,2017-18,Nott'm Forest,Leeds,0,2,4,2,3,2,0,0,2,6,5,0,0,0
+2017-08-26,Championship,2017-18,Millwall,Norwich,4,0,5,6,2,1,0,0,4,11,3,0,0,1
+2017-08-26,Championship,2017-18,Middlesbrough,Preston,0,0,3,8,1,2,0,0,0,11,3,0,0,0
+2017-08-26,Championship,2017-18,Ipswich,Fulham,0,2,5,6,1,0,0,0,2,11,1,0,0,0
+2017-08-26,Championship,2017-18,Cardiff,QPR,2,1,8,2,0,1,0,0,3,10,1,0,1,1
+2017-08-26,Championship,2017-18,Brentford,Wolves,0,0,8,6,1,1,0,0,0,14,2,0,0,0
+2017-08-26,Championship,2017-18,Birmingham,Reading,0,2,4,3,0,0,0,0,2,7,0,0,0,0
+2017-08-26,Championship,2017-18,Barnsley,Sunderland,3,0,7,3,1,3,0,0,3,10,4,0,0,1
+2017-08-26,Championship,2017-18,Burton,Sheffield Weds,1,1,6,5,0,2,0,0,2,11,2,0,1,0
+2017-09-08,Championship,2017-18,Derby,Hull,5,0,3,9,0,0,0,0,5,12,0,0,0,1
+2017-09-09,Championship,2017-18,Reading,Bristol City,0,1,3,4,1,1,0,0,1,7,2,0,0,0
+2017-09-09,Championship,2017-18,Wolves,Millwall,1,0,6,4,1,1,0,1,1,10,2,1,0,0
+2017-09-09,Championship,2017-18,Sunderland,Sheffield United,1,2,2,4,1,2,0,0,3,6,3,0,1,1
+2017-09-09,Championship,2017-18,Sheffield Weds,Nott'm Forest,3,1,8,4,1,0,0,0,4,12,1,0,1,1
+2017-09-09,Championship,2017-18,Preston,Barnsley,1,1,10,2,1,2,0,0,2,12,3,0,1,0
+2017-09-09,Championship,2017-18,QPR,Ipswich,2,1,9,4,1,2,0,0,3,13,3,0,1,1
+2017-09-09,Championship,2017-18,Leeds,Burton,5,0,10,1,0,1,0,0,5,11,1,0,0,1
+2017-09-09,Championship,2017-18,Fulham,Cardiff,1,1,5,2,4,3,0,0,2,7,7,0,1,0
+2017-09-09,Championship,2017-18,Bolton,Middlesbrough,0,3,4,7,1,1,0,0,3,11,2,0,0,1
+2017-09-09,Championship,2017-18,Aston Villa,Brentford,0,0,5,4,0,0,0,0,0,9,0,0,0,0
+2017-09-09,Championship,2017-18,Norwich,Birmingham,1,0,5,6,1,5,0,0,1,11,6,0,0,0
+2017-09-12,Championship,2017-18,Wolves,Bristol City,3,3,9,8,1,2,0,0,6,17,3,0,1,1
+2017-09-12,Championship,2017-18,Sunderland,Nott'm Forest,0,1,6,4,1,1,0,0,1,10,2,0,0,0
+2017-09-12,Championship,2017-18,Sheffield Weds,Brentford,2,1,8,8,3,0,0,0,3,16,3,0,1,1
+2017-09-12,Championship,2017-18,QPR,Millwall,2,2,7,5,2,5,0,1,4,12,7,1,1,1
+2017-09-12,Championship,2017-18,Preston,Cardiff,3,0,5,4,3,3,0,0,3,9,6,0,0,1
+2017-09-12,Championship,2017-18,Norwich,Burton,0,0,10,3,3,2,0,0,0,13,5,0,0,0
+2017-09-12,Championship,2017-18,Leeds,Birmingham,2,0,2,8,1,3,0,0,2,10,4,0,0,0
+2017-09-12,Championship,2017-18,Bolton,Sheffield United,0,1,3,2,3,1,0,0,1,5,4,0,0,0
+2017-09-12,Championship,2017-18,Aston Villa,Middlesbrough,0,0,6,5,2,1,1,1,0,11,3,2,0,0
+2017-09-13,Championship,2017-18,Fulham,Hull,2,1,6,3,0,0,0,0,3,9,0,0,1,1
+2017-09-16,Championship,2017-18,Nott'm Forest,Wolves,1,2,1,4,2,2,0,0,3,5,4,0,1,1
+2017-09-16,Championship,2017-18,Millwall,Leeds,1,0,14,2,1,3,0,0,1,16,4,0,0,0
+2017-09-16,Championship,2017-18,Middlesbrough,QPR,3,2,6,1,4,4,0,0,5,7,8,0,1,1
+2017-09-16,Championship,2017-18,Ipswich,Bolton,2,0,6,8,1,3,0,0,2,14,4,0,0,0
+2017-09-16,Championship,2017-18,Hull,Sunderland,1,1,11,2,2,5,0,0,2,13,7,0,1,0
+2017-09-16,Championship,2017-18,Barnsley,Aston Villa,0,3,6,1,1,2,0,0,3,7,3,0,0,1
+2017-09-16,Championship,2017-18,Burton,Fulham,2,1,2,8,1,1,0,0,3,10,2,0,1,1
+2017-09-16,Championship,2017-18,Bristol City,Derby,4,1,5,6,1,2,0,0,5,11,3,0,1,1
+2017-09-16,Championship,2017-18,Brentford,Reading,1,1,3,6,3,4,0,0,2,9,7,0,1,0
+2017-09-16,Championship,2017-18,Birmingham,Preston,1,3,7,5,2,4,0,0,4,12,6,0,1,1
+2017-09-16,Championship,2017-18,Sheffield United,Norwich,0,1,6,2,2,5,0,0,1,8,7,0,0,0
+2017-09-16,Championship,2017-18,Cardiff,Sheffield Weds,1,1,6,3,1,2,0,0,2,9,3,0,1,0
+2017-09-23,Championship,2017-18,Reading,Hull,1,1,9,1,0,0,0,0,2,10,0,0,1,0
+2017-09-23,Championship,2017-18,QPR,Burton,0,0,8,6,0,0,0,0,0,14,0,0,0,0
+2017-09-23,Championship,2017-18,Wolves,Barnsley,2,1,5,8,3,1,0,0,3,13,4,0,1,1
+2017-09-23,Championship,2017-18,Sunderland,Cardiff,1,2,1,8,3,3,0,0,3,9,6,0,1,1
+2017-09-23,Championship,2017-18,Preston,Millwall,0,0,7,6,3,1,0,0,0,13,4,0,0,0
+2017-09-23,Championship,2017-18,Norwich,Bristol City,0,0,3,6,1,1,0,0,0,9,2,0,0,0
+2017-09-23,Championship,2017-18,Leeds,Ipswich,3,2,6,12,1,2,0,0,5,18,3,0,1,1
+2017-09-23,Championship,2017-18,Fulham,Middlesbrough,1,1,6,3,2,1,0,0,2,9,3,0,1,0
+2017-09-23,Championship,2017-18,Derby,Birmingham,1,1,4,6,1,1,0,0,2,10,2,0,1,0
+2017-09-23,Championship,2017-18,Bolton,Brentford,0,3,5,6,2,1,0,0,3,11,3,0,0,1
+2017-09-23,Championship,2017-18,Aston Villa,Nott'm Forest,2,1,3,4,1,3,0,0,3,7,4,0,1,1
+2017-09-24,Championship,2017-18,Sheffield Weds,Sheffield United,2,4,9,7,1,2,0,0,6,16,3,0,1,1
+2017-09-26,Championship,2017-18,Millwall,Reading,2,1,3,4,1,0,0,0,3,7,1,0,1,1
+2017-09-26,Championship,2017-18,Middlesbrough,Norwich,0,1,13,1,1,4,0,0,1,14,5,0,0,0
+2017-09-26,Championship,2017-18,Ipswich,Sunderland,5,2,5,4,1,2,0,0,7,9,3,0,1,1
+2017-09-26,Championship,2017-18,Hull,Preston,1,2,6,2,4,2,0,0,3,8,6,0,1,1
+2017-09-26,Championship,2017-18,Bristol City,Bolton,2,0,9,1,2,2,0,1,2,10,4,1,0,0
+2017-09-26,Championship,2017-18,Burton,Aston Villa,0,4,4,4,0,0,0,0,4,8,0,0,0,1
+2017-09-26,Championship,2017-18,Nott'm Forest,Fulham,1,3,3,3,2,0,0,0,4,6,2,0,1,1
+2017-09-26,Championship,2017-18,Brentford,Derby,1,1,11,0,3,5,0,0,2,11,8,0,1,0
+2017-09-26,Championship,2017-18,Barnsley,QPR,1,1,2,6,1,2,0,0,2,8,3,0,1,0
+2017-09-26,Championship,2017-18,Cardiff,Leeds,3,1,2,0,0,1,0,1,4,2,1,1,1,1
+2017-09-27,Championship,2017-18,Sheffield United,Wolves,2,0,11,2,3,1,0,1,2,13,4,1,0,0
+2017-09-27,Championship,2017-18,Birmingham,Sheffield Weds,1,0,4,10,0,0,0,0,1,14,0,0,0,0
+2017-09-29,Championship,2017-18,QPR,Fulham,1,2,10,2,3,3,0,0,3,12,6,0,1,1
+2017-09-30,Championship,2017-18,Aston Villa,Bolton,1,0,5,4,1,3,1,0,1,9,4,1,0,0
+2017-09-30,Championship,2017-18,Burton,Wolves,0,4,9,4,1,0,0,0,4,13,1,0,0,1
+2017-09-30,Championship,2017-18,Cardiff,Derby,0,0,8,2,2,1,0,0,0,10,3,0,0,0
+2017-09-30,Championship,2017-18,Hull,Birmingham,6,1,3,4,0,0,0,0,7,7,0,0,1,1
+2017-09-30,Championship,2017-18,Ipswich,Bristol City,1,3,1,4,2,2,0,0,4,5,4,0,1,1
+2017-09-30,Championship,2017-18,Middlesbrough,Brentford,2,2,3,7,3,3,0,0,4,10,6,0,1,1
+2017-09-30,Championship,2017-18,Millwall,Barnsley,1,3,9,2,2,3,0,0,4,11,5,0,1,1
+2017-09-30,Championship,2017-18,Nott'm Forest,Sheffield United,2,1,4,9,3,4,0,0,3,13,7,0,1,1
+2017-09-30,Championship,2017-18,Preston,Sunderland,2,2,2,5,1,1,0,0,4,7,2,0,1,1
+2017-09-30,Championship,2017-18,Reading,Norwich,1,2,1,1,4,1,0,1,3,2,5,1,1,1
+2017-10-01,Championship,2017-18,Sheffield Weds,Leeds,3,0,7,4,1,0,0,0,3,11,1,0,0,1
+2017-10-13,Championship,2017-18,Birmingham,Cardiff,1,0,6,8,2,1,0,0,1,14,3,0,0,0
+2017-10-13,Championship,2017-18,Bristol City,Burton,0,0,9,0,0,1,0,0,0,9,1,0,0,0
+2017-10-14,Championship,2017-18,Sunderland,QPR,1,1,15,9,0,0,0,0,2,24,0,0,1,0
+2017-10-14,Championship,2017-18,Sheffield United,Ipswich,1,0,8,4,2,1,0,0,1,12,3,0,0,0
+2017-10-14,Championship,2017-18,Wolves,Aston Villa,2,0,6,2,0,2,0,0,2,8,2,0,0,0
+2017-10-14,Championship,2017-18,Norwich,Hull,1,1,10,7,1,2,0,1,2,17,3,1,1,0
+2017-10-14,Championship,2017-18,Brentford,Millwall,1,0,6,9,2,1,0,0,1,15,3,0,0,0
+2017-10-14,Championship,2017-18,Fulham,Preston,2,2,5,4,1,3,0,0,4,9,4,0,1,1
+2017-10-14,Championship,2017-18,Leeds,Reading,0,1,6,5,5,2,0,0,1,11,7,0,0,0
+2017-10-14,Championship,2017-18,Bolton,Sheffield Weds,2,1,10,6,3,3,0,0,3,16,6,0,1,1
+2017-10-14,Championship,2017-18,Barnsley,Middlesbrough,2,2,4,7,2,0,0,0,4,11,2,0,1,1
+2017-10-15,Championship,2017-18,Derby,Nott'm Forest,2,0,7,7,0,1,0,0,2,14,1,0,0,0
+2017-10-21,Championship,2017-18,Aston Villa,Fulham,2,1,2,5,1,2,0,0,3,7,3,0,1,1
+2017-10-21,Championship,2017-18,Barnsley,Hull,0,1,3,7,1,3,0,0,1,10,4,0,0,0
+2017-10-21,Championship,2017-18,Bolton,QPR,1,1,4,8,0,0,0,0,2,12,0,0,1,0
+2017-10-21,Championship,2017-18,Brentford,Sunderland,3,3,6,9,2,4,0,0,6,15,6,0,1,1
+2017-10-21,Championship,2017-18,Bristol City,Leeds,0,3,6,3,3,3,1,1,3,9,6,2,0,1
+2017-10-21,Championship,2017-18,Derby,Sheffield Weds,2,0,6,4,2,2,0,1,2,10,4,1,0,0
+2017-10-21,Championship,2017-18,Middlesbrough,Cardiff,0,1,8,2,2,2,0,0,1,10,4,0,0,0
+2017-10-21,Championship,2017-18,Millwall,Birmingham,2,0,6,3,2,2,0,0,2,9,4,0,0,0
+2017-10-21,Championship,2017-18,Nott'm Forest,Burton,2,0,4,6,0,2,0,0,2,10,2,0,0,0
+2017-10-21,Championship,2017-18,Sheffield United,Reading,2,1,4,4,1,2,0,0,3,8,3,0,1,1
+2017-10-21,Championship,2017-18,Wolves,Preston,3,2,3,3,3,3,0,1,5,6,6,1,1,1
+2017-10-22,Championship,2017-18,Ipswich,Norwich,0,1,6,5,3,0,0,0,1,11,3,0,0,0
+2017-10-27,Championship,2017-18,Leeds,Sheffield United,1,2,0,5,2,6,0,0,3,5,8,0,1,1
+2017-10-28,Championship,2017-18,Burton,Ipswich,1,2,4,5,1,3,0,0,3,9,4,0,1,1
+2017-10-28,Championship,2017-18,Cardiff,Millwall,0,0,5,6,2,1,0,0,0,11,3,0,0,0
+2017-10-28,Championship,2017-18,Fulham,Bolton,1,1,11,5,1,4,0,0,2,16,5,0,1,0
+2017-10-28,Championship,2017-18,Hull,Nott'm Forest,2,3,4,4,4,3,0,0,5,8,7,0,1,1
+2017-10-28,Championship,2017-18,Norwich,Derby,1,2,6,3,1,3,0,0,3,9,4,0,1,1
+2017-10-28,Championship,2017-18,Preston,Brentford,2,3,4,5,3,0,0,0,5,9,3,0,1,1
+2017-10-28,Championship,2017-18,QPR,Wolves,2,1,3,4,3,1,0,0,3,7,4,0,1,1
+2017-10-28,Championship,2017-18,Reading,Middlesbrough,0,2,3,3,1,1,0,0,2,6,2,0,0,0
+2017-10-28,Championship,2017-18,Sheffield Weds,Barnsley,1,1,7,5,2,1,0,0,2,12,3,0,1,0
+2017-10-28,Championship,2017-18,Sunderland,Bristol City,1,2,6,5,2,2,0,0,3,11,4,0,1,1
+2017-10-29,Championship,2017-18,Birmingham,Aston Villa,0,0,3,4,3,2,0,0,0,7,5,0,0,0
+2017-10-31,Championship,2017-18,Sunderland,Bolton,3,3,11,9,1,0,0,0,6,20,1,0,1,1
+2017-10-31,Championship,2017-18,Sheffield Weds,Millwall,2,1,8,5,0,0,0,1,3,13,0,1,1,1
+2017-10-31,Championship,2017-18,Reading,Nott'm Forest,3,1,4,4,0,1,0,0,4,8,1,0,1,1
+2017-10-31,Championship,2017-18,QPR,Sheffield United,1,0,4,6,2,2,0,0,1,10,4,0,0,0
+2017-10-31,Championship,2017-18,Norwich,Wolves,0,2,6,7,4,4,0,0,2,13,8,0,0,0
+2017-10-31,Championship,2017-18,Hull,Middlesbrough,1,3,5,5,2,2,1,0,4,10,4,1,1,1
+2017-10-31,Championship,2017-18,Fulham,Bristol City,0,2,2,4,0,2,1,0,2,6,2,1,0,0
+2017-10-31,Championship,2017-18,Cardiff,Ipswich,3,1,5,7,1,1,0,0,4,12,2,0,1,1
+2017-10-31,Championship,2017-18,Burton,Barnsley,2,4,5,4,0,1,0,0,6,9,1,0,1,1
+2017-10-31,Championship,2017-18,Leeds,Derby,1,2,5,8,2,2,0,0,3,13,4,0,1,1
+2017-11-01,Championship,2017-18,Birmingham,Brentford,0,2,7,4,2,1,0,0,2,11,3,0,0,0
+2017-11-01,Championship,2017-18,Preston,Aston Villa,0,2,3,1,1,1,0,0,2,4,2,0,0,0
+2017-11-03,Championship,2017-18,Wolves,Fulham,2,0,4,1,2,4,0,0,2,5,6,0,0,0
+2017-11-04,Championship,2017-18,Sheffield United,Hull,4,1,10,0,1,2,0,0,5,10,3,0,1,1
+2017-11-04,Championship,2017-18,Nott'm Forest,QPR,4,0,6,3,1,1,0,0,4,9,2,0,0,1
+2017-11-04,Championship,2017-18,Ipswich,Preston,3,0,2,1,1,3,0,0,3,3,4,0,0,1
+2017-11-04,Championship,2017-18,Derby,Reading,2,4,9,0,4,3,0,0,6,9,7,0,1,1
+2017-11-04,Championship,2017-18,Millwall,Burton,0,1,5,1,1,2,1,0,1,6,3,1,0,0
+2017-11-04,Championship,2017-18,Brentford,Leeds,3,1,5,2,3,2,0,0,4,7,5,0,1,1
+2017-11-04,Championship,2017-18,Bolton,Norwich,2,1,4,5,4,2,0,0,3,9,6,0,1,1
+2017-11-04,Championship,2017-18,Barnsley,Birmingham,2,0,8,2,0,2,0,0,2,10,2,0,0,0
+2017-11-04,Championship,2017-18,Aston Villa,Sheffield Weds,1,2,6,2,0,1,0,0,3,8,1,0,1,1
+2017-11-04,Championship,2017-18,Bristol City,Cardiff,2,1,11,3,3,2,0,1,3,14,5,1,1,1
+2017-11-05,Championship,2017-18,Middlesbrough,Sunderland,1,0,1,5,1,4,0,0,1,6,5,0,0,0
+2017-11-17,Championship,2017-18,Burton,Sheffield United,1,3,4,5,1,0,0,0,4,9,1,0,1,1
+2017-11-17,Championship,2017-18,Preston,Bolton,0,0,5,6,2,3,0,0,0,11,5,0,0,0
+2017-11-18,Championship,2017-18,Sunderland,Millwall,2,2,6,2,3,0,0,0,4,8,3,0,1,1
+2017-11-18,Championship,2017-18,Sheffield Weds,Bristol City,0,0,6,2,1,1,0,0,0,8,2,0,0,0
+2017-11-18,Championship,2017-18,Reading,Wolves,0,2,6,8,2,2,0,0,2,14,4,0,0,0
+2017-11-18,Championship,2017-18,QPR,Aston Villa,1,2,4,6,2,3,0,0,3,10,5,0,1,1
+2017-11-18,Championship,2017-18,Cardiff,Brentford,2,0,3,10,2,0,0,0,2,13,2,0,0,0
+2017-11-18,Championship,2017-18,Hull,Ipswich,2,2,3,6,3,5,0,0,4,9,8,0,1,1
+2017-11-18,Championship,2017-18,Fulham,Derby,1,1,10,2,1,0,0,0,2,12,1,0,1,0
+2017-11-18,Championship,2017-18,Birmingham,Nott'm Forest,1,0,5,12,2,2,0,0,1,17,4,0,0,0
+2017-11-18,Championship,2017-18,Norwich,Barnsley,1,1,6,5,1,2,0,0,2,11,3,0,1,0
+2017-11-19,Championship,2017-18,Leeds,Middlesbrough,2,1,3,10,5,3,0,0,3,13,8,0,1,1
+2017-11-21,Championship,2017-18,Sheffield United,Fulham,4,5,4,3,3,4,0,0,9,7,7,0,1,1
+2017-11-21,Championship,2017-18,Millwall,Hull,0,0,6,4,1,2,0,0,0,10,3,0,0,0
+2017-11-21,Championship,2017-18,Nott'm Forest,Norwich,1,0,5,4,1,2,0,0,1,9,3,0,0,0
+2017-11-21,Championship,2017-18,Derby,QPR,2,0,4,2,2,3,0,0,2,6,5,0,0,0
+2017-11-21,Championship,2017-18,Barnsley,Cardiff,0,1,4,4,0,2,0,0,1,8,2,0,0,0
+2017-11-21,Championship,2017-18,Brentford,Burton,1,1,10,5,1,1,0,0,2,15,2,0,1,0
+2017-11-21,Championship,2017-18,Bolton,Reading,2,2,6,9,2,0,0,0,4,15,2,0,1,1
+2017-11-21,Championship,2017-18,Aston Villa,Sunderland,2,1,2,2,0,0,0,0,3,4,0,0,1,1
+2017-11-21,Championship,2017-18,Bristol City,Preston,1,2,5,0,1,3,0,0,3,5,4,0,1,1
+2017-11-22,Championship,2017-18,Ipswich,Sheffield Weds,2,2,4,7,1,2,0,0,4,11,3,0,1,1
+2017-11-22,Championship,2017-18,Middlesbrough,Birmingham,2,0,9,5,1,1,0,0,2,14,2,0,0,0
+2017-11-22,Championship,2017-18,Wolves,Leeds,4,1,1,2,0,2,0,1,5,3,2,1,1,1
+2017-11-25,Championship,2017-18,Wolves,Bolton,5,1,7,4,2,2,0,0,6,11,4,0,1,1
+2017-11-25,Championship,2017-18,Sheffield United,Birmingham,1,1,9,1,1,4,0,0,2,10,5,0,1,0
+2017-11-25,Championship,2017-18,Reading,Sheffield Weds,0,0,7,2,0,1,0,0,0,9,1,0,0,0
+2017-11-25,Championship,2017-18,Middlesbrough,Derby,0,3,11,6,1,2,1,0,3,17,3,1,0,1
+2017-11-25,Championship,2017-18,Norwich,Preston,1,1,4,5,3,4,0,0,2,9,7,0,1,0
+2017-11-25,Championship,2017-18,Fulham,Millwall,1,0,10,4,0,2,0,0,1,14,2,0,0,0
+2017-11-25,Championship,2017-18,Burton,Sunderland,0,2,7,7,0,3,0,0,2,14,3,0,0,0
+2017-11-25,Championship,2017-18,Barnsley,Leeds,0,2,5,12,3,3,0,0,2,17,6,0,0,0
+2017-11-25,Championship,2017-18,Aston Villa,Ipswich,2,0,4,6,0,2,0,0,2,10,2,0,0,0
+2017-11-25,Championship,2017-18,Hull,Bristol City,2,3,2,2,1,2,0,0,5,4,3,0,1,1
+2017-11-26,Championship,2017-18,Nott'm Forest,Cardiff,0,2,8,4,1,2,0,0,2,12,3,0,0,0
+2017-11-27,Championship,2017-18,QPR,Brentford,2,2,7,9,2,2,0,0,4,16,4,0,1,1
+2017-11-28,Championship,2017-18,Derby,Ipswich,0,1,10,3,3,3,0,0,1,13,6,0,0,0
+2017-11-28,Championship,2017-18,Reading,Barnsley,3,0,5,4,0,1,0,0,3,9,1,0,0,1
+2017-12-01,Championship,2017-18,Cardiff,Norwich,3,1,3,7,1,2,0,0,4,10,3,0,1,1
+2017-12-01,Championship,2017-18,Leeds,Aston Villa,1,1,5,1,2,3,0,0,2,6,5,0,1,0
+2017-12-02,Championship,2017-18,Millwall,Sheffield United,3,1,3,4,0,1,0,0,4,7,1,0,1,1
+2017-12-02,Championship,2017-18,Sheffield Weds,Hull,2,2,6,2,3,2,0,0,4,8,5,0,1,1
+2017-12-02,Championship,2017-18,Preston,QPR,1,0,9,3,2,2,0,2,1,12,4,2,0,0
+2017-12-02,Championship,2017-18,Ipswich,Nott'm Forest,4,2,1,8,2,2,0,0,6,9,4,0,1,1
+2017-12-02,Championship,2017-18,Sunderland,Reading,1,3,3,7,2,2,1,0,4,10,4,1,1,1
+2017-12-02,Championship,2017-18,Bristol City,Middlesbrough,2,1,0,5,2,2,0,0,3,5,4,0,1,1
+2017-12-02,Championship,2017-18,Brentford,Fulham,3,1,6,3,1,3,0,1,4,9,4,1,1,1
+2017-12-02,Championship,2017-18,Bolton,Barnsley,3,1,4,4,4,5,0,0,4,8,9,0,1,1
+2017-12-02,Championship,2017-18,Derby,Burton,1,0,5,4,0,2,0,0,1,9,2,0,0,0
+2017-12-04,Championship,2017-18,Birmingham,Wolves,0,1,3,1,2,2,1,0,1,4,4,1,0,0
+2017-12-08,Championship,2017-18,Sheffield United,Bristol City,1,2,7,4,1,3,1,0,3,11,4,1,1,1
+2017-12-09,Championship,2017-18,QPR,Leeds,1,3,2,5,2,3,0,0,4,7,5,0,1,1
+2017-12-09,Championship,2017-18,Nott'm Forest,Bolton,3,2,5,3,2,2,0,0,5,8,4,0,1,1
+2017-12-09,Championship,2017-18,Norwich,Sheffield Weds,3,1,3,4,1,0,0,0,4,7,1,0,1,1
+2017-12-09,Championship,2017-18,Middlesbrough,Ipswich,2,0,4,4,3,1,0,0,2,8,4,0,0,0
+2017-12-09,Championship,2017-18,Burton,Preston,1,2,5,7,3,2,0,0,3,12,5,0,1,1
+2017-12-09,Championship,2017-18,Fulham,Birmingham,1,0,11,7,1,1,0,0,1,18,2,0,0,0
+2017-12-09,Championship,2017-18,Wolves,Sunderland,0,0,8,2,1,3,0,1,0,10,4,1,0,0
+2017-12-09,Championship,2017-18,Barnsley,Derby,0,3,6,4,0,1,0,0,3,10,1,0,0,1
+2017-12-09,Championship,2017-18,Aston Villa,Millwall,0,0,11,5,1,3,0,0,0,16,4,0,0,0
+2017-12-09,Championship,2017-18,Hull,Brentford,3,2,9,5,3,2,0,0,5,14,5,0,1,1
+2017-12-11,Championship,2017-18,Reading,Cardiff,2,2,8,3,2,1,0,0,4,11,3,0,1,1
+2017-12-15,Championship,2017-18,Sheffield Weds,Wolves,0,1,7,2,1,3,1,0,1,9,4,1,0,0
+2017-12-16,Championship,2017-18,Birmingham,QPR,1,2,7,3,1,2,0,0,3,10,3,0,1,1
+2017-12-16,Championship,2017-18,Sunderland,Fulham,1,0,1,9,1,2,0,0,1,10,3,0,0,0
+2017-12-16,Championship,2017-18,Preston,Sheffield United,1,0,6,7,2,0,0,0,1,13,2,0,0,0
+2017-12-16,Championship,2017-18,Leeds,Norwich,1,0,5,4,3,2,0,0,1,9,5,0,0,0
+2017-12-16,Championship,2017-18,Ipswich,Reading,2,0,8,14,3,4,0,0,2,22,7,0,0,0
+2017-12-16,Championship,2017-18,Millwall,Middlesbrough,2,1,7,2,3,2,0,0,3,9,5,0,1,1
+2017-12-16,Championship,2017-18,Cardiff,Hull,1,0,3,2,1,0,0,0,1,5,1,0,0,0
+2017-12-16,Championship,2017-18,Bristol City,Nott'm Forest,2,1,6,3,2,2,0,0,3,9,4,0,1,1
+2017-12-16,Championship,2017-18,Brentford,Barnsley,0,0,13,3,1,2,0,0,0,16,3,0,0,0
+2017-12-16,Championship,2017-18,Bolton,Burton,0,1,8,3,0,0,0,0,1,11,0,0,0,0
+2017-12-16,Championship,2017-18,Derby,Aston Villa,2,0,7,8,0,0,0,0,2,15,0,0,0,0
+2017-12-22,Championship,2017-18,Norwich,Brentford,1,2,2,3,2,2,0,0,3,5,4,0,1,1
+2017-12-23,Championship,2017-18,QPR,Bristol City,1,1,5,8,1,3,0,0,2,13,4,0,1,0
+2017-12-23,Championship,2017-18,Sunderland,Birmingham,1,1,6,2,0,3,0,1,2,8,3,1,1,0
+2017-12-23,Championship,2017-18,Sheffield Weds,Middlesbrough,1,2,4,4,2,1,0,0,3,8,3,0,1,1
+2017-12-23,Championship,2017-18,Reading,Burton,1,2,3,3,0,1,0,0,3,6,1,0,1,1
+2017-12-23,Championship,2017-18,Preston,Nott'm Forest,1,1,9,5,2,4,0,0,2,14,6,0,1,0
+2017-12-23,Championship,2017-18,Wolves,Ipswich,1,0,4,5,1,3,0,0,1,9,4,0,0,0
+2017-12-23,Championship,2017-18,Fulham,Barnsley,2,1,10,4,1,2,0,0,3,14,3,0,1,1
+2017-12-23,Championship,2017-18,Aston Villa,Sheffield United,2,2,2,4,0,3,0,0,4,6,3,0,1,1
+2017-12-23,Championship,2017-18,Leeds,Hull,1,0,2,8,0,2,0,0,1,10,2,0,0,0
+2017-12-23,Championship,2017-18,Derby,Millwall,3,0,6,11,0,1,0,0,3,17,1,0,0,1
+2017-12-23,Championship,2017-18,Bolton,Cardiff,2,0,3,6,3,4,0,0,2,9,7,0,0,0
+2017-12-26,Championship,2017-18,Barnsley,Preston,0,0,1,4,1,3,0,0,0,5,4,0,0,0
+2017-12-26,Championship,2017-18,Birmingham,Norwich,0,2,4,4,1,2,0,0,2,8,3,0,0,0
+2017-12-26,Championship,2017-18,Brentford,Aston Villa,2,1,10,5,2,1,0,0,3,15,3,0,1,1
+2017-12-26,Championship,2017-18,Bristol City,Reading,2,0,6,5,3,2,0,0,2,11,5,0,0,0
+2017-12-26,Championship,2017-18,Burton,Leeds,1,2,0,3,3,2,0,0,3,3,5,0,1,1
+2017-12-26,Championship,2017-18,Cardiff,Fulham,2,4,7,2,1,4,0,0,6,9,5,0,1,1
+2017-12-26,Championship,2017-18,Hull,Derby,0,0,4,3,2,3,0,0,0,7,5,0,0,0
+2017-12-26,Championship,2017-18,Ipswich,QPR,0,0,5,6,1,0,0,1,0,11,1,1,0,0
+2017-12-26,Championship,2017-18,Middlesbrough,Bolton,2,0,2,4,2,3,0,0,2,6,5,0,0,0
+2017-12-26,Championship,2017-18,Millwall,Wolves,2,2,7,8,3,3,0,0,4,15,6,0,1,1
+2017-12-26,Championship,2017-18,Nott'm Forest,Sheffield Weds,0,3,4,8,2,0,0,0,3,12,2,0,0,1
+2017-12-26,Championship,2017-18,Sheffield United,Sunderland,3,0,6,0,1,2,0,0,3,6,3,0,0,1
+2017-12-29,Championship,2017-18,Millwall,QPR,1,0,6,3,1,1,0,0,1,9,2,0,0,0
+2017-12-29,Championship,2017-18,Cardiff,Preston,0,1,4,7,2,4,0,0,1,11,6,0,0,0
+2017-12-30,Championship,2017-18,Barnsley,Reading,1,1,7,5,0,1,0,0,2,12,1,0,1,0
+2017-12-30,Championship,2017-18,Birmingham,Leeds,1,0,8,3,1,2,0,0,1,11,3,0,0,0
+2017-12-30,Championship,2017-18,Brentford,Sheffield Weds,2,0,7,5,1,3,0,0,2,12,4,0,0,0
+2017-12-30,Championship,2017-18,Bristol City,Wolves,1,2,6,3,0,1,1,1,3,9,1,2,1,1
+2017-12-30,Championship,2017-18,Burton,Norwich,0,0,3,4,1,1,0,0,0,7,2,0,0,0
+2017-12-30,Championship,2017-18,Hull,Fulham,2,2,4,6,0,1,0,0,4,10,1,0,1,1
+2017-12-30,Championship,2017-18,Ipswich,Derby,1,2,9,5,1,0,0,0,3,14,1,0,1,1
+2017-12-30,Championship,2017-18,Middlesbrough,Aston Villa,0,1,5,9,3,4,0,0,1,14,7,0,0,0
+2017-12-30,Championship,2017-18,Nott'm Forest,Sunderland,0,1,5,1,1,0,0,0,1,6,1,0,0,0
+2017-12-30,Championship,2017-18,Sheffield United,Bolton,0,1,8,5,2,2,0,0,1,13,4,0,0,0
+2018-01-01,Championship,2017-18,Preston,Middlesbrough,2,3,7,4,2,4,0,0,5,11,6,0,1,1
+2018-01-01,Championship,2017-18,Sheffield Weds,Burton,0,3,6,1,2,1,0,0,3,7,3,0,0,1
+2018-01-01,Championship,2017-18,QPR,Cardiff,2,1,4,5,2,2,0,0,3,9,4,0,1,1
+2018-01-01,Championship,2017-18,Norwich,Millwall,2,1,5,4,0,1,0,0,3,9,1,0,1,1
+2018-01-01,Championship,2017-18,Sunderland,Barnsley,0,1,7,7,1,5,0,0,1,14,6,0,0,0
+2018-01-01,Championship,2017-18,Derby,Sheffield United,1,1,2,13,1,3,0,0,2,15,4,0,1,0
+2018-01-01,Championship,2017-18,Bolton,Hull,1,0,5,9,3,3,0,0,1,14,6,0,0,0
+2018-01-01,Championship,2017-18,Aston Villa,Bristol City,5,0,5,3,0,1,0,0,5,8,1,0,0,1
+2018-01-01,Championship,2017-18,Leeds,Nott'm Forest,0,0,2,8,2,2,0,0,0,10,4,0,0,0
+2018-01-02,Championship,2017-18,Wolves,Brentford,3,0,6,7,2,3,0,0,3,13,5,0,0,1
+2018-01-02,Championship,2017-18,Fulham,Ipswich,4,1,8,2,3,4,0,1,5,10,7,1,1,1
+2018-01-02,Championship,2017-18,Reading,Birmingham,0,2,9,7,1,0,0,0,2,16,1,0,0,0
+2018-01-12,Championship,2017-18,Sheffield United,Sheffield Weds,0,0,8,2,0,3,0,1,0,10,3,1,0,0
+2018-01-13,Championship,2017-18,Nott'm Forest,Aston Villa,0,1,4,2,2,2,0,0,1,6,4,0,0,0
+2018-01-13,Championship,2017-18,Millwall,Preston,1,1,3,4,1,2,0,0,2,7,3,0,1,0
+2018-01-13,Championship,2017-18,Middlesbrough,Fulham,0,1,5,1,4,3,0,0,1,6,7,0,0,0
+2018-01-13,Championship,2017-18,Hull,Reading,0,0,6,7,1,0,0,0,0,13,1,0,0,0
+2018-01-13,Championship,2017-18,Cardiff,Sunderland,4,0,8,1,1,2,0,1,4,9,3,1,0,1
+2018-01-13,Championship,2017-18,Ipswich,Leeds,1,0,4,1,2,2,0,1,1,5,4,1,0,0
+2018-01-13,Championship,2017-18,Bristol City,Norwich,0,1,8,4,1,5,0,0,1,12,6,0,0,0
+2018-01-13,Championship,2017-18,Brentford,Bolton,2,0,6,6,0,5,0,0,2,12,5,0,0,0
+2018-01-13,Championship,2017-18,Birmingham,Derby,0,3,6,4,1,3,0,0,3,10,4,0,0,1
+2018-01-13,Championship,2017-18,Barnsley,Wolves,0,0,1,6,1,2,0,0,0,7,3,0,0,0
+2018-01-13,Championship,2017-18,Burton,QPR,1,3,5,3,3,2,0,0,4,8,5,0,1,1
+2018-01-19,Championship,2017-18,Derby,Bristol City,0,0,6,3,1,1,0,0,0,9,2,0,0,0
+2018-01-20,Championship,2017-18,Reading,Brentford,0,1,7,4,3,4,0,0,1,11,7,0,0,0
+2018-01-20,Championship,2017-18,Wolves,Nott'm Forest,0,2,5,4,3,3,0,0,2,9,6,0,0,0
+2018-01-20,Championship,2017-18,Sunderland,Hull,1,0,4,7,4,2,0,0,1,11,6,0,0,0
+2018-01-20,Championship,2017-18,Sheffield Weds,Cardiff,0,0,3,5,1,3,0,0,0,8,4,0,0,0
+2018-01-20,Championship,2017-18,QPR,Middlesbrough,0,3,3,2,0,0,0,0,3,5,0,0,0,1
+2018-01-20,Championship,2017-18,Bolton,Ipswich,1,1,3,3,1,1,0,0,2,6,2,0,1,0
+2018-01-20,Championship,2017-18,Norwich,Sheffield United,1,2,6,2,2,2,0,0,3,8,4,0,1,1
+2018-01-20,Championship,2017-18,Leeds,Millwall,3,4,1,9,3,2,1,0,7,10,5,1,1,1
+2018-01-20,Championship,2017-18,Fulham,Burton,6,0,3,1,0,2,0,0,6,4,2,0,0,1
+2018-01-20,Championship,2017-18,Aston Villa,Barnsley,3,1,8,6,0,2,0,0,4,14,2,0,1,1
+2018-01-20,Championship,2017-18,Preston,Birmingham,1,1,4,8,2,2,0,0,2,12,4,0,1,0
+2018-01-27,Championship,2017-18,Barnsley,Fulham,1,3,6,3,2,2,1,0,4,9,4,1,1,1
+2018-01-27,Championship,2017-18,Brentford,Norwich,0,1,6,4,2,2,0,0,1,10,4,0,0,0
+2018-01-27,Championship,2017-18,Bristol City,QPR,2,0,6,7,1,3,1,0,2,13,4,1,0,0
+2018-01-27,Championship,2017-18,Ipswich,Wolves,0,1,5,4,3,1,0,0,1,9,4,0,0,0
+2018-01-30,Championship,2017-18,Millwall,Derby,0,0,4,5,2,1,0,0,0,9,3,0,0,0
+2018-01-30,Championship,2017-18,Nott'm Forest,Preston,0,3,4,5,3,1,0,0,3,9,4,0,0,1
+2018-01-30,Championship,2017-18,Sheffield United,Aston Villa,0,1,9,7,2,0,0,0,1,16,2,0,0,0
+2018-01-30,Championship,2017-18,Hull,Leeds,0,0,7,3,5,1,0,0,0,10,6,0,0,0
+2018-01-30,Championship,2017-18,Burton,Reading,1,3,3,6,3,3,0,0,4,9,6,0,1,1
+2018-01-30,Championship,2017-18,Middlesbrough,Sheffield Weds,0,0,9,3,0,2,0,0,0,12,2,0,0,0
+2018-01-30,Championship,2017-18,Birmingham,Sunderland,3,1,3,5,3,3,0,0,4,8,6,0,1,1
+2018-02-02,Championship,2017-18,Bolton,Bristol City,1,0,3,6,2,2,0,0,1,9,4,0,0,0
+2018-02-03,Championship,2017-18,Wolves,Sheffield United,3,0,5,1,0,0,0,1,3,6,0,1,0,1
+2018-02-03,Championship,2017-18,Sunderland,Ipswich,0,2,12,2,1,1,0,0,2,14,2,0,0,0
+2018-02-03,Championship,2017-18,Sheffield Weds,Birmingham,1,3,5,3,1,3,2,0,4,8,4,2,1,1
+2018-02-03,Championship,2017-18,QPR,Barnsley,1,0,4,4,2,1,1,0,1,8,3,1,0,0
+2018-02-03,Championship,2017-18,Preston,Hull,2,1,5,4,2,1,0,0,3,9,3,0,1,1
+2018-02-03,Championship,2017-18,Reading,Millwall,0,2,6,6,3,3,0,0,2,12,6,0,0,0
+2018-02-03,Championship,2017-18,Leeds,Cardiff,1,4,5,5,0,4,1,0,5,10,4,1,1,1
+2018-02-03,Championship,2017-18,Fulham,Nott'm Forest,2,0,10,6,1,2,0,0,2,16,3,0,0,0
+2018-02-03,Championship,2017-18,Derby,Brentford,3,0,6,5,2,2,0,1,3,11,4,1,0,1
+2018-02-03,Championship,2017-18,Aston Villa,Burton,3,2,7,5,3,4,0,0,5,12,7,0,1,1
+2018-02-03,Championship,2017-18,Norwich,Middlesbrough,1,0,5,4,2,1,0,1,1,9,3,1,0,0
+2018-02-09,Championship,2017-18,Millwall,Cardiff,1,1,6,6,2,0,0,0,2,12,2,0,1,0
+2018-02-10,Championship,2017-18,Middlesbrough,Reading,2,1,6,8,2,3,0,0,3,14,5,0,1,1
+2018-02-10,Championship,2017-18,Wolves,QPR,2,1,6,5,0,3,0,0,3,11,3,0,1,1
+2018-02-10,Championship,2017-18,Sheffield United,Leeds,2,1,8,5,3,2,0,0,3,13,5,0,1,1
+2018-02-10,Championship,2017-18,Nott'm Forest,Hull,0,2,2,2,1,1,0,0,2,4,2,0,0,0
+2018-02-10,Championship,2017-18,Ipswich,Burton,0,0,2,5,0,1,0,0,0,7,1,0,0,0
+2018-02-10,Championship,2017-18,Barnsley,Sheffield Weds,1,1,5,8,1,3,0,0,2,13,4,0,1,0
+2018-02-10,Championship,2017-18,Bristol City,Sunderland,3,3,2,4,3,1,0,0,6,6,4,0,1,1
+2018-02-10,Championship,2017-18,Brentford,Preston,1,1,11,5,2,2,0,1,2,16,4,1,1,0
+2018-02-10,Championship,2017-18,Bolton,Fulham,1,1,5,8,2,1,0,0,2,13,3,0,1,0
+2018-02-10,Championship,2017-18,Derby,Norwich,1,1,3,1,2,3,0,0,2,4,5,0,1,0
+2018-02-11,Championship,2017-18,Aston Villa,Birmingham,2,0,10,6,0,2,0,1,2,16,2,1,0,0
+2018-02-13,Championship,2017-18,Cardiff,Bolton,2,0,4,3,0,1,0,0,2,7,1,0,0,0
+2018-02-13,Championship,2017-18,Sheffield Weds,Derby,2,0,1,7,3,3,0,0,2,8,6,0,0,0
+2018-02-17,Championship,2017-18,Sunderland,Brentford,0,2,6,7,3,0,0,0,2,13,3,0,0,0
+2018-02-17,Championship,2017-18,Fulham,Aston Villa,2,0,1,0,1,1,0,0,2,1,2,0,0,0
+2018-02-17,Championship,2017-18,QPR,Bolton,2,0,9,5,0,1,0,1,2,14,1,1,0,0
+2018-02-17,Championship,2017-18,Burton,Nott'm Forest,0,0,5,2,1,3,0,1,0,7,4,1,0,0
+2018-02-17,Championship,2017-18,Cardiff,Middlesbrough,1,0,5,3,0,1,0,0,1,8,1,0,0,0
+2018-02-17,Championship,2017-18,Birmingham,Millwall,0,1,7,7,2,1,0,0,1,14,3,0,0,0
+2018-02-17,Championship,2017-18,Preston,Wolves,1,1,4,5,2,0,1,0,2,9,2,1,1,0
+2018-02-18,Championship,2017-18,Leeds,Bristol City,2,2,5,6,2,3,0,0,4,11,5,0,1,1
+2018-02-18,Championship,2017-18,Norwich,Ipswich,1,1,4,5,1,5,0,0,2,9,6,0,1,0
+2018-02-20,Championship,2017-18,Aston Villa,Preston,1,1,3,7,3,3,0,0,2,10,6,0,1,0
+2018-02-20,Championship,2017-18,Barnsley,Burton,1,2,5,0,1,4,0,0,3,5,5,0,1,1
+2018-02-20,Championship,2017-18,Bolton,Sunderland,1,0,3,7,4,0,0,0,1,10,4,0,0,0
+2018-02-20,Championship,2017-18,Brentford,Birmingham,5,0,6,3,0,2,0,0,5,9,2,0,0,1
+2018-02-20,Championship,2017-18,Middlesbrough,Hull,3,1,4,4,1,1,0,0,4,8,2,0,1,1
+2018-02-20,Championship,2017-18,Millwall,Sheffield Weds,2,1,4,3,0,4,0,0,3,7,4,0,1,1
+2018-02-20,Championship,2017-18,Nott'm Forest,Reading,1,1,5,5,3,3,0,0,2,10,6,0,1,0
+2018-02-20,Championship,2017-18,Sheffield United,QPR,2,1,9,4,1,0,0,0,3,13,1,0,1,1
+2018-02-21,Championship,2017-18,Ipswich,Cardiff,0,1,8,5,0,1,0,0,1,13,1,0,0,0
+2018-02-21,Championship,2017-18,Wolves,Norwich,2,2,3,4,3,0,0,0,4,7,3,0,1,1
+2018-02-21,Championship,2017-18,Bristol City,Fulham,1,1,8,5,2,1,0,0,2,13,3,0,1,0
+2018-02-21,Championship,2017-18,Derby,Leeds,2,2,10,2,0,1,0,0,4,12,1,0,1,1
+2018-02-23,Championship,2017-18,Hull,Sheffield United,1,0,1,7,1,0,0,0,1,8,1,0,0,0
+2018-02-24,Championship,2017-18,Sunderland,Middlesbrough,3,3,4,2,5,1,1,1,6,6,6,2,1,1
+2018-02-24,Championship,2017-18,Sheffield Weds,Aston Villa,2,4,7,6,3,0,0,0,6,13,3,0,1,1
+2018-02-24,Championship,2017-18,Reading,Derby,3,3,8,3,2,5,0,1,6,11,7,1,1,1
+2018-02-24,Championship,2017-18,Preston,Ipswich,0,1,9,1,1,3,0,0,1,10,4,0,0,0
+2018-02-24,Championship,2017-18,QPR,Nott'm Forest,2,5,7,2,1,2,0,0,7,9,3,0,1,1
+2018-02-24,Championship,2017-18,Leeds,Brentford,1,0,5,9,2,4,0,0,1,14,6,0,0,0
+2018-02-24,Championship,2017-18,Fulham,Wolves,2,0,3,0,1,2,0,0,2,3,3,0,0,0
+2018-02-24,Championship,2017-18,Burton,Millwall,0,1,7,5,1,2,0,0,1,12,3,0,0,0
+2018-02-24,Championship,2017-18,Norwich,Bolton,0,0,8,4,2,5,0,0,0,12,7,0,0,0
+2018-02-24,Championship,2017-18,Birmingham,Barnsley,0,2,5,2,3,0,0,0,2,7,3,0,0,0
+2018-02-25,Championship,2017-18,Cardiff,Bristol City,1,0,4,2,2,1,0,0,1,6,3,0,0,0
+2018-02-27,Championship,2017-18,Hull,Barnsley,1,1,7,0,4,2,0,0,2,7,6,0,1,0
+2018-02-27,Championship,2017-18,Reading,Sheffield United,1,3,6,4,3,2,0,0,4,10,5,0,1,1
+2018-03-02,Championship,2017-18,Middlesbrough,Leeds,3,0,13,5,1,3,0,0,3,18,4,0,0,1
+2018-03-03,Championship,2017-18,Nott'm Forest,Birmingham,2,1,2,8,1,2,0,0,3,10,3,0,1,1
+2018-03-03,Championship,2017-18,Millwall,Sunderland,1,1,8,3,2,1,0,0,2,11,3,0,1,0
+2018-03-03,Championship,2017-18,Derby,Fulham,1,2,7,6,3,2,0,0,3,13,5,0,1,1
+2018-03-03,Championship,2017-18,Bolton,Preston,1,3,4,4,2,4,0,0,4,8,6,0,1,1
+2018-03-03,Championship,2017-18,Bristol City,Sheffield Weds,4,0,3,3,1,3,0,0,4,6,4,0,0,1
+2018-03-06,Championship,2017-18,Sunderland,Aston Villa,0,3,3,8,2,1,0,0,3,11,3,0,0,1
+2018-03-06,Championship,2017-18,Sheffield Weds,Ipswich,1,2,4,6,1,2,0,0,3,10,3,0,1,1
+2018-03-06,Championship,2017-18,Reading,Bolton,1,1,2,10,3,3,0,0,2,12,6,0,1,0
+2018-03-06,Championship,2017-18,Preston,Bristol City,2,1,6,6,5,4,0,1,3,12,9,1,1,1
+2018-03-06,Championship,2017-18,Norwich,Nott'm Forest,0,0,7,4,2,5,0,0,0,11,7,0,0,0
+2018-03-06,Championship,2017-18,QPR,Derby,1,1,5,2,1,3,0,0,2,7,4,0,1,0
+2018-03-06,Championship,2017-18,Fulham,Sheffield United,3,0,3,3,1,4,0,0,3,6,5,0,0,1
+2018-03-06,Championship,2017-18,Cardiff,Barnsley,2,1,2,6,2,3,0,0,3,8,5,0,1,1
+2018-03-06,Championship,2017-18,Burton,Brentford,0,2,3,4,1,1,0,0,2,7,2,0,0,0
+2018-03-06,Championship,2017-18,Birmingham,Middlesbrough,0,1,5,5,1,0,0,0,1,10,1,0,0,0
+2018-03-06,Championship,2017-18,Hull,Millwall,1,2,9,5,2,4,0,0,3,14,6,0,1,1
+2018-03-07,Championship,2017-18,Leeds,Wolves,0,3,3,9,2,0,0,0,3,12,2,0,0,1
+2018-03-10,Championship,2017-18,Preston,Fulham,1,2,6,8,1,1,0,0,3,14,2,0,1,1
+2018-03-10,Championship,2017-18,Sheffield Weds,Bolton,1,1,2,4,0,0,0,0,2,6,0,0,1,0
+2018-03-10,Championship,2017-18,Reading,Leeds,2,2,13,7,2,1,0,0,4,20,3,0,1,1
+2018-03-10,Championship,2017-18,QPR,Sunderland,1,0,5,6,2,1,0,1,1,11,3,1,0,0
+2018-03-10,Championship,2017-18,Millwall,Brentford,1,0,5,7,2,0,0,0,1,12,2,0,0,0
+2018-03-10,Championship,2017-18,Ipswich,Sheffield United,0,0,7,2,2,1,0,0,0,9,3,0,0,0
+2018-03-10,Championship,2017-18,Hull,Norwich,4,3,5,4,2,3,0,0,7,9,5,0,1,1
+2018-03-10,Championship,2017-18,Cardiff,Birmingham,3,2,6,12,3,2,0,0,5,18,5,0,1,1
+2018-03-10,Championship,2017-18,Burton,Bristol City,0,0,5,3,0,1,0,0,0,8,1,0,0,0
+2018-03-10,Championship,2017-18,Aston Villa,Wolves,4,1,2,4,3,5,0,0,5,6,8,0,1,1
+2018-03-10,Championship,2017-18,Middlesbrough,Barnsley,3,1,3,5,0,1,0,0,4,8,1,0,1,1
+2018-03-11,Championship,2017-18,Nott'm Forest,Derby,0,0,6,6,4,1,0,1,0,12,5,1,0,0
+2018-03-13,Championship,2017-18,Brentford,Cardiff,1,3,7,6,1,3,0,0,4,13,4,0,1,1
+2018-03-13,Championship,2017-18,Aston Villa,QPR,1,3,14,2,1,2,0,0,4,16,3,0,1,1
+2018-03-13,Championship,2017-18,Barnsley,Norwich,1,1,4,4,2,1,0,0,2,8,3,0,1,0
+2018-03-13,Championship,2017-18,Ipswich,Hull,0,3,5,1,1,0,0,0,3,6,1,0,0,1
+2018-03-13,Championship,2017-18,Sheffield United,Burton,2,0,7,7,2,1,0,0,2,14,3,0,0,0
+2018-03-13,Championship,2017-18,Wolves,Reading,3,0,8,2,1,2,0,0,3,10,3,0,0,1
+2018-03-17,Championship,2017-18,Sheffield United,Nott'm Forest,0,0,3,5,1,3,0,0,0,8,4,0,0,0
+2018-03-17,Championship,2017-18,Norwich,Reading,3,2,8,2,2,5,0,0,5,10,7,0,1,1
+2018-03-17,Championship,2017-18,Wolves,Burton,3,1,4,4,0,1,0,0,4,8,1,0,1,1
+2018-03-17,Championship,2017-18,Sunderland,Preston,0,2,4,5,0,1,1,0,2,9,1,1,0,0
+2018-03-17,Championship,2017-18,Leeds,Sheffield Weds,1,2,10,4,0,4,0,0,3,14,4,0,1,1
+2018-03-17,Championship,2017-18,Brentford,Middlesbrough,1,1,9,4,2,4,1,0,2,13,6,1,1,0
+2018-03-17,Championship,2017-18,Bristol City,Ipswich,1,0,2,4,1,1,0,0,1,6,2,0,0,0
+2018-03-17,Championship,2017-18,Fulham,QPR,2,2,8,2,2,3,0,0,4,10,5,0,1,1
+2018-03-17,Championship,2017-18,Bolton,Aston Villa,1,0,9,6,1,2,0,0,1,15,3,0,0,0
+2018-03-17,Championship,2017-18,Birmingham,Hull,3,0,8,5,1,0,0,0,3,13,1,0,0,1
+2018-03-17,Championship,2017-18,Barnsley,Millwall,0,2,9,3,0,0,0,0,2,12,0,0,0,0
+2018-03-30,Championship,2017-18,Barnsley,Bristol City,2,2,6,8,1,1,0,0,4,14,2,0,1,1
+2018-03-30,Championship,2017-18,Brentford,Sheffield United,1,1,4,2,0,2,1,1,2,6,2,2,1,0
+2018-03-30,Championship,2017-18,Cardiff,Burton,3,1,6,4,1,2,0,0,4,10,3,0,1,1
+2018-03-30,Championship,2017-18,Derby,Sunderland,1,4,3,7,2,4,0,0,5,10,6,0,1,1
+2018-03-30,Championship,2017-18,Leeds,Bolton,2,1,9,5,2,2,0,0,3,14,4,0,1,1
+2018-03-30,Championship,2017-18,Middlesbrough,Wolves,1,2,6,2,3,3,0,2,3,8,6,2,1,1
+2018-03-30,Championship,2017-18,Millwall,Nott'm Forest,2,0,6,6,3,3,0,0,2,12,6,0,0,0
+2018-03-30,Championship,2017-18,Norwich,Fulham,0,2,5,2,3,4,0,0,2,7,7,0,0,0
+2018-03-30,Championship,2017-18,Reading,QPR,1,0,4,7,2,3,1,0,1,11,5,1,0,0
+2018-03-30,Championship,2017-18,Sheffield Weds,Preston,4,1,2,4,2,1,0,0,5,6,3,0,1,1
+2018-03-31,Championship,2017-18,Hull,Aston Villa,0,0,4,8,1,2,0,0,0,12,3,0,0,0
+2018-03-31,Championship,2017-18,Birmingham,Ipswich,1,0,7,6,2,3,0,0,1,13,5,0,0,0
+2018-04-02,Championship,2017-18,Bristol City,Brentford,0,1,1,9,3,2,0,0,1,10,5,0,0,0
+2018-04-02,Championship,2017-18,Burton,Middlesbrough,1,1,5,5,3,0,0,0,2,10,3,0,1,0
+2018-04-02,Championship,2017-18,Ipswich,Millwall,2,2,4,5,4,0,0,0,4,9,4,0,1,1
+2018-04-02,Championship,2017-18,Preston,Derby,0,1,7,2,2,1,0,0,1,9,3,0,0,0
+2018-04-02,Championship,2017-18,QPR,Norwich,4,1,3,9,2,4,0,0,5,12,6,0,1,1
+2018-04-02,Championship,2017-18,Sheffield United,Cardiff,1,1,10,1,1,1,0,0,2,11,2,0,1,0
+2018-04-02,Championship,2017-18,Sunderland,Sheffield Weds,1,3,8,3,0,1,0,0,4,11,1,0,1,1
+2018-04-03,Championship,2017-18,Aston Villa,Reading,3,0,6,2,0,0,0,1,3,8,0,1,0,1
+2018-04-03,Championship,2017-18,Bolton,Birmingham,0,1,8,6,1,1,0,1,1,14,2,1,0,0
+2018-04-03,Championship,2017-18,Fulham,Leeds,2,0,6,5,3,2,0,0,2,11,5,0,0,0
+2018-04-03,Championship,2017-18,Wolves,Hull,2,2,5,1,0,3,0,0,4,6,3,0,1,1
+2018-04-06,Championship,2017-18,Cardiff,Wolves,0,1,8,3,2,3,0,0,1,11,5,0,0,0
+2018-04-07,Championship,2017-18,Sheffield Weds,Fulham,0,1,1,11,2,0,0,0,1,12,2,0,0,0
+2018-04-07,Championship,2017-18,Millwall,Bristol City,2,0,3,7,1,0,0,0,2,10,1,0,0,0
+2018-04-07,Championship,2017-18,Reading,Preston,1,0,2,4,2,2,0,0,1,6,4,0,0,0
+2018-04-07,Championship,2017-18,Norwich,Aston Villa,3,1,5,7,4,3,0,0,4,12,7,0,1,1
+2018-04-07,Championship,2017-18,Middlesbrough,Nott'm Forest,2,0,5,8,1,2,0,0,2,13,3,0,0,0
+2018-04-07,Championship,2017-18,Brentford,Ipswich,1,0,6,4,2,3,0,0,1,10,5,0,0,0
+2018-04-07,Championship,2017-18,Hull,QPR,4,0,4,10,3,2,0,1,4,14,5,1,0,1
+2018-04-07,Championship,2017-18,Derby,Bolton,3,0,5,5,1,1,0,0,3,10,2,0,0,1
+2018-04-07,Championship,2017-18,Birmingham,Burton,1,1,9,3,2,2,0,0,2,12,4,0,1,0
+2018-04-07,Championship,2017-18,Barnsley,Sheffield United,3,2,3,11,2,2,0,0,5,14,4,0,1,1
+2018-04-07,Championship,2017-18,Leeds,Sunderland,1,1,6,13,3,3,1,0,2,19,6,1,1,0
+2018-04-10,Championship,2017-18,Sheffield United,Middlesbrough,2,1,5,1,1,3,0,1,3,6,4,1,1,1
+2018-04-10,Championship,2017-18,QPR,Sheffield Weds,4,2,7,4,1,1,0,0,6,11,2,0,1,1
+2018-04-10,Championship,2017-18,Preston,Leeds,3,1,9,9,3,2,0,0,4,18,5,0,1,1
+2018-04-10,Championship,2017-18,Nott'm Forest,Brentford,0,1,4,8,2,0,0,0,1,12,2,0,0,0
+2018-04-10,Championship,2017-18,Ipswich,Barnsley,1,0,5,5,1,1,0,0,1,10,2,0,0,0
+2018-04-10,Championship,2017-18,Burton,Hull,0,5,2,4,0,2,0,0,5,6,2,0,0,1
+2018-04-10,Championship,2017-18,Sunderland,Norwich,1,1,5,6,0,0,0,0,2,11,0,0,1,0
+2018-04-10,Championship,2017-18,Bristol City,Birmingham,3,1,4,6,0,1,0,0,4,10,1,0,1,1
+2018-04-10,Championship,2017-18,Bolton,Millwall,0,2,6,5,0,0,0,0,2,11,0,0,0,0
+2018-04-10,Championship,2017-18,Aston Villa,Cardiff,1,0,8,3,4,5,0,0,1,11,9,0,0,0
+2018-04-10,Championship,2017-18,Fulham,Reading,1,0,6,2,1,1,0,1,1,8,2,1,0,0
+2018-04-11,Championship,2017-18,Wolves,Derby,2,0,7,3,1,0,0,0,2,10,1,0,0,0
+2018-04-13,Championship,2017-18,Aston Villa,Leeds,1,0,5,4,0,0,0,0,1,9,0,0,0,0
+2018-04-14,Championship,2017-18,Barnsley,Bolton,2,2,4,9,5,4,0,0,4,13,9,0,1,1
+2018-04-14,Championship,2017-18,Sheffield United,Millwall,1,1,8,9,2,3,0,0,2,17,5,0,1,0
+2018-04-14,Championship,2017-18,QPR,Preston,1,2,5,10,3,1,0,0,3,15,4,0,1,1
+2018-04-14,Championship,2017-18,Nott'm Forest,Ipswich,2,1,8,9,1,1,0,0,3,17,2,0,1,1
+2018-04-14,Championship,2017-18,Norwich,Cardiff,0,2,10,6,1,2,0,0,2,16,3,0,0,0
+2018-04-14,Championship,2017-18,Reading,Sunderland,2,2,3,8,1,1,0,0,4,11,2,0,1,1
+2018-04-14,Championship,2017-18,Hull,Sheffield Weds,0,1,11,5,1,1,0,0,1,16,2,0,0,0
+2018-04-14,Championship,2017-18,Fulham,Brentford,1,1,4,7,1,2,0,0,2,11,3,0,1,0
+2018-04-14,Championship,2017-18,Burton,Derby,3,1,2,5,3,1,0,0,4,7,4,0,1,1
+2018-04-14,Championship,2017-18,Middlesbrough,Bristol City,2,1,4,2,4,2,0,0,3,6,6,0,1,1
+2018-04-15,Championship,2017-18,Wolves,Birmingham,2,0,4,4,0,2,0,1,2,8,2,1,0,0
+2018-04-20,Championship,2017-18,Millwall,Fulham,0,3,2,1,4,1,0,0,3,3,5,0,0,1
+2018-04-21,Championship,2017-18,Sunderland,Burton,1,2,2,8,6,2,0,0,3,10,8,0,1,1
+2018-04-21,Championship,2017-18,Sheffield Weds,Reading,3,0,4,2,0,0,0,1,3,6,0,1,0,1
+2018-04-21,Championship,2017-18,Preston,Norwich,0,0,5,5,3,5,0,0,0,10,8,0,0,0
+2018-04-21,Championship,2017-18,Leeds,Barnsley,2,1,5,9,1,1,0,0,3,14,2,0,1,1
+2018-04-21,Championship,2017-18,Ipswich,Aston Villa,0,4,4,8,0,0,1,0,4,12,0,1,0,1
+2018-04-21,Championship,2017-18,Bristol City,Hull,5,5,6,1,1,4,0,0,10,7,5,0,1,1
+2018-04-21,Championship,2017-18,Cardiff,Nott'm Forest,2,1,6,2,0,3,0,0,3,8,3,0,1,1
+2018-04-21,Championship,2017-18,Brentford,QPR,2,1,11,4,2,4,0,0,3,15,6,0,1,1
+2018-04-21,Championship,2017-18,Bolton,Wolves,0,4,2,5,1,1,0,0,4,7,2,0,0,1
+2018-04-21,Championship,2017-18,Birmingham,Sheffield United,2,1,4,3,1,2,0,0,3,7,3,0,1,1
+2018-04-21,Championship,2017-18,Derby,Middlesbrough,1,2,12,6,3,2,0,0,3,18,5,0,1,1
+2018-04-24,Championship,2017-18,Derby,Cardiff,3,1,9,6,1,4,0,0,4,15,5,0,1,1
+2018-04-24,Championship,2017-18,Nott'm Forest,Barnsley,3,0,8,5,2,1,0,0,3,13,3,0,0,1
+2018-04-27,Championship,2017-18,Fulham,Sunderland,2,1,4,2,2,4,0,0,3,6,6,0,1,1
+2018-04-28,Championship,2017-18,Wolves,Sheffield Weds,0,0,9,4,1,0,0,0,0,13,1,0,0,0
+2018-04-28,Championship,2017-18,Sheffield United,Preston,0,1,13,3,4,3,0,0,1,16,7,0,0,0
+2018-04-28,Championship,2017-18,Reading,Ipswich,0,4,12,4,0,0,0,0,4,16,0,0,0,1
+2018-04-28,Championship,2017-18,Nott'm Forest,Bristol City,0,0,6,2,1,1,0,0,0,8,2,0,0,0
+2018-04-28,Championship,2017-18,Norwich,Leeds,2,1,9,3,1,2,0,0,3,12,3,0,1,1
+2018-04-28,Championship,2017-18,QPR,Birmingham,3,1,3,11,2,1,0,0,4,14,3,0,1,1
+2018-04-28,Championship,2017-18,Hull,Cardiff,0,2,3,5,3,2,0,0,2,8,5,0,0,0
+2018-04-28,Championship,2017-18,Burton,Bolton,2,0,8,5,2,2,0,0,2,13,4,0,0,0
+2018-04-28,Championship,2017-18,Barnsley,Brentford,2,0,3,2,0,1,0,0,2,5,1,0,0,0
+2018-04-28,Championship,2017-18,Aston Villa,Derby,1,1,9,2,0,1,0,0,2,11,1,0,1,0
+2018-04-28,Championship,2017-18,Middlesbrough,Millwall,2,0,3,8,2,3,0,0,2,11,5,0,0,0
+2018-05-06,Championship,2017-18,Preston,Burton,2,1,6,8,1,2,1,0,3,14,3,1,1,1
+2018-05-06,Championship,2017-18,Millwall,Aston Villa,1,0,5,5,1,0,0,0,1,10,1,0,0,0
+2018-05-06,Championship,2017-18,Leeds,QPR,2,0,9,4,3,3,0,0,2,13,6,0,0,0
+2018-05-06,Championship,2017-18,Ipswich,Middlesbrough,2,2,6,11,3,1,0,0,4,17,4,0,1,1
+2018-05-06,Championship,2017-18,Derby,Barnsley,4,1,5,3,1,2,0,0,5,8,3,0,1,1
+2018-05-06,Championship,2017-18,Bristol City,Sheffield United,2,3,2,3,4,2,0,0,5,5,6,0,1,1
+2018-05-06,Championship,2017-18,Brentford,Hull,1,1,14,1,0,0,0,0,2,15,0,0,1,0
+2018-05-06,Championship,2017-18,Bolton,Nott'm Forest,3,2,6,2,3,4,0,0,5,8,7,0,1,1
+2018-05-06,Championship,2017-18,Birmingham,Fulham,3,1,3,4,2,3,0,0,4,7,5,0,1,1
+2018-05-06,Championship,2017-18,Sheffield Weds,Norwich,5,1,1,10,2,1,0,0,6,11,3,0,1,1
+2018-05-06,Championship,2017-18,Cardiff,Reading,0,0,4,2,1,2,0,0,0,6,3,0,0,0
+2018-05-06,Championship,2017-18,Sunderland,Wolves,3,0,7,7,0,0,0,0,3,14,0,0,0,1

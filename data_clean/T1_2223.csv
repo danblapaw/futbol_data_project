@@ -1,343 +1,343 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2022-08-05,Super Lig,2022-23,Istanbulspor,Trabzonspor,0,2,1,10,2,11,0,0
-2022-08-06,Super Lig,2022-23,Sivasspor,Gaziantep,1,1,2,6,2,8,1,0
-2022-08-06,Super Lig,2022-23,Besiktas,Kayserispor,1,0,9,4,1,13,0,0
-2022-08-07,Super Lig,2022-23,Giresunspor,Ad. Demirspor,2,3,6,1,5,7,1,1
-2022-08-07,Super Lig,2022-23,Karagumruk,Alanyaspor,2,4,10,3,6,13,1,1
-2022-08-07,Super Lig,2022-23,Antalyaspor,Galatasaray,0,1,1,6,1,7,0,0
-2022-08-08,Super Lig,2022-23,Buyuksehyr,Kasimpasa,4,0,6,5,4,11,0,1
-2022-08-08,Super Lig,2022-23,Ankaragucu,Konyaspor,0,0,6,3,0,9,0,0
-2022-08-08,Super Lig,2022-23,Fenerbahce,Umraniyespor,3,3,5,5,6,10,1,1
-2022-08-12,Super Lig,2022-23,Trabzonspor,Hatayspor,1,0,11,2,1,13,0,0
-2022-08-13,Super Lig,2022-23,Kayserispor,Istanbulspor,1,0,4,5,1,9,0,0
-2022-08-13,Super Lig,2022-23,Ad. Demirspor,Sivasspor,3,0,7,1,3,8,0,1
-2022-08-13,Super Lig,2022-23,Galatasaray,Giresunspor,0,1,10,3,1,13,0,0
-2022-08-14,Super Lig,2022-23,Gaziantep,Ankaragucu,1,0,9,4,1,13,0,0
-2022-08-14,Super Lig,2022-23,Umraniyespor,Antalyaspor,0,1,4,5,1,9,0,0
-2022-08-14,Super Lig,2022-23,Alanyaspor,Besiktas,3,3,12,1,6,13,1,1
-2022-08-15,Super Lig,2022-23,Konyaspor,Buyuksehyr,0,0,0,5,0,5,0,0
-2022-08-15,Super Lig,2022-23,Kasimpasa,Fenerbahce,0,6,2,8,6,10,0,1
-2022-08-19,Super Lig,2022-23,Umraniyespor,Galatasaray,0,1,3,5,1,8,0,0
-2022-08-20,Super Lig,2022-23,Antalyaspor,Trabzonspor,5,2,3,5,7,8,1,1
-2022-08-20,Super Lig,2022-23,Hatayspor,Gaziantep,1,2,4,3,3,7,1,1
-2022-08-20,Super Lig,2022-23,Giresunspor,Kasimpasa,1,0,8,6,1,14,0,0
-2022-08-21,Super Lig,2022-23,Buyuksehyr,Kayserispor,2,0,4,3,2,7,0,0
-2022-08-21,Super Lig,2022-23,Besiktas,Karagumruk,4,1,6,3,5,9,1,1
-2022-08-22,Super Lig,2022-23,Istanbulspor,Konyaspor,0,4,7,3,4,10,0,1
-2022-08-22,Super Lig,2022-23,Sivasspor,Alanyaspor,1,1,4,6,2,10,1,0
-2022-08-22,Super Lig,2022-23,Fenerbahce,Ad. Demirspor,4,2,2,2,6,4,1,1
-2022-08-26,Super Lig,2022-23,Gaziantep,Antalyaspor,5,2,3,4,7,7,1,1
-2022-08-27,Super Lig,2022-23,Karagumruk,Ankaragucu,4,1,0,7,5,7,1,1
-2022-08-27,Super Lig,2022-23,Ad. Demirspor,Umraniyespor,1,0,4,1,1,5,0,0
-2022-08-27,Super Lig,2022-23,Alanyaspor,Istanbulspor,0,1,9,1,1,10,0,0
-2022-08-28,Super Lig,2022-23,Trabzonspor,Galatasaray,0,0,2,5,0,7,0,0
-2022-08-28,Super Lig,2022-23,Kasimpasa,Hatayspor,1,0,5,4,1,9,0,0
-2022-08-28,Super Lig,2022-23,Kayserispor,Giresunspor,3,0,3,7,3,10,0,1
-2022-08-29,Super Lig,2022-23,Konyaspor,Fenerbahce,1,0,4,2,1,6,0,0
-2022-08-29,Super Lig,2022-23,Besiktas,Sivasspor,3,1,5,4,4,9,1,1
-2022-09-02,Super Lig,2022-23,Umraniyespor,Trabzonspor,0,1,7,5,1,12,0,0
-2022-09-03,Super Lig,2022-23,Giresunspor,Konyaspor,0,1,7,8,1,15,0,0
-2022-09-03,Super Lig,2022-23,Buyuksehyr,Alanyaspor,2,0,3,8,2,11,0,0
-2022-09-03,Super Lig,2022-23,Sivasspor,Karagumruk,0,0,11,6,0,17,0,0
-2022-09-03,Super Lig,2022-23,Fenerbahce,Kayserispor,2,0,3,1,2,4,0,0
-2022-09-04,Super Lig,2022-23,Antalyaspor,Kasimpasa,0,2,8,3,2,11,0,0
-2022-09-04,Super Lig,2022-23,Hatayspor,Ad. Demirspor,1,1,2,5,2,7,1,0
-2022-09-04,Super Lig,2022-23,Ankaragucu,Besiktas,2,3,2,1,5,3,1,1
-2022-09-05,Super Lig,2022-23,Galatasaray,Gaziantep,2,1,7,3,3,10,1,1
-2022-09-09,Super Lig,2022-23,Alanyaspor,Ankaragucu,2,1,4,3,3,7,1,1
-2022-09-10,Super Lig,2022-23,Konyaspor,Hatayspor,1,0,6,4,1,10,0,0
-2022-09-10,Super Lig,2022-23,Karagumruk,Giresunspor,1,1,5,1,2,6,1,0
-2022-09-11,Super Lig,2022-23,Kasimpasa,Galatasaray,2,3,6,8,5,14,1,1
-2022-09-11,Super Lig,2022-23,Kayserispor,Antalyaspor,1,0,3,2,1,5,0,0
-2022-09-11,Super Lig,2022-23,Sivasspor,Istanbulspor,1,1,9,1,2,10,1,0
-2022-09-11,Super Lig,2022-23,Gaziantep,Umraniyespor,1,1,2,3,2,5,1,0
-2022-09-12,Super Lig,2022-23,Besiktas,Buyuksehyr,0,1,5,4,1,9,0,0
-2022-09-12,Super Lig,2022-23,Ad. Demirspor,Trabzonspor,3,2,2,3,5,5,1,1
-2022-09-16,Super Lig,2022-23,Galatasaray,Konyaspor,2,1,6,4,3,10,1,1
-2022-09-16,Super Lig,2022-23,Hatayspor,Kayserispor,0,4,8,3,4,11,0,1
-2022-09-17,Super Lig,2022-23,Istanbulspor,Besiktas,2,2,3,5,4,8,1,1
-2022-09-17,Super Lig,2022-23,Umraniyespor,Kasimpasa,1,2,11,5,3,16,1,1
-2022-09-17,Super Lig,2022-23,Antalyaspor,Ad. Demirspor,0,3,6,2,3,8,0,1
-2022-09-18,Super Lig,2022-23,Fenerbahce,Alanyaspor,5,0,12,3,5,15,0,1
-2022-09-18,Super Lig,2022-23,Ankaragucu,Sivasspor,2,1,5,5,3,10,1,1
-2022-09-18,Super Lig,2022-23,Buyuksehyr,Karagumruk,0,0,6,3,0,9,0,0
-2022-09-18,Super Lig,2022-23,Trabzonspor,Gaziantep,3,2,9,2,5,11,1,1
-2022-10-01,Super Lig,2022-23,Kasimpasa,Gaziantep,1,0,4,6,1,10,0,0
-2022-10-01,Super Lig,2022-23,Ankaragucu,Buyuksehyr,1,2,8,6,3,14,1,1
-2022-10-01,Super Lig,2022-23,Kayserispor,Trabzonspor,1,2,7,6,3,13,1,1
-2022-10-01,Super Lig,2022-23,Ad. Demirspor,Galatasaray,0,0,4,7,0,11,0,0
-2022-10-02,Super Lig,2022-23,Besiktas,Fenerbahce,0,0,3,4,0,7,0,0
-2022-10-02,Super Lig,2022-23,Konyaspor,Umraniyespor,1,0,4,8,1,12,0,0
-2022-10-02,Super Lig,2022-23,Alanyaspor,Giresunspor,1,1,11,3,2,14,1,0
-2022-10-02,Super Lig,2022-23,Sivasspor,Hatayspor,1,2,12,4,3,16,1,1
-2022-10-03,Super Lig,2022-23,Karagumruk,Istanbulspor,1,2,5,4,3,9,1,1
-2022-10-07,Super Lig,2022-23,Gaziantep,Ad. Demirspor,1,1,2,5,2,7,1,0
-2022-10-08,Super Lig,2022-23,Istanbulspor,Ankaragucu,1,2,5,2,3,7,1,1
-2022-10-08,Super Lig,2022-23,Antalyaspor,Konyaspor,1,1,2,3,2,5,1,0
-2022-10-08,Super Lig,2022-23,Giresunspor,Besiktas,0,1,5,8,1,13,0,0
-2022-10-09,Super Lig,2022-23,Hatayspor,Alanyaspor,1,0,5,5,1,10,0,0
-2022-10-09,Super Lig,2022-23,Umraniyespor,Kayserispor,2,2,3,4,4,7,1,1
-2022-10-09,Super Lig,2022-23,Fenerbahce,Karagumruk,5,4,3,0,9,3,1,1
-2022-10-10,Super Lig,2022-23,Buyuksehyr,Sivasspor,0,2,9,3,2,12,0,0
-2022-10-10,Super Lig,2022-23,Trabzonspor,Kasimpasa,0,0,10,3,0,13,0,0
-2022-10-14,Super Lig,2022-23,Alanyaspor,Antalyaspor,3,2,7,2,5,9,1,1
-2022-10-15,Super Lig,2022-23,Konyaspor,Gaziantep,0,1,8,5,1,13,0,0
-2022-10-15,Super Lig,2022-23,Kayserispor,Galatasaray,2,1,6,15,3,21,1,1
-2022-10-15,Super Lig,2022-23,Kasimpasa,Ad. Demirspor,1,4,9,4,5,13,1,1
-2022-10-15,Super Lig,2022-23,Karagumruk,Hatayspor,3,0,5,6,3,11,0,1
-2022-10-16,Super Lig,2022-23,Buyuksehyr,Istanbulspor,2,0,5,2,2,7,0,0
-2022-10-16,Super Lig,2022-23,Besiktas,Trabzonspor,2,2,4,3,4,7,1,1
-2022-10-17,Super Lig,2022-23,Ankaragucu,Fenerbahce,0,3,5,2,3,7,0,1
-2022-10-17,Super Lig,2022-23,Sivasspor,Giresunspor,3,0,2,0,3,2,0,1
-2022-10-21,Super Lig,2022-23,Antalyaspor,Istanbulspor,2,1,11,4,3,15,1,1
-2022-10-22,Super Lig,2022-23,Trabzonspor,Sivasspor,1,0,4,3,1,7,0,0
-2022-10-22,Super Lig,2022-23,Fenerbahce,Buyuksehyr,1,0,6,3,1,9,0,0
-2022-10-22,Super Lig,2022-23,Umraniyespor,Karagumruk,1,3,5,4,4,9,1,1
-2022-10-23,Super Lig,2022-23,Kasimpasa,Kayserispor,0,1,10,6,1,16,0,0
-2022-10-23,Super Lig,2022-23,Ad. Demirspor,Konyaspor,1,1,2,2,2,4,1,0
-2022-10-23,Super Lig,2022-23,Galatasaray,Alanyaspor,2,2,7,5,4,12,1,1
-2022-10-24,Super Lig,2022-23,Giresunspor,Ankaragucu,1,1,5,2,2,7,1,0
-2022-10-24,Super Lig,2022-23,Hatayspor,Besiktas,2,1,1,11,3,12,1,1
-2022-10-28,Super Lig,2022-23,Karagumruk,Galatasaray,0,2,3,11,2,14,0,0
-2022-10-29,Super Lig,2022-23,Alanyaspor,Gaziantep,2,0,1,4,2,5,0,0
-2022-10-29,Super Lig,2022-23,Konyaspor,Kasimpasa,1,1,6,2,2,8,1,0
-2022-10-30,Super Lig,2022-23,Istanbulspor,Fenerbahce,2,5,2,2,7,4,1,1
-2022-10-30,Super Lig,2022-23,Kayserispor,Ad. Demirspor,2,2,8,3,4,11,1,1
-2022-10-30,Super Lig,2022-23,Ankaragucu,Hatayspor,4,1,6,5,5,11,1,1
-2022-10-30,Super Lig,2022-23,Besiktas,Umraniyespor,5,2,9,4,7,13,1,1
-2022-10-31,Super Lig,2022-23,Buyuksehyr,Giresunspor,3,1,2,4,4,6,1,1
-2022-10-31,Super Lig,2022-23,Sivasspor,Antalyaspor,0,2,2,3,2,5,0,0
-2022-11-04,Super Lig,2022-23,Kasimpasa,Ankaragucu,1,1,4,0,2,4,1,0
-2022-11-04,Super Lig,2022-23,Umraniyespor,Alanyaspor,3,1,4,7,4,11,1,1
-2022-11-05,Super Lig,2022-23,Giresunspor,Istanbulspor,3,2,9,2,5,11,1,1
-2022-11-05,Super Lig,2022-23,Galatasaray,Besiktas,2,1,10,7,3,17,1,1
-2022-11-06,Super Lig,2022-23,Trabzonspor,Konyaspor,2,2,5,3,4,8,1,1
-2022-11-06,Super Lig,2022-23,Antalyaspor,Karagumruk,4,2,9,1,6,10,1,1
-2022-11-06,Super Lig,2022-23,Gaziantep,Kayserispor,1,2,4,6,3,10,1,1
-2022-11-07,Super Lig,2022-23,Fenerbahce,Sivasspor,1,0,2,3,1,5,0,0
-2022-11-07,Super Lig,2022-23,Hatayspor,Buyuksehyr,3,3,1,5,6,6,1,1
-2022-11-11,Super Lig,2022-23,Alanyaspor,Ad. Demirspor,0,0,4,6,0,10,0,0
-2022-11-11,Super Lig,2022-23,Ankaragucu,Trabzonspor,1,1,5,4,2,9,1,0
-2022-11-12,Super Lig,2022-23,Sivasspor,Umraniyespor,2,2,6,5,4,11,1,1
-2022-11-12,Super Lig,2022-23,Fenerbahce,Giresunspor,1,2,6,3,3,9,1,1
-2022-11-12,Super Lig,2022-23,Buyuksehyr,Galatasaray,0,7,2,6,7,8,0,1
-2022-11-13,Super Lig,2022-23,Istanbulspor,Hatayspor,0,1,5,3,1,8,0,0
-2022-11-13,Super Lig,2022-23,Kayserispor,Konyaspor,1,2,9,2,3,11,1,1
-2022-11-13,Super Lig,2022-23,Karagumruk,Gaziantep,3,3,7,5,6,12,1,1
-2022-12-23,Super Lig,2022-23,Umraniyespor,Buyuksehyr,1,3,1,2,4,3,1,1
-2022-12-23,Super Lig,2022-23,Antalyaspor,Ankaragucu,0,2,1,6,2,7,0,0
-2022-12-24,Super Lig,2022-23,Hatayspor,Giresunspor,1,1,4,4,2,8,1,0
-2022-12-24,Super Lig,2022-23,Kasimpasa,Sivasspor,1,2,4,6,3,10,1,1
-2022-12-24,Super Lig,2022-23,Trabzonspor,Fenerbahce,2,0,5,2,2,7,0,0
-2022-12-25,Super Lig,2022-23,Ad. Demirspor,Karagumruk,2,1,4,4,3,8,1,1
-2022-12-25,Super Lig,2022-23,Gaziantep,Besiktas,1,1,2,4,2,6,1,0
-2022-12-25,Super Lig,2022-23,Konyaspor,Alanyaspor,2,2,4,5,4,9,1,1
-2022-12-25,Super Lig,2022-23,Galatasaray,Istanbulspor,2,1,12,5,3,17,1,1
-2022-12-27,Super Lig,2022-23,Buyuksehyr,Antalyaspor,2,0,1,3,2,4,0,0
-2022-12-27,Super Lig,2022-23,Fenerbahce,Hatayspor,4,0,11,0,4,11,0,1
-2022-12-27,Super Lig,2022-23,Ankaragucu,Umraniyespor,1,2,8,5,3,13,1,1
-2022-12-28,Super Lig,2022-23,Alanyaspor,Kayserispor,3,1,0,7,4,7,1,1
-2022-12-28,Super Lig,2022-23,Istanbulspor,Kasimpasa,2,1,3,5,3,8,1,1
-2022-12-28,Super Lig,2022-23,Karagumruk,Trabzonspor,4,1,4,4,5,8,1,1
-2022-12-29,Super Lig,2022-23,Giresunspor,Gaziantep,2,1,6,3,3,9,1,1
-2022-12-29,Super Lig,2022-23,Sivasspor,Galatasaray,1,2,2,3,3,5,1,1
-2022-12-29,Super Lig,2022-23,Besiktas,Ad. Demirspor,1,0,7,4,1,11,0,0
-2023-01-03,Super Lig,2022-23,Umraniyespor,Hatayspor,2,2,5,2,4,7,1,1
-2023-01-03,Super Lig,2022-23,Antalyaspor,Fenerbahce,1,2,3,8,3,11,1,1
-2023-01-04,Super Lig,2022-23,Konyaspor,Sivasspor,2,2,4,3,4,7,1,1
-2023-01-04,Super Lig,2022-23,Galatasaray,Ankaragucu,2,1,6,4,3,10,1,1
-2023-01-04,Super Lig,2022-23,Kayserispor,Karagumruk,2,4,6,2,6,8,1,1
-2023-01-04,Super Lig,2022-23,Kasimpasa,Alanyaspor,4,1,1,7,5,8,1,1
-2023-01-05,Super Lig,2022-23,Gaziantep,Buyuksehyr,1,1,5,5,2,10,1,0
-2023-01-05,Super Lig,2022-23,Ad. Demirspor,Istanbulspor,6,0,4,5,6,9,0,1
-2023-01-05,Super Lig,2022-23,Trabzonspor,Giresunspor,3,0,10,1,3,11,0,1
-2023-01-07,Super Lig,2022-23,Hatayspor,Antalyaspor,0,0,3,2,0,5,0,0
-2023-01-07,Super Lig,2022-23,Besiktas,Kasimpasa,2,1,6,7,3,13,1,1
-2023-01-08,Super Lig,2022-23,Giresunspor,Umraniyespor,0,1,14,7,1,21,0,0
-2023-01-08,Super Lig,2022-23,Fenerbahce,Galatasaray,0,3,8,4,3,12,0,1
-2023-01-08,Super Lig,2022-23,Karagumruk,Konyaspor,3,3,1,6,6,7,1,1
-2023-01-08,Super Lig,2022-23,Ankaragucu,Kayserispor,2,1,8,2,3,10,1,1
-2023-01-09,Super Lig,2022-23,Buyuksehyr,Ad. Demirspor,2,1,6,4,3,10,1,1
-2023-01-09,Super Lig,2022-23,Alanyaspor,Trabzonspor,5,0,2,4,5,6,0,1
-2023-01-09,Super Lig,2022-23,Istanbulspor,Gaziantep,1,1,7,3,2,10,1,0
-2023-01-13,Super Lig,2022-23,Kayserispor,Sivasspor,4,1,5,4,5,9,1,1
-2023-01-13,Super Lig,2022-23,Galatasaray,Hatayspor,4,0,8,3,4,11,0,1
-2023-01-14,Super Lig,2022-23,Konyaspor,Besiktas,1,2,4,5,3,9,1,1
-2023-01-14,Super Lig,2022-23,Antalyaspor,Giresunspor,2,2,5,4,4,9,1,1
-2023-01-14,Super Lig,2022-23,Ad. Demirspor,Ankaragucu,3,1,5,13,4,18,1,1
-2023-01-14,Super Lig,2022-23,Trabzonspor,Buyuksehyr,1,0,2,10,1,12,0,0
-2023-01-15,Super Lig,2022-23,Kasimpasa,Karagumruk,2,2,5,8,4,13,1,1
-2023-01-15,Super Lig,2022-23,Umraniyespor,Istanbulspor,0,2,12,2,2,14,0,0
-2023-01-15,Super Lig,2022-23,Gaziantep,Fenerbahce,1,2,4,11,3,15,1,1
-2023-01-20,Super Lig,2022-23,Ad. Demirspor,Giresunspor,1,1,17,1,2,18,1,0
-2023-01-21,Super Lig,2022-23,Kasimpasa,Buyuksehyr,1,3,4,8,4,12,1,1
-2023-01-21,Super Lig,2022-23,Galatasaray,Antalyaspor,2,1,16,1,3,17,1,1
-2023-01-22,Super Lig,2022-23,Gaziantep,Sivasspor,1,2,7,4,3,11,1,1
-2023-01-22,Super Lig,2022-23,Alanyaspor,Karagumruk,2,2,7,2,4,9,1,1
-2023-01-22,Super Lig,2022-23,Kayserispor,Besiktas,0,2,5,3,2,8,0,0
-2023-01-22,Super Lig,2022-23,Trabzonspor,Istanbulspor,4,0,6,2,4,8,0,1
-2023-01-23,Super Lig,2022-23,Konyaspor,Ankaragucu,0,1,6,4,1,10,0,0
-2023-01-23,Super Lig,2022-23,Umraniyespor,Fenerbahce,1,2,1,6,3,7,1,1
-2023-01-27,Super Lig,2022-23,Besiktas,Alanyaspor,3,0,3,3,3,6,0,1
-2023-01-28,Super Lig,2022-23,Giresunspor,Galatasaray,0,4,9,3,4,12,0,1
-2023-01-28,Super Lig,2022-23,Antalyaspor,Umraniyespor,3,2,8,2,5,10,1,1
-2023-01-28,Super Lig,2022-23,Sivasspor,Ad. Demirspor,1,2,7,6,3,13,1,1
-2023-01-28,Super Lig,2022-23,Ankaragucu,Gaziantep,0,2,5,11,2,16,0,0
-2023-01-28,Super Lig,2022-23,Hatayspor,Trabzonspor,2,1,4,9,3,13,1,1
-2023-01-29,Super Lig,2022-23,Istanbulspor,Kayserispor,2,4,1,7,6,8,1,1
-2023-01-29,Super Lig,2022-23,Buyuksehyr,Konyaspor,2,0,6,3,2,9,0,0
-2023-01-29,Super Lig,2022-23,Fenerbahce,Kasimpasa,5,1,6,1,6,7,1,1
-2023-01-31,Super Lig,2022-23,Karagumruk,Besiktas,1,1,6,8,2,14,1,0
-2023-01-31,Super Lig,2022-23,Alanyaspor,Sivasspor,0,3,4,4,3,8,0,1
-2023-02-01,Super Lig,2022-23,Trabzonspor,Antalyaspor,2,0,3,4,2,7,0,0
-2023-02-01,Super Lig,2022-23,Galatasaray,Umraniyespor,3,2,13,1,5,14,1,1
-2023-02-01,Super Lig,2022-23,Gaziantep,Hatayspor,4,1,4,2,5,6,1,1
-2023-02-01,Super Lig,2022-23,Kasimpasa,Giresunspor,5,1,4,6,6,10,1,1
-2023-02-02,Super Lig,2022-23,Kayserispor,Buyuksehyr,1,0,5,10,1,15,0,0
-2023-02-02,Super Lig,2022-23,Konyaspor,Istanbulspor,0,1,5,4,1,9,0,0
-2023-02-02,Super Lig,2022-23,Ad. Demirspor,Fenerbahce,1,1,8,3,2,11,1,0
-2023-02-04,Super Lig,2022-23,Ankaragucu,Karagumruk,0,2,10,2,2,12,0,0
-2023-02-04,Super Lig,2022-23,Sivasspor,Besiktas,1,0,3,5,1,8,0,0
-2023-02-04,Super Lig,2022-23,Antalyaspor,Gaziantep,1,0,5,7,1,12,0,0
-2023-02-05,Super Lig,2022-23,Galatasaray,Trabzonspor,2,1,6,5,3,11,1,1
-2023-02-05,Super Lig,2022-23,Hatayspor,Kasimpasa,1,0,5,8,1,13,0,0
-2023-02-05,Super Lig,2022-23,Istanbulspor,Alanyaspor,2,1,1,11,3,12,1,1
-2023-02-25,Super Lig,2022-23,Umraniyespor,Gaziantep,3,0,0,0,3,0,0,1
-2023-02-25,Super Lig,2022-23,Fenerbahce,Konyaspor,4,0,3,1,4,4,0,1
-2023-02-25,Super Lig,2022-23,Giresunspor,Kayserispor,1,2,9,4,3,13,1,1
-2023-02-26,Super Lig,2022-23,Umraniyespor,Ad. Demirspor,1,1,7,7,2,14,1,0
-2023-02-26,Super Lig,2022-23,Besiktas,Antalyaspor,0,0,8,1,0,9,0,0
-2023-03-03,Super Lig,2022-23,Alanyaspor,Buyuksehyr,1,0,2,10,1,12,0,0
-2023-03-04,Super Lig,2022-23,Karagumruk,Sivasspor,4,3,4,5,7,9,1,1
-2023-03-04,Super Lig,2022-23,Trabzonspor,Umraniyespor,1,2,7,3,3,10,1,1
-2023-03-04,Super Lig,2022-23,Kayserispor,Fenerbahce,1,2,10,7,3,17,1,1
-2023-03-05,Super Lig,2022-23,Besiktas,Ankaragucu,2,1,2,6,3,8,1,1
-2023-03-05,Super Lig,2022-23,Konyaspor,Giresunspor,0,0,2,1,0,3,0,0
-2023-03-05,Super Lig,2022-23,Ad. Demirspor,Hatayspor,3,0,0,0,3,0,0,1
-2023-03-05,Super Lig,2022-23,Gaziantep,Galatasaray,0,3,0,0,3,0,0,1
-2023-03-06,Super Lig,2022-23,Kasimpasa,Antalyaspor,3,1,3,7,4,10,1,1
-2023-03-10,Super Lig,2022-23,Giresunspor,Karagumruk,2,2,2,2,4,4,1,1
-2023-03-11,Super Lig,2022-23,Antalyaspor,Kayserispor,4,0,7,2,4,9,0,1
-2023-03-11,Super Lig,2022-23,Galatasaray,Kasimpasa,1,0,7,1,1,8,0,0
-2023-03-12,Super Lig,2022-23,Ankaragucu,Alanyaspor,2,0,4,2,2,6,0,0
-2023-03-12,Super Lig,2022-23,Hatayspor,Konyaspor,0,3,0,0,3,0,0,1
-2023-03-12,Super Lig,2022-23,Trabzonspor,Ad. Demirspor,4,1,7,6,5,13,1,1
-2023-03-12,Super Lig,2022-23,Buyuksehyr,Besiktas,0,2,10,5,2,15,0,0
-2023-03-13,Super Lig,2022-23,Istanbulspor,Sivasspor,3,0,3,3,3,6,0,1
-2023-03-17,Super Lig,2022-23,Konyaspor,Galatasaray,2,1,4,6,3,10,1,1
-2023-03-18,Super Lig,2022-23,Kasimpasa,Umraniyespor,1,1,9,5,2,14,1,0
-2023-03-18,Super Lig,2022-23,Ad. Demirspor,Antalyaspor,2,0,4,2,2,6,0,0
-2023-03-18,Super Lig,2022-23,Besiktas,Istanbulspor,3,1,8,2,4,10,1,1
-2023-03-19,Super Lig,2022-23,Karagumruk,Buyuksehyr,2,2,2,7,4,9,1,1
-2023-03-19,Super Lig,2022-23,Sivasspor,Ankaragucu,2,0,3,5,2,8,0,0
-2023-03-19,Super Lig,2022-23,Alanyaspor,Fenerbahce,1,3,1,7,4,8,1,1
-2023-03-19,Super Lig,2022-23,Gaziantep,Trabzonspor,0,3,0,0,3,0,0,1
-2023-03-19,Super Lig,2022-23,Kayserispor,Hatayspor,3,0,0,0,3,0,0,1
-2023-04-01,Super Lig,2022-23,Galatasaray,Ad. Demirspor,2,0,8,4,2,12,0,0
-2023-04-01,Super Lig,2022-23,Buyuksehyr,Ankaragucu,1,0,3,5,1,8,0,0
-2023-04-01,Super Lig,2022-23,Trabzonspor,Kayserispor,3,4,4,2,7,6,1,1
-2023-04-02,Super Lig,2022-23,Umraniyespor,Konyaspor,2,2,4,7,4,11,1,1
-2023-04-02,Super Lig,2022-23,Giresunspor,Alanyaspor,2,2,7,2,4,9,1,1
-2023-04-02,Super Lig,2022-23,Gaziantep,Kasimpasa,0,3,0,0,3,0,0,1
-2023-04-02,Super Lig,2022-23,Hatayspor,Sivasspor,0,3,0,0,3,0,0,1
-2023-04-02,Super Lig,2022-23,Fenerbahce,Besiktas,2,4,8,2,6,10,1,1
-2023-04-03,Super Lig,2022-23,Istanbulspor,Karagumruk,0,1,8,3,1,11,0,0
-2023-04-07,Super Lig,2022-23,Konyaspor,Antalyaspor,1,1,6,4,2,10,1,0
-2023-04-08,Super Lig,2022-23,Ankaragucu,Istanbulspor,3,2,8,4,5,12,1,1
-2023-04-08,Super Lig,2022-23,Kasimpasa,Trabzonspor,2,0,5,5,2,10,0,0
-2023-04-09,Super Lig,2022-23,Sivasspor,Buyuksehyr,1,1,6,2,2,8,1,0
-2023-04-09,Super Lig,2022-23,Ad. Demirspor,Gaziantep,3,0,0,0,3,0,0,1
-2023-04-09,Super Lig,2022-23,Alanyaspor,Hatayspor,3,0,0,0,3,0,0,1
-2023-04-09,Super Lig,2022-23,Besiktas,Giresunspor,3,1,7,3,4,10,1,1
-2023-04-10,Super Lig,2022-23,Kayserispor,Umraniyespor,3,1,5,7,4,12,1,1
-2023-04-10,Super Lig,2022-23,Karagumruk,Fenerbahce,1,2,1,4,3,5,1,1
-2023-04-14,Super Lig,2022-23,Galatasaray,Kayserispor,6,0,2,7,6,9,0,1
-2023-04-14,Super Lig,2022-23,Antalyaspor,Alanyaspor,3,1,4,1,4,5,1,1
-2023-04-15,Super Lig,2022-23,Istanbulspor,Buyuksehyr,1,0,4,6,1,10,0,0
-2023-04-15,Super Lig,2022-23,Fenerbahce,Ankaragucu,2,1,8,7,3,15,1,1
-2023-04-15,Super Lig,2022-23,Ad. Demirspor,Kasimpasa,5,0,7,0,5,7,0,1
-2023-04-16,Super Lig,2022-23,Giresunspor,Sivasspor,1,0,2,6,1,8,0,0
-2023-04-16,Super Lig,2022-23,Gaziantep,Konyaspor,0,3,0,0,3,0,0,1
-2023-04-16,Super Lig,2022-23,Hatayspor,Karagumruk,0,3,0,0,3,0,0,1
-2023-04-16,Super Lig,2022-23,Trabzonspor,Besiktas,0,0,6,8,0,14,0,0
-2023-04-18,Super Lig,2022-23,Alanyaspor,Galatasaray,1,4,6,3,5,9,1,1
-2023-04-18,Super Lig,2022-23,Karagumruk,Umraniyespor,4,2,5,8,6,13,1,1
-2023-04-19,Super Lig,2022-23,Konyaspor,Ad. Demirspor,1,2,6,3,3,9,1,1
-2023-04-19,Super Lig,2022-23,Besiktas,Hatayspor,3,0,0,0,3,0,0,1
-2023-04-19,Super Lig,2022-23,Buyuksehyr,Fenerbahce,1,2,5,4,3,9,1,1
-2023-04-19,Super Lig,2022-23,Istanbulspor,Antalyaspor,3,3,3,5,6,8,1,1
-2023-04-19,Super Lig,2022-23,Kayserispor,Kasimpasa,0,0,3,3,0,6,0,0
-2023-04-20,Super Lig,2022-23,Ankaragucu,Giresunspor,3,1,6,2,4,8,1,1
-2023-04-20,Super Lig,2022-23,Sivasspor,Trabzonspor,4,1,6,1,5,7,1,1
-2023-04-22,Super Lig,2022-23,Umraniyespor,Besiktas,0,2,3,9,2,12,0,0
-2023-04-23,Super Lig,2022-23,Hatayspor,Ankaragucu,0,3,0,0,3,0,0,1
-2023-04-23,Super Lig,2022-23,Kasimpasa,Konyaspor,1,2,9,4,3,13,1,1
-2023-04-23,Super Lig,2022-23,Ad. Demirspor,Kayserispor,5,3,5,3,8,8,1,1
-2023-04-23,Super Lig,2022-23,Galatasaray,Karagumruk,3,3,5,4,6,9,1,1
-2023-04-23,Super Lig,2022-23,Gaziantep,Alanyaspor,0,3,0,0,3,0,0,1
-2023-04-24,Super Lig,2022-23,Fenerbahce,Istanbulspor,3,3,6,1,6,7,1,1
-2023-04-24,Super Lig,2022-23,Giresunspor,Buyuksehyr,2,4,9,1,6,10,1,1
-2023-04-24,Super Lig,2022-23,Antalyaspor,Sivasspor,1,2,14,4,3,18,1,1
-2023-04-28,Super Lig,2022-23,Alanyaspor,Umraniyespor,1,0,4,6,1,10,0,0
-2023-04-29,Super Lig,2022-23,Karagumruk,Antalyaspor,0,1,5,5,1,10,0,0
-2023-04-29,Super Lig,2022-23,Konyaspor,Trabzonspor,2,1,6,5,3,11,1,1
-2023-04-29,Super Lig,2022-23,Ankaragucu,Kasimpasa,0,0,5,3,0,8,0,0
-2023-04-29,Super Lig,2022-23,Sivasspor,Fenerbahce,1,3,3,1,4,4,1,1
-2023-04-30,Super Lig,2022-23,Kayserispor,Gaziantep,3,0,0,0,3,0,0,1
-2023-04-30,Super Lig,2022-23,Besiktas,Galatasaray,3,1,4,1,4,5,1,1
-2023-04-30,Super Lig,2022-23,Buyuksehyr,Hatayspor,3,0,0,0,3,0,0,1
-2023-05-01,Super Lig,2022-23,Istanbulspor,Giresunspor,1,0,3,4,1,7,0,0
-2023-05-06,Super Lig,2022-23,Antalyaspor,Besiktas,1,3,3,5,4,8,1,1
-2023-05-06,Super Lig,2022-23,Ad. Demirspor,Alanyaspor,4,2,2,2,6,4,1,1
-2023-05-07,Super Lig,2022-23,Umraniyespor,Sivasspor,4,1,7,7,5,14,1,1
-2023-05-07,Super Lig,2022-23,Konyaspor,Kayserispor,2,2,3,7,4,10,1,1
-2023-05-07,Super Lig,2022-23,Giresunspor,Fenerbahce,1,1,3,11,2,14,1,0
-2023-05-07,Super Lig,2022-23,Gaziantep,Karagumruk,0,3,0,0,3,0,0,1
-2023-05-07,Super Lig,2022-23,Hatayspor,Istanbulspor,0,3,0,0,3,0,0,1
-2023-05-08,Super Lig,2022-23,Trabzonspor,Ankaragucu,2,0,5,4,2,9,0,0
-2023-05-08,Super Lig,2022-23,Galatasaray,Buyuksehyr,1,0,10,4,1,14,0,0
-2023-05-16,Super Lig,2022-23,Istanbulspor,Galatasaray,0,2,3,9,2,12,0,0
-2023-05-16,Super Lig,2022-23,Alanyaspor,Konyaspor,0,3,3,3,3,6,0,1
-2023-05-16,Super Lig,2022-23,Sivasspor,Kasimpasa,1,2,6,1,3,7,1,1
-2023-05-17,Super Lig,2022-23,Buyuksehyr,Umraniyespor,1,1,3,4,2,7,1,0
-2023-05-17,Super Lig,2022-23,Ankaragucu,Antalyaspor,1,1,3,2,2,5,1,0
-2023-05-17,Super Lig,2022-23,Besiktas,Gaziantep,3,0,0,0,3,0,0,1
-2023-05-17,Super Lig,2022-23,Giresunspor,Hatayspor,3,0,0,0,3,0,0,1
-2023-05-17,Super Lig,2022-23,Karagumruk,Ad. Demirspor,2,3,1,8,5,9,1,1
-2023-05-18,Super Lig,2022-23,Fenerbahce,Trabzonspor,3,1,9,3,4,12,1,1
-2023-05-20,Super Lig,2022-23,Galatasaray,Sivasspor,2,0,6,3,2,9,0,0
-2023-05-20,Super Lig,2022-23,Kasimpasa,Istanbulspor,1,0,8,4,1,12,0,0
-2023-05-20,Super Lig,2022-23,Kayserispor,Alanyaspor,0,4,12,2,4,14,0,1
-2023-05-21,Super Lig,2022-23,Hatayspor,Fenerbahce,0,3,0,0,3,0,0,1
-2023-05-21,Super Lig,2022-23,Gaziantep,Giresunspor,0,3,0,0,3,0,0,1
-2023-05-21,Super Lig,2022-23,Umraniyespor,Ankaragucu,1,2,4,9,3,13,1,1
-2023-05-21,Super Lig,2022-23,Ad. Demirspor,Besiktas,1,4,6,8,5,14,1,1
-2023-05-21,Super Lig,2022-23,Antalyaspor,Buyuksehyr,0,0,6,2,0,8,0,0
-2023-05-22,Super Lig,2022-23,Trabzonspor,Karagumruk,4,1,2,1,5,3,1,1
-2023-05-30,Super Lig,2022-23,Istanbulspor,Ad. Demirspor,0,2,16,8,2,24,0,0
-2023-05-30,Super Lig,2022-23,Fenerbahce,Antalyaspor,2,0,8,2,2,10,0,0
-2023-05-30,Super Lig,2022-23,Sivasspor,Konyaspor,1,0,4,2,1,6,0,0
-2023-05-30,Super Lig,2022-23,Karagumruk,Kayserispor,2,0,4,4,2,8,0,0
-2023-05-30,Super Lig,2022-23,Hatayspor,Umraniyespor,0,3,0,0,3,0,0,1
-2023-05-30,Super Lig,2022-23,Buyuksehyr,Gaziantep,3,0,0,0,3,0,0,1
-2023-05-30,Super Lig,2022-23,Ankaragucu,Galatasaray,1,4,4,7,5,11,1,1
-2023-05-30,Super Lig,2022-23,Alanyaspor,Kasimpasa,1,3,5,2,4,7,1,1
-2023-05-30,Super Lig,2022-23,Giresunspor,Trabzonspor,2,4,1,7,6,8,1,1
-2023-06-03,Super Lig,2022-23,Konyaspor,Karagumruk,1,1,3,3,2,6,1,0
-2023-06-03,Super Lig,2022-23,Ad. Demirspor,Buyuksehyr,2,3,9,8,5,17,1,1
-2023-06-03,Super Lig,2022-23,Antalyaspor,Hatayspor,3,0,0,0,3,0,0,1
-2023-06-03,Super Lig,2022-23,Gaziantep,Istanbulspor,0,3,0,0,3,0,0,1
-2023-06-03,Super Lig,2022-23,Kasimpasa,Besiktas,2,5,5,5,7,10,1,1
-2023-06-03,Super Lig,2022-23,Kayserispor,Ankaragucu,0,1,7,1,1,8,0,0
-2023-06-03,Super Lig,2022-23,Trabzonspor,Alanyaspor,5,1,5,2,6,7,1,1
-2023-06-03,Super Lig,2022-23,Umraniyespor,Giresunspor,0,1,5,4,1,9,0,0
-2023-06-04,Super Lig,2022-23,Galatasaray,Fenerbahce,3,0,6,3,3,9,0,1
-2023-06-06,Super Lig,2022-23,Sivasspor,Kayserispor,1,1,6,1,2,7,1,0
-2023-06-06,Super Lig,2022-23,Karagumruk,Kasimpasa,3,0,0,11,3,11,0,1
-2023-06-06,Super Lig,2022-23,Buyuksehyr,Trabzonspor,3,1,3,5,4,8,1,1
-2023-06-07,Super Lig,2022-23,Giresunspor,Antalyaspor,2,0,3,11,2,14,0,0
-2023-06-07,Super Lig,2022-23,Fenerbahce,Gaziantep,3,0,0,0,3,0,0,1
-2023-06-07,Super Lig,2022-23,Hatayspor,Galatasaray,0,3,0,0,3,0,0,1
-2023-06-07,Super Lig,2022-23,Ankaragucu,Ad. Demirspor,1,2,7,1,3,8,1,1
-2023-06-07,Super Lig,2022-23,Besiktas,Konyaspor,3,3,9,3,6,12,1,1
-2023-06-07,Super Lig,2022-23,Istanbulspor,Umraniyespor,4,0,8,1,4,9,0,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2022-08-05,Super Lig,2022-23,Istanbulspor,Trabzonspor,0,2,1,10,2,2,0,0,2,11,4,0,0,0
+2022-08-06,Super Lig,2022-23,Sivasspor,Gaziantep,1,1,2,6,2,3,0,0,2,8,5,0,1,0
+2022-08-06,Super Lig,2022-23,Besiktas,Kayserispor,1,0,9,4,5,2,1,1,1,13,7,2,0,0
+2022-08-07,Super Lig,2022-23,Giresunspor,Ad. Demirspor,2,3,6,1,3,2,0,0,5,7,5,0,1,1
+2022-08-07,Super Lig,2022-23,Karagumruk,Alanyaspor,2,4,10,3,2,3,0,0,6,13,5,0,1,1
+2022-08-07,Super Lig,2022-23,Antalyaspor,Galatasaray,0,1,1,6,2,4,0,0,1,7,6,0,0,0
+2022-08-08,Super Lig,2022-23,Buyuksehyr,Kasimpasa,4,0,6,5,2,3,0,0,4,11,5,0,0,1
+2022-08-08,Super Lig,2022-23,Ankaragucu,Konyaspor,0,0,6,3,1,0,0,0,0,9,1,0,0,0
+2022-08-08,Super Lig,2022-23,Fenerbahce,Umraniyespor,3,3,5,5,7,2,0,0,6,10,9,0,1,1
+2022-08-12,Super Lig,2022-23,Trabzonspor,Hatayspor,1,0,11,2,2,3,0,0,1,13,5,0,0,0
+2022-08-13,Super Lig,2022-23,Kayserispor,Istanbulspor,1,0,4,5,3,2,0,0,1,9,5,0,0,0
+2022-08-13,Super Lig,2022-23,Ad. Demirspor,Sivasspor,3,0,7,1,2,0,0,0,3,8,2,0,0,1
+2022-08-13,Super Lig,2022-23,Galatasaray,Giresunspor,0,1,10,3,3,2,0,0,1,13,5,0,0,0
+2022-08-14,Super Lig,2022-23,Gaziantep,Ankaragucu,1,0,9,4,2,3,0,0,1,13,5,0,0,0
+2022-08-14,Super Lig,2022-23,Umraniyespor,Antalyaspor,0,1,4,5,1,2,0,0,1,9,3,0,0,0
+2022-08-14,Super Lig,2022-23,Alanyaspor,Besiktas,3,3,12,1,3,4,0,1,6,13,7,1,1,1
+2022-08-15,Super Lig,2022-23,Konyaspor,Buyuksehyr,0,0,0,5,1,3,0,0,0,5,4,0,0,0
+2022-08-15,Super Lig,2022-23,Kasimpasa,Fenerbahce,0,6,2,8,3,1,1,0,6,10,4,1,0,1
+2022-08-19,Super Lig,2022-23,Umraniyespor,Galatasaray,0,1,3,5,6,2,0,0,1,8,8,0,0,0
+2022-08-20,Super Lig,2022-23,Antalyaspor,Trabzonspor,5,2,3,5,1,2,0,0,7,8,3,0,1,1
+2022-08-20,Super Lig,2022-23,Hatayspor,Gaziantep,1,2,4,3,2,3,0,0,3,7,5,0,1,1
+2022-08-20,Super Lig,2022-23,Giresunspor,Kasimpasa,1,0,8,6,3,2,0,0,1,14,5,0,0,0
+2022-08-21,Super Lig,2022-23,Buyuksehyr,Kayserispor,2,0,4,3,5,0,0,0,2,7,5,0,0,0
+2022-08-21,Super Lig,2022-23,Besiktas,Karagumruk,4,1,6,3,3,3,0,0,5,9,6,0,1,1
+2022-08-22,Super Lig,2022-23,Istanbulspor,Konyaspor,0,4,7,3,1,3,0,0,4,10,4,0,0,1
+2022-08-22,Super Lig,2022-23,Sivasspor,Alanyaspor,1,1,4,6,2,2,0,0,2,10,4,0,1,0
+2022-08-22,Super Lig,2022-23,Fenerbahce,Ad. Demirspor,4,2,2,2,3,4,0,1,6,4,7,1,1,1
+2022-08-26,Super Lig,2022-23,Gaziantep,Antalyaspor,5,2,3,4,3,3,0,0,7,7,6,0,1,1
+2022-08-27,Super Lig,2022-23,Karagumruk,Ankaragucu,4,1,0,7,2,3,0,0,5,7,5,0,1,1
+2022-08-27,Super Lig,2022-23,Ad. Demirspor,Umraniyespor,1,0,4,1,2,2,0,0,1,5,4,0,0,0
+2022-08-27,Super Lig,2022-23,Alanyaspor,Istanbulspor,0,1,9,1,3,4,0,1,1,10,7,1,0,0
+2022-08-28,Super Lig,2022-23,Trabzonspor,Galatasaray,0,0,2,5,3,2,0,0,0,7,5,0,0,0
+2022-08-28,Super Lig,2022-23,Kasimpasa,Hatayspor,1,0,5,4,3,1,0,0,1,9,4,0,0,0
+2022-08-28,Super Lig,2022-23,Kayserispor,Giresunspor,3,0,3,7,1,2,0,0,3,10,3,0,0,1
+2022-08-29,Super Lig,2022-23,Konyaspor,Fenerbahce,1,0,4,2,4,0,1,1,1,6,4,2,0,0
+2022-08-29,Super Lig,2022-23,Besiktas,Sivasspor,3,1,5,4,0,2,0,0,4,9,2,0,1,1
+2022-09-02,Super Lig,2022-23,Umraniyespor,Trabzonspor,0,1,7,5,0,3,0,0,1,12,3,0,0,0
+2022-09-03,Super Lig,2022-23,Giresunspor,Konyaspor,0,1,7,8,3,0,0,0,1,15,3,0,0,0
+2022-09-03,Super Lig,2022-23,Buyuksehyr,Alanyaspor,2,0,3,8,1,3,0,0,2,11,4,0,0,0
+2022-09-03,Super Lig,2022-23,Sivasspor,Karagumruk,0,0,11,6,2,2,1,0,0,17,4,1,0,0
+2022-09-03,Super Lig,2022-23,Fenerbahce,Kayserispor,2,0,3,1,2,2,0,0,2,4,4,0,0,0
+2022-09-04,Super Lig,2022-23,Antalyaspor,Kasimpasa,0,2,8,3,2,5,1,0,2,11,7,1,0,0
+2022-09-04,Super Lig,2022-23,Hatayspor,Ad. Demirspor,1,1,2,5,6,2,0,0,2,7,8,0,1,0
+2022-09-04,Super Lig,2022-23,Ankaragucu,Besiktas,2,3,2,1,4,1,1,0,5,3,5,1,1,1
+2022-09-05,Super Lig,2022-23,Galatasaray,Gaziantep,2,1,7,3,4,5,1,0,3,10,9,1,1,1
+2022-09-09,Super Lig,2022-23,Alanyaspor,Ankaragucu,2,1,4,3,2,0,0,0,3,7,2,0,1,1
+2022-09-10,Super Lig,2022-23,Konyaspor,Hatayspor,1,0,6,4,1,1,0,0,1,10,2,0,0,0
+2022-09-10,Super Lig,2022-23,Karagumruk,Giresunspor,1,1,5,1,3,3,0,0,2,6,6,0,1,0
+2022-09-11,Super Lig,2022-23,Kasimpasa,Galatasaray,2,3,6,8,2,0,0,0,5,14,2,0,1,1
+2022-09-11,Super Lig,2022-23,Kayserispor,Antalyaspor,1,0,3,2,2,2,0,0,1,5,4,0,0,0
+2022-09-11,Super Lig,2022-23,Sivasspor,Istanbulspor,1,1,9,1,2,3,0,0,2,10,5,0,1,0
+2022-09-11,Super Lig,2022-23,Gaziantep,Umraniyespor,1,1,2,3,3,3,0,0,2,5,6,0,1,0
+2022-09-12,Super Lig,2022-23,Besiktas,Buyuksehyr,0,1,5,4,3,5,0,0,1,9,8,0,0,0
+2022-09-12,Super Lig,2022-23,Ad. Demirspor,Trabzonspor,3,2,2,3,3,4,0,0,5,5,7,0,1,1
+2022-09-16,Super Lig,2022-23,Galatasaray,Konyaspor,2,1,6,4,4,4,0,1,3,10,8,1,1,1
+2022-09-16,Super Lig,2022-23,Hatayspor,Kayserispor,0,4,8,3,0,1,1,0,4,11,1,1,0,1
+2022-09-17,Super Lig,2022-23,Istanbulspor,Besiktas,2,2,3,5,1,3,0,0,4,8,4,0,1,1
+2022-09-17,Super Lig,2022-23,Umraniyespor,Kasimpasa,1,2,11,5,4,4,0,0,3,16,8,0,1,1
+2022-09-17,Super Lig,2022-23,Antalyaspor,Ad. Demirspor,0,3,6,2,1,3,2,1,3,8,4,3,0,1
+2022-09-18,Super Lig,2022-23,Fenerbahce,Alanyaspor,5,0,12,3,0,2,0,0,5,15,2,0,0,1
+2022-09-18,Super Lig,2022-23,Ankaragucu,Sivasspor,2,1,5,5,3,4,0,0,3,10,7,0,1,1
+2022-09-18,Super Lig,2022-23,Buyuksehyr,Karagumruk,0,0,6,3,0,3,1,1,0,9,3,2,0,0
+2022-09-18,Super Lig,2022-23,Trabzonspor,Gaziantep,3,2,9,2,2,3,0,0,5,11,5,0,1,1
+2022-10-01,Super Lig,2022-23,Kasimpasa,Gaziantep,1,0,4,6,2,1,0,0,1,10,3,0,0,0
+2022-10-01,Super Lig,2022-23,Ankaragucu,Buyuksehyr,1,2,8,6,1,2,0,0,3,14,3,0,1,1
+2022-10-01,Super Lig,2022-23,Kayserispor,Trabzonspor,1,2,7,6,4,4,0,0,3,13,8,0,1,1
+2022-10-01,Super Lig,2022-23,Ad. Demirspor,Galatasaray,0,0,4,7,2,5,1,0,0,11,7,1,0,0
+2022-10-02,Super Lig,2022-23,Besiktas,Fenerbahce,0,0,3,4,2,2,0,0,0,7,4,0,0,0
+2022-10-02,Super Lig,2022-23,Konyaspor,Umraniyespor,1,0,4,8,3,1,0,0,1,12,4,0,0,0
+2022-10-02,Super Lig,2022-23,Alanyaspor,Giresunspor,1,1,11,3,4,2,0,1,2,14,6,1,1,0
+2022-10-02,Super Lig,2022-23,Sivasspor,Hatayspor,1,2,12,4,1,5,0,1,3,16,6,1,1,1
+2022-10-03,Super Lig,2022-23,Karagumruk,Istanbulspor,1,2,5,4,2,2,0,0,3,9,4,0,1,1
+2022-10-07,Super Lig,2022-23,Gaziantep,Ad. Demirspor,1,1,2,5,2,1,1,0,2,7,3,1,1,0
+2022-10-08,Super Lig,2022-23,Istanbulspor,Ankaragucu,1,2,5,2,2,2,0,0,3,7,4,0,1,1
+2022-10-08,Super Lig,2022-23,Antalyaspor,Konyaspor,1,1,2,3,4,4,0,0,2,5,8,0,1,0
+2022-10-08,Super Lig,2022-23,Giresunspor,Besiktas,0,1,5,8,4,3,0,0,1,13,7,0,0,0
+2022-10-09,Super Lig,2022-23,Hatayspor,Alanyaspor,1,0,5,5,2,2,0,0,1,10,4,0,0,0
+2022-10-09,Super Lig,2022-23,Umraniyespor,Kayserispor,2,2,3,4,3,0,1,0,4,7,3,1,1,1
+2022-10-09,Super Lig,2022-23,Fenerbahce,Karagumruk,5,4,3,0,1,4,0,0,9,3,5,0,1,1
+2022-10-10,Super Lig,2022-23,Buyuksehyr,Sivasspor,0,2,9,3,2,0,0,0,2,12,2,0,0,0
+2022-10-10,Super Lig,2022-23,Trabzonspor,Kasimpasa,0,0,10,3,1,3,0,0,0,13,4,0,0,0
+2022-10-14,Super Lig,2022-23,Alanyaspor,Antalyaspor,3,2,7,2,2,2,0,0,5,9,4,0,1,1
+2022-10-15,Super Lig,2022-23,Konyaspor,Gaziantep,0,1,8,5,2,5,0,0,1,13,7,0,0,0
+2022-10-15,Super Lig,2022-23,Kayserispor,Galatasaray,2,1,6,15,2,1,0,0,3,21,3,0,1,1
+2022-10-15,Super Lig,2022-23,Kasimpasa,Ad. Demirspor,1,4,9,4,1,3,0,0,5,13,4,0,1,1
+2022-10-15,Super Lig,2022-23,Karagumruk,Hatayspor,3,0,5,6,3,2,0,0,3,11,5,0,0,1
+2022-10-16,Super Lig,2022-23,Buyuksehyr,Istanbulspor,2,0,5,2,4,1,0,0,2,7,5,0,0,0
+2022-10-16,Super Lig,2022-23,Besiktas,Trabzonspor,2,2,4,3,2,3,0,1,4,7,5,1,1,1
+2022-10-17,Super Lig,2022-23,Ankaragucu,Fenerbahce,0,3,5,2,2,1,0,0,3,7,3,0,0,1
+2022-10-17,Super Lig,2022-23,Sivasspor,Giresunspor,3,0,2,0,0,1,0,0,3,2,1,0,0,1
+2022-10-21,Super Lig,2022-23,Antalyaspor,Istanbulspor,2,1,11,4,3,6,0,1,3,15,9,1,1,1
+2022-10-22,Super Lig,2022-23,Trabzonspor,Sivasspor,1,0,4,3,2,2,0,0,1,7,4,0,0,0
+2022-10-22,Super Lig,2022-23,Fenerbahce,Buyuksehyr,1,0,6,3,1,2,0,0,1,9,3,0,0,0
+2022-10-22,Super Lig,2022-23,Umraniyespor,Karagumruk,1,3,5,4,0,3,0,0,4,9,3,0,1,1
+2022-10-23,Super Lig,2022-23,Kasimpasa,Kayserispor,0,1,10,6,2,1,0,0,1,16,3,0,0,0
+2022-10-23,Super Lig,2022-23,Ad. Demirspor,Konyaspor,1,1,2,2,1,6,0,0,2,4,7,0,1,0
+2022-10-23,Super Lig,2022-23,Galatasaray,Alanyaspor,2,2,7,5,3,3,2,0,4,12,6,2,1,1
+2022-10-24,Super Lig,2022-23,Giresunspor,Ankaragucu,1,1,5,2,3,5,0,0,2,7,8,0,1,0
+2022-10-24,Super Lig,2022-23,Hatayspor,Besiktas,2,1,1,11,4,2,0,0,3,12,6,0,1,1
+2022-10-28,Super Lig,2022-23,Karagumruk,Galatasaray,0,2,3,11,2,1,1,0,2,14,3,1,0,0
+2022-10-29,Super Lig,2022-23,Alanyaspor,Gaziantep,2,0,1,4,2,1,0,0,2,5,3,0,0,0
+2022-10-29,Super Lig,2022-23,Konyaspor,Kasimpasa,1,1,6,2,4,5,0,0,2,8,9,0,1,0
+2022-10-30,Super Lig,2022-23,Istanbulspor,Fenerbahce,2,5,2,2,1,1,0,0,7,4,2,0,1,1
+2022-10-30,Super Lig,2022-23,Kayserispor,Ad. Demirspor,2,2,8,3,3,2,0,0,4,11,5,0,1,1
+2022-10-30,Super Lig,2022-23,Ankaragucu,Hatayspor,4,1,6,5,2,1,0,0,5,11,3,0,1,1
+2022-10-30,Super Lig,2022-23,Besiktas,Umraniyespor,5,2,9,4,2,3,0,0,7,13,5,0,1,1
+2022-10-31,Super Lig,2022-23,Buyuksehyr,Giresunspor,3,1,2,4,1,2,0,0,4,6,3,0,1,1
+2022-10-31,Super Lig,2022-23,Sivasspor,Antalyaspor,0,2,2,3,2,2,0,0,2,5,4,0,0,0
+2022-11-04,Super Lig,2022-23,Kasimpasa,Ankaragucu,1,1,4,0,1,2,0,0,2,4,3,0,1,0
+2022-11-04,Super Lig,2022-23,Umraniyespor,Alanyaspor,3,1,4,7,1,2,0,0,4,11,3,0,1,1
+2022-11-05,Super Lig,2022-23,Giresunspor,Istanbulspor,3,2,9,2,1,5,0,1,5,11,6,1,1,1
+2022-11-05,Super Lig,2022-23,Galatasaray,Besiktas,2,1,10,7,3,4,0,0,3,17,7,0,1,1
+2022-11-06,Super Lig,2022-23,Trabzonspor,Konyaspor,2,2,5,3,3,6,0,1,4,8,9,1,1,1
+2022-11-06,Super Lig,2022-23,Antalyaspor,Karagumruk,4,2,9,1,1,3,0,0,6,10,4,0,1,1
+2022-11-06,Super Lig,2022-23,Gaziantep,Kayserispor,1,2,4,6,3,5,0,0,3,10,8,0,1,1
+2022-11-07,Super Lig,2022-23,Fenerbahce,Sivasspor,1,0,2,3,7,5,1,0,1,5,12,1,0,0
+2022-11-07,Super Lig,2022-23,Hatayspor,Buyuksehyr,3,3,1,5,3,3,0,0,6,6,6,0,1,1
+2022-11-11,Super Lig,2022-23,Alanyaspor,Ad. Demirspor,0,0,4,6,4,1,0,1,0,10,5,1,0,0
+2022-11-11,Super Lig,2022-23,Ankaragucu,Trabzonspor,1,1,5,4,2,2,0,0,2,9,4,0,1,0
+2022-11-12,Super Lig,2022-23,Sivasspor,Umraniyespor,2,2,6,5,1,0,0,0,4,11,1,0,1,1
+2022-11-12,Super Lig,2022-23,Fenerbahce,Giresunspor,1,2,6,3,3,3,1,0,3,9,6,1,1,1
+2022-11-12,Super Lig,2022-23,Buyuksehyr,Galatasaray,0,7,2,6,2,2,0,0,7,8,4,0,0,1
+2022-11-13,Super Lig,2022-23,Istanbulspor,Hatayspor,0,1,5,3,3,4,0,0,1,8,7,0,0,0
+2022-11-13,Super Lig,2022-23,Kayserispor,Konyaspor,1,2,9,2,4,4,0,0,3,11,8,0,1,1
+2022-11-13,Super Lig,2022-23,Karagumruk,Gaziantep,3,3,7,5,1,3,0,0,6,12,4,0,1,1
+2022-12-23,Super Lig,2022-23,Umraniyespor,Buyuksehyr,1,3,1,2,3,1,0,0,4,3,4,0,1,1
+2022-12-23,Super Lig,2022-23,Antalyaspor,Ankaragucu,0,2,1,6,2,2,0,0,2,7,4,0,0,0
+2022-12-24,Super Lig,2022-23,Hatayspor,Giresunspor,1,1,4,4,2,3,0,0,2,8,5,0,1,0
+2022-12-24,Super Lig,2022-23,Kasimpasa,Sivasspor,1,2,4,6,4,2,0,0,3,10,6,0,1,1
+2022-12-24,Super Lig,2022-23,Trabzonspor,Fenerbahce,2,0,5,2,4,5,0,1,2,7,9,1,0,0
+2022-12-25,Super Lig,2022-23,Ad. Demirspor,Karagumruk,2,1,4,4,3,2,0,0,3,8,5,0,1,1
+2022-12-25,Super Lig,2022-23,Gaziantep,Besiktas,1,1,2,4,4,2,0,0,2,6,6,0,1,0
+2022-12-25,Super Lig,2022-23,Konyaspor,Alanyaspor,2,2,4,5,3,4,0,0,4,9,7,0,1,1
+2022-12-25,Super Lig,2022-23,Galatasaray,Istanbulspor,2,1,12,5,4,2,0,0,3,17,6,0,1,1
+2022-12-27,Super Lig,2022-23,Buyuksehyr,Antalyaspor,2,0,1,3,2,2,0,0,2,4,4,0,0,0
+2022-12-27,Super Lig,2022-23,Fenerbahce,Hatayspor,4,0,11,0,2,3,0,0,4,11,5,0,0,1
+2022-12-27,Super Lig,2022-23,Ankaragucu,Umraniyespor,1,2,8,5,1,4,0,0,3,13,5,0,1,1
+2022-12-28,Super Lig,2022-23,Alanyaspor,Kayserispor,3,1,0,7,3,4,0,0,4,7,7,0,1,1
+2022-12-28,Super Lig,2022-23,Istanbulspor,Kasimpasa,2,1,3,5,2,4,0,0,3,8,6,0,1,1
+2022-12-28,Super Lig,2022-23,Karagumruk,Trabzonspor,4,1,4,4,4,1,1,1,5,8,5,2,1,1
+2022-12-29,Super Lig,2022-23,Giresunspor,Gaziantep,2,1,6,3,5,3,0,0,3,9,8,0,1,1
+2022-12-29,Super Lig,2022-23,Sivasspor,Galatasaray,1,2,2,3,4,5,1,0,3,5,9,1,1,1
+2022-12-29,Super Lig,2022-23,Besiktas,Ad. Demirspor,1,0,7,4,5,2,0,0,1,11,7,0,0,0
+2023-01-03,Super Lig,2022-23,Umraniyespor,Hatayspor,2,2,5,2,3,2,1,0,4,7,5,1,1,1
+2023-01-03,Super Lig,2022-23,Antalyaspor,Fenerbahce,1,2,3,8,4,2,0,0,3,11,6,0,1,1
+2023-01-04,Super Lig,2022-23,Konyaspor,Sivasspor,2,2,4,3,4,1,0,0,4,7,5,0,1,1
+2023-01-04,Super Lig,2022-23,Galatasaray,Ankaragucu,2,1,6,4,2,3,0,0,3,10,5,0,1,1
+2023-01-04,Super Lig,2022-23,Kayserispor,Karagumruk,2,4,6,2,1,3,0,0,6,8,4,0,1,1
+2023-01-04,Super Lig,2022-23,Kasimpasa,Alanyaspor,4,1,1,7,2,0,0,0,5,8,2,0,1,1
+2023-01-05,Super Lig,2022-23,Gaziantep,Buyuksehyr,1,1,5,5,2,0,0,0,2,10,2,0,1,0
+2023-01-05,Super Lig,2022-23,Ad. Demirspor,Istanbulspor,6,0,4,5,1,3,0,0,6,9,4,0,0,1
+2023-01-05,Super Lig,2022-23,Trabzonspor,Giresunspor,3,0,10,1,2,2,0,0,3,11,4,0,0,1
+2023-01-07,Super Lig,2022-23,Hatayspor,Antalyaspor,0,0,3,2,2,2,0,0,0,5,4,0,0,0
+2023-01-07,Super Lig,2022-23,Besiktas,Kasimpasa,2,1,6,7,2,4,0,0,3,13,6,0,1,1
+2023-01-08,Super Lig,2022-23,Giresunspor,Umraniyespor,0,1,14,7,2,2,0,0,1,21,4,0,0,0
+2023-01-08,Super Lig,2022-23,Fenerbahce,Galatasaray,0,3,8,4,2,5,1,0,3,12,7,1,0,1
+2023-01-08,Super Lig,2022-23,Karagumruk,Konyaspor,3,3,1,6,5,1,0,0,6,7,6,0,1,1
+2023-01-08,Super Lig,2022-23,Ankaragucu,Kayserispor,2,1,8,2,4,1,0,0,3,10,5,0,1,1
+2023-01-09,Super Lig,2022-23,Buyuksehyr,Ad. Demirspor,2,1,6,4,2,2,0,0,3,10,4,0,1,1
+2023-01-09,Super Lig,2022-23,Alanyaspor,Trabzonspor,5,0,2,4,2,3,0,0,5,6,5,0,0,1
+2023-01-09,Super Lig,2022-23,Istanbulspor,Gaziantep,1,1,7,3,1,1,0,0,2,10,2,0,1,0
+2023-01-13,Super Lig,2022-23,Kayserispor,Sivasspor,4,1,5,4,2,5,0,0,5,9,7,0,1,1
+2023-01-13,Super Lig,2022-23,Galatasaray,Hatayspor,4,0,8,3,0,0,0,0,4,11,0,0,0,1
+2023-01-14,Super Lig,2022-23,Konyaspor,Besiktas,1,2,4,5,1,1,0,0,3,9,2,0,1,1
+2023-01-14,Super Lig,2022-23,Antalyaspor,Giresunspor,2,2,5,4,3,4,1,0,4,9,7,1,1,1
+2023-01-14,Super Lig,2022-23,Ad. Demirspor,Ankaragucu,3,1,5,13,2,1,0,0,4,18,3,0,1,1
+2023-01-14,Super Lig,2022-23,Trabzonspor,Buyuksehyr,1,0,2,10,1,4,0,1,1,12,5,1,0,0
+2023-01-15,Super Lig,2022-23,Kasimpasa,Karagumruk,2,2,5,8,3,2,0,0,4,13,5,0,1,1
+2023-01-15,Super Lig,2022-23,Umraniyespor,Istanbulspor,0,2,12,2,2,4,0,0,2,14,6,0,0,0
+2023-01-15,Super Lig,2022-23,Gaziantep,Fenerbahce,1,2,4,11,5,3,1,0,3,15,8,1,1,1
+2023-01-20,Super Lig,2022-23,Ad. Demirspor,Giresunspor,1,1,17,1,6,4,1,1,2,18,10,2,1,0
+2023-01-21,Super Lig,2022-23,Kasimpasa,Buyuksehyr,1,3,4,8,7,1,1,0,4,12,8,1,1,1
+2023-01-21,Super Lig,2022-23,Galatasaray,Antalyaspor,2,1,16,1,2,3,0,1,3,17,5,1,1,1
+2023-01-22,Super Lig,2022-23,Gaziantep,Sivasspor,1,2,7,4,3,0,0,0,3,11,3,0,1,1
+2023-01-22,Super Lig,2022-23,Alanyaspor,Karagumruk,2,2,7,2,1,1,0,0,4,9,2,0,1,1
+2023-01-22,Super Lig,2022-23,Kayserispor,Besiktas,0,2,5,3,1,2,0,1,2,8,3,1,0,0
+2023-01-22,Super Lig,2022-23,Trabzonspor,Istanbulspor,4,0,6,2,1,0,0,0,4,8,1,0,0,1
+2023-01-23,Super Lig,2022-23,Konyaspor,Ankaragucu,0,1,6,4,3,2,0,0,1,10,5,0,0,0
+2023-01-23,Super Lig,2022-23,Umraniyespor,Fenerbahce,1,2,1,6,3,4,1,0,3,7,7,1,1,1
+2023-01-27,Super Lig,2022-23,Besiktas,Alanyaspor,3,0,3,3,0,2,0,0,3,6,2,0,0,1
+2023-01-28,Super Lig,2022-23,Giresunspor,Galatasaray,0,4,9,3,3,0,0,0,4,12,3,0,0,1
+2023-01-28,Super Lig,2022-23,Antalyaspor,Umraniyespor,3,2,8,2,3,1,0,0,5,10,4,0,1,1
+2023-01-28,Super Lig,2022-23,Sivasspor,Ad. Demirspor,1,2,7,6,0,2,0,0,3,13,2,0,1,1
+2023-01-28,Super Lig,2022-23,Ankaragucu,Gaziantep,0,2,5,11,1,4,0,0,2,16,5,0,0,0
+2023-01-28,Super Lig,2022-23,Hatayspor,Trabzonspor,2,1,4,9,4,2,0,0,3,13,6,0,1,1
+2023-01-29,Super Lig,2022-23,Istanbulspor,Kayserispor,2,4,1,7,0,1,0,0,6,8,1,0,1,1
+2023-01-29,Super Lig,2022-23,Buyuksehyr,Konyaspor,2,0,6,3,0,0,0,0,2,9,0,0,0,0
+2023-01-29,Super Lig,2022-23,Fenerbahce,Kasimpasa,5,1,6,1,2,4,0,0,6,7,6,0,1,1
+2023-01-31,Super Lig,2022-23,Karagumruk,Besiktas,1,1,6,8,1,1,0,0,2,14,2,0,1,0
+2023-01-31,Super Lig,2022-23,Alanyaspor,Sivasspor,0,3,4,4,2,2,0,0,3,8,4,0,0,1
+2023-02-01,Super Lig,2022-23,Trabzonspor,Antalyaspor,2,0,3,4,1,0,0,0,2,7,1,0,0,0
+2023-02-01,Super Lig,2022-23,Galatasaray,Umraniyespor,3,2,13,1,0,3,0,1,5,14,3,1,1,1
+2023-02-01,Super Lig,2022-23,Gaziantep,Hatayspor,4,1,4,2,4,2,0,0,5,6,6,0,1,1
+2023-02-01,Super Lig,2022-23,Kasimpasa,Giresunspor,5,1,4,6,2,2,0,0,6,10,4,0,1,1
+2023-02-02,Super Lig,2022-23,Kayserispor,Buyuksehyr,1,0,5,10,2,3,0,0,1,15,5,0,0,0
+2023-02-02,Super Lig,2022-23,Konyaspor,Istanbulspor,0,1,5,4,2,1,0,0,1,9,3,0,0,0
+2023-02-02,Super Lig,2022-23,Ad. Demirspor,Fenerbahce,1,1,8,3,2,3,0,0,2,11,5,0,1,0
+2023-02-04,Super Lig,2022-23,Ankaragucu,Karagumruk,0,2,10,2,0,1,0,0,2,12,1,0,0,0
+2023-02-04,Super Lig,2022-23,Sivasspor,Besiktas,1,0,3,5,2,2,0,0,1,8,4,0,0,0
+2023-02-04,Super Lig,2022-23,Antalyaspor,Gaziantep,1,0,5,7,3,5,0,1,1,12,8,1,0,0
+2023-02-05,Super Lig,2022-23,Galatasaray,Trabzonspor,2,1,6,5,1,3,0,0,3,11,4,0,1,1
+2023-02-05,Super Lig,2022-23,Hatayspor,Kasimpasa,1,0,5,8,2,3,0,0,1,13,5,0,0,0
+2023-02-05,Super Lig,2022-23,Istanbulspor,Alanyaspor,2,1,1,11,1,0,0,0,3,12,1,0,1,1
+2023-02-25,Super Lig,2022-23,Umraniyespor,Gaziantep,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-02-25,Super Lig,2022-23,Fenerbahce,Konyaspor,4,0,3,1,1,4,0,1,4,4,5,1,0,1
+2023-02-25,Super Lig,2022-23,Giresunspor,Kayserispor,1,2,9,4,3,7,0,0,3,13,10,0,1,1
+2023-02-26,Super Lig,2022-23,Umraniyespor,Ad. Demirspor,1,1,7,7,0,0,0,0,2,14,0,0,1,0
+2023-02-26,Super Lig,2022-23,Besiktas,Antalyaspor,0,0,8,1,1,3,0,0,0,9,4,0,0,0
+2023-03-03,Super Lig,2022-23,Alanyaspor,Buyuksehyr,1,0,2,10,1,2,1,0,1,12,3,1,0,0
+2023-03-04,Super Lig,2022-23,Karagumruk,Sivasspor,4,3,4,5,3,1,0,0,7,9,4,0,1,1
+2023-03-04,Super Lig,2022-23,Trabzonspor,Umraniyespor,1,2,7,3,2,4,1,0,3,10,6,1,1,1
+2023-03-04,Super Lig,2022-23,Kayserispor,Fenerbahce,1,2,10,7,0,1,0,0,3,17,1,0,1,1
+2023-03-05,Super Lig,2022-23,Besiktas,Ankaragucu,2,1,2,6,3,1,0,0,3,8,4,0,1,1
+2023-03-05,Super Lig,2022-23,Konyaspor,Giresunspor,0,0,2,1,3,4,0,0,0,3,7,0,0,0
+2023-03-05,Super Lig,2022-23,Ad. Demirspor,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-03-05,Super Lig,2022-23,Gaziantep,Galatasaray,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-03-06,Super Lig,2022-23,Kasimpasa,Antalyaspor,3,1,3,7,2,1,0,0,4,10,3,0,1,1
+2023-03-10,Super Lig,2022-23,Giresunspor,Karagumruk,2,2,2,2,2,2,0,0,4,4,4,0,1,1
+2023-03-11,Super Lig,2022-23,Antalyaspor,Kayserispor,4,0,7,2,1,0,0,0,4,9,1,0,0,1
+2023-03-11,Super Lig,2022-23,Galatasaray,Kasimpasa,1,0,7,1,3,2,0,0,1,8,5,0,0,0
+2023-03-12,Super Lig,2022-23,Ankaragucu,Alanyaspor,2,0,4,2,2,2,0,0,2,6,4,0,0,0
+2023-03-12,Super Lig,2022-23,Hatayspor,Konyaspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-03-12,Super Lig,2022-23,Trabzonspor,Ad. Demirspor,4,1,7,6,1,1,0,1,5,13,2,1,1,1
+2023-03-12,Super Lig,2022-23,Buyuksehyr,Besiktas,0,2,10,5,0,2,1,0,2,15,2,1,0,0
+2023-03-13,Super Lig,2022-23,Istanbulspor,Sivasspor,3,0,3,3,3,4,0,1,3,6,7,1,0,1
+2023-03-17,Super Lig,2022-23,Konyaspor,Galatasaray,2,1,4,6,6,4,0,0,3,10,10,0,1,1
+2023-03-18,Super Lig,2022-23,Kasimpasa,Umraniyespor,1,1,9,5,1,1,0,0,2,14,2,0,1,0
+2023-03-18,Super Lig,2022-23,Ad. Demirspor,Antalyaspor,2,0,4,2,1,2,0,0,2,6,3,0,0,0
+2023-03-18,Super Lig,2022-23,Besiktas,Istanbulspor,3,1,8,2,0,2,0,0,4,10,2,0,1,1
+2023-03-19,Super Lig,2022-23,Karagumruk,Buyuksehyr,2,2,2,7,2,1,0,0,4,9,3,0,1,1
+2023-03-19,Super Lig,2022-23,Sivasspor,Ankaragucu,2,0,3,5,0,0,0,0,2,8,0,0,0,0
+2023-03-19,Super Lig,2022-23,Alanyaspor,Fenerbahce,1,3,1,7,2,2,0,0,4,8,4,0,1,1
+2023-03-19,Super Lig,2022-23,Gaziantep,Trabzonspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-03-19,Super Lig,2022-23,Kayserispor,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-01,Super Lig,2022-23,Galatasaray,Ad. Demirspor,2,0,8,4,4,4,0,0,2,12,8,0,0,0
+2023-04-01,Super Lig,2022-23,Buyuksehyr,Ankaragucu,1,0,3,5,3,2,0,0,1,8,5,0,0,0
+2023-04-01,Super Lig,2022-23,Trabzonspor,Kayserispor,3,4,4,2,0,1,0,0,7,6,1,0,1,1
+2023-04-02,Super Lig,2022-23,Umraniyespor,Konyaspor,2,2,4,7,2,1,0,0,4,11,3,0,1,1
+2023-04-02,Super Lig,2022-23,Giresunspor,Alanyaspor,2,2,7,2,2,4,0,0,4,9,6,0,1,1
+2023-04-02,Super Lig,2022-23,Gaziantep,Kasimpasa,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-02,Super Lig,2022-23,Hatayspor,Sivasspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-02,Super Lig,2022-23,Fenerbahce,Besiktas,2,4,8,2,3,6,0,1,6,10,9,1,1,1
+2023-04-03,Super Lig,2022-23,Istanbulspor,Karagumruk,0,1,8,3,5,3,0,1,1,11,8,1,0,0
+2023-04-07,Super Lig,2022-23,Konyaspor,Antalyaspor,1,1,6,4,2,3,0,0,2,10,5,0,1,0
+2023-04-08,Super Lig,2022-23,Ankaragucu,Istanbulspor,3,2,8,4,1,4,0,0,5,12,5,0,1,1
+2023-04-08,Super Lig,2022-23,Kasimpasa,Trabzonspor,2,0,5,5,0,0,0,0,2,10,0,0,0,0
+2023-04-09,Super Lig,2022-23,Sivasspor,Buyuksehyr,1,1,6,2,2,0,0,0,2,8,2,0,1,0
+2023-04-09,Super Lig,2022-23,Ad. Demirspor,Gaziantep,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-09,Super Lig,2022-23,Alanyaspor,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-09,Super Lig,2022-23,Besiktas,Giresunspor,3,1,7,3,2,4,0,0,4,10,6,0,1,1
+2023-04-10,Super Lig,2022-23,Kayserispor,Umraniyespor,3,1,5,7,4,4,0,1,4,12,8,1,1,1
+2023-04-10,Super Lig,2022-23,Karagumruk,Fenerbahce,1,2,1,4,1,1,0,0,3,5,2,0,1,1
+2023-04-14,Super Lig,2022-23,Galatasaray,Kayserispor,6,0,2,7,2,0,0,1,6,9,2,1,0,1
+2023-04-14,Super Lig,2022-23,Antalyaspor,Alanyaspor,3,1,4,1,2,2,0,1,4,5,4,1,1,1
+2023-04-15,Super Lig,2022-23,Istanbulspor,Buyuksehyr,1,0,4,6,2,6,0,0,1,10,8,0,0,0
+2023-04-15,Super Lig,2022-23,Fenerbahce,Ankaragucu,2,1,8,7,2,7,0,0,3,15,9,0,1,1
+2023-04-15,Super Lig,2022-23,Ad. Demirspor,Kasimpasa,5,0,7,0,2,3,0,0,5,7,5,0,0,1
+2023-04-16,Super Lig,2022-23,Giresunspor,Sivasspor,1,0,2,6,3,2,0,0,1,8,5,0,0,0
+2023-04-16,Super Lig,2022-23,Gaziantep,Konyaspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-16,Super Lig,2022-23,Hatayspor,Karagumruk,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-16,Super Lig,2022-23,Trabzonspor,Besiktas,0,0,6,8,4,2,0,0,0,14,6,0,0,0
+2023-04-18,Super Lig,2022-23,Alanyaspor,Galatasaray,1,4,6,3,3,1,0,0,5,9,4,0,1,1
+2023-04-18,Super Lig,2022-23,Karagumruk,Umraniyespor,4,2,5,8,5,2,0,0,6,13,7,0,1,1
+2023-04-19,Super Lig,2022-23,Konyaspor,Ad. Demirspor,1,2,6,3,3,2,0,1,3,9,5,1,1,1
+2023-04-19,Super Lig,2022-23,Besiktas,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-19,Super Lig,2022-23,Buyuksehyr,Fenerbahce,1,2,5,4,9,1,2,0,3,9,10,2,1,1
+2023-04-19,Super Lig,2022-23,Istanbulspor,Antalyaspor,3,3,3,5,8,1,0,0,6,8,9,0,1,1
+2023-04-19,Super Lig,2022-23,Kayserispor,Kasimpasa,0,0,3,3,1,2,0,1,0,6,3,1,0,0
+2023-04-20,Super Lig,2022-23,Ankaragucu,Giresunspor,3,1,6,2,1,2,0,0,4,8,3,0,1,1
+2023-04-20,Super Lig,2022-23,Sivasspor,Trabzonspor,4,1,6,1,1,1,0,1,5,7,2,1,1,1
+2023-04-22,Super Lig,2022-23,Umraniyespor,Besiktas,0,2,3,9,0,2,0,0,2,12,2,0,0,0
+2023-04-23,Super Lig,2022-23,Hatayspor,Ankaragucu,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-23,Super Lig,2022-23,Kasimpasa,Konyaspor,1,2,9,4,2,1,0,0,3,13,3,0,1,1
+2023-04-23,Super Lig,2022-23,Ad. Demirspor,Kayserispor,5,3,5,3,2,3,0,1,8,8,5,1,1,1
+2023-04-23,Super Lig,2022-23,Galatasaray,Karagumruk,3,3,5,4,0,3,0,0,6,9,3,0,1,1
+2023-04-23,Super Lig,2022-23,Gaziantep,Alanyaspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-24,Super Lig,2022-23,Fenerbahce,Istanbulspor,3,3,6,1,3,4,0,0,6,7,7,0,1,1
+2023-04-24,Super Lig,2022-23,Giresunspor,Buyuksehyr,2,4,9,1,2,3,0,0,6,10,5,0,1,1
+2023-04-24,Super Lig,2022-23,Antalyaspor,Sivasspor,1,2,14,4,0,2,0,0,3,18,2,0,1,1
+2023-04-28,Super Lig,2022-23,Alanyaspor,Umraniyespor,1,0,4,6,0,2,0,0,1,10,2,0,0,0
+2023-04-29,Super Lig,2022-23,Karagumruk,Antalyaspor,0,1,5,5,1,0,0,0,1,10,1,0,0,0
+2023-04-29,Super Lig,2022-23,Konyaspor,Trabzonspor,2,1,6,5,2,2,0,1,3,11,4,1,1,1
+2023-04-29,Super Lig,2022-23,Ankaragucu,Kasimpasa,0,0,5,3,1,2,0,0,0,8,3,0,0,0
+2023-04-29,Super Lig,2022-23,Sivasspor,Fenerbahce,1,3,3,1,0,4,0,1,4,4,4,1,1,1
+2023-04-30,Super Lig,2022-23,Kayserispor,Gaziantep,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-04-30,Super Lig,2022-23,Besiktas,Galatasaray,3,1,4,1,6,2,0,0,4,5,8,0,1,1
+2023-04-30,Super Lig,2022-23,Buyuksehyr,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-01,Super Lig,2022-23,Istanbulspor,Giresunspor,1,0,3,4,3,2,1,0,1,7,5,1,0,0
+2023-05-06,Super Lig,2022-23,Antalyaspor,Besiktas,1,3,3,5,1,0,1,0,4,8,1,1,1,1
+2023-05-06,Super Lig,2022-23,Ad. Demirspor,Alanyaspor,4,2,2,2,1,2,0,0,6,4,3,0,1,1
+2023-05-07,Super Lig,2022-23,Umraniyespor,Sivasspor,4,1,7,7,6,1,0,1,5,14,7,1,1,1
+2023-05-07,Super Lig,2022-23,Konyaspor,Kayserispor,2,2,3,7,1,1,0,0,4,10,2,0,1,1
+2023-05-07,Super Lig,2022-23,Giresunspor,Fenerbahce,1,1,3,11,5,2,0,0,2,14,7,0,1,0
+2023-05-07,Super Lig,2022-23,Gaziantep,Karagumruk,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-07,Super Lig,2022-23,Hatayspor,Istanbulspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-08,Super Lig,2022-23,Trabzonspor,Ankaragucu,2,0,5,4,1,1,0,1,2,9,2,1,0,0
+2023-05-08,Super Lig,2022-23,Galatasaray,Buyuksehyr,1,0,10,4,2,1,0,0,1,14,3,0,0,0
+2023-05-16,Super Lig,2022-23,Istanbulspor,Galatasaray,0,2,3,9,3,1,0,1,2,12,4,1,0,0
+2023-05-16,Super Lig,2022-23,Alanyaspor,Konyaspor,0,3,3,3,4,2,0,0,3,6,6,0,0,1
+2023-05-16,Super Lig,2022-23,Sivasspor,Kasimpasa,1,2,6,1,3,1,0,1,3,7,4,1,1,1
+2023-05-17,Super Lig,2022-23,Buyuksehyr,Umraniyespor,1,1,3,4,2,1,1,0,2,7,3,1,1,0
+2023-05-17,Super Lig,2022-23,Ankaragucu,Antalyaspor,1,1,3,2,1,3,0,0,2,5,4,0,1,0
+2023-05-17,Super Lig,2022-23,Besiktas,Gaziantep,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-17,Super Lig,2022-23,Giresunspor,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-17,Super Lig,2022-23,Karagumruk,Ad. Demirspor,2,3,1,8,4,2,0,0,5,9,6,0,1,1
+2023-05-18,Super Lig,2022-23,Fenerbahce,Trabzonspor,3,1,9,3,0,2,0,0,4,12,2,0,1,1
+2023-05-20,Super Lig,2022-23,Galatasaray,Sivasspor,2,0,6,3,1,1,0,0,2,9,2,0,0,0
+2023-05-20,Super Lig,2022-23,Kasimpasa,Istanbulspor,1,0,8,4,2,1,0,0,1,12,3,0,0,0
+2023-05-20,Super Lig,2022-23,Kayserispor,Alanyaspor,0,4,12,2,0,2,0,0,4,14,2,0,0,1
+2023-05-21,Super Lig,2022-23,Hatayspor,Fenerbahce,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-21,Super Lig,2022-23,Gaziantep,Giresunspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-21,Super Lig,2022-23,Umraniyespor,Ankaragucu,1,2,4,9,2,2,0,0,3,13,4,0,1,1
+2023-05-21,Super Lig,2022-23,Ad. Demirspor,Besiktas,1,4,6,8,4,5,0,0,5,14,9,0,1,1
+2023-05-21,Super Lig,2022-23,Antalyaspor,Buyuksehyr,0,0,6,2,0,2,0,0,0,8,2,0,0,0
+2023-05-22,Super Lig,2022-23,Trabzonspor,Karagumruk,4,1,2,1,1,0,0,0,5,3,1,0,1,1
+2023-05-30,Super Lig,2022-23,Istanbulspor,Ad. Demirspor,0,2,16,8,1,1,0,0,2,24,2,0,0,0
+2023-05-30,Super Lig,2022-23,Fenerbahce,Antalyaspor,2,0,8,2,1,3,0,0,2,10,4,0,0,0
+2023-05-30,Super Lig,2022-23,Sivasspor,Konyaspor,1,0,4,2,1,2,0,0,1,6,3,0,0,0
+2023-05-30,Super Lig,2022-23,Karagumruk,Kayserispor,2,0,4,4,2,2,0,1,2,8,4,1,0,0
+2023-05-30,Super Lig,2022-23,Hatayspor,Umraniyespor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-30,Super Lig,2022-23,Buyuksehyr,Gaziantep,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-05-30,Super Lig,2022-23,Ankaragucu,Galatasaray,1,4,4,7,3,0,0,0,5,11,3,0,1,1
+2023-05-30,Super Lig,2022-23,Alanyaspor,Kasimpasa,1,3,5,2,1,1,0,0,4,7,2,0,1,1
+2023-05-30,Super Lig,2022-23,Giresunspor,Trabzonspor,2,4,1,7,1,3,0,0,6,8,4,0,1,1
+2023-06-03,Super Lig,2022-23,Konyaspor,Karagumruk,1,1,3,3,3,1,0,0,2,6,4,0,1,0
+2023-06-03,Super Lig,2022-23,Ad. Demirspor,Buyuksehyr,2,3,9,8,1,1,0,0,5,17,2,0,1,1
+2023-06-03,Super Lig,2022-23,Antalyaspor,Hatayspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-06-03,Super Lig,2022-23,Gaziantep,Istanbulspor,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-06-03,Super Lig,2022-23,Kasimpasa,Besiktas,2,5,5,5,2,3,0,0,7,10,5,0,1,1
+2023-06-03,Super Lig,2022-23,Kayserispor,Ankaragucu,0,1,7,1,0,1,0,0,1,8,1,0,0,0
+2023-06-03,Super Lig,2022-23,Trabzonspor,Alanyaspor,5,1,5,2,0,0,0,1,6,7,0,1,1,1
+2023-06-03,Super Lig,2022-23,Umraniyespor,Giresunspor,0,1,5,4,5,1,0,0,1,9,6,0,0,0
+2023-06-04,Super Lig,2022-23,Galatasaray,Fenerbahce,3,0,6,3,1,2,0,1,3,9,3,1,0,1
+2023-06-06,Super Lig,2022-23,Sivasspor,Kayserispor,1,1,6,1,0,1,0,0,2,7,1,0,1,0
+2023-06-06,Super Lig,2022-23,Karagumruk,Kasimpasa,3,0,0,11,3,1,0,0,3,11,4,0,0,1
+2023-06-06,Super Lig,2022-23,Buyuksehyr,Trabzonspor,3,1,3,5,0,0,0,0,4,8,0,0,1,1
+2023-06-07,Super Lig,2022-23,Giresunspor,Antalyaspor,2,0,3,11,3,1,1,0,2,14,4,1,0,0
+2023-06-07,Super Lig,2022-23,Fenerbahce,Gaziantep,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2023-06-07,Super Lig,2022-23,Hatayspor,Galatasaray,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2023-06-07,Super Lig,2022-23,Ankaragucu,Ad. Demirspor,1,2,7,1,0,0,0,0,3,8,0,0,1,1
+2023-06-07,Super Lig,2022-23,Besiktas,Konyaspor,3,3,9,3,1,3,0,1,6,12,4,1,1,1
+2023-06-07,Super Lig,2022-23,Istanbulspor,Umraniyespor,4,0,8,1,3,1,0,0,4,9,4,0,0,1

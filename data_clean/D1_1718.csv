@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2017-08-18,Bundesliga,2017-18,Bayern Munich,Leverkusen,3,1,4,5,4,9,1,1
-2017-08-19,Bundesliga,2017-18,Hamburg,Augsburg,1,0,3,7,1,10,0,0
-2017-08-19,Bundesliga,2017-18,Hertha,Stuttgart,2,0,5,1,2,6,0,0
-2017-08-19,Bundesliga,2017-18,Hoffenheim,Werder Bremen,1,0,6,4,1,10,0,0
-2017-08-19,Bundesliga,2017-18,Mainz,Hannover,0,1,13,1,1,14,0,0
-2017-08-19,Bundesliga,2017-18,Schalke 04,RB Leipzig,2,0,4,5,2,9,0,0
-2017-08-19,Bundesliga,2017-18,Wolfsburg,Dortmund,0,3,3,5,3,8,0,1
-2017-08-20,Bundesliga,2017-18,M'gladbach,FC Koln,1,0,5,3,1,8,0,0
-2017-08-20,Bundesliga,2017-18,Freiburg,Ein Frankfurt,0,0,3,7,0,10,0,0
-2017-08-25,Bundesliga,2017-18,FC Koln,Hamburg,1,3,6,7,4,13,1,1
-2017-08-26,Bundesliga,2017-18,Augsburg,M'gladbach,2,2,10,0,4,10,1,1
-2017-08-26,Bundesliga,2017-18,Dortmund,Hertha,2,0,4,4,2,8,0,0
-2017-08-26,Bundesliga,2017-18,Ein Frankfurt,Wolfsburg,0,1,7,2,1,9,0,0
-2017-08-26,Bundesliga,2017-18,Leverkusen,Hoffenheim,2,2,6,1,4,7,1,1
-2017-08-26,Bundesliga,2017-18,Stuttgart,Mainz,1,0,5,6,1,11,0,0
-2017-08-26,Bundesliga,2017-18,Werder Bremen,Bayern Munich,0,2,2,8,2,10,0,0
-2017-08-27,Bundesliga,2017-18,Hannover,Schalke 04,1,0,2,6,1,8,0,0
-2017-08-27,Bundesliga,2017-18,RB Leipzig,Freiburg,4,1,8,2,5,10,1,1
-2017-09-08,Bundesliga,2017-18,Hamburg,RB Leipzig,0,2,4,14,2,18,0,0
-2017-09-09,Bundesliga,2017-18,Augsburg,FC Koln,3,0,6,9,3,15,0,1
-2017-09-09,Bundesliga,2017-18,Freiburg,Dortmund,0,0,0,7,0,7,0,0
-2017-09-09,Bundesliga,2017-18,Hoffenheim,Bayern Munich,2,0,2,4,2,6,0,0
-2017-09-09,Bundesliga,2017-18,Mainz,Leverkusen,3,1,1,3,4,4,1,1
-2017-09-09,Bundesliga,2017-18,M'gladbach,Ein Frankfurt,0,1,13,5,1,18,0,0
-2017-09-09,Bundesliga,2017-18,Wolfsburg,Hannover,1,1,3,1,2,4,1,0
-2017-09-10,Bundesliga,2017-18,Hertha,Werder Bremen,1,1,5,7,2,12,1,0
-2017-09-10,Bundesliga,2017-18,Schalke 04,Stuttgart,3,1,2,1,4,3,1,1
-2017-09-15,Bundesliga,2017-18,Hannover,Hamburg,2,0,4,7,2,11,0,0
-2017-09-16,Bundesliga,2017-18,Werder Bremen,Schalke 04,1,2,6,5,3,11,1,1
-2017-09-16,Bundesliga,2017-18,Stuttgart,Wolfsburg,1,0,2,3,1,5,0,0
-2017-09-16,Bundesliga,2017-18,Bayern Munich,Mainz,4,0,10,5,4,15,0,1
-2017-09-16,Bundesliga,2017-18,Ein Frankfurt,Augsburg,1,2,4,4,3,8,1,1
-2017-09-16,Bundesliga,2017-18,RB Leipzig,M'gladbach,2,2,3,2,4,5,1,1
-2017-09-17,Bundesliga,2017-18,Dortmund,FC Koln,5,0,8,5,5,13,0,1
-2017-09-17,Bundesliga,2017-18,Hoffenheim,Hertha,1,1,5,2,2,7,1,0
-2017-09-17,Bundesliga,2017-18,Leverkusen,Freiburg,4,0,5,4,4,9,0,1
-2017-09-19,Bundesliga,2017-18,Wolfsburg,Werder Bremen,1,1,3,4,2,7,1,0
-2017-09-19,Bundesliga,2017-18,Schalke 04,Bayern Munich,0,3,2,6,3,8,0,1
-2017-09-19,Bundesliga,2017-18,M'gladbach,Stuttgart,2,0,4,1,2,5,0,0
-2017-09-19,Bundesliga,2017-18,Augsburg,RB Leipzig,1,0,3,2,1,5,0,0
-2017-09-20,Bundesliga,2017-18,FC Koln,Ein Frankfurt,0,1,4,5,1,9,0,0
-2017-09-20,Bundesliga,2017-18,Freiburg,Hannover,1,1,5,3,2,8,1,0
-2017-09-20,Bundesliga,2017-18,Hamburg,Dortmund,0,3,4,3,3,7,0,1
-2017-09-20,Bundesliga,2017-18,Hertha,Leverkusen,2,1,3,6,3,9,1,1
-2017-09-20,Bundesliga,2017-18,Mainz,Hoffenheim,2,3,5,11,5,16,1,1
-2017-09-22,Bundesliga,2017-18,Bayern Munich,Wolfsburg,2,2,7,3,4,10,1,1
-2017-09-23,Bundesliga,2017-18,Werder Bremen,Freiburg,0,0,4,5,0,9,0,0
-2017-09-23,Bundesliga,2017-18,Stuttgart,Augsburg,0,0,5,3,0,8,0,0
-2017-09-23,Bundesliga,2017-18,RB Leipzig,Ein Frankfurt,2,1,2,4,3,6,1,1
-2017-09-23,Bundesliga,2017-18,Hoffenheim,Schalke 04,2,0,0,5,2,5,0,0
-2017-09-23,Bundesliga,2017-18,Dortmund,M'gladbach,6,1,7,0,7,7,1,1
-2017-09-23,Bundesliga,2017-18,Mainz,Hertha,1,0,4,1,1,5,0,0
-2017-09-24,Bundesliga,2017-18,Hannover,FC Koln,0,0,6,7,0,13,0,0
-2017-09-24,Bundesliga,2017-18,Leverkusen,Hamburg,3,0,6,3,3,9,0,1
-2017-09-29,Bundesliga,2017-18,Schalke 04,Leverkusen,1,1,7,4,2,11,1,0
-2017-09-30,Bundesliga,2017-18,Wolfsburg,Mainz,1,1,5,6,2,11,1,0
-2017-09-30,Bundesliga,2017-18,M'gladbach,Hannover,2,1,8,7,3,15,1,1
-2017-09-30,Bundesliga,2017-18,Ein Frankfurt,Stuttgart,2,1,3,6,3,9,1,1
-2017-09-30,Bundesliga,2017-18,Augsburg,Dortmund,1,2,5,5,3,10,1,1
-2017-09-30,Bundesliga,2017-18,Hamburg,Werder Bremen,0,0,6,7,0,13,0,0
-2017-10-01,Bundesliga,2017-18,FC Koln,RB Leipzig,1,2,9,7,3,16,1,1
-2017-10-01,Bundesliga,2017-18,Freiburg,Hoffenheim,3,2,9,7,5,16,1,1
-2017-10-01,Bundesliga,2017-18,Hertha,Bayern Munich,2,2,1,9,4,10,1,1
-2017-10-13,Bundesliga,2017-18,Stuttgart,FC Koln,2,1,5,4,3,9,1,1
-2017-10-14,Bundesliga,2017-18,Hannover,Ein Frankfurt,1,2,6,5,3,11,1,1
-2017-10-14,Bundesliga,2017-18,Bayern Munich,Freiburg,5,0,9,1,5,10,0,1
-2017-10-14,Bundesliga,2017-18,Dortmund,RB Leipzig,2,3,3,2,5,5,1,1
-2017-10-14,Bundesliga,2017-18,Hertha,Schalke 04,0,2,1,5,2,6,0,0
-2017-10-14,Bundesliga,2017-18,Hoffenheim,Augsburg,2,2,6,3,4,9,1,1
-2017-10-14,Bundesliga,2017-18,Mainz,Hamburg,3,2,4,2,5,6,1,1
-2017-10-15,Bundesliga,2017-18,Leverkusen,Wolfsburg,2,2,11,2,4,13,1,1
-2017-10-15,Bundesliga,2017-18,Werder Bremen,M'gladbach,0,2,5,5,2,10,0,0
-2017-10-20,Bundesliga,2017-18,Schalke 04,Mainz,2,0,5,1,2,6,0,0
-2017-10-21,Bundesliga,2017-18,RB Leipzig,Stuttgart,1,0,3,5,1,8,0,0
-2017-10-21,Bundesliga,2017-18,M'gladbach,Leverkusen,1,5,4,4,6,8,1,1
-2017-10-21,Bundesliga,2017-18,Hamburg,Bayern Munich,0,1,7,7,1,14,0,0
-2017-10-21,Bundesliga,2017-18,Ein Frankfurt,Dortmund,2,2,4,4,4,8,1,1
-2017-10-21,Bundesliga,2017-18,Augsburg,Hannover,1,2,11,2,3,13,1,1
-2017-10-22,Bundesliga,2017-18,FC Koln,Werder Bremen,0,0,3,6,0,9,0,0
-2017-10-22,Bundesliga,2017-18,Freiburg,Hertha,1,1,6,1,2,7,1,0
-2017-10-22,Bundesliga,2017-18,Wolfsburg,Hoffenheim,1,1,8,4,2,12,1,0
-2017-10-27,Bundesliga,2017-18,Mainz,Ein Frankfurt,1,1,5,5,2,10,1,0
-2017-10-28,Bundesliga,2017-18,Schalke 04,Wolfsburg,1,1,4,2,2,6,1,0
-2017-10-28,Bundesliga,2017-18,Leverkusen,FC Koln,2,1,8,10,3,18,1,1
-2017-10-28,Bundesliga,2017-18,Hoffenheim,M'gladbach,1,3,5,5,4,10,1,1
-2017-10-28,Bundesliga,2017-18,Hertha,Hamburg,2,1,9,11,3,20,1,1
-2017-10-28,Bundesliga,2017-18,Hannover,Dortmund,4,2,5,6,6,11,1,1
-2017-10-28,Bundesliga,2017-18,Bayern Munich,RB Leipzig,2,0,11,1,2,12,0,0
-2017-10-29,Bundesliga,2017-18,Stuttgart,Freiburg,3,0,6,0,3,6,0,1
-2017-10-29,Bundesliga,2017-18,Werder Bremen,Augsburg,0,3,7,3,3,10,0,1
-2017-11-03,Bundesliga,2017-18,Ein Frankfurt,Werder Bremen,2,1,7,8,3,15,1,1
-2017-11-04,Bundesliga,2017-18,RB Leipzig,Hannover,2,1,2,3,3,5,1,1
-2017-11-04,Bundesliga,2017-18,M'gladbach,Mainz,1,1,9,9,2,18,1,0
-2017-11-04,Bundesliga,2017-18,Hamburg,Stuttgart,3,1,11,3,4,14,1,1
-2017-11-04,Bundesliga,2017-18,Freiburg,Schalke 04,0,1,6,1,1,7,0,0
-2017-11-04,Bundesliga,2017-18,Dortmund,Bayern Munich,1,3,4,3,4,7,1,1
-2017-11-04,Bundesliga,2017-18,Augsburg,Leverkusen,1,1,6,3,2,9,1,0
-2017-11-05,Bundesliga,2017-18,FC Koln,Hoffenheim,0,3,7,6,3,13,0,1
-2017-11-05,Bundesliga,2017-18,Wolfsburg,Hertha,3,3,4,2,6,6,1,1
-2017-11-17,Bundesliga,2017-18,Stuttgart,Dortmund,2,1,5,4,3,9,1,1
-2017-11-18,Bundesliga,2017-18,Bayern Munich,Augsburg,3,0,6,3,3,9,0,1
-2017-11-18,Bundesliga,2017-18,Hertha,M'gladbach,2,4,8,2,6,10,1,1
-2017-11-18,Bundesliga,2017-18,Hoffenheim,Ein Frankfurt,1,1,4,3,2,7,1,0
-2017-11-18,Bundesliga,2017-18,Leverkusen,RB Leipzig,2,2,2,1,4,3,1,1
-2017-11-18,Bundesliga,2017-18,Mainz,FC Koln,1,0,0,3,1,3,0,0
-2017-11-18,Bundesliga,2017-18,Wolfsburg,Freiburg,3,1,1,3,4,4,1,1
-2017-11-19,Bundesliga,2017-18,Schalke 04,Hamburg,2,0,7,6,2,13,0,0
-2017-11-19,Bundesliga,2017-18,Werder Bremen,Hannover,4,0,3,2,4,5,0,1
-2017-11-24,Bundesliga,2017-18,Hannover,Stuttgart,1,1,4,5,2,9,1,0
-2017-11-25,Bundesliga,2017-18,RB Leipzig,Werder Bremen,2,0,8,8,2,16,0,0
-2017-11-25,Bundesliga,2017-18,Freiburg,Mainz,2,1,2,5,3,7,1,1
-2017-11-25,Bundesliga,2017-18,M'gladbach,Bayern Munich,2,1,2,5,3,7,1,1
-2017-11-25,Bundesliga,2017-18,Dortmund,Schalke 04,4,4,3,5,8,8,1,1
-2017-11-25,Bundesliga,2017-18,Ein Frankfurt,Leverkusen,0,1,9,2,1,11,0,0
-2017-11-25,Bundesliga,2017-18,Augsburg,Wolfsburg,2,1,6,1,3,7,1,1
-2017-11-26,Bundesliga,2017-18,FC Koln,Hertha,0,2,3,4,2,7,0,0
-2017-11-26,Bundesliga,2017-18,Hamburg,Hoffenheim,3,0,7,8,3,15,0,1
-2017-12-01,Bundesliga,2017-18,Freiburg,Hamburg,0,0,7,5,0,12,0,0
-2017-12-02,Bundesliga,2017-18,Werder Bremen,Stuttgart,1,0,5,8,1,13,0,0
-2017-12-02,Bundesliga,2017-18,Schalke 04,FC Koln,2,2,7,4,4,11,1,1
-2017-12-02,Bundesliga,2017-18,Mainz,Augsburg,1,3,4,3,4,7,1,1
-2017-12-02,Bundesliga,2017-18,Leverkusen,Dortmund,1,1,7,4,2,11,1,0
-2017-12-02,Bundesliga,2017-18,Hoffenheim,RB Leipzig,4,0,0,7,4,7,0,1
-2017-12-02,Bundesliga,2017-18,Bayern Munich,Hannover,3,1,9,3,4,12,1,1
-2017-12-03,Bundesliga,2017-18,Hertha,Ein Frankfurt,1,2,4,2,3,6,1,1
-2017-12-03,Bundesliga,2017-18,Wolfsburg,M'gladbach,3,0,6,5,3,11,0,1
-2017-12-08,Bundesliga,2017-18,Stuttgart,Leverkusen,0,2,8,5,2,13,0,0
-2017-12-09,Bundesliga,2017-18,M'gladbach,Schalke 04,1,1,8,10,2,18,1,0
-2017-12-09,Bundesliga,2017-18,Hamburg,Wolfsburg,0,0,6,2,0,8,0,0
-2017-12-09,Bundesliga,2017-18,RB Leipzig,Mainz,2,2,6,4,4,10,1,1
-2017-12-09,Bundesliga,2017-18,Dortmund,Werder Bremen,1,2,4,2,3,6,1,1
-2017-12-09,Bundesliga,2017-18,Ein Frankfurt,Bayern Munich,0,1,5,5,1,10,0,0
-2017-12-10,Bundesliga,2017-18,Augsburg,Hertha,1,1,11,3,2,14,1,0
-2017-12-10,Bundesliga,2017-18,FC Koln,Freiburg,3,4,4,9,7,13,1,1
-2017-12-10,Bundesliga,2017-18,Hannover,Hoffenheim,2,0,2,1,2,3,0,0
-2017-12-12,Bundesliga,2017-18,Freiburg,M'gladbach,1,0,5,3,1,8,0,0
-2017-12-12,Bundesliga,2017-18,Hamburg,Ein Frankfurt,1,2,9,3,3,12,1,1
-2017-12-12,Bundesliga,2017-18,Mainz,Dortmund,0,2,2,6,2,8,0,0
-2017-12-12,Bundesliga,2017-18,Wolfsburg,RB Leipzig,1,1,6,9,2,15,1,0
-2017-12-13,Bundesliga,2017-18,Schalke 04,Augsburg,3,2,2,3,5,5,1,1
-2017-12-13,Bundesliga,2017-18,Leverkusen,Werder Bremen,1,0,5,1,1,6,0,0
-2017-12-13,Bundesliga,2017-18,Hertha,Hannover,3,1,5,8,4,13,1,1
-2017-12-13,Bundesliga,2017-18,Bayern Munich,FC Koln,1,0,13,1,1,14,0,0
-2017-12-13,Bundesliga,2017-18,Hoffenheim,Stuttgart,1,0,0,3,1,3,0,0
-2017-12-15,Bundesliga,2017-18,M'gladbach,Hamburg,3,1,9,4,4,13,1,1
-2017-12-16,Bundesliga,2017-18,Stuttgart,Bayern Munich,0,1,9,7,1,16,0,0
-2017-12-16,Bundesliga,2017-18,Augsburg,Freiburg,3,3,11,4,6,15,1,1
-2017-12-16,Bundesliga,2017-18,Dortmund,Hoffenheim,2,1,6,4,3,10,1,1
-2017-12-16,Bundesliga,2017-18,Ein Frankfurt,Schalke 04,2,2,4,6,4,10,1,1
-2017-12-16,Bundesliga,2017-18,FC Koln,Wolfsburg,1,0,5,4,1,9,0,0
-2017-12-16,Bundesliga,2017-18,Werder Bremen,Mainz,2,2,8,5,4,13,1,1
-2017-12-17,Bundesliga,2017-18,RB Leipzig,Hertha,2,3,6,1,5,7,1,1
-2017-12-17,Bundesliga,2017-18,Hannover,Leverkusen,4,4,6,5,8,11,1,1
-2018-01-12,Bundesliga,2017-18,Leverkusen,Bayern Munich,1,3,6,6,4,12,1,1
-2018-01-13,Bundesliga,2017-18,Augsburg,Hamburg,1,0,6,4,1,10,0,0
-2018-01-13,Bundesliga,2017-18,Ein Frankfurt,Freiburg,1,1,9,2,2,11,1,0
-2018-01-13,Bundesliga,2017-18,Hannover,Mainz,3,2,8,8,5,16,1,1
-2018-01-13,Bundesliga,2017-18,RB Leipzig,Schalke 04,3,1,4,4,4,8,1,1
-2018-01-13,Bundesliga,2017-18,Stuttgart,Hertha,1,0,4,4,1,8,0,0
-2018-01-13,Bundesliga,2017-18,Werder Bremen,Hoffenheim,1,1,6,8,2,14,1,0
-2018-01-14,Bundesliga,2017-18,FC Koln,M'gladbach,2,1,3,3,3,6,1,1
-2018-01-14,Bundesliga,2017-18,Dortmund,Wolfsburg,0,0,6,7,0,13,0,0
-2018-01-19,Bundesliga,2017-18,Hertha,Dortmund,1,1,3,5,2,8,1,0
-2018-01-20,Bundesliga,2017-18,Freiburg,RB Leipzig,2,1,6,6,3,12,1,1
-2018-01-20,Bundesliga,2017-18,Hamburg,FC Koln,0,2,9,3,2,12,0,0
-2018-01-20,Bundesliga,2017-18,Hoffenheim,Leverkusen,1,4,4,1,5,5,1,1
-2018-01-20,Bundesliga,2017-18,Mainz,Stuttgart,3,2,7,3,5,10,1,1
-2018-01-20,Bundesliga,2017-18,M'gladbach,Augsburg,2,0,8,5,2,13,0,0
-2018-01-20,Bundesliga,2017-18,Wolfsburg,Ein Frankfurt,1,3,4,3,4,7,1,1
-2018-01-21,Bundesliga,2017-18,Schalke 04,Hannover,1,1,1,2,2,3,1,0
-2018-01-21,Bundesliga,2017-18,Bayern Munich,Werder Bremen,4,2,4,7,6,11,1,1
-2018-01-26,Bundesliga,2017-18,Ein Frankfurt,M'gladbach,2,0,4,4,2,8,0,0
-2018-01-27,Bundesliga,2017-18,Bayern Munich,Hoffenheim,5,2,3,4,7,7,1,1
-2018-01-27,Bundesliga,2017-18,Dortmund,Freiburg,2,2,5,2,4,7,1,1
-2018-01-27,Bundesliga,2017-18,FC Koln,Augsburg,1,1,6,6,2,12,1,0
-2018-01-27,Bundesliga,2017-18,RB Leipzig,Hamburg,1,1,3,3,2,6,1,0
-2018-01-27,Bundesliga,2017-18,Stuttgart,Schalke 04,0,2,4,6,2,10,0,0
-2018-01-27,Bundesliga,2017-18,Werder Bremen,Hertha,0,0,2,2,0,4,0,0
-2018-01-28,Bundesliga,2017-18,Leverkusen,Mainz,2,0,13,0,2,13,0,0
-2018-01-28,Bundesliga,2017-18,Hannover,Wolfsburg,0,1,7,0,1,7,0,0
-2018-02-02,Bundesliga,2017-18,FC Koln,Dortmund,2,3,5,2,5,7,1,1
-2018-02-03,Bundesliga,2017-18,Freiburg,Leverkusen,0,0,2,4,0,6,0,0
-2018-02-03,Bundesliga,2017-18,Hertha,Hoffenheim,1,1,0,5,2,5,1,0
-2018-02-03,Bundesliga,2017-18,Mainz,Bayern Munich,0,2,3,5,2,8,0,0
-2018-02-03,Bundesliga,2017-18,M'gladbach,RB Leipzig,0,1,1,7,1,8,0,0
-2018-02-03,Bundesliga,2017-18,Schalke 04,Werder Bremen,1,2,3,2,3,5,1,1
-2018-02-03,Bundesliga,2017-18,Wolfsburg,Stuttgart,1,1,3,6,2,9,1,0
-2018-02-04,Bundesliga,2017-18,Augsburg,Ein Frankfurt,3,0,1,2,3,3,0,1
-2018-02-04,Bundesliga,2017-18,Hamburg,Hannover,1,1,8,3,2,11,1,0
-2018-02-09,Bundesliga,2017-18,RB Leipzig,Augsburg,2,0,6,7,2,13,0,0
-2018-02-10,Bundesliga,2017-18,Bayern Munich,Schalke 04,2,1,4,3,3,7,1,1
-2018-02-10,Bundesliga,2017-18,Dortmund,Hamburg,2,0,2,4,2,6,0,0
-2018-02-10,Bundesliga,2017-18,Ein Frankfurt,FC Koln,4,2,4,1,6,5,1,1
-2018-02-10,Bundesliga,2017-18,Hannover,Freiburg,2,1,3,4,3,7,1,1
-2018-02-10,Bundesliga,2017-18,Hoffenheim,Mainz,4,2,5,2,6,7,1,1
-2018-02-10,Bundesliga,2017-18,Leverkusen,Hertha,0,2,9,4,2,13,0,0
-2018-02-11,Bundesliga,2017-18,Stuttgart,M'gladbach,1,0,1,8,1,9,0,0
-2018-02-11,Bundesliga,2017-18,Werder Bremen,Wolfsburg,3,1,6,8,4,14,1,1
-2018-02-16,Bundesliga,2017-18,Hertha,Mainz,0,2,6,4,2,10,0,0
-2018-02-17,Bundesliga,2017-18,Wolfsburg,Bayern Munich,1,2,4,8,3,12,1,1
-2018-02-17,Bundesliga,2017-18,Schalke 04,Hoffenheim,2,1,4,3,3,7,1,1
-2018-02-17,Bundesliga,2017-18,FC Koln,Hannover,1,1,5,4,2,9,1,0
-2018-02-17,Bundesliga,2017-18,Freiburg,Werder Bremen,1,0,0,5,1,5,0,0
-2018-02-17,Bundesliga,2017-18,Hamburg,Leverkusen,1,2,4,3,3,7,1,1
-2018-02-18,Bundesliga,2017-18,Augsburg,Stuttgart,0,1,4,7,1,11,0,0
-2018-02-18,Bundesliga,2017-18,M'gladbach,Dortmund,0,1,6,5,1,11,0,0
-2018-02-19,Bundesliga,2017-18,Ein Frankfurt,RB Leipzig,2,1,7,5,3,12,1,1
-2018-02-23,Bundesliga,2017-18,Mainz,Wolfsburg,1,1,2,3,2,5,1,0
-2018-02-24,Bundesliga,2017-18,Werder Bremen,Hamburg,1,0,11,2,1,13,0,0
-2018-02-24,Bundesliga,2017-18,Stuttgart,Ein Frankfurt,1,0,4,3,1,7,0,0
-2018-02-24,Bundesliga,2017-18,Bayern Munich,Hertha,0,0,9,2,0,11,0,0
-2018-02-24,Bundesliga,2017-18,Hannover,M'gladbach,0,1,10,6,1,16,0,0
-2018-02-24,Bundesliga,2017-18,Hoffenheim,Freiburg,1,1,4,2,2,6,1,0
-2018-02-25,Bundesliga,2017-18,Leverkusen,Schalke 04,0,2,7,3,2,10,0,0
-2018-02-25,Bundesliga,2017-18,RB Leipzig,FC Koln,1,2,3,7,3,10,1,1
-2018-02-26,Bundesliga,2017-18,Dortmund,Augsburg,1,1,3,3,2,6,1,0
-2018-03-02,Bundesliga,2017-18,M'gladbach,Werder Bremen,2,2,5,6,4,11,1,1
-2018-03-03,Bundesliga,2017-18,Wolfsburg,Leverkusen,1,2,3,2,3,5,1,1
-2018-03-03,Bundesliga,2017-18,Schalke 04,Hertha,1,0,2,6,1,8,0,0
-2018-03-03,Bundesliga,2017-18,RB Leipzig,Dortmund,1,1,2,3,2,5,1,0
-2018-03-03,Bundesliga,2017-18,Hamburg,Mainz,0,0,11,1,0,12,0,0
-2018-03-03,Bundesliga,2017-18,Augsburg,Hoffenheim,0,2,8,5,2,13,0,0
-2018-03-03,Bundesliga,2017-18,Ein Frankfurt,Hannover,1,0,5,1,1,6,0,0
-2018-03-04,Bundesliga,2017-18,FC Koln,Stuttgart,2,3,3,3,5,6,1,1
-2018-03-04,Bundesliga,2017-18,Freiburg,Bayern Munich,0,4,4,5,4,9,0,1
-2018-03-09,Bundesliga,2017-18,Mainz,Schalke 04,0,1,5,6,1,11,0,0
-2018-03-10,Bundesliga,2017-18,Hoffenheim,Wolfsburg,3,0,11,4,3,15,0,1
-2018-03-10,Bundesliga,2017-18,Leverkusen,M'gladbach,2,0,3,5,2,8,0,0
-2018-03-10,Bundesliga,2017-18,Hertha,Freiburg,0,0,5,4,0,9,0,0
-2018-03-10,Bundesliga,2017-18,Bayern Munich,Hamburg,6,0,11,1,6,12,0,1
-2018-03-10,Bundesliga,2017-18,Hannover,Augsburg,1,3,3,6,4,9,1,1
-2018-03-11,Bundesliga,2017-18,Dortmund,Ein Frankfurt,3,2,5,8,5,13,1,1
-2018-03-11,Bundesliga,2017-18,Stuttgart,RB Leipzig,0,0,3,5,0,8,0,0
-2018-03-12,Bundesliga,2017-18,Werder Bremen,FC Koln,3,1,7,3,4,10,1,1
-2018-03-16,Bundesliga,2017-18,Freiburg,Stuttgart,1,2,1,3,3,4,1,1
-2018-03-17,Bundesliga,2017-18,Augsburg,Werder Bremen,1,3,8,7,4,15,1,1
-2018-03-17,Bundesliga,2017-18,Ein Frankfurt,Mainz,3,0,4,6,3,10,0,1
-2018-03-17,Bundesliga,2017-18,Hamburg,Hertha,1,2,1,6,3,7,1,1
-2018-03-17,Bundesliga,2017-18,M'gladbach,Hoffenheim,3,3,9,3,6,12,1,1
-2018-03-17,Bundesliga,2017-18,Wolfsburg,Schalke 04,0,1,5,2,1,7,0,0
-2018-03-18,Bundesliga,2017-18,Dortmund,Hannover,1,0,12,2,1,14,0,0
-2018-03-18,Bundesliga,2017-18,FC Koln,Leverkusen,2,0,2,2,2,4,0,0
-2018-03-18,Bundesliga,2017-18,RB Leipzig,Bayern Munich,2,1,3,6,3,9,1,1
-2018-03-31,Bundesliga,2017-18,Stuttgart,Hamburg,1,1,3,7,2,10,1,0
-2018-03-31,Bundesliga,2017-18,Schalke 04,Freiburg,2,0,2,2,2,4,0,0
-2018-03-31,Bundesliga,2017-18,Leverkusen,Augsburg,0,0,5,1,0,6,0,0
-2018-03-31,Bundesliga,2017-18,Hoffenheim,FC Koln,6,0,4,8,6,12,0,1
-2018-03-31,Bundesliga,2017-18,Hannover,RB Leipzig,2,3,6,3,5,9,1,1
-2018-03-31,Bundesliga,2017-18,Bayern Munich,Dortmund,6,0,2,1,6,3,0,1
-2018-03-31,Bundesliga,2017-18,Hertha,Wolfsburg,0,0,4,5,0,9,0,0
-2018-04-01,Bundesliga,2017-18,Mainz,M'gladbach,0,0,7,6,0,13,0,0
-2018-04-01,Bundesliga,2017-18,Werder Bremen,Ein Frankfurt,2,1,6,3,3,9,1,1
-2018-04-06,Bundesliga,2017-18,Hannover,Werder Bremen,2,1,4,2,3,6,1,1
-2018-04-07,Bundesliga,2017-18,M'gladbach,Hertha,2,1,4,5,3,9,1,1
-2018-04-07,Bundesliga,2017-18,Hamburg,Schalke 04,3,2,8,1,5,9,1,1
-2018-04-07,Bundesliga,2017-18,FC Koln,Mainz,1,1,8,3,2,11,1,0
-2018-04-07,Bundesliga,2017-18,Augsburg,Bayern Munich,1,4,1,6,5,7,1,1
-2018-04-07,Bundesliga,2017-18,Freiburg,Wolfsburg,0,2,9,3,2,12,0,0
-2018-04-08,Bundesliga,2017-18,Dortmund,Stuttgart,3,0,5,7,3,12,0,1
-2018-04-08,Bundesliga,2017-18,Ein Frankfurt,Hoffenheim,1,1,8,3,2,11,1,0
-2018-04-09,Bundesliga,2017-18,RB Leipzig,Leverkusen,1,4,8,9,5,17,1,1
-2018-04-13,Bundesliga,2017-18,Wolfsburg,Augsburg,0,0,7,5,0,12,0,0
-2018-04-14,Bundesliga,2017-18,Stuttgart,Hannover,1,1,10,4,2,14,1,0
-2018-04-14,Bundesliga,2017-18,Leverkusen,Ein Frankfurt,4,1,2,2,5,4,1,1
-2018-04-14,Bundesliga,2017-18,Hoffenheim,Hamburg,2,0,7,8,2,15,0,0
-2018-04-14,Bundesliga,2017-18,Bayern Munich,M'gladbach,5,1,6,0,6,6,1,1
-2018-04-14,Bundesliga,2017-18,Hertha,FC Koln,2,1,6,8,3,14,1,1
-2018-04-15,Bundesliga,2017-18,Schalke 04,Dortmund,2,0,4,6,2,10,0,0
-2018-04-15,Bundesliga,2017-18,Werder Bremen,RB Leipzig,1,1,5,2,2,7,1,0
-2018-04-16,Bundesliga,2017-18,Mainz,Freiburg,2,0,4,4,2,8,0,0
-2018-04-20,Bundesliga,2017-18,M'gladbach,Wolfsburg,3,0,8,5,3,13,0,1
-2018-04-21,Bundesliga,2017-18,Dortmund,Leverkusen,4,0,7,6,4,13,0,1
-2018-04-21,Bundesliga,2017-18,Ein Frankfurt,Hertha,0,3,5,0,3,5,0,1
-2018-04-21,Bundesliga,2017-18,Hannover,Bayern Munich,0,3,2,7,3,9,0,1
-2018-04-21,Bundesliga,2017-18,RB Leipzig,Hoffenheim,2,5,8,4,7,12,1,1
-2018-04-21,Bundesliga,2017-18,Stuttgart,Werder Bremen,2,0,3,5,2,8,0,0
-2018-04-21,Bundesliga,2017-18,Hamburg,Freiburg,1,0,10,4,1,14,0,0
-2018-04-22,Bundesliga,2017-18,Augsburg,Mainz,2,0,4,5,2,9,0,0
-2018-04-22,Bundesliga,2017-18,FC Koln,Schalke 04,2,2,5,7,4,12,1,1
-2018-04-27,Bundesliga,2017-18,Hoffenheim,Hannover,3,1,7,4,4,11,1,1
-2018-04-28,Bundesliga,2017-18,Leverkusen,Stuttgart,0,1,6,2,1,8,0,0
-2018-04-28,Bundesliga,2017-18,Schalke 04,M'gladbach,1,1,1,1,2,2,1,0
-2018-04-28,Bundesliga,2017-18,Wolfsburg,Hamburg,1,3,2,6,4,8,1,1
-2018-04-28,Bundesliga,2017-18,Hertha,Augsburg,2,2,6,3,4,9,1,1
-2018-04-28,Bundesliga,2017-18,Bayern Munich,Ein Frankfurt,4,1,1,2,5,3,1,1
-2018-04-28,Bundesliga,2017-18,Freiburg,FC Koln,3,2,2,5,5,7,1,1
-2018-04-29,Bundesliga,2017-18,Mainz,RB Leipzig,3,0,7,8,3,15,0,1
-2018-04-29,Bundesliga,2017-18,Werder Bremen,Dortmund,1,1,7,5,2,12,1,0
-2018-05-05,Bundesliga,2017-18,Augsburg,Schalke 04,1,2,4,4,3,8,1,1
-2018-05-05,Bundesliga,2017-18,Dortmund,Mainz,1,2,4,2,3,6,1,1
-2018-05-05,Bundesliga,2017-18,Ein Frankfurt,Hamburg,3,0,3,7,3,10,0,1
-2018-05-05,Bundesliga,2017-18,FC Koln,Bayern Munich,1,3,4,7,4,11,1,1
-2018-05-05,Bundesliga,2017-18,Hannover,Hertha,3,1,4,6,4,10,1,1
-2018-05-05,Bundesliga,2017-18,M'gladbach,Freiburg,3,1,7,3,4,10,1,1
-2018-05-05,Bundesliga,2017-18,RB Leipzig,Wolfsburg,4,1,2,5,5,7,1,1
-2018-05-05,Bundesliga,2017-18,Stuttgart,Hoffenheim,2,0,1,9,2,10,0,0
-2018-05-05,Bundesliga,2017-18,Werder Bremen,Leverkusen,0,0,3,1,0,4,0,0
-2018-05-12,Bundesliga,2017-18,Leverkusen,Hannover,3,2,5,2,5,7,1,1
-2018-05-12,Bundesliga,2017-18,Mainz,Werder Bremen,1,2,3,7,3,10,1,1
-2018-05-12,Bundesliga,2017-18,Hoffenheim,Dortmund,3,1,2,3,4,5,1,1
-2018-05-12,Bundesliga,2017-18,Schalke 04,Ein Frankfurt,1,0,4,3,1,7,0,0
-2018-05-12,Bundesliga,2017-18,Hamburg,M'gladbach,2,1,8,3,3,11,1,1
-2018-05-12,Bundesliga,2017-18,Freiburg,Augsburg,2,0,5,4,2,9,0,0
-2018-05-12,Bundesliga,2017-18,Bayern Munich,Stuttgart,1,4,10,0,5,10,1,1
-2018-05-12,Bundesliga,2017-18,Hertha,RB Leipzig,2,6,3,6,8,9,1,1
-2018-05-12,Bundesliga,2017-18,Wolfsburg,FC Koln,4,1,5,10,5,15,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2017-08-18,Bundesliga,2017-18,Bayern Munich,Leverkusen,3,1,4,5,1,2,0,0,4,9,3,0,1,1
+2017-08-19,Bundesliga,2017-18,Hamburg,Augsburg,1,0,3,7,4,3,0,0,1,10,7,0,0,0
+2017-08-19,Bundesliga,2017-18,Hertha,Stuttgart,2,0,5,1,2,1,0,0,2,6,3,0,0,0
+2017-08-19,Bundesliga,2017-18,Hoffenheim,Werder Bremen,1,0,6,4,1,3,0,0,1,10,4,0,0,0
+2017-08-19,Bundesliga,2017-18,Mainz,Hannover,0,1,13,1,3,5,0,0,1,14,8,0,0,0
+2017-08-19,Bundesliga,2017-18,Schalke 04,RB Leipzig,2,0,4,5,2,2,0,0,2,9,4,0,0,0
+2017-08-19,Bundesliga,2017-18,Wolfsburg,Dortmund,0,3,3,5,0,0,0,0,3,8,0,0,0,1
+2017-08-20,Bundesliga,2017-18,M'gladbach,FC Koln,1,0,5,3,3,2,0,0,1,8,5,0,0,0
+2017-08-20,Bundesliga,2017-18,Freiburg,Ein Frankfurt,0,0,3,7,1,2,0,0,0,10,3,0,0,0
+2017-08-25,Bundesliga,2017-18,FC Koln,Hamburg,1,3,6,7,2,2,0,1,4,13,4,1,1,1
+2017-08-26,Bundesliga,2017-18,Augsburg,M'gladbach,2,2,10,0,2,2,0,0,4,10,4,0,1,1
+2017-08-26,Bundesliga,2017-18,Dortmund,Hertha,2,0,4,4,1,1,0,0,2,8,2,0,0,0
+2017-08-26,Bundesliga,2017-18,Ein Frankfurt,Wolfsburg,0,1,7,2,3,1,0,0,1,9,4,0,0,0
+2017-08-26,Bundesliga,2017-18,Leverkusen,Hoffenheim,2,2,6,1,2,2,0,0,4,7,4,0,1,1
+2017-08-26,Bundesliga,2017-18,Stuttgart,Mainz,1,0,5,6,2,1,0,0,1,11,3,0,0,0
+2017-08-26,Bundesliga,2017-18,Werder Bremen,Bayern Munich,0,2,2,8,1,1,0,0,2,10,2,0,0,0
+2017-08-27,Bundesliga,2017-18,Hannover,Schalke 04,1,0,2,6,1,2,0,0,1,8,3,0,0,0
+2017-08-27,Bundesliga,2017-18,RB Leipzig,Freiburg,4,1,8,2,2,0,0,1,5,10,2,1,1,1
+2017-09-08,Bundesliga,2017-18,Hamburg,RB Leipzig,0,2,4,14,1,1,0,0,2,18,2,0,0,0
+2017-09-09,Bundesliga,2017-18,Augsburg,FC Koln,3,0,6,9,0,0,0,0,3,15,0,0,0,1
+2017-09-09,Bundesliga,2017-18,Freiburg,Dortmund,0,0,0,7,0,0,1,0,0,7,0,1,0,0
+2017-09-09,Bundesliga,2017-18,Hoffenheim,Bayern Munich,2,0,2,4,3,1,0,0,2,6,4,0,0,0
+2017-09-09,Bundesliga,2017-18,Mainz,Leverkusen,3,1,1,3,2,2,0,0,4,4,4,0,1,1
+2017-09-09,Bundesliga,2017-18,M'gladbach,Ein Frankfurt,0,1,13,5,3,2,0,0,1,18,5,0,0,0
+2017-09-09,Bundesliga,2017-18,Wolfsburg,Hannover,1,1,3,1,0,1,0,0,2,4,1,0,1,0
+2017-09-10,Bundesliga,2017-18,Hertha,Werder Bremen,1,1,5,7,1,0,0,0,2,12,1,0,1,0
+2017-09-10,Bundesliga,2017-18,Schalke 04,Stuttgart,3,1,2,1,1,1,0,0,4,3,2,0,1,1
+2017-09-15,Bundesliga,2017-18,Hannover,Hamburg,2,0,4,7,1,0,0,0,2,11,1,0,0,0
+2017-09-16,Bundesliga,2017-18,Werder Bremen,Schalke 04,1,2,6,5,2,2,0,0,3,11,4,0,1,1
+2017-09-16,Bundesliga,2017-18,Stuttgart,Wolfsburg,1,0,2,3,2,3,0,0,1,5,5,0,0,0
+2017-09-16,Bundesliga,2017-18,Bayern Munich,Mainz,4,0,10,5,2,2,0,0,4,15,4,0,0,1
+2017-09-16,Bundesliga,2017-18,Ein Frankfurt,Augsburg,1,2,4,4,2,3,0,0,3,8,5,0,1,1
+2017-09-16,Bundesliga,2017-18,RB Leipzig,M'gladbach,2,2,3,2,1,1,1,0,4,5,2,1,1,1
+2017-09-17,Bundesliga,2017-18,Dortmund,FC Koln,5,0,8,5,0,3,0,0,5,13,3,0,0,1
+2017-09-17,Bundesliga,2017-18,Hoffenheim,Hertha,1,1,5,2,2,2,0,0,2,7,4,0,1,0
+2017-09-17,Bundesliga,2017-18,Leverkusen,Freiburg,4,0,5,4,0,2,0,0,4,9,2,0,0,1
+2017-09-19,Bundesliga,2017-18,Wolfsburg,Werder Bremen,1,1,3,4,1,2,0,0,2,7,3,0,1,0
+2017-09-19,Bundesliga,2017-18,Schalke 04,Bayern Munich,0,3,2,6,1,1,0,0,3,8,2,0,0,1
+2017-09-19,Bundesliga,2017-18,M'gladbach,Stuttgart,2,0,4,1,0,1,0,0,2,5,1,0,0,0
+2017-09-19,Bundesliga,2017-18,Augsburg,RB Leipzig,1,0,3,2,2,2,0,0,1,5,4,0,0,0
+2017-09-20,Bundesliga,2017-18,FC Koln,Ein Frankfurt,0,1,4,5,2,1,0,0,1,9,3,0,0,0
+2017-09-20,Bundesliga,2017-18,Freiburg,Hannover,1,1,5,3,2,4,0,0,2,8,6,0,1,0
+2017-09-20,Bundesliga,2017-18,Hamburg,Dortmund,0,3,4,3,3,0,0,0,3,7,3,0,0,1
+2017-09-20,Bundesliga,2017-18,Hertha,Leverkusen,2,1,3,6,1,2,0,0,3,9,3,0,1,1
+2017-09-20,Bundesliga,2017-18,Mainz,Hoffenheim,2,3,5,11,3,3,0,0,5,16,6,0,1,1
+2017-09-22,Bundesliga,2017-18,Bayern Munich,Wolfsburg,2,2,7,3,1,2,0,0,4,10,3,0,1,1
+2017-09-23,Bundesliga,2017-18,Werder Bremen,Freiburg,0,0,4,5,2,1,0,0,0,9,3,0,0,0
+2017-09-23,Bundesliga,2017-18,Stuttgart,Augsburg,0,0,5,3,1,2,0,0,0,8,3,0,0,0
+2017-09-23,Bundesliga,2017-18,RB Leipzig,Ein Frankfurt,2,1,2,4,1,2,0,0,3,6,3,0,1,1
+2017-09-23,Bundesliga,2017-18,Hoffenheim,Schalke 04,2,0,0,5,3,2,0,0,2,5,5,0,0,0
+2017-09-23,Bundesliga,2017-18,Dortmund,M'gladbach,6,1,7,0,0,1,0,0,7,7,1,0,1,1
+2017-09-23,Bundesliga,2017-18,Mainz,Hertha,1,0,4,1,3,3,0,1,1,5,6,1,0,0
+2017-09-24,Bundesliga,2017-18,Hannover,FC Koln,0,0,6,7,4,2,0,0,0,13,6,0,0,0
+2017-09-24,Bundesliga,2017-18,Leverkusen,Hamburg,3,0,6,3,2,2,0,0,3,9,4,0,0,1
+2017-09-29,Bundesliga,2017-18,Schalke 04,Leverkusen,1,1,7,4,2,3,0,0,2,11,5,0,1,0
+2017-09-30,Bundesliga,2017-18,Wolfsburg,Mainz,1,1,5,6,4,4,1,0,2,11,8,1,1,0
+2017-09-30,Bundesliga,2017-18,M'gladbach,Hannover,2,1,8,7,1,1,0,0,3,15,2,0,1,1
+2017-09-30,Bundesliga,2017-18,Ein Frankfurt,Stuttgart,2,1,3,6,1,1,1,0,3,9,2,1,1,1
+2017-09-30,Bundesliga,2017-18,Augsburg,Dortmund,1,2,5,5,4,1,0,0,3,10,5,0,1,1
+2017-09-30,Bundesliga,2017-18,Hamburg,Werder Bremen,0,0,6,7,1,3,0,0,0,13,4,0,0,0
+2017-10-01,Bundesliga,2017-18,FC Koln,RB Leipzig,1,2,9,7,0,2,0,0,3,16,2,0,1,1
+2017-10-01,Bundesliga,2017-18,Freiburg,Hoffenheim,3,2,9,7,2,3,0,0,5,16,5,0,1,1
+2017-10-01,Bundesliga,2017-18,Hertha,Bayern Munich,2,2,1,9,0,2,0,0,4,10,2,0,1,1
+2017-10-13,Bundesliga,2017-18,Stuttgart,FC Koln,2,1,5,4,2,3,0,0,3,9,5,0,1,1
+2017-10-14,Bundesliga,2017-18,Hannover,Ein Frankfurt,1,2,6,5,3,3,0,0,3,11,6,0,1,1
+2017-10-14,Bundesliga,2017-18,Bayern Munich,Freiburg,5,0,9,1,0,0,0,0,5,10,0,0,0,1
+2017-10-14,Bundesliga,2017-18,Dortmund,RB Leipzig,2,3,3,2,2,5,1,1,5,5,7,2,1,1
+2017-10-14,Bundesliga,2017-18,Hertha,Schalke 04,0,2,1,5,1,2,1,0,2,6,3,1,0,0
+2017-10-14,Bundesliga,2017-18,Hoffenheim,Augsburg,2,2,6,3,1,0,0,0,4,9,1,0,1,1
+2017-10-14,Bundesliga,2017-18,Mainz,Hamburg,3,2,4,2,1,1,0,0,5,6,2,0,1,1
+2017-10-15,Bundesliga,2017-18,Leverkusen,Wolfsburg,2,2,11,2,2,2,0,0,4,13,4,0,1,1
+2017-10-15,Bundesliga,2017-18,Werder Bremen,M'gladbach,0,2,5,5,1,0,0,0,2,10,1,0,0,0
+2017-10-20,Bundesliga,2017-18,Schalke 04,Mainz,2,0,5,1,3,0,0,0,2,6,3,0,0,0
+2017-10-21,Bundesliga,2017-18,RB Leipzig,Stuttgart,1,0,3,5,0,1,0,0,1,8,1,0,0,0
+2017-10-21,Bundesliga,2017-18,M'gladbach,Leverkusen,1,5,4,4,3,0,0,0,6,8,3,0,1,1
+2017-10-21,Bundesliga,2017-18,Hamburg,Bayern Munich,0,1,7,7,1,2,1,0,1,14,3,1,0,0
+2017-10-21,Bundesliga,2017-18,Ein Frankfurt,Dortmund,2,2,4,4,2,3,0,0,4,8,5,0,1,1
+2017-10-21,Bundesliga,2017-18,Augsburg,Hannover,1,2,11,2,1,2,0,0,3,13,3,0,1,1
+2017-10-22,Bundesliga,2017-18,FC Koln,Werder Bremen,0,0,3,6,3,3,0,0,0,9,6,0,0,0
+2017-10-22,Bundesliga,2017-18,Freiburg,Hertha,1,1,6,1,4,3,0,0,2,7,7,0,1,0
+2017-10-22,Bundesliga,2017-18,Wolfsburg,Hoffenheim,1,1,8,4,1,3,0,0,2,12,4,0,1,0
+2017-10-27,Bundesliga,2017-18,Mainz,Ein Frankfurt,1,1,5,5,0,2,0,0,2,10,2,0,1,0
+2017-10-28,Bundesliga,2017-18,Schalke 04,Wolfsburg,1,1,4,2,0,0,0,0,2,6,0,0,1,0
+2017-10-28,Bundesliga,2017-18,Leverkusen,FC Koln,2,1,8,10,3,2,0,0,3,18,5,0,1,1
+2017-10-28,Bundesliga,2017-18,Hoffenheim,M'gladbach,1,3,5,5,2,1,0,0,4,10,3,0,1,1
+2017-10-28,Bundesliga,2017-18,Hertha,Hamburg,2,1,9,11,0,0,0,0,3,20,0,0,1,1
+2017-10-28,Bundesliga,2017-18,Hannover,Dortmund,4,2,5,6,2,0,0,1,6,11,2,1,1,1
+2017-10-28,Bundesliga,2017-18,Bayern Munich,RB Leipzig,2,0,11,1,1,0,0,1,2,12,1,1,0,0
+2017-10-29,Bundesliga,2017-18,Stuttgart,Freiburg,3,0,6,0,3,0,0,1,3,6,3,1,0,1
+2017-10-29,Bundesliga,2017-18,Werder Bremen,Augsburg,0,3,7,3,2,0,0,0,3,10,2,0,0,1
+2017-11-03,Bundesliga,2017-18,Ein Frankfurt,Werder Bremen,2,1,7,8,0,0,0,0,3,15,0,0,1,1
+2017-11-04,Bundesliga,2017-18,RB Leipzig,Hannover,2,1,2,3,1,4,0,0,3,5,5,0,1,1
+2017-11-04,Bundesliga,2017-18,M'gladbach,Mainz,1,1,9,9,1,0,0,0,2,18,1,0,1,0
+2017-11-04,Bundesliga,2017-18,Hamburg,Stuttgart,3,1,11,3,2,2,0,1,4,14,4,1,1,1
+2017-11-04,Bundesliga,2017-18,Freiburg,Schalke 04,0,1,6,1,1,1,0,0,1,7,2,0,0,0
+2017-11-04,Bundesliga,2017-18,Dortmund,Bayern Munich,1,3,4,3,2,2,0,0,4,7,4,0,1,1
+2017-11-04,Bundesliga,2017-18,Augsburg,Leverkusen,1,1,6,3,3,2,0,0,2,9,5,0,1,0
+2017-11-05,Bundesliga,2017-18,FC Koln,Hoffenheim,0,3,7,6,0,0,0,0,3,13,0,0,0,1
+2017-11-05,Bundesliga,2017-18,Wolfsburg,Hertha,3,3,4,2,1,1,0,0,6,6,2,0,1,1
+2017-11-17,Bundesliga,2017-18,Stuttgart,Dortmund,2,1,5,4,2,0,0,0,3,9,2,0,1,1
+2017-11-18,Bundesliga,2017-18,Bayern Munich,Augsburg,3,0,6,3,0,3,0,0,3,9,3,0,0,1
+2017-11-18,Bundesliga,2017-18,Hertha,M'gladbach,2,4,8,2,2,1,0,0,6,10,3,0,1,1
+2017-11-18,Bundesliga,2017-18,Hoffenheim,Ein Frankfurt,1,1,4,3,0,2,0,0,2,7,2,0,1,0
+2017-11-18,Bundesliga,2017-18,Leverkusen,RB Leipzig,2,2,2,1,5,2,1,0,4,3,7,1,1,1
+2017-11-18,Bundesliga,2017-18,Mainz,FC Koln,1,0,0,3,0,2,1,0,1,3,2,1,0,0
+2017-11-18,Bundesliga,2017-18,Wolfsburg,Freiburg,3,1,1,3,1,2,0,0,4,4,3,0,1,1
+2017-11-19,Bundesliga,2017-18,Schalke 04,Hamburg,2,0,7,6,3,3,0,0,2,13,6,0,0,0
+2017-11-19,Bundesliga,2017-18,Werder Bremen,Hannover,4,0,3,2,0,1,0,0,4,5,1,0,0,1
+2017-11-24,Bundesliga,2017-18,Hannover,Stuttgart,1,1,4,5,1,5,0,0,2,9,6,0,1,0
+2017-11-25,Bundesliga,2017-18,RB Leipzig,Werder Bremen,2,0,8,8,0,1,0,0,2,16,1,0,0,0
+2017-11-25,Bundesliga,2017-18,Freiburg,Mainz,2,1,2,5,3,2,0,0,3,7,5,0,1,1
+2017-11-25,Bundesliga,2017-18,M'gladbach,Bayern Munich,2,1,2,5,1,1,0,0,3,7,2,0,1,1
+2017-11-25,Bundesliga,2017-18,Dortmund,Schalke 04,4,4,3,5,5,5,1,0,8,8,10,1,1,1
+2017-11-25,Bundesliga,2017-18,Ein Frankfurt,Leverkusen,0,1,9,2,4,3,0,0,1,11,7,0,0,0
+2017-11-25,Bundesliga,2017-18,Augsburg,Wolfsburg,2,1,6,1,1,2,0,1,3,7,3,1,1,1
+2017-11-26,Bundesliga,2017-18,FC Koln,Hertha,0,2,3,4,2,0,0,0,2,7,2,0,0,0
+2017-11-26,Bundesliga,2017-18,Hamburg,Hoffenheim,3,0,7,8,0,3,0,0,3,15,3,0,0,1
+2017-12-01,Bundesliga,2017-18,Freiburg,Hamburg,0,0,7,5,2,3,0,0,0,12,5,0,0,0
+2017-12-02,Bundesliga,2017-18,Werder Bremen,Stuttgart,1,0,5,8,2,1,0,0,1,13,3,0,0,0
+2017-12-02,Bundesliga,2017-18,Schalke 04,FC Koln,2,2,7,4,0,2,0,1,4,11,2,1,1,1
+2017-12-02,Bundesliga,2017-18,Mainz,Augsburg,1,3,4,3,4,1,0,0,4,7,5,0,1,1
+2017-12-02,Bundesliga,2017-18,Leverkusen,Dortmund,1,1,7,4,1,3,1,0,2,11,4,1,1,0
+2017-12-02,Bundesliga,2017-18,Hoffenheim,RB Leipzig,4,0,0,7,2,0,0,0,4,7,2,0,0,1
+2017-12-02,Bundesliga,2017-18,Bayern Munich,Hannover,3,1,9,3,2,2,0,0,4,12,4,0,1,1
+2017-12-03,Bundesliga,2017-18,Hertha,Ein Frankfurt,1,2,4,2,1,3,0,0,3,6,4,0,1,1
+2017-12-03,Bundesliga,2017-18,Wolfsburg,M'gladbach,3,0,6,5,0,2,0,0,3,11,2,0,0,1
+2017-12-08,Bundesliga,2017-18,Stuttgart,Leverkusen,0,2,8,5,1,1,0,0,2,13,2,0,0,0
+2017-12-09,Bundesliga,2017-18,M'gladbach,Schalke 04,1,1,8,10,1,2,0,0,2,18,3,0,1,0
+2017-12-09,Bundesliga,2017-18,Hamburg,Wolfsburg,0,0,6,2,2,2,0,0,0,8,4,0,0,0
+2017-12-09,Bundesliga,2017-18,RB Leipzig,Mainz,2,2,6,4,2,3,0,0,4,10,5,0,1,1
+2017-12-09,Bundesliga,2017-18,Dortmund,Werder Bremen,1,2,4,2,0,0,0,0,3,6,0,0,1,1
+2017-12-09,Bundesliga,2017-18,Ein Frankfurt,Bayern Munich,0,1,5,5,2,3,0,0,1,10,5,0,0,0
+2017-12-10,Bundesliga,2017-18,Augsburg,Hertha,1,1,11,3,2,2,0,0,2,14,4,0,1,0
+2017-12-10,Bundesliga,2017-18,FC Koln,Freiburg,3,4,4,9,3,3,0,0,7,13,6,0,1,1
+2017-12-10,Bundesliga,2017-18,Hannover,Hoffenheim,2,0,2,1,2,5,0,0,2,3,7,0,0,0
+2017-12-12,Bundesliga,2017-18,Freiburg,M'gladbach,1,0,5,3,0,2,0,0,1,8,2,0,0,0
+2017-12-12,Bundesliga,2017-18,Hamburg,Ein Frankfurt,1,2,9,3,0,4,0,0,3,12,4,0,1,1
+2017-12-12,Bundesliga,2017-18,Mainz,Dortmund,0,2,2,6,0,0,0,0,2,8,0,0,0,0
+2017-12-12,Bundesliga,2017-18,Wolfsburg,RB Leipzig,1,1,6,9,2,4,0,1,2,15,6,1,1,0
+2017-12-13,Bundesliga,2017-18,Schalke 04,Augsburg,3,2,2,3,3,2,0,0,5,5,5,0,1,1
+2017-12-13,Bundesliga,2017-18,Leverkusen,Werder Bremen,1,0,5,1,0,3,0,0,1,6,3,0,0,0
+2017-12-13,Bundesliga,2017-18,Hertha,Hannover,3,1,5,8,2,3,0,0,4,13,5,0,1,1
+2017-12-13,Bundesliga,2017-18,Bayern Munich,FC Koln,1,0,13,1,0,0,0,0,1,14,0,0,0,0
+2017-12-13,Bundesliga,2017-18,Hoffenheim,Stuttgart,1,0,0,3,1,1,0,0,1,3,2,0,0,0
+2017-12-15,Bundesliga,2017-18,M'gladbach,Hamburg,3,1,9,4,0,3,0,0,4,13,3,0,1,1
+2017-12-16,Bundesliga,2017-18,Stuttgart,Bayern Munich,0,1,9,7,2,2,0,0,1,16,4,0,0,0
+2017-12-16,Bundesliga,2017-18,Augsburg,Freiburg,3,3,11,4,1,3,0,0,6,15,4,0,1,1
+2017-12-16,Bundesliga,2017-18,Dortmund,Hoffenheim,2,1,6,4,0,0,0,0,3,10,0,0,1,1
+2017-12-16,Bundesliga,2017-18,Ein Frankfurt,Schalke 04,2,2,4,6,4,2,0,0,4,10,6,0,1,1
+2017-12-16,Bundesliga,2017-18,FC Koln,Wolfsburg,1,0,5,4,2,1,0,0,1,9,3,0,0,0
+2017-12-16,Bundesliga,2017-18,Werder Bremen,Mainz,2,2,8,5,2,3,0,0,4,13,5,0,1,1
+2017-12-17,Bundesliga,2017-18,RB Leipzig,Hertha,2,3,6,1,1,3,0,1,5,7,4,1,1,1
+2017-12-17,Bundesliga,2017-18,Hannover,Leverkusen,4,4,6,5,0,1,0,0,8,11,1,0,1,1
+2018-01-12,Bundesliga,2017-18,Leverkusen,Bayern Munich,1,3,6,6,2,2,0,0,4,12,4,0,1,1
+2018-01-13,Bundesliga,2017-18,Augsburg,Hamburg,1,0,6,4,1,1,0,0,1,10,2,0,0,0
+2018-01-13,Bundesliga,2017-18,Ein Frankfurt,Freiburg,1,1,9,2,0,0,0,0,2,11,0,0,1,0
+2018-01-13,Bundesliga,2017-18,Hannover,Mainz,3,2,8,8,0,2,0,0,5,16,2,0,1,1
+2018-01-13,Bundesliga,2017-18,RB Leipzig,Schalke 04,3,1,4,4,2,2,0,0,4,8,4,0,1,1
+2018-01-13,Bundesliga,2017-18,Stuttgart,Hertha,1,0,4,4,1,0,0,0,1,8,1,0,0,0
+2018-01-13,Bundesliga,2017-18,Werder Bremen,Hoffenheim,1,1,6,8,1,3,0,0,2,14,4,0,1,0
+2018-01-14,Bundesliga,2017-18,FC Koln,M'gladbach,2,1,3,3,2,3,0,0,3,6,5,0,1,1
+2018-01-14,Bundesliga,2017-18,Dortmund,Wolfsburg,0,0,6,7,1,1,0,0,0,13,2,0,0,0
+2018-01-19,Bundesliga,2017-18,Hertha,Dortmund,1,1,3,5,3,1,0,0,2,8,4,0,1,0
+2018-01-20,Bundesliga,2017-18,Freiburg,RB Leipzig,2,1,6,6,0,0,0,0,3,12,0,0,1,1
+2018-01-20,Bundesliga,2017-18,Hamburg,FC Koln,0,2,9,3,3,3,0,0,2,12,6,0,0,0
+2018-01-20,Bundesliga,2017-18,Hoffenheim,Leverkusen,1,4,4,1,2,1,0,0,5,5,3,0,1,1
+2018-01-20,Bundesliga,2017-18,Mainz,Stuttgart,3,2,7,3,2,4,0,0,5,10,6,0,1,1
+2018-01-20,Bundesliga,2017-18,M'gladbach,Augsburg,2,0,8,5,0,1,0,0,2,13,1,0,0,0
+2018-01-20,Bundesliga,2017-18,Wolfsburg,Ein Frankfurt,1,3,4,3,4,2,1,0,4,7,6,1,1,1
+2018-01-21,Bundesliga,2017-18,Schalke 04,Hannover,1,1,1,2,2,1,0,0,2,3,3,0,1,0
+2018-01-21,Bundesliga,2017-18,Bayern Munich,Werder Bremen,4,2,4,7,0,2,0,0,6,11,2,0,1,1
+2018-01-26,Bundesliga,2017-18,Ein Frankfurt,M'gladbach,2,0,4,4,5,2,0,0,2,8,7,0,0,0
+2018-01-27,Bundesliga,2017-18,Bayern Munich,Hoffenheim,5,2,3,4,0,2,0,0,7,7,2,0,1,1
+2018-01-27,Bundesliga,2017-18,Dortmund,Freiburg,2,2,5,2,1,0,0,0,4,7,1,0,1,1
+2018-01-27,Bundesliga,2017-18,FC Koln,Augsburg,1,1,6,6,3,3,0,0,2,12,6,0,1,0
+2018-01-27,Bundesliga,2017-18,RB Leipzig,Hamburg,1,1,3,3,0,2,0,0,2,6,2,0,1,0
+2018-01-27,Bundesliga,2017-18,Stuttgart,Schalke 04,0,2,4,6,2,1,0,0,2,10,3,0,0,0
+2018-01-27,Bundesliga,2017-18,Werder Bremen,Hertha,0,0,2,2,3,2,0,0,0,4,5,0,0,0
+2018-01-28,Bundesliga,2017-18,Leverkusen,Mainz,2,0,13,0,1,2,0,0,2,13,3,0,0,0
+2018-01-28,Bundesliga,2017-18,Hannover,Wolfsburg,0,1,7,0,2,3,0,0,1,7,5,0,0,0
+2018-02-02,Bundesliga,2017-18,FC Koln,Dortmund,2,3,5,2,2,1,0,0,5,7,3,0,1,1
+2018-02-03,Bundesliga,2017-18,Freiburg,Leverkusen,0,0,2,4,7,1,0,0,0,6,8,0,0,0
+2018-02-03,Bundesliga,2017-18,Hertha,Hoffenheim,1,1,0,5,0,2,0,0,2,5,2,0,1,0
+2018-02-03,Bundesliga,2017-18,Mainz,Bayern Munich,0,2,3,5,0,3,0,0,2,8,3,0,0,0
+2018-02-03,Bundesliga,2017-18,M'gladbach,RB Leipzig,0,1,1,7,2,2,0,0,1,8,4,0,0,0
+2018-02-03,Bundesliga,2017-18,Schalke 04,Werder Bremen,1,2,3,2,3,1,1,0,3,5,4,1,1,1
+2018-02-03,Bundesliga,2017-18,Wolfsburg,Stuttgart,1,1,3,6,0,2,0,0,2,9,2,0,1,0
+2018-02-04,Bundesliga,2017-18,Augsburg,Ein Frankfurt,3,0,1,2,1,1,0,0,3,3,2,0,0,1
+2018-02-04,Bundesliga,2017-18,Hamburg,Hannover,1,1,8,3,2,1,1,0,2,11,3,1,1,0
+2018-02-09,Bundesliga,2017-18,RB Leipzig,Augsburg,2,0,6,7,0,2,0,0,2,13,2,0,0,0
+2018-02-10,Bundesliga,2017-18,Bayern Munich,Schalke 04,2,1,4,3,2,2,0,0,3,7,4,0,1,1
+2018-02-10,Bundesliga,2017-18,Dortmund,Hamburg,2,0,2,4,0,1,0,0,2,6,1,0,0,0
+2018-02-10,Bundesliga,2017-18,Ein Frankfurt,FC Koln,4,2,4,1,2,1,0,0,6,5,3,0,1,1
+2018-02-10,Bundesliga,2017-18,Hannover,Freiburg,2,1,3,4,0,2,0,0,3,7,2,0,1,1
+2018-02-10,Bundesliga,2017-18,Hoffenheim,Mainz,4,2,5,2,4,3,0,0,6,7,7,0,1,1
+2018-02-10,Bundesliga,2017-18,Leverkusen,Hertha,0,2,9,4,2,2,0,0,2,13,4,0,0,0
+2018-02-11,Bundesliga,2017-18,Stuttgart,M'gladbach,1,0,1,8,1,0,0,0,1,9,1,0,0,0
+2018-02-11,Bundesliga,2017-18,Werder Bremen,Wolfsburg,3,1,6,8,1,5,0,0,4,14,6,0,1,1
+2018-02-16,Bundesliga,2017-18,Hertha,Mainz,0,2,6,4,0,3,0,0,2,10,3,0,0,0
+2018-02-17,Bundesliga,2017-18,Wolfsburg,Bayern Munich,1,2,4,8,4,3,0,0,3,12,7,0,1,1
+2018-02-17,Bundesliga,2017-18,Schalke 04,Hoffenheim,2,1,4,3,2,6,0,0,3,7,8,0,1,1
+2018-02-17,Bundesliga,2017-18,FC Koln,Hannover,1,1,5,4,2,3,0,0,2,9,5,0,1,0
+2018-02-17,Bundesliga,2017-18,Freiburg,Werder Bremen,1,0,0,5,2,2,0,0,1,5,4,0,0,0
+2018-02-17,Bundesliga,2017-18,Hamburg,Leverkusen,1,2,4,3,2,2,0,0,3,7,4,0,1,1
+2018-02-18,Bundesliga,2017-18,Augsburg,Stuttgart,0,1,4,7,4,1,0,0,1,11,5,0,0,0
+2018-02-18,Bundesliga,2017-18,M'gladbach,Dortmund,0,1,6,5,3,3,0,0,1,11,6,0,0,0
+2018-02-19,Bundesliga,2017-18,Ein Frankfurt,RB Leipzig,2,1,7,5,6,2,0,0,3,12,8,0,1,1
+2018-02-23,Bundesliga,2017-18,Mainz,Wolfsburg,1,1,2,3,0,0,0,0,2,5,0,0,1,0
+2018-02-24,Bundesliga,2017-18,Werder Bremen,Hamburg,1,0,11,2,1,1,0,0,1,13,2,0,0,0
+2018-02-24,Bundesliga,2017-18,Stuttgart,Ein Frankfurt,1,0,4,3,2,2,0,0,1,7,4,0,0,0
+2018-02-24,Bundesliga,2017-18,Bayern Munich,Hertha,0,0,9,2,0,0,0,0,0,11,0,0,0,0
+2018-02-24,Bundesliga,2017-18,Hannover,M'gladbach,0,1,10,6,2,1,0,0,1,16,3,0,0,0
+2018-02-24,Bundesliga,2017-18,Hoffenheim,Freiburg,1,1,4,2,1,1,0,0,2,6,2,0,1,0
+2018-02-25,Bundesliga,2017-18,Leverkusen,Schalke 04,0,2,7,3,4,4,1,0,2,10,8,1,0,0
+2018-02-25,Bundesliga,2017-18,RB Leipzig,FC Koln,1,2,3,7,1,1,0,0,3,10,2,0,1,1
+2018-02-26,Bundesliga,2017-18,Dortmund,Augsburg,1,1,3,3,0,3,0,0,2,6,3,0,1,0
+2018-03-02,Bundesliga,2017-18,M'gladbach,Werder Bremen,2,2,5,6,2,3,0,0,4,11,5,0,1,1
+2018-03-03,Bundesliga,2017-18,Wolfsburg,Leverkusen,1,2,3,2,7,1,1,0,3,5,8,1,1,1
+2018-03-03,Bundesliga,2017-18,Schalke 04,Hertha,1,0,2,6,0,1,0,0,1,8,1,0,0,0
+2018-03-03,Bundesliga,2017-18,RB Leipzig,Dortmund,1,1,2,3,0,4,0,0,2,5,4,0,1,0
+2018-03-03,Bundesliga,2017-18,Hamburg,Mainz,0,0,11,1,4,5,0,1,0,12,9,1,0,0
+2018-03-03,Bundesliga,2017-18,Augsburg,Hoffenheim,0,2,8,5,0,2,0,0,2,13,2,0,0,0
+2018-03-03,Bundesliga,2017-18,Ein Frankfurt,Hannover,1,0,5,1,3,2,0,0,1,6,5,0,0,0
+2018-03-04,Bundesliga,2017-18,FC Koln,Stuttgart,2,3,3,3,1,3,0,0,5,6,4,0,1,1
+2018-03-04,Bundesliga,2017-18,Freiburg,Bayern Munich,0,4,4,5,1,0,0,0,4,9,1,0,0,1
+2018-03-09,Bundesliga,2017-18,Mainz,Schalke 04,0,1,5,6,2,2,0,0,1,11,4,0,0,0
+2018-03-10,Bundesliga,2017-18,Hoffenheim,Wolfsburg,3,0,11,4,1,1,0,0,3,15,2,0,0,1
+2018-03-10,Bundesliga,2017-18,Leverkusen,M'gladbach,2,0,3,5,0,3,0,0,2,8,3,0,0,0
+2018-03-10,Bundesliga,2017-18,Hertha,Freiburg,0,0,5,4,1,0,0,0,0,9,1,0,0,0
+2018-03-10,Bundesliga,2017-18,Bayern Munich,Hamburg,6,0,11,1,1,2,0,0,6,12,3,0,0,1
+2018-03-10,Bundesliga,2017-18,Hannover,Augsburg,1,3,3,6,2,2,0,0,4,9,4,0,1,1
+2018-03-11,Bundesliga,2017-18,Dortmund,Ein Frankfurt,3,2,5,8,3,3,0,0,5,13,6,0,1,1
+2018-03-11,Bundesliga,2017-18,Stuttgart,RB Leipzig,0,0,3,5,0,2,0,0,0,8,2,0,0,0
+2018-03-12,Bundesliga,2017-18,Werder Bremen,FC Koln,3,1,7,3,0,3,0,0,4,10,3,0,1,1
+2018-03-16,Bundesliga,2017-18,Freiburg,Stuttgart,1,2,1,3,2,1,0,0,3,4,3,0,1,1
+2018-03-17,Bundesliga,2017-18,Augsburg,Werder Bremen,1,3,8,7,2,1,0,0,4,15,3,0,1,1
+2018-03-17,Bundesliga,2017-18,Ein Frankfurt,Mainz,3,0,4,6,0,1,0,0,3,10,1,0,0,1
+2018-03-17,Bundesliga,2017-18,Hamburg,Hertha,1,2,1,6,1,3,0,0,3,7,4,0,1,1
+2018-03-17,Bundesliga,2017-18,M'gladbach,Hoffenheim,3,3,9,3,0,1,0,0,6,12,1,0,1,1
+2018-03-17,Bundesliga,2017-18,Wolfsburg,Schalke 04,0,1,5,2,0,1,0,0,1,7,1,0,0,0
+2018-03-18,Bundesliga,2017-18,Dortmund,Hannover,1,0,12,2,2,1,0,0,1,14,3,0,0,0
+2018-03-18,Bundesliga,2017-18,FC Koln,Leverkusen,2,0,2,2,3,1,0,1,2,4,4,1,0,0
+2018-03-18,Bundesliga,2017-18,RB Leipzig,Bayern Munich,2,1,3,6,3,4,0,0,3,9,7,0,1,1
+2018-03-31,Bundesliga,2017-18,Stuttgart,Hamburg,1,1,3,7,1,1,0,0,2,10,2,0,1,0
+2018-03-31,Bundesliga,2017-18,Schalke 04,Freiburg,2,0,2,2,2,2,0,1,2,4,4,1,0,0
+2018-03-31,Bundesliga,2017-18,Leverkusen,Augsburg,0,0,5,1,0,2,0,0,0,6,2,0,0,0
+2018-03-31,Bundesliga,2017-18,Hoffenheim,FC Koln,6,0,4,8,1,0,0,0,6,12,1,0,0,1
+2018-03-31,Bundesliga,2017-18,Hannover,RB Leipzig,2,3,6,3,3,4,0,0,5,9,7,0,1,1
+2018-03-31,Bundesliga,2017-18,Bayern Munich,Dortmund,6,0,2,1,1,1,0,0,6,3,2,0,0,1
+2018-03-31,Bundesliga,2017-18,Hertha,Wolfsburg,0,0,4,5,1,3,0,1,0,9,4,1,0,0
+2018-04-01,Bundesliga,2017-18,Mainz,M'gladbach,0,0,7,6,0,1,0,0,0,13,1,0,0,0
+2018-04-01,Bundesliga,2017-18,Werder Bremen,Ein Frankfurt,2,1,6,3,2,0,0,0,3,9,2,0,1,1
+2018-04-06,Bundesliga,2017-18,Hannover,Werder Bremen,2,1,4,2,1,2,0,0,3,6,3,0,1,1
+2018-04-07,Bundesliga,2017-18,M'gladbach,Hertha,2,1,4,5,1,2,0,0,3,9,3,0,1,1
+2018-04-07,Bundesliga,2017-18,Hamburg,Schalke 04,3,2,8,1,2,2,0,0,5,9,4,0,1,1
+2018-04-07,Bundesliga,2017-18,FC Koln,Mainz,1,1,8,3,4,5,0,1,2,11,9,1,1,0
+2018-04-07,Bundesliga,2017-18,Augsburg,Bayern Munich,1,4,1,6,3,1,0,0,5,7,4,0,1,1
+2018-04-07,Bundesliga,2017-18,Freiburg,Wolfsburg,0,2,9,3,0,1,0,0,2,12,1,0,0,0
+2018-04-08,Bundesliga,2017-18,Dortmund,Stuttgart,3,0,5,7,1,4,0,0,3,12,5,0,0,1
+2018-04-08,Bundesliga,2017-18,Ein Frankfurt,Hoffenheim,1,1,8,3,0,2,0,0,2,11,2,0,1,0
+2018-04-09,Bundesliga,2017-18,RB Leipzig,Leverkusen,1,4,8,9,0,0,0,0,5,17,0,0,1,1
+2018-04-13,Bundesliga,2017-18,Wolfsburg,Augsburg,0,0,7,5,2,4,1,1,0,12,6,2,0,0
+2018-04-14,Bundesliga,2017-18,Stuttgart,Hannover,1,1,10,4,1,2,0,0,2,14,3,0,1,0
+2018-04-14,Bundesliga,2017-18,Leverkusen,Ein Frankfurt,4,1,2,2,3,4,0,0,5,4,7,0,1,1
+2018-04-14,Bundesliga,2017-18,Hoffenheim,Hamburg,2,0,7,8,1,2,0,0,2,15,3,0,0,0
+2018-04-14,Bundesliga,2017-18,Bayern Munich,M'gladbach,5,1,6,0,2,1,0,0,6,6,3,0,1,1
+2018-04-14,Bundesliga,2017-18,Hertha,FC Koln,2,1,6,8,1,3,0,0,3,14,4,0,1,1
+2018-04-15,Bundesliga,2017-18,Schalke 04,Dortmund,2,0,4,6,1,1,0,0,2,10,2,0,0,0
+2018-04-15,Bundesliga,2017-18,Werder Bremen,RB Leipzig,1,1,5,2,2,1,0,0,2,7,3,0,1,0
+2018-04-16,Bundesliga,2017-18,Mainz,Freiburg,2,0,4,4,1,2,0,0,2,8,3,0,0,0
+2018-04-20,Bundesliga,2017-18,M'gladbach,Wolfsburg,3,0,8,5,0,2,0,0,3,13,2,0,0,1
+2018-04-21,Bundesliga,2017-18,Dortmund,Leverkusen,4,0,7,6,0,0,0,0,4,13,0,0,0,1
+2018-04-21,Bundesliga,2017-18,Ein Frankfurt,Hertha,0,3,5,0,1,1,1,0,3,5,2,1,0,1
+2018-04-21,Bundesliga,2017-18,Hannover,Bayern Munich,0,3,2,7,1,0,0,0,3,9,1,0,0,1
+2018-04-21,Bundesliga,2017-18,RB Leipzig,Hoffenheim,2,5,8,4,0,2,1,0,7,12,2,1,1,1
+2018-04-21,Bundesliga,2017-18,Stuttgart,Werder Bremen,2,0,3,5,1,2,0,0,2,8,3,0,0,0
+2018-04-21,Bundesliga,2017-18,Hamburg,Freiburg,1,0,10,4,3,3,0,1,1,14,6,1,0,0
+2018-04-22,Bundesliga,2017-18,Augsburg,Mainz,2,0,4,5,4,1,0,0,2,9,5,0,0,0
+2018-04-22,Bundesliga,2017-18,FC Koln,Schalke 04,2,2,5,7,0,0,0,0,4,12,0,0,1,1
+2018-04-27,Bundesliga,2017-18,Hoffenheim,Hannover,3,1,7,4,3,1,0,0,4,11,4,0,1,1
+2018-04-28,Bundesliga,2017-18,Leverkusen,Stuttgart,0,1,6,2,2,0,0,0,1,8,2,0,0,0
+2018-04-28,Bundesliga,2017-18,Schalke 04,M'gladbach,1,1,1,1,2,4,1,0,2,2,6,1,1,0
+2018-04-28,Bundesliga,2017-18,Wolfsburg,Hamburg,1,3,2,6,3,2,0,0,4,8,5,0,1,1
+2018-04-28,Bundesliga,2017-18,Hertha,Augsburg,2,2,6,3,0,2,0,1,4,9,2,1,1,1
+2018-04-28,Bundesliga,2017-18,Bayern Munich,Ein Frankfurt,4,1,1,2,0,0,0,0,5,3,0,0,1,1
+2018-04-28,Bundesliga,2017-18,Freiburg,FC Koln,3,2,2,5,2,4,0,0,5,7,6,0,1,1
+2018-04-29,Bundesliga,2017-18,Mainz,RB Leipzig,3,0,7,8,2,4,0,1,3,15,6,1,0,1
+2018-04-29,Bundesliga,2017-18,Werder Bremen,Dortmund,1,1,7,5,1,2,0,0,2,12,3,0,1,0
+2018-05-05,Bundesliga,2017-18,Augsburg,Schalke 04,1,2,4,4,2,3,0,0,3,8,5,0,1,1
+2018-05-05,Bundesliga,2017-18,Dortmund,Mainz,1,2,4,2,3,3,0,0,3,6,6,0,1,1
+2018-05-05,Bundesliga,2017-18,Ein Frankfurt,Hamburg,3,0,3,7,2,0,0,0,3,10,2,0,0,1
+2018-05-05,Bundesliga,2017-18,FC Koln,Bayern Munich,1,3,4,7,1,0,0,0,4,11,1,0,1,1
+2018-05-05,Bundesliga,2017-18,Hannover,Hertha,3,1,4,6,2,4,0,0,4,10,6,0,1,1
+2018-05-05,Bundesliga,2017-18,M'gladbach,Freiburg,3,1,7,3,0,3,0,0,4,10,3,0,1,1
+2018-05-05,Bundesliga,2017-18,RB Leipzig,Wolfsburg,4,1,2,5,0,1,0,0,5,7,1,0,1,1
+2018-05-05,Bundesliga,2017-18,Stuttgart,Hoffenheim,2,0,1,9,6,1,1,0,2,10,7,1,0,0
+2018-05-05,Bundesliga,2017-18,Werder Bremen,Leverkusen,0,0,3,1,3,5,0,0,0,4,8,0,0,0
+2018-05-12,Bundesliga,2017-18,Leverkusen,Hannover,3,2,5,2,2,2,0,0,5,7,4,0,1,1
+2018-05-12,Bundesliga,2017-18,Mainz,Werder Bremen,1,2,3,7,0,1,0,0,3,10,1,0,1,1
+2018-05-12,Bundesliga,2017-18,Hoffenheim,Dortmund,3,1,2,3,0,0,0,0,4,5,0,0,1,1
+2018-05-12,Bundesliga,2017-18,Schalke 04,Ein Frankfurt,1,0,4,3,0,2,0,0,1,7,2,0,0,0
+2018-05-12,Bundesliga,2017-18,Hamburg,M'gladbach,2,1,8,3,3,1,1,0,3,11,4,1,1,1
+2018-05-12,Bundesliga,2017-18,Freiburg,Augsburg,2,0,5,4,1,2,0,0,2,9,3,0,0,0
+2018-05-12,Bundesliga,2017-18,Bayern Munich,Stuttgart,1,4,10,0,1,0,0,0,5,10,1,0,1,1
+2018-05-12,Bundesliga,2017-18,Hertha,RB Leipzig,2,6,3,6,1,1,0,0,8,9,2,0,1,1
+2018-05-12,Bundesliga,2017-18,Wolfsburg,FC Koln,4,1,5,10,2,3,0,0,5,15,5,0,1,1

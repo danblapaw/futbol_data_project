@@ -1,241 +1,241 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2015-07-24,First Division A,2015-16,St Truiden,Club Brugge,2,1,0,0,3,0,1,1
-2015-07-25,First Division A,2015-16,Genk,Oud-Heverlee Leuven,3,1,0,0,4,0,1,1
-2015-07-25,First Division A,2015-16,Kortrijk,Standard,2,1,0,0,3,0,1,1
-2015-07-25,First Division A,2015-16,Oostende,Mechelen,3,1,0,0,4,0,1,1
-2015-07-25,First Division A,2015-16,Waregem,Lokeren,3,1,0,0,4,0,1,1
-2015-07-26,First Division A,2015-16,Anderlecht,Waasland-Beveren,3,2,0,0,5,0,1,1
-2015-07-26,First Division A,2015-16,Charleroi,Mouscron-Peruwelz,2,1,0,0,3,0,1,1
-2015-07-26,First Division A,2015-16,Westerlo,Gent,1,1,0,0,2,0,1,0
-2015-07-31,First Division A,2015-16,Gent,Genk,1,0,0,0,1,0,0,0
-2015-08-01,First Division A,2015-16,Club Brugge,Mechelen,3,0,0,0,3,0,0,1
-2015-08-01,First Division A,2015-16,Mouscron-Peruwelz,St Truiden,0,2,0,0,2,0,0,0
-2015-08-01,First Division A,2015-16,Oostende,Westerlo,2,1,0,0,3,0,1,1
-2015-08-01,First Division A,2015-16,Waasland-Beveren,Kortrijk,2,1,0,0,3,0,1,1
-2015-08-02,First Division A,2015-16,Standard,Waregem,2,1,0,0,3,0,1,1
-2015-08-02,First Division A,2015-16,Oud-Heverlee Leuven,Anderlecht,0,2,0,0,2,0,0,0
-2015-08-02,First Division A,2015-16,Lokeren,Charleroi,2,2,0,0,4,0,1,1
-2015-08-07,First Division A,2015-16,Waregem,Genk,0,0,0,0,0,0,0,0
-2015-08-08,First Division A,2015-16,Kortrijk,Lokeren,0,0,0,0,0,0,0,0
-2015-08-08,First Division A,2015-16,Mechelen,Mouscron-Peruwelz,3,1,0,0,4,0,1,1
-2015-08-08,First Division A,2015-16,St Truiden,Oostende,1,1,0,0,2,0,1,0
-2015-08-08,First Division A,2015-16,Westerlo,Oud-Heverlee Leuven,3,2,0,0,5,0,1,1
-2015-08-09,First Division A,2015-16,Anderlecht,Gent,1,1,0,0,2,0,1,0
-2015-08-09,First Division A,2015-16,Charleroi,Club Brugge,0,0,0,0,0,0,0,0
-2015-08-09,First Division A,2015-16,Standard,Waasland-Beveren,1,0,0,0,1,0,0,0
-2015-08-14,First Division A,2015-16,Club Brugge,Kortrijk,2,1,0,0,3,0,1,1
-2015-08-15,First Division A,2015-16,Genk,Westerlo,2,1,0,0,3,0,1,1
-2015-08-15,First Division A,2015-16,Lokeren,Mechelen,2,0,0,0,2,0,0,0
-2015-08-15,First Division A,2015-16,Mouscron-Peruwelz,Standard,1,1,0,0,2,0,1,0
-2015-08-15,First Division A,2015-16,Waasland-Beveren,Waregem,2,1,0,0,3,0,1,1
-2015-08-16,First Division A,2015-16,Oud-Heverlee Leuven,Charleroi,2,0,0,0,2,0,0,0
-2015-08-16,First Division A,2015-16,Gent,St Truiden,1,0,0,0,1,0,0,0
-2015-08-16,First Division A,2015-16,Oostende,Anderlecht,3,1,0,0,4,0,1,1
-2015-08-21,First Division A,2015-16,St Truiden,Genk,3,1,0,0,4,0,1,1
-2015-08-22,First Division A,2015-16,Charleroi,Westerlo,0,0,0,0,0,0,0,0
-2015-08-22,First Division A,2015-16,Mechelen,Oud-Heverlee Leuven,2,1,0,0,3,0,1,1
-2015-08-22,First Division A,2015-16,Waasland-Beveren,Mouscron-Peruwelz,3,3,0,0,6,0,1,1
-2015-08-22,First Division A,2015-16,Waregem,Club Brugge,2,0,0,0,2,0,0,0
-2015-08-23,First Division A,2015-16,Anderlecht,Lokeren,1,0,0,0,1,0,0,0
-2015-08-23,First Division A,2015-16,Kortrijk,Gent,0,0,0,0,0,0,0,0
-2015-08-23,First Division A,2015-16,Standard,Oostende,1,2,0,0,3,0,1,1
-2015-08-28,First Division A,2015-16,Genk,Charleroi,2,0,0,0,2,0,0,0
-2015-08-29,First Division A,2015-16,Oud-Heverlee Leuven,St Truiden,1,0,0,0,1,0,0,0
-2015-08-29,First Division A,2015-16,Oostende,Waregem,0,2,0,0,2,0,0,0
-2015-08-29,First Division A,2015-16,Gent,Mechelen,2,2,0,0,4,0,1,1
-2015-08-29,First Division A,2015-16,Mouscron-Peruwelz,Kortrijk,0,1,0,0,1,0,0,0
-2015-08-30,First Division A,2015-16,Club Brugge,Standard,7,1,0,0,8,0,1,1
-2015-08-30,First Division A,2015-16,Lokeren,Waasland-Beveren,1,2,0,0,3,0,1,1
-2015-08-30,First Division A,2015-16,Westerlo,Anderlecht,0,3,0,0,3,0,0,1
-2015-09-11,First Division A,2015-16,Mouscron-Peruwelz,Club Brugge,2,1,0,0,3,0,1,1
-2015-09-12,First Division A,2015-16,Kortrijk,Oud-Heverlee Leuven,0,0,0,0,0,0,0,0
-2015-09-12,First Division A,2015-16,Mechelen,Westerlo,2,2,0,0,4,0,1,1
-2015-09-12,First Division A,2015-16,Waasland-Beveren,Oostende,1,5,0,0,6,0,1,1
-2015-09-12,First Division A,2015-16,Waregem,Gent,1,1,0,0,2,0,1,0
-2015-09-13,First Division A,2015-16,Standard,Lokeren,0,1,0,0,1,0,0,0
-2015-09-13,First Division A,2015-16,Anderlecht,Genk,0,0,0,0,0,0,0,0
-2015-09-13,First Division A,2015-16,St Truiden,Charleroi,1,1,0,0,2,0,1,0
-2015-09-18,First Division A,2015-16,Genk,Mechelen,3,1,0,0,4,0,1,1
-2015-09-19,First Division A,2015-16,Westerlo,St Truiden,0,3,0,0,3,0,0,1
-2015-09-19,First Division A,2015-16,Oud-Heverlee Leuven,Waregem,2,3,0,0,5,0,1,1
-2015-09-19,First Division A,2015-16,Oostende,Kortrijk,1,0,0,0,1,0,0,0
-2015-09-19,First Division A,2015-16,Lokeren,Mouscron-Peruwelz,1,2,0,0,3,0,1,1
-2015-09-20,First Division A,2015-16,Charleroi,Anderlecht,1,1,0,0,2,0,1,0
-2015-09-20,First Division A,2015-16,Club Brugge,Waasland-Beveren,5,1,0,0,6,0,1,1
-2015-09-20,First Division A,2015-16,Gent,Standard,4,1,0,0,5,0,1,1
-2015-09-25,First Division A,2015-16,Waregem,Westerlo,4,2,0,0,6,0,1,1
-2015-09-26,First Division A,2015-16,Mechelen,Charleroi,0,1,0,0,1,0,0,0
-2015-09-26,First Division A,2015-16,Mouscron-Peruwelz,Oostende,2,2,0,0,4,0,1,1
-2015-09-26,First Division A,2015-16,Standard,Oud-Heverlee Leuven,2,2,0,0,4,0,1,1
-2015-09-26,First Division A,2015-16,Waasland-Beveren,Gent,1,3,0,0,4,0,1,1
-2015-09-27,First Division A,2015-16,Anderlecht,St Truiden,1,0,0,0,1,0,0,0
-2015-09-27,First Division A,2015-16,Kortrijk,Genk,1,0,0,0,1,0,0,0
-2015-09-27,First Division A,2015-16,Lokeren,Club Brugge,0,1,0,0,1,0,0,0
-2015-10-02,First Division A,2015-16,Oostende,Lokeren,2,0,0,0,2,0,0,0
-2015-10-03,First Division A,2015-16,Westerlo,Kortrijk,1,1,0,0,2,0,1,0
-2015-10-03,First Division A,2015-16,St Truiden,Waasland-Beveren,1,3,0,0,4,0,1,1
-2015-10-03,First Division A,2015-16,Charleroi,Waregem,3,0,0,0,3,0,0,1
-2015-10-03,First Division A,2015-16,Oud-Heverlee Leuven,Mouscron-Peruwelz,1,1,0,0,2,0,1,0
-2015-10-04,First Division A,2015-16,Anderlecht,Mechelen,1,1,0,0,2,0,1,0
-2015-10-04,First Division A,2015-16,Genk,Standard,3,1,0,0,4,0,1,1
-2015-10-04,First Division A,2015-16,Gent,Club Brugge,4,1,0,0,5,0,1,1
-2015-10-16,First Division A,2015-16,Mouscron-Peruwelz,Gent,1,2,0,0,3,0,1,1
-2015-10-17,First Division A,2015-16,Lokeren,Oud-Heverlee Leuven,1,2,0,0,3,0,1,1
-2015-10-17,First Division A,2015-16,Mechelen,St Truiden,3,0,0,0,3,0,0,1
-2015-10-17,First Division A,2015-16,Standard,Westerlo,1,2,0,0,3,0,1,1
-2015-10-17,First Division A,2015-16,Waasland-Beveren,Genk,0,1,0,0,1,0,0,0
-2015-10-18,First Division A,2015-16,Kortrijk,Charleroi,2,0,0,0,2,0,0,0
-2015-10-18,First Division A,2015-16,Club Brugge,Oostende,1,0,0,0,1,0,0,0
-2015-10-18,First Division A,2015-16,Waregem,Anderlecht,0,4,0,0,4,0,0,1
-2015-10-23,First Division A,2015-16,Genk,Mouscron-Peruwelz,0,4,0,0,4,0,0,1
-2015-10-24,First Division A,2015-16,Gent,Oostende,2,2,0,0,4,0,1,1
-2015-10-24,First Division A,2015-16,Mechelen,Waregem,3,4,0,0,7,0,1,1
-2015-10-24,First Division A,2015-16,Oud-Heverlee Leuven,Waasland-Beveren,0,2,0,0,2,0,0,0
-2015-10-24,First Division A,2015-16,Westerlo,Lokeren,1,2,0,0,3,0,1,1
-2015-10-25,First Division A,2015-16,Anderlecht,Club Brugge,3,1,0,0,4,0,1,1
-2015-10-25,First Division A,2015-16,Charleroi,Standard,2,3,0,0,5,0,1,1
-2015-10-25,First Division A,2015-16,St Truiden,Kortrijk,2,1,0,0,3,0,1,1
-2015-10-27,First Division A,2015-16,Lokeren,Gent,1,2,0,0,3,0,1,1
-2015-10-27,First Division A,2015-16,Mouscron-Peruwelz,Westerlo,2,2,0,0,4,0,1,1
-2015-10-27,First Division A,2015-16,Oostende,Genk,3,2,0,0,5,0,1,1
-2015-10-28,First Division A,2015-16,Club Brugge,Oud-Heverlee Leuven,2,0,0,0,2,0,0,0
-2015-10-28,First Division A,2015-16,Standard,Mechelen,2,1,0,0,3,0,1,1
-2015-10-28,First Division A,2015-16,Waasland-Beveren,Charleroi,0,1,0,0,1,0,0,0
-2015-10-28,First Division A,2015-16,Waregem,St Truiden,4,0,0,0,4,0,0,1
-2015-10-29,First Division A,2015-16,Kortrijk,Anderlecht,1,1,0,0,2,0,1,0
-2015-10-30,First Division A,2015-16,Genk,Lokeren,0,2,0,0,2,0,0,0
-2015-10-31,First Division A,2015-16,Charleroi,Oostende,1,1,0,0,2,0,1,0
-2015-10-31,First Division A,2015-16,Mechelen,Waasland-Beveren,2,0,0,0,2,0,0,0
-2015-10-31,First Division A,2015-16,Oud-Heverlee Leuven,Gent,0,2,0,0,2,0,0,0
-2015-10-31,First Division A,2015-16,Westerlo,Club Brugge,0,2,0,0,2,0,0,0
-2015-11-01,First Division A,2015-16,Anderlecht,Mouscron-Peruwelz,2,0,0,0,2,0,0,0
-2015-11-01,First Division A,2015-16,St Truiden,Standard,1,0,0,0,1,0,0,0
-2015-11-01,First Division A,2015-16,Waregem,Kortrijk,2,2,0,0,4,0,1,1
-2015-11-06,First Division A,2015-16,Mouscron-Peruwelz,Waregem,2,2,0,0,4,0,1,1
-2015-11-07,First Division A,2015-16,Kortrijk,Mechelen,1,0,0,0,1,0,0,0
-2015-11-07,First Division A,2015-16,Lokeren,St Truiden,1,1,0,0,2,0,1,0
-2015-11-07,First Division A,2015-16,Oostende,Oud-Heverlee Leuven,3,0,0,0,3,0,0,1
-2015-11-07,First Division A,2015-16,Waasland-Beveren,Westerlo,2,2,0,0,4,0,1,1
-2015-11-08,First Division A,2015-16,Gent,Charleroi,1,3,0,0,4,0,1,1
-2015-11-08,First Division A,2015-16,Standard,Anderlecht,1,0,0,0,1,0,0,0
-2015-11-08,First Division A,2015-16,Club Brugge,Genk,1,0,0,0,1,0,0,0
-2015-11-20,First Division A,2015-16,Gent,Westerlo,5,0,0,0,5,0,0,1
-2015-11-21,First Division A,2015-16,Club Brugge,Waregem,3,0,0,0,3,0,0,1
-2015-11-21,First Division A,2015-16,Oud-Heverlee Leuven,Genk,1,3,0,0,4,0,1,1
-2015-11-21,First Division A,2015-16,Waasland-Beveren,St Truiden,2,1,0,0,3,0,1,1
-2015-11-22,First Division A,2015-16,Mechelen,Oostende,2,1,0,0,3,0,1,1
-2015-11-22,First Division A,2015-16,Standard,Kortrijk,1,1,0,0,2,0,1,0
-2015-11-27,First Division A,2015-16,Waregem,Standard,2,3,0,0,5,0,1,1
-2015-11-28,First Division A,2015-16,Charleroi,Lokeren,1,2,0,0,3,0,1,1
-2015-11-28,First Division A,2015-16,Genk,Gent,0,1,0,0,1,0,0,0
-2015-11-28,First Division A,2015-16,Kortrijk,Waasland-Beveren,3,1,0,0,4,0,1,1
-2015-11-28,First Division A,2015-16,St Truiden,Mouscron-Peruwelz,0,1,0,0,1,0,0,0
-2015-11-29,First Division A,2015-16,Mechelen,Club Brugge,1,4,0,0,5,0,1,1
-2015-11-29,First Division A,2015-16,Westerlo,Oostende,0,1,0,0,1,0,0,0
-2015-11-29,First Division A,2015-16,Anderlecht,Oud-Heverlee Leuven,3,2,0,0,5,0,1,1
-2015-12-04,First Division A,2015-16,Gent,Waregem,2,2,0,0,4,0,1,1
-2015-12-05,First Division A,2015-16,Mouscron-Peruwelz,Mechelen,2,3,0,0,5,0,1,1
-2015-12-05,First Division A,2015-16,Oostende,St Truiden,1,2,0,0,3,0,1,1
-2015-12-05,First Division A,2015-16,Oud-Heverlee Leuven,Westerlo,5,1,0,0,6,0,1,1
-2015-12-05,First Division A,2015-16,Waasland-Beveren,Standard,0,0,0,0,0,0,0,0
-2015-12-06,First Division A,2015-16,Club Brugge,Charleroi,2,1,0,0,3,0,1,1
-2015-12-06,First Division A,2015-16,Genk,Anderlecht,0,0,0,0,0,0,0,0
-2015-12-06,First Division A,2015-16,Lokeren,Kortrijk,3,1,0,0,4,0,1,1
-2015-12-11,First Division A,2015-16,Westerlo,Genk,0,0,0,0,0,0,0,0
-2015-12-12,First Division A,2015-16,Waregem,Waasland-Beveren,2,1,0,0,3,0,1,1
-2015-12-12,First Division A,2015-16,Charleroi,Oud-Heverlee Leuven,2,1,0,0,3,0,1,1
-2015-12-12,First Division A,2015-16,Kortrijk,Mouscron-Peruwelz,1,3,0,0,4,0,1,1
-2015-12-12,First Division A,2015-16,Mechelen,Lokeren,1,1,0,0,2,0,1,0
-2015-12-13,First Division A,2015-16,Standard,Club Brugge,2,0,0,0,2,0,0,0
-2015-12-13,First Division A,2015-16,St Truiden,Gent,0,2,0,0,2,0,0,0
-2015-12-13,First Division A,2015-16,Anderlecht,Oostende,1,1,0,0,2,0,1,0
-2015-12-18,First Division A,2015-16,Lokeren,Waregem,1,1,0,0,2,0,1,0
-2015-12-19,First Division A,2015-16,Genk,St Truiden,3,0,0,0,3,0,0,1
-2015-12-19,First Division A,2015-16,Mouscron-Peruwelz,Waasland-Beveren,0,1,0,0,1,0,0,0
-2015-12-19,First Division A,2015-16,Oud-Heverlee Leuven,Mechelen,3,1,0,0,4,0,1,1
-2015-12-19,First Division A,2015-16,Westerlo,Charleroi,2,1,0,0,3,0,1,1
-2015-12-20,First Division A,2015-16,Club Brugge,Anderlecht,1,4,0,0,5,0,1,1
-2015-12-20,First Division A,2015-16,Gent,Kortrijk,3,0,0,0,3,0,0,1
-2015-12-20,First Division A,2015-16,Oostende,Standard,4,1,0,0,5,0,1,1
-2015-12-22,First Division A,2015-16,Mouscron-Peruwelz,Charleroi,0,1,0,0,1,0,0,0
-2015-12-23,First Division A,2015-16,Lokeren,Anderlecht,1,1,0,0,2,0,1,0
-2015-12-26,First Division A,2015-16,Waasland-Beveren,Lokeren,2,3,0,0,5,0,1,1
-2015-12-26,First Division A,2015-16,Mechelen,Gent,2,0,0,0,2,0,0,0
-2015-12-26,First Division A,2015-16,St Truiden,Oud-Heverlee Leuven,2,2,0,0,4,0,1,1
-2015-12-26,First Division A,2015-16,Charleroi,Genk,1,0,0,0,1,0,0,0
-2015-12-26,First Division A,2015-16,Kortrijk,Club Brugge,1,4,0,0,5,0,1,1
-2015-12-27,First Division A,2015-16,Anderlecht,Westerlo,2,1,0,0,3,0,1,1
-2015-12-27,First Division A,2015-16,Standard,Mouscron-Peruwelz,3,0,0,0,3,0,0,1
-2015-12-27,First Division A,2015-16,Waregem,Oostende,1,0,0,0,1,0,0,0
-2016-01-15,First Division A,2015-16,Genk,Waregem,2,1,0,0,3,0,1,1
-2016-01-16,First Division A,2015-16,Charleroi,St Truiden,0,0,0,0,0,0,0,0
-2016-01-16,First Division A,2015-16,Club Brugge,Mouscron-Peruwelz,3,0,0,0,3,0,0,1
-2016-01-16,First Division A,2015-16,Oud-Heverlee Leuven,Kortrijk,1,0,0,0,1,0,0,0
-2016-01-16,First Division A,2015-16,Westerlo,Mechelen,3,2,0,0,5,0,1,1
-2016-01-17,First Division A,2015-16,Gent,Anderlecht,2,0,0,0,2,0,0,0
-2016-01-17,First Division A,2015-16,Lokeren,Standard,0,2,0,0,2,0,0,0
-2016-01-17,First Division A,2015-16,Oostende,Waasland-Beveren,3,3,0,0,6,0,1,1
-2016-01-22,First Division A,2015-16,Kortrijk,Oostende,2,1,0,0,3,0,1,1
-2016-01-23,First Division A,2015-16,Waregem,Oud-Heverlee Leuven,2,2,0,0,4,0,1,1
-2016-01-23,First Division A,2015-16,St Truiden,Westerlo,1,2,0,0,3,0,1,1
-2016-01-23,First Division A,2015-16,Mechelen,Genk,1,1,0,0,2,0,1,0
-2016-01-23,First Division A,2015-16,Mouscron-Peruwelz,Lokeren,1,1,0,0,2,0,1,0
-2016-01-24,First Division A,2015-16,Anderlecht,Charleroi,2,1,0,0,3,0,1,1
-2016-01-24,First Division A,2015-16,Standard,Gent,0,3,0,0,3,0,0,1
-2016-01-24,First Division A,2015-16,Waasland-Beveren,Club Brugge,1,2,0,0,3,0,1,1
-2016-01-29,First Division A,2015-16,St Truiden,Anderlecht,1,2,0,0,3,0,1,1
-2016-01-30,First Division A,2015-16,Charleroi,Mechelen,3,2,0,0,5,0,1,1
-2016-01-30,First Division A,2015-16,Genk,Kortrijk,1,0,0,0,1,0,0,0
-2016-01-30,First Division A,2015-16,Oud-Heverlee Leuven,Standard,0,2,0,0,2,0,0,0
-2016-01-30,First Division A,2015-16,Westerlo,Waregem,1,2,0,0,3,0,1,1
-2016-01-31,First Division A,2015-16,Club Brugge,Lokeren,2,1,0,0,3,0,1,1
-2016-01-31,First Division A,2015-16,Gent,Waasland-Beveren,2,1,0,0,3,0,1,1
-2016-01-31,First Division A,2015-16,Oostende,Mouscron-Peruwelz,3,3,0,0,6,0,1,1
-2016-02-05,First Division A,2015-16,Mechelen,Anderlecht,2,2,0,0,4,0,1,1
-2016-02-06,First Division A,2015-16,Mouscron-Peruwelz,Genk,0,1,0,0,1,0,0,0
-2016-02-06,First Division A,2015-16,Waasland-Beveren,Oud-Heverlee Leuven,2,2,0,0,4,0,1,1
-2016-02-06,First Division A,2015-16,Waregem,Charleroi,2,3,0,0,5,0,1,1
-2016-02-06,First Division A,2015-16,Kortrijk,Westerlo,1,1,0,0,2,0,1,0
-2016-02-07,First Division A,2015-16,Club Brugge,Gent,1,0,0,0,1,0,0,0
-2016-02-07,First Division A,2015-16,Lokeren,Oostende,0,1,0,0,1,0,0,0
-2016-02-07,First Division A,2015-16,Standard,St Truiden,1,2,0,0,3,0,1,1
-2016-02-12,First Division A,2015-16,Gent,Mouscron-Peruwelz,2,0,0,0,2,0,0,0
-2016-02-13,First Division A,2015-16,Anderlecht,Waregem,3,0,0,0,3,0,0,1
-2016-02-13,First Division A,2015-16,Charleroi,Kortrijk,1,1,0,0,2,0,1,0
-2016-02-13,First Division A,2015-16,Genk,Waasland-Beveren,6,1,0,0,7,0,1,1
-2016-02-13,First Division A,2015-16,Oud-Heverlee Leuven,Lokeren,3,3,0,0,6,0,1,1
-2016-02-14,First Division A,2015-16,Westerlo,Standard,2,0,0,0,2,0,0,0
-2016-02-14,First Division A,2015-16,St Truiden,Mechelen,0,3,0,0,3,0,0,1
-2016-02-14,First Division A,2015-16,Oostende,Club Brugge,0,2,0,0,2,0,0,0
-2016-02-19,First Division A,2015-16,Club Brugge,Westerlo,6,0,0,0,6,0,0,1
-2016-02-20,First Division A,2015-16,Kortrijk,St Truiden,3,0,0,0,3,0,0,1
-2016-02-20,First Division A,2015-16,Lokeren,Genk,0,0,0,0,0,0,0,0
-2016-02-20,First Division A,2015-16,Mouscron-Peruwelz,Oud-Heverlee Leuven,3,1,0,0,4,0,1,1
-2016-02-20,First Division A,2015-16,Standard,Charleroi,3,0,0,0,3,0,0,1
-2016-02-21,First Division A,2015-16,Oostende,Gent,5,2,0,0,7,0,1,1
-2016-02-21,First Division A,2015-16,Waasland-Beveren,Anderlecht,1,0,0,0,1,0,0,0
-2016-02-21,First Division A,2015-16,Waregem,Mechelen,2,3,0,0,5,0,1,1
-2016-02-26,First Division A,2015-16,Gent,Lokeren,3,1,0,0,4,0,1,1
-2016-02-27,First Division A,2015-16,Westerlo,Mouscron-Peruwelz,2,2,0,0,4,0,1,1
-2016-02-27,First Division A,2015-16,St Truiden,Waregem,1,2,0,0,3,0,1,1
-2016-02-27,First Division A,2015-16,Mechelen,Kortrijk,0,2,0,0,2,0,0,0
-2016-02-27,First Division A,2015-16,Oud-Heverlee Leuven,Oostende,4,1,0,0,5,0,1,1
-2016-02-28,First Division A,2015-16,Anderlecht,Standard,3,3,0,0,6,0,1,1
-2016-02-28,First Division A,2015-16,Charleroi,Waasland-Beveren,2,3,0,0,5,0,1,1
-2016-02-28,First Division A,2015-16,Genk,Club Brugge,3,2,0,0,5,0,1,1
-2016-03-04,First Division A,2015-16,Gent,Oud-Heverlee Leuven,1,1,0,0,2,0,1,0
-2016-03-05,First Division A,2015-16,Standard,Genk,2,1,0,0,3,0,1,1
-2016-03-05,First Division A,2015-16,Club Brugge,St Truiden,3,0,0,0,3,0,0,1
-2016-03-05,First Division A,2015-16,Kortrijk,Waregem,1,0,0,0,1,0,0,0
-2016-03-05,First Division A,2015-16,Lokeren,Westerlo,2,1,0,0,3,0,1,1
-2016-03-05,First Division A,2015-16,Mouscron-Peruwelz,Anderlecht,2,1,0,0,3,0,1,1
-2016-03-05,First Division A,2015-16,Oostende,Charleroi,2,1,0,0,3,0,1,1
-2016-03-05,First Division A,2015-16,Waasland-Beveren,Mechelen,0,0,0,0,0,0,0,0
-2016-03-13,First Division A,2015-16,Oud-Heverlee Leuven,Club Brugge,0,1,0,0,1,0,0,0
-2016-03-13,First Division A,2015-16,St Truiden,Lokeren,1,1,0,0,2,0,1,0
-2016-03-13,First Division A,2015-16,Mechelen,Standard,4,0,0,0,4,0,0,1
-2016-03-13,First Division A,2015-16,Waregem,Mouscron-Peruwelz,3,0,0,0,3,0,0,1
-2016-03-13,First Division A,2015-16,Charleroi,Gent,1,1,0,0,2,0,1,0
-2016-03-13,First Division A,2015-16,Anderlecht,Kortrijk,3,0,0,0,3,0,0,1
-2016-03-13,First Division A,2015-16,Genk,Oostende,4,1,0,0,5,0,1,1
-2016-03-13,First Division A,2015-16,Westerlo,Waasland-Beveren,1,0,0,0,1,0,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2015-07-24,First Division A,2015-16,St Truiden,Club Brugge,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-07-25,First Division A,2015-16,Genk,Oud-Heverlee Leuven,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-07-25,First Division A,2015-16,Kortrijk,Standard,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-07-25,First Division A,2015-16,Oostende,Mechelen,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-07-25,First Division A,2015-16,Waregem,Lokeren,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-07-26,First Division A,2015-16,Anderlecht,Waasland-Beveren,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2015-07-26,First Division A,2015-16,Charleroi,Mouscron-Peruwelz,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-07-26,First Division A,2015-16,Westerlo,Gent,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-07-31,First Division A,2015-16,Gent,Genk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-01,First Division A,2015-16,Club Brugge,Mechelen,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-08-01,First Division A,2015-16,Mouscron-Peruwelz,St Truiden,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-01,First Division A,2015-16,Oostende,Westerlo,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-01,First Division A,2015-16,Waasland-Beveren,Kortrijk,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-02,First Division A,2015-16,Standard,Waregem,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-02,First Division A,2015-16,Oud-Heverlee Leuven,Anderlecht,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-02,First Division A,2015-16,Lokeren,Charleroi,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-08-07,First Division A,2015-16,Waregem,Genk,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-08,First Division A,2015-16,Kortrijk,Lokeren,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-08,First Division A,2015-16,Mechelen,Mouscron-Peruwelz,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-08-08,First Division A,2015-16,St Truiden,Oostende,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-08-08,First Division A,2015-16,Westerlo,Oud-Heverlee Leuven,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2015-08-09,First Division A,2015-16,Anderlecht,Gent,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-08-09,First Division A,2015-16,Charleroi,Club Brugge,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-09,First Division A,2015-16,Standard,Waasland-Beveren,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-14,First Division A,2015-16,Club Brugge,Kortrijk,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-15,First Division A,2015-16,Genk,Westerlo,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-15,First Division A,2015-16,Lokeren,Mechelen,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-15,First Division A,2015-16,Mouscron-Peruwelz,Standard,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-08-15,First Division A,2015-16,Waasland-Beveren,Waregem,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-16,First Division A,2015-16,Oud-Heverlee Leuven,Charleroi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-16,First Division A,2015-16,Gent,St Truiden,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-16,First Division A,2015-16,Oostende,Anderlecht,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-08-21,First Division A,2015-16,St Truiden,Genk,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-08-22,First Division A,2015-16,Charleroi,Westerlo,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-22,First Division A,2015-16,Mechelen,Oud-Heverlee Leuven,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-22,First Division A,2015-16,Waasland-Beveren,Mouscron-Peruwelz,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2015-08-22,First Division A,2015-16,Waregem,Club Brugge,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-23,First Division A,2015-16,Anderlecht,Lokeren,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-23,First Division A,2015-16,Kortrijk,Gent,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-08-23,First Division A,2015-16,Standard,Oostende,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-28,First Division A,2015-16,Genk,Charleroi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-29,First Division A,2015-16,Oud-Heverlee Leuven,St Truiden,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-29,First Division A,2015-16,Oostende,Waregem,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-08-29,First Division A,2015-16,Gent,Mechelen,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-08-29,First Division A,2015-16,Mouscron-Peruwelz,Kortrijk,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-08-30,First Division A,2015-16,Club Brugge,Standard,7,1,0,0,0,0,0,0,8,0,0,0,1,1
+2015-08-30,First Division A,2015-16,Lokeren,Waasland-Beveren,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-08-30,First Division A,2015-16,Westerlo,Anderlecht,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2015-09-11,First Division A,2015-16,Mouscron-Peruwelz,Club Brugge,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-12,First Division A,2015-16,Kortrijk,Oud-Heverlee Leuven,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-09-12,First Division A,2015-16,Mechelen,Westerlo,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-12,First Division A,2015-16,Waasland-Beveren,Oostende,1,5,0,0,0,0,0,0,6,0,0,0,1,1
+2015-09-12,First Division A,2015-16,Waregem,Gent,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-13,First Division A,2015-16,Standard,Lokeren,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-13,First Division A,2015-16,Anderlecht,Genk,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-09-13,First Division A,2015-16,St Truiden,Charleroi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-18,First Division A,2015-16,Genk,Mechelen,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-19,First Division A,2015-16,Westerlo,St Truiden,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2015-09-19,First Division A,2015-16,Oud-Heverlee Leuven,Waregem,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2015-09-19,First Division A,2015-16,Oostende,Kortrijk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-19,First Division A,2015-16,Lokeren,Mouscron-Peruwelz,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-09-20,First Division A,2015-16,Charleroi,Anderlecht,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-09-20,First Division A,2015-16,Club Brugge,Waasland-Beveren,5,1,0,0,0,0,0,0,6,0,0,0,1,1
+2015-09-20,First Division A,2015-16,Gent,Standard,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2015-09-25,First Division A,2015-16,Waregem,Westerlo,4,2,0,0,0,0,0,0,6,0,0,0,1,1
+2015-09-26,First Division A,2015-16,Mechelen,Charleroi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-26,First Division A,2015-16,Mouscron-Peruwelz,Oostende,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-26,First Division A,2015-16,Standard,Oud-Heverlee Leuven,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-26,First Division A,2015-16,Waasland-Beveren,Gent,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-09-27,First Division A,2015-16,Anderlecht,St Truiden,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-27,First Division A,2015-16,Kortrijk,Genk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-09-27,First Division A,2015-16,Lokeren,Club Brugge,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-02,First Division A,2015-16,Oostende,Lokeren,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-03,First Division A,2015-16,Westerlo,Kortrijk,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-03,First Division A,2015-16,St Truiden,Waasland-Beveren,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-03,First Division A,2015-16,Charleroi,Waregem,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-10-03,First Division A,2015-16,Oud-Heverlee Leuven,Mouscron-Peruwelz,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-04,First Division A,2015-16,Anderlecht,Mechelen,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-04,First Division A,2015-16,Genk,Standard,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-04,First Division A,2015-16,Gent,Club Brugge,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2015-10-16,First Division A,2015-16,Mouscron-Peruwelz,Gent,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-17,First Division A,2015-16,Lokeren,Oud-Heverlee Leuven,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-17,First Division A,2015-16,Mechelen,St Truiden,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-10-17,First Division A,2015-16,Standard,Westerlo,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-17,First Division A,2015-16,Waasland-Beveren,Genk,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-18,First Division A,2015-16,Kortrijk,Charleroi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-18,First Division A,2015-16,Club Brugge,Oostende,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-18,First Division A,2015-16,Waregem,Anderlecht,0,4,0,0,0,0,0,0,4,0,0,0,0,1
+2015-10-23,First Division A,2015-16,Genk,Mouscron-Peruwelz,0,4,0,0,0,0,0,0,4,0,0,0,0,1
+2015-10-24,First Division A,2015-16,Gent,Oostende,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-24,First Division A,2015-16,Mechelen,Waregem,3,4,0,0,0,0,0,0,7,0,0,0,1,1
+2015-10-24,First Division A,2015-16,Oud-Heverlee Leuven,Waasland-Beveren,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-24,First Division A,2015-16,Westerlo,Lokeren,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-25,First Division A,2015-16,Anderlecht,Club Brugge,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-25,First Division A,2015-16,Charleroi,Standard,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2015-10-25,First Division A,2015-16,St Truiden,Kortrijk,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-27,First Division A,2015-16,Lokeren,Gent,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-27,First Division A,2015-16,Mouscron-Peruwelz,Westerlo,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-10-27,First Division A,2015-16,Oostende,Genk,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2015-10-28,First Division A,2015-16,Club Brugge,Oud-Heverlee Leuven,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-28,First Division A,2015-16,Standard,Mechelen,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-10-28,First Division A,2015-16,Waasland-Beveren,Charleroi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-10-28,First Division A,2015-16,Waregem,St Truiden,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2015-10-29,First Division A,2015-16,Kortrijk,Anderlecht,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-30,First Division A,2015-16,Genk,Lokeren,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-31,First Division A,2015-16,Charleroi,Oostende,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-10-31,First Division A,2015-16,Mechelen,Waasland-Beveren,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-31,First Division A,2015-16,Oud-Heverlee Leuven,Gent,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-10-31,First Division A,2015-16,Westerlo,Club Brugge,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-01,First Division A,2015-16,Anderlecht,Mouscron-Peruwelz,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-11-01,First Division A,2015-16,St Truiden,Standard,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-01,First Division A,2015-16,Waregem,Kortrijk,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-06,First Division A,2015-16,Mouscron-Peruwelz,Waregem,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-07,First Division A,2015-16,Kortrijk,Mechelen,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-07,First Division A,2015-16,Lokeren,St Truiden,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-11-07,First Division A,2015-16,Oostende,Oud-Heverlee Leuven,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-11-07,First Division A,2015-16,Waasland-Beveren,Westerlo,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-08,First Division A,2015-16,Gent,Charleroi,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-08,First Division A,2015-16,Standard,Anderlecht,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-08,First Division A,2015-16,Club Brugge,Genk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-20,First Division A,2015-16,Gent,Westerlo,5,0,0,0,0,0,0,0,5,0,0,0,0,1
+2015-11-21,First Division A,2015-16,Club Brugge,Waregem,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-11-21,First Division A,2015-16,Oud-Heverlee Leuven,Genk,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-21,First Division A,2015-16,Waasland-Beveren,St Truiden,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-22,First Division A,2015-16,Mechelen,Oostende,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-22,First Division A,2015-16,Standard,Kortrijk,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-11-27,First Division A,2015-16,Waregem,Standard,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2015-11-28,First Division A,2015-16,Charleroi,Lokeren,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-11-28,First Division A,2015-16,Genk,Gent,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-28,First Division A,2015-16,Kortrijk,Waasland-Beveren,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-11-28,First Division A,2015-16,St Truiden,Mouscron-Peruwelz,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-29,First Division A,2015-16,Mechelen,Club Brugge,1,4,0,0,0,0,0,0,5,0,0,0,1,1
+2015-11-29,First Division A,2015-16,Westerlo,Oostende,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-11-29,First Division A,2015-16,Anderlecht,Oud-Heverlee Leuven,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2015-12-04,First Division A,2015-16,Gent,Waregem,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-12-05,First Division A,2015-16,Mouscron-Peruwelz,Mechelen,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2015-12-05,First Division A,2015-16,Oostende,St Truiden,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-05,First Division A,2015-16,Oud-Heverlee Leuven,Westerlo,5,1,0,0,0,0,0,0,6,0,0,0,1,1
+2015-12-05,First Division A,2015-16,Waasland-Beveren,Standard,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-12-06,First Division A,2015-16,Club Brugge,Charleroi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-06,First Division A,2015-16,Genk,Anderlecht,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-12-06,First Division A,2015-16,Lokeren,Kortrijk,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-12-11,First Division A,2015-16,Westerlo,Genk,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2015-12-12,First Division A,2015-16,Waregem,Waasland-Beveren,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-12,First Division A,2015-16,Charleroi,Oud-Heverlee Leuven,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-12,First Division A,2015-16,Kortrijk,Mouscron-Peruwelz,1,3,0,0,0,0,0,0,4,0,0,0,1,1
+2015-12-12,First Division A,2015-16,Mechelen,Lokeren,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-13,First Division A,2015-16,Standard,Club Brugge,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-13,First Division A,2015-16,St Truiden,Gent,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-13,First Division A,2015-16,Anderlecht,Oostende,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-18,First Division A,2015-16,Lokeren,Waregem,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-19,First Division A,2015-16,Genk,St Truiden,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-12-19,First Division A,2015-16,Mouscron-Peruwelz,Waasland-Beveren,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-19,First Division A,2015-16,Oud-Heverlee Leuven,Mechelen,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2015-12-19,First Division A,2015-16,Westerlo,Charleroi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-20,First Division A,2015-16,Club Brugge,Anderlecht,1,4,0,0,0,0,0,0,5,0,0,0,1,1
+2015-12-20,First Division A,2015-16,Gent,Kortrijk,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-12-20,First Division A,2015-16,Oostende,Standard,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2015-12-22,First Division A,2015-16,Mouscron-Peruwelz,Charleroi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-23,First Division A,2015-16,Lokeren,Anderlecht,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2015-12-26,First Division A,2015-16,Waasland-Beveren,Lokeren,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2015-12-26,First Division A,2015-16,Mechelen,Gent,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2015-12-26,First Division A,2015-16,St Truiden,Oud-Heverlee Leuven,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2015-12-26,First Division A,2015-16,Charleroi,Genk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2015-12-26,First Division A,2015-16,Kortrijk,Club Brugge,1,4,0,0,0,0,0,0,5,0,0,0,1,1
+2015-12-27,First Division A,2015-16,Anderlecht,Westerlo,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2015-12-27,First Division A,2015-16,Standard,Mouscron-Peruwelz,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2015-12-27,First Division A,2015-16,Waregem,Oostende,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-15,First Division A,2015-16,Genk,Waregem,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-16,First Division A,2015-16,Charleroi,St Truiden,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-01-16,First Division A,2015-16,Club Brugge,Mouscron-Peruwelz,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-01-16,First Division A,2015-16,Oud-Heverlee Leuven,Kortrijk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-16,First Division A,2015-16,Westerlo,Mechelen,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2016-01-17,First Division A,2015-16,Gent,Anderlecht,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-17,First Division A,2015-16,Lokeren,Standard,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-17,First Division A,2015-16,Oostende,Waasland-Beveren,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2016-01-22,First Division A,2015-16,Kortrijk,Oostende,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-23,First Division A,2015-16,Waregem,Oud-Heverlee Leuven,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-01-23,First Division A,2015-16,St Truiden,Westerlo,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-23,First Division A,2015-16,Mechelen,Genk,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-01-23,First Division A,2015-16,Mouscron-Peruwelz,Lokeren,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-01-24,First Division A,2015-16,Anderlecht,Charleroi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-24,First Division A,2015-16,Standard,Gent,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-01-24,First Division A,2015-16,Waasland-Beveren,Club Brugge,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-29,First Division A,2015-16,St Truiden,Anderlecht,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-30,First Division A,2015-16,Charleroi,Mechelen,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2016-01-30,First Division A,2015-16,Genk,Kortrijk,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-01-30,First Division A,2015-16,Oud-Heverlee Leuven,Standard,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-01-30,First Division A,2015-16,Westerlo,Waregem,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-31,First Division A,2015-16,Club Brugge,Lokeren,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-31,First Division A,2015-16,Gent,Waasland-Beveren,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-01-31,First Division A,2015-16,Oostende,Mouscron-Peruwelz,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2016-02-05,First Division A,2015-16,Mechelen,Anderlecht,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-06,First Division A,2015-16,Mouscron-Peruwelz,Genk,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-06,First Division A,2015-16,Waasland-Beveren,Oud-Heverlee Leuven,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-06,First Division A,2015-16,Waregem,Charleroi,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2016-02-06,First Division A,2015-16,Kortrijk,Westerlo,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-07,First Division A,2015-16,Club Brugge,Gent,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-07,First Division A,2015-16,Lokeren,Oostende,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-07,First Division A,2015-16,Standard,St Truiden,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-02-12,First Division A,2015-16,Gent,Mouscron-Peruwelz,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-13,First Division A,2015-16,Anderlecht,Waregem,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-02-13,First Division A,2015-16,Charleroi,Kortrijk,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-02-13,First Division A,2015-16,Genk,Waasland-Beveren,6,1,0,0,0,0,0,0,7,0,0,0,1,1
+2016-02-13,First Division A,2015-16,Oud-Heverlee Leuven,Lokeren,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2016-02-14,First Division A,2015-16,Westerlo,Standard,2,0,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-14,First Division A,2015-16,St Truiden,Mechelen,0,3,0,0,0,0,0,0,3,0,0,0,0,1
+2016-02-14,First Division A,2015-16,Oostende,Club Brugge,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-19,First Division A,2015-16,Club Brugge,Westerlo,6,0,0,0,0,0,0,0,6,0,0,0,0,1
+2016-02-20,First Division A,2015-16,Kortrijk,St Truiden,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-02-20,First Division A,2015-16,Lokeren,Genk,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-02-20,First Division A,2015-16,Mouscron-Peruwelz,Oud-Heverlee Leuven,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-20,First Division A,2015-16,Standard,Charleroi,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-02-21,First Division A,2015-16,Oostende,Gent,5,2,0,0,0,0,0,0,7,0,0,0,1,1
+2016-02-21,First Division A,2015-16,Waasland-Beveren,Anderlecht,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-02-21,First Division A,2015-16,Waregem,Mechelen,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2016-02-26,First Division A,2015-16,Gent,Lokeren,3,1,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-27,First Division A,2015-16,Westerlo,Mouscron-Peruwelz,2,2,0,0,0,0,0,0,4,0,0,0,1,1
+2016-02-27,First Division A,2015-16,St Truiden,Waregem,1,2,0,0,0,0,0,0,3,0,0,0,1,1
+2016-02-27,First Division A,2015-16,Mechelen,Kortrijk,0,2,0,0,0,0,0,0,2,0,0,0,0,0
+2016-02-27,First Division A,2015-16,Oud-Heverlee Leuven,Oostende,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2016-02-28,First Division A,2015-16,Anderlecht,Standard,3,3,0,0,0,0,0,0,6,0,0,0,1,1
+2016-02-28,First Division A,2015-16,Charleroi,Waasland-Beveren,2,3,0,0,0,0,0,0,5,0,0,0,1,1
+2016-02-28,First Division A,2015-16,Genk,Club Brugge,3,2,0,0,0,0,0,0,5,0,0,0,1,1
+2016-03-04,First Division A,2015-16,Gent,Oud-Heverlee Leuven,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-03-05,First Division A,2015-16,Standard,Genk,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-05,First Division A,2015-16,Club Brugge,St Truiden,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-05,First Division A,2015-16,Kortrijk,Waregem,1,0,0,0,0,0,0,0,1,0,0,0,0,0
+2016-03-05,First Division A,2015-16,Lokeren,Westerlo,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-05,First Division A,2015-16,Mouscron-Peruwelz,Anderlecht,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-05,First Division A,2015-16,Oostende,Charleroi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
+2016-03-05,First Division A,2015-16,Waasland-Beveren,Mechelen,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2016-03-13,First Division A,2015-16,Oud-Heverlee Leuven,Club Brugge,0,1,0,0,0,0,0,0,1,0,0,0,0,0
+2016-03-13,First Division A,2015-16,St Truiden,Lokeren,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-03-13,First Division A,2015-16,Mechelen,Standard,4,0,0,0,0,0,0,0,4,0,0,0,0,1
+2016-03-13,First Division A,2015-16,Waregem,Mouscron-Peruwelz,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-13,First Division A,2015-16,Charleroi,Gent,1,1,0,0,0,0,0,0,2,0,0,0,1,0
+2016-03-13,First Division A,2015-16,Anderlecht,Kortrijk,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+2016-03-13,First Division A,2015-16,Genk,Oostende,4,1,0,0,0,0,0,0,5,0,0,0,1,1
+2016-03-13,First Division A,2015-16,Westerlo,Waasland-Beveren,1,0,0,0,0,0,0,0,1,0,0,0,0,0

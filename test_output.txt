@@ -1,0 +1,10 @@
+RC: 0
+STDOUT: 📂 Leyendo C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db...
+✅ 43,521 partidos | 380 equipos | 132 liga-temporadas
+
+✅ Explorador generado: C:\Users\danbl\Desktop\futbol_data_project\football_explorer.html
+   Tamaño: 7598 KB
+
+🌐 Abre en Chrome: football_explorer.html
+
+STDERR: 

@@ -1,241 +1,241 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2020-09-11,Super League Greece,2020-21,Aris,Lamia,3,1,7,0,4,7,1,1
-2020-09-11,Super League Greece,2020-21,PAOK,Larisa,1,0,9,3,1,12,0,0
-2020-09-12,Super League Greece,2020-21,OFI Crete,Panetolikos,1,1,1,2,2,3,1,0
-2020-09-13,Super League Greece,2020-21,Atromitos,Volos NFC,0,2,2,2,2,4,0,0
-2020-09-13,Super League Greece,2020-21,Asteras Tripolis,Panathinaikos,1,0,1,3,1,4,0,0
-2020-09-18,Super League Greece,2020-21,PAOK,Atromitos,1,1,7,3,2,10,1,0
-2020-09-18,Super League Greece,2020-21,Olympiakos,Asteras Tripolis,3,0,4,5,3,9,0,1
-2020-09-19,Super League Greece,2020-21,Panetolikos,AEK,0,2,1,7,2,8,0,0
-2020-09-20,Super League Greece,2020-21,Lamia,OFI Crete,1,2,4,4,3,8,1,1
-2020-09-20,Super League Greece,2020-21,Volos NFC,Aris,0,1,2,6,1,8,0,0
-2020-09-26,Super League Greece,2020-21,Volos NFC,PAOK,0,0,2,5,0,7,0,0
-2020-09-26,Super League Greece,2020-21,Olympiakos,Panetolikos,2,0,8,5,2,13,0,0
-2020-09-27,Super League Greece,2020-21,OFI Crete,Atromitos,2,2,4,3,4,7,1,1
-2020-09-27,Super League Greece,2020-21,AEK,Lamia,3,0,7,5,3,12,0,1
-2020-09-27,Super League Greece,2020-21,Aris,Giannina,2,2,4,3,4,7,1,1
-2020-09-28,Super League Greece,2020-21,Larisa,Panathinaikos,1,1,3,4,2,7,1,0
-2020-10-03,Super League Greece,2020-21,Panetolikos,Asteras Tripolis,1,1,3,15,2,18,1,0
-2020-10-04,Super League Greece,2020-21,Panathinaikos,Aris,0,1,8,2,1,10,0,0
-2020-10-04,Super League Greece,2020-21,Apollon,Larisa,1,0,3,6,1,9,0,0
-2020-10-04,Super League Greece,2020-21,PAOK,OFI Crete,3,0,8,4,3,12,0,1
-2020-10-04,Super League Greece,2020-21,Giannina,Olympiakos,1,1,4,7,2,11,1,0
-2020-10-04,Super League Greece,2020-21,Atromitos,AEK,1,0,2,0,1,2,0,0
-2020-10-05,Super League Greece,2020-21,Lamia,Volos NFC,1,2,0,4,3,4,1,1
-2020-10-17,Super League Greece,2020-21,Volos NFC,Giannina,2,1,4,4,3,8,1,1
-2020-10-17,Super League Greece,2020-21,Aris,Apollon,1,0,0,4,1,4,0,0
-2020-10-17,Super League Greece,2020-21,Olympiakos,Atromitos,4,0,6,1,4,7,0,1
-2020-10-18,Super League Greece,2020-21,Larisa,Asteras Tripolis,1,3,5,5,4,10,1,1
-2020-10-18,Super League Greece,2020-21,OFI Crete,Panathinaikos,2,2,9,5,4,14,1,1
-2020-10-18,Super League Greece,2020-21,AEK,PAOK,1,1,2,2,2,4,1,0
-2020-10-19,Super League Greece,2020-21,Lamia,Panetolikos,0,0,4,3,0,7,0,0
-2020-10-21,Super League Greece,2020-21,Apollon,Giannina,1,2,3,3,3,6,1,1
-2020-10-24,Super League Greece,2020-21,Panathinaikos,Volos NFC,1,1,9,5,2,14,1,0
-2020-10-25,Super League Greece,2020-21,Asteras Tripolis,OFI Crete,1,0,5,5,1,10,0,0
-2020-10-25,Super League Greece,2020-21,Giannina,AEK,0,1,3,3,1,6,0,0
-2020-10-26,Super League Greece,2020-21,Atromitos,Panetolikos,2,0,4,7,2,11,0,0
-2020-10-31,Super League Greece,2020-21,Olympiakos,Apollon,2,0,11,7,2,18,0,0
-2020-10-31,Super League Greece,2020-21,Atromitos,Giannina,0,2,0,5,2,5,0,0
-2020-10-31,Super League Greece,2020-21,Volos NFC,Larisa,1,1,3,2,2,5,1,0
-2020-10-31,Super League Greece,2020-21,Lamia,Panathinaikos,0,2,1,9,2,10,0,0
-2020-11-01,Super League Greece,2020-21,Aris,Asteras Tripolis,1,0,6,3,1,9,0,0
-2020-11-01,Super League Greece,2020-21,Panetolikos,PAOK,1,3,0,9,4,9,1,1
-2020-11-01,Super League Greece,2020-21,AEK,OFI Crete,2,1,4,0,3,4,1,1
-2020-11-03,Super League Greece,2020-21,Panathinaikos,Apollon,1,0,5,4,1,9,0,0
-2020-11-04,Super League Greece,2020-21,Giannina,Larisa,1,2,0,5,3,5,1,1
-2020-11-07,Super League Greece,2020-21,Panathinaikos,Atromitos,0,1,3,5,1,8,0,0
-2020-11-07,Super League Greece,2020-21,Giannina,Panetolikos,0,0,7,2,0,9,0,0
-2020-11-08,Super League Greece,2020-21,OFI Crete,Olympiakos,0,2,3,6,2,9,0,0
-2020-11-08,Super League Greece,2020-21,Apollon,PAOK,1,3,7,4,4,11,1,1
-2020-11-21,Super League Greece,2020-21,Lamia,Asteras Tripolis,2,2,3,5,4,8,1,1
-2020-11-21,Super League Greece,2020-21,Atromitos,Apollon,2,2,13,2,4,15,1,1
-2020-11-21,Super League Greece,2020-21,Olympiakos,Panathinaikos,1,0,3,5,1,8,0,0
-2020-11-22,Super League Greece,2020-21,AEK,Larisa,4,1,11,2,5,13,1,1
-2020-11-22,Super League Greece,2020-21,Panetolikos,Aris,0,1,7,4,1,11,0,0
-2020-11-22,Super League Greece,2020-21,PAOK,Giannina,2,1,13,1,3,14,1,1
-2020-11-23,Super League Greece,2020-21,Volos NFC,OFI Crete,1,4,7,5,5,12,1,1
-2020-11-25,Super League Greece,2020-21,Asteras Tripolis,Apollon,0,0,3,9,0,12,0,0
-2020-11-28,Super League Greece,2020-21,Larisa,Atromitos,0,0,5,3,0,8,0,0
-2020-11-28,Super League Greece,2020-21,Aris,Olympiakos,1,2,7,1,3,8,1,1
-2020-11-29,Super League Greece,2020-21,Asteras Tripolis,AEK,1,2,2,2,3,4,1,1
-2020-11-29,Super League Greece,2020-21,Lamia,PAOK,0,2,1,3,2,4,0,0
-2020-11-29,Super League Greece,2020-21,Panathinaikos,Panetolikos,2,1,4,3,3,7,1,1
-2020-11-29,Super League Greece,2020-21,OFI Crete,Giannina,2,1,3,7,3,10,1,1
-2020-11-30,Super League Greece,2020-21,Apollon,Volos NFC,3,3,2,8,6,10,1,1
-2020-12-02,Super League Greece,2020-21,Larisa,Aris,0,3,7,6,3,13,0,1
-2020-12-05,Super League Greece,2020-21,Atromitos,Aris,2,2,1,3,4,4,1,1
-2020-12-05,Super League Greece,2020-21,Olympiakos,Volos NFC,4,1,6,2,5,8,1,1
-2020-12-06,Super League Greece,2020-21,OFI Crete,Apollon,0,2,7,4,2,11,0,0
-2020-12-06,Super League Greece,2020-21,Giannina,Lamia,2,0,10,4,2,14,0,0
-2020-12-06,Super League Greece,2020-21,PAOK,Asteras Tripolis,2,0,5,4,2,9,0,0
-2020-12-06,Super League Greece,2020-21,AEK,Panathinaikos,1,2,9,2,3,11,1,1
-2020-12-07,Super League Greece,2020-21,Panetolikos,Larisa,2,1,1,7,3,8,1,1
-2020-12-09,Super League Greece,2020-21,Asteras Tripolis,Volos NFC,1,1,5,1,2,6,1,0
-2020-12-12,Super League Greece,2020-21,Larisa,OFI Crete,0,1,2,5,1,7,0,0
-2020-12-12,Super League Greece,2020-21,Panathinaikos,Giannina,2,0,5,1,2,6,0,0
-2020-12-13,Super League Greece,2020-21,Aris,PAOK,1,0,0,5,1,5,0,0
-2020-12-13,Super League Greece,2020-21,Volos NFC,Panetolikos,0,0,10,4,0,14,0,0
-2020-12-13,Super League Greece,2020-21,Lamia,Olympiakos,0,6,3,9,6,12,0,1
-2020-12-13,Super League Greece,2020-21,Apollon,AEK,3,4,2,7,7,9,1,1
-2020-12-14,Super League Greece,2020-21,Asteras Tripolis,Atromitos,2,0,4,3,2,7,0,0
-2020-12-16,Super League Greece,2020-21,AEK,Olympiakos,1,1,9,4,2,13,1,0
-2020-12-19,Super League Greece,2020-21,Panetolikos,Apollon,0,1,3,2,1,5,0,0
-2020-12-19,Super League Greece,2020-21,OFI Crete,Aris,0,3,5,3,3,8,0,1
-2020-12-20,Super League Greece,2020-21,Olympiakos,Larisa,5,1,8,3,6,11,1,1
-2020-12-20,Super League Greece,2020-21,PAOK,Panathinaikos,2,1,6,1,3,7,1,1
-2020-12-21,Super League Greece,2020-21,Giannina,Asteras Tripolis,2,2,2,2,4,4,1,1
-2020-12-21,Super League Greece,2020-21,AEK,Volos NFC,2,2,9,5,4,14,1,1
-2021-01-03,Super League Greece,2020-21,Olympiakos,AEK,3,0,3,1,3,4,0,1
-2021-01-03,Super League Greece,2020-21,Larisa,PAOK,1,1,2,12,2,14,1,0
-2021-01-03,Super League Greece,2020-21,Panetolikos,OFI Crete,2,1,7,3,3,10,1,1
-2021-01-03,Super League Greece,2020-21,Panathinaikos,Asteras Tripolis,0,0,2,3,0,5,0,0
-2021-01-03,Super League Greece,2020-21,Giannina,Apollon,1,3,4,2,4,6,1,1
-2021-01-04,Super League Greece,2020-21,Volos NFC,Atromitos,1,0,7,3,1,10,0,0
-2021-01-04,Super League Greece,2020-21,Lamia,Aris,2,0,4,5,2,9,0,0
-2021-01-06,Super League Greece,2020-21,Apollon,Panathinaikos,0,1,3,3,1,6,0,0
-2021-01-06,Super League Greece,2020-21,AEK,Panetolikos,1,0,5,2,1,7,0,0
-2021-01-06,Super League Greece,2020-21,Larisa,Giannina,0,0,3,4,0,7,0,0
-2021-01-06,Super League Greece,2020-21,Asteras Tripolis,Olympiakos,0,4,1,2,4,3,0,1
-2021-01-07,Super League Greece,2020-21,Aris,Volos NFC,2,0,3,3,2,6,0,0
-2021-01-07,Super League Greece,2020-21,OFI Crete,Lamia,2,0,4,1,2,5,0,0
-2021-01-07,Super League Greece,2020-21,Atromitos,PAOK,3,2,2,4,5,6,1,1
-2021-01-09,Super League Greece,2020-21,Panetolikos,Olympiakos,1,2,2,4,3,6,1,1
-2021-01-10,Super League Greece,2020-21,Panathinaikos,Larisa,2,0,1,4,2,5,0,0
-2021-01-10,Super League Greece,2020-21,Atromitos,OFI Crete,0,0,0,7,0,7,0,0
-2021-01-10,Super League Greece,2020-21,PAOK,Volos NFC,3,1,5,3,4,8,1,1
-2021-01-10,Super League Greece,2020-21,Apollon,Asteras Tripolis,0,1,7,3,1,10,0,0
-2021-01-11,Super League Greece,2020-21,Giannina,Aris,0,0,4,6,0,10,0,0
-2021-01-11,Super League Greece,2020-21,Lamia,AEK,0,1,1,2,1,3,0,0
-2021-01-13,Super League Greece,2020-21,PAOK,Olympiakos,1,1,4,5,2,9,1,0
-2021-01-14,Super League Greece,2020-21,Aris,AEK,0,1,4,1,1,5,0,0
-2021-01-14,Super League Greece,2020-21,Atromitos,Lamia,2,1,7,1,3,8,1,1
-2021-01-16,Super League Greece,2020-21,Asteras Tripolis,Panetolikos,2,0,2,1,2,3,0,0
-2021-01-16,Super League Greece,2020-21,Larisa,Apollon,0,1,1,6,1,7,0,0
-2021-01-17,Super League Greece,2020-21,Aris,Panathinaikos,0,1,9,0,1,9,0,0
-2021-01-17,Super League Greece,2020-21,Volos NFC,Lamia,1,1,6,3,2,9,1,0
-2021-01-17,Super League Greece,2020-21,AEK,Atromitos,2,1,4,2,3,6,1,1
-2021-01-17,Super League Greece,2020-21,Olympiakos,Giannina,1,0,8,2,1,10,0,0
-2021-01-17,Super League Greece,2020-21,OFI Crete,PAOK,0,3,2,6,3,8,0,1
-2021-01-23,Super League Greece,2020-21,Apollon,Aris,0,1,1,6,1,7,0,0
-2021-01-23,Super League Greece,2020-21,Panathinaikos,OFI Crete,2,0,6,3,2,9,0,0
-2021-01-23,Super League Greece,2020-21,Asteras Tripolis,Larisa,1,0,4,3,1,7,0,0
-2021-01-24,Super League Greece,2020-21,Atromitos,Olympiakos,0,1,3,5,1,8,0,0
-2021-01-24,Super League Greece,2020-21,Giannina,Volos NFC,0,1,5,1,1,6,0,0
-2021-01-24,Super League Greece,2020-21,Panetolikos,Lamia,0,0,2,7,0,9,0,0
-2021-01-24,Super League Greece,2020-21,PAOK,AEK,2,2,7,4,4,11,1,1
-2021-01-26,Super League Greece,2020-21,OFI Crete,Asteras Tripolis,0,1,4,2,1,6,0,0
-2021-01-26,Super League Greece,2020-21,Aris,Larisa,1,0,3,4,1,7,0,0
-2021-01-27,Super League Greece,2020-21,Volos NFC,Panathinaikos,0,2,10,2,2,12,0,0
-2021-01-27,Super League Greece,2020-21,AEK,Giannina,0,2,5,2,2,7,0,0
-2021-01-27,Super League Greece,2020-21,Lamia,Apollon,1,0,4,2,1,6,0,0
-2021-01-27,Super League Greece,2020-21,Olympiakos,PAOK,3,0,1,4,3,5,0,1
-2021-01-28,Super League Greece,2020-21,Panetolikos,Atromitos,1,1,6,2,2,8,1,0
-2021-01-30,Super League Greece,2020-21,Panathinaikos,Lamia,0,0,8,2,0,10,0,0
-2021-01-30,Super League Greece,2020-21,Asteras Tripolis,Aris,2,1,1,7,3,8,1,1
-2021-01-30,Super League Greece,2020-21,Larisa,Volos NFC,0,0,2,10,0,12,0,0
-2021-01-31,Super League Greece,2020-21,OFI Crete,AEK,0,2,3,6,2,9,0,0
-2021-01-31,Super League Greece,2020-21,Giannina,Atromitos,0,1,9,1,1,10,0,0
-2021-01-31,Super League Greece,2020-21,PAOK,Panetolikos,5,0,4,5,5,9,0,1
-2021-01-31,Super League Greece,2020-21,Apollon,Olympiakos,1,3,1,9,4,10,1,1
-2021-02-06,Super League Greece,2020-21,Atromitos,Panathinaikos,2,3,6,6,5,12,1,1
-2021-02-07,Super League Greece,2020-21,PAOK,Apollon,2,2,15,2,4,17,1,1
-2021-02-07,Super League Greece,2020-21,Olympiakos,OFI Crete,3,0,7,1,3,8,0,1
-2021-02-07,Super League Greece,2020-21,Volos NFC,Asteras Tripolis,0,1,3,0,1,3,0,0
-2021-02-07,Super League Greece,2020-21,AEK,Aris,0,2,4,3,2,7,0,0
-2021-02-08,Super League Greece,2020-21,Panetolikos,Giannina,1,2,4,5,3,9,1,1
-2021-02-13,Super League Greece,2020-21,Asteras Tripolis,Lamia,0,0,11,4,0,15,0,0
-2021-02-13,Super League Greece,2020-21,Apollon,Atromitos,2,1,1,3,3,4,1,1
-2021-02-14,Super League Greece,2020-21,OFI Crete,Volos NFC,1,2,3,1,3,4,1,1
-2021-02-14,Super League Greece,2020-21,Panathinaikos,Olympiakos,2,1,4,2,3,6,1,1
-2021-02-14,Super League Greece,2020-21,Aris,Panetolikos,0,0,7,2,0,9,0,0
-2021-02-15,Super League Greece,2020-21,Giannina,PAOK,0,2,2,7,2,9,0,0
-2021-02-15,Super League Greece,2020-21,Larisa,AEK,2,4,2,3,6,5,1,1
-2021-02-18,Super League Greece,2020-21,Apollon,Lamia,0,1,8,0,1,8,0,0
-2021-02-20,Super League Greece,2020-21,Atromitos,Larisa,1,1,5,5,2,10,1,0
-2021-02-20,Super League Greece,2020-21,AEK,Asteras Tripolis,2,2,7,5,4,12,1,1
-2021-02-21,Super League Greece,2020-21,PAOK,Lamia,4,0,4,2,4,6,0,1
-2021-02-21,Super League Greece,2020-21,Volos NFC,Apollon,2,0,2,6,2,8,0,0
-2021-02-21,Super League Greece,2020-21,Giannina,OFI Crete,1,0,3,5,1,8,0,0
-2021-02-21,Super League Greece,2020-21,Olympiakos,Aris,1,1,10,2,2,12,1,0
-2021-02-22,Super League Greece,2020-21,Panetolikos,Panathinaikos,1,0,2,8,1,10,0,0
-2021-02-24,Super League Greece,2020-21,Larisa,Lamia,0,1,5,4,1,9,0,0
-2021-02-27,Super League Greece,2020-21,Asteras Tripolis,PAOK,2,1,2,2,3,4,1,1
-2021-02-27,Super League Greece,2020-21,Apollon,OFI Crete,2,1,5,4,3,9,1,1
-2021-02-28,Super League Greece,2020-21,Panathinaikos,AEK,1,1,4,3,2,7,1,0
-2021-02-28,Super League Greece,2020-21,Larisa,Panetolikos,1,0,6,2,1,8,0,0
-2021-02-28,Super League Greece,2020-21,Aris,Atromitos,3,0,5,2,3,7,0,1
-2021-02-28,Super League Greece,2020-21,Lamia,Giannina,0,0,4,1,0,5,0,0
-2021-03-01,Super League Greece,2020-21,Volos NFC,Olympiakos,1,2,1,4,3,5,1,1
-2021-03-06,Super League Greece,2020-21,OFI Crete,Larisa,2,3,5,1,5,6,1,1
-2021-03-06,Super League Greece,2020-21,Atromitos,Asteras Tripolis,1,1,1,2,2,3,1,0
-2021-03-06,Super League Greece,2020-21,Giannina,Panathinaikos,1,0,5,2,1,7,0,0
-2021-03-07,Super League Greece,2020-21,Olympiakos,Lamia,3,0,6,3,3,9,0,1
-2021-03-07,Super League Greece,2020-21,Panetolikos,Volos NFC,1,0,1,3,1,4,0,0
-2021-03-07,Super League Greece,2020-21,PAOK,Aris,2,2,7,3,4,10,1,1
-2021-03-08,Super League Greece,2020-21,AEK,Apollon,2,0,4,1,2,5,0,0
-2021-03-10,Super League Greece,2020-21,Lamia,Larisa,2,1,3,2,3,5,1,1
-2021-03-14,Super League Greece,2020-21,Panathinaikos,PAOK,2,1,1,6,3,7,1,1
-2021-03-14,Super League Greece,2020-21,Volos NFC,AEK,1,0,4,3,1,7,0,0
-2021-03-14,Super League Greece,2020-21,Larisa,Olympiakos,1,3,2,5,4,7,1,1
-2021-03-14,Super League Greece,2020-21,Asteras Tripolis,Giannina,0,1,5,4,1,9,0,0
-2021-03-14,Super League Greece,2020-21,Lamia,Atromitos,0,0,5,4,0,9,0,0
-2021-03-14,Super League Greece,2020-21,Aris,OFI Crete,1,0,7,1,1,8,0,0
-2021-03-14,Super League Greece,2020-21,Apollon,Panetolikos,1,0,3,4,1,7,0,0
-2021-03-20,Super League Greece,2020-21,Apollon,Larisa,0,2,7,3,2,10,0,0
-2021-03-20,Super League Greece,2020-21,Volos NFC,OFI Crete,0,0,5,2,0,7,0,0
-2021-03-20,Super League Greece,2020-21,Giannina,Atromitos,1,0,4,3,1,7,0,0
-2021-03-20,Super League Greece,2020-21,Panetolikos,Lamia,0,3,8,2,3,10,0,1
-2021-03-21,Super League Greece,2020-21,Asteras Tripolis,Panathinaikos,2,2,1,4,4,5,1,1
-2021-03-21,Super League Greece,2020-21,Olympiakos,Aris,1,0,4,9,1,13,0,0
-2021-03-21,Super League Greece,2020-21,PAOK,AEK,3,1,2,9,4,11,1,1
-2021-04-03,Super League Greece,2020-21,Lamia,Volos NFC,1,1,2,7,2,9,1,0
-2021-04-03,Super League Greece,2020-21,Larisa,Panetolikos,1,1,8,5,2,13,1,0
-2021-04-03,Super League Greece,2020-21,Atromitos,Apollon,1,1,6,4,2,10,1,0
-2021-04-03,Super League Greece,2020-21,OFI Crete,Giannina,2,1,6,1,3,7,1,1
-2021-04-04,Super League Greece,2020-21,Panathinaikos,PAOK,3,0,1,14,3,15,0,1
-2021-04-04,Super League Greece,2020-21,Aris,Asteras Tripolis,2,0,4,5,2,9,0,0
-2021-04-04,Super League Greece,2020-21,AEK,Olympiakos,1,5,1,1,6,2,1,1
-2021-04-10,Super League Greece,2020-21,Volos NFC,Panetolikos,3,1,4,6,4,10,1,1
-2021-04-10,Super League Greece,2020-21,Apollon,OFI Crete,0,0,1,4,0,5,0,0
-2021-04-10,Super League Greece,2020-21,Atromitos,Larisa,0,1,4,4,1,8,0,0
-2021-04-11,Super League Greece,2020-21,Aris,AEK,1,3,5,2,4,7,1,1
-2021-04-11,Super League Greece,2020-21,Asteras Tripolis,PAOK,1,1,2,4,2,6,1,0
-2021-04-11,Super League Greece,2020-21,Olympiakos,Panathinaikos,3,1,4,3,4,7,1,1
-2021-04-12,Super League Greece,2020-21,Giannina,Lamia,1,2,4,3,3,7,1,1
-2021-04-17,Super League Greece,2020-21,OFI Crete,Atromitos,1,1,5,3,2,8,1,0
-2021-04-17,Super League Greece,2020-21,Panetolikos,Apollon,1,0,7,4,1,11,0,0
-2021-04-17,Super League Greece,2020-21,Volos NFC,Giannina,1,1,5,3,2,8,1,0
-2021-04-18,Super League Greece,2020-21,PAOK,Olympiakos,2,0,3,4,2,7,0,0
-2021-04-18,Super League Greece,2020-21,AEK,Asteras Tripolis,3,1,6,0,4,6,1,1
-2021-04-18,Super League Greece,2020-21,Panathinaikos,Aris,1,2,0,5,3,5,1,1
-2021-04-19,Super League Greece,2020-21,Lamia,Larisa,0,0,7,2,0,9,0,0
-2021-04-21,Super League Greece,2020-21,Olympiakos,Asteras Tripolis,1,0,3,0,1,3,0,0
-2021-04-21,Super League Greece,2020-21,Aris,PAOK,0,1,9,2,1,11,0,0
-2021-04-21,Super League Greece,2020-21,AEK,Panathinaikos,1,1,11,2,2,13,1,0
-2021-04-24,Super League Greece,2020-21,Giannina,Panetolikos,0,1,4,2,1,6,0,0
-2021-04-24,Super League Greece,2020-21,Larisa,OFI Crete,0,1,5,4,1,9,0,0
-2021-04-24,Super League Greece,2020-21,Atromitos,Lamia,0,0,1,1,0,2,0,0
-2021-04-25,Super League Greece,2020-21,Olympiakos,AEK,2,0,6,3,2,9,0,0
-2021-04-25,Super League Greece,2020-21,PAOK,Panathinaikos,0,0,4,3,0,7,0,0
-2021-04-25,Super League Greece,2020-21,Asteras Tripolis,Aris,1,1,8,4,2,12,1,0
-2021-04-26,Super League Greece,2020-21,Apollon,Volos NFC,0,0,3,2,0,5,0,0
-2021-05-05,Super League Greece,2020-21,AEK,PAOK,1,2,3,2,3,5,1,1
-2021-05-05,Super League Greece,2020-21,Aris,Olympiakos,1,1,3,4,2,7,1,0
-2021-05-05,Super League Greece,2020-21,Panathinaikos,Asteras Tripolis,2,2,3,1,4,4,1,1
-2021-05-08,Super League Greece,2020-21,Lamia,OFI Crete,0,2,4,3,2,7,0,0
-2021-05-08,Super League Greece,2020-21,Panetolikos,Atromitos,1,3,6,0,4,6,1,1
-2021-05-08,Super League Greece,2020-21,Volos NFC,Larisa,3,1,3,2,4,5,1,1
-2021-05-09,Super League Greece,2020-21,Panathinaikos,AEK,0,1,6,5,1,11,0,0
-2021-05-09,Super League Greece,2020-21,PAOK,Aris,2,0,3,6,2,9,0,0
-2021-05-09,Super League Greece,2020-21,Asteras Tripolis,Olympiakos,0,0,3,4,0,7,0,0
-2021-05-12,Super League Greece,2020-21,Asteras Tripolis,AEK,1,1,3,5,2,8,1,0
-2021-05-12,Super League Greece,2020-21,Olympiakos,PAOK,1,0,4,1,1,5,0,0
-2021-05-12,Super League Greece,2020-21,Aris,Panathinaikos,0,0,9,4,0,13,0,0
-2021-05-15,Super League Greece,2020-21,Atromitos,Volos NFC,1,0,3,5,1,8,0,0
-2021-05-15,Super League Greece,2020-21,OFI Crete,Panetolikos,2,2,2,1,4,3,1,1
-2021-05-15,Super League Greece,2020-21,Apollon,Lamia,0,1,9,3,1,12,0,0
-2021-05-16,Super League Greece,2020-21,Panathinaikos,Olympiakos,1,4,6,4,5,10,1,1
-2021-05-16,Super League Greece,2020-21,PAOK,Asteras Tripolis,0,1,8,4,1,12,0,0
-2021-05-16,Super League Greece,2020-21,AEK,Aris,0,0,8,2,0,10,0,0
-2021-05-16,Super League Greece,2020-21,Larisa,Giannina,2,0,4,8,2,12,0,0
-2021-05-19,Super League Greece,2020-21,Giannina,Apollon,0,2,2,2,2,4,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2020-09-11,Super League Greece,2020-21,Aris,Lamia,3,1,7,0,4,2,0,0,4,7,6,0,1,1
+2020-09-11,Super League Greece,2020-21,PAOK,Larisa,1,0,9,3,4,4,0,0,1,12,8,0,0,0
+2020-09-12,Super League Greece,2020-21,OFI Crete,Panetolikos,1,1,1,2,5,1,0,0,2,3,6,0,1,0
+2020-09-13,Super League Greece,2020-21,Atromitos,Volos NFC,0,2,2,2,3,5,1,0,2,4,8,1,0,0
+2020-09-13,Super League Greece,2020-21,Asteras Tripolis,Panathinaikos,1,0,1,3,3,4,0,0,1,4,7,0,0,0
+2020-09-18,Super League Greece,2020-21,PAOK,Atromitos,1,1,7,3,0,4,0,0,2,10,4,0,1,0
+2020-09-18,Super League Greece,2020-21,Olympiakos,Asteras Tripolis,3,0,4,5,0,2,0,0,3,9,2,0,0,1
+2020-09-19,Super League Greece,2020-21,Panetolikos,AEK,0,2,1,7,1,6,0,0,2,8,7,0,0,0
+2020-09-20,Super League Greece,2020-21,Lamia,OFI Crete,1,2,4,4,2,3,0,0,3,8,5,0,1,1
+2020-09-20,Super League Greece,2020-21,Volos NFC,Aris,0,1,2,6,5,3,0,0,1,8,8,0,0,0
+2020-09-26,Super League Greece,2020-21,Volos NFC,PAOK,0,0,2,5,4,0,0,0,0,7,4,0,0,0
+2020-09-26,Super League Greece,2020-21,Olympiakos,Panetolikos,2,0,8,5,1,1,0,0,2,13,2,0,0,0
+2020-09-27,Super League Greece,2020-21,OFI Crete,Atromitos,2,2,4,3,3,4,0,1,4,7,7,1,1,1
+2020-09-27,Super League Greece,2020-21,AEK,Lamia,3,0,7,5,1,1,0,0,3,12,2,0,0,1
+2020-09-27,Super League Greece,2020-21,Aris,Giannina,2,2,4,3,4,5,0,0,4,7,9,0,1,1
+2020-09-28,Super League Greece,2020-21,Larisa,Panathinaikos,1,1,3,4,2,3,0,0,2,7,5,0,1,0
+2020-10-03,Super League Greece,2020-21,Panetolikos,Asteras Tripolis,1,1,3,15,0,1,1,0,2,18,1,1,1,0
+2020-10-04,Super League Greece,2020-21,Panathinaikos,Aris,0,1,8,2,2,3,0,0,1,10,5,0,0,0
+2020-10-04,Super League Greece,2020-21,Apollon,Larisa,1,0,3,6,2,4,0,0,1,9,6,0,0,0
+2020-10-04,Super League Greece,2020-21,PAOK,OFI Crete,3,0,8,4,2,4,0,0,3,12,6,0,0,1
+2020-10-04,Super League Greece,2020-21,Giannina,Olympiakos,1,1,4,7,2,2,0,0,2,11,4,0,1,0
+2020-10-04,Super League Greece,2020-21,Atromitos,AEK,1,0,2,0,2,2,0,1,1,2,4,1,0,0
+2020-10-05,Super League Greece,2020-21,Lamia,Volos NFC,1,2,0,4,3,3,0,0,3,4,6,0,1,1
+2020-10-17,Super League Greece,2020-21,Volos NFC,Giannina,2,1,4,4,2,3,0,0,3,8,5,0,1,1
+2020-10-17,Super League Greece,2020-21,Aris,Apollon,1,0,0,4,2,3,0,0,1,4,5,0,0,0
+2020-10-17,Super League Greece,2020-21,Olympiakos,Atromitos,4,0,6,1,3,0,0,1,4,7,3,1,0,1
+2020-10-18,Super League Greece,2020-21,Larisa,Asteras Tripolis,1,3,5,5,4,5,0,0,4,10,9,0,1,1
+2020-10-18,Super League Greece,2020-21,OFI Crete,Panathinaikos,2,2,9,5,1,2,0,0,4,14,3,0,1,1
+2020-10-18,Super League Greece,2020-21,AEK,PAOK,1,1,2,2,4,1,0,0,2,4,5,0,1,0
+2020-10-19,Super League Greece,2020-21,Lamia,Panetolikos,0,0,4,3,5,3,1,0,0,7,8,1,0,0
+2020-10-21,Super League Greece,2020-21,Apollon,Giannina,1,2,3,3,4,4,0,0,3,6,8,0,1,1
+2020-10-24,Super League Greece,2020-21,Panathinaikos,Volos NFC,1,1,9,5,3,3,0,0,2,14,6,0,1,0
+2020-10-25,Super League Greece,2020-21,Asteras Tripolis,OFI Crete,1,0,5,5,4,5,0,1,1,10,9,1,0,0
+2020-10-25,Super League Greece,2020-21,Giannina,AEK,0,1,3,3,4,5,0,0,1,6,9,0,0,0
+2020-10-26,Super League Greece,2020-21,Atromitos,Panetolikos,2,0,4,7,2,1,0,1,2,11,3,1,0,0
+2020-10-31,Super League Greece,2020-21,Olympiakos,Apollon,2,0,11,7,1,2,0,0,2,18,3,0,0,0
+2020-10-31,Super League Greece,2020-21,Atromitos,Giannina,0,2,0,5,3,3,0,0,2,5,6,0,0,0
+2020-10-31,Super League Greece,2020-21,Volos NFC,Larisa,1,1,3,2,4,4,2,0,2,5,8,2,1,0
+2020-10-31,Super League Greece,2020-21,Lamia,Panathinaikos,0,2,1,9,1,3,0,0,2,10,4,0,0,0
+2020-11-01,Super League Greece,2020-21,Aris,Asteras Tripolis,1,0,6,3,4,3,0,0,1,9,7,0,0,0
+2020-11-01,Super League Greece,2020-21,Panetolikos,PAOK,1,3,0,9,3,6,0,0,4,9,9,0,1,1
+2020-11-01,Super League Greece,2020-21,AEK,OFI Crete,2,1,4,0,1,0,0,0,3,4,1,0,1,1
+2020-11-03,Super League Greece,2020-21,Panathinaikos,Apollon,1,0,5,4,4,6,1,0,1,9,10,1,0,0
+2020-11-04,Super League Greece,2020-21,Giannina,Larisa,1,2,0,5,4,4,1,0,3,5,8,1,1,1
+2020-11-07,Super League Greece,2020-21,Panathinaikos,Atromitos,0,1,3,5,2,1,0,0,1,8,3,0,0,0
+2020-11-07,Super League Greece,2020-21,Giannina,Panetolikos,0,0,7,2,2,2,0,0,0,9,4,0,0,0
+2020-11-08,Super League Greece,2020-21,OFI Crete,Olympiakos,0,2,3,6,3,3,0,0,2,9,6,0,0,0
+2020-11-08,Super League Greece,2020-21,Apollon,PAOK,1,3,7,4,5,1,0,0,4,11,6,0,1,1
+2020-11-21,Super League Greece,2020-21,Lamia,Asteras Tripolis,2,2,3,5,2,3,0,0,4,8,5,0,1,1
+2020-11-21,Super League Greece,2020-21,Atromitos,Apollon,2,2,13,2,4,4,0,0,4,15,8,0,1,1
+2020-11-21,Super League Greece,2020-21,Olympiakos,Panathinaikos,1,0,3,5,3,3,0,0,1,8,6,0,0,0
+2020-11-22,Super League Greece,2020-21,AEK,Larisa,4,1,11,2,2,1,0,0,5,13,3,0,1,1
+2020-11-22,Super League Greece,2020-21,Panetolikos,Aris,0,1,7,4,2,4,0,0,1,11,6,0,0,0
+2020-11-22,Super League Greece,2020-21,PAOK,Giannina,2,1,13,1,4,4,0,1,3,14,8,1,1,1
+2020-11-23,Super League Greece,2020-21,Volos NFC,OFI Crete,1,4,7,5,1,4,1,0,5,12,5,1,1,1
+2020-11-25,Super League Greece,2020-21,Asteras Tripolis,Apollon,0,0,3,9,1,3,0,0,0,12,4,0,0,0
+2020-11-28,Super League Greece,2020-21,Larisa,Atromitos,0,0,5,3,3,0,0,0,0,8,3,0,0,0
+2020-11-28,Super League Greece,2020-21,Aris,Olympiakos,1,2,7,1,0,3,0,0,3,8,3,0,1,1
+2020-11-29,Super League Greece,2020-21,Asteras Tripolis,AEK,1,2,2,2,1,2,0,0,3,4,3,0,1,1
+2020-11-29,Super League Greece,2020-21,Lamia,PAOK,0,2,1,3,2,2,0,0,2,4,4,0,0,0
+2020-11-29,Super League Greece,2020-21,Panathinaikos,Panetolikos,2,1,4,3,5,2,0,0,3,7,7,0,1,1
+2020-11-29,Super League Greece,2020-21,OFI Crete,Giannina,2,1,3,7,3,2,0,0,3,10,5,0,1,1
+2020-11-30,Super League Greece,2020-21,Apollon,Volos NFC,3,3,2,8,4,3,0,0,6,10,7,0,1,1
+2020-12-02,Super League Greece,2020-21,Larisa,Aris,0,3,7,6,4,1,0,0,3,13,5,0,0,1
+2020-12-05,Super League Greece,2020-21,Atromitos,Aris,2,2,1,3,4,2,0,1,4,4,6,1,1,1
+2020-12-05,Super League Greece,2020-21,Olympiakos,Volos NFC,4,1,6,2,1,1,0,0,5,8,2,0,1,1
+2020-12-06,Super League Greece,2020-21,OFI Crete,Apollon,0,2,7,4,2,4,0,0,2,11,6,0,0,0
+2020-12-06,Super League Greece,2020-21,Giannina,Lamia,2,0,10,4,4,6,0,0,2,14,10,0,0,0
+2020-12-06,Super League Greece,2020-21,PAOK,Asteras Tripolis,2,0,5,4,6,5,1,0,2,9,11,1,0,0
+2020-12-06,Super League Greece,2020-21,AEK,Panathinaikos,1,2,9,2,3,5,0,0,3,11,8,0,1,1
+2020-12-07,Super League Greece,2020-21,Panetolikos,Larisa,2,1,1,7,4,6,0,0,3,8,10,0,1,1
+2020-12-09,Super League Greece,2020-21,Asteras Tripolis,Volos NFC,1,1,5,1,5,4,0,1,2,6,9,1,1,0
+2020-12-12,Super League Greece,2020-21,Larisa,OFI Crete,0,1,2,5,5,2,0,0,1,7,7,0,0,0
+2020-12-12,Super League Greece,2020-21,Panathinaikos,Giannina,2,0,5,1,4,3,0,0,2,6,7,0,0,0
+2020-12-13,Super League Greece,2020-21,Aris,PAOK,1,0,0,5,2,3,0,0,1,5,5,0,0,0
+2020-12-13,Super League Greece,2020-21,Volos NFC,Panetolikos,0,0,10,4,2,3,0,1,0,14,5,1,0,0
+2020-12-13,Super League Greece,2020-21,Lamia,Olympiakos,0,6,3,9,3,1,1,0,6,12,4,1,0,1
+2020-12-13,Super League Greece,2020-21,Apollon,AEK,3,4,2,7,2,3,0,0,7,9,5,0,1,1
+2020-12-14,Super League Greece,2020-21,Asteras Tripolis,Atromitos,2,0,4,3,2,2,0,0,2,7,4,0,0,0
+2020-12-16,Super League Greece,2020-21,AEK,Olympiakos,1,1,9,4,2,0,0,0,2,13,2,0,1,0
+2020-12-19,Super League Greece,2020-21,Panetolikos,Apollon,0,1,3,2,2,3,0,0,1,5,5,0,0,0
+2020-12-19,Super League Greece,2020-21,OFI Crete,Aris,0,3,5,3,3,3,0,0,3,8,6,0,0,1
+2020-12-20,Super League Greece,2020-21,Olympiakos,Larisa,5,1,8,3,0,1,0,0,6,11,1,0,1,1
+2020-12-20,Super League Greece,2020-21,PAOK,Panathinaikos,2,1,6,1,6,2,0,0,3,7,8,0,1,1
+2020-12-21,Super League Greece,2020-21,Giannina,Asteras Tripolis,2,2,2,2,1,4,1,0,4,4,5,1,1,1
+2020-12-21,Super League Greece,2020-21,AEK,Volos NFC,2,2,9,5,4,3,2,1,4,14,7,3,1,1
+2021-01-03,Super League Greece,2020-21,Olympiakos,AEK,3,0,3,1,3,2,0,0,3,4,5,0,0,1
+2021-01-03,Super League Greece,2020-21,Larisa,PAOK,1,1,2,12,3,2,0,0,2,14,5,0,1,0
+2021-01-03,Super League Greece,2020-21,Panetolikos,OFI Crete,2,1,7,3,3,5,0,1,3,10,8,1,1,1
+2021-01-03,Super League Greece,2020-21,Panathinaikos,Asteras Tripolis,0,0,2,3,4,3,0,0,0,5,7,0,0,0
+2021-01-03,Super League Greece,2020-21,Giannina,Apollon,1,3,4,2,2,4,0,0,4,6,6,0,1,1
+2021-01-04,Super League Greece,2020-21,Volos NFC,Atromitos,1,0,7,3,4,2,0,0,1,10,6,0,0,0
+2021-01-04,Super League Greece,2020-21,Lamia,Aris,2,0,4,5,2,5,0,1,2,9,7,1,0,0
+2021-01-06,Super League Greece,2020-21,Apollon,Panathinaikos,0,1,3,3,4,5,0,1,1,6,9,1,0,0
+2021-01-06,Super League Greece,2020-21,AEK,Panetolikos,1,0,5,2,2,3,0,0,1,7,5,0,0,0
+2021-01-06,Super League Greece,2020-21,Larisa,Giannina,0,0,3,4,2,2,0,0,0,7,4,0,0,0
+2021-01-06,Super League Greece,2020-21,Asteras Tripolis,Olympiakos,0,4,1,2,2,2,0,0,4,3,4,0,0,1
+2021-01-07,Super League Greece,2020-21,Aris,Volos NFC,2,0,3,3,2,3,0,0,2,6,5,0,0,0
+2021-01-07,Super League Greece,2020-21,OFI Crete,Lamia,2,0,4,1,3,1,0,0,2,5,4,0,0,0
+2021-01-07,Super League Greece,2020-21,Atromitos,PAOK,3,2,2,4,4,4,0,0,5,6,8,0,1,1
+2021-01-09,Super League Greece,2020-21,Panetolikos,Olympiakos,1,2,2,4,2,1,0,0,3,6,3,0,1,1
+2021-01-10,Super League Greece,2020-21,Panathinaikos,Larisa,2,0,1,4,2,3,0,0,2,5,5,0,0,0
+2021-01-10,Super League Greece,2020-21,Atromitos,OFI Crete,0,0,0,7,3,4,0,1,0,7,7,1,0,0
+2021-01-10,Super League Greece,2020-21,PAOK,Volos NFC,3,1,5,3,3,4,0,0,4,8,7,0,1,1
+2021-01-10,Super League Greece,2020-21,Apollon,Asteras Tripolis,0,1,7,3,2,4,0,0,1,10,6,0,0,0
+2021-01-11,Super League Greece,2020-21,Giannina,Aris,0,0,4,6,3,2,0,0,0,10,5,0,0,0
+2021-01-11,Super League Greece,2020-21,Lamia,AEK,0,1,1,2,3,1,0,1,1,3,4,1,0,0
+2021-01-13,Super League Greece,2020-21,PAOK,Olympiakos,1,1,4,5,3,1,0,0,2,9,4,0,1,0
+2021-01-14,Super League Greece,2020-21,Aris,AEK,0,1,4,1,2,4,0,0,1,5,6,0,0,0
+2021-01-14,Super League Greece,2020-21,Atromitos,Lamia,2,1,7,1,0,1,0,0,3,8,1,0,1,1
+2021-01-16,Super League Greece,2020-21,Asteras Tripolis,Panetolikos,2,0,2,1,1,4,0,0,2,3,5,0,0,0
+2021-01-16,Super League Greece,2020-21,Larisa,Apollon,0,1,1,6,3,3,0,0,1,7,6,0,0,0
+2021-01-17,Super League Greece,2020-21,Aris,Panathinaikos,0,1,9,0,4,2,0,0,1,9,6,0,0,0
+2021-01-17,Super League Greece,2020-21,Volos NFC,Lamia,1,1,6,3,3,3,0,1,2,9,6,1,1,0
+2021-01-17,Super League Greece,2020-21,AEK,Atromitos,2,1,4,2,2,5,0,0,3,6,7,0,1,1
+2021-01-17,Super League Greece,2020-21,Olympiakos,Giannina,1,0,8,2,1,5,0,0,1,10,6,0,0,0
+2021-01-17,Super League Greece,2020-21,OFI Crete,PAOK,0,3,2,6,0,2,1,0,3,8,2,1,0,1
+2021-01-23,Super League Greece,2020-21,Apollon,Aris,0,1,1,6,1,1,0,0,1,7,2,0,0,0
+2021-01-23,Super League Greece,2020-21,Panathinaikos,OFI Crete,2,0,6,3,2,2,0,0,2,9,4,0,0,0
+2021-01-23,Super League Greece,2020-21,Asteras Tripolis,Larisa,1,0,4,3,4,4,0,0,1,7,8,0,0,0
+2021-01-24,Super League Greece,2020-21,Atromitos,Olympiakos,0,1,3,5,1,4,0,0,1,8,5,0,0,0
+2021-01-24,Super League Greece,2020-21,Giannina,Volos NFC,0,1,5,1,3,7,0,0,1,6,10,0,0,0
+2021-01-24,Super League Greece,2020-21,Panetolikos,Lamia,0,0,2,7,1,4,0,0,0,9,5,0,0,0
+2021-01-24,Super League Greece,2020-21,PAOK,AEK,2,2,7,4,4,3,0,0,4,11,7,0,1,1
+2021-01-26,Super League Greece,2020-21,OFI Crete,Asteras Tripolis,0,1,4,2,3,1,0,0,1,6,4,0,0,0
+2021-01-26,Super League Greece,2020-21,Aris,Larisa,1,0,3,4,2,4,0,0,1,7,6,0,0,0
+2021-01-27,Super League Greece,2020-21,Volos NFC,Panathinaikos,0,2,10,2,1,1,0,1,2,12,2,1,0,0
+2021-01-27,Super League Greece,2020-21,AEK,Giannina,0,2,5,2,2,4,0,0,2,7,6,0,0,0
+2021-01-27,Super League Greece,2020-21,Lamia,Apollon,1,0,4,2,2,5,0,0,1,6,7,0,0,0
+2021-01-27,Super League Greece,2020-21,Olympiakos,PAOK,3,0,1,4,0,0,0,0,3,5,0,0,0,1
+2021-01-28,Super League Greece,2020-21,Panetolikos,Atromitos,1,1,6,2,1,4,0,1,2,8,5,1,1,0
+2021-01-30,Super League Greece,2020-21,Panathinaikos,Lamia,0,0,8,2,2,1,0,0,0,10,3,0,0,0
+2021-01-30,Super League Greece,2020-21,Asteras Tripolis,Aris,2,1,1,7,1,3,0,0,3,8,4,0,1,1
+2021-01-30,Super League Greece,2020-21,Larisa,Volos NFC,0,0,2,10,5,1,0,0,0,12,6,0,0,0
+2021-01-31,Super League Greece,2020-21,OFI Crete,AEK,0,2,3,6,0,3,0,0,2,9,3,0,0,0
+2021-01-31,Super League Greece,2020-21,Giannina,Atromitos,0,1,9,1,2,3,0,0,1,10,5,0,0,0
+2021-01-31,Super League Greece,2020-21,PAOK,Panetolikos,5,0,4,5,2,2,0,0,5,9,4,0,0,1
+2021-01-31,Super League Greece,2020-21,Apollon,Olympiakos,1,3,1,9,3,2,0,0,4,10,5,0,1,1
+2021-02-06,Super League Greece,2020-21,Atromitos,Panathinaikos,2,3,6,6,2,2,0,0,5,12,4,0,1,1
+2021-02-07,Super League Greece,2020-21,PAOK,Apollon,2,2,15,2,1,1,0,0,4,17,2,0,1,1
+2021-02-07,Super League Greece,2020-21,Olympiakos,OFI Crete,3,0,7,1,3,2,0,0,3,8,5,0,0,1
+2021-02-07,Super League Greece,2020-21,Volos NFC,Asteras Tripolis,0,1,3,0,2,3,0,0,1,3,5,0,0,0
+2021-02-07,Super League Greece,2020-21,AEK,Aris,0,2,4,3,3,2,0,0,2,7,5,0,0,0
+2021-02-08,Super League Greece,2020-21,Panetolikos,Giannina,1,2,4,5,2,2,0,0,3,9,4,0,1,1
+2021-02-13,Super League Greece,2020-21,Asteras Tripolis,Lamia,0,0,11,4,0,1,0,0,0,15,1,0,0,0
+2021-02-13,Super League Greece,2020-21,Apollon,Atromitos,2,1,1,3,1,2,0,0,3,4,3,0,1,1
+2021-02-14,Super League Greece,2020-21,OFI Crete,Volos NFC,1,2,3,1,3,1,0,0,3,4,4,0,1,1
+2021-02-14,Super League Greece,2020-21,Panathinaikos,Olympiakos,2,1,4,2,3,3,0,1,3,6,6,1,1,1
+2021-02-14,Super League Greece,2020-21,Aris,Panetolikos,0,0,7,2,1,2,0,0,0,9,3,0,0,0
+2021-02-15,Super League Greece,2020-21,Giannina,PAOK,0,2,2,7,2,2,0,0,2,9,4,0,0,0
+2021-02-15,Super League Greece,2020-21,Larisa,AEK,2,4,2,3,1,2,0,0,6,5,3,0,1,1
+2021-02-18,Super League Greece,2020-21,Apollon,Lamia,0,1,8,0,5,2,1,1,1,8,7,2,0,0
+2021-02-20,Super League Greece,2020-21,Atromitos,Larisa,1,1,5,5,2,3,0,0,2,10,5,0,1,0
+2021-02-20,Super League Greece,2020-21,AEK,Asteras Tripolis,2,2,7,5,1,0,0,0,4,12,1,0,1,1
+2021-02-21,Super League Greece,2020-21,PAOK,Lamia,4,0,4,2,1,2,0,0,4,6,3,0,0,1
+2021-02-21,Super League Greece,2020-21,Volos NFC,Apollon,2,0,2,6,2,3,0,0,2,8,5,0,0,0
+2021-02-21,Super League Greece,2020-21,Giannina,OFI Crete,1,0,3,5,3,3,0,0,1,8,6,0,0,0
+2021-02-21,Super League Greece,2020-21,Olympiakos,Aris,1,1,10,2,5,3,0,0,2,12,8,0,1,0
+2021-02-22,Super League Greece,2020-21,Panetolikos,Panathinaikos,1,0,2,8,2,1,0,0,1,10,3,0,0,0
+2021-02-24,Super League Greece,2020-21,Larisa,Lamia,0,1,5,4,4,2,0,0,1,9,6,0,0,0
+2021-02-27,Super League Greece,2020-21,Asteras Tripolis,PAOK,2,1,2,2,1,1,0,0,3,4,2,0,1,1
+2021-02-27,Super League Greece,2020-21,Apollon,OFI Crete,2,1,5,4,2,1,0,0,3,9,3,0,1,1
+2021-02-28,Super League Greece,2020-21,Panathinaikos,AEK,1,1,4,3,4,2,0,0,2,7,6,0,1,0
+2021-02-28,Super League Greece,2020-21,Larisa,Panetolikos,1,0,6,2,3,2,0,0,1,8,5,0,0,0
+2021-02-28,Super League Greece,2020-21,Aris,Atromitos,3,0,5,2,2,2,0,0,3,7,4,0,0,1
+2021-02-28,Super League Greece,2020-21,Lamia,Giannina,0,0,4,1,3,2,0,0,0,5,5,0,0,0
+2021-03-01,Super League Greece,2020-21,Volos NFC,Olympiakos,1,2,1,4,4,2,0,0,3,5,6,0,1,1
+2021-03-06,Super League Greece,2020-21,OFI Crete,Larisa,2,3,5,1,2,3,1,0,5,6,5,1,1,1
+2021-03-06,Super League Greece,2020-21,Atromitos,Asteras Tripolis,1,1,1,2,2,4,0,1,2,3,6,1,1,0
+2021-03-06,Super League Greece,2020-21,Giannina,Panathinaikos,1,0,5,2,3,3,0,0,1,7,6,0,0,0
+2021-03-07,Super League Greece,2020-21,Olympiakos,Lamia,3,0,6,3,1,1,0,0,3,9,2,0,0,1
+2021-03-07,Super League Greece,2020-21,Panetolikos,Volos NFC,1,0,1,3,2,2,0,0,1,4,4,0,0,0
+2021-03-07,Super League Greece,2020-21,PAOK,Aris,2,2,7,3,3,2,0,0,4,10,5,0,1,1
+2021-03-08,Super League Greece,2020-21,AEK,Apollon,2,0,4,1,2,2,0,0,2,5,4,0,0,0
+2021-03-10,Super League Greece,2020-21,Lamia,Larisa,2,1,3,2,3,4,0,0,3,5,7,0,1,1
+2021-03-14,Super League Greece,2020-21,Panathinaikos,PAOK,2,1,1,6,3,5,0,0,3,7,8,0,1,1
+2021-03-14,Super League Greece,2020-21,Volos NFC,AEK,1,0,4,3,5,2,1,0,1,7,7,1,0,0
+2021-03-14,Super League Greece,2020-21,Larisa,Olympiakos,1,3,2,5,3,3,0,0,4,7,6,0,1,1
+2021-03-14,Super League Greece,2020-21,Asteras Tripolis,Giannina,0,1,5,4,1,1,0,0,1,9,2,0,0,0
+2021-03-14,Super League Greece,2020-21,Lamia,Atromitos,0,0,5,4,0,1,0,0,0,9,1,0,0,0
+2021-03-14,Super League Greece,2020-21,Aris,OFI Crete,1,0,7,1,2,0,0,0,1,8,2,0,0,0
+2021-03-14,Super League Greece,2020-21,Apollon,Panetolikos,1,0,3,4,1,1,0,0,1,7,2,0,0,0
+2021-03-20,Super League Greece,2020-21,Apollon,Larisa,0,2,7,3,2,2,0,0,2,10,4,0,0,0
+2021-03-20,Super League Greece,2020-21,Volos NFC,OFI Crete,0,0,5,2,1,2,0,0,0,7,3,0,0,0
+2021-03-20,Super League Greece,2020-21,Giannina,Atromitos,1,0,4,3,2,2,0,0,1,7,4,0,0,0
+2021-03-20,Super League Greece,2020-21,Panetolikos,Lamia,0,3,8,2,1,2,0,0,3,10,3,0,0,1
+2021-03-21,Super League Greece,2020-21,Asteras Tripolis,Panathinaikos,2,2,1,4,1,4,0,0,4,5,5,0,1,1
+2021-03-21,Super League Greece,2020-21,Olympiakos,Aris,1,0,4,9,2,1,1,0,1,13,3,1,0,0
+2021-03-21,Super League Greece,2020-21,PAOK,AEK,3,1,2,9,4,2,0,0,4,11,6,0,1,1
+2021-04-03,Super League Greece,2020-21,Lamia,Volos NFC,1,1,2,7,2,1,0,0,2,9,3,0,1,0
+2021-04-03,Super League Greece,2020-21,Larisa,Panetolikos,1,1,8,5,3,3,0,0,2,13,6,0,1,0
+2021-04-03,Super League Greece,2020-21,Atromitos,Apollon,1,1,6,4,1,1,0,0,2,10,2,0,1,0
+2021-04-03,Super League Greece,2020-21,OFI Crete,Giannina,2,1,6,1,2,3,0,0,3,7,5,0,1,1
+2021-04-04,Super League Greece,2020-21,Panathinaikos,PAOK,3,0,1,14,3,4,0,0,3,15,7,0,0,1
+2021-04-04,Super League Greece,2020-21,Aris,Asteras Tripolis,2,0,4,5,2,2,0,0,2,9,4,0,0,0
+2021-04-04,Super League Greece,2020-21,AEK,Olympiakos,1,5,1,1,1,1,0,0,6,2,2,0,1,1
+2021-04-10,Super League Greece,2020-21,Volos NFC,Panetolikos,3,1,4,6,0,1,0,0,4,10,1,0,1,1
+2021-04-10,Super League Greece,2020-21,Apollon,OFI Crete,0,0,1,4,2,1,0,0,0,5,3,0,0,0
+2021-04-10,Super League Greece,2020-21,Atromitos,Larisa,0,1,4,4,2,7,0,0,1,8,9,0,0,0
+2021-04-11,Super League Greece,2020-21,Aris,AEK,1,3,5,2,3,6,0,0,4,7,9,0,1,1
+2021-04-11,Super League Greece,2020-21,Asteras Tripolis,PAOK,1,1,2,4,2,4,0,0,2,6,6,0,1,0
+2021-04-11,Super League Greece,2020-21,Olympiakos,Panathinaikos,3,1,4,3,4,5,0,1,4,7,9,1,1,1
+2021-04-12,Super League Greece,2020-21,Giannina,Lamia,1,2,4,3,1,4,0,0,3,7,5,0,1,1
+2021-04-17,Super League Greece,2020-21,OFI Crete,Atromitos,1,1,5,3,2,3,0,0,2,8,5,0,1,0
+2021-04-17,Super League Greece,2020-21,Panetolikos,Apollon,1,0,7,4,1,2,0,0,1,11,3,0,0,0
+2021-04-17,Super League Greece,2020-21,Volos NFC,Giannina,1,1,5,3,1,5,0,0,2,8,6,0,1,0
+2021-04-18,Super League Greece,2020-21,PAOK,Olympiakos,2,0,3,4,0,2,0,0,2,7,2,0,0,0
+2021-04-18,Super League Greece,2020-21,AEK,Asteras Tripolis,3,1,6,0,1,1,0,0,4,6,2,0,1,1
+2021-04-18,Super League Greece,2020-21,Panathinaikos,Aris,1,2,0,5,7,3,1,0,3,5,10,1,1,1
+2021-04-19,Super League Greece,2020-21,Lamia,Larisa,0,0,7,2,2,5,0,0,0,9,7,0,0,0
+2021-04-21,Super League Greece,2020-21,Olympiakos,Asteras Tripolis,1,0,3,0,1,1,0,0,1,3,2,0,0,0
+2021-04-21,Super League Greece,2020-21,Aris,PAOK,0,1,9,2,1,5,0,1,1,11,6,1,0,0
+2021-04-21,Super League Greece,2020-21,AEK,Panathinaikos,1,1,11,2,4,5,0,0,2,13,9,0,1,0
+2021-04-24,Super League Greece,2020-21,Giannina,Panetolikos,0,1,4,2,3,0,0,0,1,6,3,0,0,0
+2021-04-24,Super League Greece,2020-21,Larisa,OFI Crete,0,1,5,4,4,3,0,1,1,9,7,1,0,0
+2021-04-24,Super League Greece,2020-21,Atromitos,Lamia,0,0,1,1,1,1,1,0,0,2,2,1,0,0
+2021-04-25,Super League Greece,2020-21,Olympiakos,AEK,2,0,6,3,4,1,0,0,2,9,5,0,0,0
+2021-04-25,Super League Greece,2020-21,PAOK,Panathinaikos,0,0,4,3,2,3,0,0,0,7,5,0,0,0
+2021-04-25,Super League Greece,2020-21,Asteras Tripolis,Aris,1,1,8,4,2,2,0,0,2,12,4,0,1,0
+2021-04-26,Super League Greece,2020-21,Apollon,Volos NFC,0,0,3,2,1,1,0,0,0,5,2,0,0,0
+2021-05-05,Super League Greece,2020-21,AEK,PAOK,1,2,3,2,4,4,0,0,3,5,8,0,1,1
+2021-05-05,Super League Greece,2020-21,Aris,Olympiakos,1,1,3,4,1,1,0,0,2,7,2,0,1,0
+2021-05-05,Super League Greece,2020-21,Panathinaikos,Asteras Tripolis,2,2,3,1,1,3,0,0,4,4,4,0,1,1
+2021-05-08,Super League Greece,2020-21,Lamia,OFI Crete,0,2,4,3,1,2,0,0,2,7,3,0,0,0
+2021-05-08,Super League Greece,2020-21,Panetolikos,Atromitos,1,3,6,0,4,3,0,0,4,6,7,0,1,1
+2021-05-08,Super League Greece,2020-21,Volos NFC,Larisa,3,1,3,2,3,4,0,1,4,5,7,1,1,1
+2021-05-09,Super League Greece,2020-21,Panathinaikos,AEK,0,1,6,5,5,6,0,0,1,11,11,0,0,0
+2021-05-09,Super League Greece,2020-21,PAOK,Aris,2,0,3,6,3,3,0,0,2,9,6,0,0,0
+2021-05-09,Super League Greece,2020-21,Asteras Tripolis,Olympiakos,0,0,3,4,0,2,0,0,0,7,2,0,0,0
+2021-05-12,Super League Greece,2020-21,Asteras Tripolis,AEK,1,1,3,5,1,2,0,0,2,8,3,0,1,0
+2021-05-12,Super League Greece,2020-21,Olympiakos,PAOK,1,0,4,1,1,1,0,0,1,5,2,0,0,0
+2021-05-12,Super League Greece,2020-21,Aris,Panathinaikos,0,0,9,4,2,4,0,1,0,13,6,1,0,0
+2021-05-15,Super League Greece,2020-21,Atromitos,Volos NFC,1,0,3,5,1,1,0,0,1,8,2,0,0,0
+2021-05-15,Super League Greece,2020-21,OFI Crete,Panetolikos,2,2,2,1,1,1,0,0,4,3,2,0,1,1
+2021-05-15,Super League Greece,2020-21,Apollon,Lamia,0,1,9,3,2,0,0,0,1,12,2,0,0,0
+2021-05-16,Super League Greece,2020-21,Panathinaikos,Olympiakos,1,4,6,4,4,4,1,0,5,10,8,1,1,1
+2021-05-16,Super League Greece,2020-21,PAOK,Asteras Tripolis,0,1,8,4,1,2,0,0,1,12,3,0,0,0
+2021-05-16,Super League Greece,2020-21,AEK,Aris,0,0,8,2,3,2,0,0,0,10,5,0,0,0
+2021-05-16,Super League Greece,2020-21,Larisa,Giannina,2,0,4,8,3,3,0,0,2,12,6,0,0,0
+2021-05-19,Super League Greece,2020-21,Giannina,Apollon,0,2,2,2,1,2,0,0,2,4,3,0,0,0

@@ -1,381 +1,381 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2015-08-21,La Liga,2015-16,Malaga,Sevilla,0,0,7,2,0,9,0,0
-2015-08-22,La Liga,2015-16,Ath Madrid,Las Palmas,1,0,4,4,1,8,0,0
-2015-08-22,La Liga,2015-16,Espanol,Getafe,1,0,5,6,1,11,0,0
-2015-08-22,La Liga,2015-16,La Coruna,Sociedad,0,0,5,4,0,9,0,0
-2015-08-22,La Liga,2015-16,Vallecano,Valencia,0,0,3,3,0,6,0,0
-2015-08-23,La Liga,2015-16,Ath Bilbao,Barcelona,0,1,2,4,1,6,0,0
-2015-08-23,La Liga,2015-16,Betis,Villarreal,1,1,7,5,2,12,1,0
-2015-08-23,La Liga,2015-16,Levante,Celta,1,2,4,6,3,10,1,1
-2015-08-23,La Liga,2015-16,Sp Gijon,Real Madrid,0,0,2,5,0,7,0,0
-2015-08-24,La Liga,2015-16,Granada,Eibar,1,3,6,5,4,11,1,1
-2015-08-28,La Liga,2015-16,Villarreal,Espanol,3,1,2,3,4,5,1,1
-2015-08-29,La Liga,2015-16,Sociedad,Sp Gijon,0,0,6,4,0,10,0,0
-2015-08-29,La Liga,2015-16,Real Madrid,Betis,5,0,11,4,5,15,0,1
-2015-08-29,La Liga,2015-16,Barcelona,Malaga,1,0,15,2,1,17,0,0
-2015-08-29,La Liga,2015-16,Celta,Vallecano,3,0,5,4,3,9,0,1
-2015-08-30,La Liga,2015-16,Eibar,Ath Bilbao,2,0,11,4,2,15,0,0
-2015-08-30,La Liga,2015-16,Getafe,Granada,1,2,6,6,3,12,1,1
-2015-08-30,La Liga,2015-16,Las Palmas,Levante,0,0,3,0,0,3,0,0
-2015-08-30,La Liga,2015-16,Sevilla,Ath Madrid,0,3,11,1,3,12,0,1
-2015-08-30,La Liga,2015-16,Valencia,La Coruna,1,1,5,7,2,12,1,0
-2015-09-11,La Liga,2015-16,Levante,Sevilla,1,1,5,4,2,9,1,0
-2015-09-12,La Liga,2015-16,Sp Gijon,Valencia,0,1,5,6,1,11,0,0
-2015-09-12,La Liga,2015-16,Espanol,Real Madrid,0,6,5,6,6,11,0,1
-2015-09-12,La Liga,2015-16,Betis,Sociedad,1,0,2,4,1,6,0,0
-2015-09-12,La Liga,2015-16,Ath Madrid,Barcelona,1,2,1,10,3,11,1,1
-2015-09-13,La Liga,2015-16,Ath Bilbao,Getafe,3,1,12,5,4,17,1,1
-2015-09-13,La Liga,2015-16,Celta,Las Palmas,3,3,7,2,6,9,1,1
-2015-09-13,La Liga,2015-16,Granada,Villarreal,1,3,8,6,4,14,1,1
-2015-09-13,La Liga,2015-16,Malaga,Eibar,0,0,7,3,0,10,0,0
-2015-09-14,La Liga,2015-16,Vallecano,La Coruna,1,3,5,4,4,9,1,1
-2015-09-18,La Liga,2015-16,Getafe,Malaga,1,0,4,7,1,11,0,0
-2015-09-19,La Liga,2015-16,Sociedad,Espanol,2,3,7,6,5,13,1,1
-2015-09-19,La Liga,2015-16,Valencia,Betis,0,0,7,1,0,8,0,0
-2015-09-19,La Liga,2015-16,Eibar,Ath Madrid,0,2,1,4,2,5,0,0
-2015-09-19,La Liga,2015-16,Real Madrid,Granada,1,0,10,1,1,11,0,0
-2015-09-20,La Liga,2015-16,Barcelona,Levante,4,1,4,4,5,8,1,1
-2015-09-20,La Liga,2015-16,La Coruna,Sp Gijon,2,3,8,3,5,11,1,1
-2015-09-20,La Liga,2015-16,Las Palmas,Vallecano,0,1,3,5,1,8,0,0
-2015-09-20,La Liga,2015-16,Sevilla,Celta,1,2,5,5,3,10,1,1
-2015-09-20,La Liga,2015-16,Villarreal,Ath Bilbao,3,1,9,4,4,13,1,1
-2015-09-22,La Liga,2015-16,Ath Madrid,Getafe,2,0,6,1,2,7,0,0
-2015-09-22,La Liga,2015-16,Espanol,Valencia,1,0,7,6,1,13,0,0
-2015-09-22,La Liga,2015-16,Granada,Sociedad,0,3,4,3,3,7,0,1
-2015-09-23,La Liga,2015-16,Vallecano,Sp Gijon,2,1,4,4,3,8,1,1
-2015-09-23,La Liga,2015-16,Malaga,Villarreal,0,1,8,5,1,13,0,0
-2015-09-23,La Liga,2015-16,Levante,Eibar,2,2,4,7,4,11,1,1
-2015-09-23,La Liga,2015-16,Las Palmas,Sevilla,2,0,5,5,2,10,0,0
-2015-09-23,La Liga,2015-16,Celta,Barcelona,4,1,5,10,5,15,1,1
-2015-09-23,La Liga,2015-16,Ath Bilbao,Real Madrid,1,2,6,8,3,14,1,1
-2015-09-24,La Liga,2015-16,Betis,La Coruna,1,2,3,4,3,7,1,1
-2015-09-25,La Liga,2015-16,Valencia,Granada,1,0,11,3,1,14,0,0
-2015-09-26,La Liga,2015-16,Barcelona,Las Palmas,2,1,3,4,3,7,1,1
-2015-09-26,La Liga,2015-16,Eibar,Celta,1,1,4,4,2,8,1,0
-2015-09-26,La Liga,2015-16,Real Madrid,Malaga,0,0,12,6,0,18,0,0
-2015-09-26,La Liga,2015-16,Sevilla,Vallecano,3,2,6,5,5,11,1,1
-2015-09-26,La Liga,2015-16,Villarreal,Ath Madrid,1,0,1,5,1,6,0,0
-2015-09-27,La Liga,2015-16,Sp Gijon,Betis,1,2,10,4,3,14,1,1
-2015-09-27,La Liga,2015-16,Sociedad,Ath Bilbao,0,0,4,2,0,6,0,0
-2015-09-27,La Liga,2015-16,Getafe,Levante,3,0,4,4,3,8,0,1
-2015-09-27,La Liga,2015-16,La Coruna,Espanol,3,0,7,5,3,12,0,1
-2015-10-02,La Liga,2015-16,Celta,Getafe,0,0,9,1,0,10,0,0
-2015-10-03,La Liga,2015-16,Sevilla,Barcelona,2,1,7,9,3,16,1,1
-2015-10-03,La Liga,2015-16,Espanol,Sp Gijon,1,2,9,1,3,10,1,1
-2015-10-03,La Liga,2015-16,Granada,La Coruna,1,1,2,5,2,7,1,0
-2015-10-03,La Liga,2015-16,Las Palmas,Eibar,0,2,3,2,2,5,0,0
-2015-10-03,La Liga,2015-16,Malaga,Sociedad,3,1,2,4,4,6,1,1
-2015-10-04,La Liga,2015-16,Vallecano,Betis,0,2,8,3,2,11,0,0
-2015-10-04,La Liga,2015-16,Levante,Villarreal,1,0,8,2,1,10,0,0
-2015-10-04,La Liga,2015-16,Ath Bilbao,Valencia,3,1,11,4,4,15,1,1
-2015-10-04,La Liga,2015-16,Ath Madrid,Real Madrid,1,1,5,1,2,6,1,0
-2015-10-17,La Liga,2015-16,Barcelona,Vallecano,5,2,7,10,7,17,1,1
-2015-10-17,La Liga,2015-16,Betis,Espanol,1,3,4,3,4,7,1,1
-2015-10-17,La Liga,2015-16,Eibar,Sevilla,1,1,2,5,2,7,1,0
-2015-10-17,La Liga,2015-16,Real Madrid,Levante,3,0,4,4,3,8,0,1
-2015-10-17,La Liga,2015-16,Valencia,Malaga,3,0,6,8,3,14,0,1
-2015-10-18,La Liga,2015-16,Villarreal,Celta,1,2,7,4,3,11,1,1
-2015-10-18,La Liga,2015-16,Getafe,Las Palmas,4,0,5,1,4,6,0,1
-2015-10-18,La Liga,2015-16,La Coruna,Ath Bilbao,2,2,4,6,4,10,1,1
-2015-10-18,La Liga,2015-16,Sociedad,Ath Madrid,0,2,5,2,2,7,0,0
-2015-10-19,La Liga,2015-16,Sp Gijon,Granada,3,3,6,1,6,7,1,1
-2015-10-23,La Liga,2015-16,Vallecano,Espanol,3,0,6,5,3,11,0,1
-2015-10-24,La Liga,2015-16,Celta,Real Madrid,1,3,5,7,4,12,1,1
-2015-10-24,La Liga,2015-16,Granada,Betis,1,1,3,3,2,6,1,0
-2015-10-24,La Liga,2015-16,Malaga,La Coruna,2,0,3,5,2,8,0,0
-2015-10-24,La Liga,2015-16,Sevilla,Getafe,5,0,7,3,5,10,0,1
-2015-10-25,La Liga,2015-16,Ath Madrid,Valencia,2,1,9,2,3,11,1,1
-2015-10-25,La Liga,2015-16,Barcelona,Eibar,3,1,6,2,4,8,1,1
-2015-10-25,La Liga,2015-16,Las Palmas,Villarreal,0,0,6,6,0,12,0,0
-2015-10-25,La Liga,2015-16,Levante,Sociedad,0,4,10,3,4,13,0,1
-2015-10-26,La Liga,2015-16,Ath Bilbao,Sp Gijon,3,0,9,3,3,12,0,1
-2015-10-30,La Liga,2015-16,La Coruna,Ath Madrid,1,1,1,5,2,6,1,0
-2015-10-31,La Liga,2015-16,Valencia,Levante,3,0,5,5,3,10,0,1
-2015-10-31,La Liga,2015-16,Sociedad,Celta,2,3,8,7,5,15,1,1
-2015-10-31,La Liga,2015-16,Villarreal,Sevilla,2,1,7,5,3,12,1,1
-2015-10-31,La Liga,2015-16,Getafe,Barcelona,0,2,3,5,2,8,0,0
-2015-10-31,La Liga,2015-16,Real Madrid,Las Palmas,3,1,6,3,4,9,1,1
-2015-11-01,La Liga,2015-16,Betis,Ath Bilbao,1,3,7,9,4,16,1,1
-2015-11-01,La Liga,2015-16,Eibar,Vallecano,1,0,2,6,1,8,0,0
-2015-11-01,La Liga,2015-16,Espanol,Granada,1,1,5,6,2,11,1,0
-2015-11-01,La Liga,2015-16,Sp Gijon,Malaga,1,0,7,5,1,12,0,0
-2015-11-06,La Liga,2015-16,Las Palmas,Sociedad,2,0,0,8,2,8,0,0
-2015-11-07,La Liga,2015-16,Malaga,Betis,0,1,6,3,1,9,0,0
-2015-11-07,La Liga,2015-16,Levante,La Coruna,1,1,9,5,2,14,1,0
-2015-11-07,La Liga,2015-16,Vallecano,Granada,2,1,4,1,3,5,1,1
-2015-11-07,La Liga,2015-16,Celta,Valencia,1,5,15,5,6,20,1,1
-2015-11-07,La Liga,2015-16,Eibar,Getafe,3,1,5,7,4,12,1,1
-2015-11-08,La Liga,2015-16,Ath Bilbao,Espanol,2,1,4,5,3,9,1,1
-2015-11-08,La Liga,2015-16,Ath Madrid,Sp Gijon,1,0,5,1,1,6,0,0
-2015-11-08,La Liga,2015-16,Barcelona,Villarreal,3,0,7,2,3,9,0,1
-2015-11-08,La Liga,2015-16,Sevilla,Real Madrid,3,2,4,6,5,10,1,1
-2015-11-21,La Liga,2015-16,Valencia,Las Palmas,1,1,1,8,2,9,1,0
-2015-11-21,La Liga,2015-16,Espanol,Malaga,2,0,3,8,2,11,0,0
-2015-11-21,La Liga,2015-16,La Coruna,Celta,2,0,2,10,2,12,0,0
-2015-11-21,La Liga,2015-16,Real Madrid,Barcelona,0,4,10,4,4,14,0,1
-2015-11-21,La Liga,2015-16,Sociedad,Sevilla,2,0,7,5,2,12,0,0
-2015-11-22,La Liga,2015-16,Sp Gijon,Levante,0,3,5,3,3,8,0,1
-2015-11-22,La Liga,2015-16,Villarreal,Eibar,1,1,12,6,2,18,1,0
-2015-11-22,La Liga,2015-16,Betis,Ath Madrid,0,1,2,6,1,8,0,0
-2015-11-22,La Liga,2015-16,Granada,Ath Bilbao,2,0,2,7,2,9,0,0
-2015-11-23,La Liga,2015-16,Getafe,Vallecano,1,1,5,7,2,12,1,0
-2015-11-27,La Liga,2015-16,Levante,Betis,0,1,7,4,1,11,0,0
-2015-11-28,La Liga,2015-16,Ath Madrid,Espanol,1,0,6,2,1,8,0,0
-2015-11-28,La Liga,2015-16,Barcelona,Sociedad,4,0,6,4,4,10,0,1
-2015-11-28,La Liga,2015-16,Celta,Sp Gijon,2,1,3,5,3,8,1,1
-2015-11-28,La Liga,2015-16,Las Palmas,La Coruna,0,2,6,4,2,10,0,0
-2015-11-28,La Liga,2015-16,Malaga,Granada,2,2,7,4,4,11,1,1
-2015-11-29,La Liga,2015-16,Sevilla,Valencia,1,0,17,0,1,17,0,0
-2015-11-29,La Liga,2015-16,Vallecano,Ath Bilbao,0,3,6,2,3,8,0,1
-2015-11-29,La Liga,2015-16,Eibar,Real Madrid,0,2,6,5,2,11,0,0
-2015-11-29,La Liga,2015-16,Getafe,Villarreal,2,0,6,6,2,12,0,0
-2015-12-05,La Liga,2015-16,Betis,Celta,1,1,8,0,2,8,1,0
-2015-12-05,La Liga,2015-16,La Coruna,Sevilla,1,1,6,2,2,8,1,0
-2015-12-05,La Liga,2015-16,Real Madrid,Getafe,4,1,3,4,5,7,1,1
-2015-12-05,La Liga,2015-16,Valencia,Barcelona,1,1,0,6,2,6,1,0
-2015-12-05,La Liga,2015-16,Granada,Ath Madrid,0,2,6,8,2,14,0,0
-2015-12-06,La Liga,2015-16,Ath Bilbao,Malaga,0,0,6,1,0,7,0,0
-2015-12-06,La Liga,2015-16,Sociedad,Eibar,2,1,4,3,3,7,1,1
-2015-12-06,La Liga,2015-16,Sp Gijon,Las Palmas,3,1,8,4,4,12,1,1
-2015-12-06,La Liga,2015-16,Villarreal,Vallecano,2,1,5,4,3,9,1,1
-2015-12-07,La Liga,2015-16,Espanol,Levante,1,1,2,6,2,8,1,0
-2015-12-11,La Liga,2015-16,Getafe,Sociedad,1,1,5,5,2,10,1,0
-2015-12-12,La Liga,2015-16,Levante,Granada,1,2,2,1,3,3,1,1
-2015-12-12,La Liga,2015-16,Sevilla,Sp Gijon,2,0,3,1,2,4,0,0
-2015-12-12,La Liga,2015-16,Celta,Espanol,1,0,4,9,1,13,0,0
-2015-12-12,La Liga,2015-16,Barcelona,La Coruna,2,2,6,2,4,8,1,1
-2015-12-12,La Liga,2015-16,Las Palmas,Betis,1,0,2,2,1,4,0,0
-2015-12-13,La Liga,2015-16,Ath Madrid,Ath Bilbao,2,1,3,6,3,9,1,1
-2015-12-13,La Liga,2015-16,Eibar,Valencia,1,1,9,2,2,11,1,0
-2015-12-13,La Liga,2015-16,Vallecano,Malaga,1,2,6,7,3,13,1,1
-2015-12-13,La Liga,2015-16,Villarreal,Real Madrid,1,0,3,9,1,12,0,0
-2015-12-19,La Liga,2015-16,La Coruna,Eibar,2,0,9,8,2,17,0,0
-2015-12-19,La Liga,2015-16,Valencia,Getafe,2,2,5,1,4,6,1,1
-2015-12-19,La Liga,2015-16,Betis,Sevilla,0,0,8,8,0,16,0,0
-2015-12-19,La Liga,2015-16,Espanol,Las Palmas,1,0,7,5,1,12,0,0
-2015-12-20,La Liga,2015-16,Ath Bilbao,Levante,2,0,10,3,2,13,0,0
-2015-12-20,La Liga,2015-16,Granada,Celta,0,2,9,3,2,12,0,0
-2015-12-20,La Liga,2015-16,Malaga,Ath Madrid,1,0,4,1,1,5,0,0
-2015-12-20,La Liga,2015-16,Real Madrid,Vallecano,10,2,10,4,12,14,1,1
-2015-12-20,La Liga,2015-16,Sociedad,Villarreal,0,2,9,1,2,10,0,0
-2015-12-30,La Liga,2015-16,Levante,Malaga,0,1,6,5,1,11,0,0
-2015-12-30,La Liga,2015-16,Sevilla,Espanol,2,0,6,6,2,12,0,0
-2015-12-30,La Liga,2015-16,Real Madrid,Sociedad,3,1,13,2,4,15,1,1
-2015-12-30,La Liga,2015-16,Las Palmas,Granada,4,1,4,4,5,8,1,1
-2015-12-30,La Liga,2015-16,Vallecano,Ath Madrid,0,2,3,8,2,11,0,0
-2015-12-30,La Liga,2015-16,Eibar,Sp Gijon,2,0,5,7,2,12,0,0
-2015-12-30,La Liga,2015-16,Celta,Ath Bilbao,0,1,3,3,1,6,0,0
-2015-12-30,La Liga,2015-16,Barcelona,Betis,4,0,2,3,4,5,0,1
-2015-12-30,La Liga,2015-16,Getafe,La Coruna,0,0,9,2,0,11,0,0
-2015-12-31,La Liga,2015-16,Villarreal,Valencia,1,0,3,6,1,9,0,0
-2016-01-02,La Liga,2015-16,Ath Madrid,Levante,1,0,13,1,1,14,0,0
-2016-01-02,La Liga,2015-16,Espanol,Barcelona,0,0,6,10,0,16,0,0
-2016-01-02,La Liga,2015-16,Malaga,Celta,2,0,5,2,2,7,0,0
-2016-01-03,La Liga,2015-16,Valencia,Real Madrid,2,2,4,7,4,11,1,1
-2016-01-03,La Liga,2015-16,La Coruna,Villarreal,1,2,9,3,3,12,1,1
-2016-01-03,La Liga,2015-16,Vallecano,Sociedad,2,2,7,7,4,14,1,1
-2016-01-03,La Liga,2015-16,Betis,Eibar,0,4,6,2,4,8,0,1
-2016-01-03,La Liga,2015-16,Ath Bilbao,Las Palmas,2,2,5,5,4,10,1,1
-2016-01-03,La Liga,2015-16,Granada,Sevilla,2,1,2,9,3,11,1,1
-2016-01-04,La Liga,2015-16,Sp Gijon,Getafe,1,2,4,2,3,6,1,1
-2016-01-09,La Liga,2015-16,Barcelona,Granada,4,0,7,0,4,7,0,1
-2016-01-09,La Liga,2015-16,Getafe,Betis,1,0,8,4,1,12,0,0
-2016-01-09,La Liga,2015-16,Levante,Vallecano,2,1,5,5,3,10,1,1
-2016-01-09,La Liga,2015-16,Real Madrid,La Coruna,5,0,5,9,5,14,0,1
-2016-01-09,La Liga,2015-16,Sevilla,Ath Bilbao,2,0,6,8,2,14,0,0
-2016-01-10,La Liga,2015-16,Celta,Ath Madrid,0,2,4,4,2,8,0,0
-2016-01-10,La Liga,2015-16,Eibar,Espanol,2,1,8,2,3,10,1,1
-2016-01-10,La Liga,2015-16,Las Palmas,Malaga,1,1,2,5,2,7,1,0
-2016-01-10,La Liga,2015-16,Sociedad,Valencia,2,0,5,6,2,11,0,0
-2016-01-10,La Liga,2015-16,Villarreal,Sp Gijon,2,0,3,9,2,12,0,0
-2016-01-16,La Liga,2015-16,Villarreal,Betis,0,0,7,11,0,18,0,0
-2016-01-16,La Liga,2015-16,Sociedad,La Coruna,1,1,9,4,2,13,1,0
-2016-01-16,La Liga,2015-16,Celta,Levante,4,3,6,2,7,8,1,1
-2016-01-16,La Liga,2015-16,Sevilla,Malaga,2,1,6,4,3,10,1,1
-2016-01-17,La Liga,2015-16,Barcelona,Ath Bilbao,6,0,6,2,6,8,0,1
-2016-01-17,La Liga,2015-16,Getafe,Espanol,3,1,3,7,4,10,1,1
-2016-01-17,La Liga,2015-16,Las Palmas,Ath Madrid,0,3,3,4,3,7,0,1
-2016-01-17,La Liga,2015-16,Real Madrid,Sp Gijon,5,1,4,4,6,8,1,1
-2016-01-17,La Liga,2015-16,Valencia,Vallecano,2,2,7,9,4,16,1,1
-2016-01-18,La Liga,2015-16,Eibar,Granada,5,1,3,2,6,5,1,1
-2016-01-22,La Liga,2015-16,Sp Gijon,Sociedad,5,1,6,2,6,8,1,1
-2016-01-23,La Liga,2015-16,Malaga,Barcelona,1,2,4,3,3,7,1,1
-2016-01-23,La Liga,2015-16,Vallecano,Celta,3,0,7,1,3,8,0,1
-2016-01-23,La Liga,2015-16,Espanol,Villarreal,2,2,3,9,4,12,1,1
-2016-01-23,La Liga,2015-16,Granada,Getafe,3,2,5,3,5,8,1,1
-2016-01-24,La Liga,2015-16,Ath Bilbao,Eibar,5,2,7,2,7,9,1,1
-2016-01-24,La Liga,2015-16,Ath Madrid,Sevilla,0,0,8,5,0,13,0,0
-2016-01-24,La Liga,2015-16,Betis,Real Madrid,1,1,1,9,2,10,1,0
-2016-01-24,La Liga,2015-16,La Coruna,Valencia,1,1,8,6,2,14,1,0
-2016-01-25,La Liga,2015-16,Levante,Las Palmas,3,2,2,4,5,6,1,1
-2016-01-30,La Liga,2015-16,Barcelona,Ath Madrid,2,1,8,6,3,14,1,1
-2016-01-30,La Liga,2015-16,Eibar,Malaga,1,2,1,2,3,3,1,1
-2016-01-30,La Liga,2015-16,Getafe,Ath Bilbao,0,1,7,5,1,12,0,0
-2016-01-30,La Liga,2015-16,Sociedad,Betis,2,1,3,4,3,7,1,1
-2016-01-30,La Liga,2015-16,Villarreal,Granada,1,0,8,0,1,8,0,0
-2016-01-31,La Liga,2015-16,Sevilla,Levante,3,1,5,9,4,14,1,1
-2016-01-31,La Liga,2015-16,Valencia,Sp Gijon,0,1,6,3,1,9,0,0
-2016-01-31,La Liga,2015-16,Real Madrid,Espanol,6,0,3,1,6,4,0,1
-2016-01-31,La Liga,2015-16,Las Palmas,Celta,2,1,7,3,3,10,1,1
-2016-02-01,La Liga,2015-16,La Coruna,Vallecano,2,2,5,4,4,9,1,1
-2016-02-05,La Liga,2015-16,Malaga,Getafe,3,0,4,6,3,10,0,1
-2016-02-06,La Liga,2015-16,Ath Bilbao,Villarreal,0,0,5,3,0,8,0,0
-2016-02-06,La Liga,2015-16,Ath Madrid,Eibar,3,1,5,2,4,7,1,1
-2016-02-06,La Liga,2015-16,Sp Gijon,La Coruna,1,1,4,3,2,7,1,0
-2016-02-06,La Liga,2015-16,Vallecano,Las Palmas,2,0,5,5,2,10,0,0
-2016-02-07,La Liga,2015-16,Celta,Sevilla,1,1,10,5,2,15,1,0
-2016-02-07,La Liga,2015-16,Betis,Valencia,1,0,4,5,1,9,0,0
-2016-02-07,La Liga,2015-16,Granada,Real Madrid,1,2,3,6,3,9,1,1
-2016-02-07,La Liga,2015-16,Levante,Barcelona,0,2,2,5,2,7,0,0
-2016-02-08,La Liga,2015-16,Espanol,Sociedad,0,5,4,5,5,9,0,1
-2016-02-12,La Liga,2015-16,Sp Gijon,Vallecano,2,2,3,7,4,10,1,1
-2016-02-13,La Liga,2015-16,Valencia,Espanol,2,1,9,9,3,18,1,1
-2016-02-13,La Liga,2015-16,Villarreal,Malaga,1,0,5,1,1,6,0,0
-2016-02-13,La Liga,2015-16,La Coruna,Betis,2,2,11,0,4,11,1,1
-2016-02-13,La Liga,2015-16,Real Madrid,Ath Bilbao,4,2,5,2,6,7,1,1
-2016-02-14,La Liga,2015-16,Eibar,Levante,2,0,8,2,2,10,0,0
-2016-02-14,La Liga,2015-16,Getafe,Ath Madrid,0,1,5,4,1,9,0,0
-2016-02-14,La Liga,2015-16,Sevilla,Las Palmas,2,0,8,3,2,11,0,0
-2016-02-14,La Liga,2015-16,Barcelona,Celta,6,1,1,1,7,2,1,1
-2016-02-14,La Liga,2015-16,Sociedad,Granada,3,0,7,13,3,20,0,1
-2016-02-17,La Liga,2015-16,Sp Gijon,Barcelona,1,3,1,4,4,5,1,1
-2016-02-19,La Liga,2015-16,Levante,Getafe,3,0,6,8,3,14,0,1
-2016-02-20,La Liga,2015-16,Betis,Sp Gijon,1,1,10,4,2,14,1,0
-2016-02-20,La Liga,2015-16,Celta,Eibar,3,2,6,1,5,7,1,1
-2016-02-20,La Liga,2015-16,Espanol,La Coruna,1,0,7,4,1,11,0,0
-2016-02-20,La Liga,2015-16,Las Palmas,Barcelona,1,2,3,6,3,9,1,1
-2016-02-21,La Liga,2015-16,Ath Bilbao,Sociedad,0,1,9,3,1,12,0,0
-2016-02-21,La Liga,2015-16,Ath Madrid,Villarreal,0,0,10,2,0,12,0,0
-2016-02-21,La Liga,2015-16,Granada,Valencia,1,2,6,3,3,9,1,1
-2016-02-21,La Liga,2015-16,Malaga,Real Madrid,1,1,6,6,2,12,1,0
-2016-02-21,La Liga,2015-16,Vallecano,Sevilla,2,2,3,17,4,20,1,1
-2016-02-26,La Liga,2015-16,Eibar,Las Palmas,0,1,6,6,1,12,0,0
-2016-02-27,La Liga,2015-16,Betis,Vallecano,2,2,8,8,4,16,1,1
-2016-02-27,La Liga,2015-16,Getafe,Celta,0,1,4,5,1,9,0,0
-2016-02-27,La Liga,2015-16,Real Madrid,Ath Madrid,0,1,2,5,1,7,0,0
-2016-02-27,La Liga,2015-16,Sociedad,Malaga,1,1,8,3,2,11,1,0
-2016-02-27,La Liga,2015-16,Sp Gijon,Espanol,2,4,5,2,6,7,1,1
-2016-02-28,La Liga,2015-16,Barcelona,Sevilla,2,1,6,7,3,13,1,1
-2016-02-28,La Liga,2015-16,La Coruna,Granada,0,1,6,6,1,12,0,0
-2016-02-28,La Liga,2015-16,Valencia,Ath Bilbao,0,3,7,7,3,14,0,1
-2016-02-28,La Liga,2015-16,Villarreal,Levante,3,0,3,4,3,7,0,1
-2016-03-01,La Liga,2015-16,Las Palmas,Getafe,4,0,2,6,4,8,0,1
-2016-03-01,La Liga,2015-16,Ath Madrid,Sociedad,3,0,8,1,3,9,0,1
-2016-03-02,La Liga,2015-16,Ath Bilbao,La Coruna,4,1,1,2,5,3,1,1
-2016-03-02,La Liga,2015-16,Celta,Villarreal,0,0,2,1,0,3,0,0
-2016-03-02,La Liga,2015-16,Levante,Real Madrid,1,3,3,10,4,13,1,1
-2016-03-02,La Liga,2015-16,Malaga,Valencia,1,2,4,5,3,9,1,1
-2016-03-02,La Liga,2015-16,Sevilla,Eibar,1,0,12,6,1,18,0,0
-2016-03-03,La Liga,2015-16,Espanol,Betis,0,3,5,0,3,5,0,1
-2016-03-03,La Liga,2015-16,Granada,Sp Gijon,2,0,4,1,2,5,0,0
-2016-03-03,La Liga,2015-16,Vallecano,Barcelona,1,5,3,5,6,8,1,1
-2016-03-05,La Liga,2015-16,Villarreal,Las Palmas,0,1,6,2,1,8,0,0
-2016-03-05,La Liga,2015-16,Real Madrid,Celta,7,1,10,5,8,15,1,1
-2016-03-05,La Liga,2015-16,La Coruna,Malaga,3,3,10,4,6,14,1,1
-2016-03-05,La Liga,2015-16,Getafe,Sevilla,1,1,10,9,2,19,1,0
-2016-03-06,La Liga,2015-16,Betis,Granada,2,0,6,4,2,10,0,0
-2016-03-06,La Liga,2015-16,Eibar,Barcelona,0,4,6,2,4,8,0,1
-2016-03-06,La Liga,2015-16,Sociedad,Levante,1,1,10,3,2,13,1,0
-2016-03-06,La Liga,2015-16,Sp Gijon,Ath Bilbao,0,2,3,0,2,3,0,0
-2016-03-06,La Liga,2015-16,Valencia,Ath Madrid,1,3,6,7,4,13,1,1
-2016-03-07,La Liga,2015-16,Espanol,Vallecano,2,1,8,3,3,11,1,1
-2016-03-11,La Liga,2015-16,Malaga,Sp Gijon,1,0,3,4,1,7,0,0
-2016-03-12,La Liga,2015-16,Vallecano,Eibar,1,1,8,0,2,8,1,0
-2016-03-12,La Liga,2015-16,Celta,Sociedad,1,0,5,3,1,8,0,0
-2016-03-12,La Liga,2015-16,Ath Madrid,La Coruna,3,0,10,1,3,11,0,1
-2016-03-12,La Liga,2015-16,Barcelona,Getafe,6,0,5,3,6,8,0,1
-2016-03-13,La Liga,2015-16,Sevilla,Villarreal,4,2,5,8,6,13,1,1
-2016-03-13,La Liga,2015-16,Levante,Valencia,1,0,8,0,1,8,0,0
-2016-03-13,La Liga,2015-16,Ath Bilbao,Betis,3,1,5,6,4,11,1,1
-2016-03-13,La Liga,2015-16,Las Palmas,Real Madrid,1,2,6,5,3,11,1,1
-2016-03-14,La Liga,2015-16,Granada,Espanol,1,1,2,8,2,10,1,0
-2016-03-18,La Liga,2015-16,Getafe,Eibar,1,1,3,3,2,6,1,0
-2016-03-19,La Liga,2015-16,Betis,Malaga,0,1,5,7,1,12,0,0
-2016-03-19,La Liga,2015-16,Granada,Vallecano,2,2,6,12,4,18,1,1
-2016-03-19,La Liga,2015-16,La Coruna,Levante,2,1,2,1,3,3,1,1
-2016-03-19,La Liga,2015-16,Sociedad,Las Palmas,0,1,11,5,1,16,0,0
-2016-03-19,La Liga,2015-16,Sp Gijon,Ath Madrid,2,1,7,2,3,9,1,1
-2016-03-20,La Liga,2015-16,Villarreal,Barcelona,2,2,4,4,4,8,1,1
-2016-03-20,La Liga,2015-16,Valencia,Celta,0,2,4,5,2,9,0,0
-2016-03-20,La Liga,2015-16,Espanol,Ath Bilbao,2,1,6,2,3,8,1,1
-2016-03-20,La Liga,2015-16,Real Madrid,Sevilla,4,0,8,8,4,16,0,1
-2016-04-01,La Liga,2015-16,Vallecano,Getafe,2,0,9,6,2,15,0,0
-2016-04-02,La Liga,2015-16,Las Palmas,Valencia,2,1,8,2,3,10,1,1
-2016-04-02,La Liga,2015-16,Ath Madrid,Betis,5,1,5,5,6,10,1,1
-2016-04-02,La Liga,2015-16,Barcelona,Real Madrid,1,2,4,3,3,7,1,1
-2016-04-02,La Liga,2015-16,Celta,La Coruna,1,1,11,0,2,11,1,0
-2016-04-03,La Liga,2015-16,Malaga,Espanol,1,1,5,1,2,6,1,0
-2016-04-03,La Liga,2015-16,Sevilla,Sociedad,1,2,8,3,3,11,1,1
-2016-04-03,La Liga,2015-16,Ath Bilbao,Granada,1,1,13,1,2,14,1,0
-2016-04-03,La Liga,2015-16,Eibar,Villarreal,1,2,4,3,3,7,1,1
-2016-04-04,La Liga,2015-16,Levante,Sp Gijon,0,0,4,6,0,10,0,0
-2016-04-08,La Liga,2015-16,Granada,Malaga,0,0,5,5,0,10,0,0
-2016-04-09,La Liga,2015-16,Betis,Levante,1,0,4,3,1,7,0,0
-2016-04-09,La Liga,2015-16,Espanol,Ath Madrid,1,3,3,5,4,8,1,1
-2016-04-09,La Liga,2015-16,Real Madrid,Eibar,4,0,6,7,4,13,0,1
-2016-04-09,La Liga,2015-16,Sociedad,Barcelona,1,0,5,9,1,14,0,0
-2016-04-10,La Liga,2015-16,Valencia,Sevilla,2,1,10,3,3,13,1,1
-2016-04-10,La Liga,2015-16,Villarreal,Getafe,2,0,8,5,2,13,0,0
-2016-04-10,La Liga,2015-16,Ath Bilbao,Vallecano,1,0,0,5,1,5,0,0
-2016-04-10,La Liga,2015-16,Sp Gijon,Celta,0,1,7,7,1,14,0,0
-2016-04-11,La Liga,2015-16,La Coruna,Las Palmas,1,3,7,4,4,11,1,1
-2016-04-15,La Liga,2015-16,Levante,Espanol,2,1,4,6,3,10,1,1
-2016-04-16,La Liga,2015-16,Celta,Betis,1,1,12,4,2,16,1,0
-2016-04-16,La Liga,2015-16,Eibar,Sociedad,2,1,2,0,3,2,1,1
-2016-04-16,La Liga,2015-16,Getafe,Real Madrid,1,5,5,6,6,11,1,1
-2016-04-16,La Liga,2015-16,Las Palmas,Sp Gijon,1,1,3,10,2,13,1,0
-2016-04-17,La Liga,2015-16,Sevilla,La Coruna,1,1,10,0,2,10,1,0
-2016-04-17,La Liga,2015-16,Ath Madrid,Granada,3,0,4,2,3,6,0,1
-2016-04-17,La Liga,2015-16,Barcelona,Valencia,1,2,7,2,3,9,1,1
-2016-04-17,La Liga,2015-16,Malaga,Ath Bilbao,0,1,8,2,1,10,0,0
-2016-04-17,La Liga,2015-16,Vallecano,Villarreal,2,1,4,3,3,7,1,1
-2016-04-19,La Liga,2015-16,Espanol,Celta,1,1,2,2,2,4,1,0
-2016-04-19,La Liga,2015-16,Betis,Las Palmas,1,0,6,3,1,9,0,0
-2016-04-20,La Liga,2015-16,Ath Bilbao,Ath Madrid,0,1,6,4,1,10,0,0
-2016-04-20,La Liga,2015-16,La Coruna,Barcelona,0,8,6,2,8,8,0,1
-2016-04-20,La Liga,2015-16,Malaga,Vallecano,1,1,7,7,2,14,1,0
-2016-04-20,La Liga,2015-16,Real Madrid,Villarreal,3,0,11,1,3,12,0,1
-2016-04-20,La Liga,2015-16,Sp Gijon,Sevilla,2,1,5,7,3,12,1,1
-2016-04-20,La Liga,2015-16,Valencia,Eibar,4,0,6,3,4,9,0,1
-2016-04-21,La Liga,2015-16,Granada,Levante,5,1,3,4,6,7,1,1
-2016-04-21,La Liga,2015-16,Sociedad,Getafe,1,2,8,2,3,10,1,1
-2016-04-22,La Liga,2015-16,Las Palmas,Espanol,4,0,5,5,4,10,0,1
-2016-04-23,La Liga,2015-16,Vallecano,Real Madrid,2,3,4,6,5,10,1,1
-2016-04-23,La Liga,2015-16,Eibar,La Coruna,1,1,11,7,2,18,1,0
-2016-04-23,La Liga,2015-16,Ath Madrid,Malaga,1,0,10,4,1,14,0,0
-2016-04-23,La Liga,2015-16,Barcelona,Sp Gijon,6,0,6,1,6,7,0,1
-2016-04-24,La Liga,2015-16,Villarreal,Sociedad,0,0,3,5,0,8,0,0
-2016-04-24,La Liga,2015-16,Getafe,Valencia,2,2,8,2,4,10,1,1
-2016-04-24,La Liga,2015-16,Levante,Ath Bilbao,2,2,4,9,4,13,1,1
-2016-04-24,La Liga,2015-16,Sevilla,Betis,2,0,8,5,2,13,0,0
-2016-04-25,La Liga,2015-16,Celta,Granada,2,1,4,4,3,8,1,1
-2016-04-29,La Liga,2015-16,Sp Gijon,Eibar,2,0,1,5,2,6,0,0
-2016-04-30,La Liga,2015-16,Sociedad,Real Madrid,0,1,6,6,1,12,0,0
-2016-04-30,La Liga,2015-16,Granada,Las Palmas,3,2,4,3,5,7,1,1
-2016-04-30,La Liga,2015-16,Ath Madrid,Vallecano,1,0,5,7,1,12,0,0
-2016-04-30,La Liga,2015-16,Betis,Barcelona,0,2,2,4,2,6,0,0
-2016-05-01,La Liga,2015-16,Ath Bilbao,Celta,2,1,7,2,3,9,1,1
-2016-05-01,La Liga,2015-16,Espanol,Sevilla,1,0,4,2,1,6,0,0
-2016-05-01,La Liga,2015-16,La Coruna,Getafe,0,2,8,5,2,13,0,0
-2016-05-01,La Liga,2015-16,Valencia,Villarreal,0,2,9,3,2,12,0,0
-2016-05-02,La Liga,2015-16,Malaga,Levante,3,1,13,7,4,20,1,1
-2016-05-08,La Liga,2015-16,Sociedad,Vallecano,2,1,5,11,3,16,1,1
-2016-05-08,La Liga,2015-16,Barcelona,Espanol,5,0,8,0,5,8,0,1
-2016-05-08,La Liga,2015-16,Celta,Malaga,1,0,4,3,1,7,0,0
-2016-05-08,La Liga,2015-16,Eibar,Betis,1,1,8,2,2,10,1,0
-2016-05-08,La Liga,2015-16,Getafe,Sp Gijon,1,1,7,3,2,10,1,0
-2016-05-08,La Liga,2015-16,Las Palmas,Ath Bilbao,0,0,2,2,0,4,0,0
-2016-05-08,La Liga,2015-16,Levante,Ath Madrid,2,1,4,5,3,9,1,1
-2016-05-08,La Liga,2015-16,Real Madrid,Valencia,3,2,5,8,5,13,1,1
-2016-05-08,La Liga,2015-16,Sevilla,Granada,1,4,5,4,5,9,1,1
-2016-05-08,La Liga,2015-16,Villarreal,La Coruna,0,2,8,5,2,13,0,0
-2016-05-13,La Liga,2015-16,Valencia,Sociedad,0,1,4,6,1,10,0,0
-2016-05-14,La Liga,2015-16,Granada,Barcelona,0,3,5,6,3,11,0,1
-2016-05-14,La Liga,2015-16,La Coruna,Real Madrid,0,2,4,8,2,12,0,0
-2016-05-14,La Liga,2015-16,Ath Bilbao,Sevilla,3,1,7,6,4,13,1,1
-2016-05-14,La Liga,2015-16,Ath Madrid,Celta,2,0,4,4,2,8,0,0
-2016-05-15,La Liga,2015-16,Malaga,Las Palmas,4,1,3,6,5,9,1,1
-2016-05-15,La Liga,2015-16,Sp Gijon,Villarreal,2,0,4,1,2,5,0,0
-2016-05-15,La Liga,2015-16,Betis,Getafe,2,1,3,2,3,5,1,1
-2016-05-15,La Liga,2015-16,Espanol,Eibar,4,2,3,4,6,7,1,1
-2016-05-15,La Liga,2015-16,Vallecano,Levante,3,1,9,3,4,12,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2015-08-21,La Liga,2015-16,Malaga,Sevilla,0,0,7,2,3,3,0,1,0,9,6,1,0,0
+2015-08-22,La Liga,2015-16,Ath Madrid,Las Palmas,1,0,4,4,2,0,0,0,1,8,2,0,0,0
+2015-08-22,La Liga,2015-16,Espanol,Getafe,1,0,5,6,2,3,0,1,1,11,5,1,0,0
+2015-08-22,La Liga,2015-16,La Coruna,Sociedad,0,0,5,4,3,2,0,0,0,9,5,0,0,0
+2015-08-22,La Liga,2015-16,Vallecano,Valencia,0,0,3,3,3,1,0,0,0,6,4,0,0,0
+2015-08-23,La Liga,2015-16,Ath Bilbao,Barcelona,0,1,2,4,3,3,0,0,1,6,6,0,0,0
+2015-08-23,La Liga,2015-16,Betis,Villarreal,1,1,7,5,3,1,0,1,2,12,4,1,1,0
+2015-08-23,La Liga,2015-16,Levante,Celta,1,2,4,6,1,3,1,0,3,10,4,1,1,1
+2015-08-23,La Liga,2015-16,Sp Gijon,Real Madrid,0,0,2,5,4,0,0,0,0,7,4,0,0,0
+2015-08-24,La Liga,2015-16,Granada,Eibar,1,3,6,5,1,6,1,0,4,11,7,1,1,1
+2015-08-28,La Liga,2015-16,Villarreal,Espanol,3,1,2,3,1,6,0,0,4,5,7,0,1,1
+2015-08-29,La Liga,2015-16,Sociedad,Sp Gijon,0,0,6,4,4,5,0,0,0,10,9,0,0,0
+2015-08-29,La Liga,2015-16,Real Madrid,Betis,5,0,11,4,3,3,0,0,5,15,6,0,0,1
+2015-08-29,La Liga,2015-16,Barcelona,Malaga,1,0,15,2,0,3,0,0,1,17,3,0,0,0
+2015-08-29,La Liga,2015-16,Celta,Vallecano,3,0,5,4,2,2,0,1,3,9,4,1,0,1
+2015-08-30,La Liga,2015-16,Eibar,Ath Bilbao,2,0,11,4,2,2,0,0,2,15,4,0,0,0
+2015-08-30,La Liga,2015-16,Getafe,Granada,1,2,6,6,5,3,0,0,3,12,8,0,1,1
+2015-08-30,La Liga,2015-16,Las Palmas,Levante,0,0,3,0,2,4,0,0,0,3,6,0,0,0
+2015-08-30,La Liga,2015-16,Sevilla,Ath Madrid,0,3,11,1,3,4,0,0,3,12,7,0,0,1
+2015-08-30,La Liga,2015-16,Valencia,La Coruna,1,1,5,7,2,1,1,0,2,12,3,1,1,0
+2015-09-11,La Liga,2015-16,Levante,Sevilla,1,1,5,4,3,3,0,0,2,9,6,0,1,0
+2015-09-12,La Liga,2015-16,Sp Gijon,Valencia,0,1,5,6,3,3,0,0,1,11,6,0,0,0
+2015-09-12,La Liga,2015-16,Espanol,Real Madrid,0,6,5,6,2,2,0,0,6,11,4,0,0,1
+2015-09-12,La Liga,2015-16,Betis,Sociedad,1,0,2,4,4,3,1,0,1,6,7,1,0,0
+2015-09-12,La Liga,2015-16,Ath Madrid,Barcelona,1,2,1,10,3,1,0,0,3,11,4,0,1,1
+2015-09-13,La Liga,2015-16,Ath Bilbao,Getafe,3,1,12,5,1,4,0,0,4,17,5,0,1,1
+2015-09-13,La Liga,2015-16,Celta,Las Palmas,3,3,7,2,0,3,0,1,6,9,3,1,1,1
+2015-09-13,La Liga,2015-16,Granada,Villarreal,1,3,8,6,2,4,0,0,4,14,6,0,1,1
+2015-09-13,La Liga,2015-16,Malaga,Eibar,0,0,7,3,2,4,0,0,0,10,6,0,0,0
+2015-09-14,La Liga,2015-16,Vallecano,La Coruna,1,3,5,4,2,2,1,0,4,9,4,1,1,1
+2015-09-18,La Liga,2015-16,Getafe,Malaga,1,0,4,7,5,2,0,0,1,11,7,0,0,0
+2015-09-19,La Liga,2015-16,Sociedad,Espanol,2,3,7,6,2,3,1,0,5,13,5,1,1,1
+2015-09-19,La Liga,2015-16,Valencia,Betis,0,0,7,1,4,2,0,1,0,8,6,1,0,0
+2015-09-19,La Liga,2015-16,Eibar,Ath Madrid,0,2,1,4,2,1,0,0,2,5,3,0,0,0
+2015-09-19,La Liga,2015-16,Real Madrid,Granada,1,0,10,1,1,3,0,0,1,11,4,0,0,0
+2015-09-20,La Liga,2015-16,Barcelona,Levante,4,1,4,4,0,1,0,0,5,8,1,0,1,1
+2015-09-20,La Liga,2015-16,La Coruna,Sp Gijon,2,3,8,3,3,3,0,0,5,11,6,0,1,1
+2015-09-20,La Liga,2015-16,Las Palmas,Vallecano,0,1,3,5,3,5,0,0,1,8,8,0,0,0
+2015-09-20,La Liga,2015-16,Sevilla,Celta,1,2,5,5,3,5,0,1,3,10,8,1,1,1
+2015-09-20,La Liga,2015-16,Villarreal,Ath Bilbao,3,1,9,4,4,4,0,0,4,13,8,0,1,1
+2015-09-22,La Liga,2015-16,Ath Madrid,Getafe,2,0,6,1,3,2,0,0,2,7,5,0,0,0
+2015-09-22,La Liga,2015-16,Espanol,Valencia,1,0,7,6,5,7,0,0,1,13,12,0,0,0
+2015-09-22,La Liga,2015-16,Granada,Sociedad,0,3,4,3,5,4,0,0,3,7,9,0,0,1
+2015-09-23,La Liga,2015-16,Vallecano,Sp Gijon,2,1,4,4,2,1,0,1,3,8,3,1,1,1
+2015-09-23,La Liga,2015-16,Malaga,Villarreal,0,1,8,5,2,3,0,0,1,13,5,0,0,0
+2015-09-23,La Liga,2015-16,Levante,Eibar,2,2,4,7,2,5,0,0,4,11,7,0,1,1
+2015-09-23,La Liga,2015-16,Las Palmas,Sevilla,2,0,5,5,3,4,0,0,2,10,7,0,0,0
+2015-09-23,La Liga,2015-16,Celta,Barcelona,4,1,5,10,2,2,0,0,5,15,4,0,1,1
+2015-09-23,La Liga,2015-16,Ath Bilbao,Real Madrid,1,2,6,8,4,3,0,0,3,14,7,0,1,1
+2015-09-24,La Liga,2015-16,Betis,La Coruna,1,2,3,4,3,5,0,0,3,7,8,0,1,1
+2015-09-25,La Liga,2015-16,Valencia,Granada,1,0,11,3,3,3,0,0,1,14,6,0,0,0
+2015-09-26,La Liga,2015-16,Barcelona,Las Palmas,2,1,3,4,2,4,0,0,3,7,6,0,1,1
+2015-09-26,La Liga,2015-16,Eibar,Celta,1,1,4,4,5,4,0,0,2,8,9,0,1,0
+2015-09-26,La Liga,2015-16,Real Madrid,Malaga,0,0,12,6,4,4,0,1,0,18,8,1,0,0
+2015-09-26,La Liga,2015-16,Sevilla,Vallecano,3,2,6,5,1,2,0,1,5,11,3,1,1,1
+2015-09-26,La Liga,2015-16,Villarreal,Ath Madrid,1,0,1,5,2,2,0,0,1,6,4,0,0,0
+2015-09-27,La Liga,2015-16,Sp Gijon,Betis,1,2,10,4,1,1,0,0,3,14,2,0,1,1
+2015-09-27,La Liga,2015-16,Sociedad,Ath Bilbao,0,0,4,2,3,4,0,0,0,6,7,0,0,0
+2015-09-27,La Liga,2015-16,Getafe,Levante,3,0,4,4,2,3,0,0,3,8,5,0,0,1
+2015-09-27,La Liga,2015-16,La Coruna,Espanol,3,0,7,5,4,3,0,1,3,12,7,1,0,1
+2015-10-02,La Liga,2015-16,Celta,Getafe,0,0,9,1,1,5,0,0,0,10,6,0,0,0
+2015-10-03,La Liga,2015-16,Sevilla,Barcelona,2,1,7,9,5,3,0,0,3,16,8,0,1,1
+2015-10-03,La Liga,2015-16,Espanol,Sp Gijon,1,2,9,1,3,3,0,0,3,10,6,0,1,1
+2015-10-03,La Liga,2015-16,Granada,La Coruna,1,1,2,5,1,3,0,0,2,7,4,0,1,0
+2015-10-03,La Liga,2015-16,Las Palmas,Eibar,0,2,3,2,2,2,0,0,2,5,4,0,0,0
+2015-10-03,La Liga,2015-16,Malaga,Sociedad,3,1,2,4,3,2,1,0,4,6,5,1,1,1
+2015-10-04,La Liga,2015-16,Vallecano,Betis,0,2,8,3,4,2,0,0,2,11,6,0,0,0
+2015-10-04,La Liga,2015-16,Levante,Villarreal,1,0,8,2,4,3,0,1,1,10,7,1,0,0
+2015-10-04,La Liga,2015-16,Ath Bilbao,Valencia,3,1,11,4,0,4,0,0,4,15,4,0,1,1
+2015-10-04,La Liga,2015-16,Ath Madrid,Real Madrid,1,1,5,1,6,4,0,0,2,6,10,0,1,0
+2015-10-17,La Liga,2015-16,Barcelona,Vallecano,5,2,7,10,1,2,0,0,7,17,3,0,1,1
+2015-10-17,La Liga,2015-16,Betis,Espanol,1,3,4,3,2,4,0,0,4,7,6,0,1,1
+2015-10-17,La Liga,2015-16,Eibar,Sevilla,1,1,2,5,3,3,0,0,2,7,6,0,1,0
+2015-10-17,La Liga,2015-16,Real Madrid,Levante,3,0,4,4,1,4,0,0,3,8,5,0,0,1
+2015-10-17,La Liga,2015-16,Valencia,Malaga,3,0,6,8,3,3,0,0,3,14,6,0,0,1
+2015-10-18,La Liga,2015-16,Villarreal,Celta,1,2,7,4,1,3,1,0,3,11,4,1,1,1
+2015-10-18,La Liga,2015-16,Getafe,Las Palmas,4,0,5,1,2,1,0,1,4,6,3,1,0,1
+2015-10-18,La Liga,2015-16,La Coruna,Ath Bilbao,2,2,4,6,2,2,0,0,4,10,4,0,1,1
+2015-10-18,La Liga,2015-16,Sociedad,Ath Madrid,0,2,5,2,4,5,2,0,2,7,9,2,0,0
+2015-10-19,La Liga,2015-16,Sp Gijon,Granada,3,3,6,1,3,4,0,2,6,7,7,2,1,1
+2015-10-23,La Liga,2015-16,Vallecano,Espanol,3,0,6,5,2,1,1,1,3,11,3,2,0,1
+2015-10-24,La Liga,2015-16,Celta,Real Madrid,1,3,5,7,4,1,1,0,4,12,5,1,1,1
+2015-10-24,La Liga,2015-16,Granada,Betis,1,1,3,3,3,3,0,0,2,6,6,0,1,0
+2015-10-24,La Liga,2015-16,Malaga,La Coruna,2,0,3,5,0,1,0,0,2,8,1,0,0,0
+2015-10-24,La Liga,2015-16,Sevilla,Getafe,5,0,7,3,1,1,0,1,5,10,2,1,0,1
+2015-10-25,La Liga,2015-16,Ath Madrid,Valencia,2,1,9,2,4,4,0,0,3,11,8,0,1,1
+2015-10-25,La Liga,2015-16,Barcelona,Eibar,3,1,6,2,3,5,1,0,4,8,8,1,1,1
+2015-10-25,La Liga,2015-16,Las Palmas,Villarreal,0,0,6,6,1,2,0,0,0,12,3,0,0,0
+2015-10-25,La Liga,2015-16,Levante,Sociedad,0,4,10,3,4,3,1,0,4,13,7,1,0,1
+2015-10-26,La Liga,2015-16,Ath Bilbao,Sp Gijon,3,0,9,3,1,3,0,0,3,12,4,0,0,1
+2015-10-30,La Liga,2015-16,La Coruna,Ath Madrid,1,1,1,5,2,0,0,0,2,6,2,0,1,0
+2015-10-31,La Liga,2015-16,Valencia,Levante,3,0,5,5,2,3,0,0,3,10,5,0,0,1
+2015-10-31,La Liga,2015-16,Sociedad,Celta,2,3,8,7,2,5,0,0,5,15,7,0,1,1
+2015-10-31,La Liga,2015-16,Villarreal,Sevilla,2,1,7,5,5,3,0,0,3,12,8,0,1,1
+2015-10-31,La Liga,2015-16,Getafe,Barcelona,0,2,3,5,3,0,0,0,2,8,3,0,0,0
+2015-10-31,La Liga,2015-16,Real Madrid,Las Palmas,3,1,6,3,0,3,0,0,4,9,3,0,1,1
+2015-11-01,La Liga,2015-16,Betis,Ath Bilbao,1,3,7,9,2,4,0,0,4,16,6,0,1,1
+2015-11-01,La Liga,2015-16,Eibar,Vallecano,1,0,2,6,2,3,0,0,1,8,5,0,0,0
+2015-11-01,La Liga,2015-16,Espanol,Granada,1,1,5,6,1,6,1,0,2,11,7,1,1,0
+2015-11-01,La Liga,2015-16,Sp Gijon,Malaga,1,0,7,5,1,3,0,0,1,12,4,0,0,0
+2015-11-06,La Liga,2015-16,Las Palmas,Sociedad,2,0,0,8,1,4,0,0,2,8,5,0,0,0
+2015-11-07,La Liga,2015-16,Malaga,Betis,0,1,6,3,2,5,0,0,1,9,7,0,0,0
+2015-11-07,La Liga,2015-16,Levante,La Coruna,1,1,9,5,4,2,0,0,2,14,6,0,1,0
+2015-11-07,La Liga,2015-16,Vallecano,Granada,2,1,4,1,2,3,1,0,3,5,5,1,1,1
+2015-11-07,La Liga,2015-16,Celta,Valencia,1,5,15,5,1,3,0,0,6,20,4,0,1,1
+2015-11-07,La Liga,2015-16,Eibar,Getafe,3,1,5,7,3,1,0,1,4,12,4,1,1,1
+2015-11-08,La Liga,2015-16,Ath Bilbao,Espanol,2,1,4,5,2,6,0,0,3,9,8,0,1,1
+2015-11-08,La Liga,2015-16,Ath Madrid,Sp Gijon,1,0,5,1,4,3,0,0,1,6,7,0,0,0
+2015-11-08,La Liga,2015-16,Barcelona,Villarreal,3,0,7,2,5,3,0,0,3,9,8,0,0,1
+2015-11-08,La Liga,2015-16,Sevilla,Real Madrid,3,2,4,6,1,1,0,0,5,10,2,0,1,1
+2015-11-21,La Liga,2015-16,Valencia,Las Palmas,1,1,1,8,3,3,0,0,2,9,6,0,1,0
+2015-11-21,La Liga,2015-16,Espanol,Malaga,2,0,3,8,3,2,0,0,2,11,5,0,0,0
+2015-11-21,La Liga,2015-16,La Coruna,Celta,2,0,2,10,6,3,0,0,2,12,9,0,0,0
+2015-11-21,La Liga,2015-16,Real Madrid,Barcelona,0,4,10,4,3,2,1,0,4,14,5,1,0,1
+2015-11-21,La Liga,2015-16,Sociedad,Sevilla,2,0,7,5,2,1,0,0,2,12,3,0,0,0
+2015-11-22,La Liga,2015-16,Sp Gijon,Levante,0,3,5,3,4,5,0,0,3,8,9,0,0,1
+2015-11-22,La Liga,2015-16,Villarreal,Eibar,1,1,12,6,3,2,0,1,2,18,5,1,1,0
+2015-11-22,La Liga,2015-16,Betis,Ath Madrid,0,1,2,6,1,4,0,0,1,8,5,0,0,0
+2015-11-22,La Liga,2015-16,Granada,Ath Bilbao,2,0,2,7,6,3,0,0,2,9,9,0,0,0
+2015-11-23,La Liga,2015-16,Getafe,Vallecano,1,1,5,7,5,4,0,0,2,12,9,0,1,0
+2015-11-27,La Liga,2015-16,Levante,Betis,0,1,7,4,6,4,1,1,1,11,10,2,0,0
+2015-11-28,La Liga,2015-16,Ath Madrid,Espanol,1,0,6,2,0,4,0,0,1,8,4,0,0,0
+2015-11-28,La Liga,2015-16,Barcelona,Sociedad,4,0,6,4,0,5,0,0,4,10,5,0,0,1
+2015-11-28,La Liga,2015-16,Celta,Sp Gijon,2,1,3,5,3,0,0,0,3,8,3,0,1,1
+2015-11-28,La Liga,2015-16,Las Palmas,La Coruna,0,2,6,4,4,3,0,0,2,10,7,0,0,0
+2015-11-28,La Liga,2015-16,Malaga,Granada,2,2,7,4,2,6,1,0,4,11,8,1,1,1
+2015-11-29,La Liga,2015-16,Sevilla,Valencia,1,0,17,0,3,2,0,2,1,17,5,2,0,0
+2015-11-29,La Liga,2015-16,Vallecano,Ath Bilbao,0,3,6,2,4,0,0,1,3,8,4,1,0,1
+2015-11-29,La Liga,2015-16,Eibar,Real Madrid,0,2,6,5,3,4,0,0,2,11,7,0,0,0
+2015-11-29,La Liga,2015-16,Getafe,Villarreal,2,0,6,6,4,2,0,0,2,12,6,0,0,0
+2015-12-05,La Liga,2015-16,Betis,Celta,1,1,8,0,5,5,0,1,2,8,10,1,1,0
+2015-12-05,La Liga,2015-16,La Coruna,Sevilla,1,1,6,2,2,3,0,0,2,8,5,0,1,0
+2015-12-05,La Liga,2015-16,Real Madrid,Getafe,4,1,3,4,1,0,0,0,5,7,1,0,1,1
+2015-12-05,La Liga,2015-16,Valencia,Barcelona,1,1,0,6,3,1,0,0,2,6,4,0,1,0
+2015-12-05,La Liga,2015-16,Granada,Ath Madrid,0,2,6,8,2,1,0,0,2,14,3,0,0,0
+2015-12-06,La Liga,2015-16,Ath Bilbao,Malaga,0,0,6,1,2,3,1,0,0,7,5,1,0,0
+2015-12-06,La Liga,2015-16,Sociedad,Eibar,2,1,4,3,3,3,0,0,3,7,6,0,1,1
+2015-12-06,La Liga,2015-16,Sp Gijon,Las Palmas,3,1,8,4,2,1,0,1,4,12,3,1,1,1
+2015-12-06,La Liga,2015-16,Villarreal,Vallecano,2,1,5,4,1,4,0,0,3,9,5,0,1,1
+2015-12-07,La Liga,2015-16,Espanol,Levante,1,1,2,6,4,5,0,0,2,8,9,0,1,0
+2015-12-11,La Liga,2015-16,Getafe,Sociedad,1,1,5,5,3,3,0,0,2,10,6,0,1,0
+2015-12-12,La Liga,2015-16,Levante,Granada,1,2,2,1,2,2,0,0,3,3,4,0,1,1
+2015-12-12,La Liga,2015-16,Sevilla,Sp Gijon,2,0,3,1,3,2,0,1,2,4,5,1,0,0
+2015-12-12,La Liga,2015-16,Celta,Espanol,1,0,4,9,3,2,1,0,1,13,5,1,0,0
+2015-12-12,La Liga,2015-16,Barcelona,La Coruna,2,2,6,2,0,2,0,0,4,8,2,0,1,1
+2015-12-12,La Liga,2015-16,Las Palmas,Betis,1,0,2,2,3,0,0,0,1,4,3,0,0,0
+2015-12-13,La Liga,2015-16,Ath Madrid,Ath Bilbao,2,1,3,6,1,1,0,0,3,9,2,0,1,1
+2015-12-13,La Liga,2015-16,Eibar,Valencia,1,1,9,2,4,4,1,1,2,11,8,2,1,0
+2015-12-13,La Liga,2015-16,Vallecano,Malaga,1,2,6,7,1,2,0,0,3,13,3,0,1,1
+2015-12-13,La Liga,2015-16,Villarreal,Real Madrid,1,0,3,9,2,2,0,0,1,12,4,0,0,0
+2015-12-19,La Liga,2015-16,La Coruna,Eibar,2,0,9,8,0,2,1,0,2,17,2,1,0,0
+2015-12-19,La Liga,2015-16,Valencia,Getafe,2,2,5,1,2,6,0,0,4,6,8,0,1,1
+2015-12-19,La Liga,2015-16,Betis,Sevilla,0,0,8,8,7,5,0,0,0,16,12,0,0,0
+2015-12-19,La Liga,2015-16,Espanol,Las Palmas,1,0,7,5,4,4,0,0,1,12,8,0,0,0
+2015-12-20,La Liga,2015-16,Ath Bilbao,Levante,2,0,10,3,0,5,0,0,2,13,5,0,0,0
+2015-12-20,La Liga,2015-16,Granada,Celta,0,2,9,3,4,2,0,0,2,12,6,0,0,0
+2015-12-20,La Liga,2015-16,Malaga,Ath Madrid,1,0,4,1,3,4,0,1,1,5,7,1,0,0
+2015-12-20,La Liga,2015-16,Real Madrid,Vallecano,10,2,10,4,1,2,0,2,12,14,3,2,1,1
+2015-12-20,La Liga,2015-16,Sociedad,Villarreal,0,2,9,1,2,1,0,0,2,10,3,0,0,0
+2015-12-30,La Liga,2015-16,Levante,Malaga,0,1,6,5,7,5,0,0,1,11,12,0,0,0
+2015-12-30,La Liga,2015-16,Sevilla,Espanol,2,0,6,6,3,3,0,0,2,12,6,0,0,0
+2015-12-30,La Liga,2015-16,Real Madrid,Sociedad,3,1,13,2,1,4,0,0,4,15,5,0,1,1
+2015-12-30,La Liga,2015-16,Las Palmas,Granada,4,1,4,4,2,5,0,1,5,8,7,1,1,1
+2015-12-30,La Liga,2015-16,Vallecano,Ath Madrid,0,2,3,8,3,3,0,0,2,11,6,0,0,0
+2015-12-30,La Liga,2015-16,Eibar,Sp Gijon,2,0,5,7,3,3,0,0,2,12,6,0,0,0
+2015-12-30,La Liga,2015-16,Celta,Ath Bilbao,0,1,3,3,3,4,0,0,1,6,7,0,0,0
+2015-12-30,La Liga,2015-16,Barcelona,Betis,4,0,2,3,1,3,0,0,4,5,4,0,0,1
+2015-12-30,La Liga,2015-16,Getafe,La Coruna,0,0,9,2,3,1,0,0,0,11,4,0,0,0
+2015-12-31,La Liga,2015-16,Villarreal,Valencia,1,0,3,6,1,3,0,0,1,9,4,0,0,0
+2016-01-02,La Liga,2015-16,Ath Madrid,Levante,1,0,13,1,0,4,0,0,1,14,4,0,0,0
+2016-01-02,La Liga,2015-16,Espanol,Barcelona,0,0,6,10,5,3,0,0,0,16,8,0,0,0
+2016-01-02,La Liga,2015-16,Malaga,Celta,2,0,5,2,4,2,0,1,2,7,6,1,0,0
+2016-01-03,La Liga,2015-16,Valencia,Real Madrid,2,2,4,7,1,1,0,1,4,11,2,1,1,1
+2016-01-03,La Liga,2015-16,La Coruna,Villarreal,1,2,9,3,3,3,0,0,3,12,6,0,1,1
+2016-01-03,La Liga,2015-16,Vallecano,Sociedad,2,2,7,7,3,3,0,0,4,14,6,0,1,1
+2016-01-03,La Liga,2015-16,Betis,Eibar,0,4,6,2,4,3,0,0,4,8,7,0,0,1
+2016-01-03,La Liga,2015-16,Ath Bilbao,Las Palmas,2,2,5,5,3,4,0,0,4,10,7,0,1,1
+2016-01-03,La Liga,2015-16,Granada,Sevilla,2,1,2,9,2,2,0,1,3,11,4,1,1,1
+2016-01-04,La Liga,2015-16,Sp Gijon,Getafe,1,2,4,2,3,3,0,0,3,6,6,0,1,1
+2016-01-09,La Liga,2015-16,Barcelona,Granada,4,0,7,0,1,4,0,0,4,7,5,0,0,1
+2016-01-09,La Liga,2015-16,Getafe,Betis,1,0,8,4,1,3,0,0,1,12,4,0,0,0
+2016-01-09,La Liga,2015-16,Levante,Vallecano,2,1,5,5,5,1,0,0,3,10,6,0,1,1
+2016-01-09,La Liga,2015-16,Real Madrid,La Coruna,5,0,5,9,0,3,0,0,5,14,3,0,0,1
+2016-01-09,La Liga,2015-16,Sevilla,Ath Bilbao,2,0,6,8,2,3,0,0,2,14,5,0,0,0
+2016-01-10,La Liga,2015-16,Celta,Ath Madrid,0,2,4,4,2,1,0,0,2,8,3,0,0,0
+2016-01-10,La Liga,2015-16,Eibar,Espanol,2,1,8,2,3,2,0,0,3,10,5,0,1,1
+2016-01-10,La Liga,2015-16,Las Palmas,Malaga,1,1,2,5,5,4,0,0,2,7,9,0,1,0
+2016-01-10,La Liga,2015-16,Sociedad,Valencia,2,0,5,6,3,4,0,0,2,11,7,0,0,0
+2016-01-10,La Liga,2015-16,Villarreal,Sp Gijon,2,0,3,9,4,2,0,0,2,12,6,0,0,0
+2016-01-16,La Liga,2015-16,Villarreal,Betis,0,0,7,11,2,1,0,0,0,18,3,0,0,0
+2016-01-16,La Liga,2015-16,Sociedad,La Coruna,1,1,9,4,1,3,0,0,2,13,4,0,1,0
+2016-01-16,La Liga,2015-16,Celta,Levante,4,3,6,2,1,4,0,0,7,8,5,0,1,1
+2016-01-16,La Liga,2015-16,Sevilla,Malaga,2,1,6,4,2,2,1,1,3,10,4,2,1,1
+2016-01-17,La Liga,2015-16,Barcelona,Ath Bilbao,6,0,6,2,2,2,0,1,6,8,4,1,0,1
+2016-01-17,La Liga,2015-16,Getafe,Espanol,3,1,3,7,2,2,0,0,4,10,4,0,1,1
+2016-01-17,La Liga,2015-16,Las Palmas,Ath Madrid,0,3,3,4,0,2,0,0,3,7,2,0,0,1
+2016-01-17,La Liga,2015-16,Real Madrid,Sp Gijon,5,1,4,4,1,1,0,0,6,8,2,0,1,1
+2016-01-17,La Liga,2015-16,Valencia,Vallecano,2,2,7,9,1,3,0,0,4,16,4,0,1,1
+2016-01-18,La Liga,2015-16,Eibar,Granada,5,1,3,2,1,4,0,0,6,5,5,0,1,1
+2016-01-22,La Liga,2015-16,Sp Gijon,Sociedad,5,1,6,2,2,2,0,0,6,8,4,0,1,1
+2016-01-23,La Liga,2015-16,Malaga,Barcelona,1,2,4,3,3,3,0,0,3,7,6,0,1,1
+2016-01-23,La Liga,2015-16,Vallecano,Celta,3,0,7,1,3,5,0,0,3,8,8,0,0,1
+2016-01-23,La Liga,2015-16,Espanol,Villarreal,2,2,3,9,3,1,1,0,4,12,4,1,1,1
+2016-01-23,La Liga,2015-16,Granada,Getafe,3,2,5,3,3,3,0,0,5,8,6,0,1,1
+2016-01-24,La Liga,2015-16,Ath Bilbao,Eibar,5,2,7,2,2,2,0,0,7,9,4,0,1,1
+2016-01-24,La Liga,2015-16,Ath Madrid,Sevilla,0,0,8,5,4,3,0,1,0,13,7,1,0,0
+2016-01-24,La Liga,2015-16,Betis,Real Madrid,1,1,1,9,3,2,0,0,2,10,5,0,1,0
+2016-01-24,La Liga,2015-16,La Coruna,Valencia,1,1,8,6,3,3,0,0,2,14,6,0,1,0
+2016-01-25,La Liga,2015-16,Levante,Las Palmas,3,2,2,4,2,4,1,0,5,6,6,1,1,1
+2016-01-30,La Liga,2015-16,Barcelona,Ath Madrid,2,1,8,6,0,3,0,2,3,14,3,2,1,1
+2016-01-30,La Liga,2015-16,Eibar,Malaga,1,2,1,2,1,3,0,0,3,3,4,0,1,1
+2016-01-30,La Liga,2015-16,Getafe,Ath Bilbao,0,1,7,5,2,5,1,0,1,12,7,1,0,0
+2016-01-30,La Liga,2015-16,Sociedad,Betis,2,1,3,4,1,4,0,0,3,7,5,0,1,1
+2016-01-30,La Liga,2015-16,Villarreal,Granada,1,0,8,0,4,3,0,0,1,8,7,0,0,0
+2016-01-31,La Liga,2015-16,Sevilla,Levante,3,1,5,9,1,1,0,0,4,14,2,0,1,1
+2016-01-31,La Liga,2015-16,Valencia,Sp Gijon,0,1,6,3,0,2,0,0,1,9,2,0,0,0
+2016-01-31,La Liga,2015-16,Real Madrid,Espanol,6,0,3,1,1,5,0,0,6,4,6,0,0,1
+2016-01-31,La Liga,2015-16,Las Palmas,Celta,2,1,7,3,6,2,0,1,3,10,8,1,1,1
+2016-02-01,La Liga,2015-16,La Coruna,Vallecano,2,2,5,4,0,0,0,0,4,9,0,0,1,1
+2016-02-05,La Liga,2015-16,Malaga,Getafe,3,0,4,6,3,3,0,0,3,10,6,0,0,1
+2016-02-06,La Liga,2015-16,Ath Bilbao,Villarreal,0,0,5,3,4,4,1,1,0,8,8,2,0,0
+2016-02-06,La Liga,2015-16,Ath Madrid,Eibar,3,1,5,2,2,3,0,0,4,7,5,0,1,1
+2016-02-06,La Liga,2015-16,Sp Gijon,La Coruna,1,1,4,3,2,2,0,0,2,7,4,0,1,0
+2016-02-06,La Liga,2015-16,Vallecano,Las Palmas,2,0,5,5,3,1,0,0,2,10,4,0,0,0
+2016-02-07,La Liga,2015-16,Celta,Sevilla,1,1,10,5,3,3,0,1,2,15,6,1,1,0
+2016-02-07,La Liga,2015-16,Betis,Valencia,1,0,4,5,4,5,0,1,1,9,9,1,0,0
+2016-02-07,La Liga,2015-16,Granada,Real Madrid,1,2,3,6,3,2,0,0,3,9,5,0,1,1
+2016-02-07,La Liga,2015-16,Levante,Barcelona,0,2,2,5,4,3,0,0,2,7,7,0,0,0
+2016-02-08,La Liga,2015-16,Espanol,Sociedad,0,5,4,5,1,2,0,0,5,9,3,0,0,1
+2016-02-12,La Liga,2015-16,Sp Gijon,Vallecano,2,2,3,7,3,4,0,0,4,10,7,0,1,1
+2016-02-13,La Liga,2015-16,Valencia,Espanol,2,1,9,9,1,3,0,0,3,18,4,0,1,1
+2016-02-13,La Liga,2015-16,Villarreal,Malaga,1,0,5,1,2,1,0,0,1,6,3,0,0,0
+2016-02-13,La Liga,2015-16,La Coruna,Betis,2,2,11,0,1,0,0,0,4,11,1,0,1,1
+2016-02-13,La Liga,2015-16,Real Madrid,Ath Bilbao,4,2,5,2,1,2,1,0,6,7,3,1,1,1
+2016-02-14,La Liga,2015-16,Eibar,Levante,2,0,8,2,3,2,0,0,2,10,5,0,0,0
+2016-02-14,La Liga,2015-16,Getafe,Ath Madrid,0,1,5,4,2,3,0,0,1,9,5,0,0,0
+2016-02-14,La Liga,2015-16,Sevilla,Las Palmas,2,0,8,3,1,3,0,0,2,11,4,0,0,0
+2016-02-14,La Liga,2015-16,Barcelona,Celta,6,1,1,1,0,4,0,0,7,2,4,0,1,1
+2016-02-14,La Liga,2015-16,Sociedad,Granada,3,0,7,13,1,2,0,0,3,20,3,0,0,1
+2016-02-17,La Liga,2015-16,Sp Gijon,Barcelona,1,3,1,4,2,1,0,0,4,5,3,0,1,1
+2016-02-19,La Liga,2015-16,Levante,Getafe,3,0,6,8,2,2,0,0,3,14,4,0,0,1
+2016-02-20,La Liga,2015-16,Betis,Sp Gijon,1,1,10,4,2,3,0,0,2,14,5,0,1,0
+2016-02-20,La Liga,2015-16,Celta,Eibar,3,2,6,1,3,2,0,0,5,7,5,0,1,1
+2016-02-20,La Liga,2015-16,Espanol,La Coruna,1,0,7,4,3,1,0,0,1,11,4,0,0,0
+2016-02-20,La Liga,2015-16,Las Palmas,Barcelona,1,2,3,6,1,2,0,0,3,9,3,0,1,1
+2016-02-21,La Liga,2015-16,Ath Bilbao,Sociedad,0,1,9,3,7,6,0,0,1,12,13,0,0,0
+2016-02-21,La Liga,2015-16,Ath Madrid,Villarreal,0,0,10,2,2,2,0,0,0,12,4,0,0,0
+2016-02-21,La Liga,2015-16,Granada,Valencia,1,2,6,3,2,3,0,0,3,9,5,0,1,1
+2016-02-21,La Liga,2015-16,Malaga,Real Madrid,1,1,6,6,5,2,0,0,2,12,7,0,1,0
+2016-02-21,La Liga,2015-16,Vallecano,Sevilla,2,2,3,17,6,2,0,0,4,20,8,0,1,1
+2016-02-26,La Liga,2015-16,Eibar,Las Palmas,0,1,6,6,4,1,0,0,1,12,5,0,0,0
+2016-02-27,La Liga,2015-16,Betis,Vallecano,2,2,8,8,2,3,0,0,4,16,5,0,1,1
+2016-02-27,La Liga,2015-16,Getafe,Celta,0,1,4,5,3,4,0,0,1,9,7,0,0,0
+2016-02-27,La Liga,2015-16,Real Madrid,Ath Madrid,0,1,2,5,3,4,0,0,1,7,7,0,0,0
+2016-02-27,La Liga,2015-16,Sociedad,Malaga,1,1,8,3,4,5,0,0,2,11,9,0,1,0
+2016-02-27,La Liga,2015-16,Sp Gijon,Espanol,2,4,5,2,5,2,1,0,6,7,7,1,1,1
+2016-02-28,La Liga,2015-16,Barcelona,Sevilla,2,1,6,7,3,2,0,0,3,13,5,0,1,1
+2016-02-28,La Liga,2015-16,La Coruna,Granada,0,1,6,6,2,3,1,0,1,12,5,1,0,0
+2016-02-28,La Liga,2015-16,Valencia,Ath Bilbao,0,3,7,7,2,0,0,0,3,14,2,0,0,1
+2016-02-28,La Liga,2015-16,Villarreal,Levante,3,0,3,4,0,2,0,1,3,7,2,1,0,1
+2016-03-01,La Liga,2015-16,Las Palmas,Getafe,4,0,2,6,5,2,0,1,4,8,7,1,0,1
+2016-03-01,La Liga,2015-16,Ath Madrid,Sociedad,3,0,8,1,1,2,0,0,3,9,3,0,0,1
+2016-03-02,La Liga,2015-16,Ath Bilbao,La Coruna,4,1,1,2,1,3,0,0,5,3,4,0,1,1
+2016-03-02,La Liga,2015-16,Celta,Villarreal,0,0,2,1,2,5,0,0,0,3,7,0,0,0
+2016-03-02,La Liga,2015-16,Levante,Real Madrid,1,3,3,10,2,1,0,0,4,13,3,0,1,1
+2016-03-02,La Liga,2015-16,Malaga,Valencia,1,2,4,5,6,5,0,0,3,9,11,0,1,1
+2016-03-02,La Liga,2015-16,Sevilla,Eibar,1,0,12,6,1,2,0,1,1,18,3,1,0,0
+2016-03-03,La Liga,2015-16,Espanol,Betis,0,3,5,0,4,2,0,0,3,5,6,0,0,1
+2016-03-03,La Liga,2015-16,Granada,Sp Gijon,2,0,4,1,7,3,0,1,2,5,10,1,0,0
+2016-03-03,La Liga,2015-16,Vallecano,Barcelona,1,5,3,5,0,2,2,0,6,8,2,2,1,1
+2016-03-05,La Liga,2015-16,Villarreal,Las Palmas,0,1,6,2,1,2,0,0,1,8,3,0,0,0
+2016-03-05,La Liga,2015-16,Real Madrid,Celta,7,1,10,5,2,3,0,0,8,15,5,0,1,1
+2016-03-05,La Liga,2015-16,La Coruna,Malaga,3,3,10,4,4,2,0,1,6,14,6,1,1,1
+2016-03-05,La Liga,2015-16,Getafe,Sevilla,1,1,10,9,5,2,0,0,2,19,7,0,1,0
+2016-03-06,La Liga,2015-16,Betis,Granada,2,0,6,4,3,7,1,1,2,10,10,2,0,0
+2016-03-06,La Liga,2015-16,Eibar,Barcelona,0,4,6,2,3,2,0,0,4,8,5,0,0,1
+2016-03-06,La Liga,2015-16,Sociedad,Levante,1,1,10,3,3,3,0,0,2,13,6,0,1,0
+2016-03-06,La Liga,2015-16,Sp Gijon,Ath Bilbao,0,2,3,0,1,1,0,1,2,3,2,1,0,0
+2016-03-06,La Liga,2015-16,Valencia,Ath Madrid,1,3,6,7,1,1,1,0,4,13,2,1,1,1
+2016-03-07,La Liga,2015-16,Espanol,Vallecano,2,1,8,3,3,4,1,0,3,11,7,1,1,1
+2016-03-11,La Liga,2015-16,Malaga,Sp Gijon,1,0,3,4,2,4,0,0,1,7,6,0,0,0
+2016-03-12,La Liga,2015-16,Vallecano,Eibar,1,1,8,0,5,1,0,1,2,8,6,1,1,0
+2016-03-12,La Liga,2015-16,Celta,Sociedad,1,0,5,3,3,2,0,0,1,8,5,0,0,0
+2016-03-12,La Liga,2015-16,Ath Madrid,La Coruna,3,0,10,1,1,1,0,0,3,11,2,0,0,1
+2016-03-12,La Liga,2015-16,Barcelona,Getafe,6,0,5,3,0,3,0,0,6,8,3,0,0,1
+2016-03-13,La Liga,2015-16,Sevilla,Villarreal,4,2,5,8,1,1,1,0,6,13,2,1,1,1
+2016-03-13,La Liga,2015-16,Levante,Valencia,1,0,8,0,2,4,0,0,1,8,6,0,0,0
+2016-03-13,La Liga,2015-16,Ath Bilbao,Betis,3,1,5,6,1,0,0,0,4,11,1,0,1,1
+2016-03-13,La Liga,2015-16,Las Palmas,Real Madrid,1,2,6,5,4,3,0,1,3,11,7,1,1,1
+2016-03-14,La Liga,2015-16,Granada,Espanol,1,1,2,8,5,3,1,0,2,10,8,1,1,0
+2016-03-18,La Liga,2015-16,Getafe,Eibar,1,1,3,3,1,2,0,0,2,6,3,0,1,0
+2016-03-19,La Liga,2015-16,Betis,Malaga,0,1,5,7,3,2,0,0,1,12,5,0,0,0
+2016-03-19,La Liga,2015-16,Granada,Vallecano,2,2,6,12,1,5,1,0,4,18,6,1,1,1
+2016-03-19,La Liga,2015-16,La Coruna,Levante,2,1,2,1,2,3,0,0,3,3,5,0,1,1
+2016-03-19,La Liga,2015-16,Sociedad,Las Palmas,0,1,11,5,4,5,0,0,1,16,9,0,0,0
+2016-03-19,La Liga,2015-16,Sp Gijon,Ath Madrid,2,1,7,2,5,2,0,0,3,9,7,0,1,1
+2016-03-20,La Liga,2015-16,Villarreal,Barcelona,2,2,4,4,8,4,0,0,4,8,12,0,1,1
+2016-03-20,La Liga,2015-16,Valencia,Celta,0,2,4,5,1,0,0,0,2,9,1,0,0,0
+2016-03-20,La Liga,2015-16,Espanol,Ath Bilbao,2,1,6,2,3,3,0,0,3,8,6,0,1,1
+2016-03-20,La Liga,2015-16,Real Madrid,Sevilla,4,0,8,8,2,2,0,0,4,16,4,0,0,1
+2016-04-01,La Liga,2015-16,Vallecano,Getafe,2,0,9,6,4,5,1,0,2,15,9,1,0,0
+2016-04-02,La Liga,2015-16,Las Palmas,Valencia,2,1,8,2,2,4,0,0,3,10,6,0,1,1
+2016-04-02,La Liga,2015-16,Ath Madrid,Betis,5,1,5,5,1,3,0,0,6,10,4,0,1,1
+2016-04-02,La Liga,2015-16,Barcelona,Real Madrid,1,2,4,3,3,2,0,1,3,7,5,1,1,1
+2016-04-02,La Liga,2015-16,Celta,La Coruna,1,1,11,0,4,2,0,1,2,11,6,1,1,0
+2016-04-03,La Liga,2015-16,Malaga,Espanol,1,1,5,1,2,4,0,0,2,6,6,0,1,0
+2016-04-03,La Liga,2015-16,Sevilla,Sociedad,1,2,8,3,4,3,0,1,3,11,7,1,1,1
+2016-04-03,La Liga,2015-16,Ath Bilbao,Granada,1,1,13,1,2,5,0,0,2,14,7,0,1,0
+2016-04-03,La Liga,2015-16,Eibar,Villarreal,1,2,4,3,3,3,0,0,3,7,6,0,1,1
+2016-04-04,La Liga,2015-16,Levante,Sp Gijon,0,0,4,6,4,4,1,0,0,10,8,1,0,0
+2016-04-08,La Liga,2015-16,Granada,Malaga,0,0,5,5,1,3,0,0,0,10,4,0,0,0
+2016-04-09,La Liga,2015-16,Betis,Levante,1,0,4,3,4,3,0,0,1,7,7,0,0,0
+2016-04-09,La Liga,2015-16,Espanol,Ath Madrid,1,3,3,5,2,2,0,0,4,8,4,0,1,1
+2016-04-09,La Liga,2015-16,Real Madrid,Eibar,4,0,6,7,1,3,0,0,4,13,4,0,0,1
+2016-04-09,La Liga,2015-16,Sociedad,Barcelona,1,0,5,9,1,3,0,0,1,14,4,0,0,0
+2016-04-10,La Liga,2015-16,Valencia,Sevilla,2,1,10,3,2,2,0,0,3,13,4,0,1,1
+2016-04-10,La Liga,2015-16,Villarreal,Getafe,2,0,8,5,2,2,0,0,2,13,4,0,0,0
+2016-04-10,La Liga,2015-16,Ath Bilbao,Vallecano,1,0,0,5,1,3,0,0,1,5,4,0,0,0
+2016-04-10,La Liga,2015-16,Sp Gijon,Celta,0,1,7,7,2,5,0,0,1,14,7,0,0,0
+2016-04-11,La Liga,2015-16,La Coruna,Las Palmas,1,3,7,4,1,1,0,0,4,11,2,0,1,1
+2016-04-15,La Liga,2015-16,Levante,Espanol,2,1,4,6,5,0,0,0,3,10,5,0,1,1
+2016-04-16,La Liga,2015-16,Celta,Betis,1,1,12,4,4,3,0,0,2,16,7,0,1,0
+2016-04-16,La Liga,2015-16,Eibar,Sociedad,2,1,2,0,3,3,0,0,3,2,6,0,1,1
+2016-04-16,La Liga,2015-16,Getafe,Real Madrid,1,5,5,6,4,1,0,0,6,11,5,0,1,1
+2016-04-16,La Liga,2015-16,Las Palmas,Sp Gijon,1,1,3,10,2,5,0,0,2,13,7,0,1,0
+2016-04-17,La Liga,2015-16,Sevilla,La Coruna,1,1,10,0,2,2,0,0,2,10,4,0,1,0
+2016-04-17,La Liga,2015-16,Ath Madrid,Granada,3,0,4,2,3,5,0,0,3,6,8,0,0,1
+2016-04-17,La Liga,2015-16,Barcelona,Valencia,1,2,7,2,3,3,0,0,3,9,6,0,1,1
+2016-04-17,La Liga,2015-16,Malaga,Ath Bilbao,0,1,8,2,3,5,0,0,1,10,8,0,0,0
+2016-04-17,La Liga,2015-16,Vallecano,Villarreal,2,1,4,3,2,3,0,0,3,7,5,0,1,1
+2016-04-19,La Liga,2015-16,Espanol,Celta,1,1,2,2,1,1,0,0,2,4,2,0,1,0
+2016-04-19,La Liga,2015-16,Betis,Las Palmas,1,0,6,3,2,1,0,1,1,9,3,1,0,0
+2016-04-20,La Liga,2015-16,Ath Bilbao,Ath Madrid,0,1,6,4,0,0,0,0,1,10,0,0,0,0
+2016-04-20,La Liga,2015-16,La Coruna,Barcelona,0,8,6,2,1,0,0,0,8,8,1,0,0,1
+2016-04-20,La Liga,2015-16,Malaga,Vallecano,1,1,7,7,1,3,0,0,2,14,4,0,1,0
+2016-04-20,La Liga,2015-16,Real Madrid,Villarreal,3,0,11,1,2,1,0,0,3,12,3,0,0,1
+2016-04-20,La Liga,2015-16,Sp Gijon,Sevilla,2,1,5,7,2,1,0,0,3,12,3,0,1,1
+2016-04-20,La Liga,2015-16,Valencia,Eibar,4,0,6,3,1,2,0,0,4,9,3,0,0,1
+2016-04-21,La Liga,2015-16,Granada,Levante,5,1,3,4,6,5,0,1,6,7,11,1,1,1
+2016-04-21,La Liga,2015-16,Sociedad,Getafe,1,2,8,2,2,4,0,0,3,10,6,0,1,1
+2016-04-22,La Liga,2015-16,Las Palmas,Espanol,4,0,5,5,4,4,0,0,4,10,8,0,0,1
+2016-04-23,La Liga,2015-16,Vallecano,Real Madrid,2,3,4,6,6,1,0,0,5,10,7,0,1,1
+2016-04-23,La Liga,2015-16,Eibar,La Coruna,1,1,11,7,0,1,0,0,2,18,1,0,1,0
+2016-04-23,La Liga,2015-16,Ath Madrid,Malaga,1,0,10,4,3,3,0,0,1,14,6,0,0,0
+2016-04-23,La Liga,2015-16,Barcelona,Sp Gijon,6,0,6,1,0,2,0,1,6,7,2,1,0,1
+2016-04-24,La Liga,2015-16,Villarreal,Sociedad,0,0,3,5,4,1,0,0,0,8,5,0,0,0
+2016-04-24,La Liga,2015-16,Getafe,Valencia,2,2,8,2,4,1,0,0,4,10,5,0,1,1
+2016-04-24,La Liga,2015-16,Levante,Ath Bilbao,2,2,4,9,2,1,0,0,4,13,3,0,1,1
+2016-04-24,La Liga,2015-16,Sevilla,Betis,2,0,8,5,5,4,0,0,2,13,9,0,0,0
+2016-04-25,La Liga,2015-16,Celta,Granada,2,1,4,4,2,2,0,0,3,8,4,0,1,1
+2016-04-29,La Liga,2015-16,Sp Gijon,Eibar,2,0,1,5,2,2,0,0,2,6,4,0,0,0
+2016-04-30,La Liga,2015-16,Sociedad,Real Madrid,0,1,6,6,4,4,0,0,1,12,8,0,0,0
+2016-04-30,La Liga,2015-16,Granada,Las Palmas,3,2,4,3,3,2,0,0,5,7,5,0,1,1
+2016-04-30,La Liga,2015-16,Ath Madrid,Vallecano,1,0,5,7,1,1,0,0,1,12,2,0,0,0
+2016-04-30,La Liga,2015-16,Betis,Barcelona,0,2,2,4,3,3,1,0,2,6,6,1,0,0
+2016-05-01,La Liga,2015-16,Ath Bilbao,Celta,2,1,7,2,1,5,0,1,3,9,6,1,1,1
+2016-05-01,La Liga,2015-16,Espanol,Sevilla,1,0,4,2,3,3,0,0,1,6,6,0,0,0
+2016-05-01,La Liga,2015-16,La Coruna,Getafe,0,2,8,5,1,6,1,0,2,13,7,1,0,0
+2016-05-01,La Liga,2015-16,Valencia,Villarreal,0,2,9,3,0,2,0,0,2,12,2,0,0,0
+2016-05-02,La Liga,2015-16,Malaga,Levante,3,1,13,7,2,4,0,0,4,20,6,0,1,1
+2016-05-08,La Liga,2015-16,Sociedad,Vallecano,2,1,5,11,2,1,1,0,3,16,3,1,1,1
+2016-05-08,La Liga,2015-16,Barcelona,Espanol,5,0,8,0,2,7,0,0,5,8,9,0,0,1
+2016-05-08,La Liga,2015-16,Celta,Malaga,1,0,4,3,0,2,0,0,1,7,2,0,0,0
+2016-05-08,La Liga,2015-16,Eibar,Betis,1,1,8,2,1,3,0,0,2,10,4,0,1,0
+2016-05-08,La Liga,2015-16,Getafe,Sp Gijon,1,1,7,3,3,1,0,1,2,10,4,1,1,0
+2016-05-08,La Liga,2015-16,Las Palmas,Ath Bilbao,0,0,2,2,1,1,0,0,0,4,2,0,0,0
+2016-05-08,La Liga,2015-16,Levante,Ath Madrid,2,1,4,5,1,1,0,0,3,9,2,0,1,1
+2016-05-08,La Liga,2015-16,Real Madrid,Valencia,3,2,5,8,1,4,0,1,5,13,5,1,1,1
+2016-05-08,La Liga,2015-16,Sevilla,Granada,1,4,5,4,4,1,0,0,5,9,5,0,1,1
+2016-05-08,La Liga,2015-16,Villarreal,La Coruna,0,2,8,5,3,1,0,0,2,13,4,0,0,0
+2016-05-13,La Liga,2015-16,Valencia,Sociedad,0,1,4,6,2,2,0,0,1,10,4,0,0,0
+2016-05-14,La Liga,2015-16,Granada,Barcelona,0,3,5,6,5,2,0,0,3,11,7,0,0,1
+2016-05-14,La Liga,2015-16,La Coruna,Real Madrid,0,2,4,8,1,3,0,0,2,12,4,0,0,0
+2016-05-14,La Liga,2015-16,Ath Bilbao,Sevilla,3,1,7,6,1,2,1,2,4,13,3,3,1,1
+2016-05-14,La Liga,2015-16,Ath Madrid,Celta,2,0,4,4,4,5,0,0,2,8,9,0,0,0
+2016-05-15,La Liga,2015-16,Malaga,Las Palmas,4,1,3,6,1,1,0,0,5,9,2,0,1,1
+2016-05-15,La Liga,2015-16,Sp Gijon,Villarreal,2,0,4,1,1,2,0,0,2,5,3,0,0,0
+2016-05-15,La Liga,2015-16,Betis,Getafe,2,1,3,2,1,8,0,1,3,5,9,1,1,1
+2016-05-15,La Liga,2015-16,Espanol,Eibar,4,2,3,4,4,3,0,0,6,7,7,0,1,1
+2016-05-15,La Liga,2015-16,Vallecano,Levante,3,1,9,3,1,3,0,0,4,12,4,0,1,1

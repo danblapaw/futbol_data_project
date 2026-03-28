@@ -1,234 +1,234 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2024-08-17,Super League Greece,2024-25,PAOK,Panserraikos,3,2,9,1,5,10,1,1
-2024-08-17,Super League Greece,2024-25,Volos NFC,Olympiakos,0,2,3,3,2,6,0,0
-2024-08-18,Super League Greece,2024-25,Levadeiakos,Athens Kallithea,0,0,2,5,0,7,0,0
-2024-08-18,Super League Greece,2024-25,Panathinaikos,Asteras Tripolis,0,1,8,2,1,10,0,0
-2024-08-18,Super League Greece,2024-25,Atromitos,Aris,1,1,3,4,2,7,1,0
-2024-08-18,Super League Greece,2024-25,AEK,OFI Crete,3,0,6,1,3,7,0,1
-2024-08-19,Super League Greece,2024-25,Panetolikos,Lamia,0,1,4,3,1,7,0,0
-2024-08-24,Super League Greece,2024-25,OFI Crete,Atromitos,1,1,4,3,2,7,1,0
-2024-08-24,Super League Greece,2024-25,Panserraikos,Aris,0,1,4,2,1,6,0,0
-2024-08-24,Super League Greece,2024-25,AEK,Lamia,1,1,13,1,2,14,1,0
-2024-08-25,Super League Greece,2024-25,Asteras Tripolis,Volos NFC,0,1,13,0,1,13,0,0
-2024-08-25,Super League Greece,2024-25,PAOK,Panetolikos,2,0,4,1,2,5,0,0
-2024-08-25,Super League Greece,2024-25,Panathinaikos,Levadeiakos,1,0,7,3,1,10,0,0
-2024-08-26,Super League Greece,2024-25,Olympiakos,Athens Kallithea,2,1,7,3,3,10,1,1
-2024-08-31,Super League Greece,2024-25,Panetolikos,Panserraikos,3,0,3,4,3,7,0,1
-2024-08-31,Super League Greece,2024-25,Lamia,Olympiakos,0,3,4,6,3,10,0,1
-2024-08-31,Super League Greece,2024-25,Aris,Asteras Tripolis,1,1,4,3,2,7,1,0
-2024-09-01,Super League Greece,2024-25,Levadeiakos,AEK,0,3,1,6,3,7,0,1
-2024-09-01,Super League Greece,2024-25,Volos NFC,OFI Crete,1,3,7,0,4,7,1,1
-2024-09-01,Super League Greece,2024-25,Atromitos,PAOK,1,2,4,2,3,6,1,1
-2024-09-01,Super League Greece,2024-25,Athens Kallithea,Panathinaikos,2,2,9,3,4,12,1,1
-2024-09-14,Super League Greece,2024-25,Lamia,Athens Kallithea,0,0,1,3,0,4,0,0
-2024-09-14,Super League Greece,2024-25,Asteras Tripolis,Atromitos,1,2,6,1,3,7,1,1
-2024-09-15,Super League Greece,2024-25,Panserraikos,Levadeiakos,2,2,2,5,4,7,1,1
-2024-09-15,Super League Greece,2024-25,Olympiakos,Panetolikos,0,0,8,0,0,8,0,0
-2024-09-15,Super League Greece,2024-25,OFI Crete,Aris,3,2,6,7,5,13,1,1
-2024-09-15,Super League Greece,2024-25,PAOK,Panathinaikos,0,0,6,4,0,10,0,0
-2024-09-16,Super League Greece,2024-25,AEK,Volos NFC,2,0,3,5,2,8,0,0
-2024-09-21,Super League Greece,2024-25,Panetolikos,Asteras Tripolis,1,1,1,3,2,4,1,0
-2024-09-21,Super League Greece,2024-25,Volos NFC,PAOK,1,4,4,5,5,9,1,1
-2024-09-21,Super League Greece,2024-25,Aris,Olympiakos,2,1,3,5,3,8,1,1
-2024-09-22,Super League Greece,2024-25,Levadeiakos,OFI Crete,1,1,4,2,2,6,1,0
-2024-09-22,Super League Greece,2024-25,Panathinaikos,Panserraikos,3,1,7,1,4,8,1,1
-2024-09-22,Super League Greece,2024-25,Atromitos,Lamia,4,2,6,2,6,8,1,1
-2024-09-22,Super League Greece,2024-25,Athens Kallithea,AEK,0,0,2,13,0,15,0,0
-2024-09-28,Super League Greece,2024-25,Volos NFC,Athens Kallithea,1,1,6,4,2,10,1,0
-2024-09-28,Super League Greece,2024-25,Asteras Tripolis,Levadeiakos,1,1,4,3,2,7,1,0
-2024-09-29,Super League Greece,2024-25,OFI Crete,Panetolikos,1,2,4,2,3,6,1,1
-2024-09-29,Super League Greece,2024-25,Olympiakos,Atromitos,2,0,5,5,2,10,0,0
-2024-09-29,Super League Greece,2024-25,PAOK,Aris,0,1,5,5,1,10,0,0
-2024-09-29,Super League Greece,2024-25,AEK,Panathinaikos,2,0,6,1,2,7,0,0
-2024-09-30,Super League Greece,2024-25,Lamia,Panserraikos,1,2,6,5,3,11,1,1
-2024-10-05,Super League Greece,2024-25,Aris,Lamia,2,0,4,1,2,5,0,0
-2024-10-05,Super League Greece,2024-25,Panetolikos,AEK,1,0,4,4,1,8,0,0
-2024-10-05,Super League Greece,2024-25,Atromitos,Volos NFC,1,2,5,1,3,6,1,1
-2024-10-06,Super League Greece,2024-25,Panserraikos,OFI Crete,2,3,7,4,5,11,1,1
-2024-10-06,Super League Greece,2024-25,Athens Kallithea,Asteras Tripolis,1,3,1,1,4,2,1,1
-2024-10-06,Super League Greece,2024-25,Levadeiakos,PAOK,0,2,3,3,2,6,0,0
-2024-10-06,Super League Greece,2024-25,Panathinaikos,Olympiakos,0,0,6,7,0,13,0,0
-2024-10-19,Super League Greece,2024-25,Lamia,Asteras Tripolis,0,0,6,5,0,11,0,0
-2024-10-19,Super League Greece,2024-25,Volos NFC,Panserraikos,0,1,8,5,1,13,0,0
-2024-10-19,Super League Greece,2024-25,Atromitos,Panetolikos,0,2,8,2,2,10,0,0
-2024-10-20,Super League Greece,2024-25,Aris,Athens Kallithea,2,0,10,0,2,10,0,0
-2024-10-20,Super League Greece,2024-25,AEK,PAOK,1,1,5,2,2,7,1,0
-2024-10-20,Super League Greece,2024-25,Olympiakos,Levadeiakos,2,2,7,2,4,9,1,1
-2024-10-20,Super League Greece,2024-25,OFI Crete,Panathinaikos,0,1,3,4,1,7,0,0
-2024-10-26,Super League Greece,2024-25,Panserraikos,AEK,1,0,2,11,1,13,0,0
-2024-10-26,Super League Greece,2024-25,Levadeiakos,Lamia,2,2,3,2,4,5,1,1
-2024-10-26,Super League Greece,2024-25,Panetolikos,Volos NFC,0,1,2,5,1,7,0,0
-2024-10-27,Super League Greece,2024-25,Asteras Tripolis,Olympiakos,1,0,3,8,1,11,0,0
-2024-10-27,Super League Greece,2024-25,Panathinaikos,Aris,1,1,5,2,2,7,1,0
-2024-10-27,Super League Greece,2024-25,PAOK,OFI Crete,1,2,5,4,3,9,1,1
-2024-10-27,Super League Greece,2024-25,Athens Kallithea,Atromitos,0,3,4,7,3,11,0,1
-2024-11-02,Super League Greece,2024-25,Olympiakos,Panserraikos,2,1,8,1,3,9,1,1
-2024-11-02,Super League Greece,2024-25,Athens Kallithea,Panetolikos,1,1,6,5,2,11,1,0
-2024-11-03,Super League Greece,2024-25,Aris,Levadeiakos,3,1,0,5,4,5,1,1
-2024-11-03,Super League Greece,2024-25,Volos NFC,Panathinaikos,0,1,2,6,1,8,0,0
-2024-11-03,Super League Greece,2024-25,Atromitos,AEK,0,1,5,2,1,7,0,0
-2024-11-03,Super League Greece,2024-25,Lamia,PAOK,1,2,1,9,3,10,1,1
-2024-11-04,Super League Greece,2024-25,Asteras Tripolis,OFI Crete,3,0,6,5,3,11,0,1
-2024-11-09,Super League Greece,2024-25,AEK,Asteras Tripolis,3,0,6,0,3,6,0,1
-2024-11-09,Super League Greece,2024-25,Panserraikos,Atromitos,2,3,3,3,5,6,1,1
-2024-11-09,Super League Greece,2024-25,Panetolikos,Aris,2,1,7,4,3,11,1,1
-2024-11-10,Super League Greece,2024-25,OFI Crete,Athens Kallithea,2,2,2,7,4,9,1,1
-2024-11-10,Super League Greece,2024-25,Levadeiakos,Volos NFC,3,2,6,1,5,7,1,1
-2024-11-10,Super League Greece,2024-25,Panathinaikos,Lamia,1,0,7,1,1,8,0,0
-2024-11-10,Super League Greece,2024-25,PAOK,Olympiakos,2,3,4,5,5,9,1,1
-2024-11-22,Super League Greece,2024-25,Athens Kallithea,Panserraikos,1,2,8,1,3,9,1,1
-2024-11-23,Super League Greece,2024-25,Lamia,OFI Crete,1,1,5,6,2,11,1,0
-2024-11-23,Super League Greece,2024-25,Aris,Volos NFC,0,1,3,0,1,3,0,0
-2024-11-24,Super League Greece,2024-25,Panetolikos,Panathinaikos,1,2,2,8,3,10,1,1
-2024-11-24,Super League Greece,2024-25,Asteras Tripolis,PAOK,1,2,4,4,3,8,1,1
-2024-11-24,Super League Greece,2024-25,Olympiakos,AEK,4,1,2,0,5,2,1,1
-2024-11-25,Super League Greece,2024-25,Atromitos,Levadeiakos,2,1,4,6,3,10,1,1
-2024-11-30,Super League Greece,2024-25,Levadeiakos,Panetolikos,1,1,5,0,2,5,1,0
-2024-11-30,Super League Greece,2024-25,AEK,Aris,4,0,7,0,4,7,0,1
-2024-11-30,Super League Greece,2024-25,Volos NFC,Lamia,0,0,6,4,0,10,0,0
-2024-12-01,Super League Greece,2024-25,Panserraikos,Asteras Tripolis,2,1,7,5,3,12,1,1
-2024-12-01,Super League Greece,2024-25,OFI Crete,Olympiakos,0,2,4,6,2,10,0,0
-2024-12-01,Super League Greece,2024-25,PAOK,Athens Kallithea,2,2,7,4,4,11,1,1
-2024-12-01,Super League Greece,2024-25,Panathinaikos,Atromitos,1,1,6,1,2,7,1,0
-2024-12-07,Super League Greece,2024-25,Olympiakos,Volos NFC,3,0,5,1,3,6,0,1
-2024-12-07,Super League Greece,2024-25,Aris,Atromitos,2,1,1,5,3,6,1,1
-2024-12-08,Super League Greece,2024-25,Panserraikos,PAOK,1,4,4,7,5,11,1,1
-2024-12-08,Super League Greece,2024-25,OFI Crete,AEK,1,2,0,14,3,14,1,1
-2024-12-08,Super League Greece,2024-25,Asteras Tripolis,Panathinaikos,0,1,6,9,1,15,0,0
-2024-12-08,Super League Greece,2024-25,Lamia,Panetolikos,0,1,5,1,1,6,0,0
-2024-12-09,Super League Greece,2024-25,Athens Kallithea,Levadeiakos,2,4,6,5,6,11,1,1
-2024-12-14,Super League Greece,2024-25,Volos NFC,Asteras Tripolis,2,1,1,10,3,11,1,1
-2024-12-14,Super League Greece,2024-25,Atromitos,OFI Crete,0,0,4,2,0,6,0,0
-2024-12-14,Super League Greece,2024-25,Lamia,AEK,0,1,2,8,1,10,0,0
-2024-12-15,Super League Greece,2024-25,Aris,Panserraikos,1,0,6,3,1,9,0,0
-2024-12-15,Super League Greece,2024-25,Levadeiakos,Panathinaikos,0,1,1,11,1,12,0,0
-2024-12-15,Super League Greece,2024-25,Panetolikos,PAOK,0,1,3,7,1,10,0,0
-2024-12-16,Super League Greece,2024-25,Athens Kallithea,Olympiakos,1,1,5,4,2,9,1,0
-2024-12-21,Super League Greece,2024-25,Olympiakos,Lamia,1,0,8,0,1,8,0,0
-2024-12-22,Super League Greece,2024-25,Panserraikos,Panetolikos,0,0,4,6,0,10,0,0
-2024-12-22,Super League Greece,2024-25,Panathinaikos,Athens Kallithea,1,0,17,3,1,20,0,0
-2024-12-22,Super League Greece,2024-25,PAOK,Atromitos,3,0,7,6,3,13,0,1
-2024-12-22,Super League Greece,2024-25,AEK,Levadeiakos,1,1,9,2,2,11,1,0
-2024-12-23,Super League Greece,2024-25,Asteras Tripolis,Aris,2,1,1,3,3,4,1,1
-2024-12-23,Super League Greece,2024-25,OFI Crete,Volos NFC,4,0,3,5,4,8,0,1
-2025-01-04,Super League Greece,2024-25,Athens Kallithea,Lamia,2,1,3,4,3,7,1,1
-2025-01-05,Super League Greece,2024-25,Panathinaikos,PAOK,2,1,9,2,3,11,1,1
-2025-01-05,Super League Greece,2024-25,Volos NFC,AEK,2,4,3,5,6,8,1,1
-2025-01-05,Super League Greece,2024-25,Atromitos,Asteras Tripolis,0,1,4,8,1,12,0,0
-2025-01-05,Super League Greece,2024-25,Aris,OFI Crete,0,2,12,2,2,14,0,0
-2025-01-05,Super League Greece,2024-25,Levadeiakos,Panserraikos,1,0,5,4,1,9,0,0
-2025-01-06,Super League Greece,2024-25,Panetolikos,Olympiakos,0,2,0,8,2,8,0,0
-2025-01-11,Super League Greece,2024-25,Olympiakos,Aris,2,1,6,0,3,6,1,1
-2025-01-12,Super League Greece,2024-25,Panserraikos,Panathinaikos,2,2,1,6,4,7,1,1
-2025-01-12,Super League Greece,2024-25,Lamia,Atromitos,0,3,6,1,3,7,0,1
-2025-01-12,Super League Greece,2024-25,PAOK,Volos NFC,1,2,15,3,3,18,1,1
-2025-01-12,Super League Greece,2024-25,AEK,Athens Kallithea,2,0,9,3,2,12,0,0
-2025-01-13,Super League Greece,2024-25,Asteras Tripolis,Panetolikos,2,0,4,4,2,8,0,0
-2025-01-13,Super League Greece,2024-25,OFI Crete,Levadeiakos,0,0,3,5,0,8,0,0
-2025-01-18,Super League Greece,2024-25,Athens Kallithea,Volos NFC,2,0,3,3,2,6,0,0
-2025-01-19,Super League Greece,2024-25,Panathinaikos,AEK,1,0,0,7,1,7,0,0
-2025-01-19,Super League Greece,2024-25,Aris,PAOK,0,0,5,3,0,8,0,0
-2025-01-19,Super League Greece,2024-25,Panetolikos,OFI Crete,1,0,4,4,1,8,0,0
-2025-01-19,Super League Greece,2024-25,Levadeiakos,Asteras Tripolis,1,2,2,5,3,7,1,1
-2025-01-19,Super League Greece,2024-25,Atromitos,Olympiakos,1,2,3,5,3,8,1,1
-2025-01-20,Super League Greece,2024-25,Panserraikos,Lamia,2,0,4,3,2,7,0,0
-2025-01-24,Super League Greece,2024-25,Volos NFC,Atromitos,0,1,4,2,1,6,0,0
-2025-01-25,Super League Greece,2024-25,Asteras Tripolis,Athens Kallithea,1,0,7,3,1,10,0,0
-2025-01-25,Super League Greece,2024-25,OFI Crete,Panserraikos,3,2,9,8,5,17,1,1
-2025-01-25,Super League Greece,2024-25,AEK,Panetolikos,1,0,7,4,1,11,0,0
-2025-01-26,Super League Greece,2024-25,Lamia,Aris,0,2,3,7,2,10,0,0
-2025-01-26,Super League Greece,2024-25,PAOK,Levadeiakos,1,0,10,3,1,13,0,0
-2025-01-26,Super League Greece,2024-25,Olympiakos,Panathinaikos,1,1,2,2,2,4,1,0
-2025-02-01,Super League Greece,2024-25,Panathinaikos,OFI Crete,3,2,13,1,5,14,1,1
-2025-02-01,Super League Greece,2024-25,Panserraikos,Volos NFC,1,1,4,4,2,8,1,0
-2025-02-02,Super League Greece,2024-25,Panetolikos,Atromitos,0,1,0,5,1,5,0,0
-2025-02-02,Super League Greece,2024-25,PAOK,AEK,1,2,3,3,3,6,1,1
-2025-02-02,Super League Greece,2024-25,Athens Kallithea,Aris,0,1,10,4,1,14,0,0
-2025-02-02,Super League Greece,2024-25,Levadeiakos,Olympiakos,0,1,3,6,1,9,0,0
-2025-02-03,Super League Greece,2024-25,Asteras Tripolis,Lamia,1,0,3,4,1,7,0,0
-2025-02-08,Super League Greece,2024-25,Volos NFC,Panetolikos,0,1,7,1,1,8,0,0
-2025-02-08,Super League Greece,2024-25,OFI Crete,PAOK,0,5,4,5,5,9,0,1
-2025-02-09,Super League Greece,2024-25,Olympiakos,Asteras Tripolis,1,1,12,0,2,12,1,0
-2025-02-09,Super League Greece,2024-25,Aris,Panathinaikos,2,0,5,7,2,12,0,0
-2025-02-09,Super League Greece,2024-25,AEK,Panserraikos,5,0,10,1,5,11,0,1
-2025-02-10,Super League Greece,2024-25,Atromitos,Athens Kallithea,1,2,10,6,3,16,1,1
-2025-02-10,Super League Greece,2024-25,Lamia,Levadeiakos,0,2,9,5,2,14,0,0
-2025-02-15,Super League Greece,2024-25,OFI Crete,Asteras Tripolis,2,1,4,4,3,8,1,1
-2025-02-15,Super League Greece,2024-25,AEK,Atromitos,2,1,6,0,3,6,1,1
-2025-02-16,Super League Greece,2024-25,Panetolikos,Athens Kallithea,2,0,6,3,2,9,0,0
-2025-02-16,Super League Greece,2024-25,PAOK,Lamia,7,0,8,3,7,11,0,1
-2025-02-16,Super League Greece,2024-25,Panathinaikos,Volos NFC,2,1,6,3,3,9,1,1
-2025-02-16,Super League Greece,2024-25,Levadeiakos,Aris,4,1,6,3,5,9,1,1
-2025-02-16,Super League Greece,2024-25,Panserraikos,Olympiakos,0,4,0,7,4,7,0,1
-2025-02-22,Super League Greece,2024-25,Athens Kallithea,OFI Crete,1,3,10,3,4,13,1,1
-2025-02-22,Super League Greece,2024-25,Atromitos,Panserraikos,1,0,6,4,1,10,0,0
-2025-02-22,Super League Greece,2024-25,Volos NFC,Levadeiakos,1,2,4,2,3,6,1,1
-2025-02-23,Super League Greece,2024-25,Aris,Panetolikos,2,1,4,6,3,10,1,1
-2025-02-23,Super League Greece,2024-25,Lamia,Panathinaikos,3,1,5,6,4,11,1,1
-2025-02-23,Super League Greece,2024-25,Asteras Tripolis,AEK,0,3,0,2,3,2,0,1
-2025-02-23,Super League Greece,2024-25,Olympiakos,PAOK,2,1,2,3,3,5,1,1
-2025-03-01,Super League Greece,2024-25,Volos NFC,Aris,1,1,8,4,2,12,1,0
-2025-03-01,Super League Greece,2024-25,Panserraikos,Athens Kallithea,2,1,7,3,3,10,1,1
-2025-03-01,Super League Greece,2024-25,Panathinaikos,Panetolikos,2,0,5,4,2,9,0,0
-2025-03-02,Super League Greece,2024-25,AEK,Olympiakos,0,1,1,0,1,1,0,0
-2025-03-02,Super League Greece,2024-25,PAOK,Asteras Tripolis,2,0,5,6,2,11,0,0
-2025-03-02,Super League Greece,2024-25,OFI Crete,Lamia,3,0,5,3,3,8,0,1
-2025-03-02,Super League Greece,2024-25,Levadeiakos,Atromitos,1,2,7,2,3,9,1,1
-2025-03-09,Super League Greece,2024-25,Aris,AEK,0,0,4,3,0,7,0,0
-2025-03-09,Super League Greece,2024-25,Asteras Tripolis,Panserraikos,1,2,6,1,3,7,1,1
-2025-03-09,Super League Greece,2024-25,Athens Kallithea,PAOK,2,1,5,7,3,12,1,1
-2025-03-09,Super League Greece,2024-25,Atromitos,Panathinaikos,1,1,2,3,2,5,1,0
-2025-03-09,Super League Greece,2024-25,Lamia,Volos NFC,1,0,0,8,1,8,0,0
-2025-03-09,Super League Greece,2024-25,Olympiakos,OFI Crete,1,0,9,1,1,10,0,0
-2025-03-09,Super League Greece,2024-25,Panetolikos,Levadeiakos,0,0,4,4,0,8,0,0
-2025-03-29,Super League Greece,2024-25,OFI Crete,Atromitos,1,2,7,2,3,9,1,1
-2025-03-29,Super League Greece,2024-25,Athens Kallithea,Volos NFC,1,1,4,4,2,8,1,0
-2025-03-29,Super League Greece,2024-25,Asteras Tripolis,Aris,0,2,3,3,2,6,0,0
-2025-03-29,Super League Greece,2024-25,Panetolikos,Levadeiakos,1,2,2,4,3,6,1,1
-2025-03-30,Super League Greece,2024-25,Olympiakos,Panathinaikos,4,2,3,0,6,3,1,1
-2025-03-30,Super League Greece,2024-25,Panserraikos,Lamia,1,1,8,3,2,11,1,0
-2025-03-30,Super League Greece,2024-25,AEK,PAOK,2,3,3,1,5,4,1,1
-2025-04-05,Super League Greece,2024-25,Levadeiakos,Panserraikos,3,0,3,5,3,8,0,1
-2025-04-05,Super League Greece,2024-25,Aris,OFI Crete,2,0,9,2,2,11,0,0
-2025-04-05,Super League Greece,2024-25,Lamia,Athens Kallithea,0,2,1,4,2,5,0,0
-2025-04-06,Super League Greece,2024-25,Volos NFC,Panetolikos,0,0,3,2,0,5,0,0
-2025-04-06,Super League Greece,2024-25,PAOK,Olympiakos,2,1,2,5,3,7,1,1
-2025-04-06,Super League Greece,2024-25,Panathinaikos,AEK,3,1,2,14,4,16,1,1
-2025-04-07,Super League Greece,2024-25,Atromitos,Asteras Tripolis,0,1,5,1,1,6,0,0
-2025-04-12,Super League Greece,2024-25,Volos NFC,Levadeiakos,1,0,6,1,1,7,0,0
-2025-04-12,Super League Greece,2024-25,Panetolikos,Lamia,1,0,3,5,1,8,0,0
-2025-04-12,Super League Greece,2024-25,Panserraikos,Athens Kallithea,3,1,5,2,4,7,1,1
-2025-04-13,Super League Greece,2024-25,Olympiakos,AEK,1,0,5,0,1,5,0,0
-2025-04-13,Super League Greece,2024-25,Aris,Atromitos,1,0,7,3,1,10,0,0
-2025-04-13,Super League Greece,2024-25,Asteras Tripolis,OFI Crete,2,1,9,3,3,12,1,1
-2025-04-13,Super League Greece,2024-25,Panathinaikos,PAOK,3,1,4,3,4,7,1,1
-2025-04-23,Super League Greece,2024-25,Lamia,Volos NFC,1,3,0,11,4,11,1,1
-2025-04-23,Super League Greece,2024-25,Panserraikos,Panetolikos,1,1,7,5,2,12,1,0
-2025-04-23,Super League Greece,2024-25,Athens Kallithea,Levadeiakos,0,3,4,4,3,8,0,1
-2025-04-26,Super League Greece,2024-25,Atromitos,Aris,1,1,6,5,2,11,1,0
-2025-04-26,Super League Greece,2024-25,OFI Crete,Asteras Tripolis,0,2,7,3,2,10,0,0
-2025-04-27,Super League Greece,2024-25,AEK,Olympiakos,0,2,8,1,2,9,0,0
-2025-04-27,Super League Greece,2024-25,PAOK,Panathinaikos,2,1,8,2,3,10,1,1
-2025-04-28,Super League Greece,2024-25,Levadeiakos,Lamia,0,0,3,3,0,6,0,0
-2025-04-28,Super League Greece,2024-25,Panetolikos,Athens Kallithea,0,1,2,6,1,8,0,0
-2025-04-28,Super League Greece,2024-25,Volos NFC,Panserraikos,3,0,8,4,3,12,0,1
-2025-05-03,Super League Greece,2024-25,Asteras Tripolis,Atromitos,1,4,10,2,5,12,1,1
-2025-05-03,Super League Greece,2024-25,OFI Crete,Aris,1,1,8,1,2,9,1,0
-2025-05-04,Super League Greece,2024-25,Olympiakos,PAOK,4,2,4,4,6,8,1,1
-2025-05-04,Super League Greece,2024-25,AEK,Panathinaikos,1,2,5,2,3,7,1,1
-2025-05-05,Super League Greece,2024-25,Athens Kallithea,Panetolikos,0,0,10,4,0,14,0,0
-2025-05-05,Super League Greece,2024-25,Panserraikos,Volos NFC,3,0,3,4,3,7,0,1
-2025-05-05,Super League Greece,2024-25,Lamia,Levadeiakos,2,3,4,4,5,8,1,1
-2025-05-10,Super League Greece,2024-25,Lamia,Panserraikos,2,1,7,5,3,12,1,1
-2025-05-10,Super League Greece,2024-25,Levadeiakos,Athens Kallithea,4,1,2,9,5,11,1,1
-2025-05-10,Super League Greece,2024-25,Aris,Asteras Tripolis,4,2,2,2,6,4,1,1
-2025-05-10,Super League Greece,2024-25,Atromitos,OFI Crete,0,0,4,4,0,8,0,0
-2025-05-10,Super League Greece,2024-25,Panetolikos,Volos NFC,0,3,3,6,3,9,0,1
-2025-05-11,Super League Greece,2024-25,Panathinaikos,Olympiakos,0,1,8,5,1,13,0,0
-2025-05-11,Super League Greece,2024-25,PAOK,AEK,1,0,3,4,1,7,0,0
-2025-05-14,Super League Greece,2024-25,Athens Kallithea,Panserraikos,1,1,3,2,2,5,1,0
-2025-05-14,Super League Greece,2024-25,Levadeiakos,Panetolikos,1,2,8,5,3,13,1,1
-2025-05-14,Super League Greece,2024-25,Volos NFC,Lamia,3,0,4,0,3,4,0,1
-2025-05-18,Super League Greece,2024-25,Lamia,Panetolikos,1,3,2,4,4,6,1,1
-2025-05-18,Super League Greece,2024-25,Panserraikos,Levadeiakos,0,1,3,5,1,8,0,0
-2025-05-18,Super League Greece,2024-25,Volos NFC,Athens Kallithea,0,2,6,3,2,9,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2024-08-17,Super League Greece,2024-25,PAOK,Panserraikos,3,2,9,1,1,3,0,0,5,10,4,0,1,1
+2024-08-17,Super League Greece,2024-25,Volos NFC,Olympiakos,0,2,3,3,3,2,1,0,2,6,5,1,0,0
+2024-08-18,Super League Greece,2024-25,Levadeiakos,Athens Kallithea,0,0,2,5,3,6,0,0,0,7,9,0,0,0
+2024-08-18,Super League Greece,2024-25,Panathinaikos,Asteras Tripolis,0,1,8,2,3,3,1,0,1,10,6,1,0,0
+2024-08-18,Super League Greece,2024-25,Atromitos,Aris,1,1,3,4,2,3,0,0,2,7,5,0,1,0
+2024-08-18,Super League Greece,2024-25,AEK,OFI Crete,3,0,6,1,3,2,0,0,3,7,5,0,0,1
+2024-08-19,Super League Greece,2024-25,Panetolikos,Lamia,0,1,4,3,2,7,1,1,1,7,9,2,0,0
+2024-08-24,Super League Greece,2024-25,OFI Crete,Atromitos,1,1,4,3,8,6,1,2,2,7,14,3,1,0
+2024-08-24,Super League Greece,2024-25,Panserraikos,Aris,0,1,4,2,4,6,0,0,1,6,10,0,0,0
+2024-08-24,Super League Greece,2024-25,AEK,Lamia,1,1,13,1,1,4,0,0,2,14,5,0,1,0
+2024-08-25,Super League Greece,2024-25,Asteras Tripolis,Volos NFC,0,1,13,0,3,4,0,0,1,13,7,0,0,0
+2024-08-25,Super League Greece,2024-25,PAOK,Panetolikos,2,0,4,1,2,5,0,0,2,5,7,0,0,0
+2024-08-25,Super League Greece,2024-25,Panathinaikos,Levadeiakos,1,0,7,3,2,2,0,0,1,10,4,0,0,0
+2024-08-26,Super League Greece,2024-25,Olympiakos,Athens Kallithea,2,1,7,3,1,2,0,0,3,10,3,0,1,1
+2024-08-31,Super League Greece,2024-25,Panetolikos,Panserraikos,3,0,3,4,4,3,0,0,3,7,7,0,0,1
+2024-08-31,Super League Greece,2024-25,Lamia,Olympiakos,0,3,4,6,2,1,0,0,3,10,3,0,0,1
+2024-08-31,Super League Greece,2024-25,Aris,Asteras Tripolis,1,1,4,3,4,3,0,1,2,7,7,1,1,0
+2024-09-01,Super League Greece,2024-25,Levadeiakos,AEK,0,3,1,6,3,3,0,0,3,7,6,0,0,1
+2024-09-01,Super League Greece,2024-25,Volos NFC,OFI Crete,1,3,7,0,3,2,0,0,4,7,5,0,1,1
+2024-09-01,Super League Greece,2024-25,Atromitos,PAOK,1,2,4,2,4,3,0,0,3,6,7,0,1,1
+2024-09-01,Super League Greece,2024-25,Athens Kallithea,Panathinaikos,2,2,9,3,4,2,0,0,4,12,6,0,1,1
+2024-09-14,Super League Greece,2024-25,Lamia,Athens Kallithea,0,0,1,3,2,2,0,0,0,4,4,0,0,0
+2024-09-14,Super League Greece,2024-25,Asteras Tripolis,Atromitos,1,2,6,1,1,5,0,0,3,7,6,0,1,1
+2024-09-15,Super League Greece,2024-25,Panserraikos,Levadeiakos,2,2,2,5,6,4,0,1,4,7,10,1,1,1
+2024-09-15,Super League Greece,2024-25,Olympiakos,Panetolikos,0,0,8,0,0,2,0,0,0,8,2,0,0,0
+2024-09-15,Super League Greece,2024-25,OFI Crete,Aris,3,2,6,7,3,2,0,0,5,13,5,0,1,1
+2024-09-15,Super League Greece,2024-25,PAOK,Panathinaikos,0,0,6,4,1,3,0,0,0,10,4,0,0,0
+2024-09-16,Super League Greece,2024-25,AEK,Volos NFC,2,0,3,5,2,3,0,0,2,8,5,0,0,0
+2024-09-21,Super League Greece,2024-25,Panetolikos,Asteras Tripolis,1,1,1,3,4,5,0,1,2,4,9,1,1,0
+2024-09-21,Super League Greece,2024-25,Volos NFC,PAOK,1,4,4,5,4,1,1,0,5,9,5,1,1,1
+2024-09-21,Super League Greece,2024-25,Aris,Olympiakos,2,1,3,5,2,4,0,0,3,8,6,0,1,1
+2024-09-22,Super League Greece,2024-25,Levadeiakos,OFI Crete,1,1,4,2,3,3,0,0,2,6,6,0,1,0
+2024-09-22,Super League Greece,2024-25,Panathinaikos,Panserraikos,3,1,7,1,1,4,0,0,4,8,5,0,1,1
+2024-09-22,Super League Greece,2024-25,Atromitos,Lamia,4,2,6,2,1,1,0,0,6,8,2,0,1,1
+2024-09-22,Super League Greece,2024-25,Athens Kallithea,AEK,0,0,2,13,3,5,0,0,0,15,8,0,0,0
+2024-09-28,Super League Greece,2024-25,Volos NFC,Athens Kallithea,1,1,6,4,2,1,0,0,2,10,3,0,1,0
+2024-09-28,Super League Greece,2024-25,Asteras Tripolis,Levadeiakos,1,1,4,3,2,3,0,0,2,7,5,0,1,0
+2024-09-29,Super League Greece,2024-25,OFI Crete,Panetolikos,1,2,4,2,2,4,0,0,3,6,6,0,1,1
+2024-09-29,Super League Greece,2024-25,Olympiakos,Atromitos,2,0,5,5,2,1,0,0,2,10,3,0,0,0
+2024-09-29,Super League Greece,2024-25,PAOK,Aris,0,1,5,5,2,3,0,0,1,10,5,0,0,0
+2024-09-29,Super League Greece,2024-25,AEK,Panathinaikos,2,0,6,1,6,4,0,0,2,7,10,0,0,0
+2024-09-30,Super League Greece,2024-25,Lamia,Panserraikos,1,2,6,5,1,5,1,1,3,11,6,2,1,1
+2024-10-05,Super League Greece,2024-25,Aris,Lamia,2,0,4,1,1,3,0,0,2,5,4,0,0,0
+2024-10-05,Super League Greece,2024-25,Panetolikos,AEK,1,0,4,4,4,4,0,0,1,8,8,0,0,0
+2024-10-05,Super League Greece,2024-25,Atromitos,Volos NFC,1,2,5,1,1,6,1,1,3,6,7,2,1,1
+2024-10-06,Super League Greece,2024-25,Panserraikos,OFI Crete,2,3,7,4,3,2,0,0,5,11,5,0,1,1
+2024-10-06,Super League Greece,2024-25,Athens Kallithea,Asteras Tripolis,1,3,1,1,2,4,1,0,4,2,6,1,1,1
+2024-10-06,Super League Greece,2024-25,Levadeiakos,PAOK,0,2,3,3,5,5,0,0,2,6,10,0,0,0
+2024-10-06,Super League Greece,2024-25,Panathinaikos,Olympiakos,0,0,6,7,3,4,0,0,0,13,7,0,0,0
+2024-10-19,Super League Greece,2024-25,Lamia,Asteras Tripolis,0,0,6,5,2,3,0,0,0,11,5,0,0,0
+2024-10-19,Super League Greece,2024-25,Volos NFC,Panserraikos,0,1,8,5,3,4,0,0,1,13,7,0,0,0
+2024-10-19,Super League Greece,2024-25,Atromitos,Panetolikos,0,2,8,2,1,0,0,0,2,10,1,0,0,0
+2024-10-20,Super League Greece,2024-25,Aris,Athens Kallithea,2,0,10,0,0,0,0,0,2,10,0,0,0,0
+2024-10-20,Super League Greece,2024-25,AEK,PAOK,1,1,5,2,2,1,0,0,2,7,3,0,1,0
+2024-10-20,Super League Greece,2024-25,Olympiakos,Levadeiakos,2,2,7,2,1,7,0,0,4,9,8,0,1,1
+2024-10-20,Super League Greece,2024-25,OFI Crete,Panathinaikos,0,1,3,4,3,3,0,0,1,7,6,0,0,0
+2024-10-26,Super League Greece,2024-25,Panserraikos,AEK,1,0,2,11,2,3,1,0,1,13,5,1,0,0
+2024-10-26,Super League Greece,2024-25,Levadeiakos,Lamia,2,2,3,2,3,1,0,0,4,5,4,0,1,1
+2024-10-26,Super League Greece,2024-25,Panetolikos,Volos NFC,0,1,2,5,7,4,1,0,1,7,11,1,0,0
+2024-10-27,Super League Greece,2024-25,Asteras Tripolis,Olympiakos,1,0,3,8,4,1,0,0,1,11,5,0,0,0
+2024-10-27,Super League Greece,2024-25,Panathinaikos,Aris,1,1,5,2,2,3,0,0,2,7,5,0,1,0
+2024-10-27,Super League Greece,2024-25,PAOK,OFI Crete,1,2,5,4,4,4,0,0,3,9,8,0,1,1
+2024-10-27,Super League Greece,2024-25,Athens Kallithea,Atromitos,0,3,4,7,2,4,0,0,3,11,6,0,0,1
+2024-11-02,Super League Greece,2024-25,Olympiakos,Panserraikos,2,1,8,1,0,2,0,0,3,9,2,0,1,1
+2024-11-02,Super League Greece,2024-25,Athens Kallithea,Panetolikos,1,1,6,5,0,1,0,0,2,11,1,0,1,0
+2024-11-03,Super League Greece,2024-25,Aris,Levadeiakos,3,1,0,5,3,4,0,0,4,5,7,0,1,1
+2024-11-03,Super League Greece,2024-25,Volos NFC,Panathinaikos,0,1,2,6,4,3,1,0,1,8,7,1,0,0
+2024-11-03,Super League Greece,2024-25,Atromitos,AEK,0,1,5,2,1,3,0,0,1,7,4,0,0,0
+2024-11-03,Super League Greece,2024-25,Lamia,PAOK,1,2,1,9,2,1,0,0,3,10,3,0,1,1
+2024-11-04,Super League Greece,2024-25,Asteras Tripolis,OFI Crete,3,0,6,5,3,4,0,0,3,11,7,0,0,1
+2024-11-09,Super League Greece,2024-25,AEK,Asteras Tripolis,3,0,6,0,0,3,0,2,3,6,3,2,0,1
+2024-11-09,Super League Greece,2024-25,Panserraikos,Atromitos,2,3,3,3,4,2,0,0,5,6,6,0,1,1
+2024-11-09,Super League Greece,2024-25,Panetolikos,Aris,2,1,7,4,2,2,0,1,3,11,4,1,1,1
+2024-11-10,Super League Greece,2024-25,OFI Crete,Athens Kallithea,2,2,2,7,2,2,0,0,4,9,4,0,1,1
+2024-11-10,Super League Greece,2024-25,Levadeiakos,Volos NFC,3,2,6,1,2,3,0,0,5,7,5,0,1,1
+2024-11-10,Super League Greece,2024-25,Panathinaikos,Lamia,1,0,7,1,3,4,0,1,1,8,7,1,0,0
+2024-11-10,Super League Greece,2024-25,PAOK,Olympiakos,2,3,4,5,2,1,0,0,5,9,3,0,1,1
+2024-11-22,Super League Greece,2024-25,Athens Kallithea,Panserraikos,1,2,8,1,5,5,1,0,3,9,10,1,1,1
+2024-11-23,Super League Greece,2024-25,Lamia,OFI Crete,1,1,5,6,1,2,0,0,2,11,3,0,1,0
+2024-11-23,Super League Greece,2024-25,Aris,Volos NFC,0,1,3,0,3,4,0,0,1,3,7,0,0,0
+2024-11-24,Super League Greece,2024-25,Panetolikos,Panathinaikos,1,2,2,8,4,3,1,0,3,10,7,1,1,1
+2024-11-24,Super League Greece,2024-25,Asteras Tripolis,PAOK,1,2,4,4,2,1,0,0,3,8,3,0,1,1
+2024-11-24,Super League Greece,2024-25,Olympiakos,AEK,4,1,2,0,3,1,0,1,5,2,4,1,1,1
+2024-11-25,Super League Greece,2024-25,Atromitos,Levadeiakos,2,1,4,6,1,4,0,0,3,10,5,0,1,1
+2024-11-30,Super League Greece,2024-25,Levadeiakos,Panetolikos,1,1,5,0,7,5,1,1,2,5,12,2,1,0
+2024-11-30,Super League Greece,2024-25,AEK,Aris,4,0,7,0,2,3,0,0,4,7,5,0,0,1
+2024-11-30,Super League Greece,2024-25,Volos NFC,Lamia,0,0,6,4,4,3,0,0,0,10,7,0,0,0
+2024-12-01,Super League Greece,2024-25,Panserraikos,Asteras Tripolis,2,1,7,5,2,1,0,0,3,12,3,0,1,1
+2024-12-01,Super League Greece,2024-25,OFI Crete,Olympiakos,0,2,4,6,2,3,0,0,2,10,5,0,0,0
+2024-12-01,Super League Greece,2024-25,PAOK,Athens Kallithea,2,2,7,4,1,5,0,0,4,11,6,0,1,1
+2024-12-01,Super League Greece,2024-25,Panathinaikos,Atromitos,1,1,6,1,1,6,0,0,2,7,7,0,1,0
+2024-12-07,Super League Greece,2024-25,Olympiakos,Volos NFC,3,0,5,1,0,2,0,0,3,6,2,0,0,1
+2024-12-07,Super League Greece,2024-25,Aris,Atromitos,2,1,1,5,3,3,0,0,3,6,6,0,1,1
+2024-12-08,Super League Greece,2024-25,Panserraikos,PAOK,1,4,4,7,3,1,1,0,5,11,4,1,1,1
+2024-12-08,Super League Greece,2024-25,OFI Crete,AEK,1,2,0,14,5,5,1,0,3,14,10,1,1,1
+2024-12-08,Super League Greece,2024-25,Asteras Tripolis,Panathinaikos,0,1,6,9,5,2,0,0,1,15,7,0,0,0
+2024-12-08,Super League Greece,2024-25,Lamia,Panetolikos,0,1,5,1,2,4,0,0,1,6,6,0,0,0
+2024-12-09,Super League Greece,2024-25,Athens Kallithea,Levadeiakos,2,4,6,5,3,8,0,0,6,11,11,0,1,1
+2024-12-14,Super League Greece,2024-25,Volos NFC,Asteras Tripolis,2,1,1,10,4,2,0,0,3,11,6,0,1,1
+2024-12-14,Super League Greece,2024-25,Atromitos,OFI Crete,0,0,4,2,2,4,0,0,0,6,6,0,0,0
+2024-12-14,Super League Greece,2024-25,Lamia,AEK,0,1,2,8,2,2,0,0,1,10,4,0,0,0
+2024-12-15,Super League Greece,2024-25,Aris,Panserraikos,1,0,6,3,6,5,1,0,1,9,11,1,0,0
+2024-12-15,Super League Greece,2024-25,Levadeiakos,Panathinaikos,0,1,1,11,2,1,0,0,1,12,3,0,0,0
+2024-12-15,Super League Greece,2024-25,Panetolikos,PAOK,0,1,3,7,4,3,0,0,1,10,7,0,0,0
+2024-12-16,Super League Greece,2024-25,Athens Kallithea,Olympiakos,1,1,5,4,2,3,0,0,2,9,5,0,1,0
+2024-12-21,Super League Greece,2024-25,Olympiakos,Lamia,1,0,8,0,0,3,0,0,1,8,3,0,0,0
+2024-12-22,Super League Greece,2024-25,Panserraikos,Panetolikos,0,0,4,6,3,1,0,0,0,10,4,0,0,0
+2024-12-22,Super League Greece,2024-25,Panathinaikos,Athens Kallithea,1,0,17,3,5,5,0,1,1,20,10,1,0,0
+2024-12-22,Super League Greece,2024-25,PAOK,Atromitos,3,0,7,6,2,4,0,1,3,13,6,1,0,1
+2024-12-22,Super League Greece,2024-25,AEK,Levadeiakos,1,1,9,2,2,7,0,0,2,11,9,0,1,0
+2024-12-23,Super League Greece,2024-25,Asteras Tripolis,Aris,2,1,1,3,1,3,0,0,3,4,4,0,1,1
+2024-12-23,Super League Greece,2024-25,OFI Crete,Volos NFC,4,0,3,5,6,4,0,1,4,8,10,1,0,1
+2025-01-04,Super League Greece,2024-25,Athens Kallithea,Lamia,2,1,3,4,0,0,0,1,3,7,0,1,1,1
+2025-01-05,Super League Greece,2024-25,Panathinaikos,PAOK,2,1,9,2,1,5,0,1,3,11,6,1,1,1
+2025-01-05,Super League Greece,2024-25,Volos NFC,AEK,2,4,3,5,1,2,0,0,6,8,3,0,1,1
+2025-01-05,Super League Greece,2024-25,Atromitos,Asteras Tripolis,0,1,4,8,2,4,0,0,1,12,6,0,0,0
+2025-01-05,Super League Greece,2024-25,Aris,OFI Crete,0,2,12,2,5,3,2,0,2,14,8,2,0,0
+2025-01-05,Super League Greece,2024-25,Levadeiakos,Panserraikos,1,0,5,4,5,2,1,1,1,9,7,2,0,0
+2025-01-06,Super League Greece,2024-25,Panetolikos,Olympiakos,0,2,0,8,3,1,1,0,2,8,4,1,0,0
+2025-01-11,Super League Greece,2024-25,Olympiakos,Aris,2,1,6,0,2,3,0,1,3,6,5,1,1,1
+2025-01-12,Super League Greece,2024-25,Panserraikos,Panathinaikos,2,2,1,6,5,2,0,1,4,7,7,1,1,1
+2025-01-12,Super League Greece,2024-25,Lamia,Atromitos,0,3,6,1,2,3,0,0,3,7,5,0,0,1
+2025-01-12,Super League Greece,2024-25,PAOK,Volos NFC,1,2,15,3,2,2,0,0,3,18,4,0,1,1
+2025-01-12,Super League Greece,2024-25,AEK,Athens Kallithea,2,0,9,3,2,3,1,0,2,12,5,1,0,0
+2025-01-13,Super League Greece,2024-25,Asteras Tripolis,Panetolikos,2,0,4,4,1,2,0,0,2,8,3,0,0,0
+2025-01-13,Super League Greece,2024-25,OFI Crete,Levadeiakos,0,0,3,5,2,7,0,0,0,8,9,0,0,0
+2025-01-18,Super League Greece,2024-25,Athens Kallithea,Volos NFC,2,0,3,3,3,2,0,0,2,6,5,0,0,0
+2025-01-19,Super League Greece,2024-25,Panathinaikos,AEK,1,0,0,7,4,2,0,0,1,7,6,0,0,0
+2025-01-19,Super League Greece,2024-25,Aris,PAOK,0,0,5,3,1,1,0,0,0,8,2,0,0,0
+2025-01-19,Super League Greece,2024-25,Panetolikos,OFI Crete,1,0,4,4,1,6,0,0,1,8,7,0,0,0
+2025-01-19,Super League Greece,2024-25,Levadeiakos,Asteras Tripolis,1,2,2,5,1,4,0,0,3,7,5,0,1,1
+2025-01-19,Super League Greece,2024-25,Atromitos,Olympiakos,1,2,3,5,1,2,0,0,3,8,3,0,1,1
+2025-01-20,Super League Greece,2024-25,Panserraikos,Lamia,2,0,4,3,2,3,0,0,2,7,5,0,0,0
+2025-01-24,Super League Greece,2024-25,Volos NFC,Atromitos,0,1,4,2,5,3,0,1,1,6,8,1,0,0
+2025-01-25,Super League Greece,2024-25,Asteras Tripolis,Athens Kallithea,1,0,7,3,3,3,0,1,1,10,6,1,0,0
+2025-01-25,Super League Greece,2024-25,OFI Crete,Panserraikos,3,2,9,8,7,3,1,0,5,17,10,1,1,1
+2025-01-25,Super League Greece,2024-25,AEK,Panetolikos,1,0,7,4,1,3,0,0,1,11,4,0,0,0
+2025-01-26,Super League Greece,2024-25,Lamia,Aris,0,2,3,7,1,2,1,0,2,10,3,1,0,0
+2025-01-26,Super League Greece,2024-25,PAOK,Levadeiakos,1,0,10,3,0,4,0,0,1,13,4,0,0,0
+2025-01-26,Super League Greece,2024-25,Olympiakos,Panathinaikos,1,1,2,2,3,7,1,1,2,4,10,2,1,0
+2025-02-01,Super League Greece,2024-25,Panathinaikos,OFI Crete,3,2,13,1,0,0,0,0,5,14,0,0,1,1
+2025-02-01,Super League Greece,2024-25,Panserraikos,Volos NFC,1,1,4,4,6,5,0,0,2,8,11,0,1,0
+2025-02-02,Super League Greece,2024-25,Panetolikos,Atromitos,0,1,0,5,3,2,1,0,1,5,5,1,0,0
+2025-02-02,Super League Greece,2024-25,PAOK,AEK,1,2,3,3,3,8,0,0,3,6,11,0,1,1
+2025-02-02,Super League Greece,2024-25,Athens Kallithea,Aris,0,1,10,4,4,3,0,0,1,14,7,0,0,0
+2025-02-02,Super League Greece,2024-25,Levadeiakos,Olympiakos,0,1,3,6,4,1,0,0,1,9,5,0,0,0
+2025-02-03,Super League Greece,2024-25,Asteras Tripolis,Lamia,1,0,3,4,2,4,1,1,1,7,6,2,0,0
+2025-02-08,Super League Greece,2024-25,Volos NFC,Panetolikos,0,1,7,1,0,0,0,0,1,8,0,0,0,0
+2025-02-08,Super League Greece,2024-25,OFI Crete,PAOK,0,5,4,5,2,3,1,0,5,9,5,1,0,1
+2025-02-09,Super League Greece,2024-25,Olympiakos,Asteras Tripolis,1,1,12,0,3,6,0,0,2,12,9,0,1,0
+2025-02-09,Super League Greece,2024-25,Aris,Panathinaikos,2,0,5,7,3,1,0,0,2,12,4,0,0,0
+2025-02-09,Super League Greece,2024-25,AEK,Panserraikos,5,0,10,1,2,3,0,0,5,11,5,0,0,1
+2025-02-10,Super League Greece,2024-25,Atromitos,Athens Kallithea,1,2,10,6,4,5,0,0,3,16,9,0,1,1
+2025-02-10,Super League Greece,2024-25,Lamia,Levadeiakos,0,2,9,5,5,4,0,0,2,14,9,0,0,0
+2025-02-15,Super League Greece,2024-25,OFI Crete,Asteras Tripolis,2,1,4,4,5,4,1,1,3,8,9,2,1,1
+2025-02-15,Super League Greece,2024-25,AEK,Atromitos,2,1,6,0,3,3,0,0,3,6,6,0,1,1
+2025-02-16,Super League Greece,2024-25,Panetolikos,Athens Kallithea,2,0,6,3,1,2,0,0,2,9,3,0,0,0
+2025-02-16,Super League Greece,2024-25,PAOK,Lamia,7,0,8,3,1,1,0,0,7,11,2,0,0,1
+2025-02-16,Super League Greece,2024-25,Panathinaikos,Volos NFC,2,1,6,3,3,3,0,0,3,9,6,0,1,1
+2025-02-16,Super League Greece,2024-25,Levadeiakos,Aris,4,1,6,3,0,0,0,0,5,9,0,0,1,1
+2025-02-16,Super League Greece,2024-25,Panserraikos,Olympiakos,0,4,0,7,0,1,0,0,4,7,1,0,0,1
+2025-02-22,Super League Greece,2024-25,Athens Kallithea,OFI Crete,1,3,10,3,1,4,0,0,4,13,5,0,1,1
+2025-02-22,Super League Greece,2024-25,Atromitos,Panserraikos,1,0,6,4,1,1,0,0,1,10,2,0,0,0
+2025-02-22,Super League Greece,2024-25,Volos NFC,Levadeiakos,1,2,4,2,5,2,0,0,3,6,7,0,1,1
+2025-02-23,Super League Greece,2024-25,Aris,Panetolikos,2,1,4,6,1,3,0,0,3,10,4,0,1,1
+2025-02-23,Super League Greece,2024-25,Lamia,Panathinaikos,3,1,5,6,2,4,0,0,4,11,6,0,1,1
+2025-02-23,Super League Greece,2024-25,Asteras Tripolis,AEK,0,3,0,2,1,1,1,0,3,2,2,1,0,1
+2025-02-23,Super League Greece,2024-25,Olympiakos,PAOK,2,1,2,3,2,2,0,0,3,5,4,0,1,1
+2025-03-01,Super League Greece,2024-25,Volos NFC,Aris,1,1,8,4,3,3,0,0,2,12,6,0,1,0
+2025-03-01,Super League Greece,2024-25,Panserraikos,Athens Kallithea,2,1,7,3,3,5,0,1,3,10,8,1,1,1
+2025-03-01,Super League Greece,2024-25,Panathinaikos,Panetolikos,2,0,5,4,3,1,0,0,2,9,4,0,0,0
+2025-03-02,Super League Greece,2024-25,AEK,Olympiakos,0,1,1,0,2,4,0,0,1,1,6,0,0,0
+2025-03-02,Super League Greece,2024-25,PAOK,Asteras Tripolis,2,0,5,6,0,3,0,0,2,11,3,0,0,0
+2025-03-02,Super League Greece,2024-25,OFI Crete,Lamia,3,0,5,3,0,1,0,0,3,8,1,0,0,1
+2025-03-02,Super League Greece,2024-25,Levadeiakos,Atromitos,1,2,7,2,2,4,0,0,3,9,6,0,1,1
+2025-03-09,Super League Greece,2024-25,Aris,AEK,0,0,4,3,2,3,0,1,0,7,5,1,0,0
+2025-03-09,Super League Greece,2024-25,Asteras Tripolis,Panserraikos,1,2,6,1,1,4,0,0,3,7,5,0,1,1
+2025-03-09,Super League Greece,2024-25,Athens Kallithea,PAOK,2,1,5,7,3,0,0,0,3,12,3,0,1,1
+2025-03-09,Super League Greece,2024-25,Atromitos,Panathinaikos,1,1,2,3,3,3,0,0,2,5,6,0,1,0
+2025-03-09,Super League Greece,2024-25,Lamia,Volos NFC,1,0,0,8,3,2,0,0,1,8,5,0,0,0
+2025-03-09,Super League Greece,2024-25,Olympiakos,OFI Crete,1,0,9,1,0,3,0,1,1,10,3,1,0,0
+2025-03-09,Super League Greece,2024-25,Panetolikos,Levadeiakos,0,0,4,4,2,3,0,0,0,8,5,0,0,0
+2025-03-29,Super League Greece,2024-25,OFI Crete,Atromitos,1,2,7,2,1,3,0,1,3,9,4,1,1,1
+2025-03-29,Super League Greece,2024-25,Athens Kallithea,Volos NFC,1,1,4,4,7,3,1,0,2,8,10,1,1,0
+2025-03-29,Super League Greece,2024-25,Asteras Tripolis,Aris,0,2,3,3,1,4,1,0,2,6,5,1,0,0
+2025-03-29,Super League Greece,2024-25,Panetolikos,Levadeiakos,1,2,2,4,3,1,0,0,3,6,4,0,1,1
+2025-03-30,Super League Greece,2024-25,Olympiakos,Panathinaikos,4,2,3,0,1,3,0,1,6,3,4,1,1,1
+2025-03-30,Super League Greece,2024-25,Panserraikos,Lamia,1,1,8,3,1,6,0,0,2,11,7,0,1,0
+2025-03-30,Super League Greece,2024-25,AEK,PAOK,2,3,3,1,0,5,0,0,5,4,5,0,1,1
+2025-04-05,Super League Greece,2024-25,Levadeiakos,Panserraikos,3,0,3,5,1,8,0,0,3,8,9,0,0,1
+2025-04-05,Super League Greece,2024-25,Aris,OFI Crete,2,0,9,2,0,1,0,0,2,11,1,0,0,0
+2025-04-05,Super League Greece,2024-25,Lamia,Athens Kallithea,0,2,1,4,3,3,0,0,2,5,6,0,0,0
+2025-04-06,Super League Greece,2024-25,Volos NFC,Panetolikos,0,0,3,2,3,3,0,0,0,5,6,0,0,0
+2025-04-06,Super League Greece,2024-25,PAOK,Olympiakos,2,1,2,5,3,3,1,0,3,7,6,1,1,1
+2025-04-06,Super League Greece,2024-25,Panathinaikos,AEK,3,1,2,14,1,2,0,0,4,16,3,0,1,1
+2025-04-07,Super League Greece,2024-25,Atromitos,Asteras Tripolis,0,1,5,1,2,4,0,0,1,6,6,0,0,0
+2025-04-12,Super League Greece,2024-25,Volos NFC,Levadeiakos,1,0,6,1,5,3,0,0,1,7,8,0,0,0
+2025-04-12,Super League Greece,2024-25,Panetolikos,Lamia,1,0,3,5,1,3,0,0,1,8,4,0,0,0
+2025-04-12,Super League Greece,2024-25,Panserraikos,Athens Kallithea,3,1,5,2,3,3,0,1,4,7,6,1,1,1
+2025-04-13,Super League Greece,2024-25,Olympiakos,AEK,1,0,5,0,2,4,1,1,1,5,6,2,0,0
+2025-04-13,Super League Greece,2024-25,Aris,Atromitos,1,0,7,3,1,3,0,0,1,10,4,0,0,0
+2025-04-13,Super League Greece,2024-25,Asteras Tripolis,OFI Crete,2,1,9,3,3,4,0,0,3,12,7,0,1,1
+2025-04-13,Super League Greece,2024-25,Panathinaikos,PAOK,3,1,4,3,2,5,0,0,4,7,7,0,1,1
+2025-04-23,Super League Greece,2024-25,Lamia,Volos NFC,1,3,0,11,3,1,0,0,4,11,4,0,1,1
+2025-04-23,Super League Greece,2024-25,Panserraikos,Panetolikos,1,1,7,5,2,1,0,1,2,12,3,1,1,0
+2025-04-23,Super League Greece,2024-25,Athens Kallithea,Levadeiakos,0,3,4,4,1,1,0,0,3,8,2,0,0,1
+2025-04-26,Super League Greece,2024-25,Atromitos,Aris,1,1,6,5,1,3,0,0,2,11,4,0,1,0
+2025-04-26,Super League Greece,2024-25,OFI Crete,Asteras Tripolis,0,2,7,3,3,2,0,0,2,10,5,0,0,0
+2025-04-27,Super League Greece,2024-25,AEK,Olympiakos,0,2,8,1,4,2,0,0,2,9,6,0,0,0
+2025-04-27,Super League Greece,2024-25,PAOK,Panathinaikos,2,1,8,2,2,2,0,0,3,10,4,0,1,1
+2025-04-28,Super League Greece,2024-25,Levadeiakos,Lamia,0,0,3,3,2,1,0,0,0,6,3,0,0,0
+2025-04-28,Super League Greece,2024-25,Panetolikos,Athens Kallithea,0,1,2,6,2,5,0,0,1,8,7,0,0,0
+2025-04-28,Super League Greece,2024-25,Volos NFC,Panserraikos,3,0,8,4,3,6,0,0,3,12,9,0,0,1
+2025-05-03,Super League Greece,2024-25,Asteras Tripolis,Atromitos,1,4,10,2,2,2,0,0,5,12,4,0,1,1
+2025-05-03,Super League Greece,2024-25,OFI Crete,Aris,1,1,8,1,2,4,0,0,2,9,6,0,1,0
+2025-05-04,Super League Greece,2024-25,Olympiakos,PAOK,4,2,4,4,1,0,0,0,6,8,1,0,1,1
+2025-05-04,Super League Greece,2024-25,AEK,Panathinaikos,1,2,5,2,5,3,0,0,3,7,8,0,1,1
+2025-05-05,Super League Greece,2024-25,Athens Kallithea,Panetolikos,0,0,10,4,2,2,0,0,0,14,4,0,0,0
+2025-05-05,Super League Greece,2024-25,Panserraikos,Volos NFC,3,0,3,4,3,5,0,1,3,7,8,1,0,1
+2025-05-05,Super League Greece,2024-25,Lamia,Levadeiakos,2,3,4,4,1,3,0,0,5,8,4,0,1,1
+2025-05-10,Super League Greece,2024-25,Lamia,Panserraikos,2,1,7,5,2,3,0,0,3,12,5,0,1,1
+2025-05-10,Super League Greece,2024-25,Levadeiakos,Athens Kallithea,4,1,2,9,1,5,0,1,5,11,6,1,1,1
+2025-05-10,Super League Greece,2024-25,Aris,Asteras Tripolis,4,2,2,2,1,0,0,0,6,4,1,0,1,1
+2025-05-10,Super League Greece,2024-25,Atromitos,OFI Crete,0,0,4,4,2,1,0,0,0,8,3,0,0,0
+2025-05-10,Super League Greece,2024-25,Panetolikos,Volos NFC,0,3,3,6,2,5,0,0,3,9,7,0,0,1
+2025-05-11,Super League Greece,2024-25,Panathinaikos,Olympiakos,0,1,8,5,2,3,0,0,1,13,5,0,0,0
+2025-05-11,Super League Greece,2024-25,PAOK,AEK,1,0,3,4,3,4,0,0,1,7,7,0,0,0
+2025-05-14,Super League Greece,2024-25,Athens Kallithea,Panserraikos,1,1,3,2,3,3,1,0,2,5,6,1,1,0
+2025-05-14,Super League Greece,2024-25,Levadeiakos,Panetolikos,1,2,8,5,5,3,0,0,3,13,8,0,1,1
+2025-05-14,Super League Greece,2024-25,Volos NFC,Lamia,3,0,4,0,3,2,0,0,3,4,5,0,0,1
+2025-05-18,Super League Greece,2024-25,Lamia,Panetolikos,1,3,2,4,5,3,2,0,4,6,8,2,1,1
+2025-05-18,Super League Greece,2024-25,Panserraikos,Levadeiakos,0,1,3,5,0,1,0,0,1,8,1,0,0,0
+2025-05-18,Super League Greece,2024-25,Volos NFC,Athens Kallithea,0,2,6,3,1,3,0,1,2,9,4,1,0,0

@@ -1,229 +1,229 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2023-08-05,Scottish Premiership,2023-24,Celtic,Ross County,4,2,4,8,6,12,1,1
-2023-08-05,Scottish Premiership,2023-24,Dundee,Motherwell,1,1,7,12,2,19,1,0
-2023-08-05,Scottish Premiership,2023-24,Livingston,Aberdeen,0,0,7,7,0,14,0,0
-2023-08-05,Scottish Premiership,2023-24,St Johnstone,Hearts,0,2,6,9,2,15,0,0
-2023-08-05,Scottish Premiership,2023-24,Kilmarnock,Rangers,1,0,2,8,1,10,0,0
-2023-08-06,Scottish Premiership,2023-24,Hibernian,St Mirren,2,3,2,7,5,9,1,1
-2023-08-12,Scottish Premiership,2023-24,Rangers,Livingston,4,0,5,4,4,9,0,1
-2023-08-12,Scottish Premiership,2023-24,Ross County,St Johnstone,2,0,6,7,2,13,0,0
-2023-08-12,Scottish Premiership,2023-24,St Mirren,Dundee,2,1,4,3,3,7,1,1
-2023-08-13,Scottish Premiership,2023-24,Aberdeen,Celtic,1,3,9,9,4,18,1,1
-2023-08-13,Scottish Premiership,2023-24,Hearts,Kilmarnock,0,0,6,5,0,11,0,0
-2023-08-13,Scottish Premiership,2023-24,Motherwell,Hibernian,2,1,5,2,3,7,1,1
-2023-08-26,Scottish Premiership,2023-24,Motherwell,Kilmarnock,2,1,1,6,3,7,1,1
-2023-08-26,Scottish Premiership,2023-24,Hibernian,Livingston,2,3,9,3,5,12,1,1
-2023-08-26,Scottish Premiership,2023-24,Ross County,Rangers,0,2,4,8,2,12,0,0
-2023-08-26,Scottish Premiership,2023-24,Celtic,St Johnstone,0,0,19,1,0,20,0,0
-2023-08-27,Scottish Premiership,2023-24,Dundee,Hearts,1,0,3,8,1,11,0,0
-2023-08-27,Scottish Premiership,2023-24,St Mirren,Aberdeen,2,2,4,3,4,7,1,1
-2023-09-02,Scottish Premiership,2023-24,Kilmarnock,Ross County,0,1,14,2,1,16,0,0
-2023-09-02,Scottish Premiership,2023-24,Livingston,St Mirren,1,1,6,2,2,8,1,0
-2023-09-02,Scottish Premiership,2023-24,St Johnstone,Dundee,2,2,4,6,4,10,1,1
-2023-09-03,Scottish Premiership,2023-24,Rangers,Celtic,0,1,6,2,1,8,0,0
-2023-09-03,Scottish Premiership,2023-24,Aberdeen,Hibernian,0,2,7,5,2,12,0,0
-2023-09-03,Scottish Premiership,2023-24,Hearts,Motherwell,0,1,16,5,1,21,0,0
-2023-09-16,Scottish Premiership,2023-24,Ross County,Livingston,1,1,6,2,2,8,1,0
-2023-09-16,Scottish Premiership,2023-24,Motherwell,St Mirren,0,1,8,3,1,11,0,0
-2023-09-16,Scottish Premiership,2023-24,Kilmarnock,Hibernian,2,2,4,4,4,8,1,1
-2023-09-16,Scottish Premiership,2023-24,Celtic,Dundee,3,0,9,1,3,10,0,1
-2023-09-16,Scottish Premiership,2023-24,St Johnstone,Rangers,0,2,3,5,2,8,0,0
-2023-09-16,Scottish Premiership,2023-24,Hearts,Aberdeen,2,0,9,3,2,12,0,0
-2023-09-23,Scottish Premiership,2023-24,Livingston,Celtic,0,3,2,4,3,6,0,1
-2023-09-23,Scottish Premiership,2023-24,Dundee,Kilmarnock,2,2,4,7,4,11,1,1
-2023-09-23,Scottish Premiership,2023-24,Hibernian,St Johnstone,2,0,4,4,2,8,0,0
-2023-09-23,Scottish Premiership,2023-24,St Mirren,Hearts,1,0,4,8,1,12,0,0
-2023-09-24,Scottish Premiership,2023-24,Aberdeen,Ross County,4,0,5,5,4,10,0,1
-2023-09-24,Scottish Premiership,2023-24,Rangers,Motherwell,1,0,2,2,1,4,0,0
-2023-09-30,Scottish Premiership,2023-24,Ross County,Hearts,0,1,5,5,1,10,0,0
-2023-09-30,Scottish Premiership,2023-24,St Johnstone,Livingston,1,1,5,2,2,7,1,0
-2023-09-30,Scottish Premiership,2023-24,Rangers,Aberdeen,1,3,5,8,4,13,1,1
-2023-09-30,Scottish Premiership,2023-24,Hibernian,Dundee,0,0,14,1,0,15,0,0
-2023-09-30,Scottish Premiership,2023-24,Motherwell,Celtic,1,2,4,6,3,10,1,1
-2023-09-30,Scottish Premiership,2023-24,Kilmarnock,St Mirren,1,1,7,6,2,13,1,0
-2023-10-07,Scottish Premiership,2023-24,Celtic,Kilmarnock,3,1,11,1,4,12,1,1
-2023-10-07,Scottish Premiership,2023-24,Hearts,Hibernian,2,2,7,4,4,11,1,1
-2023-10-07,Scottish Premiership,2023-24,Livingston,Motherwell,2,0,3,5,2,8,0,0
-2023-10-08,Scottish Premiership,2023-24,St Mirren,Rangers,0,3,3,10,3,13,0,1
-2023-10-08,Scottish Premiership,2023-24,Aberdeen,St Johnstone,0,0,5,3,0,8,0,0
-2023-10-21,Scottish Premiership,2023-24,Kilmarnock,Livingston,3,1,5,4,4,9,1,1
-2023-10-21,Scottish Premiership,2023-24,Rangers,Hibernian,4,0,5,4,4,9,0,1
-2023-10-22,Scottish Premiership,2023-24,Hearts,Celtic,1,4,3,5,5,8,1,1
-2023-10-24,Scottish Premiership,2023-24,Dundee,Ross County,0,0,7,4,0,11,0,0
-2023-10-28,Scottish Premiership,2023-24,Livingston,Dundee,0,2,1,5,2,6,0,0
-2023-10-28,Scottish Premiership,2023-24,Motherwell,Ross County,3,3,6,4,6,10,1,1
-2023-10-28,Scottish Premiership,2023-24,Hibernian,Celtic,0,0,3,6,0,9,0,0
-2023-10-28,Scottish Premiership,2023-24,St Mirren,St Johnstone,4,0,4,8,4,12,0,1
-2023-10-29,Scottish Premiership,2023-24,Rangers,Hearts,2,1,11,2,3,13,1,1
-2023-10-29,Scottish Premiership,2023-24,Kilmarnock,Aberdeen,2,0,9,3,2,12,0,0
-2023-10-31,Scottish Premiership,2023-24,Hibernian,Ross County,2,2,5,5,4,10,1,1
-2023-11-01,Scottish Premiership,2023-24,Celtic,St Mirren,2,1,12,2,3,14,1,1
-2023-11-01,Scottish Premiership,2023-24,Dundee,Rangers,0,5,6,7,5,13,0,1
-2023-11-01,Scottish Premiership,2023-24,Hearts,Livingston,1,0,12,1,1,13,0,0
-2023-11-01,Scottish Premiership,2023-24,Motherwell,Aberdeen,2,4,1,4,6,5,1,1
-2023-11-01,Scottish Premiership,2023-24,St Johnstone,Kilmarnock,2,1,5,12,3,17,1,1
-2023-11-04,Scottish Premiership,2023-24,Ross County,Celtic,0,3,2,13,3,15,0,1
-2023-11-04,Scottish Premiership,2023-24,Kilmarnock,Motherwell,1,0,9,3,1,12,0,0
-2023-11-05,Scottish Premiership,2023-24,Dundee,Livingston,1,0,5,12,1,17,0,0
-2023-11-07,Scottish Premiership,2023-24,St Johnstone,Motherwell,2,2,6,7,4,13,1,1
-2023-11-08,Scottish Premiership,2023-24,St Mirren,Hibernian,2,2,3,1,4,4,1,1
-2023-11-11,Scottish Premiership,2023-24,St Johnstone,Ross County,1,0,3,4,1,7,0,0
-2023-11-11,Scottish Premiership,2023-24,Motherwell,Hearts,1,2,4,10,3,14,1,1
-2023-11-11,Scottish Premiership,2023-24,Dundee,St Mirren,4,0,7,4,4,11,0,1
-2023-11-11,Scottish Premiership,2023-24,Hibernian,Kilmarnock,1,0,5,10,1,15,0,0
-2023-11-12,Scottish Premiership,2023-24,Livingston,Rangers,0,2,3,9,2,12,0,0
-2023-11-12,Scottish Premiership,2023-24,Celtic,Aberdeen,6,0,11,0,6,11,0,1
-2023-11-25,Scottish Premiership,2023-24,Celtic,Motherwell,1,1,13,2,2,15,1,0
-2023-11-25,Scottish Premiership,2023-24,Dundee,Hibernian,1,2,7,3,3,10,1,1
-2023-11-25,Scottish Premiership,2023-24,Hearts,St Johnstone,1,0,6,5,1,11,0,0
-2023-11-25,Scottish Premiership,2023-24,Ross County,Kilmarnock,0,0,9,5,0,14,0,0
-2023-11-25,Scottish Premiership,2023-24,St Mirren,Livingston,1,0,7,3,1,10,0,0
-2023-11-26,Scottish Premiership,2023-24,Aberdeen,Rangers,1,1,0,5,2,5,1,0
-2023-11-28,Scottish Premiership,2023-24,Ross County,St Mirren,1,0,7,5,1,12,0,0
-2023-12-02,Scottish Premiership,2023-24,Kilmarnock,Hearts,0,1,7,3,1,10,0,0
-2023-12-02,Scottish Premiership,2023-24,Motherwell,Dundee,3,3,4,4,6,8,1,1
-2023-12-03,Scottish Premiership,2023-24,Rangers,St Mirren,2,0,8,5,2,13,0,0
-2023-12-03,Scottish Premiership,2023-24,Hibernian,Aberdeen,2,0,6,6,2,12,0,0
-2023-12-03,Scottish Premiership,2023-24,St Johnstone,Celtic,1,3,2,12,4,14,1,1
-2023-12-05,Scottish Premiership,2023-24,Ross County,Motherwell,3,0,6,3,3,9,0,1
-2023-12-06,Scottish Premiership,2023-24,Aberdeen,Kilmarnock,0,1,4,5,1,9,0,0
-2023-12-06,Scottish Premiership,2023-24,Celtic,Hibernian,4,1,11,4,5,15,1,1
-2023-12-06,Scottish Premiership,2023-24,St Johnstone,St Mirren,1,0,0,7,1,7,0,0
-2023-12-06,Scottish Premiership,2023-24,Hearts,Rangers,0,1,6,5,1,11,0,0
-2023-12-09,Scottish Premiership,2023-24,Aberdeen,Hearts,2,1,3,8,3,11,1,1
-2023-12-09,Scottish Premiership,2023-24,Livingston,Hibernian,0,1,6,0,1,6,0,0
-2023-12-09,Scottish Premiership,2023-24,Motherwell,St Johnstone,1,1,3,2,2,5,1,0
-2023-12-09,Scottish Premiership,2023-24,Rangers,Dundee,3,1,5,7,4,12,1,1
-2023-12-09,Scottish Premiership,2023-24,St Mirren,Ross County,2,0,10,4,2,14,0,0
-2023-12-10,Scottish Premiership,2023-24,Kilmarnock,Celtic,2,1,5,9,3,14,1,1
-2023-12-16,Scottish Premiership,2023-24,St Mirren,Motherwell,0,0,6,4,0,10,0,0
-2023-12-16,Scottish Premiership,2023-24,St Johnstone,Hibernian,1,0,5,5,1,10,0,0
-2023-12-16,Scottish Premiership,2023-24,Livingston,Kilmarnock,0,0,0,8,0,8,0,0
-2023-12-16,Scottish Premiership,2023-24,Celtic,Hearts,0,2,18,3,2,21,0,0
-2023-12-16,Scottish Premiership,2023-24,Ross County,Dundee,0,1,2,9,1,11,0,0
-2023-12-20,Scottish Premiership,2023-24,Aberdeen,Livingston,2,1,1,3,3,4,1,1
-2023-12-20,Scottish Premiership,2023-24,Rangers,St Johnstone,2,0,10,2,2,12,0,0
-2023-12-23,Scottish Premiership,2023-24,Celtic,Livingston,2,0,14,0,2,14,0,0
-2023-12-23,Scottish Premiership,2023-24,Hearts,St Mirren,2,0,8,6,2,14,0,0
-2023-12-23,Scottish Premiership,2023-24,Kilmarnock,St Johnstone,2,1,5,1,3,6,1,1
-2023-12-24,Scottish Premiership,2023-24,Motherwell,Rangers,0,2,3,5,2,8,0,0
-2023-12-26,Scottish Premiership,2023-24,Dundee,Celtic,0,3,1,23,3,24,0,1
-2023-12-27,Scottish Premiership,2023-24,St Mirren,Kilmarnock,0,1,4,4,1,8,0,0
-2023-12-27,Scottish Premiership,2023-24,Livingston,St Johnstone,0,0,6,3,0,9,0,0
-2023-12-27,Scottish Premiership,2023-24,Hibernian,Hearts,0,1,6,5,1,11,0,0
-2023-12-30,Scottish Premiership,2023-24,Motherwell,Livingston,3,1,4,3,4,7,1,1
-2023-12-30,Scottish Premiership,2023-24,Kilmarnock,Dundee,2,2,7,8,4,15,1,1
-2023-12-30,Scottish Premiership,2023-24,Aberdeen,St Mirren,0,3,13,2,3,15,0,1
-2023-12-30,Scottish Premiership,2023-24,Hearts,Ross County,2,2,9,5,4,14,1,1
-2023-12-30,Scottish Premiership,2023-24,Celtic,Rangers,2,1,4,2,3,6,1,1
-2024-01-02,Scottish Premiership,2023-24,Hibernian,Motherwell,2,2,7,3,4,10,1,1
-2024-01-02,Scottish Premiership,2023-24,Livingston,Hearts,1,2,2,3,3,5,1,1
-2024-01-02,Scottish Premiership,2023-24,Rangers,Kilmarnock,3,1,7,5,4,12,1,1
-2024-01-02,Scottish Premiership,2023-24,Ross County,Aberdeen,0,3,4,5,3,9,0,1
-2024-01-02,Scottish Premiership,2023-24,St Mirren,Celtic,0,3,1,12,3,13,0,1
-2024-01-23,Scottish Premiership,2023-24,Hearts,Dundee,3,2,7,1,5,8,1,1
-2024-01-24,Scottish Premiership,2023-24,Hibernian,Rangers,0,3,4,10,3,14,0,1
-2024-01-24,Scottish Premiership,2023-24,St Johnstone,Aberdeen,1,1,1,4,2,5,1,0
-2024-01-27,Scottish Premiership,2023-24,St Johnstone,Motherwell,1,1,0,6,2,6,1,0
-2024-01-27,Scottish Premiership,2023-24,Livingston,Dundee,1,4,5,3,5,8,1,1
-2024-01-27,Scottish Premiership,2023-24,Kilmarnock,Hibernian,2,2,7,3,4,10,1,1
-2024-01-27,Scottish Premiership,2023-24,Celtic,Ross County,1,0,7,7,1,14,0,0
-2024-01-27,Scottish Premiership,2023-24,St Mirren,Rangers,0,1,4,3,1,7,0,0
-2024-01-27,Scottish Premiership,2023-24,Hearts,Aberdeen,2,0,7,7,2,14,0,0
-2024-01-30,Scottish Premiership,2023-24,Aberdeen,Dundee,1,1,0,3,2,3,1,0
-2024-01-30,Scottish Premiership,2023-24,Livingston,Ross County,2,2,5,3,4,8,1,1
-2024-02-03,Scottish Premiership,2023-24,Aberdeen,Celtic,1,1,1,12,2,13,1,0
-2024-02-03,Scottish Premiership,2023-24,Dundee,Hearts,2,3,8,5,5,13,1,1
-2024-02-03,Scottish Premiership,2023-24,Hibernian,St Mirren,0,3,6,7,3,13,0,1
-2024-02-03,Scottish Premiership,2023-24,Motherwell,Kilmarnock,1,1,6,5,2,11,1,0
-2024-02-03,Scottish Premiership,2023-24,Rangers,Livingston,3,0,14,0,3,14,0,1
-2024-02-03,Scottish Premiership,2023-24,Ross County,St Johnstone,0,1,8,4,1,12,0,0
-2024-02-06,Scottish Premiership,2023-24,Motherwell,Ross County,5,0,3,6,5,9,0,1
-2024-02-06,Scottish Premiership,2023-24,Rangers,Aberdeen,2,1,13,2,3,15,1,1
-2024-02-07,Scottish Premiership,2023-24,St Mirren,Dundee,2,0,6,5,2,11,0,0
-2024-02-07,Scottish Premiership,2023-24,Hibernian,Celtic,1,2,4,5,3,9,1,1
-2024-02-07,Scottish Premiership,2023-24,St Johnstone,Hearts,0,1,2,4,1,6,0,0
-2024-02-07,Scottish Premiership,2023-24,Kilmarnock,Livingston,1,0,9,2,1,11,0,0
-2024-02-11,Scottish Premiership,2023-24,Dundee,St Johnstone,2,1,13,7,3,20,1,1
-2024-02-14,Scottish Premiership,2023-24,Aberdeen,Motherwell,3,3,7,3,6,10,1,1
-2024-02-14,Scottish Premiership,2023-24,Rangers,Ross County,3,1,20,3,4,23,1,1
-2024-02-17,Scottish Premiership,2023-24,Aberdeen,Hibernian,2,2,4,2,4,6,1,1
-2024-02-17,Scottish Premiership,2023-24,Celtic,Kilmarnock,1,1,8,4,2,12,1,0
-2024-02-17,Scottish Premiership,2023-24,Dundee,Ross County,2,0,6,2,2,8,0,0
-2024-02-17,Scottish Premiership,2023-24,Hearts,Motherwell,2,0,9,7,2,16,0,0
-2024-02-17,Scottish Premiership,2023-24,Livingston,St Mirren,1,0,4,9,1,13,0,0
-2024-02-18,Scottish Premiership,2023-24,St Johnstone,Rangers,0,3,3,1,3,4,0,1
-2024-02-24,Scottish Premiership,2023-24,St Mirren,St Johnstone,2,0,5,6,2,11,0,0
-2024-02-24,Scottish Premiership,2023-24,Ross County,Livingston,3,2,6,4,5,10,1,1
-2024-02-24,Scottish Premiership,2023-24,Kilmarnock,Aberdeen,2,0,5,3,2,8,0,0
-2024-02-24,Scottish Premiership,2023-24,Hibernian,Dundee,2,1,10,2,3,12,1,1
-2024-02-24,Scottish Premiership,2023-24,Rangers,Hearts,5,0,4,2,5,6,0,1
-2024-02-25,Scottish Premiership,2023-24,Motherwell,Celtic,1,3,4,4,4,8,1,1
-2024-02-27,Scottish Premiership,2023-24,Ross County,St Mirren,1,1,3,4,2,7,1,0
-2024-02-28,Scottish Premiership,2023-24,Kilmarnock,Rangers,1,2,8,6,3,14,1,1
-2024-02-28,Scottish Premiership,2023-24,Hearts,Hibernian,1,1,4,9,2,13,1,0
-2024-02-28,Scottish Premiership,2023-24,Livingston,Motherwell,1,3,1,4,4,5,1,1
-2024-02-28,Scottish Premiership,2023-24,Aberdeen,St Johnstone,0,2,11,7,2,18,0,0
-2024-02-28,Scottish Premiership,2023-24,Celtic,Dundee,7,1,5,5,8,10,1,1
-2024-03-02,Scottish Premiership,2023-24,Rangers,Motherwell,1,2,15,2,3,17,1,1
-2024-03-02,Scottish Premiership,2023-24,St Johnstone,Livingston,1,1,2,2,2,4,1,0
-2024-03-02,Scottish Premiership,2023-24,Dundee,Kilmarnock,2,2,4,6,4,10,1,1
-2024-03-02,Scottish Premiership,2023-24,Hibernian,Ross County,2,0,8,2,2,10,0,0
-2024-03-02,Scottish Premiership,2023-24,St Mirren,Aberdeen,2,1,3,2,3,5,1,1
-2024-03-03,Scottish Premiership,2023-24,Hearts,Celtic,2,0,7,7,2,14,0,0
-2024-03-13,Scottish Premiership,2023-24,Dundee,Aberdeen,1,0,6,4,1,10,0,0
-2024-03-13,Scottish Premiership,2023-24,Ross County,Hibernian,2,2,2,6,4,8,1,1
-2024-03-16,Scottish Premiership,2023-24,Celtic,St Johnstone,3,1,10,2,4,12,1,1
-2024-03-16,Scottish Premiership,2023-24,Hibernian,Livingston,3,0,3,2,3,5,0,1
-2024-03-16,Scottish Premiership,2023-24,Kilmarnock,St Mirren,5,2,1,3,7,4,1,1
-2024-03-16,Scottish Premiership,2023-24,Motherwell,Aberdeen,0,1,6,6,1,12,0,0
-2024-03-16,Scottish Premiership,2023-24,Ross County,Hearts,2,1,2,15,3,17,1,1
-2024-03-30,Scottish Premiership,2023-24,Aberdeen,Ross County,2,1,2,8,3,10,1,1
-2024-03-30,Scottish Premiership,2023-24,Hearts,Kilmarnock,1,1,7,7,2,14,1,0
-2024-03-30,Scottish Premiership,2023-24,Motherwell,St Mirren,1,1,4,4,2,8,1,0
-2024-03-30,Scottish Premiership,2023-24,Rangers,Hibernian,3,1,9,4,4,13,1,1
-2024-03-30,Scottish Premiership,2023-24,St Johnstone,Dundee,1,2,11,2,3,13,1,1
-2024-03-31,Scottish Premiership,2023-24,Livingston,Celtic,0,3,0,8,3,8,0,1
-2024-04-06,Scottish Premiership,2023-24,St Mirren,Hearts,1,2,8,7,3,15,1,1
-2024-04-06,Scottish Premiership,2023-24,Livingston,Aberdeen,0,0,2,5,0,7,0,0
-2024-04-06,Scottish Premiership,2023-24,Dundee,Motherwell,2,3,3,11,5,14,1,1
-2024-04-06,Scottish Premiership,2023-24,Hibernian,St Johnstone,1,2,13,3,3,16,1,1
-2024-04-06,Scottish Premiership,2023-24,Kilmarnock,Ross County,1,0,4,3,1,7,0,0
-2024-04-07,Scottish Premiership,2023-24,Rangers,Celtic,3,3,3,2,6,5,1,1
-2024-04-13,Scottish Premiership,2023-24,Aberdeen,Dundee,0,0,3,5,0,8,0,0
-2024-04-13,Scottish Premiership,2023-24,Celtic,St Mirren,3,0,11,1,3,12,0,1
-2024-04-13,Scottish Premiership,2023-24,Hearts,Livingston,4,2,5,5,6,10,1,1
-2024-04-13,Scottish Premiership,2023-24,Motherwell,Hibernian,1,1,4,6,2,10,1,0
-2024-04-13,Scottish Premiership,2023-24,St Johnstone,Kilmarnock,0,2,2,6,2,8,0,0
-2024-04-14,Scottish Premiership,2023-24,Ross County,Rangers,3,2,3,17,5,20,1,1
-2024-04-17,Scottish Premiership,2023-24,Dundee,Rangers,0,0,2,9,0,11,0,0
-2024-04-27,Scottish Premiership,2023-24,St Johnstone,Hibernian,1,3,1,7,4,8,1,1
-2024-04-27,Scottish Premiership,2023-24,Livingston,Ross County,2,0,4,5,2,9,0,0
-2024-04-27,Scottish Premiership,2023-24,Aberdeen,Motherwell,1,0,10,7,1,17,0,0
-2024-04-27,Scottish Premiership,2023-24,Kilmarnock,Hearts,0,0,8,4,0,12,0,0
-2024-04-28,Scottish Premiership,2023-24,St Mirren,Rangers,1,2,4,8,3,12,1,1
-2024-04-28,Scottish Premiership,2023-24,Dundee,Celtic,1,2,8,8,3,16,1,1
-2024-05-04,Scottish Premiership,2023-24,Aberdeen,St Johnstone,1,0,7,4,1,11,0,0
-2024-05-04,Scottish Premiership,2023-24,Celtic,Hearts,3,0,17,8,3,25,0,1
-2024-05-04,Scottish Premiership,2023-24,Dundee,St Mirren,1,3,4,8,4,12,1,1
-2024-05-04,Scottish Premiership,2023-24,Motherwell,Livingston,4,1,6,2,5,8,1,1
-2024-05-04,Scottish Premiership,2023-24,Ross County,Hibernian,2,1,5,7,3,12,1,1
-2024-05-05,Scottish Premiership,2023-24,Rangers,Kilmarnock,4,1,16,1,5,17,1,1
-2024-05-11,Scottish Premiership,2023-24,Livingston,St Johnstone,2,1,4,8,3,12,1,1
-2024-05-11,Scottish Premiership,2023-24,St Mirren,Kilmarnock,0,1,8,5,1,13,0,0
-2024-05-11,Scottish Premiership,2023-24,Ross County,Motherwell,1,5,8,5,6,13,1,1
-2024-05-11,Scottish Premiership,2023-24,Hearts,Dundee,3,0,2,5,3,7,0,1
-2024-05-11,Scottish Premiership,2023-24,Celtic,Rangers,2,1,10,5,3,15,1,1
-2024-05-12,Scottish Premiership,2023-24,Hibernian,Aberdeen,0,4,8,3,4,11,0,1
-2024-05-14,Scottish Premiership,2023-24,Rangers,Dundee,5,2,6,5,7,11,1,1
-2024-05-15,Scottish Premiership,2023-24,Kilmarnock,Celtic,0,5,2,9,5,11,0,1
-2024-05-15,Scottish Premiership,2023-24,Aberdeen,Livingston,5,1,6,3,6,9,1,1
-2024-05-15,Scottish Premiership,2023-24,Hibernian,Motherwell,3,0,8,4,3,12,0,1
-2024-05-15,Scottish Premiership,2023-24,St Johnstone,Ross County,1,1,4,4,2,8,1,0
-2024-05-15,Scottish Premiership,2023-24,St Mirren,Hearts,2,2,4,3,4,7,1,1
-2024-05-18,Scottish Premiership,2023-24,Dundee,Kilmarnock,1,1,4,3,2,7,1,0
-2024-05-18,Scottish Premiership,2023-24,Celtic,St Mirren,3,2,11,3,5,14,1,1
-2024-05-18,Scottish Premiership,2023-24,Hearts,Rangers,3,3,2,6,6,8,1,1
-2024-05-19,Scottish Premiership,2023-24,Motherwell,St Johnstone,1,2,7,3,3,10,1,1
-2024-05-19,Scottish Premiership,2023-24,Livingston,Hibernian,1,1,4,9,2,13,1,0
-2024-05-19,Scottish Premiership,2023-24,Ross County,Aberdeen,2,2,3,7,4,10,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2023-08-05,Scottish Premiership,2023-24,Celtic,Ross County,4,2,4,8,0,4,0,0,6,12,4,0,1,1
+2023-08-05,Scottish Premiership,2023-24,Dundee,Motherwell,1,1,7,12,0,2,0,0,2,19,2,0,1,0
+2023-08-05,Scottish Premiership,2023-24,Livingston,Aberdeen,0,0,7,7,3,4,0,0,0,14,7,0,0,0
+2023-08-05,Scottish Premiership,2023-24,St Johnstone,Hearts,0,2,6,9,2,3,0,0,2,15,5,0,0,0
+2023-08-05,Scottish Premiership,2023-24,Kilmarnock,Rangers,1,0,2,8,0,0,0,0,1,10,0,0,0,0
+2023-08-06,Scottish Premiership,2023-24,Hibernian,St Mirren,2,3,2,7,2,2,0,0,5,9,4,0,1,1
+2023-08-12,Scottish Premiership,2023-24,Rangers,Livingston,4,0,5,4,1,1,0,0,4,9,2,0,0,1
+2023-08-12,Scottish Premiership,2023-24,Ross County,St Johnstone,2,0,6,7,2,2,0,0,2,13,4,0,0,0
+2023-08-12,Scottish Premiership,2023-24,St Mirren,Dundee,2,1,4,3,2,3,0,0,3,7,5,0,1,1
+2023-08-13,Scottish Premiership,2023-24,Aberdeen,Celtic,1,3,9,9,0,2,0,0,4,18,2,0,1,1
+2023-08-13,Scottish Premiership,2023-24,Hearts,Kilmarnock,0,0,6,5,3,4,0,0,0,11,7,0,0,0
+2023-08-13,Scottish Premiership,2023-24,Motherwell,Hibernian,2,1,5,2,1,4,0,0,3,7,5,0,1,1
+2023-08-26,Scottish Premiership,2023-24,Motherwell,Kilmarnock,2,1,1,6,6,3,0,0,3,7,9,0,1,1
+2023-08-26,Scottish Premiership,2023-24,Hibernian,Livingston,2,3,9,3,2,4,0,0,5,12,6,0,1,1
+2023-08-26,Scottish Premiership,2023-24,Ross County,Rangers,0,2,4,8,3,1,0,0,2,12,4,0,0,0
+2023-08-26,Scottish Premiership,2023-24,Celtic,St Johnstone,0,0,19,1,1,3,0,0,0,20,4,0,0,0
+2023-08-27,Scottish Premiership,2023-24,Dundee,Hearts,1,0,3,8,1,1,0,0,1,11,2,0,0,0
+2023-08-27,Scottish Premiership,2023-24,St Mirren,Aberdeen,2,2,4,3,2,2,0,0,4,7,4,0,1,1
+2023-09-02,Scottish Premiership,2023-24,Kilmarnock,Ross County,0,1,14,2,0,5,0,0,1,16,5,0,0,0
+2023-09-02,Scottish Premiership,2023-24,Livingston,St Mirren,1,1,6,2,3,1,0,0,2,8,4,0,1,0
+2023-09-02,Scottish Premiership,2023-24,St Johnstone,Dundee,2,2,4,6,3,0,0,0,4,10,3,0,1,1
+2023-09-03,Scottish Premiership,2023-24,Rangers,Celtic,0,1,6,2,1,1,0,0,1,8,2,0,0,0
+2023-09-03,Scottish Premiership,2023-24,Aberdeen,Hibernian,0,2,7,5,2,4,0,0,2,12,6,0,0,0
+2023-09-03,Scottish Premiership,2023-24,Hearts,Motherwell,0,1,16,5,1,2,0,1,1,21,3,1,0,0
+2023-09-16,Scottish Premiership,2023-24,Ross County,Livingston,1,1,6,2,0,3,0,0,2,8,3,0,1,0
+2023-09-16,Scottish Premiership,2023-24,Motherwell,St Mirren,0,1,8,3,0,5,0,0,1,11,5,0,0,0
+2023-09-16,Scottish Premiership,2023-24,Kilmarnock,Hibernian,2,2,4,4,5,4,0,0,4,8,9,0,1,1
+2023-09-16,Scottish Premiership,2023-24,Celtic,Dundee,3,0,9,1,0,0,0,0,3,10,0,0,0,1
+2023-09-16,Scottish Premiership,2023-24,St Johnstone,Rangers,0,2,3,5,5,2,0,0,2,8,7,0,0,0
+2023-09-16,Scottish Premiership,2023-24,Hearts,Aberdeen,2,0,9,3,4,2,0,0,2,12,6,0,0,0
+2023-09-23,Scottish Premiership,2023-24,Livingston,Celtic,0,3,2,4,5,2,0,1,3,6,7,1,0,1
+2023-09-23,Scottish Premiership,2023-24,Dundee,Kilmarnock,2,2,4,7,1,3,1,0,4,11,4,1,1,1
+2023-09-23,Scottish Premiership,2023-24,Hibernian,St Johnstone,2,0,4,4,1,3,0,0,2,8,4,0,0,0
+2023-09-23,Scottish Premiership,2023-24,St Mirren,Hearts,1,0,4,8,2,1,0,0,1,12,3,0,0,0
+2023-09-24,Scottish Premiership,2023-24,Aberdeen,Ross County,4,0,5,5,0,4,0,0,4,10,4,0,0,1
+2023-09-24,Scottish Premiership,2023-24,Rangers,Motherwell,1,0,2,2,2,2,0,0,1,4,4,0,0,0
+2023-09-30,Scottish Premiership,2023-24,Ross County,Hearts,0,1,5,5,3,2,0,0,1,10,5,0,0,0
+2023-09-30,Scottish Premiership,2023-24,St Johnstone,Livingston,1,1,5,2,2,2,1,0,2,7,4,1,1,0
+2023-09-30,Scottish Premiership,2023-24,Rangers,Aberdeen,1,3,5,8,2,1,1,0,4,13,3,1,1,1
+2023-09-30,Scottish Premiership,2023-24,Hibernian,Dundee,0,0,14,1,1,4,0,0,0,15,5,0,0,0
+2023-09-30,Scottish Premiership,2023-24,Motherwell,Celtic,1,2,4,6,3,1,0,0,3,10,4,0,1,1
+2023-09-30,Scottish Premiership,2023-24,Kilmarnock,St Mirren,1,1,7,6,2,3,0,0,2,13,5,0,1,0
+2023-10-07,Scottish Premiership,2023-24,Celtic,Kilmarnock,3,1,11,1,2,2,0,0,4,12,4,0,1,1
+2023-10-07,Scottish Premiership,2023-24,Hearts,Hibernian,2,2,7,4,2,1,0,0,4,11,3,0,1,1
+2023-10-07,Scottish Premiership,2023-24,Livingston,Motherwell,2,0,3,5,1,3,0,1,2,8,4,1,0,0
+2023-10-08,Scottish Premiership,2023-24,St Mirren,Rangers,0,3,3,10,1,2,1,0,3,13,3,1,0,1
+2023-10-08,Scottish Premiership,2023-24,Aberdeen,St Johnstone,0,0,5,3,0,2,0,0,0,8,2,0,0,0
+2023-10-21,Scottish Premiership,2023-24,Kilmarnock,Livingston,3,1,5,4,2,1,0,0,4,9,3,0,1,1
+2023-10-21,Scottish Premiership,2023-24,Rangers,Hibernian,4,0,5,4,1,2,0,0,4,9,3,0,0,1
+2023-10-22,Scottish Premiership,2023-24,Hearts,Celtic,1,4,3,5,2,1,0,0,5,8,3,0,1,1
+2023-10-24,Scottish Premiership,2023-24,Dundee,Ross County,0,0,7,4,1,6,0,0,0,11,7,0,0,0
+2023-10-28,Scottish Premiership,2023-24,Livingston,Dundee,0,2,1,5,0,0,1,0,2,6,0,1,0,0
+2023-10-28,Scottish Premiership,2023-24,Motherwell,Ross County,3,3,6,4,2,2,0,0,6,10,4,0,1,1
+2023-10-28,Scottish Premiership,2023-24,Hibernian,Celtic,0,0,3,6,0,2,0,0,0,9,2,0,0,0
+2023-10-28,Scottish Premiership,2023-24,St Mirren,St Johnstone,4,0,4,8,2,0,0,0,4,12,2,0,0,1
+2023-10-29,Scottish Premiership,2023-24,Rangers,Hearts,2,1,11,2,1,5,0,0,3,13,6,0,1,1
+2023-10-29,Scottish Premiership,2023-24,Kilmarnock,Aberdeen,2,0,9,3,1,3,0,0,2,12,4,0,0,0
+2023-10-31,Scottish Premiership,2023-24,Hibernian,Ross County,2,2,5,5,1,2,0,0,4,10,3,0,1,1
+2023-11-01,Scottish Premiership,2023-24,Celtic,St Mirren,2,1,12,2,2,2,0,0,3,14,4,0,1,1
+2023-11-01,Scottish Premiership,2023-24,Dundee,Rangers,0,5,6,7,4,1,0,0,5,13,5,0,0,1
+2023-11-01,Scottish Premiership,2023-24,Hearts,Livingston,1,0,12,1,2,4,0,0,1,13,6,0,0,0
+2023-11-01,Scottish Premiership,2023-24,Motherwell,Aberdeen,2,4,1,4,6,1,0,0,6,5,7,0,1,1
+2023-11-01,Scottish Premiership,2023-24,St Johnstone,Kilmarnock,2,1,5,12,2,2,1,0,3,17,4,1,1,1
+2023-11-04,Scottish Premiership,2023-24,Ross County,Celtic,0,3,2,13,0,1,1,0,3,15,1,1,0,1
+2023-11-04,Scottish Premiership,2023-24,Kilmarnock,Motherwell,1,0,9,3,2,1,0,0,1,12,3,0,0,0
+2023-11-05,Scottish Premiership,2023-24,Dundee,Livingston,1,0,5,12,2,3,0,0,1,17,5,0,0,0
+2023-11-07,Scottish Premiership,2023-24,St Johnstone,Motherwell,2,2,6,7,1,2,0,0,4,13,3,0,1,1
+2023-11-08,Scottish Premiership,2023-24,St Mirren,Hibernian,2,2,3,1,3,2,0,0,4,4,5,0,1,1
+2023-11-11,Scottish Premiership,2023-24,St Johnstone,Ross County,1,0,3,4,4,3,0,0,1,7,7,0,0,0
+2023-11-11,Scottish Premiership,2023-24,Motherwell,Hearts,1,2,4,10,4,2,0,0,3,14,6,0,1,1
+2023-11-11,Scottish Premiership,2023-24,Dundee,St Mirren,4,0,7,4,1,1,0,0,4,11,2,0,0,1
+2023-11-11,Scottish Premiership,2023-24,Hibernian,Kilmarnock,1,0,5,10,2,5,0,0,1,15,7,0,0,0
+2023-11-12,Scottish Premiership,2023-24,Livingston,Rangers,0,2,3,9,1,1,0,0,2,12,2,0,0,0
+2023-11-12,Scottish Premiership,2023-24,Celtic,Aberdeen,6,0,11,0,0,3,0,0,6,11,3,0,0,1
+2023-11-25,Scottish Premiership,2023-24,Celtic,Motherwell,1,1,13,2,1,4,0,0,2,15,5,0,1,0
+2023-11-25,Scottish Premiership,2023-24,Dundee,Hibernian,1,2,7,3,2,1,0,1,3,10,3,1,1,1
+2023-11-25,Scottish Premiership,2023-24,Hearts,St Johnstone,1,0,6,5,2,2,0,0,1,11,4,0,0,0
+2023-11-25,Scottish Premiership,2023-24,Ross County,Kilmarnock,0,0,9,5,1,0,0,0,0,14,1,0,0,0
+2023-11-25,Scottish Premiership,2023-24,St Mirren,Livingston,1,0,7,3,1,0,0,0,1,10,1,0,0,0
+2023-11-26,Scottish Premiership,2023-24,Aberdeen,Rangers,1,1,0,5,4,1,0,0,2,5,5,0,1,0
+2023-11-28,Scottish Premiership,2023-24,Ross County,St Mirren,1,0,7,5,0,2,0,0,1,12,2,0,0,0
+2023-12-02,Scottish Premiership,2023-24,Kilmarnock,Hearts,0,1,7,3,2,1,0,0,1,10,3,0,0,0
+2023-12-02,Scottish Premiership,2023-24,Motherwell,Dundee,3,3,4,4,3,2,1,0,6,8,5,1,1,1
+2023-12-03,Scottish Premiership,2023-24,Rangers,St Mirren,2,0,8,5,1,3,0,0,2,13,4,0,0,0
+2023-12-03,Scottish Premiership,2023-24,Hibernian,Aberdeen,2,0,6,6,3,2,0,0,2,12,5,0,0,0
+2023-12-03,Scottish Premiership,2023-24,St Johnstone,Celtic,1,3,2,12,2,1,0,0,4,14,3,0,1,1
+2023-12-05,Scottish Premiership,2023-24,Ross County,Motherwell,3,0,6,3,1,2,1,0,3,9,3,1,0,1
+2023-12-06,Scottish Premiership,2023-24,Aberdeen,Kilmarnock,0,1,4,5,3,1,0,0,1,9,4,0,0,0
+2023-12-06,Scottish Premiership,2023-24,Celtic,Hibernian,4,1,11,4,2,2,0,0,5,15,4,0,1,1
+2023-12-06,Scottish Premiership,2023-24,St Johnstone,St Mirren,1,0,0,7,2,1,0,0,1,7,3,0,0,0
+2023-12-06,Scottish Premiership,2023-24,Hearts,Rangers,0,1,6,5,3,1,0,0,1,11,4,0,0,0
+2023-12-09,Scottish Premiership,2023-24,Aberdeen,Hearts,2,1,3,8,3,7,0,0,3,11,10,0,1,1
+2023-12-09,Scottish Premiership,2023-24,Livingston,Hibernian,0,1,6,0,3,1,0,0,1,6,4,0,0,0
+2023-12-09,Scottish Premiership,2023-24,Motherwell,St Johnstone,1,1,3,2,0,0,0,0,2,5,0,0,1,0
+2023-12-09,Scottish Premiership,2023-24,Rangers,Dundee,3,1,5,7,1,3,1,0,4,12,4,1,1,1
+2023-12-09,Scottish Premiership,2023-24,St Mirren,Ross County,2,0,10,4,2,0,0,0,2,14,2,0,0,0
+2023-12-10,Scottish Premiership,2023-24,Kilmarnock,Celtic,2,1,5,9,3,1,0,0,3,14,4,0,1,1
+2023-12-16,Scottish Premiership,2023-24,St Mirren,Motherwell,0,0,6,4,1,1,0,0,0,10,2,0,0,0
+2023-12-16,Scottish Premiership,2023-24,St Johnstone,Hibernian,1,0,5,5,2,3,0,0,1,10,5,0,0,0
+2023-12-16,Scottish Premiership,2023-24,Livingston,Kilmarnock,0,0,0,8,2,1,0,0,0,8,3,0,0,0
+2023-12-16,Scottish Premiership,2023-24,Celtic,Hearts,0,2,18,3,1,0,0,0,2,21,1,0,0,0
+2023-12-16,Scottish Premiership,2023-24,Ross County,Dundee,0,1,2,9,1,2,0,0,1,11,3,0,0,0
+2023-12-20,Scottish Premiership,2023-24,Aberdeen,Livingston,2,1,1,3,0,3,0,0,3,4,3,0,1,1
+2023-12-20,Scottish Premiership,2023-24,Rangers,St Johnstone,2,0,10,2,2,2,0,1,2,12,4,1,0,0
+2023-12-23,Scottish Premiership,2023-24,Celtic,Livingston,2,0,14,0,0,1,0,0,2,14,1,0,0,0
+2023-12-23,Scottish Premiership,2023-24,Hearts,St Mirren,2,0,8,6,2,3,0,0,2,14,5,0,0,0
+2023-12-23,Scottish Premiership,2023-24,Kilmarnock,St Johnstone,2,1,5,1,0,1,0,0,3,6,1,0,1,1
+2023-12-24,Scottish Premiership,2023-24,Motherwell,Rangers,0,2,3,5,3,1,0,0,2,8,4,0,0,0
+2023-12-26,Scottish Premiership,2023-24,Dundee,Celtic,0,3,1,23,1,1,0,0,3,24,2,0,0,1
+2023-12-27,Scottish Premiership,2023-24,St Mirren,Kilmarnock,0,1,4,4,3,2,0,0,1,8,5,0,0,0
+2023-12-27,Scottish Premiership,2023-24,Livingston,St Johnstone,0,0,6,3,2,2,0,0,0,9,4,0,0,0
+2023-12-27,Scottish Premiership,2023-24,Hibernian,Hearts,0,1,6,5,2,3,0,0,1,11,5,0,0,0
+2023-12-30,Scottish Premiership,2023-24,Motherwell,Livingston,3,1,4,3,4,3,0,0,4,7,7,0,1,1
+2023-12-30,Scottish Premiership,2023-24,Kilmarnock,Dundee,2,2,7,8,2,1,0,0,4,15,3,0,1,1
+2023-12-30,Scottish Premiership,2023-24,Aberdeen,St Mirren,0,3,13,2,1,0,0,0,3,15,1,0,0,1
+2023-12-30,Scottish Premiership,2023-24,Hearts,Ross County,2,2,9,5,2,2,0,0,4,14,4,0,1,1
+2023-12-30,Scottish Premiership,2023-24,Celtic,Rangers,2,1,4,2,7,3,0,1,3,6,10,1,1,1
+2024-01-02,Scottish Premiership,2023-24,Hibernian,Motherwell,2,2,7,3,2,2,0,0,4,10,4,0,1,1
+2024-01-02,Scottish Premiership,2023-24,Livingston,Hearts,1,2,2,3,1,3,0,0,3,5,4,0,1,1
+2024-01-02,Scottish Premiership,2023-24,Rangers,Kilmarnock,3,1,7,5,1,3,0,0,4,12,4,0,1,1
+2024-01-02,Scottish Premiership,2023-24,Ross County,Aberdeen,0,3,4,5,4,3,1,0,3,9,7,1,0,1
+2024-01-02,Scottish Premiership,2023-24,St Mirren,Celtic,0,3,1,12,0,0,1,0,3,13,0,1,0,1
+2024-01-23,Scottish Premiership,2023-24,Hearts,Dundee,3,2,7,1,1,6,0,0,5,8,7,0,1,1
+2024-01-24,Scottish Premiership,2023-24,Hibernian,Rangers,0,3,4,10,1,0,0,0,3,14,1,0,0,1
+2024-01-24,Scottish Premiership,2023-24,St Johnstone,Aberdeen,1,1,1,4,4,1,0,0,2,5,5,0,1,0
+2024-01-27,Scottish Premiership,2023-24,St Johnstone,Motherwell,1,1,0,6,2,3,0,0,2,6,5,0,1,0
+2024-01-27,Scottish Premiership,2023-24,Livingston,Dundee,1,4,5,3,0,1,0,1,5,8,1,1,1,1
+2024-01-27,Scottish Premiership,2023-24,Kilmarnock,Hibernian,2,2,7,3,2,1,1,0,4,10,3,1,1,1
+2024-01-27,Scottish Premiership,2023-24,Celtic,Ross County,1,0,7,7,1,1,0,0,1,14,2,0,0,0
+2024-01-27,Scottish Premiership,2023-24,St Mirren,Rangers,0,1,4,3,0,2,0,0,1,7,2,0,0,0
+2024-01-27,Scottish Premiership,2023-24,Hearts,Aberdeen,2,0,7,7,1,2,0,0,2,14,3,0,0,0
+2024-01-30,Scottish Premiership,2023-24,Aberdeen,Dundee,1,1,0,3,2,3,0,0,2,3,5,0,1,0
+2024-01-30,Scottish Premiership,2023-24,Livingston,Ross County,2,2,5,3,1,2,0,0,4,8,3,0,1,1
+2024-02-03,Scottish Premiership,2023-24,Aberdeen,Celtic,1,1,1,12,3,1,0,0,2,13,4,0,1,0
+2024-02-03,Scottish Premiership,2023-24,Dundee,Hearts,2,3,8,5,3,1,0,0,5,13,4,0,1,1
+2024-02-03,Scottish Premiership,2023-24,Hibernian,St Mirren,0,3,6,7,3,3,0,0,3,13,6,0,0,1
+2024-02-03,Scottish Premiership,2023-24,Motherwell,Kilmarnock,1,1,6,5,2,5,0,0,2,11,7,0,1,0
+2024-02-03,Scottish Premiership,2023-24,Rangers,Livingston,3,0,14,0,0,0,0,0,3,14,0,0,0,1
+2024-02-03,Scottish Premiership,2023-24,Ross County,St Johnstone,0,1,8,4,3,1,0,0,1,12,4,0,0,0
+2024-02-06,Scottish Premiership,2023-24,Motherwell,Ross County,5,0,3,6,2,2,0,0,5,9,4,0,0,1
+2024-02-06,Scottish Premiership,2023-24,Rangers,Aberdeen,2,1,13,2,0,2,1,0,3,15,2,1,1,1
+2024-02-07,Scottish Premiership,2023-24,St Mirren,Dundee,2,0,6,5,0,1,1,0,2,11,1,1,0,0
+2024-02-07,Scottish Premiership,2023-24,Hibernian,Celtic,1,2,4,5,4,2,0,0,3,9,6,0,1,1
+2024-02-07,Scottish Premiership,2023-24,St Johnstone,Hearts,0,1,2,4,4,1,0,0,1,6,5,0,0,0
+2024-02-07,Scottish Premiership,2023-24,Kilmarnock,Livingston,1,0,9,2,0,2,0,0,1,11,2,0,0,0
+2024-02-11,Scottish Premiership,2023-24,Dundee,St Johnstone,2,1,13,7,4,3,0,0,3,20,7,0,1,1
+2024-02-14,Scottish Premiership,2023-24,Aberdeen,Motherwell,3,3,7,3,2,4,0,0,6,10,6,0,1,1
+2024-02-14,Scottish Premiership,2023-24,Rangers,Ross County,3,1,20,3,1,3,0,0,4,23,4,0,1,1
+2024-02-17,Scottish Premiership,2023-24,Aberdeen,Hibernian,2,2,4,2,1,3,0,0,4,6,4,0,1,1
+2024-02-17,Scottish Premiership,2023-24,Celtic,Kilmarnock,1,1,8,4,0,3,0,0,2,12,3,0,1,0
+2024-02-17,Scottish Premiership,2023-24,Dundee,Ross County,2,0,6,2,2,2,0,0,2,8,4,0,0,0
+2024-02-17,Scottish Premiership,2023-24,Hearts,Motherwell,2,0,9,7,1,2,0,0,2,16,3,0,0,0
+2024-02-17,Scottish Premiership,2023-24,Livingston,St Mirren,1,0,4,9,1,1,0,0,1,13,2,0,0,0
+2024-02-18,Scottish Premiership,2023-24,St Johnstone,Rangers,0,3,3,1,3,0,0,0,3,4,3,0,0,1
+2024-02-24,Scottish Premiership,2023-24,St Mirren,St Johnstone,2,0,5,6,1,2,0,0,2,11,3,0,0,0
+2024-02-24,Scottish Premiership,2023-24,Ross County,Livingston,3,2,6,4,2,1,0,0,5,10,3,0,1,1
+2024-02-24,Scottish Premiership,2023-24,Kilmarnock,Aberdeen,2,0,5,3,1,0,0,0,2,8,1,0,0,0
+2024-02-24,Scottish Premiership,2023-24,Hibernian,Dundee,2,1,10,2,0,2,0,0,3,12,2,0,1,1
+2024-02-24,Scottish Premiership,2023-24,Rangers,Hearts,5,0,4,2,2,2,0,0,5,6,4,0,0,1
+2024-02-25,Scottish Premiership,2023-24,Motherwell,Celtic,1,3,4,4,1,2,0,0,4,8,3,0,1,1
+2024-02-27,Scottish Premiership,2023-24,Ross County,St Mirren,1,1,3,4,2,2,0,0,2,7,4,0,1,0
+2024-02-28,Scottish Premiership,2023-24,Kilmarnock,Rangers,1,2,8,6,3,2,0,0,3,14,5,0,1,1
+2024-02-28,Scottish Premiership,2023-24,Hearts,Hibernian,1,1,4,9,2,1,0,0,2,13,3,0,1,0
+2024-02-28,Scottish Premiership,2023-24,Livingston,Motherwell,1,3,1,4,1,1,0,0,4,5,2,0,1,1
+2024-02-28,Scottish Premiership,2023-24,Aberdeen,St Johnstone,0,2,11,7,0,4,0,0,2,18,4,0,0,0
+2024-02-28,Scottish Premiership,2023-24,Celtic,Dundee,7,1,5,5,2,1,0,1,8,10,3,1,1,1
+2024-03-02,Scottish Premiership,2023-24,Rangers,Motherwell,1,2,15,2,0,3,0,0,3,17,3,0,1,1
+2024-03-02,Scottish Premiership,2023-24,St Johnstone,Livingston,1,1,2,2,2,2,0,0,2,4,4,0,1,0
+2024-03-02,Scottish Premiership,2023-24,Dundee,Kilmarnock,2,2,4,6,3,4,0,1,4,10,7,1,1,1
+2024-03-02,Scottish Premiership,2023-24,Hibernian,Ross County,2,0,8,2,0,1,0,0,2,10,1,0,0,0
+2024-03-02,Scottish Premiership,2023-24,St Mirren,Aberdeen,2,1,3,2,1,4,0,0,3,5,5,0,1,1
+2024-03-03,Scottish Premiership,2023-24,Hearts,Celtic,2,0,7,7,2,2,0,1,2,14,4,1,0,0
+2024-03-13,Scottish Premiership,2023-24,Dundee,Aberdeen,1,0,6,4,2,1,0,0,1,10,3,0,0,0
+2024-03-13,Scottish Premiership,2023-24,Ross County,Hibernian,2,2,2,6,1,2,0,0,4,8,3,0,1,1
+2024-03-16,Scottish Premiership,2023-24,Celtic,St Johnstone,3,1,10,2,0,3,0,0,4,12,3,0,1,1
+2024-03-16,Scottish Premiership,2023-24,Hibernian,Livingston,3,0,3,2,0,6,0,0,3,5,6,0,0,1
+2024-03-16,Scottish Premiership,2023-24,Kilmarnock,St Mirren,5,2,1,3,3,1,0,0,7,4,4,0,1,1
+2024-03-16,Scottish Premiership,2023-24,Motherwell,Aberdeen,0,1,6,6,1,2,0,0,1,12,3,0,0,0
+2024-03-16,Scottish Premiership,2023-24,Ross County,Hearts,2,1,2,15,2,1,0,0,3,17,3,0,1,1
+2024-03-30,Scottish Premiership,2023-24,Aberdeen,Ross County,2,1,2,8,2,4,0,0,3,10,6,0,1,1
+2024-03-30,Scottish Premiership,2023-24,Hearts,Kilmarnock,1,1,7,7,2,2,0,0,2,14,4,0,1,0
+2024-03-30,Scottish Premiership,2023-24,Motherwell,St Mirren,1,1,4,4,1,1,0,0,2,8,2,0,1,0
+2024-03-30,Scottish Premiership,2023-24,Rangers,Hibernian,3,1,9,4,3,3,0,0,4,13,6,0,1,1
+2024-03-30,Scottish Premiership,2023-24,St Johnstone,Dundee,1,2,11,2,5,1,0,0,3,13,6,0,1,1
+2024-03-31,Scottish Premiership,2023-24,Livingston,Celtic,0,3,0,8,1,0,0,0,3,8,1,0,0,1
+2024-04-06,Scottish Premiership,2023-24,St Mirren,Hearts,1,2,8,7,1,2,0,0,3,15,3,0,1,1
+2024-04-06,Scottish Premiership,2023-24,Livingston,Aberdeen,0,0,2,5,2,0,0,0,0,7,2,0,0,0
+2024-04-06,Scottish Premiership,2023-24,Dundee,Motherwell,2,3,3,11,2,0,0,0,5,14,2,0,1,1
+2024-04-06,Scottish Premiership,2023-24,Hibernian,St Johnstone,1,2,13,3,1,2,0,0,3,16,3,0,1,1
+2024-04-06,Scottish Premiership,2023-24,Kilmarnock,Ross County,1,0,4,3,4,4,0,0,1,7,8,0,0,0
+2024-04-07,Scottish Premiership,2023-24,Rangers,Celtic,3,3,3,2,0,4,0,0,6,5,4,0,1,1
+2024-04-13,Scottish Premiership,2023-24,Aberdeen,Dundee,0,0,3,5,0,3,1,0,0,8,3,1,0,0
+2024-04-13,Scottish Premiership,2023-24,Celtic,St Mirren,3,0,11,1,0,2,0,0,3,12,2,0,0,1
+2024-04-13,Scottish Premiership,2023-24,Hearts,Livingston,4,2,5,5,1,0,0,1,6,10,1,1,1,1
+2024-04-13,Scottish Premiership,2023-24,Motherwell,Hibernian,1,1,4,6,2,4,0,0,2,10,6,0,1,0
+2024-04-13,Scottish Premiership,2023-24,St Johnstone,Kilmarnock,0,2,2,6,0,0,0,0,2,8,0,0,0,0
+2024-04-14,Scottish Premiership,2023-24,Ross County,Rangers,3,2,3,17,3,1,0,0,5,20,4,0,1,1
+2024-04-17,Scottish Premiership,2023-24,Dundee,Rangers,0,0,2,9,1,0,0,0,0,11,1,0,0,0
+2024-04-27,Scottish Premiership,2023-24,St Johnstone,Hibernian,1,3,1,7,0,1,0,0,4,8,1,0,1,1
+2024-04-27,Scottish Premiership,2023-24,Livingston,Ross County,2,0,4,5,1,0,0,0,2,9,1,0,0,0
+2024-04-27,Scottish Premiership,2023-24,Aberdeen,Motherwell,1,0,10,7,1,0,0,1,1,17,1,1,0,0
+2024-04-27,Scottish Premiership,2023-24,Kilmarnock,Hearts,0,0,8,4,4,0,0,0,0,12,4,0,0,0
+2024-04-28,Scottish Premiership,2023-24,St Mirren,Rangers,1,2,4,8,1,1,0,0,3,12,2,0,1,1
+2024-04-28,Scottish Premiership,2023-24,Dundee,Celtic,1,2,8,8,0,1,0,0,3,16,1,0,1,1
+2024-05-04,Scottish Premiership,2023-24,Aberdeen,St Johnstone,1,0,7,4,1,2,0,0,1,11,3,0,0,0
+2024-05-04,Scottish Premiership,2023-24,Celtic,Hearts,3,0,17,8,0,2,0,0,3,25,2,0,0,1
+2024-05-04,Scottish Premiership,2023-24,Dundee,St Mirren,1,3,4,8,2,1,0,0,4,12,3,0,1,1
+2024-05-04,Scottish Premiership,2023-24,Motherwell,Livingston,4,1,6,2,2,0,0,0,5,8,2,0,1,1
+2024-05-04,Scottish Premiership,2023-24,Ross County,Hibernian,2,1,5,7,1,0,0,0,3,12,1,0,1,1
+2024-05-05,Scottish Premiership,2023-24,Rangers,Kilmarnock,4,1,16,1,0,2,0,1,5,17,2,1,1,1
+2024-05-11,Scottish Premiership,2023-24,Livingston,St Johnstone,2,1,4,8,2,1,0,0,3,12,3,0,1,1
+2024-05-11,Scottish Premiership,2023-24,St Mirren,Kilmarnock,0,1,8,5,0,2,0,0,1,13,2,0,0,0
+2024-05-11,Scottish Premiership,2023-24,Ross County,Motherwell,1,5,8,5,3,2,0,0,6,13,5,0,1,1
+2024-05-11,Scottish Premiership,2023-24,Hearts,Dundee,3,0,2,5,0,3,0,0,3,7,3,0,0,1
+2024-05-11,Scottish Premiership,2023-24,Celtic,Rangers,2,1,10,5,3,0,0,1,3,15,3,1,1,1
+2024-05-12,Scottish Premiership,2023-24,Hibernian,Aberdeen,0,4,8,3,2,1,0,0,4,11,3,0,0,1
+2024-05-14,Scottish Premiership,2023-24,Rangers,Dundee,5,2,6,5,0,0,0,0,7,11,0,0,1,1
+2024-05-15,Scottish Premiership,2023-24,Kilmarnock,Celtic,0,5,2,9,2,0,0,0,5,11,2,0,0,1
+2024-05-15,Scottish Premiership,2023-24,Aberdeen,Livingston,5,1,6,3,2,2,0,0,6,9,4,0,1,1
+2024-05-15,Scottish Premiership,2023-24,Hibernian,Motherwell,3,0,8,4,1,1,0,0,3,12,2,0,0,1
+2024-05-15,Scottish Premiership,2023-24,St Johnstone,Ross County,1,1,4,4,1,4,0,0,2,8,5,0,1,0
+2024-05-15,Scottish Premiership,2023-24,St Mirren,Hearts,2,2,4,3,0,0,0,0,4,7,0,0,1,1
+2024-05-18,Scottish Premiership,2023-24,Dundee,Kilmarnock,1,1,4,3,1,3,0,1,2,7,4,1,1,0
+2024-05-18,Scottish Premiership,2023-24,Celtic,St Mirren,3,2,11,3,0,0,0,0,5,14,0,0,1,1
+2024-05-18,Scottish Premiership,2023-24,Hearts,Rangers,3,3,2,6,1,1,0,0,6,8,2,0,1,1
+2024-05-19,Scottish Premiership,2023-24,Motherwell,St Johnstone,1,2,7,3,0,1,0,0,3,10,1,0,1,1
+2024-05-19,Scottish Premiership,2023-24,Livingston,Hibernian,1,1,4,9,0,1,0,0,2,13,1,0,1,0
+2024-05-19,Scottish Premiership,2023-24,Ross County,Aberdeen,2,2,3,7,4,1,0,1,4,10,5,1,1,1

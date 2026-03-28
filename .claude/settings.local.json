@@ -1,7 +1,26 @@
 {
   "permissions": {
     "allow": [
-      "Bash(python update.py)"
+      "Bash(python update.py)",
+      "Bash(python:*)",
+      "Bash(node:*)",
+      "Bash(del \"C:\\\\Users\\\\danbl\\\\Desktop\\\\futbol_data_project\\\\test_syntax.js\" \"C:\\\\Users\\\\danbl\\\\Desktop\\\\futbol_data_project\\\\test_lt.js\" \"C:\\\\Users\\\\danbl\\\\Desktop\\\\futbol_data_project\\\\test_lt_full.js\" \"C:\\\\Users\\\\danbl\\\\Desktop\\\\futbol_data_project\\\\test_lt.html\" \"C:\\\\Users\\\\danbl\\\\Desktop\\\\futbol_data_project\\\\regen_output.txt\")",
+      "Bash(start:*)",
+      "Bash(set PYTHONIOENCODING=utf-8)",
+      "Bash(cmd /c \"set PYTHONIOENCODING=utf-8 && python scripts/07_generar_explorador.py\")",
+      "Bash(cmd /c \"set PYTHONIOENCODING=utf-8 && python scripts/07_generar_explorador.py 2>&1\")",
+      "Bash(ls data_raw/*2526*.csv)",
+      "Bash(ls data_clean/*2526*.csv)",
+      "Bash(cmd /c \"set PYTHONIOENCODING=utf-8 && python update.py\" 2>&1)",
+      "Bash(PYTHONIOENCODING=utf-8 python scripts/02_descargar_datos.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python scripts/03_limpiar_datos.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python scripts/04_insertar_datos.py)",
+      "Bash(PYTHONIOENCODING=utf-8 python scripts/07_generar_explorador.py)",
+      "WebFetch(domain:www.football-data.co.uk)",
+      "Bash(PYTHONIOENCODING=utf-8 python update.py 2>&1)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)"
     ]
   }
 }

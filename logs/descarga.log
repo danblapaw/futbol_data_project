@@ -535,3 +535,683 @@
 2026-03-26 13:22:20,191 | INFO |    ❌ Fallidos : 0
 2026-03-26 13:22:20,191 | INFO |    📁 Carpeta  : C:\Users\danbl\Desktop\futbol_data_project\data_raw
 2026-03-26 13:22:20,191 | INFO | ============================================================
+2026-03-27 13:27:29,683 | INFO | ============================================================
+2026-03-27 13:27:29,685 | INFO | 🚀 Iniciando descarga: 12 ligas × 11 temporadas = 132 archivos
+2026-03-27 13:27:29,685 | INFO | ============================================================
+2026-03-27 13:27:29,685 | INFO | 
+📁 Liga: Premier League (Inglaterra) (E0)
+2026-03-27 13:27:29,685 | INFO |    [1/132] Descargando temporada 2526...
+2026-03-27 13:27:30,645 | INFO |    ✅ Descargado (165.0 KB): E0_2526.csv
+2026-03-27 13:27:31,147 | INFO |    ⏭️  Ya existe, omitiendo: E0_2425.csv
+2026-03-27 13:27:31,147 | INFO |    ⏭️  Ya existe, omitiendo: E0_2324.csv
+2026-03-27 13:27:31,147 | INFO |    ⏭️  Ya existe, omitiendo: E0_2223.csv
+2026-03-27 13:27:31,147 | INFO |    ⏭️  Ya existe, omitiendo: E0_2122.csv
+2026-03-27 13:27:31,147 | INFO |    ⏭️  Ya existe, omitiendo: E0_2021.csv
+2026-03-27 13:27:31,148 | INFO |    ⏭️  Ya existe, omitiendo: E0_1920.csv
+2026-03-27 13:27:31,148 | INFO |    ⏭️  Ya existe, omitiendo: E0_1819.csv
+2026-03-27 13:27:31,148 | INFO |    ⏭️  Ya existe, omitiendo: E0_1718.csv
+2026-03-27 13:27:31,148 | INFO |    ⏭️  Ya existe, omitiendo: E0_1617.csv
+2026-03-27 13:27:31,148 | INFO |    ⏭️  Ya existe, omitiendo: E0_1516.csv
+2026-03-27 13:27:31,148 | INFO | 
+📁 Liga: Championship (Inglaterra D2) (E1)
+2026-03-27 13:27:31,148 | INFO |    [12/132] Descargando temporada 2526...
+2026-03-27 13:27:32,087 | INFO |    ✅ Descargado (248.0 KB): E1_2526.csv
+2026-03-27 13:27:32,591 | INFO |    ⏭️  Ya existe, omitiendo: E1_2425.csv
+2026-03-27 13:27:32,591 | INFO |    ⏭️  Ya existe, omitiendo: E1_2324.csv
+2026-03-27 13:27:32,591 | INFO |    ⏭️  Ya existe, omitiendo: E1_2223.csv
+2026-03-27 13:27:32,591 | INFO |    ⏭️  Ya existe, omitiendo: E1_2122.csv
+2026-03-27 13:27:32,592 | INFO |    ⏭️  Ya existe, omitiendo: E1_2021.csv
+2026-03-27 13:27:32,592 | INFO |    ⏭️  Ya existe, omitiendo: E1_1920.csv
+2026-03-27 13:27:32,592 | INFO |    ⏭️  Ya existe, omitiendo: E1_1819.csv
+2026-03-27 13:27:32,592 | INFO |    ⏭️  Ya existe, omitiendo: E1_1718.csv
+2026-03-27 13:27:32,592 | INFO |    ⏭️  Ya existe, omitiendo: E1_1617.csv
+2026-03-27 13:27:32,592 | INFO |    ⏭️  Ya existe, omitiendo: E1_1516.csv
+2026-03-27 13:27:32,592 | INFO | 
+📁 Liga: La Liga (España) (SP1)
+2026-03-27 13:27:32,592 | INFO |    [23/132] Descargando temporada 2526...
+2026-03-27 13:27:33,413 | INFO |    ✅ Descargado (151.1 KB): SP1_2526.csv
+2026-03-27 13:27:33,917 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2425.csv
+2026-03-27 13:27:33,917 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2324.csv
+2026-03-27 13:27:33,918 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2223.csv
+2026-03-27 13:27:33,918 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2122.csv
+2026-03-27 13:27:33,918 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2021.csv
+2026-03-27 13:27:33,918 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1920.csv
+2026-03-27 13:27:33,919 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1819.csv
+2026-03-27 13:27:33,919 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1718.csv
+2026-03-27 13:27:33,919 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1617.csv
+2026-03-27 13:27:33,919 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1516.csv
+2026-03-27 13:27:33,919 | INFO | 
+📁 Liga: Bundesliga (Alemania) (D1)
+2026-03-27 13:27:33,919 | INFO |    [34/132] Descargando temporada 2526...
+2026-03-27 13:27:34,760 | INFO |    ✅ Descargado (127.1 KB): D1_2526.csv
+2026-03-27 13:27:35,264 | INFO |    ⏭️  Ya existe, omitiendo: D1_2425.csv
+2026-03-27 13:27:35,264 | INFO |    ⏭️  Ya existe, omitiendo: D1_2324.csv
+2026-03-27 13:27:35,265 | INFO |    ⏭️  Ya existe, omitiendo: D1_2223.csv
+2026-03-27 13:27:35,265 | INFO |    ⏭️  Ya existe, omitiendo: D1_2122.csv
+2026-03-27 13:27:35,266 | INFO |    ⏭️  Ya existe, omitiendo: D1_2021.csv
+2026-03-27 13:27:35,266 | INFO |    ⏭️  Ya existe, omitiendo: D1_1920.csv
+2026-03-27 13:27:35,266 | INFO |    ⏭️  Ya existe, omitiendo: D1_1819.csv
+2026-03-27 13:27:35,266 | INFO |    ⏭️  Ya existe, omitiendo: D1_1718.csv
+2026-03-27 13:27:35,266 | INFO |    ⏭️  Ya existe, omitiendo: D1_1617.csv
+2026-03-27 13:27:35,266 | INFO |    ⏭️  Ya existe, omitiendo: D1_1516.csv
+2026-03-27 13:27:35,266 | INFO | 
+📁 Liga: Serie A (Italia) (I1)
+2026-03-27 13:27:35,267 | INFO |    [45/132] Descargando temporada 2526...
+2026-03-27 13:27:36,139 | INFO |    ✅ Descargado (155.2 KB): I1_2526.csv
+2026-03-27 13:27:36,642 | INFO |    ⏭️  Ya existe, omitiendo: I1_2425.csv
+2026-03-27 13:27:36,643 | INFO |    ⏭️  Ya existe, omitiendo: I1_2324.csv
+2026-03-27 13:27:36,643 | INFO |    ⏭️  Ya existe, omitiendo: I1_2223.csv
+2026-03-27 13:27:36,643 | INFO |    ⏭️  Ya existe, omitiendo: I1_2122.csv
+2026-03-27 13:27:36,644 | INFO |    ⏭️  Ya existe, omitiendo: I1_2021.csv
+2026-03-27 13:27:36,644 | INFO |    ⏭️  Ya existe, omitiendo: I1_1920.csv
+2026-03-27 13:27:36,644 | INFO |    ⏭️  Ya existe, omitiendo: I1_1819.csv
+2026-03-27 13:27:36,644 | INFO |    ⏭️  Ya existe, omitiendo: I1_1718.csv
+2026-03-27 13:27:36,645 | INFO |    ⏭️  Ya existe, omitiendo: I1_1617.csv
+2026-03-27 13:27:36,645 | INFO |    ⏭️  Ya existe, omitiendo: I1_1516.csv
+2026-03-27 13:27:36,645 | INFO | 
+📁 Liga: Ligue 1 (Francia) (F1)
+2026-03-27 13:27:36,646 | INFO |    [56/132] Descargando temporada 2526...
+2026-03-27 13:27:37,503 | INFO |    ✅ Descargado (125.4 KB): F1_2526.csv
+2026-03-27 13:27:38,007 | INFO |    ⏭️  Ya existe, omitiendo: F1_2425.csv
+2026-03-27 13:27:38,007 | INFO |    ⏭️  Ya existe, omitiendo: F1_2324.csv
+2026-03-27 13:27:38,008 | INFO |    ⏭️  Ya existe, omitiendo: F1_2223.csv
+2026-03-27 13:27:38,008 | INFO |    ⏭️  Ya existe, omitiendo: F1_2122.csv
+2026-03-27 13:27:38,008 | INFO |    ⏭️  Ya existe, omitiendo: F1_2021.csv
+2026-03-27 13:27:38,008 | INFO |    ⏭️  Ya existe, omitiendo: F1_1920.csv
+2026-03-27 13:27:38,009 | INFO |    ⏭️  Ya existe, omitiendo: F1_1819.csv
+2026-03-27 13:27:38,009 | INFO |    ⏭️  Ya existe, omitiendo: F1_1718.csv
+2026-03-27 13:27:38,009 | INFO |    ⏭️  Ya existe, omitiendo: F1_1617.csv
+2026-03-27 13:27:38,009 | INFO |    ⏭️  Ya existe, omitiendo: F1_1516.csv
+2026-03-27 13:27:38,010 | INFO | 
+📁 Liga: Eredivisie (Holanda) (N1)
+2026-03-27 13:27:38,010 | INFO |    [67/132] Descargando temporada 2526...
+2026-03-27 13:27:38,844 | INFO |    ✅ Descargado (129.9 KB): N1_2526.csv
+2026-03-27 13:27:39,348 | INFO |    ⏭️  Ya existe, omitiendo: N1_2425.csv
+2026-03-27 13:27:39,348 | INFO |    ⏭️  Ya existe, omitiendo: N1_2324.csv
+2026-03-27 13:27:39,348 | INFO |    ⏭️  Ya existe, omitiendo: N1_2223.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_2122.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_2021.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_1920.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_1819.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_1718.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_1617.csv
+2026-03-27 13:27:39,349 | INFO |    ⏭️  Ya existe, omitiendo: N1_1516.csv
+2026-03-27 13:27:39,349 | INFO | 
+📁 Liga: Primeira Liga (Portugal) (P1)
+2026-03-27 13:27:39,349 | INFO |    [78/132] Descargando temporada 2526...
+2026-03-27 13:27:40,169 | INFO |    ✅ Descargado (124.5 KB): P1_2526.csv
+2026-03-27 13:27:40,674 | INFO |    ⏭️  Ya existe, omitiendo: P1_2425.csv
+2026-03-27 13:27:40,674 | INFO |    ⏭️  Ya existe, omitiendo: P1_2324.csv
+2026-03-27 13:27:40,674 | INFO |    ⏭️  Ya existe, omitiendo: P1_2223.csv
+2026-03-27 13:27:40,675 | INFO |    ⏭️  Ya existe, omitiendo: P1_2122.csv
+2026-03-27 13:27:40,675 | INFO |    ⏭️  Ya existe, omitiendo: P1_2021.csv
+2026-03-27 13:27:40,675 | INFO |    ⏭️  Ya existe, omitiendo: P1_1920.csv
+2026-03-27 13:27:40,675 | INFO |    ⏭️  Ya existe, omitiendo: P1_1819.csv
+2026-03-27 13:27:40,675 | INFO |    ⏭️  Ya existe, omitiendo: P1_1718.csv
+2026-03-27 13:27:40,675 | INFO |    ⏭️  Ya existe, omitiendo: P1_1617.csv
+2026-03-27 13:27:40,676 | INFO |    ⏭️  Ya existe, omitiendo: P1_1516.csv
+2026-03-27 13:27:40,676 | INFO | 
+📁 Liga: Scottish Premiership (Escocia) (SC0)
+2026-03-27 13:27:40,676 | INFO |    [89/132] Descargando temporada 2526...
+2026-03-27 13:27:41,522 | INFO |    ✅ Descargado (95.9 KB): SC0_2526.csv
+2026-03-27 13:27:42,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2425.csv
+2026-03-27 13:27:42,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2324.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2223.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2122.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2021.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1920.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1819.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1718.csv
+2026-03-27 13:27:42,027 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1617.csv
+2026-03-27 13:27:42,028 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1516.csv
+2026-03-27 13:27:42,028 | INFO | 
+📁 Liga: First Division A (Bélgica) (B1)
+2026-03-27 13:27:42,028 | INFO |    [100/132] Descargando temporada 2526...
+2026-03-27 13:27:42,838 | INFO |    ✅ Descargado (122.3 KB): B1_2526.csv
+2026-03-27 13:27:43,341 | INFO |    ⏭️  Ya existe, omitiendo: B1_2425.csv
+2026-03-27 13:27:43,341 | INFO |    ⏭️  Ya existe, omitiendo: B1_2324.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_2223.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_2122.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_2021.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_1920.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_1819.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_1718.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_1617.csv
+2026-03-27 13:27:43,342 | INFO |    ⏭️  Ya existe, omitiendo: B1_1516.csv
+2026-03-27 13:27:43,342 | INFO | 
+📁 Liga: Süper Lig (Turquía) (T1)
+2026-03-27 13:27:43,342 | INFO |    [111/132] Descargando temporada 2526...
+2026-03-27 13:27:44,147 | INFO |    ✅ Descargado (124.6 KB): T1_2526.csv
+2026-03-27 13:27:44,650 | INFO |    ⏭️  Ya existe, omitiendo: T1_2425.csv
+2026-03-27 13:27:44,651 | INFO |    ⏭️  Ya existe, omitiendo: T1_2324.csv
+2026-03-27 13:27:44,651 | INFO |    ⏭️  Ya existe, omitiendo: T1_2223.csv
+2026-03-27 13:27:44,651 | INFO |    ⏭️  Ya existe, omitiendo: T1_2122.csv
+2026-03-27 13:27:44,651 | INFO |    ⏭️  Ya existe, omitiendo: T1_2021.csv
+2026-03-27 13:27:44,652 | INFO |    ⏭️  Ya existe, omitiendo: T1_1920.csv
+2026-03-27 13:27:44,652 | INFO |    ⏭️  Ya existe, omitiendo: T1_1819.csv
+2026-03-27 13:27:44,652 | INFO |    ⏭️  Ya existe, omitiendo: T1_1718.csv
+2026-03-27 13:27:44,652 | INFO |    ⏭️  Ya existe, omitiendo: T1_1617.csv
+2026-03-27 13:27:44,652 | INFO |    ⏭️  Ya existe, omitiendo: T1_1516.csv
+2026-03-27 13:27:44,652 | INFO | 
+📁 Liga: Super League (Grecia) (G1)
+2026-03-27 13:27:44,652 | INFO |    [122/132] Descargando temporada 2526...
+2026-03-27 13:27:45,489 | INFO |    ✅ Descargado (89.7 KB): G1_2526.csv
+2026-03-27 13:27:45,993 | INFO |    ⏭️  Ya existe, omitiendo: G1_2425.csv
+2026-03-27 13:27:45,993 | INFO |    ⏭️  Ya existe, omitiendo: G1_2324.csv
+2026-03-27 13:27:45,994 | INFO |    ⏭️  Ya existe, omitiendo: G1_2223.csv
+2026-03-27 13:27:45,994 | INFO |    ⏭️  Ya existe, omitiendo: G1_2122.csv
+2026-03-27 13:27:45,994 | INFO |    ⏭️  Ya existe, omitiendo: G1_2021.csv
+2026-03-27 13:27:45,994 | INFO |    ⏭️  Ya existe, omitiendo: G1_1920.csv
+2026-03-27 13:27:45,994 | INFO |    ⏭️  Ya existe, omitiendo: G1_1819.csv
+2026-03-27 13:27:45,994 | INFO |    ⏭️  Ya existe, omitiendo: G1_1718.csv
+2026-03-27 13:27:45,995 | INFO |    ⏭️  Ya existe, omitiendo: G1_1617.csv
+2026-03-27 13:27:45,995 | INFO |    ⏭️  Ya existe, omitiendo: G1_1516.csv
+2026-03-27 13:27:45,995 | INFO | 
+============================================================
+2026-03-27 13:27:45,995 | INFO | 📊 RESUMEN DE DESCARGA:
+2026-03-27 13:27:45,995 | INFO |    ✅ Exitosos : 12
+2026-03-27 13:27:45,995 | INFO |    ⏭️  Omitidos : 120 (ya existían)
+2026-03-27 13:27:45,995 | INFO |    ❌ Fallidos : 0
+2026-03-27 13:27:45,995 | INFO |    📁 Carpeta  : C:\Users\danbl\Desktop\futbol_data_project\data_raw
+2026-03-27 13:27:45,995 | INFO | ============================================================
+2026-03-28 10:11:43,086 | INFO | ============================================================
+2026-03-28 10:11:43,088 | INFO | 🚀 Iniciando descarga: 12 ligas × 11 temporadas = 132 archivos
+2026-03-28 10:11:43,088 | INFO | ============================================================
+2026-03-28 10:11:43,089 | INFO | 
+📁 Liga: Premier League (Inglaterra) (E0)
+2026-03-28 10:11:43,089 | INFO |    ⏭️  Ya existe, omitiendo: E0_2526.csv
+2026-03-28 10:11:43,089 | INFO |    ⏭️  Ya existe, omitiendo: E0_2425.csv
+2026-03-28 10:11:43,089 | INFO |    ⏭️  Ya existe, omitiendo: E0_2324.csv
+2026-03-28 10:11:43,089 | INFO |    ⏭️  Ya existe, omitiendo: E0_2223.csv
+2026-03-28 10:11:43,089 | INFO |    ⏭️  Ya existe, omitiendo: E0_2122.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E0_2021.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E0_1920.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E0_1819.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E0_1718.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E0_1617.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E0_1516.csv
+2026-03-28 10:11:43,090 | INFO | 
+📁 Liga: Championship (Inglaterra D2) (E1)
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E1_2526.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E1_2425.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E1_2324.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E1_2223.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E1_2122.csv
+2026-03-28 10:11:43,090 | INFO |    ⏭️  Ya existe, omitiendo: E1_2021.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: E1_1920.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: E1_1819.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: E1_1718.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: E1_1617.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: E1_1516.csv
+2026-03-28 10:11:43,091 | INFO | 
+📁 Liga: La Liga (España) (SP1)
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2526.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2425.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2324.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2223.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2122.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2021.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1920.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1819.csv
+2026-03-28 10:11:43,091 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1718.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1617.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1516.csv
+2026-03-28 10:11:43,092 | INFO | 
+📁 Liga: Bundesliga (Alemania) (D1)
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_2526.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_2425.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_2324.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_2223.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_2122.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_2021.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_1920.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_1819.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_1718.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_1617.csv
+2026-03-28 10:11:43,092 | INFO |    ⏭️  Ya existe, omitiendo: D1_1516.csv
+2026-03-28 10:11:43,092 | INFO | 
+📁 Liga: Serie A (Italia) (I1)
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_2526.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_2425.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_2324.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_2223.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_2122.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_2021.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_1920.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_1819.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_1718.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_1617.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: I1_1516.csv
+2026-03-28 10:11:43,093 | INFO | 
+📁 Liga: Ligue 1 (Francia) (F1)
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: F1_2526.csv
+2026-03-28 10:11:43,093 | INFO |    ⏭️  Ya existe, omitiendo: F1_2425.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_2324.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_2223.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_2122.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_2021.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_1920.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_1819.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_1718.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_1617.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: F1_1516.csv
+2026-03-28 10:11:43,094 | INFO | 
+📁 Liga: Eredivisie (Holanda) (N1)
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: N1_2526.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: N1_2425.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: N1_2324.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: N1_2223.csv
+2026-03-28 10:11:43,094 | INFO |    ⏭️  Ya existe, omitiendo: N1_2122.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: N1_2021.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: N1_1920.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: N1_1819.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: N1_1718.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: N1_1617.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: N1_1516.csv
+2026-03-28 10:11:43,095 | INFO | 
+📁 Liga: Primeira Liga (Portugal) (P1)
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_2526.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_2425.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_2324.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_2223.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_2122.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_2021.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_1920.csv
+2026-03-28 10:11:43,095 | INFO |    ⏭️  Ya existe, omitiendo: P1_1819.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: P1_1718.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: P1_1617.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: P1_1516.csv
+2026-03-28 10:11:43,096 | INFO | 
+📁 Liga: Scottish Premiership (Escocia) (SC0)
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2526.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2425.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2324.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2223.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2122.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2021.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1920.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1819.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1718.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1617.csv
+2026-03-28 10:11:43,096 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1516.csv
+2026-03-28 10:11:43,097 | INFO | 
+📁 Liga: First Division A (Bélgica) (B1)
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_2526.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_2425.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_2324.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_2223.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_2122.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_2021.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_1920.csv
+2026-03-28 10:11:43,097 | INFO |    ⏭️  Ya existe, omitiendo: B1_1819.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: B1_1718.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: B1_1617.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: B1_1516.csv
+2026-03-28 10:11:43,098 | INFO | 
+📁 Liga: Süper Lig (Turquía) (T1)
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_2526.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_2425.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_2324.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_2223.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_2122.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_2021.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_1920.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_1819.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_1718.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_1617.csv
+2026-03-28 10:11:43,098 | INFO |    ⏭️  Ya existe, omitiendo: T1_1516.csv
+2026-03-28 10:11:43,098 | INFO | 
+📁 Liga: Super League (Grecia) (G1)
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_2526.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_2425.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_2324.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_2223.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_2122.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_2021.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_1920.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_1819.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_1718.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_1617.csv
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Ya existe, omitiendo: G1_1516.csv
+2026-03-28 10:11:43,099 | INFO | 
+============================================================
+2026-03-28 10:11:43,099 | INFO | 📊 RESUMEN DE DESCARGA:
+2026-03-28 10:11:43,099 | INFO |    ✅ Exitosos : 0
+2026-03-28 10:11:43,099 | INFO |    ⏭️  Omitidos : 132 (ya existían)
+2026-03-28 10:11:43,099 | INFO |    ❌ Fallidos : 0
+2026-03-28 10:11:43,100 | INFO |    📁 Carpeta  : C:\Users\danbl\Desktop\futbol_data_project\data_raw
+2026-03-28 10:11:43,100 | INFO | ============================================================
+2026-03-28 20:06:24,024 | INFO | ============================================================
+2026-03-28 20:06:24,024 | INFO | 🚀 Iniciando descarga: 12 ligas × 11 temporadas = 132 archivos
+2026-03-28 20:06:24,025 | INFO | ============================================================
+2026-03-28 20:06:24,025 | INFO | 
+📁 Liga: Premier League (Inglaterra) (E0)
+2026-03-28 20:06:24,025 | INFO |    ⏭️  Ya existe, omitiendo: E0_2526.csv
+2026-03-28 20:06:24,025 | INFO |    ⏭️  Ya existe, omitiendo: E0_2425.csv
+2026-03-28 20:06:24,025 | INFO |    ⏭️  Ya existe, omitiendo: E0_2324.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_2223.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_2122.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_2021.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_1920.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_1819.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_1718.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_1617.csv
+2026-03-28 20:06:24,026 | INFO |    ⏭️  Ya existe, omitiendo: E0_1516.csv
+2026-03-28 20:06:24,026 | INFO | 
+📁 Liga: Championship (Inglaterra D2) (E1)
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_2526.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_2425.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_2324.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_2223.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_2122.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_2021.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_1920.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_1819.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_1718.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_1617.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: E1_1516.csv
+2026-03-28 20:06:24,027 | INFO | 
+📁 Liga: La Liga (España) (SP1)
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2526.csv
+2026-03-28 20:06:24,027 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2425.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2324.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2223.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2122.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2021.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1920.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1819.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1718.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1617.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1516.csv
+2026-03-28 20:06:24,028 | INFO | 
+📁 Liga: Bundesliga (Alemania) (D1)
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: D1_2526.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: D1_2425.csv
+2026-03-28 20:06:24,028 | INFO |    ⏭️  Ya existe, omitiendo: D1_2324.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_2223.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_2122.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_2021.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_1920.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_1819.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_1718.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_1617.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: D1_1516.csv
+2026-03-28 20:06:24,029 | INFO | 
+📁 Liga: Serie A (Italia) (I1)
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: I1_2526.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: I1_2425.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: I1_2324.csv
+2026-03-28 20:06:24,029 | INFO |    ⏭️  Ya existe, omitiendo: I1_2223.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_2122.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_2021.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_1920.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_1819.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_1718.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_1617.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: I1_1516.csv
+2026-03-28 20:06:24,030 | INFO | 
+📁 Liga: Ligue 1 (Francia) (F1)
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: F1_2526.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: F1_2425.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: F1_2324.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: F1_2223.csv
+2026-03-28 20:06:24,030 | INFO |    ⏭️  Ya existe, omitiendo: F1_2122.csv
+2026-03-28 20:06:24,031 | INFO |    ⏭️  Ya existe, omitiendo: F1_2021.csv
+2026-03-28 20:06:24,031 | INFO |    ⏭️  Ya existe, omitiendo: F1_1920.csv
+2026-03-28 20:06:24,031 | INFO |    ⏭️  Ya existe, omitiendo: F1_1819.csv
+2026-03-28 20:06:24,031 | INFO |    ⏭️  Ya existe, omitiendo: F1_1718.csv
+2026-03-28 20:06:24,031 | INFO |    ⏭️  Ya existe, omitiendo: F1_1617.csv
+2026-03-28 20:06:24,031 | INFO |    ⏭️  Ya existe, omitiendo: F1_1516.csv
+2026-03-28 20:06:24,031 | INFO | 
+📁 Liga: Eredivisie (Holanda) (N1)
+2026-03-28 20:06:24,032 | INFO |    ⏭️  Ya existe, omitiendo: N1_2526.csv
+2026-03-28 20:06:24,032 | INFO |    ⏭️  Ya existe, omitiendo: N1_2425.csv
+2026-03-28 20:06:24,033 | INFO |    ⏭️  Ya existe, omitiendo: N1_2324.csv
+2026-03-28 20:06:24,033 | INFO |    ⏭️  Ya existe, omitiendo: N1_2223.csv
+2026-03-28 20:06:24,033 | INFO |    ⏭️  Ya existe, omitiendo: N1_2122.csv
+2026-03-28 20:06:24,033 | INFO |    ⏭️  Ya existe, omitiendo: N1_2021.csv
+2026-03-28 20:06:24,034 | INFO |    ⏭️  Ya existe, omitiendo: N1_1920.csv
+2026-03-28 20:06:24,034 | INFO |    ⏭️  Ya existe, omitiendo: N1_1819.csv
+2026-03-28 20:06:24,034 | INFO |    ⏭️  Ya existe, omitiendo: N1_1718.csv
+2026-03-28 20:06:24,034 | INFO |    ⏭️  Ya existe, omitiendo: N1_1617.csv
+2026-03-28 20:06:24,034 | INFO |    ⏭️  Ya existe, omitiendo: N1_1516.csv
+2026-03-28 20:06:24,034 | INFO | 
+📁 Liga: Primeira Liga (Portugal) (P1)
+2026-03-28 20:06:24,034 | INFO |    ⏭️  Ya existe, omitiendo: P1_2526.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_2425.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_2324.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_2223.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_2122.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_2021.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_1920.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_1819.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_1718.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_1617.csv
+2026-03-28 20:06:24,035 | INFO |    ⏭️  Ya existe, omitiendo: P1_1516.csv
+2026-03-28 20:06:24,036 | INFO | 
+📁 Liga: Scottish Premiership (Escocia) (SC0)
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2526.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2425.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2324.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2223.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2122.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2021.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1920.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1819.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1718.csv
+2026-03-28 20:06:24,036 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1617.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1516.csv
+2026-03-28 20:06:24,037 | INFO | 
+📁 Liga: First Division A (Bélgica) (B1)
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_2526.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_2425.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_2324.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_2223.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_2122.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_2021.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_1920.csv
+2026-03-28 20:06:24,037 | INFO |    ⏭️  Ya existe, omitiendo: B1_1819.csv
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: B1_1718.csv
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: B1_1617.csv
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: B1_1516.csv
+2026-03-28 20:06:24,038 | INFO | 
+📁 Liga: Süper Lig (Turquía) (T1)
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: T1_2526.csv
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: T1_2425.csv
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: T1_2324.csv
+2026-03-28 20:06:24,038 | INFO |    ⏭️  Ya existe, omitiendo: T1_2223.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_2122.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_2021.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_1920.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_1819.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_1718.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_1617.csv
+2026-03-28 20:06:24,039 | INFO |    ⏭️  Ya existe, omitiendo: T1_1516.csv
+2026-03-28 20:06:24,039 | INFO | 
+📁 Liga: Super League (Grecia) (G1)
+2026-03-28 20:06:24,040 | INFO |    ⏭️  Ya existe, omitiendo: G1_2526.csv
+2026-03-28 20:06:24,040 | INFO |    ⏭️  Ya existe, omitiendo: G1_2425.csv
+2026-03-28 20:06:24,040 | INFO |    ⏭️  Ya existe, omitiendo: G1_2324.csv
+2026-03-28 20:06:24,040 | INFO |    ⏭️  Ya existe, omitiendo: G1_2223.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_2122.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_2021.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_1920.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_1819.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_1718.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_1617.csv
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Ya existe, omitiendo: G1_1516.csv
+2026-03-28 20:06:24,041 | INFO | 
+============================================================
+2026-03-28 20:06:24,041 | INFO | 📊 RESUMEN DE DESCARGA:
+2026-03-28 20:06:24,041 | INFO |    ✅ Exitosos : 0
+2026-03-28 20:06:24,041 | INFO |    ⏭️  Omitidos : 132 (ya existían)
+2026-03-28 20:06:24,041 | INFO |    ❌ Fallidos : 0
+2026-03-28 20:06:24,041 | INFO |    📁 Carpeta  : C:\Users\danbl\Desktop\futbol_data_project\data_raw
+2026-03-28 20:06:24,042 | INFO | ============================================================
+2026-03-28 20:08:30,017 | INFO | ============================================================
+2026-03-28 20:08:30,017 | INFO | 🚀 Iniciando descarga: 12 ligas × 11 temporadas = 132 archivos
+2026-03-28 20:08:30,017 | INFO | ============================================================
+2026-03-28 20:08:30,017 | INFO | 
+📁 Liga: Premier League (Inglaterra) (E0)
+2026-03-28 20:08:30,017 | INFO |    ⏭️  Ya existe, omitiendo: E0_2526.csv
+2026-03-28 20:08:30,017 | INFO |    ⏭️  Ya existe, omitiendo: E0_2425.csv
+2026-03-28 20:08:30,017 | INFO |    ⏭️  Ya existe, omitiendo: E0_2324.csv
+2026-03-28 20:08:30,017 | INFO |    ⏭️  Ya existe, omitiendo: E0_2223.csv
+2026-03-28 20:08:30,017 | INFO |    ⏭️  Ya existe, omitiendo: E0_2122.csv
+2026-03-28 20:08:30,017 | INFO |    ⏭️  Ya existe, omitiendo: E0_2021.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E0_1920.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E0_1819.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E0_1718.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E0_1617.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E0_1516.csv
+2026-03-28 20:08:30,018 | INFO | 
+📁 Liga: Championship (Inglaterra D2) (E1)
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_2526.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_2425.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_2324.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_2223.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_2122.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_2021.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_1920.csv
+2026-03-28 20:08:30,018 | INFO |    ⏭️  Ya existe, omitiendo: E1_1819.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: E1_1718.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: E1_1617.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: E1_1516.csv
+2026-03-28 20:08:30,019 | INFO | 
+📁 Liga: La Liga (España) (SP1)
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2526.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2425.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2324.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2223.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2122.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_2021.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1920.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1819.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1718.csv
+2026-03-28 20:08:30,019 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1617.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: SP1_1516.csv
+2026-03-28 20:08:30,020 | INFO | 
+📁 Liga: Bundesliga (Alemania) (D1)
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_2526.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_2425.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_2324.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_2223.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_2122.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_2021.csv
+2026-03-28 20:08:30,020 | INFO |    ⏭️  Ya existe, omitiendo: D1_1920.csv
+2026-03-28 20:08:30,021 | INFO |    ⏭️  Ya existe, omitiendo: D1_1819.csv
+2026-03-28 20:08:30,021 | INFO |    ⏭️  Ya existe, omitiendo: D1_1718.csv
+2026-03-28 20:08:30,021 | INFO |    ⏭️  Ya existe, omitiendo: D1_1617.csv
+2026-03-28 20:08:30,021 | INFO |    ⏭️  Ya existe, omitiendo: D1_1516.csv
+2026-03-28 20:08:30,022 | INFO | 
+📁 Liga: Serie A (Italia) (I1)
+2026-03-28 20:08:30,022 | INFO |    ⏭️  Ya existe, omitiendo: I1_2526.csv
+2026-03-28 20:08:30,022 | INFO |    ⏭️  Ya existe, omitiendo: I1_2425.csv
+2026-03-28 20:08:30,022 | INFO |    ⏭️  Ya existe, omitiendo: I1_2324.csv
+2026-03-28 20:08:30,022 | INFO |    ⏭️  Ya existe, omitiendo: I1_2223.csv
+2026-03-28 20:08:30,022 | INFO |    ⏭️  Ya existe, omitiendo: I1_2122.csv
+2026-03-28 20:08:30,022 | INFO |    ⏭️  Ya existe, omitiendo: I1_2021.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: I1_1920.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: I1_1819.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: I1_1718.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: I1_1617.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: I1_1516.csv
+2026-03-28 20:08:30,023 | INFO | 
+📁 Liga: Ligue 1 (Francia) (F1)
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: F1_2526.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: F1_2425.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: F1_2324.csv
+2026-03-28 20:08:30,023 | INFO |    ⏭️  Ya existe, omitiendo: F1_2223.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_2122.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_2021.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_1920.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_1819.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_1718.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_1617.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: F1_1516.csv
+2026-03-28 20:08:30,024 | INFO | 
+📁 Liga: Eredivisie (Holanda) (N1)
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: N1_2526.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: N1_2425.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: N1_2324.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: N1_2223.csv
+2026-03-28 20:08:30,024 | INFO |    ⏭️  Ya existe, omitiendo: N1_2122.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: N1_2021.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: N1_1920.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: N1_1819.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: N1_1718.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: N1_1617.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: N1_1516.csv
+2026-03-28 20:08:30,025 | INFO | 
+📁 Liga: Primeira Liga (Portugal) (P1)
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_2526.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_2425.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_2324.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_2223.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_2122.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_2021.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_1920.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_1819.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_1718.csv
+2026-03-28 20:08:30,025 | INFO |    ⏭️  Ya existe, omitiendo: P1_1617.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: P1_1516.csv
+2026-03-28 20:08:30,026 | INFO | 
+📁 Liga: Scottish Premiership (Escocia) (SC0)
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2526.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2425.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2324.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2223.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2122.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_2021.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1920.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1819.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1718.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1617.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: SC0_1516.csv
+2026-03-28 20:08:30,026 | INFO | 
+📁 Liga: First Division A (Bélgica) (B1)
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: B1_2526.csv
+2026-03-28 20:08:30,026 | INFO |    ⏭️  Ya existe, omitiendo: B1_2425.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_2324.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_2223.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_2122.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_2021.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_1920.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_1819.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_1718.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_1617.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: B1_1516.csv
+2026-03-28 20:08:30,027 | INFO | 
+📁 Liga: Süper Lig (Turquía) (T1)
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_2526.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_2425.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_2324.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_2223.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_2122.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_2021.csv
+2026-03-28 20:08:30,027 | INFO |    ⏭️  Ya existe, omitiendo: T1_1920.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: T1_1819.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: T1_1718.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: T1_1617.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: T1_1516.csv
+2026-03-28 20:08:30,028 | INFO | 
+📁 Liga: Super League (Grecia) (G1)
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_2526.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_2425.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_2324.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_2223.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_2122.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_2021.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_1920.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_1819.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_1718.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_1617.csv
+2026-03-28 20:08:30,028 | INFO |    ⏭️  Ya existe, omitiendo: G1_1516.csv
+2026-03-28 20:08:30,028 | INFO | 
+============================================================
+2026-03-28 20:08:30,029 | INFO | 📊 RESUMEN DE DESCARGA:
+2026-03-28 20:08:30,029 | INFO |    ✅ Exitosos : 0
+2026-03-28 20:08:30,029 | INFO |    ⏭️  Omitidos : 132 (ya existían)
+2026-03-28 20:08:30,029 | INFO |    ❌ Fallidos : 0
+2026-03-28 20:08:30,029 | INFO |    📁 Carpeta  : C:\Users\danbl\Desktop\futbol_data_project\data_raw
+2026-03-28 20:08:30,029 | INFO | ============================================================

@@ -208,3 +208,1088 @@
 2026-03-26 13:22:53,270 | INFO |    ⏭️  Duplicados omitidos   : 18,011
 2026-03-26 13:22:53,270 | INFO |    🗄️  Total en base de datos: 43,521
 2026-03-26 13:22:53,270 | INFO | ============================================================
+2026-03-27 13:45:31,592 | INFO | 
+🚀 Insertando datos de 136 archivos...
+2026-03-27 13:45:31,593 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-27 13:45:31,597 | INFO |    Partidos antes: 44,325
+2026-03-27 13:45:31,618 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:31,636 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:31,655 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:31,672 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:31,693 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-27 13:45:31,711 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,740 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,760 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,781 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-27 13:45:31,797 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-27 13:45:31,815 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:31,835 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,852 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,869 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,888 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,907 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,923 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,944 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,963 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:31,986 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:32,008 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:32,030 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-27 13:45:32,061 | INFO |    ✅ D2_2526.csv               | +   51 nuevos |   192 duplicados
+2026-03-27 13:45:32,081 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,100 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,120 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,138 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,155 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,173 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,192 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,210 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,228 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,243 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,258 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-27 13:45:32,276 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,297 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,319 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,338 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,357 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,377 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,397 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,418 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,438 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,458 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-27 13:45:32,475 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-27 13:45:32,491 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,507 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,525 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,543 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,560 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-27 13:45:32,579 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,599 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,617 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,634 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:32,651 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:32,667 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-27 13:45:32,684 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,702 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,754 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,769 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-27 13:45:32,785 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,802 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,817 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,832 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,846 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-27 13:45:32,862 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-27 13:45:32,875 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-27 13:45:32,892 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,913 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,934 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,952 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,971 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:32,989 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,006 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,024 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,044 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,061 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,078 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-27 13:45:33,094 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,113 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,129 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,144 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,163 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-27 13:45:33,178 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,194 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,209 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,241 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,264 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,283 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-27 13:45:33,299 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,316 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,332 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,348 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,367 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,386 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,401 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,418 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,434 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,450 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,469 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-27 13:45:33,486 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,502 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,516 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,533 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,551 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-27 13:45:33,566 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,582 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,599 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,618 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,634 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-27 13:45:33,681 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-27 13:45:33,699 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,718 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,736 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,753 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,770 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,792 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,811 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,831 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,849 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,866 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:33,882 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-27 13:45:33,897 | INFO |    ✅ SP2_2526.csv              | +   33 nuevos |   308 duplicados
+2026-03-27 13:45:33,916 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:33,933 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:34,054 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:34,073 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:34,092 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-27 13:45:34,112 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-27 13:45:34,130 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:34,147 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-27 13:45:34,165 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-27 13:45:34,184 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-27 13:45:34,201 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-27 13:45:34,207 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-27 13:45:34,213 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-27 13:45:34,216 | INFO | 
+============================================================
+2026-03-27 13:45:34,216 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-27 13:45:34,216 | INFO |    ✅ Archivos procesados   : 134
+2026-03-27 13:45:34,216 | INFO |    ❌ Archivos con error    : 2
+2026-03-27 13:45:34,216 | INFO |    ⚽ Partidos insertados   : 84
+2026-03-27 13:45:34,216 | INFO |    ⏭️  Duplicados omitidos   : 44,021
+2026-03-27 13:45:34,216 | INFO |    🗄️  Total en base de datos: 44,409
+2026-03-27 13:45:34,216 | INFO | ============================================================
+2026-03-28 09:17:16,865 | INFO | 
+🚀 Insertando datos de 143 archivos...
+2026-03-28 09:17:16,866 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-28 09:17:16,961 | INFO |    Partidos antes: 44,409
+2026-03-28 09:17:17,002 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:17,024 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:17,048 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:17,074 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:17,099 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 09:17:17,125 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,153 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,178 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,201 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 09:17:17,227 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 09:17:17,251 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:17,270 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,297 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,316 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,337 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,357 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,375 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,392 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,412 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,430 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,446 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:17,461 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 09:17:17,478 | INFO |    ✅ D2_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 09:17:17,503 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,524 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,542 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,560 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,579 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,597 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,614 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,629 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,648 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,667 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:17,683 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-28 09:17:17,704 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,722 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,741 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,760 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,782 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,800 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,817 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,834 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,852 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,871 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:17:17,888 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-28 09:17:17,918 | INFO |    ✅ E2_2526.csv               | +  461 nuevos |     0 duplicados
+2026-03-28 09:17:17,948 | INFO |    ✅ E3_2526.csv               | +  464 nuevos |     0 duplicados
+2026-03-28 09:17:17,974 | INFO |    ✅ EC_2526.csv               | +  475 nuevos |     0 duplicados
+2026-03-28 09:17:17,994 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,019 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,035 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,053 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,071 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-28 09:17:18,090 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,106 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,123 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,139 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,154 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,199 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-28 09:17:18,225 | INFO |    ✅ F2_2526.csv               | +  251 nuevos |     0 duplicados
+2026-03-28 09:17:18,241 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,255 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,270 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,285 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-28 09:17:18,302 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,333 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,351 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,368 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,383 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:17:18,397 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-28 09:17:18,411 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-28 09:17:18,427 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,441 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,458 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,474 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,491 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,508 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,524 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,541 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,556 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,573 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:18,588 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-28 09:17:18,603 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,618 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,633 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,651 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,666 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 09:17:18,684 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,699 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,716 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,732 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,753 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,770 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-28 09:17:18,788 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,806 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,822 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,839 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,857 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,877 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,894 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,910 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,927 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,942 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:18,957 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 09:17:18,972 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:18,986 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,002 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,017 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,032 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-28 09:17:19,049 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,089 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,106 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,122 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,137 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:17:19,151 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-28 09:17:19,185 | INFO |    ✅ SC1_2526.csv              | +  149 nuevos |     0 duplicados
+2026-03-28 09:17:19,212 | INFO |    ✅ SC2_2526.csv              | +  150 nuevos |     0 duplicados
+2026-03-28 09:17:19,246 | INFO |    ✅ SC3_2526.csv              | +  150 nuevos |     0 duplicados
+2026-03-28 09:17:19,269 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,287 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,306 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,324 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,341 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,360 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,382 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,399 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,415 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,431 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,449 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-28 09:17:19,467 | INFO |    ✅ SP2_2526.csv              | +    0 nuevos |   341 duplicados
+2026-03-28 09:17:19,484 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:19,502 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:19,521 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:19,539 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:19,555 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:17:19,571 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-28 09:17:19,602 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,618 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 09:17:19,636 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:17:19,652 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 09:17:19,668 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 09:17:19,673 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 09:17:19,679 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 09:17:19,683 | INFO | 
+============================================================
+2026-03-28 09:17:19,683 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-28 09:17:19,683 | INFO |    ✅ Archivos procesados   : 141
+2026-03-28 09:17:19,683 | INFO |    ❌ Archivos con error    : 2
+2026-03-28 09:17:19,683 | INFO |    ⚽ Partidos insertados   : 2,100
+2026-03-28 09:17:19,684 | INFO |    ⏭️  Duplicados omitidos   : 44,105
+2026-03-28 09:17:19,684 | INFO |    🗄️  Total en base de datos: 46,509
+2026-03-28 09:17:19,684 | INFO | ============================================================
+2026-03-28 09:24:35,929 | INFO | 
+🚀 Insertando datos de 143 archivos...
+2026-03-28 09:24:35,930 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-28 09:24:35,933 | INFO |    Partidos antes: 46,509
+2026-03-28 09:24:35,964 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:35,992 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:36,022 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:36,050 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:36,074 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 09:24:36,100 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,130 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,157 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,189 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 09:24:36,218 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 09:24:36,254 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:36,279 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,308 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,337 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,365 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,393 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,418 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,443 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,474 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,502 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,531 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:36,557 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 09:24:36,585 | INFO |    ✅ D2_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 09:24:36,613 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,640 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,670 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,699 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,726 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,756 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,784 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,818 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,848 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,879 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:36,907 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-28 09:24:36,945 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:36,974 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,006 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,037 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,073 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,106 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,147 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,177 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,209 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,239 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:37,270 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-28 09:24:37,298 | INFO |    ✅ E2_2526.csv               | +    0 nuevos |   461 duplicados
+2026-03-28 09:24:37,326 | INFO |    ✅ E3_2526.csv               | +    0 nuevos |   464 duplicados
+2026-03-28 09:24:37,356 | INFO |    ✅ EC_2526.csv               | +    0 nuevos |   475 duplicados
+2026-03-28 09:24:37,455 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,486 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,515 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,545 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,569 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-28 09:24:37,603 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,646 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,675 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:37,703 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:37,736 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:37,767 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-28 09:24:37,793 | INFO |    ✅ F2_2526.csv               | +    0 nuevos |   251 duplicados
+2026-03-28 09:24:37,820 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:37,845 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:37,868 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:37,890 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-28 09:24:37,918 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:37,946 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:37,981 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:38,010 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:38,038 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:38,074 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-28 09:24:38,102 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-28 09:24:38,134 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,166 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,195 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,224 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,256 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,287 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,315 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,344 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,374 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,404 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:38,435 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-28 09:24:38,485 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,523 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,551 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,579 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,604 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 09:24:38,632 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,660 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,688 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,716 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,745 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,799 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-28 09:24:38,826 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,851 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,882 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,911 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,937 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,968 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:38,993 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,025 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,054 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,084 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,112 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 09:24:39,140 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,167 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,192 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,221 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,246 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-28 09:24:39,272 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,298 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,323 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,349 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,373 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:39,411 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-28 09:24:39,433 | INFO |    ✅ SC1_2526.csv              | +    0 nuevos |   149 duplicados
+2026-03-28 09:24:39,466 | INFO |    ✅ SC2_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 09:24:39,488 | INFO |    ✅ SC3_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 09:24:39,519 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,547 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,576 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,604 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,632 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,662 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,689 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,722 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,751 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,785 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:39,817 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-28 09:24:39,847 | INFO |    ✅ SP2_2526.csv              | +    0 nuevos |   341 duplicados
+2026-03-28 09:24:39,875 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,901 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,929 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,957 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:39,987 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:40,020 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-28 09:24:40,068 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:40,098 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 09:24:40,134 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:40,165 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 09:24:40,191 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 09:24:40,197 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 09:24:40,204 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 09:24:40,207 | INFO | 
+============================================================
+2026-03-28 09:24:40,207 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-28 09:24:40,207 | INFO |    ✅ Archivos procesados   : 141
+2026-03-28 09:24:40,207 | INFO |    ❌ Archivos con error    : 2
+2026-03-28 09:24:40,207 | INFO |    ⚽ Partidos insertados   : 0
+2026-03-28 09:24:40,207 | INFO |    ⏭️  Duplicados omitidos   : 46,205
+2026-03-28 09:24:40,207 | INFO |    🗄️  Total en base de datos: 46,509
+2026-03-28 09:24:40,207 | INFO | ============================================================
+2026-03-28 09:24:47,411 | INFO | 
+🚀 Insertando datos de 143 archivos...
+2026-03-28 09:24:47,411 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-28 09:24:47,415 | INFO |    Partidos antes: 46,509
+2026-03-28 09:24:47,446 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:47,473 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:47,498 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:47,523 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:47,550 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 09:24:47,578 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,608 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,637 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,664 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 09:24:47,693 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 09:24:47,720 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:47,746 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,773 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,800 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,825 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,848 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,873 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,900 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,925 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,954 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:47,981 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:48,009 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 09:24:48,041 | INFO |    ✅ D2_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 09:24:48,070 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,100 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,128 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,160 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,194 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,225 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,257 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,286 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,314 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,342 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,371 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-28 09:24:48,401 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,434 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,468 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,505 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,537 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,572 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,604 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,633 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,666 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,698 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 09:24:48,732 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-28 09:24:48,762 | INFO |    ✅ E2_2526.csv               | +    0 nuevos |   461 duplicados
+2026-03-28 09:24:48,790 | INFO |    ✅ E3_2526.csv               | +    0 nuevos |   464 duplicados
+2026-03-28 09:24:48,821 | INFO |    ✅ EC_2526.csv               | +    0 nuevos |   475 duplicados
+2026-03-28 09:24:48,874 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,900 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,930 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,958 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:48,985 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-28 09:24:49,011 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,039 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,070 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,097 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:49,136 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:49,164 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-28 09:24:49,192 | INFO |    ✅ F2_2526.csv               | +    0 nuevos |   251 duplicados
+2026-03-28 09:24:49,224 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,254 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,281 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,310 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-28 09:24:49,336 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,360 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,390 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,422 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,456 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 09:24:49,484 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-28 09:24:49,508 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-28 09:24:49,536 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,570 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,599 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,630 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,661 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,692 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,727 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,760 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,791 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,823 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:49,852 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-28 09:24:49,882 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:49,916 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:49,945 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:49,971 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:49,995 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 09:24:50,024 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,057 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,085 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,111 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,144 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,198 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-28 09:24:50,232 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,259 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,287 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,320 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,349 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,377 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,427 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,461 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,491 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,515 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:50,542 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 09:24:50,570 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,596 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,621 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,646 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,673 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-28 09:24:50,698 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,722 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,747 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,773 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,798 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 09:24:50,837 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-28 09:24:50,859 | INFO |    ✅ SC1_2526.csv              | +    0 nuevos |   149 duplicados
+2026-03-28 09:24:50,881 | INFO |    ✅ SC2_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 09:24:50,902 | INFO |    ✅ SC3_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 09:24:50,934 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:50,963 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:50,990 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,018 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,045 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,073 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,104 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,132 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,165 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,193 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,229 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-28 09:24:51,264 | INFO |    ✅ SP2_2526.csv              | +    0 nuevos |   341 duplicados
+2026-03-28 09:24:51,289 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:51,323 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:51,352 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:51,388 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:51,417 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 09:24:51,458 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-28 09:24:51,885 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,918 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 09:24:51,956 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 09:24:51,988 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 09:24:52,022 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 09:24:52,029 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 09:24:52,034 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 09:24:52,037 | INFO | 
+============================================================
+2026-03-28 09:24:52,037 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-28 09:24:52,037 | INFO |    ✅ Archivos procesados   : 141
+2026-03-28 09:24:52,037 | INFO |    ❌ Archivos con error    : 2
+2026-03-28 09:24:52,037 | INFO |    ⚽ Partidos insertados   : 0
+2026-03-28 09:24:52,037 | INFO |    ⏭️  Duplicados omitidos   : 46,205
+2026-03-28 09:24:52,037 | INFO |    🗄️  Total en base de datos: 46,509
+2026-03-28 09:24:52,037 | INFO | ============================================================
+2026-03-28 10:12:06,452 | INFO | 
+🚀 Insertando datos de 143 archivos...
+2026-03-28 10:12:06,452 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-28 10:12:06,455 | INFO |    Partidos antes: 49,112
+2026-03-28 10:12:06,486 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:06,512 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:06,540 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:06,568 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:06,594 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 10:12:06,621 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,651 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,678 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,715 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 10:12:06,748 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 10:12:06,781 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:06,810 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,837 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,871 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,899 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,923 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,957 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:06,990 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:07,019 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:07,048 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:07,078 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:07,106 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 10:12:07,135 | INFO |    ✅ D2_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 10:12:07,165 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,196 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,229 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,260 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,289 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,321 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,349 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,381 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,413 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,443 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:07,475 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-28 10:12:07,509 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,539 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,577 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,615 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,645 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,675 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,711 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,742 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,780 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,818 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 10:12:07,854 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-28 10:12:07,887 | INFO |    ✅ E2_2526.csv               | +    0 nuevos |   461 duplicados
+2026-03-28 10:12:07,918 | INFO |    ✅ E3_2526.csv               | +    0 nuevos |   464 duplicados
+2026-03-28 10:12:07,950 | INFO |    ✅ EC_2526.csv               | +    0 nuevos |   475 duplicados
+2026-03-28 10:12:08,019 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,053 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,086 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,113 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,136 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-28 10:12:08,166 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,195 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,222 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,248 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:08,275 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:08,305 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-28 10:12:08,336 | INFO |    ✅ F2_2526.csv               | +    0 nuevos |   251 duplicados
+2026-03-28 10:12:08,363 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,388 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,412 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,437 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-28 10:12:08,466 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,492 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,519 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,546 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,570 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 10:12:08,601 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-28 10:12:08,627 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-28 10:12:08,661 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,690 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,729 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,758 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,794 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,827 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,853 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,883 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,912 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,941 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:08,973 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-28 10:12:09,002 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,034 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,063 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,092 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,122 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 10:12:09,151 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,183 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,210 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,235 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,271 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,331 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-28 10:12:09,358 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,389 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,422 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,457 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,486 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,517 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,544 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,570 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,599 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,628 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:09,661 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 10:12:09,687 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,525 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,557 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,590 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,618 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-28 10:12:10,647 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,674 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,704 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,733 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,762 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 10:12:10,804 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-28 10:12:10,834 | INFO |    ✅ SC1_2526.csv              | +    0 nuevos |   149 duplicados
+2026-03-28 10:12:10,860 | INFO |    ✅ SC2_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 10:12:10,886 | INFO |    ✅ SC3_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 10:12:10,919 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:10,948 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:10,982 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,013 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,043 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,076 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,106 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,135 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,165 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,195 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,225 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-28 10:12:11,262 | INFO |    ✅ SP2_2526.csv              | +    0 nuevos |   341 duplicados
+2026-03-28 10:12:11,288 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:11,318 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:11,350 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:11,380 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:11,407 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 10:12:11,437 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-28 10:12:11,482 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,512 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 10:12:11,544 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 10:12:11,573 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 10:12:11,604 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 10:12:11,611 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 10:12:11,616 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 10:12:11,619 | INFO | 
+============================================================
+2026-03-28 10:12:11,619 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-28 10:12:11,619 | INFO |    ✅ Archivos procesados   : 141
+2026-03-28 10:12:11,619 | INFO |    ❌ Archivos con error    : 2
+2026-03-28 10:12:11,619 | INFO |    ⚽ Partidos insertados   : 0
+2026-03-28 10:12:11,620 | INFO |    ⏭️  Duplicados omitidos   : 46,205
+2026-03-28 10:12:11,620 | INFO |    🗄️  Total en base de datos: 49,112
+2026-03-28 10:12:11,620 | INFO | ============================================================
+2026-03-28 20:07:09,100 | INFO | 
+🚀 Insertando datos de 143 archivos...
+2026-03-28 20:07:09,101 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-28 20:07:09,178 | INFO |    Partidos antes: 49,112
+2026-03-28 20:07:09,227 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:09,266 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:09,299 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:09,338 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:09,374 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 20:07:09,412 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,453 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,490 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,537 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 20:07:09,578 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 20:07:09,628 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:09,673 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,705 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,756 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,795 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,823 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,853 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,881 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,913 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,942 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:09,974 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:10,013 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 20:07:10,044 | INFO |    ✅ D2_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 20:07:10,092 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,131 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,163 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,207 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,244 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,281 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,318 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,352 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,386 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,423 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:10,456 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-28 20:07:10,503 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,539 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,588 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,625 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,658 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,690 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,726 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,757 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,790 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,825 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:07:10,864 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-28 20:07:10,902 | INFO |    ✅ E2_2526.csv               | +    0 nuevos |   461 duplicados
+2026-03-28 20:07:10,941 | INFO |    ✅ E3_2526.csv               | +    0 nuevos |   464 duplicados
+2026-03-28 20:07:10,975 | INFO |    ✅ EC_2526.csv               | +    0 nuevos |   475 duplicados
+2026-03-28 20:07:11,060 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,123 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,177 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,226 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,274 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-28 20:07:11,334 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,393 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,442 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:11,491 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:11,544 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:11,596 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-28 20:07:11,642 | INFO |    ✅ F2_2526.csv               | +    0 nuevos |   251 duplicados
+2026-03-28 20:07:11,687 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:11,729 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:11,770 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:11,820 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-28 20:07:11,860 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:11,905 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:11,950 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:12,000 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:12,040 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:07:12,089 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-28 20:07:12,132 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-28 20:07:12,185 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,233 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,277 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,327 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,380 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,441 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,507 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,563 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,627 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,682 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:12,744 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-28 20:07:12,795 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:12,846 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:12,895 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:12,954 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,000 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 20:07:13,050 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,111 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,170 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,225 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,284 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,393 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-28 20:07:13,450 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,512 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,571 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,634 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,687 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,742 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,799 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,859 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,920 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:13,977 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:14,036 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 20:07:14,094 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,157 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,221 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,270 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,632 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-28 20:07:14,697 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,740 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,785 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,830 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,881 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:07:14,956 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-28 20:07:15,006 | INFO |    ✅ SC1_2526.csv              | +    0 nuevos |   149 duplicados
+2026-03-28 20:07:15,053 | INFO |    ✅ SC2_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 20:07:15,088 | INFO |    ✅ SC3_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 20:07:15,141 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,201 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,257 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,312 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,356 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,409 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,458 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,505 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,566 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,623 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:15,681 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-28 20:07:15,739 | INFO |    ✅ SP2_2526.csv              | +    0 nuevos |   341 duplicados
+2026-03-28 20:07:15,784 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:15,833 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:15,888 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:15,947 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:15,998 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:07:16,057 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-28 20:07:16,153 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:16,215 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 20:07:16,280 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:07:16,341 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 20:07:16,396 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 20:07:16,411 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 20:07:16,421 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 20:07:16,428 | INFO | 
+============================================================
+2026-03-28 20:07:16,428 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-28 20:07:16,428 | INFO |    ✅ Archivos procesados   : 141
+2026-03-28 20:07:16,428 | INFO |    ❌ Archivos con error    : 2
+2026-03-28 20:07:16,428 | INFO |    ⚽ Partidos insertados   : 0
+2026-03-28 20:07:16,428 | INFO |    ⏭️  Duplicados omitidos   : 46,205
+2026-03-28 20:07:16,428 | INFO |    🗄️  Total en base de datos: 49,112
+2026-03-28 20:07:16,428 | INFO | ============================================================
+2026-03-28 20:09:15,764 | INFO | 
+🚀 Insertando datos de 143 archivos...
+2026-03-28 20:09:15,764 | INFO |    Base de datos: C:\Users\danbl\Desktop\futbol_data_project\db\futbol.db
+2026-03-28 20:09:15,767 | INFO |    Partidos antes: 49,112
+2026-03-28 20:09:15,803 | INFO |    ✅ B1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:15,839 | INFO |    ✅ B1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:15,875 | INFO |    ✅ B1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:15,901 | INFO |    ✅ B1_1819.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:15,930 | INFO |    ✅ B1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 20:09:15,961 | INFO |    ✅ B1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:15,996 | INFO |    ✅ B1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,025 | INFO |    ✅ B1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,054 | INFO |    ✅ B1_2324.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 20:09:16,089 | INFO |    ✅ B1_2425.csv               | +    0 nuevos |   312 duplicados
+2026-03-28 20:09:16,126 | INFO |    ✅ B1_2526.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:16,161 | INFO |    ✅ D1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,193 | INFO |    ✅ D1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,221 | INFO |    ✅ D1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,250 | INFO |    ✅ D1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,278 | INFO |    ✅ D1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,309 | INFO |    ✅ D1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,345 | INFO |    ✅ D1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,377 | INFO |    ✅ D1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,409 | INFO |    ✅ D1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,440 | INFO |    ✅ D1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:16,474 | INFO |    ✅ D1_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 20:09:16,509 | INFO |    ✅ D2_2526.csv               | +    0 nuevos |   243 duplicados
+2026-03-28 20:09:16,545 | INFO |    ✅ E0_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,577 | INFO |    ✅ E0_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,618 | INFO |    ✅ E0_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,659 | INFO |    ✅ E0_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,694 | INFO |    ✅ E0_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,726 | INFO |    ✅ E0_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,758 | INFO |    ✅ E0_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,798 | INFO |    ✅ E0_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,834 | INFO |    ✅ E0_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,865 | INFO |    ✅ E0_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:16,901 | INFO |    ✅ E0_2526.csv               | +    0 nuevos |   309 duplicados
+2026-03-28 20:09:16,936 | INFO |    ✅ E1_1516.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:16,970 | INFO |    ✅ E1_1617.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,000 | INFO |    ✅ E1_1718.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,035 | INFO |    ✅ E1_1819.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,070 | INFO |    ✅ E1_1920.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,111 | INFO |    ✅ E1_2021.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,143 | INFO |    ✅ E1_2122.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,173 | INFO |    ✅ E1_2223.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,209 | INFO |    ✅ E1_2324.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,242 | INFO |    ✅ E1_2425.csv               | +    0 nuevos |   552 duplicados
+2026-03-28 20:09:17,278 | INFO |    ✅ E1_2526.csv               | +    0 nuevos |   467 duplicados
+2026-03-28 20:09:17,317 | INFO |    ✅ E2_2526.csv               | +    0 nuevos |   461 duplicados
+2026-03-28 20:09:17,352 | INFO |    ✅ E3_2526.csv               | +    0 nuevos |   464 duplicados
+2026-03-28 20:09:17,397 | INFO |    ✅ EC_2526.csv               | +    0 nuevos |   475 duplicados
+2026-03-28 20:09:17,469 | INFO |    ✅ F1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,501 | INFO |    ✅ F1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,532 | INFO |    ✅ F1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,566 | INFO |    ✅ F1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,594 | INFO |    ✅ F1_1920.csv               | +    0 nuevos |   279 duplicados
+2026-03-28 20:09:17,625 | INFO |    ✅ F1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,654 | INFO |    ✅ F1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,688 | INFO |    ✅ F1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:17,718 | INFO |    ✅ F1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:17,751 | INFO |    ✅ F1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:17,783 | INFO |    ✅ F1_2526.csv               | +    0 nuevos |   242 duplicados
+2026-03-28 20:09:17,816 | INFO |    ✅ F2_2526.csv               | +    0 nuevos |   251 duplicados
+2026-03-28 20:09:17,852 | INFO |    ✅ G1_1516.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:17,893 | INFO |    ✅ G1_1617.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:17,944 | INFO |    ✅ G1_1718.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:17,996 | INFO |    ✅ G1_1819.csv               | +    0 nuevos |   239 duplicados
+2026-03-28 20:09:18,046 | INFO |    ✅ G1_1920.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:18,102 | INFO |    ✅ G1_2021.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:18,152 | INFO |    ✅ G1_2122.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:18,208 | INFO |    ✅ G1_2223.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:18,260 | INFO |    ✅ G1_2324.csv               | +    0 nuevos |   240 duplicados
+2026-03-28 20:09:18,311 | INFO |    ✅ G1_2425.csv               | +    0 nuevos |   233 duplicados
+2026-03-28 20:09:18,363 | INFO |    ✅ G1_2526.csv               | +    0 nuevos |   182 duplicados
+2026-03-28 20:09:18,423 | INFO |    ✅ I1_1516.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,476 | INFO |    ✅ I1_1617.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,542 | INFO |    ✅ I1_1718.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,603 | INFO |    ✅ I1_1819.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,662 | INFO |    ✅ I1_1920.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,722 | INFO |    ✅ I1_2021.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,790 | INFO |    ✅ I1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,858 | INFO |    ✅ I1_2223.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,924 | INFO |    ✅ I1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:18,987 | INFO |    ✅ I1_2425.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:19,056 | INFO |    ✅ I1_2526.csv               | +    0 nuevos |   300 duplicados
+2026-03-28 20:09:19,116 | INFO |    ✅ N1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,176 | INFO |    ✅ N1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,238 | INFO |    ✅ N1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,296 | INFO |    ✅ N1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,354 | INFO |    ✅ N1_1920.csv               | +    0 nuevos |   232 duplicados
+2026-03-28 20:09:19,413 | INFO |    ✅ N1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,474 | INFO |    ✅ N1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,532 | INFO |    ✅ N1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,596 | INFO |    ✅ N1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,660 | INFO |    ✅ N1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,791 | INFO |    ✅ N1_2526.csv               | +    0 nuevos |   252 duplicados
+2026-03-28 20:09:19,848 | INFO |    ✅ P1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,905 | INFO |    ✅ P1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:19,968 | INFO |    ✅ P1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,026 | INFO |    ✅ P1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,082 | INFO |    ✅ P1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,152 | INFO |    ✅ P1_2021.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,201 | INFO |    ✅ P1_2122.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,243 | INFO |    ✅ P1_2223.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,280 | INFO |    ✅ P1_2324.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,318 | INFO |    ✅ P1_2425.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:20,360 | INFO |    ✅ P1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 20:09:20,396 | INFO |    ✅ SC0_1516.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,426 | INFO |    ✅ SC0_1617.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,456 | INFO |    ✅ SC0_1718.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,485 | INFO |    ✅ SC0_1819.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,514 | INFO |    ✅ SC0_1920.csv              | +    0 nuevos |   179 duplicados
+2026-03-28 20:09:20,544 | INFO |    ✅ SC0_2021.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,571 | INFO |    ✅ SC0_2122.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,600 | INFO |    ✅ SC0_2223.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,625 | INFO |    ✅ SC0_2324.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,654 | INFO |    ✅ SC0_2425.csv              | +    0 nuevos |   228 duplicados
+2026-03-28 20:09:20,956 | INFO |    ✅ SC0_2526.csv              | +    0 nuevos |   186 duplicados
+2026-03-28 20:09:20,992 | INFO |    ✅ SC1_2526.csv              | +    0 nuevos |   149 duplicados
+2026-03-28 20:09:21,024 | INFO |    ✅ SC2_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 20:09:21,053 | INFO |    ✅ SC3_2526.csv              | +    0 nuevos |   150 duplicados
+2026-03-28 20:09:21,088 | INFO |    ✅ SP1_1516.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,117 | INFO |    ✅ SP1_1617.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,157 | INFO |    ✅ SP1_1718.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,189 | INFO |    ✅ SP1_1819.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,220 | INFO |    ✅ SP1_1920.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,252 | INFO |    ✅ SP1_2021.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,283 | INFO |    ✅ SP1_2122.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,315 | INFO |    ✅ SP1_2223.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,350 | INFO |    ✅ SP1_2324.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,383 | INFO |    ✅ SP1_2425.csv              | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,418 | INFO |    ✅ SP1_2526.csv              | +    0 nuevos |   290 duplicados
+2026-03-28 20:09:21,452 | INFO |    ✅ SP2_2526.csv              | +    0 nuevos |   341 duplicados
+2026-03-28 20:09:21,482 | INFO |    ✅ T1_1516.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:21,515 | INFO |    ✅ T1_1617.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:21,547 | INFO |    ✅ T1_1718.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:21,577 | INFO |    ✅ T1_1819.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:21,607 | INFO |    ✅ T1_1920.csv               | +    0 nuevos |   306 duplicados
+2026-03-28 20:09:21,641 | INFO |    ✅ T1_2021.csv               | +    0 nuevos |   420 duplicados
+2026-03-28 20:09:21,686 | INFO |    ✅ T1_2122.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,717 | INFO |    ✅ T1_2223.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 20:09:21,752 | INFO |    ✅ T1_2324.csv               | +    0 nuevos |   380 duplicados
+2026-03-28 20:09:21,785 | INFO |    ✅ T1_2425.csv               | +    0 nuevos |   342 duplicados
+2026-03-28 20:09:21,820 | INFO |    ✅ T1_2526.csv               | +    0 nuevos |   241 duplicados
+2026-03-28 20:09:21,829 | ERROR |    ❌ Error en estadisticas_por_equipo.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 20:09:21,834 | ERROR |    ❌ Error en estadisticas_por_liga.csv: 'Pandas' object has no attribute 'fecha'
+2026-03-28 20:09:21,837 | INFO | 
+============================================================
+2026-03-28 20:09:21,838 | INFO | 📊 RESUMEN DE INSERCIÓN:
+2026-03-28 20:09:21,838 | INFO |    ✅ Archivos procesados   : 141
+2026-03-28 20:09:21,838 | INFO |    ❌ Archivos con error    : 2
+2026-03-28 20:09:21,838 | INFO |    ⚽ Partidos insertados   : 0
+2026-03-28 20:09:21,838 | INFO |    ⏭️  Duplicados omitidos   : 46,205
+2026-03-28 20:09:21,838 | INFO |    🗄️  Total en base de datos: 49,112
+2026-03-28 20:09:21,838 | INFO | ============================================================

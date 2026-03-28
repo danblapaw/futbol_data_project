@@ -1,241 +1,241 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2017-07-28,First Division A,2017-18,Antwerp,Anderlecht,0,0,5,5,0,10,0,0
-2017-07-29,First Division A,2017-18,Charleroi,Kortrijk,1,0,5,6,1,11,0,0
-2017-07-29,First Division A,2017-18,Eupen,Waregem,0,5,2,7,5,9,0,1
-2017-07-29,First Division A,2017-18,Genk,Waasland-Beveren,3,3,5,2,6,7,1,1
-2017-07-29,First Division A,2017-18,Lokeren,Club Brugge,0,4,5,6,4,11,0,1
-2017-07-30,First Division A,2017-18,Mechelen,Standard,1,1,2,3,2,5,1,0
-2017-07-30,First Division A,2017-18,Oostende,Mouscron,0,1,5,1,1,6,0,0
-2017-07-30,First Division A,2017-18,St Truiden,Gent,3,2,1,9,5,10,1,1
-2017-08-04,First Division A,2017-18,Standard,Genk,2,1,5,6,3,11,1,1
-2017-08-05,First Division A,2017-18,Kortrijk,Lokeren,1,0,14,4,1,18,0,0
-2017-08-05,First Division A,2017-18,Mouscron,Charleroi,2,5,4,3,7,7,1,1
-2017-08-05,First Division A,2017-18,Waasland-Beveren,Mechelen,2,2,4,4,4,8,1,1
-2017-08-05,First Division A,2017-18,Waregem,St Truiden,2,0,11,1,2,12,0,0
-2017-08-06,First Division A,2017-18,Gent,Antwerp,0,1,6,3,1,9,0,0
-2017-08-06,First Division A,2017-18,Club Brugge,Eupen,3,1,5,2,4,7,1,1
-2017-08-06,First Division A,2017-18,Anderlecht,Oostende,1,0,9,9,1,18,0,0
-2017-08-11,First Division A,2017-18,Waregem,Club Brugge,1,2,4,4,3,8,1,1
-2017-08-12,First Division A,2017-18,Eupen,Kortrijk,1,2,10,1,3,11,1,1
-2017-08-12,First Division A,2017-18,Lokeren,Mouscron,0,2,2,3,2,5,0,0
-2017-08-12,First Division A,2017-18,Mechelen,Gent,1,1,7,7,2,14,1,0
-2017-08-12,First Division A,2017-18,Oostende,Waasland-Beveren,0,3,10,6,3,16,0,1
-2017-08-13,First Division A,2017-18,Antwerp,Genk,3,5,5,3,8,8,1,1
-2017-08-13,First Division A,2017-18,Charleroi,Anderlecht,2,0,7,5,2,12,0,0
-2017-08-13,First Division A,2017-18,St Truiden,Standard,1,0,2,3,1,5,0,0
-2017-08-18,First Division A,2017-18,Standard,Waregem,0,4,3,5,4,8,0,1
-2017-08-19,First Division A,2017-18,Eupen,Oostende,2,1,5,8,3,13,1,1
-2017-08-19,First Division A,2017-18,Genk,Charleroi,0,1,4,7,1,11,0,0
-2017-08-19,First Division A,2017-18,Mechelen,Antwerp,1,2,9,2,3,11,1,1
-2017-08-19,First Division A,2017-18,Waasland-Beveren,Lokeren,2,3,8,6,5,14,1,1
-2017-08-20,First Division A,2017-18,Mouscron,Gent,3,2,7,1,5,8,1,1
-2017-08-20,First Division A,2017-18,Anderlecht,St Truiden,2,3,9,2,5,11,1,1
-2017-08-20,First Division A,2017-18,Kortrijk,Club Brugge,1,2,11,4,3,15,1,1
-2017-08-25,First Division A,2017-18,Kortrijk,Mouscron,1,1,2,3,2,5,1,0
-2017-08-26,First Division A,2017-18,Charleroi,Waregem,3,2,3,3,5,6,1,1
-2017-08-26,First Division A,2017-18,Genk,Mechelen,1,0,5,3,1,8,0,0
-2017-08-26,First Division A,2017-18,Lokeren,Eupen,3,0,7,2,3,9,0,1
-2017-08-26,First Division A,2017-18,St Truiden,Waasland-Beveren,1,0,5,4,1,9,0,0
-2017-08-27,First Division A,2017-18,Club Brugge,Standard,4,0,1,12,4,13,0,1
-2017-08-27,First Division A,2017-18,Gent,Anderlecht,0,0,10,3,0,13,0,0
-2017-08-27,First Division A,2017-18,Oostende,Antwerp,3,4,8,3,7,11,1,1
-2017-09-08,First Division A,2017-18,Anderlecht,Lokeren,3,2,15,2,5,17,1,1
-2017-09-09,First Division A,2017-18,Waregem,Kortrijk,2,2,5,7,4,12,1,1
-2017-09-09,First Division A,2017-18,Waasland-Beveren,Eupen,5,1,4,4,6,8,1,1
-2017-09-09,First Division A,2017-18,Antwerp,St Truiden,1,1,11,2,2,13,1,0
-2017-09-09,First Division A,2017-18,Mouscron,Club Brugge,2,1,2,10,3,12,1,1
-2017-09-10,First Division A,2017-18,Gent,Genk,1,1,4,9,2,13,1,0
-2017-09-10,First Division A,2017-18,Mechelen,Oostende,1,1,9,2,2,11,1,0
-2017-09-10,First Division A,2017-18,Standard,Charleroi,0,0,5,3,0,8,0,0
-2017-09-15,First Division A,2017-18,Club Brugge,Mechelen,2,0,3,11,2,14,0,0
-2017-09-16,First Division A,2017-18,Charleroi,Waasland-Beveren,2,2,3,2,4,5,1,1
-2017-09-16,First Division A,2017-18,Kortrijk,Anderlecht,2,2,4,11,4,15,1,1
-2017-09-16,First Division A,2017-18,Lokeren,Antwerp,1,1,11,2,2,13,1,0
-2017-09-16,First Division A,2017-18,St Truiden,Genk,2,1,2,5,3,7,1,1
-2017-09-17,First Division A,2017-18,Waregem,Mouscron,2,1,11,2,3,13,1,1
-2017-09-17,First Division A,2017-18,Eupen,Standard,1,1,3,7,2,10,1,0
-2017-09-17,First Division A,2017-18,Oostende,Gent,0,2,9,7,2,16,0,0
-2017-09-22,First Division A,2017-18,Antwerp,Kortrijk,3,0,4,8,3,12,0,1
-2017-09-23,First Division A,2017-18,Waasland-Beveren,Anderlecht,1,2,12,5,3,17,1,1
-2017-09-23,First Division A,2017-18,Mouscron,Eupen,3,2,4,5,5,9,1,1
-2017-09-23,First Division A,2017-18,Mechelen,St Truiden,2,0,6,2,2,8,0,0
-2017-09-23,First Division A,2017-18,Genk,Oostende,1,1,5,3,2,8,1,0
-2017-09-24,First Division A,2017-18,Charleroi,Club Brugge,1,2,4,5,3,9,1,1
-2017-09-24,First Division A,2017-18,Gent,Waregem,0,1,7,3,1,10,0,0
-2017-09-24,First Division A,2017-18,Standard,Lokeren,2,1,5,3,3,8,1,1
-2017-09-29,First Division A,2017-18,St Truiden,Charleroi,0,1,5,5,1,10,0,0
-2017-09-30,First Division A,2017-18,Eupen,Genk,3,3,4,3,6,7,1,1
-2017-09-30,First Division A,2017-18,Kortrijk,Oostende,1,2,13,4,3,17,1,1
-2017-09-30,First Division A,2017-18,Mouscron,Mechelen,2,2,0,9,4,9,1,1
-2017-09-30,First Division A,2017-18,Waasland-Beveren,Antwerp,3,0,3,3,3,6,0,1
-2017-10-01,First Division A,2017-18,Anderlecht,Standard,1,0,4,3,1,7,0,0
-2017-10-01,First Division A,2017-18,Club Brugge,Gent,2,1,4,5,3,9,1,1
-2017-10-01,First Division A,2017-18,Waregem,Lokeren,1,3,11,1,4,12,1,1
-2017-10-13,First Division A,2017-18,Mechelen,Anderlecht,3,4,6,3,7,9,1,1
-2017-10-14,First Division A,2017-18,Lokeren,St Truiden,1,1,11,2,2,13,1,0
-2017-10-14,First Division A,2017-18,Gent,Waasland-Beveren,2,0,7,1,2,8,0,0
-2017-10-14,First Division A,2017-18,Genk,Mouscron,1,1,20,2,2,22,1,0
-2017-10-14,First Division A,2017-18,Charleroi,Eupen,2,2,8,4,4,12,1,1
-2017-10-15,First Division A,2017-18,Antwerp,Waregem,3,0,3,5,3,8,0,1
-2017-10-15,First Division A,2017-18,Oostende,Club Brugge,2,3,4,4,5,8,1,1
-2017-10-15,First Division A,2017-18,Standard,Kortrijk,3,1,4,4,4,8,1,1
-2017-10-20,First Division A,2017-18,Mouscron,Standard,1,3,3,2,4,5,1,1
-2017-10-21,First Division A,2017-18,Eupen,Mechelen,4,1,6,8,5,14,1,1
-2017-10-21,First Division A,2017-18,Kortrijk,Gent,1,1,3,11,2,14,1,0
-2017-10-21,First Division A,2017-18,Lokeren,Charleroi,1,1,1,5,2,6,1,0
-2017-10-21,First Division A,2017-18,St Truiden,Oostende,1,0,2,5,1,7,0,0
-2017-10-22,First Division A,2017-18,Anderlecht,Genk,0,1,8,4,1,12,0,0
-2017-10-22,First Division A,2017-18,Club Brugge,Antwerp,1,0,5,3,1,8,0,0
-2017-10-22,First Division A,2017-18,Waregem,Waasland-Beveren,2,5,11,2,7,13,1,1
-2017-10-24,First Division A,2017-18,Oostende,Charleroi,3,0,3,7,3,10,0,1
-2017-10-24,First Division A,2017-18,Gent,Eupen,3,0,4,2,3,6,0,1
-2017-10-24,First Division A,2017-18,Mechelen,Lokeren,0,2,15,3,2,18,0,0
-2017-10-25,First Division A,2017-18,Anderlecht,Waregem,2,0,7,3,2,10,0,0
-2017-10-25,First Division A,2017-18,Genk,Club Brugge,2,0,3,3,2,6,0,0
-2017-10-25,First Division A,2017-18,Waasland-Beveren,Kortrijk,2,1,12,4,3,16,1,1
-2017-10-26,First Division A,2017-18,Antwerp,Standard,0,0,7,3,0,10,0,0
-2017-10-26,First Division A,2017-18,St Truiden,Mouscron,1,0,9,1,1,10,0,0
-2017-10-27,First Division A,2017-18,Charleroi,Gent,2,1,3,6,3,9,1,1
-2017-10-28,First Division A,2017-18,Eupen,Anderlecht,2,3,6,4,5,10,1,1
-2017-10-28,First Division A,2017-18,Kortrijk,Genk,0,0,5,7,0,12,0,0
-2017-10-28,First Division A,2017-18,Lokeren,Oostende,0,3,5,7,3,12,0,1
-2017-10-28,First Division A,2017-18,Waregem,Mechelen,2,1,12,1,3,13,1,1
-2017-10-29,First Division A,2017-18,Standard,Waasland-Beveren,3,1,5,4,4,9,1,1
-2017-10-29,First Division A,2017-18,Club Brugge,St Truiden,4,1,5,2,5,7,1,1
-2017-10-29,First Division A,2017-18,Mouscron,Antwerp,2,2,6,10,4,16,1,1
-2017-11-03,First Division A,2017-18,Gent,Standard,1,0,10,5,1,15,0,0
-2017-11-04,First Division A,2017-18,Genk,Lokeren,0,0,4,2,0,6,0,0
-2017-11-04,First Division A,2017-18,Mechelen,Kortrijk,2,0,4,4,2,8,0,0
-2017-11-04,First Division A,2017-18,St Truiden,Eupen,4,4,4,4,8,8,1,1
-2017-11-04,First Division A,2017-18,Waasland-Beveren,Mouscron,2,0,4,4,2,8,0,0
-2017-11-05,First Division A,2017-18,Anderlecht,Club Brugge,0,0,4,4,0,8,0,0
-2017-11-05,First Division A,2017-18,Antwerp,Charleroi,1,3,7,2,4,9,1,1
-2017-11-05,First Division A,2017-18,Oostende,Waregem,4,2,2,10,6,12,1,1
-2017-11-17,First Division A,2017-18,Charleroi,Mechelen,2,0,2,3,2,5,0,0
-2017-11-18,First Division A,2017-18,Mouscron,Anderlecht,1,2,5,4,3,9,1,1
-2017-11-18,First Division A,2017-18,Standard,Oostende,0,0,8,3,0,11,0,0
-2017-11-18,First Division A,2017-18,Eupen,Antwerp,0,1,4,3,1,7,0,0
-2017-11-18,First Division A,2017-18,Kortrijk,St Truiden,3,2,6,10,5,16,1,1
-2017-11-19,First Division A,2017-18,Lokeren,Gent,0,3,1,5,3,6,0,1
-2017-11-19,First Division A,2017-18,Waregem,Genk,0,1,7,3,1,10,0,0
-2017-11-19,First Division A,2017-18,Club Brugge,Waasland-Beveren,3,0,8,4,3,12,0,1
-2017-11-24,First Division A,2017-18,Gent,Mouscron,3,1,4,4,4,8,1,1
-2017-11-25,First Division A,2017-18,Antwerp,Mechelen,0,0,3,6,0,9,0,0
-2017-11-25,First Division A,2017-18,Oostende,Eupen,1,0,8,5,1,13,0,0
-2017-11-25,First Division A,2017-18,St Truiden,Lokeren,0,0,8,2,0,10,0,0
-2017-11-25,First Division A,2017-18,Waasland-Beveren,Charleroi,0,2,6,4,2,10,0,0
-2017-11-26,First Division A,2017-18,Anderlecht,Kortrijk,4,0,7,2,4,9,0,1
-2017-11-26,First Division A,2017-18,Club Brugge,Waregem,3,2,11,1,5,12,1,1
-2017-11-26,First Division A,2017-18,Genk,Standard,0,2,4,1,2,5,0,0
-2017-12-01,First Division A,2017-18,Charleroi,Oostende,1,1,2,6,2,8,1,0
-2017-12-02,First Division A,2017-18,Kortrijk,Waasland-Beveren,4,1,2,7,5,9,1,1
-2017-12-02,First Division A,2017-18,Lokeren,Anderlecht,1,2,3,2,3,5,1,1
-2017-12-02,First Division A,2017-18,Mechelen,Genk,3,2,3,6,5,9,1,1
-2017-12-02,First Division A,2017-18,Mouscron,St Truiden,1,1,5,5,2,10,1,0
-2017-12-03,First Division A,2017-18,Waregem,Gent,0,1,6,4,1,10,0,0
-2017-12-03,First Division A,2017-18,Standard,Antwerp,1,1,4,4,2,8,1,0
-2017-12-03,First Division A,2017-18,Eupen,Club Brugge,2,2,4,5,4,9,1,1
-2017-12-08,First Division A,2017-18,Waasland-Beveren,Standard,3,1,4,6,4,10,1,1
-2017-12-09,First Division A,2017-18,Antwerp,Mouscron,1,0,6,5,1,11,0,0
-2017-12-09,First Division A,2017-18,Genk,Eupen,1,1,4,0,2,4,1,0
-2017-12-09,First Division A,2017-18,Gent,Kortrijk,2,1,11,3,3,14,1,1
-2017-12-09,First Division A,2017-18,Oostende,Mechelen,0,1,6,2,1,8,0,0
-2017-12-10,First Division A,2017-18,Anderlecht,Charleroi,1,3,5,2,4,7,1,1
-2017-12-10,First Division A,2017-18,Club Brugge,Lokeren,3,1,10,5,4,15,1,1
-2017-12-10,First Division A,2017-18,St Truiden,Waregem,1,1,2,7,2,9,1,0
-2017-12-15,First Division A,2017-18,Mouscron,Oostende,1,0,3,7,1,10,0,0
-2017-12-16,First Division A,2017-18,Eupen,St Truiden,0,0,4,5,0,9,0,0
-2017-12-16,First Division A,2017-18,Kortrijk,Mechelen,2,0,3,6,2,9,0,0
-2017-12-16,First Division A,2017-18,Standard,Gent,0,0,8,7,0,15,0,0
-2017-12-16,First Division A,2017-18,Lokeren,Waasland-Beveren,1,1,6,6,2,12,1,0
-2017-12-17,First Division A,2017-18,Waregem,Antwerp,1,2,9,2,3,11,1,1
-2017-12-17,First Division A,2017-18,Charleroi,Genk,1,1,4,3,2,7,1,0
-2017-12-17,First Division A,2017-18,Club Brugge,Anderlecht,5,0,7,2,5,9,0,1
-2017-12-20,First Division A,2017-18,Mechelen,Club Brugge,0,3,3,6,3,9,0,1
-2017-12-21,First Division A,2017-18,Antwerp,Lokeren,1,2,7,0,3,7,1,1
-2017-12-21,First Division A,2017-18,Gent,Charleroi,1,0,6,2,1,8,0,0
-2017-12-22,First Division A,2017-18,Anderlecht,Eupen,1,0,10,3,1,13,0,0
-2017-12-22,First Division A,2017-18,Waasland-Beveren,Oostende,1,3,11,5,4,16,1,1
-2017-12-23,First Division A,2017-18,Genk,Kortrijk,2,3,11,3,5,14,1,1
-2017-12-23,First Division A,2017-18,Mouscron,Waregem,2,1,6,3,3,9,1,1
-2017-12-23,First Division A,2017-18,Standard,St Truiden,1,1,8,5,2,13,1,0
-2017-12-26,First Division A,2017-18,Lokeren,Mechelen,2,0,3,5,2,8,0,0
-2017-12-26,First Division A,2017-18,Waregem,Charleroi,0,4,1,5,4,6,0,1
-2017-12-26,First Division A,2017-18,Eupen,Waasland-Beveren,1,0,10,2,1,12,0,0
-2017-12-26,First Division A,2017-18,Club Brugge,Mouscron,4,2,5,1,6,6,1,1
-2017-12-26,First Division A,2017-18,Anderlecht,Gent,1,0,3,2,1,5,0,0
-2017-12-27,First Division A,2017-18,Kortrijk,Standard,2,1,7,8,3,15,1,1
-2017-12-27,First Division A,2017-18,St Truiden,Antwerp,0,3,3,5,3,8,0,1
-2018-01-16,First Division A,2017-18,Oostende,Genk,1,2,8,4,3,12,1,1
-2018-01-19,First Division A,2017-18,Charleroi,Mouscron,2,0,2,3,2,5,0,0
-2018-01-20,First Division A,2017-18,Mechelen,Waregem,0,2,3,1,2,4,0,0
-2018-01-20,First Division A,2017-18,Oostende,Kortrijk,2,1,4,8,3,12,1,1
-2018-01-20,First Division A,2017-18,Standard,Eupen,3,2,10,1,5,11,1,1
-2018-01-20,First Division A,2017-18,Waasland-Beveren,St Truiden,3,1,4,7,4,11,1,1
-2018-01-21,First Division A,2017-18,Genk,Anderlecht,0,1,3,8,1,11,0,0
-2018-01-21,First Division A,2017-18,Gent,Lokeren,3,0,6,5,3,11,0,1
-2018-01-21,First Division A,2017-18,Antwerp,Club Brugge,2,2,5,5,4,10,1,1
-2018-01-23,First Division A,2017-18,Waregem,Standard,2,1,6,6,3,12,1,1
-2018-01-23,First Division A,2017-18,Mouscron,Kortrijk,0,3,2,2,3,4,0,1
-2018-01-23,First Division A,2017-18,St Truiden,Mechelen,2,0,2,1,2,3,0,0
-2018-01-24,First Division A,2017-18,Lokeren,Genk,1,2,5,6,3,11,1,1
-2018-01-24,First Division A,2017-18,Eupen,Charleroi,1,0,2,10,1,12,0,0
-2018-01-24,First Division A,2017-18,Anderlecht,Waasland-Beveren,2,2,4,7,4,11,1,1
-2018-01-24,First Division A,2017-18,Antwerp,Gent,1,1,2,9,2,11,1,0
-2018-01-25,First Division A,2017-18,Club Brugge,Oostende,3,2,3,5,5,8,1,1
-2018-01-26,First Division A,2017-18,Mechelen,Mouscron,0,2,5,6,2,11,0,0
-2018-01-27,First Division A,2017-18,Charleroi,Antwerp,1,1,2,3,2,5,1,0
-2018-01-27,First Division A,2017-18,Genk,St Truiden,1,1,5,1,2,6,1,0
-2018-01-27,First Division A,2017-18,Kortrijk,Eupen,0,0,10,4,0,14,0,0
-2018-01-27,First Division A,2017-18,Waasland-Beveren,Waregem,2,2,6,10,4,16,1,1
-2018-01-28,First Division A,2017-18,Gent,Club Brugge,2,0,9,4,2,13,0,0
-2018-01-28,First Division A,2017-18,Oostende,Lokeren,2,3,5,7,5,12,1,1
-2018-01-28,First Division A,2017-18,Standard,Anderlecht,3,3,12,0,6,12,1,1
-2018-02-02,First Division A,2017-18,Antwerp,Waasland-Beveren,1,2,11,2,3,13,1,1
-2018-02-03,First Division A,2017-18,Lokeren,Standard,0,3,1,7,3,8,0,1
-2018-02-03,First Division A,2017-18,St Truiden,Kortrijk,0,2,8,6,2,14,0,0
-2018-02-03,First Division A,2017-18,Eupen,Gent,1,1,5,12,2,17,1,0
-2018-02-03,First Division A,2017-18,Mouscron,Genk,0,1,7,2,1,9,0,0
-2018-02-04,First Division A,2017-18,Anderlecht,Mechelen,2,2,5,5,4,10,1,1
-2018-02-04,First Division A,2017-18,Club Brugge,Charleroi,3,3,9,3,6,12,1,1
-2018-02-04,First Division A,2017-18,Waregem,Oostende,1,1,7,3,2,10,1,0
-2018-02-09,First Division A,2017-18,Genk,Waregem,3,1,2,9,4,11,1,1
-2018-02-10,First Division A,2017-18,Mechelen,Eupen,1,0,15,3,1,18,0,0
-2018-02-10,First Division A,2017-18,Gent,St Truiden,3,0,2,2,3,4,0,1
-2018-02-10,First Division A,2017-18,Kortrijk,Antwerp,4,0,6,7,4,13,0,1
-2018-02-10,First Division A,2017-18,Oostende,Anderlecht,2,0,3,9,2,12,0,0
-2018-02-11,First Division A,2017-18,Standard,Mouscron,4,3,10,3,7,13,1,1
-2018-02-11,First Division A,2017-18,Charleroi,Lokeren,1,1,10,3,2,13,1,0
-2018-02-11,First Division A,2017-18,Waasland-Beveren,Club Brugge,1,1,4,4,2,8,1,0
-2018-02-16,First Division A,2017-18,St Truiden,Anderlecht,1,0,5,7,1,12,0,0
-2018-02-17,First Division A,2017-18,Antwerp,Oostende,0,0,9,3,0,12,0,0
-2018-02-17,First Division A,2017-18,Club Brugge,Genk,2,2,7,3,4,10,1,1
-2018-02-17,First Division A,2017-18,Lokeren,Kortrijk,0,1,8,5,1,13,0,0
-2018-02-17,First Division A,2017-18,Waregem,Eupen,3,2,7,4,5,11,1,1
-2018-02-18,First Division A,2017-18,Charleroi,Standard,1,1,4,2,2,6,1,0
-2018-02-18,First Division A,2017-18,Gent,Mechelen,2,2,8,1,4,9,1,1
-2018-02-18,First Division A,2017-18,Mouscron,Waasland-Beveren,2,2,2,1,4,3,1,1
-2018-02-23,First Division A,2017-18,Genk,Antwerp,4,0,8,7,4,15,0,1
-2018-02-24,First Division A,2017-18,Oostende,St Truiden,2,0,1,4,2,5,0,0
-2018-02-24,First Division A,2017-18,Waasland-Beveren,Gent,1,2,2,8,3,10,1,1
-2018-02-24,First Division A,2017-18,Eupen,Lokeren,3,2,9,5,5,14,1,1
-2018-02-24,First Division A,2017-18,Mechelen,Charleroi,1,1,2,3,2,5,1,0
-2018-02-25,First Division A,2017-18,Anderlecht,Mouscron,5,3,5,2,8,7,1,1
-2018-02-25,First Division A,2017-18,Kortrijk,Waregem,0,1,7,4,1,11,0,0
-2018-02-25,First Division A,2017-18,Standard,Club Brugge,1,1,6,8,2,14,1,0
-2018-03-03,First Division A,2017-18,Waasland-Beveren,Genk,0,1,2,7,1,9,0,0
-2018-03-03,First Division A,2017-18,Antwerp,Eupen,2,0,5,3,2,8,0,0
-2018-03-03,First Division A,2017-18,Charleroi,St Truiden,0,0,4,4,0,8,0,0
-2018-03-03,First Division A,2017-18,Club Brugge,Kortrijk,2,1,11,3,3,14,1,1
-2018-03-03,First Division A,2017-18,Gent,Oostende,2,3,5,2,5,7,1,1
-2018-03-03,First Division A,2017-18,Mouscron,Lokeren,1,2,2,4,3,6,1,1
-2018-03-03,First Division A,2017-18,Standard,Mechelen,3,2,6,3,5,9,1,1
-2018-03-03,First Division A,2017-18,Waregem,Anderlecht,2,3,8,3,5,11,1,1
-2018-03-11,First Division A,2017-18,Lokeren,Waregem,0,2,2,4,2,6,0,0
-2018-03-11,First Division A,2017-18,Mechelen,Waasland-Beveren,2,0,12,1,2,13,0,0
-2018-03-11,First Division A,2017-18,Kortrijk,Charleroi,2,0,5,5,2,10,0,0
-2018-03-11,First Division A,2017-18,Oostende,Standard,2,3,2,4,5,6,1,1
-2018-03-11,First Division A,2017-18,Eupen,Mouscron,4,0,16,2,4,18,0,1
-2018-03-11,First Division A,2017-18,Anderlecht,Antwerp,2,1,0,9,3,9,1,1
-2018-03-11,First Division A,2017-18,Genk,Gent,1,2,7,3,3,10,1,1
-2018-03-11,First Division A,2017-18,St Truiden,Club Brugge,0,1,6,8,1,14,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2017-07-28,First Division A,2017-18,Antwerp,Anderlecht,0,0,5,5,3,0,0,0,0,10,3,0,0,0
+2017-07-29,First Division A,2017-18,Charleroi,Kortrijk,1,0,5,6,2,1,0,0,1,11,3,0,0,0
+2017-07-29,First Division A,2017-18,Eupen,Waregem,0,5,2,7,2,2,0,0,5,9,4,0,0,1
+2017-07-29,First Division A,2017-18,Genk,Waasland-Beveren,3,3,5,2,1,2,0,0,6,7,3,0,1,1
+2017-07-29,First Division A,2017-18,Lokeren,Club Brugge,0,4,5,6,3,1,0,1,4,11,4,1,0,1
+2017-07-30,First Division A,2017-18,Mechelen,Standard,1,1,2,3,3,3,0,0,2,5,6,0,1,0
+2017-07-30,First Division A,2017-18,Oostende,Mouscron,0,1,5,1,3,3,1,0,1,6,6,1,0,0
+2017-07-30,First Division A,2017-18,St Truiden,Gent,3,2,1,9,2,4,0,0,5,10,6,0,1,1
+2017-08-04,First Division A,2017-18,Standard,Genk,2,1,5,6,3,4,0,0,3,11,7,0,1,1
+2017-08-05,First Division A,2017-18,Kortrijk,Lokeren,1,0,14,4,1,4,0,0,1,18,5,0,0,0
+2017-08-05,First Division A,2017-18,Mouscron,Charleroi,2,5,4,3,3,1,1,0,7,7,4,1,1,1
+2017-08-05,First Division A,2017-18,Waasland-Beveren,Mechelen,2,2,4,4,3,4,0,0,4,8,7,0,1,1
+2017-08-05,First Division A,2017-18,Waregem,St Truiden,2,0,11,1,2,3,0,1,2,12,5,1,0,0
+2017-08-06,First Division A,2017-18,Gent,Antwerp,0,1,6,3,2,5,0,0,1,9,7,0,0,0
+2017-08-06,First Division A,2017-18,Club Brugge,Eupen,3,1,5,2,1,3,0,1,4,7,4,1,1,1
+2017-08-06,First Division A,2017-18,Anderlecht,Oostende,1,0,9,9,1,3,0,0,1,18,4,0,0,0
+2017-08-11,First Division A,2017-18,Waregem,Club Brugge,1,2,4,4,1,3,0,0,3,8,4,0,1,1
+2017-08-12,First Division A,2017-18,Eupen,Kortrijk,1,2,10,1,3,4,0,0,3,11,7,0,1,1
+2017-08-12,First Division A,2017-18,Lokeren,Mouscron,0,2,2,3,4,1,1,0,2,5,5,1,0,0
+2017-08-12,First Division A,2017-18,Mechelen,Gent,1,1,7,7,2,1,0,0,2,14,3,0,1,0
+2017-08-12,First Division A,2017-18,Oostende,Waasland-Beveren,0,3,10,6,1,0,0,0,3,16,1,0,0,1
+2017-08-13,First Division A,2017-18,Antwerp,Genk,3,5,5,3,1,1,0,0,8,8,2,0,1,1
+2017-08-13,First Division A,2017-18,Charleroi,Anderlecht,2,0,7,5,2,3,0,0,2,12,5,0,0,0
+2017-08-13,First Division A,2017-18,St Truiden,Standard,1,0,2,3,3,4,0,2,1,5,7,2,0,0
+2017-08-18,First Division A,2017-18,Standard,Waregem,0,4,3,5,0,2,0,0,4,8,2,0,0,1
+2017-08-19,First Division A,2017-18,Eupen,Oostende,2,1,5,8,2,2,0,0,3,13,4,0,1,1
+2017-08-19,First Division A,2017-18,Genk,Charleroi,0,1,4,7,0,1,0,0,1,11,1,0,0,0
+2017-08-19,First Division A,2017-18,Mechelen,Antwerp,1,2,9,2,2,4,0,0,3,11,6,0,1,1
+2017-08-19,First Division A,2017-18,Waasland-Beveren,Lokeren,2,3,8,6,3,5,0,0,5,14,8,0,1,1
+2017-08-20,First Division A,2017-18,Mouscron,Gent,3,2,7,1,3,3,0,1,5,8,6,1,1,1
+2017-08-20,First Division A,2017-18,Anderlecht,St Truiden,2,3,9,2,0,2,0,0,5,11,2,0,1,1
+2017-08-20,First Division A,2017-18,Kortrijk,Club Brugge,1,2,11,4,3,1,0,0,3,15,4,0,1,1
+2017-08-25,First Division A,2017-18,Kortrijk,Mouscron,1,1,2,3,2,0,0,0,2,5,2,0,1,0
+2017-08-26,First Division A,2017-18,Charleroi,Waregem,3,2,3,3,2,2,0,1,5,6,4,1,1,1
+2017-08-26,First Division A,2017-18,Genk,Mechelen,1,0,5,3,4,2,1,0,1,8,6,1,0,0
+2017-08-26,First Division A,2017-18,Lokeren,Eupen,3,0,7,2,3,1,0,0,3,9,4,0,0,1
+2017-08-26,First Division A,2017-18,St Truiden,Waasland-Beveren,1,0,5,4,2,3,0,0,1,9,5,0,0,0
+2017-08-27,First Division A,2017-18,Club Brugge,Standard,4,0,1,12,2,3,0,0,4,13,5,0,0,1
+2017-08-27,First Division A,2017-18,Gent,Anderlecht,0,0,10,3,3,3,0,0,0,13,6,0,0,0
+2017-08-27,First Division A,2017-18,Oostende,Antwerp,3,4,8,3,0,3,0,0,7,11,3,0,1,1
+2017-09-08,First Division A,2017-18,Anderlecht,Lokeren,3,2,15,2,2,3,0,0,5,17,5,0,1,1
+2017-09-09,First Division A,2017-18,Waregem,Kortrijk,2,2,5,7,2,3,0,0,4,12,5,0,1,1
+2017-09-09,First Division A,2017-18,Waasland-Beveren,Eupen,5,1,4,4,0,1,0,0,6,8,1,0,1,1
+2017-09-09,First Division A,2017-18,Antwerp,St Truiden,1,1,11,2,3,4,0,0,2,13,7,0,1,0
+2017-09-09,First Division A,2017-18,Mouscron,Club Brugge,2,1,2,10,2,2,0,0,3,12,4,0,1,1
+2017-09-10,First Division A,2017-18,Gent,Genk,1,1,4,9,3,2,0,0,2,13,5,0,1,0
+2017-09-10,First Division A,2017-18,Mechelen,Oostende,1,1,9,2,2,3,1,0,2,11,5,1,1,0
+2017-09-10,First Division A,2017-18,Standard,Charleroi,0,0,5,3,3,2,0,0,0,8,5,0,0,0
+2017-09-15,First Division A,2017-18,Club Brugge,Mechelen,2,0,3,11,3,2,0,0,2,14,5,0,0,0
+2017-09-16,First Division A,2017-18,Charleroi,Waasland-Beveren,2,2,3,2,1,0,0,0,4,5,1,0,1,1
+2017-09-16,First Division A,2017-18,Kortrijk,Anderlecht,2,2,4,11,2,3,0,0,4,15,5,0,1,1
+2017-09-16,First Division A,2017-18,Lokeren,Antwerp,1,1,11,2,1,3,0,0,2,13,4,0,1,0
+2017-09-16,First Division A,2017-18,St Truiden,Genk,2,1,2,5,5,2,0,0,3,7,7,0,1,1
+2017-09-17,First Division A,2017-18,Waregem,Mouscron,2,1,11,2,3,3,0,1,3,13,6,1,1,1
+2017-09-17,First Division A,2017-18,Eupen,Standard,1,1,3,7,3,5,0,0,2,10,8,0,1,0
+2017-09-17,First Division A,2017-18,Oostende,Gent,0,2,9,7,0,3,0,0,2,16,3,0,0,0
+2017-09-22,First Division A,2017-18,Antwerp,Kortrijk,3,0,4,8,2,2,0,0,3,12,4,0,0,1
+2017-09-23,First Division A,2017-18,Waasland-Beveren,Anderlecht,1,2,12,5,2,4,0,0,3,17,6,0,1,1
+2017-09-23,First Division A,2017-18,Mouscron,Eupen,3,2,4,5,4,3,1,0,5,9,7,1,1,1
+2017-09-23,First Division A,2017-18,Mechelen,St Truiden,2,0,6,2,4,1,1,0,2,8,5,1,0,0
+2017-09-23,First Division A,2017-18,Genk,Oostende,1,1,5,3,2,3,0,0,2,8,5,0,1,0
+2017-09-24,First Division A,2017-18,Charleroi,Club Brugge,1,2,4,5,2,4,0,0,3,9,6,0,1,1
+2017-09-24,First Division A,2017-18,Gent,Waregem,0,1,7,3,4,2,0,0,1,10,6,0,0,0
+2017-09-24,First Division A,2017-18,Standard,Lokeren,2,1,5,3,2,5,1,1,3,8,7,2,1,1
+2017-09-29,First Division A,2017-18,St Truiden,Charleroi,0,1,5,5,2,3,0,0,1,10,5,0,0,0
+2017-09-30,First Division A,2017-18,Eupen,Genk,3,3,4,3,2,2,0,0,6,7,4,0,1,1
+2017-09-30,First Division A,2017-18,Kortrijk,Oostende,1,2,13,4,1,1,1,0,3,17,2,1,1,1
+2017-09-30,First Division A,2017-18,Mouscron,Mechelen,2,2,0,9,3,3,0,0,4,9,6,0,1,1
+2017-09-30,First Division A,2017-18,Waasland-Beveren,Antwerp,3,0,3,3,2,1,0,0,3,6,3,0,0,1
+2017-10-01,First Division A,2017-18,Anderlecht,Standard,1,0,4,3,2,1,0,0,1,7,3,0,0,0
+2017-10-01,First Division A,2017-18,Club Brugge,Gent,2,1,4,5,2,1,0,0,3,9,3,0,1,1
+2017-10-01,First Division A,2017-18,Waregem,Lokeren,1,3,11,1,1,0,0,0,4,12,1,0,1,1
+2017-10-13,First Division A,2017-18,Mechelen,Anderlecht,3,4,6,3,1,4,0,0,7,9,5,0,1,1
+2017-10-14,First Division A,2017-18,Lokeren,St Truiden,1,1,11,2,1,5,0,1,2,13,6,1,1,0
+2017-10-14,First Division A,2017-18,Gent,Waasland-Beveren,2,0,7,1,2,2,0,1,2,8,4,1,0,0
+2017-10-14,First Division A,2017-18,Genk,Mouscron,1,1,20,2,2,3,0,0,2,22,5,0,1,0
+2017-10-14,First Division A,2017-18,Charleroi,Eupen,2,2,8,4,2,5,0,0,4,12,7,0,1,1
+2017-10-15,First Division A,2017-18,Antwerp,Waregem,3,0,3,5,2,3,0,1,3,8,5,1,0,1
+2017-10-15,First Division A,2017-18,Oostende,Club Brugge,2,3,4,4,4,3,0,1,5,8,7,1,1,1
+2017-10-15,First Division A,2017-18,Standard,Kortrijk,3,1,4,4,3,3,1,1,4,8,6,2,1,1
+2017-10-20,First Division A,2017-18,Mouscron,Standard,1,3,3,2,2,3,0,0,4,5,5,0,1,1
+2017-10-21,First Division A,2017-18,Eupen,Mechelen,4,1,6,8,4,2,0,0,5,14,6,0,1,1
+2017-10-21,First Division A,2017-18,Kortrijk,Gent,1,1,3,11,3,2,0,0,2,14,5,0,1,0
+2017-10-21,First Division A,2017-18,Lokeren,Charleroi,1,1,1,5,1,0,0,0,2,6,1,0,1,0
+2017-10-21,First Division A,2017-18,St Truiden,Oostende,1,0,2,5,1,4,0,0,1,7,5,0,0,0
+2017-10-22,First Division A,2017-18,Anderlecht,Genk,0,1,8,4,4,2,0,0,1,12,6,0,0,0
+2017-10-22,First Division A,2017-18,Club Brugge,Antwerp,1,0,5,3,2,5,0,0,1,8,7,0,0,0
+2017-10-22,First Division A,2017-18,Waregem,Waasland-Beveren,2,5,11,2,1,1,0,0,7,13,2,0,1,1
+2017-10-24,First Division A,2017-18,Oostende,Charleroi,3,0,3,7,1,2,0,0,3,10,3,0,0,1
+2017-10-24,First Division A,2017-18,Gent,Eupen,3,0,4,2,4,4,0,0,3,6,8,0,0,1
+2017-10-24,First Division A,2017-18,Mechelen,Lokeren,0,2,15,3,3,4,0,0,2,18,7,0,0,0
+2017-10-25,First Division A,2017-18,Anderlecht,Waregem,2,0,7,3,1,1,0,0,2,10,2,0,0,0
+2017-10-25,First Division A,2017-18,Genk,Club Brugge,2,0,3,3,3,1,0,0,2,6,4,0,0,0
+2017-10-25,First Division A,2017-18,Waasland-Beveren,Kortrijk,2,1,12,4,1,4,0,0,3,16,5,0,1,1
+2017-10-26,First Division A,2017-18,Antwerp,Standard,0,0,7,3,3,2,0,0,0,10,5,0,0,0
+2017-10-26,First Division A,2017-18,St Truiden,Mouscron,1,0,9,1,0,5,0,0,1,10,5,0,0,0
+2017-10-27,First Division A,2017-18,Charleroi,Gent,2,1,3,6,3,3,0,0,3,9,6,0,1,1
+2017-10-28,First Division A,2017-18,Eupen,Anderlecht,2,3,6,4,3,0,0,0,5,10,3,0,1,1
+2017-10-28,First Division A,2017-18,Kortrijk,Genk,0,0,5,7,3,1,0,0,0,12,4,0,0,0
+2017-10-28,First Division A,2017-18,Lokeren,Oostende,0,3,5,7,0,2,0,0,3,12,2,0,0,1
+2017-10-28,First Division A,2017-18,Waregem,Mechelen,2,1,12,1,3,1,0,0,3,13,4,0,1,1
+2017-10-29,First Division A,2017-18,Standard,Waasland-Beveren,3,1,5,4,1,4,0,0,4,9,5,0,1,1
+2017-10-29,First Division A,2017-18,Club Brugge,St Truiden,4,1,5,2,2,0,0,0,5,7,2,0,1,1
+2017-10-29,First Division A,2017-18,Mouscron,Antwerp,2,2,6,10,2,2,0,0,4,16,4,0,1,1
+2017-11-03,First Division A,2017-18,Gent,Standard,1,0,10,5,2,2,0,0,1,15,4,0,0,0
+2017-11-04,First Division A,2017-18,Genk,Lokeren,0,0,4,2,3,2,0,0,0,6,5,0,0,0
+2017-11-04,First Division A,2017-18,Mechelen,Kortrijk,2,0,4,4,3,2,0,0,2,8,5,0,0,0
+2017-11-04,First Division A,2017-18,St Truiden,Eupen,4,4,4,4,1,3,0,0,8,8,4,0,1,1
+2017-11-04,First Division A,2017-18,Waasland-Beveren,Mouscron,2,0,4,4,3,1,0,0,2,8,4,0,0,0
+2017-11-05,First Division A,2017-18,Anderlecht,Club Brugge,0,0,4,4,2,4,0,0,0,8,6,0,0,0
+2017-11-05,First Division A,2017-18,Antwerp,Charleroi,1,3,7,2,0,0,0,0,4,9,0,0,1,1
+2017-11-05,First Division A,2017-18,Oostende,Waregem,4,2,2,10,1,5,1,0,6,12,6,1,1,1
+2017-11-17,First Division A,2017-18,Charleroi,Mechelen,2,0,2,3,2,1,0,1,2,5,3,1,0,0
+2017-11-18,First Division A,2017-18,Mouscron,Anderlecht,1,2,5,4,0,1,0,0,3,9,1,0,1,1
+2017-11-18,First Division A,2017-18,Standard,Oostende,0,0,8,3,1,2,1,2,0,11,3,3,0,0
+2017-11-18,First Division A,2017-18,Eupen,Antwerp,0,1,4,3,0,5,0,0,1,7,5,0,0,0
+2017-11-18,First Division A,2017-18,Kortrijk,St Truiden,3,2,6,10,3,3,1,0,5,16,6,1,1,1
+2017-11-19,First Division A,2017-18,Lokeren,Gent,0,3,1,5,3,4,1,0,3,6,7,1,0,1
+2017-11-19,First Division A,2017-18,Waregem,Genk,0,1,7,3,1,3,0,0,1,10,4,0,0,0
+2017-11-19,First Division A,2017-18,Club Brugge,Waasland-Beveren,3,0,8,4,1,1,0,0,3,12,2,0,0,1
+2017-11-24,First Division A,2017-18,Gent,Mouscron,3,1,4,4,1,3,0,0,4,8,4,0,1,1
+2017-11-25,First Division A,2017-18,Antwerp,Mechelen,0,0,3,6,2,3,0,0,0,9,5,0,0,0
+2017-11-25,First Division A,2017-18,Oostende,Eupen,1,0,8,5,2,1,0,0,1,13,3,0,0,0
+2017-11-25,First Division A,2017-18,St Truiden,Lokeren,0,0,8,2,2,3,0,2,0,10,5,2,0,0
+2017-11-25,First Division A,2017-18,Waasland-Beveren,Charleroi,0,2,6,4,1,3,0,1,2,10,4,1,0,0
+2017-11-26,First Division A,2017-18,Anderlecht,Kortrijk,4,0,7,2,2,2,0,0,4,9,4,0,0,1
+2017-11-26,First Division A,2017-18,Club Brugge,Waregem,3,2,11,1,3,3,0,0,5,12,6,0,1,1
+2017-11-26,First Division A,2017-18,Genk,Standard,0,2,4,1,3,2,0,0,2,5,5,0,0,0
+2017-12-01,First Division A,2017-18,Charleroi,Oostende,1,1,2,6,3,4,0,0,2,8,7,0,1,0
+2017-12-02,First Division A,2017-18,Kortrijk,Waasland-Beveren,4,1,2,7,2,1,0,0,5,9,3,0,1,1
+2017-12-02,First Division A,2017-18,Lokeren,Anderlecht,1,2,3,2,2,5,0,0,3,5,7,0,1,1
+2017-12-02,First Division A,2017-18,Mechelen,Genk,3,2,3,6,2,3,0,0,5,9,5,0,1,1
+2017-12-02,First Division A,2017-18,Mouscron,St Truiden,1,1,5,5,3,2,0,0,2,10,5,0,1,0
+2017-12-03,First Division A,2017-18,Waregem,Gent,0,1,6,4,4,5,0,1,1,10,9,1,0,0
+2017-12-03,First Division A,2017-18,Standard,Antwerp,1,1,4,4,2,1,0,0,2,8,3,0,1,0
+2017-12-03,First Division A,2017-18,Eupen,Club Brugge,2,2,4,5,4,3,0,0,4,9,7,0,1,1
+2017-12-08,First Division A,2017-18,Waasland-Beveren,Standard,3,1,4,6,1,2,0,0,4,10,3,0,1,1
+2017-12-09,First Division A,2017-18,Antwerp,Mouscron,1,0,6,5,0,0,0,0,1,11,0,0,0,0
+2017-12-09,First Division A,2017-18,Genk,Eupen,1,1,4,0,2,4,0,0,2,4,6,0,1,0
+2017-12-09,First Division A,2017-18,Gent,Kortrijk,2,1,11,3,1,1,0,0,3,14,2,0,1,1
+2017-12-09,First Division A,2017-18,Oostende,Mechelen,0,1,6,2,0,0,0,0,1,8,0,0,0,0
+2017-12-10,First Division A,2017-18,Anderlecht,Charleroi,1,3,5,2,5,4,2,1,4,7,9,3,1,1
+2017-12-10,First Division A,2017-18,Club Brugge,Lokeren,3,1,10,5,0,0,0,0,4,15,0,0,1,1
+2017-12-10,First Division A,2017-18,St Truiden,Waregem,1,1,2,7,2,1,1,0,2,9,3,1,1,0
+2017-12-15,First Division A,2017-18,Mouscron,Oostende,1,0,3,7,1,0,0,0,1,10,1,0,0,0
+2017-12-16,First Division A,2017-18,Eupen,St Truiden,0,0,4,5,2,1,0,0,0,9,3,0,0,0
+2017-12-16,First Division A,2017-18,Kortrijk,Mechelen,2,0,3,6,3,1,0,0,2,9,4,0,0,0
+2017-12-16,First Division A,2017-18,Standard,Gent,0,0,8,7,4,6,0,0,0,15,10,0,0,0
+2017-12-16,First Division A,2017-18,Lokeren,Waasland-Beveren,1,1,6,6,2,2,0,0,2,12,4,0,1,0
+2017-12-17,First Division A,2017-18,Waregem,Antwerp,1,2,9,2,2,4,0,0,3,11,6,0,1,1
+2017-12-17,First Division A,2017-18,Charleroi,Genk,1,1,4,3,1,2,0,0,2,7,3,0,1,0
+2017-12-17,First Division A,2017-18,Club Brugge,Anderlecht,5,0,7,2,0,2,0,0,5,9,2,0,0,1
+2017-12-20,First Division A,2017-18,Mechelen,Club Brugge,0,3,3,6,4,2,2,0,3,9,6,2,0,1
+2017-12-21,First Division A,2017-18,Antwerp,Lokeren,1,2,7,0,3,1,0,0,3,7,4,0,1,1
+2017-12-21,First Division A,2017-18,Gent,Charleroi,1,0,6,2,4,3,0,0,1,8,7,0,0,0
+2017-12-22,First Division A,2017-18,Anderlecht,Eupen,1,0,10,3,0,0,0,0,1,13,0,0,0,0
+2017-12-22,First Division A,2017-18,Waasland-Beveren,Oostende,1,3,11,5,2,4,0,0,4,16,6,0,1,1
+2017-12-23,First Division A,2017-18,Genk,Kortrijk,2,3,11,3,2,5,1,0,5,14,7,1,1,1
+2017-12-23,First Division A,2017-18,Mouscron,Waregem,2,1,6,3,3,5,0,1,3,9,8,1,1,1
+2017-12-23,First Division A,2017-18,Standard,St Truiden,1,1,8,5,5,5,0,0,2,13,10,0,1,0
+2017-12-26,First Division A,2017-18,Lokeren,Mechelen,2,0,3,5,1,1,0,0,2,8,2,0,0,0
+2017-12-26,First Division A,2017-18,Waregem,Charleroi,0,4,1,5,1,0,2,0,4,6,1,2,0,1
+2017-12-26,First Division A,2017-18,Eupen,Waasland-Beveren,1,0,10,2,5,3,1,0,1,12,8,1,0,0
+2017-12-26,First Division A,2017-18,Club Brugge,Mouscron,4,2,5,1,3,2,0,1,6,6,5,1,1,1
+2017-12-26,First Division A,2017-18,Anderlecht,Gent,1,0,3,2,3,3,0,1,1,5,6,1,0,0
+2017-12-27,First Division A,2017-18,Kortrijk,Standard,2,1,7,8,3,5,0,1,3,15,8,1,1,1
+2017-12-27,First Division A,2017-18,St Truiden,Antwerp,0,3,3,5,4,3,0,0,3,8,7,0,0,1
+2018-01-16,First Division A,2017-18,Oostende,Genk,1,2,8,4,1,4,0,0,3,12,5,0,1,1
+2018-01-19,First Division A,2017-18,Charleroi,Mouscron,2,0,2,3,1,2,0,0,2,5,3,0,0,0
+2018-01-20,First Division A,2017-18,Mechelen,Waregem,0,2,3,1,5,3,0,0,2,4,8,0,0,0
+2018-01-20,First Division A,2017-18,Oostende,Kortrijk,2,1,4,8,2,4,0,0,3,12,6,0,1,1
+2018-01-20,First Division A,2017-18,Standard,Eupen,3,2,10,1,1,4,0,1,5,11,5,1,1,1
+2018-01-20,First Division A,2017-18,Waasland-Beveren,St Truiden,3,1,4,7,1,0,0,0,4,11,1,0,1,1
+2018-01-21,First Division A,2017-18,Genk,Anderlecht,0,1,3,8,3,5,1,0,1,11,8,1,0,0
+2018-01-21,First Division A,2017-18,Gent,Lokeren,3,0,6,5,2,1,0,0,3,11,3,0,0,1
+2018-01-21,First Division A,2017-18,Antwerp,Club Brugge,2,2,5,5,2,4,0,0,4,10,6,0,1,1
+2018-01-23,First Division A,2017-18,Waregem,Standard,2,1,6,6,2,4,0,1,3,12,6,1,1,1
+2018-01-23,First Division A,2017-18,Mouscron,Kortrijk,0,3,2,2,2,2,0,0,3,4,4,0,0,1
+2018-01-23,First Division A,2017-18,St Truiden,Mechelen,2,0,2,1,1,3,0,1,2,3,4,1,0,0
+2018-01-24,First Division A,2017-18,Lokeren,Genk,1,2,5,6,1,1,0,0,3,11,2,0,1,1
+2018-01-24,First Division A,2017-18,Eupen,Charleroi,1,0,2,10,2,1,0,0,1,12,3,0,0,0
+2018-01-24,First Division A,2017-18,Anderlecht,Waasland-Beveren,2,2,4,7,0,3,0,0,4,11,3,0,1,1
+2018-01-24,First Division A,2017-18,Antwerp,Gent,1,1,2,9,4,3,0,0,2,11,7,0,1,0
+2018-01-25,First Division A,2017-18,Club Brugge,Oostende,3,2,3,5,2,1,0,0,5,8,3,0,1,1
+2018-01-26,First Division A,2017-18,Mechelen,Mouscron,0,2,5,6,1,3,0,0,2,11,4,0,0,0
+2018-01-27,First Division A,2017-18,Charleroi,Antwerp,1,1,2,3,2,4,0,2,2,5,6,2,1,0
+2018-01-27,First Division A,2017-18,Genk,St Truiden,1,1,5,1,1,4,0,0,2,6,5,0,1,0
+2018-01-27,First Division A,2017-18,Kortrijk,Eupen,0,0,10,4,3,5,0,0,0,14,8,0,0,0
+2018-01-27,First Division A,2017-18,Waasland-Beveren,Waregem,2,2,6,10,3,2,0,0,4,16,5,0,1,1
+2018-01-28,First Division A,2017-18,Gent,Club Brugge,2,0,9,4,3,2,0,0,2,13,5,0,0,0
+2018-01-28,First Division A,2017-18,Oostende,Lokeren,2,3,5,7,3,1,0,0,5,12,4,0,1,1
+2018-01-28,First Division A,2017-18,Standard,Anderlecht,3,3,12,0,0,3,0,0,6,12,3,0,1,1
+2018-02-02,First Division A,2017-18,Antwerp,Waasland-Beveren,1,2,11,2,3,3,0,0,3,13,6,0,1,1
+2018-02-03,First Division A,2017-18,Lokeren,Standard,0,3,1,7,2,1,1,0,3,8,3,1,0,1
+2018-02-03,First Division A,2017-18,St Truiden,Kortrijk,0,2,8,6,2,2,0,0,2,14,4,0,0,0
+2018-02-03,First Division A,2017-18,Eupen,Gent,1,1,5,12,4,1,1,0,2,17,5,1,1,0
+2018-02-03,First Division A,2017-18,Mouscron,Genk,0,1,7,2,1,1,0,0,1,9,2,0,0,0
+2018-02-04,First Division A,2017-18,Anderlecht,Mechelen,2,2,5,5,2,2,0,0,4,10,4,0,1,1
+2018-02-04,First Division A,2017-18,Club Brugge,Charleroi,3,3,9,3,2,2,0,0,6,12,4,0,1,1
+2018-02-04,First Division A,2017-18,Waregem,Oostende,1,1,7,3,6,3,0,0,2,10,9,0,1,0
+2018-02-09,First Division A,2017-18,Genk,Waregem,3,1,2,9,2,4,0,0,4,11,6,0,1,1
+2018-02-10,First Division A,2017-18,Mechelen,Eupen,1,0,15,3,1,2,0,0,1,18,3,0,0,0
+2018-02-10,First Division A,2017-18,Gent,St Truiden,3,0,2,2,3,3,0,1,3,4,6,1,0,1
+2018-02-10,First Division A,2017-18,Kortrijk,Antwerp,4,0,6,7,0,2,0,0,4,13,2,0,0,1
+2018-02-10,First Division A,2017-18,Oostende,Anderlecht,2,0,3,9,2,3,0,1,2,12,5,1,0,0
+2018-02-11,First Division A,2017-18,Standard,Mouscron,4,3,10,3,3,6,1,1,7,13,9,2,1,1
+2018-02-11,First Division A,2017-18,Charleroi,Lokeren,1,1,10,3,0,0,0,0,2,13,0,0,1,0
+2018-02-11,First Division A,2017-18,Waasland-Beveren,Club Brugge,1,1,4,4,3,3,0,0,2,8,6,0,1,0
+2018-02-16,First Division A,2017-18,St Truiden,Anderlecht,1,0,5,7,3,4,0,0,1,12,7,0,0,0
+2018-02-17,First Division A,2017-18,Antwerp,Oostende,0,0,9,3,2,1,0,0,0,12,3,0,0,0
+2018-02-17,First Division A,2017-18,Club Brugge,Genk,2,2,7,3,1,3,0,0,4,10,4,0,1,1
+2018-02-17,First Division A,2017-18,Lokeren,Kortrijk,0,1,8,5,3,0,0,0,1,13,3,0,0,0
+2018-02-17,First Division A,2017-18,Waregem,Eupen,3,2,7,4,3,1,0,0,5,11,4,0,1,1
+2018-02-18,First Division A,2017-18,Charleroi,Standard,1,1,4,2,5,4,0,1,2,6,9,1,1,0
+2018-02-18,First Division A,2017-18,Gent,Mechelen,2,2,8,1,2,3,0,0,4,9,5,0,1,1
+2018-02-18,First Division A,2017-18,Mouscron,Waasland-Beveren,2,2,2,1,5,1,0,0,4,3,6,0,1,1
+2018-02-23,First Division A,2017-18,Genk,Antwerp,4,0,8,7,1,4,0,1,4,15,5,1,0,1
+2018-02-24,First Division A,2017-18,Oostende,St Truiden,2,0,1,4,3,2,1,0,2,5,5,1,0,0
+2018-02-24,First Division A,2017-18,Waasland-Beveren,Gent,1,2,2,8,1,3,0,0,3,10,4,0,1,1
+2018-02-24,First Division A,2017-18,Eupen,Lokeren,3,2,9,5,3,2,1,0,5,14,5,1,1,1
+2018-02-24,First Division A,2017-18,Mechelen,Charleroi,1,1,2,3,3,3,0,0,2,5,6,0,1,0
+2018-02-25,First Division A,2017-18,Anderlecht,Mouscron,5,3,5,2,0,3,0,0,8,7,3,0,1,1
+2018-02-25,First Division A,2017-18,Kortrijk,Waregem,0,1,7,4,1,2,0,0,1,11,3,0,0,0
+2018-02-25,First Division A,2017-18,Standard,Club Brugge,1,1,6,8,1,1,0,0,2,14,2,0,1,0
+2018-03-03,First Division A,2017-18,Waasland-Beveren,Genk,0,1,2,7,1,3,0,1,1,9,4,1,0,0
+2018-03-03,First Division A,2017-18,Antwerp,Eupen,2,0,5,3,2,3,0,0,2,8,5,0,0,0
+2018-03-03,First Division A,2017-18,Charleroi,St Truiden,0,0,4,4,2,2,0,0,0,8,4,0,0,0
+2018-03-03,First Division A,2017-18,Club Brugge,Kortrijk,2,1,11,3,0,0,0,0,3,14,0,0,1,1
+2018-03-03,First Division A,2017-18,Gent,Oostende,2,3,5,2,2,6,0,0,5,7,8,0,1,1
+2018-03-03,First Division A,2017-18,Mouscron,Lokeren,1,2,2,4,3,3,1,0,3,6,6,1,1,1
+2018-03-03,First Division A,2017-18,Standard,Mechelen,3,2,6,3,2,1,0,0,5,9,3,0,1,1
+2018-03-03,First Division A,2017-18,Waregem,Anderlecht,2,3,8,3,1,2,0,0,5,11,3,0,1,1
+2018-03-11,First Division A,2017-18,Lokeren,Waregem,0,2,2,4,0,3,0,0,2,6,3,0,0,0
+2018-03-11,First Division A,2017-18,Mechelen,Waasland-Beveren,2,0,12,1,3,3,0,0,2,13,6,0,0,0
+2018-03-11,First Division A,2017-18,Kortrijk,Charleroi,2,0,5,5,3,2,0,0,2,10,5,0,0,0
+2018-03-11,First Division A,2017-18,Oostende,Standard,2,3,2,4,4,1,0,0,5,6,5,0,1,1
+2018-03-11,First Division A,2017-18,Eupen,Mouscron,4,0,16,2,2,4,0,0,4,18,6,0,0,1
+2018-03-11,First Division A,2017-18,Anderlecht,Antwerp,2,1,0,9,0,3,2,0,3,9,3,2,1,1
+2018-03-11,First Division A,2017-18,Genk,Gent,1,2,7,3,3,1,0,0,3,10,4,0,1,1
+2018-03-11,First Division A,2017-18,St Truiden,Club Brugge,0,1,6,8,3,3,0,0,1,14,6,0,0,0

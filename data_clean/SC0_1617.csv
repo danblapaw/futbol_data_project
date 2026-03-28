@@ -1,229 +1,229 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2016-08-06,Scottish Premiership,2016-17,Kilmarnock,Motherwell,1,2,5,3,3,8,1,1
-2016-08-06,Scottish Premiership,2016-17,Partick,Inverness C,2,0,2,5,2,7,0,0
-2016-08-06,Scottish Premiership,2016-17,Rangers,Hamilton,1,1,10,4,2,14,1,0
-2016-08-06,Scottish Premiership,2016-17,Ross County,Dundee,1,3,7,2,4,9,1,1
-2016-08-07,Scottish Premiership,2016-17,Hearts,Celtic,1,2,5,6,3,11,1,1
-2016-08-07,Scottish Premiership,2016-17,St Johnstone,Aberdeen,0,0,2,7,0,9,0,0
-2016-08-13,Scottish Premiership,2016-17,Aberdeen,Hearts,0,0,3,1,0,4,0,0
-2016-08-13,Scottish Premiership,2016-17,Dundee,Rangers,1,2,5,5,3,10,1,1
-2016-08-13,Scottish Premiership,2016-17,Hamilton,Kilmarnock,1,2,3,3,3,6,1,1
-2016-08-13,Scottish Premiership,2016-17,Inverness C,Ross County,2,3,6,4,5,10,1,1
-2016-08-13,Scottish Premiership,2016-17,Motherwell,St Johnstone,1,2,6,3,3,9,1,1
-2016-08-19,Scottish Premiership,2016-17,Dundee,Hamilton,1,1,4,6,2,10,1,0
-2016-08-20,Scottish Premiership,2016-17,St Johnstone,Celtic,2,4,1,6,6,7,1,1
-2016-08-20,Scottish Premiership,2016-17,Ross County,Kilmarnock,2,0,6,4,2,10,0,0
-2016-08-20,Scottish Premiership,2016-17,Aberdeen,Partick,2,1,3,6,3,9,1,1
-2016-08-20,Scottish Premiership,2016-17,Hearts,Inverness C,5,1,6,8,6,14,1,1
-2016-08-20,Scottish Premiership,2016-17,Rangers,Motherwell,2,1,14,4,3,18,1,1
-2016-08-26,Scottish Premiership,2016-17,Kilmarnock,Rangers,1,1,2,8,2,10,1,0
-2016-08-27,Scottish Premiership,2016-17,Celtic,Aberdeen,4,1,4,1,5,5,1,1
-2016-08-27,Scottish Premiership,2016-17,Hamilton,Ross County,1,0,6,5,1,11,0,0
-2016-08-27,Scottish Premiership,2016-17,Inverness C,St Johnstone,2,1,6,1,3,7,1,1
-2016-08-27,Scottish Premiership,2016-17,Motherwell,Dundee,0,0,8,5,0,13,0,0
-2016-08-27,Scottish Premiership,2016-17,Partick,Hearts,1,2,8,5,3,13,1,1
-2016-09-10,Scottish Premiership,2016-17,Ross County,Motherwell,1,1,3,3,2,6,1,0
-2016-09-10,Scottish Premiership,2016-17,Hearts,Hamilton,3,1,8,3,4,11,1,1
-2016-09-10,Scottish Premiership,2016-17,Partick,St Johnstone,0,2,2,3,2,5,0,0
-2016-09-10,Scottish Premiership,2016-17,Celtic,Rangers,5,1,3,1,6,4,1,1
-2016-09-10,Scottish Premiership,2016-17,Dundee,Kilmarnock,1,1,3,5,2,8,1,0
-2016-09-10,Scottish Premiership,2016-17,Aberdeen,Inverness C,1,1,5,2,2,7,1,0
-2016-09-17,Scottish Premiership,2016-17,Kilmarnock,Partick,2,2,9,7,4,16,1,1
-2016-09-17,Scottish Premiership,2016-17,Motherwell,Hamilton,4,2,5,4,6,9,1,1
-2016-09-17,Scottish Premiership,2016-17,Rangers,Ross County,0,0,14,1,0,15,0,0
-2016-09-17,Scottish Premiership,2016-17,St Johnstone,Hearts,1,0,6,11,1,17,0,0
-2016-09-18,Scottish Premiership,2016-17,Dundee,Aberdeen,1,3,1,5,4,6,1,1
-2016-09-18,Scottish Premiership,2016-17,Inverness C,Celtic,2,2,4,11,4,15,1,1
-2016-09-24,Scottish Premiership,2016-17,Celtic,Kilmarnock,6,1,4,1,7,5,1,1
-2016-09-24,Scottish Premiership,2016-17,Hearts,Ross County,0,0,9,4,0,13,0,0
-2016-09-24,Scottish Premiership,2016-17,Inverness C,Dundee,3,1,4,9,4,13,1,1
-2016-09-24,Scottish Premiership,2016-17,Partick,Motherwell,1,1,4,5,2,9,1,0
-2016-09-25,Scottish Premiership,2016-17,Hamilton,St Johnstone,1,1,6,10,2,16,1,0
-2016-09-25,Scottish Premiership,2016-17,Aberdeen,Rangers,2,1,4,8,3,12,1,1
-2016-09-30,Scottish Premiership,2016-17,Motherwell,Hearts,1,3,4,5,4,9,1,1
-2016-10-01,Scottish Premiership,2016-17,Dundee,Celtic,0,1,5,4,1,9,0,0
-2016-10-01,Scottish Premiership,2016-17,Hamilton,Inverness C,1,1,8,5,2,13,1,0
-2016-10-01,Scottish Premiership,2016-17,Kilmarnock,Aberdeen,0,4,2,6,4,8,0,1
-2016-10-01,Scottish Premiership,2016-17,Rangers,Partick,2,0,8,6,2,14,0,0
-2016-10-01,Scottish Premiership,2016-17,Ross County,St Johnstone,0,2,5,5,2,10,0,0
-2016-10-14,Scottish Premiership,2016-17,Inverness C,Rangers,0,1,1,6,1,7,0,0
-2016-10-15,Scottish Premiership,2016-17,Aberdeen,Ross County,4,0,6,2,4,8,0,1
-2016-10-15,Scottish Premiership,2016-17,Celtic,Motherwell,2,0,9,1,2,10,0,0
-2016-10-15,Scottish Premiership,2016-17,Hearts,Dundee,2,0,10,10,2,20,0,0
-2016-10-15,Scottish Premiership,2016-17,Partick,Hamilton,2,2,5,8,4,13,1,1
-2016-10-15,Scottish Premiership,2016-17,St Johnstone,Kilmarnock,0,1,9,1,1,10,0,0
-2016-10-22,Scottish Premiership,2016-17,Inverness C,Kilmarnock,1,1,0,5,2,5,1,0
-2016-10-22,Scottish Premiership,2016-17,Partick,Ross County,1,1,11,3,2,14,1,0
-2016-10-23,Scottish Premiership,2016-17,St Johnstone,Dundee,2,1,1,3,3,4,1,1
-2016-10-25,Scottish Premiership,2016-17,Hamilton,Aberdeen,1,0,1,6,1,7,0,0
-2016-10-26,Scottish Premiership,2016-17,Dundee,Partick,0,2,2,4,2,6,0,0
-2016-10-26,Scottish Premiership,2016-17,Kilmarnock,Hearts,2,0,1,2,2,3,0,0
-2016-10-26,Scottish Premiership,2016-17,Motherwell,Inverness C,0,3,4,4,3,8,0,1
-2016-10-26,Scottish Premiership,2016-17,Rangers,St Johnstone,1,1,15,5,2,20,1,0
-2016-10-26,Scottish Premiership,2016-17,Ross County,Celtic,0,4,7,7,4,14,0,1
-2016-10-29,Scottish Premiership,2016-17,Aberdeen,Celtic,0,1,3,3,1,6,0,0
-2016-10-29,Scottish Premiership,2016-17,Hamilton,Dundee,0,1,3,6,1,9,0,0
-2016-10-29,Scottish Premiership,2016-17,Inverness C,Hearts,3,3,3,10,6,13,1,1
-2016-10-29,Scottish Premiership,2016-17,Motherwell,Ross County,4,1,3,7,5,10,1,1
-2016-10-29,Scottish Premiership,2016-17,Rangers,Kilmarnock,3,0,10,3,3,13,0,1
-2016-10-29,Scottish Premiership,2016-17,St Johnstone,Partick,1,2,1,5,3,6,1,1
-2016-11-04,Scottish Premiership,2016-17,Partick,Aberdeen,1,2,5,2,3,7,1,1
-2016-11-05,Scottish Premiership,2016-17,Celtic,Inverness C,3,0,6,0,3,6,0,1
-2016-11-05,Scottish Premiership,2016-17,Dundee,Motherwell,2,0,3,3,2,6,0,0
-2016-11-05,Scottish Premiership,2016-17,Hearts,St Johnstone,2,2,8,4,4,12,1,1
-2016-11-05,Scottish Premiership,2016-17,Kilmarnock,Hamilton,0,0,8,5,0,13,0,0
-2016-11-06,Scottish Premiership,2016-17,Ross County,Rangers,1,1,7,13,2,20,1,0
-2016-11-18,Scottish Premiership,2016-17,Kilmarnock,Celtic,0,1,3,5,1,8,0,0
-2016-11-19,Scottish Premiership,2016-17,Inverness C,Aberdeen,1,3,1,6,4,7,1,1
-2016-11-19,Scottish Premiership,2016-17,Motherwell,Partick,2,0,6,7,2,13,0,0
-2016-11-19,Scottish Premiership,2016-17,Rangers,Dundee,1,0,14,3,1,17,0,0
-2016-11-19,Scottish Premiership,2016-17,St Johnstone,Ross County,2,4,7,3,6,10,1,1
-2016-11-21,Scottish Premiership,2016-17,Hamilton,Hearts,3,3,4,5,6,9,1,1
-2016-11-26,Scottish Premiership,2016-17,Partick,Rangers,1,2,7,11,3,18,1,1
-2016-11-26,Scottish Premiership,2016-17,Ross County,Hamilton,1,1,5,3,2,8,1,0
-2016-11-26,Scottish Premiership,2016-17,Dundee,Inverness C,2,1,3,4,3,7,1,1
-2016-11-26,Scottish Premiership,2016-17,Hearts,Motherwell,3,0,6,6,3,12,0,1
-2016-11-30,Scottish Premiership,2016-17,Hearts,Rangers,2,0,5,3,2,8,0,0
-2016-12-03,Scottish Premiership,2016-17,Hamilton,Partick,1,1,3,3,2,6,1,0
-2016-12-03,Scottish Premiership,2016-17,Kilmarnock,Dundee,2,0,13,1,2,14,0,0
-2016-12-03,Scottish Premiership,2016-17,Motherwell,Celtic,3,4,3,8,7,11,1,1
-2016-12-03,Scottish Premiership,2016-17,Rangers,Aberdeen,2,1,6,5,3,11,1,1
-2016-12-03,Scottish Premiership,2016-17,Ross County,Hearts,2,2,4,9,4,13,1,1
-2016-12-03,Scottish Premiership,2016-17,St Johnstone,Inverness C,3,0,0,3,3,3,0,1
-2016-12-06,Scottish Premiership,2016-17,Aberdeen,Kilmarnock,5,1,7,3,6,10,1,1
-2016-12-09,Scottish Premiership,2016-17,Partick,Celtic,1,4,1,5,5,6,1,1
-2016-12-10,Scottish Premiership,2016-17,Rangers,Hearts,2,0,3,2,2,5,0,0
-2016-12-10,Scottish Premiership,2016-17,Inverness C,Hamilton,1,1,1,6,2,7,1,0
-2016-12-10,Scottish Premiership,2016-17,Motherwell,Kilmarnock,0,0,9,5,0,14,0,0
-2016-12-10,Scottish Premiership,2016-17,Aberdeen,St Johnstone,0,0,6,4,0,10,0,0
-2016-12-10,Scottish Premiership,2016-17,Dundee,Ross County,0,0,8,9,0,17,0,0
-2016-12-13,Scottish Premiership,2016-17,Celtic,Hamilton,1,0,12,2,1,14,0,0
-2016-12-16,Scottish Premiership,2016-17,Hamilton,Rangers,1,2,3,6,3,9,1,1
-2016-12-17,Scottish Premiership,2016-17,Celtic,Dundee,2,1,4,3,3,7,1,1
-2016-12-17,Scottish Premiership,2016-17,Hearts,Partick,1,1,8,6,2,14,1,0
-2016-12-17,Scottish Premiership,2016-17,Kilmarnock,Inverness C,1,1,7,3,2,10,1,0
-2016-12-17,Scottish Premiership,2016-17,Ross County,Aberdeen,2,1,2,12,3,14,1,1
-2016-12-17,Scottish Premiership,2016-17,St Johnstone,Motherwell,1,1,11,0,2,11,1,0
-2016-12-20,Scottish Premiership,2016-17,Celtic,Partick,1,0,9,4,1,13,0,0
-2016-12-23,Scottish Premiership,2016-17,Dundee,Hearts,3,2,3,9,5,12,1,1
-2016-12-23,Scottish Premiership,2016-17,Kilmarnock,St Johnstone,0,1,1,9,1,10,0,0
-2016-12-23,Scottish Premiership,2016-17,Motherwell,Aberdeen,1,3,5,5,4,10,1,1
-2016-12-23,Scottish Premiership,2016-17,Ross County,Partick,1,3,1,6,4,7,1,1
-2016-12-24,Scottish Premiership,2016-17,Hamilton,Celtic,0,3,2,5,3,7,0,1
-2016-12-24,Scottish Premiership,2016-17,Rangers,Inverness C,1,0,4,4,1,8,0,0
-2016-12-27,Scottish Premiership,2016-17,Hearts,Kilmarnock,4,0,7,4,4,11,0,1
-2016-12-27,Scottish Premiership,2016-17,Aberdeen,Hamilton,2,1,16,6,3,22,1,1
-2016-12-28,Scottish Premiership,2016-17,Celtic,Ross County,2,0,11,7,2,18,0,0
-2016-12-28,Scottish Premiership,2016-17,Inverness C,Motherwell,1,2,10,4,3,14,1,1
-2016-12-28,Scottish Premiership,2016-17,Partick,Dundee,2,0,1,1,2,2,0,0
-2016-12-28,Scottish Premiership,2016-17,St Johnstone,Rangers,1,1,5,5,2,10,1,0
-2016-12-30,Scottish Premiership,2016-17,Hearts,Aberdeen,0,1,5,9,1,14,0,0
-2016-12-31,Scottish Premiership,2016-17,Dundee,St Johnstone,3,0,4,13,3,17,0,1
-2016-12-31,Scottish Premiership,2016-17,Hamilton,Motherwell,1,1,7,8,2,15,1,0
-2016-12-31,Scottish Premiership,2016-17,Partick,Kilmarnock,0,0,10,5,0,15,0,0
-2016-12-31,Scottish Premiership,2016-17,Rangers,Celtic,1,2,4,11,3,15,1,1
-2016-12-31,Scottish Premiership,2016-17,Ross County,Inverness C,3,2,6,10,5,16,1,1
-2017-01-25,Scottish Premiership,2016-17,Celtic,St Johnstone,1,0,7,8,1,15,0,0
-2017-01-27,Scottish Premiership,2016-17,Aberdeen,Dundee,3,0,9,3,3,12,0,1
-2017-01-28,Scottish Premiership,2016-17,St Johnstone,Hamilton,3,0,1,5,3,6,0,1
-2017-01-28,Scottish Premiership,2016-17,Motherwell,Rangers,0,2,3,13,2,16,0,0
-2017-01-28,Scottish Premiership,2016-17,Inverness C,Partick,0,0,3,2,0,5,0,0
-2017-01-28,Scottish Premiership,2016-17,Kilmarnock,Ross County,3,2,7,1,5,8,1,1
-2017-01-29,Scottish Premiership,2016-17,Celtic,Hearts,4,0,10,1,4,11,0,1
-2017-01-31,Scottish Premiership,2016-17,Hamilton,Inverness C,3,0,5,4,3,9,0,1
-2017-01-31,Scottish Premiership,2016-17,Ross County,Motherwell,1,2,4,3,3,7,1,1
-2017-02-01,Scottish Premiership,2016-17,Celtic,Aberdeen,1,0,4,0,1,4,0,0
-2017-02-01,Scottish Premiership,2016-17,Hearts,Rangers,4,1,3,5,5,8,1,1
-2017-02-01,Scottish Premiership,2016-17,Partick,St Johnstone,0,1,4,3,1,7,0,0
-2017-02-04,Scottish Premiership,2016-17,Motherwell,Hearts,0,3,1,5,3,6,0,1
-2017-02-04,Scottish Premiership,2016-17,Aberdeen,Partick,2,0,2,5,2,7,0,0
-2017-02-04,Scottish Premiership,2016-17,Hamilton,Kilmarnock,1,1,5,3,2,8,1,0
-2017-02-04,Scottish Premiership,2016-17,Inverness C,Dundee,2,2,6,5,4,11,1,1
-2017-02-04,Scottish Premiership,2016-17,Rangers,Ross County,1,1,15,1,2,16,1,0
-2017-02-05,Scottish Premiership,2016-17,St Johnstone,Celtic,2,5,5,6,7,11,1,1
-2017-02-11,Scottish Premiership,2016-17,Dundee,Kilmarnock,1,1,8,10,2,18,1,0
-2017-02-15,Scottish Premiership,2016-17,Aberdeen,Motherwell,7,2,6,4,9,10,1,1
-2017-02-18,Scottish Premiership,2016-17,Celtic,Motherwell,2,0,7,4,2,11,0,0
-2017-02-18,Scottish Premiership,2016-17,Hearts,Inverness C,1,1,11,4,2,15,1,0
-2017-02-18,Scottish Premiership,2016-17,Partick,Hamilton,2,0,2,4,2,6,0,0
-2017-02-18,Scottish Premiership,2016-17,Ross County,St Johnstone,1,2,4,11,3,15,1,1
-2017-02-19,Scottish Premiership,2016-17,Dundee,Rangers,2,1,5,10,3,15,1,1
-2017-02-19,Scottish Premiership,2016-17,Kilmarnock,Aberdeen,1,2,1,4,3,5,1,1
-2017-02-24,Scottish Premiership,2016-17,Inverness C,Rangers,2,1,7,8,3,15,1,1
-2017-02-25,Scottish Premiership,2016-17,Aberdeen,Ross County,1,0,4,3,1,7,0,0
-2017-02-25,Scottish Premiership,2016-17,Celtic,Hamilton,2,0,4,1,2,5,0,0
-2017-02-25,Scottish Premiership,2016-17,Motherwell,Dundee,1,5,2,5,6,7,1,1
-2017-02-25,Scottish Premiership,2016-17,Partick,Hearts,2,0,2,3,2,5,0,0
-2017-02-25,Scottish Premiership,2016-17,St Johnstone,Kilmarnock,0,2,7,2,2,9,0,0
-2017-02-28,Scottish Premiership,2016-17,Hamilton,Aberdeen,1,0,0,21,1,21,0,0
-2017-03-01,Scottish Premiership,2016-17,Dundee,Partick,0,1,3,2,1,5,0,0
-2017-03-01,Scottish Premiership,2016-17,Hearts,Ross County,0,1,3,2,1,5,0,0
-2017-03-01,Scottish Premiership,2016-17,Inverness C,Celtic,0,4,1,6,4,7,0,1
-2017-03-01,Scottish Premiership,2016-17,Rangers,St Johnstone,3,2,11,3,5,14,1,1
-2017-03-04,Scottish Premiership,2016-17,Kilmarnock,Motherwell,1,2,9,3,3,12,1,1
-2017-03-11,Scottish Premiership,2016-17,Aberdeen,Motherwell,1,0,12,4,1,16,0,0
-2017-03-11,Scottish Premiership,2016-17,Hearts,Hamilton,4,0,5,3,4,8,0,1
-2017-03-11,Scottish Premiership,2016-17,Partick,Inverness C,1,1,8,5,2,13,1,0
-2017-03-11,Scottish Premiership,2016-17,Ross County,Kilmarnock,1,2,8,4,3,12,1,1
-2017-03-11,Scottish Premiership,2016-17,St Johnstone,Dundee,2,0,3,7,2,10,0,0
-2017-03-12,Scottish Premiership,2016-17,Celtic,Rangers,1,1,3,3,2,6,1,0
-2017-03-18,Scottish Premiership,2016-17,Rangers,Hamilton,4,0,8,4,4,12,0,1
-2017-03-18,Scottish Premiership,2016-17,Motherwell,St Johnstone,1,2,2,9,3,11,1,1
-2017-03-18,Scottish Premiership,2016-17,Kilmarnock,Partick,1,1,8,4,2,12,1,0
-2017-03-18,Scottish Premiership,2016-17,Aberdeen,Hearts,2,0,6,3,2,9,0,0
-2017-03-18,Scottish Premiership,2016-17,Inverness C,Ross County,1,1,3,8,2,11,1,0
-2017-03-19,Scottish Premiership,2016-17,Dundee,Celtic,1,2,3,9,3,12,1,1
-2017-03-31,Scottish Premiership,2016-17,Dundee,Aberdeen,0,7,10,7,7,17,0,1
-2017-04-01,Scottish Premiership,2016-17,Hamilton,St Johnstone,1,0,12,3,1,15,0,0
-2017-04-01,Scottish Premiership,2016-17,Inverness C,Kilmarnock,1,1,8,6,2,14,1,0
-2017-04-01,Scottish Premiership,2016-17,Partick,Ross County,2,1,4,2,3,6,1,1
-2017-04-01,Scottish Premiership,2016-17,Rangers,Motherwell,1,1,9,7,2,16,1,0
-2017-04-02,Scottish Premiership,2016-17,Hearts,Celtic,0,5,2,2,5,4,0,1
-2017-04-04,Scottish Premiership,2016-17,Aberdeen,Inverness C,1,0,10,4,1,14,0,0
-2017-04-04,Scottish Premiership,2016-17,Ross County,Dundee,2,1,4,3,3,7,1,1
-2017-04-05,Scottish Premiership,2016-17,Motherwell,Hamilton,0,0,7,2,0,9,0,0
-2017-04-05,Scottish Premiership,2016-17,St Johnstone,Hearts,1,0,7,1,1,8,0,0
-2017-04-05,Scottish Premiership,2016-17,Celtic,Partick,1,1,7,2,2,9,1,0
-2017-04-05,Scottish Premiership,2016-17,Kilmarnock,Rangers,0,0,6,13,0,19,0,0
-2017-04-08,Scottish Premiership,2016-17,Celtic,Kilmarnock,3,1,5,3,4,8,1,1
-2017-04-08,Scottish Premiership,2016-17,Hamilton,Ross County,1,1,5,6,2,11,1,0
-2017-04-08,Scottish Premiership,2016-17,Hearts,Dundee,1,0,10,0,1,10,0,0
-2017-04-08,Scottish Premiership,2016-17,Inverness C,St Johnstone,0,3,6,1,3,7,0,1
-2017-04-08,Scottish Premiership,2016-17,Partick,Motherwell,1,0,1,7,1,8,0,0
-2017-04-09,Scottish Premiership,2016-17,Aberdeen,Rangers,0,3,7,3,3,10,0,1
-2017-04-14,Scottish Premiership,2016-17,Kilmarnock,Hearts,0,0,5,6,0,11,0,0
-2017-04-15,Scottish Premiership,2016-17,Rangers,Partick,2,0,10,1,2,11,0,0
-2017-04-15,Scottish Premiership,2016-17,St Johnstone,Aberdeen,1,2,4,3,3,7,1,1
-2017-04-15,Scottish Premiership,2016-17,Dundee,Hamilton,0,2,7,8,2,15,0,0
-2017-04-15,Scottish Premiership,2016-17,Motherwell,Inverness C,4,2,6,3,6,9,1,1
-2017-04-16,Scottish Premiership,2016-17,Ross County,Celtic,2,2,4,2,4,6,1,1
-2017-04-28,Scottish Premiership,2016-17,Ross County,Inverness C,4,0,3,6,4,9,0,1
-2017-04-29,Scottish Premiership,2016-17,Aberdeen,St Johnstone,0,2,4,2,2,6,0,0
-2017-04-29,Scottish Premiership,2016-17,Hamilton,Kilmarnock,0,2,4,3,2,7,0,0
-2017-04-29,Scottish Premiership,2016-17,Hearts,Partick,2,2,8,4,4,12,1,1
-2017-04-29,Scottish Premiership,2016-17,Motherwell,Dundee,2,3,11,1,5,12,1,1
-2017-04-29,Scottish Premiership,2016-17,Rangers,Celtic,1,5,1,5,6,6,1,1
-2017-05-06,Scottish Premiership,2016-17,Celtic,St Johnstone,4,1,6,0,5,6,1,1
-2017-05-06,Scottish Premiership,2016-17,Inverness C,Hamilton,2,1,5,6,3,11,1,1
-2017-05-06,Scottish Premiership,2016-17,Kilmarnock,Dundee,0,1,7,4,1,11,0,0
-2017-05-06,Scottish Premiership,2016-17,Motherwell,Ross County,0,1,14,6,1,20,0,0
-2017-05-07,Scottish Premiership,2016-17,Hearts,Aberdeen,1,2,4,3,3,7,1,1
-2017-05-07,Scottish Premiership,2016-17,Partick,Rangers,1,2,4,2,3,6,1,1
-2017-05-12,Scottish Premiership,2016-17,Aberdeen,Celtic,1,3,10,4,4,14,1,1
-2017-05-13,Scottish Premiership,2016-17,Dundee,Ross County,1,1,1,3,2,4,1,0
-2017-05-13,Scottish Premiership,2016-17,Hamilton,Motherwell,0,1,4,1,1,5,0,0
-2017-05-13,Scottish Premiership,2016-17,Kilmarnock,Inverness C,2,1,4,3,3,7,1,1
-2017-05-13,Scottish Premiership,2016-17,Rangers,Hearts,2,1,6,4,3,10,1,1
-2017-05-13,Scottish Premiership,2016-17,St Johnstone,Partick,1,0,4,3,1,7,0,0
-2017-05-16,Scottish Premiership,2016-17,Motherwell,Kilmarnock,3,1,8,2,4,10,1,1
-2017-05-16,Scottish Premiership,2016-17,Ross County,Hamilton,3,2,4,8,5,12,1,1
-2017-05-17,Scottish Premiership,2016-17,Dundee,Inverness C,0,2,11,3,2,14,0,0
-2017-05-17,Scottish Premiership,2016-17,Rangers,Aberdeen,1,2,3,6,3,9,1,1
-2017-05-17,Scottish Premiership,2016-17,St Johnstone,Hearts,1,0,1,11,1,12,0,0
-2017-05-18,Scottish Premiership,2016-17,Partick,Celtic,0,5,1,3,5,4,0,1
-2017-05-20,Scottish Premiership,2016-17,Inverness C,Motherwell,3,2,6,0,5,6,1,1
-2017-05-20,Scottish Premiership,2016-17,Hamilton,Dundee,4,0,7,3,4,10,0,1
-2017-05-20,Scottish Premiership,2016-17,Kilmarnock,Ross County,1,2,5,4,3,9,1,1
-2017-05-21,Scottish Premiership,2016-17,Partick,Aberdeen,0,6,6,2,6,8,0,1
-2017-05-21,Scottish Premiership,2016-17,Celtic,Hearts,2,0,3,4,2,7,0,0
-2017-05-21,Scottish Premiership,2016-17,St Johnstone,Rangers,1,2,7,4,3,11,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2016-08-06,Scottish Premiership,2016-17,Kilmarnock,Motherwell,1,2,5,3,1,3,0,0,3,8,4,0,1,1
+2016-08-06,Scottish Premiership,2016-17,Partick,Inverness C,2,0,2,5,2,1,0,0,2,7,3,0,0,0
+2016-08-06,Scottish Premiership,2016-17,Rangers,Hamilton,1,1,10,4,0,5,0,0,2,14,5,0,1,0
+2016-08-06,Scottish Premiership,2016-17,Ross County,Dundee,1,3,7,2,3,2,0,0,4,9,5,0,1,1
+2016-08-07,Scottish Premiership,2016-17,Hearts,Celtic,1,2,5,6,7,4,0,0,3,11,11,0,1,1
+2016-08-07,Scottish Premiership,2016-17,St Johnstone,Aberdeen,0,0,2,7,2,0,0,0,0,9,2,0,0,0
+2016-08-13,Scottish Premiership,2016-17,Aberdeen,Hearts,0,0,3,1,2,5,0,0,0,4,7,0,0,0
+2016-08-13,Scottish Premiership,2016-17,Dundee,Rangers,1,2,5,5,2,2,0,0,3,10,4,0,1,1
+2016-08-13,Scottish Premiership,2016-17,Hamilton,Kilmarnock,1,2,3,3,1,3,0,0,3,6,4,0,1,1
+2016-08-13,Scottish Premiership,2016-17,Inverness C,Ross County,2,3,6,4,4,5,0,0,5,10,9,0,1,1
+2016-08-13,Scottish Premiership,2016-17,Motherwell,St Johnstone,1,2,6,3,3,3,0,0,3,9,6,0,1,1
+2016-08-19,Scottish Premiership,2016-17,Dundee,Hamilton,1,1,4,6,1,2,0,0,2,10,3,0,1,0
+2016-08-20,Scottish Premiership,2016-17,St Johnstone,Celtic,2,4,1,6,3,4,0,0,6,7,7,0,1,1
+2016-08-20,Scottish Premiership,2016-17,Ross County,Kilmarnock,2,0,6,4,1,1,0,0,2,10,2,0,0,0
+2016-08-20,Scottish Premiership,2016-17,Aberdeen,Partick,2,1,3,6,1,2,0,1,3,9,3,1,1,1
+2016-08-20,Scottish Premiership,2016-17,Hearts,Inverness C,5,1,6,8,1,4,0,0,6,14,5,0,1,1
+2016-08-20,Scottish Premiership,2016-17,Rangers,Motherwell,2,1,14,4,0,0,0,0,3,18,0,0,1,1
+2016-08-26,Scottish Premiership,2016-17,Kilmarnock,Rangers,1,1,2,8,4,2,1,0,2,10,6,1,1,0
+2016-08-27,Scottish Premiership,2016-17,Celtic,Aberdeen,4,1,4,1,0,1,0,1,5,5,1,1,1,1
+2016-08-27,Scottish Premiership,2016-17,Hamilton,Ross County,1,0,6,5,3,2,0,0,1,11,5,0,0,0
+2016-08-27,Scottish Premiership,2016-17,Inverness C,St Johnstone,2,1,6,1,1,1,0,0,3,7,2,0,1,1
+2016-08-27,Scottish Premiership,2016-17,Motherwell,Dundee,0,0,8,5,1,2,0,0,0,13,3,0,0,0
+2016-08-27,Scottish Premiership,2016-17,Partick,Hearts,1,2,8,5,2,0,0,0,3,13,2,0,1,1
+2016-09-10,Scottish Premiership,2016-17,Ross County,Motherwell,1,1,3,3,1,2,1,0,2,6,3,1,1,0
+2016-09-10,Scottish Premiership,2016-17,Hearts,Hamilton,3,1,8,3,3,3,0,0,4,11,6,0,1,1
+2016-09-10,Scottish Premiership,2016-17,Partick,St Johnstone,0,2,2,3,0,1,0,0,2,5,1,0,0,0
+2016-09-10,Scottish Premiership,2016-17,Celtic,Rangers,5,1,3,1,4,2,0,1,6,4,6,1,1,1
+2016-09-10,Scottish Premiership,2016-17,Dundee,Kilmarnock,1,1,3,5,3,2,1,0,2,8,5,1,1,0
+2016-09-10,Scottish Premiership,2016-17,Aberdeen,Inverness C,1,1,5,2,0,3,0,0,2,7,3,0,1,0
+2016-09-17,Scottish Premiership,2016-17,Kilmarnock,Partick,2,2,9,7,2,1,0,1,4,16,3,1,1,1
+2016-09-17,Scottish Premiership,2016-17,Motherwell,Hamilton,4,2,5,4,3,4,0,0,6,9,7,0,1,1
+2016-09-17,Scottish Premiership,2016-17,Rangers,Ross County,0,0,14,1,1,1,0,0,0,15,2,0,0,0
+2016-09-17,Scottish Premiership,2016-17,St Johnstone,Hearts,1,0,6,11,6,1,0,0,1,17,7,0,0,0
+2016-09-18,Scottish Premiership,2016-17,Dundee,Aberdeen,1,3,1,5,3,4,1,0,4,6,7,1,1,1
+2016-09-18,Scottish Premiership,2016-17,Inverness C,Celtic,2,2,4,11,2,2,0,0,4,15,4,0,1,1
+2016-09-24,Scottish Premiership,2016-17,Celtic,Kilmarnock,6,1,4,1,0,2,0,0,7,5,2,0,1,1
+2016-09-24,Scottish Premiership,2016-17,Hearts,Ross County,0,0,9,4,2,3,0,1,0,13,5,1,0,0
+2016-09-24,Scottish Premiership,2016-17,Inverness C,Dundee,3,1,4,9,2,3,0,0,4,13,5,0,1,1
+2016-09-24,Scottish Premiership,2016-17,Partick,Motherwell,1,1,4,5,1,1,0,0,2,9,2,0,1,0
+2016-09-25,Scottish Premiership,2016-17,Hamilton,St Johnstone,1,1,6,10,5,1,0,0,2,16,6,0,1,0
+2016-09-25,Scottish Premiership,2016-17,Aberdeen,Rangers,2,1,4,8,5,4,0,0,3,12,9,0,1,1
+2016-09-30,Scottish Premiership,2016-17,Motherwell,Hearts,1,3,4,5,0,1,0,0,4,9,1,0,1,1
+2016-10-01,Scottish Premiership,2016-17,Dundee,Celtic,0,1,5,4,2,1,0,0,1,9,3,0,0,0
+2016-10-01,Scottish Premiership,2016-17,Hamilton,Inverness C,1,1,8,5,2,1,0,0,2,13,3,0,1,0
+2016-10-01,Scottish Premiership,2016-17,Kilmarnock,Aberdeen,0,4,2,6,2,0,0,0,4,8,2,0,0,1
+2016-10-01,Scottish Premiership,2016-17,Rangers,Partick,2,0,8,6,1,2,0,0,2,14,3,0,0,0
+2016-10-01,Scottish Premiership,2016-17,Ross County,St Johnstone,0,2,5,5,0,0,0,0,2,10,0,0,0,0
+2016-10-14,Scottish Premiership,2016-17,Inverness C,Rangers,0,1,1,6,3,1,0,0,1,7,4,0,0,0
+2016-10-15,Scottish Premiership,2016-17,Aberdeen,Ross County,4,0,6,2,1,2,0,1,4,8,3,1,0,1
+2016-10-15,Scottish Premiership,2016-17,Celtic,Motherwell,2,0,9,1,2,2,0,0,2,10,4,0,0,0
+2016-10-15,Scottish Premiership,2016-17,Hearts,Dundee,2,0,10,10,1,1,0,0,2,20,2,0,0,0
+2016-10-15,Scottish Premiership,2016-17,Partick,Hamilton,2,2,5,8,1,2,0,0,4,13,3,0,1,1
+2016-10-15,Scottish Premiership,2016-17,St Johnstone,Kilmarnock,0,1,9,1,3,1,0,0,1,10,4,0,0,0
+2016-10-22,Scottish Premiership,2016-17,Inverness C,Kilmarnock,1,1,0,5,3,2,0,0,2,5,5,0,1,0
+2016-10-22,Scottish Premiership,2016-17,Partick,Ross County,1,1,11,3,1,3,0,0,2,14,4,0,1,0
+2016-10-23,Scottish Premiership,2016-17,St Johnstone,Dundee,2,1,1,3,1,2,0,0,3,4,3,0,1,1
+2016-10-25,Scottish Premiership,2016-17,Hamilton,Aberdeen,1,0,1,6,0,0,0,0,1,7,0,0,0,0
+2016-10-26,Scottish Premiership,2016-17,Dundee,Partick,0,2,2,4,1,3,0,0,2,6,4,0,0,0
+2016-10-26,Scottish Premiership,2016-17,Kilmarnock,Hearts,2,0,1,2,1,3,0,0,2,3,4,0,0,0
+2016-10-26,Scottish Premiership,2016-17,Motherwell,Inverness C,0,3,4,4,0,1,0,0,3,8,1,0,0,1
+2016-10-26,Scottish Premiership,2016-17,Rangers,St Johnstone,1,1,15,5,3,3,0,0,2,20,6,0,1,0
+2016-10-26,Scottish Premiership,2016-17,Ross County,Celtic,0,4,7,7,1,1,0,0,4,14,2,0,0,1
+2016-10-29,Scottish Premiership,2016-17,Aberdeen,Celtic,0,1,3,3,2,3,0,0,1,6,5,0,0,0
+2016-10-29,Scottish Premiership,2016-17,Hamilton,Dundee,0,1,3,6,2,1,0,0,1,9,3,0,0,0
+2016-10-29,Scottish Premiership,2016-17,Inverness C,Hearts,3,3,3,10,3,2,0,0,6,13,5,0,1,1
+2016-10-29,Scottish Premiership,2016-17,Motherwell,Ross County,4,1,3,7,1,2,0,0,5,10,3,0,1,1
+2016-10-29,Scottish Premiership,2016-17,Rangers,Kilmarnock,3,0,10,3,0,2,0,0,3,13,2,0,0,1
+2016-10-29,Scottish Premiership,2016-17,St Johnstone,Partick,1,2,1,5,1,3,0,0,3,6,4,0,1,1
+2016-11-04,Scottish Premiership,2016-17,Partick,Aberdeen,1,2,5,2,2,0,0,0,3,7,2,0,1,1
+2016-11-05,Scottish Premiership,2016-17,Celtic,Inverness C,3,0,6,0,0,0,0,1,3,6,0,1,0,1
+2016-11-05,Scottish Premiership,2016-17,Dundee,Motherwell,2,0,3,3,1,2,0,0,2,6,3,0,0,0
+2016-11-05,Scottish Premiership,2016-17,Hearts,St Johnstone,2,2,8,4,3,2,0,0,4,12,5,0,1,1
+2016-11-05,Scottish Premiership,2016-17,Kilmarnock,Hamilton,0,0,8,5,1,2,0,0,0,13,3,0,0,0
+2016-11-06,Scottish Premiership,2016-17,Ross County,Rangers,1,1,7,13,6,2,0,0,2,20,8,0,1,0
+2016-11-18,Scottish Premiership,2016-17,Kilmarnock,Celtic,0,1,3,5,2,3,0,0,1,8,5,0,0,0
+2016-11-19,Scottish Premiership,2016-17,Inverness C,Aberdeen,1,3,1,6,1,1,0,0,4,7,2,0,1,1
+2016-11-19,Scottish Premiership,2016-17,Motherwell,Partick,2,0,6,7,1,4,0,0,2,13,5,0,0,0
+2016-11-19,Scottish Premiership,2016-17,Rangers,Dundee,1,0,14,3,1,2,0,0,1,17,3,0,0,0
+2016-11-19,Scottish Premiership,2016-17,St Johnstone,Ross County,2,4,7,3,3,2,0,0,6,10,5,0,1,1
+2016-11-21,Scottish Premiership,2016-17,Hamilton,Hearts,3,3,4,5,1,2,0,0,6,9,3,0,1,1
+2016-11-26,Scottish Premiership,2016-17,Partick,Rangers,1,2,7,11,1,4,0,0,3,18,5,0,1,1
+2016-11-26,Scottish Premiership,2016-17,Ross County,Hamilton,1,1,5,3,3,2,0,0,2,8,5,0,1,0
+2016-11-26,Scottish Premiership,2016-17,Dundee,Inverness C,2,1,3,4,3,1,0,1,3,7,4,1,1,1
+2016-11-26,Scottish Premiership,2016-17,Hearts,Motherwell,3,0,6,6,1,1,0,0,3,12,2,0,0,1
+2016-11-30,Scottish Premiership,2016-17,Hearts,Rangers,2,0,5,3,2,1,0,0,2,8,3,0,0,0
+2016-12-03,Scottish Premiership,2016-17,Hamilton,Partick,1,1,3,3,4,1,0,0,2,6,5,0,1,0
+2016-12-03,Scottish Premiership,2016-17,Kilmarnock,Dundee,2,0,13,1,2,3,0,0,2,14,5,0,0,0
+2016-12-03,Scottish Premiership,2016-17,Motherwell,Celtic,3,4,3,8,4,3,0,0,7,11,7,0,1,1
+2016-12-03,Scottish Premiership,2016-17,Rangers,Aberdeen,2,1,6,5,5,2,1,1,3,11,7,2,1,1
+2016-12-03,Scottish Premiership,2016-17,Ross County,Hearts,2,2,4,9,3,1,0,0,4,13,4,0,1,1
+2016-12-03,Scottish Premiership,2016-17,St Johnstone,Inverness C,3,0,0,3,2,2,0,1,3,3,4,1,0,1
+2016-12-06,Scottish Premiership,2016-17,Aberdeen,Kilmarnock,5,1,7,3,2,1,0,0,6,10,3,0,1,1
+2016-12-09,Scottish Premiership,2016-17,Partick,Celtic,1,4,1,5,2,0,0,0,5,6,2,0,1,1
+2016-12-10,Scottish Premiership,2016-17,Rangers,Hearts,2,0,3,2,1,4,0,0,2,5,5,0,0,0
+2016-12-10,Scottish Premiership,2016-17,Inverness C,Hamilton,1,1,1,6,3,3,0,0,2,7,6,0,1,0
+2016-12-10,Scottish Premiership,2016-17,Motherwell,Kilmarnock,0,0,9,5,2,3,0,0,0,14,5,0,0,0
+2016-12-10,Scottish Premiership,2016-17,Aberdeen,St Johnstone,0,0,6,4,1,3,0,0,0,10,4,0,0,0
+2016-12-10,Scottish Premiership,2016-17,Dundee,Ross County,0,0,8,9,2,3,0,0,0,17,5,0,0,0
+2016-12-13,Scottish Premiership,2016-17,Celtic,Hamilton,1,0,12,2,1,2,0,0,1,14,3,0,0,0
+2016-12-16,Scottish Premiership,2016-17,Hamilton,Rangers,1,2,3,6,5,1,0,0,3,9,6,0,1,1
+2016-12-17,Scottish Premiership,2016-17,Celtic,Dundee,2,1,4,3,1,1,0,0,3,7,2,0,1,1
+2016-12-17,Scottish Premiership,2016-17,Hearts,Partick,1,1,8,6,0,2,0,0,2,14,2,0,1,0
+2016-12-17,Scottish Premiership,2016-17,Kilmarnock,Inverness C,1,1,7,3,3,2,0,0,2,10,5,0,1,0
+2016-12-17,Scottish Premiership,2016-17,Ross County,Aberdeen,2,1,2,12,2,2,1,0,3,14,4,1,1,1
+2016-12-17,Scottish Premiership,2016-17,St Johnstone,Motherwell,1,1,11,0,1,1,0,0,2,11,2,0,1,0
+2016-12-20,Scottish Premiership,2016-17,Celtic,Partick,1,0,9,4,2,2,0,0,1,13,4,0,0,0
+2016-12-23,Scottish Premiership,2016-17,Dundee,Hearts,3,2,3,9,1,1,0,0,5,12,2,0,1,1
+2016-12-23,Scottish Premiership,2016-17,Kilmarnock,St Johnstone,0,1,1,9,1,2,1,0,1,10,3,1,0,0
+2016-12-23,Scottish Premiership,2016-17,Motherwell,Aberdeen,1,3,5,5,2,2,0,0,4,10,4,0,1,1
+2016-12-23,Scottish Premiership,2016-17,Ross County,Partick,1,3,1,6,1,0,0,0,4,7,1,0,1,1
+2016-12-24,Scottish Premiership,2016-17,Hamilton,Celtic,0,3,2,5,3,0,0,1,3,7,3,1,0,1
+2016-12-24,Scottish Premiership,2016-17,Rangers,Inverness C,1,0,4,4,1,3,0,0,1,8,4,0,0,0
+2016-12-27,Scottish Premiership,2016-17,Hearts,Kilmarnock,4,0,7,4,0,2,0,0,4,11,2,0,0,1
+2016-12-27,Scottish Premiership,2016-17,Aberdeen,Hamilton,2,1,16,6,2,3,0,1,3,22,5,1,1,1
+2016-12-28,Scottish Premiership,2016-17,Celtic,Ross County,2,0,11,7,0,2,0,0,2,18,2,0,0,0
+2016-12-28,Scottish Premiership,2016-17,Inverness C,Motherwell,1,2,10,4,4,1,0,0,3,14,5,0,1,1
+2016-12-28,Scottish Premiership,2016-17,Partick,Dundee,2,0,1,1,5,2,0,0,2,2,7,0,0,0
+2016-12-28,Scottish Premiership,2016-17,St Johnstone,Rangers,1,1,5,5,3,3,0,0,2,10,6,0,1,0
+2016-12-30,Scottish Premiership,2016-17,Hearts,Aberdeen,0,1,5,9,2,2,0,0,1,14,4,0,0,0
+2016-12-31,Scottish Premiership,2016-17,Dundee,St Johnstone,3,0,4,13,1,2,0,0,3,17,3,0,0,1
+2016-12-31,Scottish Premiership,2016-17,Hamilton,Motherwell,1,1,7,8,2,2,0,1,2,15,4,1,1,0
+2016-12-31,Scottish Premiership,2016-17,Partick,Kilmarnock,0,0,10,5,1,1,0,0,0,15,2,0,0,0
+2016-12-31,Scottish Premiership,2016-17,Rangers,Celtic,1,2,4,11,3,3,0,0,3,15,6,0,1,1
+2016-12-31,Scottish Premiership,2016-17,Ross County,Inverness C,3,2,6,10,1,2,0,0,5,16,3,0,1,1
+2017-01-25,Scottish Premiership,2016-17,Celtic,St Johnstone,1,0,7,8,1,2,0,0,1,15,3,0,0,0
+2017-01-27,Scottish Premiership,2016-17,Aberdeen,Dundee,3,0,9,3,1,1,0,0,3,12,2,0,0,1
+2017-01-28,Scottish Premiership,2016-17,St Johnstone,Hamilton,3,0,1,5,1,1,0,0,3,6,2,0,0,1
+2017-01-28,Scottish Premiership,2016-17,Motherwell,Rangers,0,2,3,13,0,2,1,1,2,16,2,2,0,0
+2017-01-28,Scottish Premiership,2016-17,Inverness C,Partick,0,0,3,2,2,0,0,0,0,5,2,0,0,0
+2017-01-28,Scottish Premiership,2016-17,Kilmarnock,Ross County,3,2,7,1,2,2,0,0,5,8,4,0,1,1
+2017-01-29,Scottish Premiership,2016-17,Celtic,Hearts,4,0,10,1,0,1,0,0,4,11,1,0,0,1
+2017-01-31,Scottish Premiership,2016-17,Hamilton,Inverness C,3,0,5,4,3,2,0,0,3,9,5,0,0,1
+2017-01-31,Scottish Premiership,2016-17,Ross County,Motherwell,1,2,4,3,1,2,0,0,3,7,3,0,1,1
+2017-02-01,Scottish Premiership,2016-17,Celtic,Aberdeen,1,0,4,0,1,3,0,0,1,4,4,0,0,0
+2017-02-01,Scottish Premiership,2016-17,Hearts,Rangers,4,1,3,5,2,1,0,0,5,8,3,0,1,1
+2017-02-01,Scottish Premiership,2016-17,Partick,St Johnstone,0,1,4,3,1,2,1,0,1,7,3,1,0,0
+2017-02-04,Scottish Premiership,2016-17,Motherwell,Hearts,0,3,1,5,3,3,1,0,3,6,6,1,0,1
+2017-02-04,Scottish Premiership,2016-17,Aberdeen,Partick,2,0,2,5,2,0,0,0,2,7,2,0,0,0
+2017-02-04,Scottish Premiership,2016-17,Hamilton,Kilmarnock,1,1,5,3,2,2,0,0,2,8,4,0,1,0
+2017-02-04,Scottish Premiership,2016-17,Inverness C,Dundee,2,2,6,5,2,3,0,0,4,11,5,0,1,1
+2017-02-04,Scottish Premiership,2016-17,Rangers,Ross County,1,1,15,1,3,2,0,0,2,16,5,0,1,0
+2017-02-05,Scottish Premiership,2016-17,St Johnstone,Celtic,2,5,5,6,2,1,0,0,7,11,3,0,1,1
+2017-02-11,Scottish Premiership,2016-17,Dundee,Kilmarnock,1,1,8,10,2,3,0,0,2,18,5,0,1,0
+2017-02-15,Scottish Premiership,2016-17,Aberdeen,Motherwell,7,2,6,4,2,1,0,0,9,10,3,0,1,1
+2017-02-18,Scottish Premiership,2016-17,Celtic,Motherwell,2,0,7,4,0,1,0,0,2,11,1,0,0,0
+2017-02-18,Scottish Premiership,2016-17,Hearts,Inverness C,1,1,11,4,0,3,0,0,2,15,3,0,1,0
+2017-02-18,Scottish Premiership,2016-17,Partick,Hamilton,2,0,2,4,1,3,0,0,2,6,4,0,0,0
+2017-02-18,Scottish Premiership,2016-17,Ross County,St Johnstone,1,2,4,11,1,0,0,0,3,15,1,0,1,1
+2017-02-19,Scottish Premiership,2016-17,Dundee,Rangers,2,1,5,10,1,1,0,0,3,15,2,0,1,1
+2017-02-19,Scottish Premiership,2016-17,Kilmarnock,Aberdeen,1,2,1,4,2,2,0,0,3,5,4,0,1,1
+2017-02-24,Scottish Premiership,2016-17,Inverness C,Rangers,2,1,7,8,2,2,0,0,3,15,4,0,1,1
+2017-02-25,Scottish Premiership,2016-17,Aberdeen,Ross County,1,0,4,3,1,1,0,0,1,7,2,0,0,0
+2017-02-25,Scottish Premiership,2016-17,Celtic,Hamilton,2,0,4,1,0,4,0,0,2,5,4,0,0,0
+2017-02-25,Scottish Premiership,2016-17,Motherwell,Dundee,1,5,2,5,3,1,0,0,6,7,4,0,1,1
+2017-02-25,Scottish Premiership,2016-17,Partick,Hearts,2,0,2,3,3,1,0,1,2,5,4,1,0,0
+2017-02-25,Scottish Premiership,2016-17,St Johnstone,Kilmarnock,0,2,7,2,2,0,0,0,2,9,2,0,0,0
+2017-02-28,Scottish Premiership,2016-17,Hamilton,Aberdeen,1,0,0,21,1,1,1,0,1,21,2,1,0,0
+2017-03-01,Scottish Premiership,2016-17,Dundee,Partick,0,1,3,2,0,2,0,0,1,5,2,0,0,0
+2017-03-01,Scottish Premiership,2016-17,Hearts,Ross County,0,1,3,2,1,2,0,0,1,5,3,0,0,0
+2017-03-01,Scottish Premiership,2016-17,Inverness C,Celtic,0,4,1,6,1,0,0,0,4,7,1,0,0,1
+2017-03-01,Scottish Premiership,2016-17,Rangers,St Johnstone,3,2,11,3,2,3,1,0,5,14,5,1,1,1
+2017-03-04,Scottish Premiership,2016-17,Kilmarnock,Motherwell,1,2,9,3,0,4,0,0,3,12,4,0,1,1
+2017-03-11,Scottish Premiership,2016-17,Aberdeen,Motherwell,1,0,12,4,1,6,0,0,1,16,7,0,0,0
+2017-03-11,Scottish Premiership,2016-17,Hearts,Hamilton,4,0,5,3,0,3,0,0,4,8,3,0,0,1
+2017-03-11,Scottish Premiership,2016-17,Partick,Inverness C,1,1,8,5,1,2,0,0,2,13,3,0,1,0
+2017-03-11,Scottish Premiership,2016-17,Ross County,Kilmarnock,1,2,8,4,4,3,0,0,3,12,7,0,1,1
+2017-03-11,Scottish Premiership,2016-17,St Johnstone,Dundee,2,0,3,7,1,3,0,0,2,10,4,0,0,0
+2017-03-12,Scottish Premiership,2016-17,Celtic,Rangers,1,1,3,3,2,4,0,0,2,6,6,0,1,0
+2017-03-18,Scottish Premiership,2016-17,Rangers,Hamilton,4,0,8,4,2,2,0,0,4,12,4,0,0,1
+2017-03-18,Scottish Premiership,2016-17,Motherwell,St Johnstone,1,2,2,9,0,1,0,0,3,11,1,0,1,1
+2017-03-18,Scottish Premiership,2016-17,Kilmarnock,Partick,1,1,8,4,1,0,0,0,2,12,1,0,1,0
+2017-03-18,Scottish Premiership,2016-17,Aberdeen,Hearts,2,0,6,3,1,3,1,0,2,9,4,1,0,0
+2017-03-18,Scottish Premiership,2016-17,Inverness C,Ross County,1,1,3,8,1,1,0,0,2,11,2,0,1,0
+2017-03-19,Scottish Premiership,2016-17,Dundee,Celtic,1,2,3,9,4,3,0,0,3,12,7,0,1,1
+2017-03-31,Scottish Premiership,2016-17,Dundee,Aberdeen,0,7,10,7,1,0,0,0,7,17,1,0,0,1
+2017-04-01,Scottish Premiership,2016-17,Hamilton,St Johnstone,1,0,12,3,2,1,0,2,1,15,3,2,0,0
+2017-04-01,Scottish Premiership,2016-17,Inverness C,Kilmarnock,1,1,8,6,1,1,0,0,2,14,2,0,1,0
+2017-04-01,Scottish Premiership,2016-17,Partick,Ross County,2,1,4,2,3,1,0,0,3,6,4,0,1,1
+2017-04-01,Scottish Premiership,2016-17,Rangers,Motherwell,1,1,9,7,2,4,0,0,2,16,6,0,1,0
+2017-04-02,Scottish Premiership,2016-17,Hearts,Celtic,0,5,2,2,3,3,0,0,5,4,6,0,0,1
+2017-04-04,Scottish Premiership,2016-17,Aberdeen,Inverness C,1,0,10,4,0,2,0,0,1,14,2,0,0,0
+2017-04-04,Scottish Premiership,2016-17,Ross County,Dundee,2,1,4,3,2,2,1,1,3,7,4,2,1,1
+2017-04-05,Scottish Premiership,2016-17,Motherwell,Hamilton,0,0,7,2,1,2,0,1,0,9,3,1,0,0
+2017-04-05,Scottish Premiership,2016-17,St Johnstone,Hearts,1,0,7,1,1,4,0,1,1,8,5,1,0,0
+2017-04-05,Scottish Premiership,2016-17,Celtic,Partick,1,1,7,2,1,3,0,0,2,9,4,0,1,0
+2017-04-05,Scottish Premiership,2016-17,Kilmarnock,Rangers,0,0,6,13,4,2,0,0,0,19,6,0,0,0
+2017-04-08,Scottish Premiership,2016-17,Celtic,Kilmarnock,3,1,5,3,2,2,0,0,4,8,4,0,1,1
+2017-04-08,Scottish Premiership,2016-17,Hamilton,Ross County,1,1,5,6,3,0,1,0,2,11,3,1,1,0
+2017-04-08,Scottish Premiership,2016-17,Hearts,Dundee,1,0,10,0,0,1,0,0,1,10,1,0,0,0
+2017-04-08,Scottish Premiership,2016-17,Inverness C,St Johnstone,0,3,6,1,0,1,1,0,3,7,1,1,0,1
+2017-04-08,Scottish Premiership,2016-17,Partick,Motherwell,1,0,1,7,0,0,0,0,1,8,0,0,0,0
+2017-04-09,Scottish Premiership,2016-17,Aberdeen,Rangers,0,3,7,3,3,2,0,0,3,10,5,0,0,1
+2017-04-14,Scottish Premiership,2016-17,Kilmarnock,Hearts,0,0,5,6,0,2,0,0,0,11,2,0,0,0
+2017-04-15,Scottish Premiership,2016-17,Rangers,Partick,2,0,10,1,0,2,0,0,2,11,2,0,0,0
+2017-04-15,Scottish Premiership,2016-17,St Johnstone,Aberdeen,1,2,4,3,3,1,0,0,3,7,4,0,1,1
+2017-04-15,Scottish Premiership,2016-17,Dundee,Hamilton,0,2,7,8,0,1,0,0,2,15,1,0,0,0
+2017-04-15,Scottish Premiership,2016-17,Motherwell,Inverness C,4,2,6,3,0,1,0,0,6,9,1,0,1,1
+2017-04-16,Scottish Premiership,2016-17,Ross County,Celtic,2,2,4,2,4,1,0,1,4,6,5,1,1,1
+2017-04-28,Scottish Premiership,2016-17,Ross County,Inverness C,4,0,3,6,2,1,0,1,4,9,3,1,0,1
+2017-04-29,Scottish Premiership,2016-17,Aberdeen,St Johnstone,0,2,4,2,3,3,0,0,2,6,6,0,0,0
+2017-04-29,Scottish Premiership,2016-17,Hamilton,Kilmarnock,0,2,4,3,1,3,0,0,2,7,4,0,0,0
+2017-04-29,Scottish Premiership,2016-17,Hearts,Partick,2,2,8,4,1,3,0,1,4,12,4,1,1,1
+2017-04-29,Scottish Premiership,2016-17,Motherwell,Dundee,2,3,11,1,1,2,0,0,5,12,3,0,1,1
+2017-04-29,Scottish Premiership,2016-17,Rangers,Celtic,1,5,1,5,2,2,0,0,6,6,4,0,1,1
+2017-05-06,Scottish Premiership,2016-17,Celtic,St Johnstone,4,1,6,0,1,4,0,0,5,6,5,0,1,1
+2017-05-06,Scottish Premiership,2016-17,Inverness C,Hamilton,2,1,5,6,4,1,0,0,3,11,5,0,1,1
+2017-05-06,Scottish Premiership,2016-17,Kilmarnock,Dundee,0,1,7,4,1,1,0,0,1,11,2,0,0,0
+2017-05-06,Scottish Premiership,2016-17,Motherwell,Ross County,0,1,14,6,0,2,0,0,1,20,2,0,0,0
+2017-05-07,Scottish Premiership,2016-17,Hearts,Aberdeen,1,2,4,3,1,2,1,0,3,7,3,1,1,1
+2017-05-07,Scottish Premiership,2016-17,Partick,Rangers,1,2,4,2,1,1,0,0,3,6,2,0,1,1
+2017-05-12,Scottish Premiership,2016-17,Aberdeen,Celtic,1,3,10,4,2,2,0,0,4,14,4,0,1,1
+2017-05-13,Scottish Premiership,2016-17,Dundee,Ross County,1,1,1,3,3,6,0,0,2,4,9,0,1,0
+2017-05-13,Scottish Premiership,2016-17,Hamilton,Motherwell,0,1,4,1,6,4,0,0,1,5,10,0,0,0
+2017-05-13,Scottish Premiership,2016-17,Kilmarnock,Inverness C,2,1,4,3,2,1,0,0,3,7,3,0,1,1
+2017-05-13,Scottish Premiership,2016-17,Rangers,Hearts,2,1,6,4,1,1,0,1,3,10,2,1,1,1
+2017-05-13,Scottish Premiership,2016-17,St Johnstone,Partick,1,0,4,3,3,3,0,0,1,7,6,0,0,0
+2017-05-16,Scottish Premiership,2016-17,Motherwell,Kilmarnock,3,1,8,2,5,3,0,0,4,10,8,0,1,1
+2017-05-16,Scottish Premiership,2016-17,Ross County,Hamilton,3,2,4,8,2,4,0,0,5,12,6,0,1,1
+2017-05-17,Scottish Premiership,2016-17,Dundee,Inverness C,0,2,11,3,0,2,0,0,2,14,2,0,0,0
+2017-05-17,Scottish Premiership,2016-17,Rangers,Aberdeen,1,2,3,6,2,1,0,1,3,9,3,1,1,1
+2017-05-17,Scottish Premiership,2016-17,St Johnstone,Hearts,1,0,1,11,0,1,0,0,1,12,1,0,0,0
+2017-05-18,Scottish Premiership,2016-17,Partick,Celtic,0,5,1,3,0,0,0,0,5,4,0,0,0,1
+2017-05-20,Scottish Premiership,2016-17,Inverness C,Motherwell,3,2,6,0,0,0,0,0,5,6,0,0,1,1
+2017-05-20,Scottish Premiership,2016-17,Hamilton,Dundee,4,0,7,3,1,1,0,0,4,10,2,0,0,1
+2017-05-20,Scottish Premiership,2016-17,Kilmarnock,Ross County,1,2,5,4,2,0,0,0,3,9,2,0,1,1
+2017-05-21,Scottish Premiership,2016-17,Partick,Aberdeen,0,6,6,2,2,2,0,0,6,8,4,0,0,1
+2017-05-21,Scottish Premiership,2016-17,Celtic,Hearts,2,0,3,4,0,2,0,0,2,7,2,0,0,0
+2017-05-21,Scottish Premiership,2016-17,St Johnstone,Rangers,1,2,7,4,1,3,0,0,3,11,4,0,1,1

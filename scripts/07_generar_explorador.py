@@ -219,8 +219,12 @@ body{background:var(--bg);color:var(--text);font-family:var(--fb);display:flex;f
 #nav-list::-webkit-scrollbar-thumb{background:var(--border2);border-radius:2px}
 .nav-group-label{padding:10px 14px 4px;font-family:var(--fh);font-size:10px;font-weight:700;
   letter-spacing:.12em;text-transform:uppercase;color:var(--text3);
-  border-top:1px solid var(--border);margin-top:4px}
+  border-top:1px solid var(--border);margin-top:4px;cursor:pointer;
+  display:flex;align-items:center;justify-content:space-between;user-select:none}
 .nav-group-label:first-child{border-top:none;margin-top:0}
+.nav-group-label:hover{color:var(--text2)}
+.liga-arrow{font-size:9px;transition:transform .2s;flex-shrink:0;opacity:.6}
+.nav-group-label.expanded .liga-arrow{transform:rotate(90deg)}
 .nav-item{display:flex;align-items:center;gap:8px;padding:7px 14px;cursor:pointer;
   transition:background .15s;border-left:2px solid transparent}
 .nav-item:hover{background:rgba(0,230,118,.04);border-left-color:rgba(0,230,118,.3)}
@@ -444,42 +448,75 @@ document.getElementById('tp-teams').textContent=RAW.teams.length+' equipos';
 document.getElementById('tp-ligas').textContent=ligas.length+' ligas';
 document.getElementById('tp-temps').textContent=temps.length+' temporadas';
 
-function buildNav(){
+function ligaId(liga){return'liga-'+liga.replace(/[^a-z0-9]/gi,'_')}
+
+function buildNav(activeTeam){
   let h='';
   h+=`<div class="nav-item active" data-panel="home" onclick="navClick(this,'home')"><span class="ni-name">📊 Ligas por Temporada</span></div>`;
   h+=`<div class="nav-item" data-panel="standings" onclick="navClick(this,'standings')"><span class="ni-name">🏆 Clasificación</span></div>`;
   h+=`<div class="nav-item" data-panel="matches" onclick="navClick(this,'matches')"><span class="ni-name">⚽ Todos los Partidos</span><span class="ni-badge">${RAW.matches.length.toLocaleString()}</span></div>`;
   ligas.forEach(liga=>{
     const ts=RAW.teams.filter(t=>t.liga===liga);
-    h+=`<div class="nav-group-label">${liga}</div>`;
+    const activeLiga=activeTeam&&ts.some(t=>t.name===activeTeam);
+    const id=ligaId(liga);
+    h+=`<div class="nav-group-label${activeLiga?' expanded':''}" data-liga="${liga}" onclick="toggleLiga(this)"><span>${liga}</span><span class="liga-arrow">▸</span></div>`;
+    h+=`<div class="nav-liga-teams" id="${id}" style="${activeLiga?'':'display:none'}">`;
     ts.forEach(t=>{
       const esc=t.name.replace(/\\\\/g,'\\\\\\\\').replace(/'/g,"\\\\'");
-      h+=`<div class="nav-item" data-team="${t.name}" data-panel="team" onclick="navClick(this,'team','${esc}')"><span class="ni-name">${t.name}</span><span class="ni-badge">${t.p}p</span></div>`;
+      h+=`<div class="nav-item" data-team="${t.name}" data-liga="${liga}" data-panel="team" onclick="navClick(this,'team','${esc}')"><span class="ni-name">${t.name}</span><span class="ni-badge">${t.p}p</span></div>`;
     });
+    h+=`</div>`;
   });
   document.getElementById('nav-list').innerHTML=h;
 }
 buildNav();
 
+function toggleLiga(el){
+  const id=ligaId(el.dataset.liga);
+  const container=document.getElementById(id);
+  const open=container.style.display!=='none';
+  container.style.display=open?'none':'block';
+  el.classList.toggle('expanded',!open);
+}
+
 function filterNav(q){
   q=q.toLowerCase().trim();
-  document.querySelectorAll('#nav-list .nav-item').forEach(el=>{
-    const n=(el.dataset.team||'').toLowerCase();
-    el.style.display=(!q||n.includes(q))?'':'none';
-  });
-  document.querySelectorAll('.nav-group-label').forEach(g=>{
-    let next=g.nextElementSibling,vis=false;
-    while(next&&!next.classList.contains('nav-group-label')){
-      if(next.style.display!=='none')vis=true;
-      next=next.nextElementSibling;
-    }
-    g.style.display=vis?'':'none';
-  });
+  if(q){
+    document.querySelectorAll('#nav-list .nav-item[data-team]').forEach(el=>{
+      const n=(el.dataset.team||'').toLowerCase();
+      el.style.display=n.includes(q)?'':'none';
+    });
+    document.querySelectorAll('.nav-group-label[data-liga]').forEach(g=>{
+      const id=ligaId(g.dataset.liga);
+      const container=document.getElementById(id);
+      const hasVis=[...container.querySelectorAll('.nav-item')].some(i=>i.style.display!=='none');
+      g.style.display=hasVis?'':'none';
+      container.style.display=hasVis?'block':'none';
+      g.classList.toggle('expanded',hasVis);
+    });
+  } else {
+    document.querySelectorAll('#nav-list .nav-item[data-team]').forEach(el=>el.style.display='');
+    document.querySelectorAll('.nav-group-label[data-liga]').forEach(g=>{
+      g.style.display='';
+      const id=ligaId(g.dataset.liga);
+      const container=document.getElementById(id);
+      container.style.display=g.classList.contains('expanded')?'block':'none';
+    });
+  }
 }
 
 function navClick(el,panel,teamName){
   document.querySelectorAll('.nav-item').forEach(i=>i.classList.remove('active'));
   el.classList.add('active');
+  if(el.dataset.liga){
+    const header=document.querySelector(`.nav-group-label[data-liga="${el.dataset.liga}"]`);
+    const id=ligaId(el.dataset.liga);
+    const container=document.getElementById(id);
+    if(container&&container.style.display==='none'){
+      container.style.display='block';
+      if(header)header.classList.add('expanded');
+    }
+  }
   showPanel(panel,teamName);
 }
 function showPanel(panel,teamName){
