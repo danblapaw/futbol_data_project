@@ -1,241 +1,241 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2025-07-25,First Division A,2025-26,Antwerp,St. Gilloise,1,1,2,5,3,3,0,0,2,7,6,0,1,0
-2025-07-26,First Division A,2025-26,Dender,Cercle Brugge,0,0,3,3,0,2,0,0,0,6,2,0,0,0
-2025-07-26,First Division A,2025-26,Waregem,Mechelen,1,1,9,6,3,2,0,0,2,15,5,0,1,0
-2025-07-26,First Division A,2025-26,RAAL La Louviere,Standard,0,2,5,1,2,1,0,0,2,6,3,0,0,0
-2025-07-27,First Division A,2025-26,Anderlecht,Westerlo,5,2,8,3,4,3,0,0,7,11,7,0,1,1
-2025-07-27,First Division A,2025-26,Oud-Heverlee Leuven,Charleroi,2,2,4,8,2,2,0,0,4,12,4,0,1,1
-2025-07-27,First Division A,2025-26,Club Brugge,Genk,2,1,8,6,1,2,1,0,3,14,3,1,1,1
-2025-07-27,First Division A,2025-26,St Truiden,Gent,3,1,4,6,1,1,0,0,4,10,2,0,1,1
-2025-08-01,First Division A,2025-26,Mechelen,Club Brugge,2,1,2,3,4,0,0,0,3,5,4,0,1,1
-2025-08-02,First Division A,2025-26,Westerlo,Waregem,3,1,3,5,1,1,0,0,4,8,2,0,1,1
-2025-08-02,First Division A,2025-26,Standard,Dender,1,1,5,1,3,3,0,0,2,6,6,0,1,0
-2025-08-02,First Division A,2025-26,Gent,RAAL La Louviere,1,0,5,2,0,1,0,0,1,7,1,0,0,0
-2025-08-03,First Division A,2025-26,Charleroi,St Truiden,1,1,1,7,5,1,1,0,2,8,6,1,1,0
-2025-08-03,First Division A,2025-26,St. Gilloise,Oud-Heverlee Leuven,5,0,4,7,1,2,0,0,5,11,3,0,0,1
-2025-08-03,First Division A,2025-26,Genk,Antwerp,1,1,4,2,0,2,0,0,2,6,2,0,1,0
-2025-08-03,First Division A,2025-26,Cercle Brugge,Anderlecht,0,2,5,3,2,2,0,0,2,8,4,0,0,0
-2025-08-08,First Division A,2025-26,St Truiden,Dender,2,0,4,2,3,0,0,1,2,6,3,1,0,0
-2025-08-09,First Division A,2025-26,Club Brugge,Cercle Brugge,2,0,9,5,2,3,0,1,2,14,5,1,0,0
-2025-08-09,First Division A,2025-26,Westerlo,Mechelen,0,1,8,5,1,1,0,0,1,13,2,0,0,0
-2025-08-09,First Division A,2025-26,Gent,St. Gilloise,2,3,5,10,1,4,0,0,5,15,5,0,1,1
-2025-08-10,First Division A,2025-26,RAAL La Louviere,Charleroi,1,0,4,3,3,0,0,0,1,7,3,0,0,0
-2025-08-10,First Division A,2025-26,Anderlecht,Waregem,2,3,6,5,0,3,0,0,5,11,3,0,1,1
-2025-08-10,First Division A,2025-26,Standard,Genk,2,1,2,6,3,3,0,0,3,8,6,0,1,1
-2025-08-10,First Division A,2025-26,Antwerp,Oud-Heverlee Leuven,3,1,5,3,3,5,0,1,4,8,8,1,1,1
-2025-08-15,First Division A,2025-26,Oud-Heverlee Leuven,Genk,1,2,6,6,2,2,0,0,3,12,4,0,1,1
-2025-08-16,First Division A,2025-26,Waregem,Club Brugge,0,1,3,9,2,2,0,0,1,12,4,0,0,0
-2025-08-16,First Division A,2025-26,Mechelen,Gent,1,1,2,11,2,1,0,0,2,13,3,0,1,0
-2025-08-16,First Division A,2025-26,St. Gilloise,Standard,3,0,12,1,1,2,0,1,3,13,3,1,0,1
-2025-08-17,First Division A,2025-26,Cercle Brugge,Westerlo,4,1,1,11,0,1,0,0,5,12,1,0,1,1
-2025-08-17,First Division A,2025-26,Charleroi,Antwerp,1,1,4,1,3,3,0,0,2,5,6,0,1,0
-2025-08-17,First Division A,2025-26,St Truiden,RAAL La Louviere,2,1,4,5,1,2,0,0,3,9,3,0,1,1
-2025-08-17,First Division A,2025-26,Dender,Anderlecht,0,2,2,7,1,1,0,0,2,9,2,0,0,0
-2025-08-23,First Division A,2025-26,Standard,Cercle Brugge,0,3,4,3,1,3,0,0,3,7,4,0,0,1
-2025-08-23,First Division A,2025-26,Waregem,St Truiden,0,2,2,11,2,0,1,0,2,13,2,1,0,0
-2025-08-24,First Division A,2025-26,Antwerp,Mechelen,2,1,6,13,0,3,1,0,3,19,3,1,1,1
-2025-08-24,First Division A,2025-26,RAAL La Louviere,St. Gilloise,0,0,5,2,2,3,0,0,0,7,5,0,0,0
-2025-08-24,First Division A,2025-26,Dender,Oud-Heverlee Leuven,0,1,4,6,3,4,0,0,1,10,7,0,0,0
-2025-08-29,First Division A,2025-26,Cercle Brugge,St Truiden,1,1,3,8,2,1,0,0,2,11,3,0,1,0
-2025-08-30,First Division A,2025-26,Mechelen,RAAL La Louviere,3,2,4,6,1,0,0,0,5,10,1,0,1,1
-2025-08-30,First Division A,2025-26,Westerlo,Antwerp,2,0,5,4,2,3,0,0,2,9,5,0,0,0
-2025-08-30,First Division A,2025-26,Charleroi,Dender,3,1,5,4,1,0,0,0,4,9,1,0,1,1
-2025-08-31,First Division A,2025-26,Gent,Club Brugge,1,1,6,7,4,2,0,0,2,13,6,0,1,0
-2025-08-31,First Division A,2025-26,Oud-Heverlee Leuven,Standard,1,0,4,4,3,3,0,0,1,8,6,0,0,0
-2025-08-31,First Division A,2025-26,St. Gilloise,Anderlecht,2,0,5,5,1,6,0,2,2,10,7,2,0,0
-2025-08-31,First Division A,2025-26,Genk,Waregem,3,2,5,4,2,2,1,0,5,9,4,1,1,1
-2025-09-12,First Division A,2025-26,Standard,Mechelen,1,1,12,5,3,3,0,0,2,17,6,0,1,0
-2025-09-13,First Division A,2025-26,Waregem,Oud-Heverlee Leuven,2,0,2,6,3,4,0,0,2,8,7,0,0,0
-2025-09-13,First Division A,2025-26,Dender,St. Gilloise,0,1,1,6,0,0,0,0,1,7,0,0,0,0
-2025-09-13,First Division A,2025-26,RAAL La Louviere,Club Brugge,1,0,5,6,0,1,0,0,1,11,1,0,0,0
-2025-09-14,First Division A,2025-26,Antwerp,Gent,1,2,5,1,4,2,0,1,3,6,6,1,1,1
-2025-09-14,First Division A,2025-26,Cercle Brugge,Charleroi,2,3,4,3,1,2,0,0,5,7,3,0,1,1
-2025-09-14,First Division A,2025-26,Anderlecht,Genk,1,1,3,7,2,3,1,0,2,10,5,1,1,0
-2025-09-14,First Division A,2025-26,St Truiden,Westerlo,0,3,8,3,1,2,0,0,3,11,3,0,0,1
-2025-09-17,First Division A,2025-26,Genk,Charleroi,0,1,4,3,0,2,0,0,1,7,2,0,0,0
-2025-09-19,First Division A,2025-26,Gent,Dender,3,0,2,5,1,1,0,0,3,7,2,0,0,1
-2025-09-20,First Division A,2025-26,Oud-Heverlee Leuven,RAAL La Louviere,1,2,2,1,4,3,0,0,3,3,7,0,1,1
-2025-09-20,First Division A,2025-26,Charleroi,Waregem,1,2,6,11,3,1,1,0,3,17,4,1,1,1
-2025-09-20,First Division A,2025-26,Anderlecht,Antwerp,0,0,8,2,3,2,0,0,0,10,5,0,0,0
-2025-09-21,First Division A,2025-26,Mechelen,Cercle Brugge,0,0,7,7,1,3,0,0,0,14,4,0,0,0
-2025-09-21,First Division A,2025-26,Club Brugge,St Truiden,2,0,5,0,1,2,0,0,2,5,3,0,0,0
-2025-09-21,First Division A,2025-26,Genk,St. Gilloise,1,2,8,5,2,4,0,0,3,13,6,0,1,1
-2025-09-21,First Division A,2025-26,Westerlo,Standard,0,2,7,1,0,5,0,0,2,8,5,0,0,0
-2025-09-23,First Division A,2025-26,Anderlecht,Gent,1,0,8,2,3,3,0,0,1,10,6,0,0,0
-2025-09-24,First Division A,2025-26,Club Brugge,Westerlo,5,5,5,4,1,3,0,0,10,9,4,0,1,1
-2025-09-26,First Division A,2025-26,Oud-Heverlee Leuven,Anderlecht,1,1,2,5,4,3,0,0,2,7,7,0,1,0
-2025-09-27,First Division A,2025-26,Waregem,Antwerp,2,0,4,4,0,1,0,0,2,8,1,0,0,0
-2025-09-27,First Division A,2025-26,Standard,Club Brugge,1,2,7,8,4,2,1,0,3,15,6,1,1,1
-2025-09-27,First Division A,2025-26,St. Gilloise,Westerlo,2,0,9,2,3,2,0,0,2,11,5,0,0,0
-2025-09-28,First Division A,2025-26,St Truiden,Genk,1,2,3,6,4,2,1,0,3,9,6,1,1,1
-2025-09-28,First Division A,2025-26,Cercle Brugge,Gent,2,4,10,2,2,3,0,0,6,12,5,0,1,1
-2025-09-28,First Division A,2025-26,Charleroi,Mechelen,0,2,5,3,0,4,0,0,2,8,4,0,0,0
-2025-09-28,First Division A,2025-26,Dender,RAAL La Louviere,0,0,4,2,1,3,0,0,0,6,4,0,0,0
-2025-10-03,First Division A,2025-26,Gent,Charleroi,2,1,4,2,2,4,0,0,3,6,6,0,1,1
-2025-10-04,First Division A,2025-26,Antwerp,Cercle Brugge,1,1,8,3,1,1,0,0,2,11,2,0,1,0
-2025-10-04,First Division A,2025-26,RAAL La Louviere,Waregem,0,0,12,1,2,3,0,0,0,13,5,0,0,0
-2025-10-04,First Division A,2025-26,Mechelen,St Truiden,1,3,5,9,3,1,0,0,4,14,4,0,1,1
-2025-10-05,First Division A,2025-26,Anderlecht,Standard,1,0,6,4,3,3,0,1,1,10,6,1,0,0
-2025-10-05,First Division A,2025-26,Genk,Dender,2,1,8,3,2,5,0,2,3,11,7,2,1,1
-2025-10-05,First Division A,2025-26,Club Brugge,St. Gilloise,1,0,7,3,2,3,0,0,1,10,5,0,0,0
-2025-10-05,First Division A,2025-26,Westerlo,Oud-Heverlee Leuven,2,0,6,6,2,2,0,0,2,12,4,0,0,0
-2025-10-18,First Division A,2025-26,RAAL La Louviere,Westerlo,0,0,2,2,0,1,0,0,0,4,1,0,0,0
-2025-10-18,First Division A,2025-26,Oud-Heverlee Leuven,Club Brugge,0,1,4,11,2,1,0,0,1,15,3,0,0,0
-2025-10-18,First Division A,2025-26,St. Gilloise,Charleroi,3,1,1,2,0,3,0,0,4,3,3,0,1,1
-2025-10-19,First Division A,2025-26,Cercle Brugge,Genk,2,2,4,4,3,2,0,0,4,8,5,0,1,1
-2025-10-19,First Division A,2025-26,Dender,Mechelen,1,3,4,4,1,0,0,0,4,8,1,0,1,1
-2025-10-19,First Division A,2025-26,St Truiden,Anderlecht,2,2,5,6,1,2,0,0,4,11,3,0,1,1
-2025-10-19,First Division A,2025-26,Waregem,Gent,4,1,3,12,0,2,0,0,5,15,2,0,1,1
-2025-10-20,First Division A,2025-26,Standard,Antwerp,1,0,4,5,2,3,1,0,1,9,5,1,0,0
-2025-10-24,First Division A,2025-26,Charleroi,Anderlecht,1,0,5,9,2,2,0,0,1,14,4,0,0,0
-2025-10-25,First Division A,2025-26,Westerlo,Dender,1,1,11,3,2,2,0,0,2,14,4,0,1,0
-2025-10-25,First Division A,2025-26,Mechelen,Oud-Heverlee Leuven,1,1,6,2,3,5,0,0,2,8,8,0,1,0
-2025-10-25,First Division A,2025-26,Gent,Standard,4,0,4,4,0,2,0,0,4,8,2,0,0,1
-2025-10-26,First Division A,2025-26,Antwerp,Club Brugge,0,1,1,5,2,1,0,0,1,6,3,0,0,0
-2025-10-26,First Division A,2025-26,Cercle Brugge,Waregem,1,1,0,3,0,1,0,0,2,3,1,0,1,0
-2025-10-26,First Division A,2025-26,Genk,RAAL La Louviere,1,1,9,3,1,3,0,0,2,12,4,0,1,0
-2025-10-26,First Division A,2025-26,St. Gilloise,St Truiden,2,0,5,6,1,2,0,0,2,11,3,0,0,0
-2025-10-31,First Division A,2025-26,Standard,Charleroi,3,1,4,5,2,3,0,0,4,9,5,0,1,1
-2025-11-01,First Division A,2025-26,Waregem,St. Gilloise,1,4,2,5,1,4,0,0,5,7,5,0,1,1
-2025-11-01,First Division A,2025-26,Club Brugge,Dender,2,1,7,4,1,1,0,0,3,11,2,0,1,1
-2025-11-01,First Division A,2025-26,Anderlecht,Mechelen,3,1,9,2,1,1,0,0,4,11,2,0,1,1
-2025-11-02,First Division A,2025-26,RAAL La Louviere,Cercle Brugge,2,1,1,5,3,1,0,0,3,6,4,0,1,1
-2025-11-02,First Division A,2025-26,St Truiden,Antwerp,1,0,6,4,3,2,0,1,1,10,5,1,0,0
-2025-11-02,First Division A,2025-26,Oud-Heverlee Leuven,Gent,4,0,0,9,4,2,0,1,4,9,6,1,0,1
-2025-11-02,First Division A,2025-26,Westerlo,Genk,0,1,4,4,0,1,0,0,1,8,1,0,0,0
-2025-11-07,First Division A,2025-26,Dender,Waregem,2,2,6,5,1,1,0,0,4,11,2,0,1,1
-2025-11-08,First Division A,2025-26,Cercle Brugge,Oud-Heverlee Leuven,1,2,8,3,1,1,0,0,3,11,2,0,1,1
-2025-11-08,First Division A,2025-26,Charleroi,Westerlo,2,0,7,5,2,1,0,0,2,12,3,0,0,0
-2025-11-08,First Division A,2025-26,Antwerp,RAAL La Louviere,3,1,7,4,4,3,0,1,4,11,7,1,1,1
-2025-11-09,First Division A,2025-26,Anderlecht,Club Brugge,1,0,6,5,5,4,0,0,1,11,9,0,0,0
-2025-11-09,First Division A,2025-26,St Truiden,Standard,1,0,9,1,0,1,0,0,1,10,1,0,0,0
-2025-11-09,First Division A,2025-26,Gent,Genk,1,1,6,2,2,1,0,0,2,8,3,0,1,0
-2025-11-09,First Division A,2025-26,Mechelen,St. Gilloise,1,1,4,10,4,2,0,0,2,14,6,0,1,0
-2025-11-21,First Division A,2025-26,Standard,Waregem,0,0,5,3,2,1,1,1,0,8,3,2,0,0
-2025-11-22,First Division A,2025-26,Westerlo,Gent,0,0,9,2,3,3,0,0,0,11,6,0,0,0
-2025-11-22,First Division A,2025-26,Club Brugge,Charleroi,1,0,6,11,2,1,0,0,1,17,3,0,0,0
-2025-11-22,First Division A,2025-26,St. Gilloise,Cercle Brugge,2,0,7,4,2,4,0,0,2,11,6,0,0,0
-2025-11-23,First Division A,2025-26,RAAL La Louviere,Anderlecht,0,1,5,7,2,3,0,0,1,12,5,0,0,0
-2025-11-23,First Division A,2025-26,Oud-Heverlee Leuven,St Truiden,1,2,10,1,3,2,0,0,3,11,5,0,1,1
-2025-11-23,First Division A,2025-26,Genk,Mechelen,0,1,6,3,0,5,0,0,1,9,5,0,0,0
-2025-11-23,First Division A,2025-26,Antwerp,Dender,1,2,5,3,1,4,0,0,3,8,5,0,1,1
-2025-11-28,First Division A,2025-26,Mechelen,Standard,0,1,4,4,1,1,0,0,1,8,2,0,0,0
-2025-11-29,First Division A,2025-26,Dender,Westerlo,2,2,2,4,4,1,0,0,4,6,5,0,1,1
-2025-11-29,First Division A,2025-26,Waregem,Cercle Brugge,1,1,6,7,1,2,0,0,2,13,3,0,1,0
-2025-11-29,First Division A,2025-26,Charleroi,RAAL La Louviere,0,0,6,5,0,1,0,0,0,11,1,0,0,0
-2025-11-30,First Division A,2025-26,Club Brugge,Antwerp,0,1,9,4,0,3,0,0,1,13,3,0,0,0
-2025-11-30,First Division A,2025-26,Genk,Oud-Heverlee Leuven,2,1,10,2,0,3,0,0,3,12,3,0,1,1
-2025-11-30,First Division A,2025-26,Anderlecht,St. Gilloise,1,0,4,2,2,4,0,0,1,6,6,0,0,0
-2025-11-30,First Division A,2025-26,Gent,St Truiden,1,2,5,6,2,2,0,0,3,11,4,0,1,1
-2025-12-05,First Division A,2025-26,RAAL La Louviere,Dender,1,2,5,2,1,1,0,0,3,7,2,0,1,1
-2025-12-06,First Division A,2025-26,Cercle Brugge,Standard,1,2,9,5,0,2,0,0,3,14,2,0,1,1
-2025-12-06,First Division A,2025-26,St. Gilloise,Gent,1,1,8,0,1,1,0,0,2,8,2,0,1,0
-2025-12-06,First Division A,2025-26,St Truiden,Club Brugge,3,2,8,6,1,1,0,0,5,14,2,0,1,1
-2025-12-07,First Division A,2025-26,Oud-Heverlee Leuven,Waregem,1,1,4,3,2,3,0,0,2,7,5,0,1,0
-2025-12-07,First Division A,2025-26,Antwerp,Genk,3,0,3,10,1,1,0,0,3,13,2,0,0,1
-2025-12-07,First Division A,2025-26,Mechelen,Charleroi,1,0,7,3,4,2,0,0,1,10,6,0,0,0
-2025-12-07,First Division A,2025-26,Westerlo,Anderlecht,4,0,5,9,3,2,0,0,4,14,5,0,0,1
-2025-12-12,First Division A,2025-26,Standard,Oud-Heverlee Leuven,0,1,5,4,2,2,0,0,1,9,4,0,0,0
-2025-12-13,First Division A,2025-26,Cercle Brugge,Mechelen,2,3,6,9,1,2,0,0,5,15,3,0,1,1
-2025-12-13,First Division A,2025-26,Waregem,RAAL La Louviere,2,2,3,2,1,2,0,0,4,5,3,0,1,1
-2025-12-13,First Division A,2025-26,Anderlecht,St Truiden,2,1,6,2,4,5,0,0,3,8,9,0,1,1
-2025-12-14,First Division A,2025-26,Gent,Antwerp,0,2,5,1,0,1,1,0,2,6,1,1,0,0
-2025-12-14,First Division A,2025-26,Dender,Club Brugge,1,5,0,3,0,0,0,0,6,3,0,0,1,1
-2025-12-14,First Division A,2025-26,Charleroi,St. Gilloise,1,1,4,5,1,2,0,0,2,9,3,0,1,0
-2025-12-14,First Division A,2025-26,Genk,Westerlo,1,1,9,7,0,2,0,1,2,16,2,1,1,0
-2025-12-19,First Division A,2025-26,Charleroi,Genk,2,2,8,1,2,0,0,0,4,9,2,0,1,1
-2025-12-20,First Division A,2025-26,Westerlo,RAAL La Louviere,2,1,4,5,1,0,0,0,3,9,1,0,1,1
-2025-12-20,First Division A,2025-26,St. Gilloise,Waregem,2,0,5,3,1,2,0,0,2,8,3,0,0,0
-2025-12-20,First Division A,2025-26,Dender,Standard,0,1,5,4,4,1,0,0,1,9,5,0,0,0
-2025-12-21,First Division A,2025-26,Club Brugge,Gent,2,1,10,2,0,2,0,0,3,12,2,0,1,1
-2025-12-21,First Division A,2025-26,St Truiden,Mechelen,1,0,2,6,2,2,0,0,1,8,4,0,0,0
-2025-12-21,First Division A,2025-26,Antwerp,Anderlecht,2,2,6,5,0,3,0,0,4,11,3,0,1,1
-2025-12-21,First Division A,2025-26,Oud-Heverlee Leuven,Cercle Brugge,0,2,8,7,6,5,0,0,2,15,11,0,0,0
-2025-12-26,First Division A,2025-26,Genk,Club Brugge,3,5,9,2,3,3,0,0,8,11,6,0,1,1
-2025-12-26,First Division A,2025-26,Cercle Brugge,St. Gilloise,1,1,4,4,3,4,1,1,2,8,7,2,1,0
-2025-12-26,First Division A,2025-26,Standard,St Truiden,1,2,1,5,1,2,1,0,3,6,3,1,1,1
-2025-12-26,First Division A,2025-26,Anderlecht,Charleroi,1,2,8,3,1,4,0,0,3,11,5,0,1,1
-2025-12-27,First Division A,2025-26,Antwerp,Waregem,2,1,5,7,3,0,0,0,3,12,3,0,1,1
-2025-12-27,First Division A,2025-26,RAAL La Louviere,Oud-Heverlee Leuven,0,0,13,5,1,3,0,0,0,18,4,0,0,0
-2025-12-27,First Division A,2025-26,Mechelen,Dender,1,1,5,6,2,5,0,1,2,11,7,1,1,0
-2025-12-27,First Division A,2025-26,Gent,Westerlo,2,0,4,3,1,1,0,0,2,7,2,0,0,0
-2026-01-16,First Division A,2025-26,Club Brugge,RAAL La Louviere,2,3,2,7,0,3,1,0,5,9,3,1,1,1
-2026-01-17,First Division A,2025-26,St. Gilloise,Mechelen,1,0,7,0,4,2,0,0,1,7,6,0,0,0
-2026-01-17,First Division A,2025-26,Westerlo,Cercle Brugge,0,2,7,4,0,4,0,0,2,11,4,0,0,0
-2026-01-17,First Division A,2025-26,Waregem,Genk,2,1,4,0,2,2,0,0,3,4,4,0,1,1
-2026-01-18,First Division A,2025-26,Gent,Anderlecht,4,2,9,8,4,3,0,0,6,17,7,0,1,1
-2026-01-18,First Division A,2025-26,Dender,Antwerp,1,0,2,5,2,0,0,0,1,7,2,0,0,0
-2026-01-18,First Division A,2025-26,Charleroi,Standard,2,0,7,9,2,1,0,0,2,16,3,0,0,0
-2026-01-18,First Division A,2025-26,St Truiden,Oud-Heverlee Leuven,1,0,2,3,3,6,0,0,1,5,9,0,0,0
-2026-01-23,First Division A,2025-26,Standard,Gent,0,4,8,4,2,0,0,0,4,12,2,0,0,1
-2026-01-24,First Division A,2025-26,RAAL La Louviere,St Truiden,1,2,6,5,2,2,0,0,3,11,4,0,1,1
-2026-01-24,First Division A,2025-26,Club Brugge,Waregem,4,3,7,0,3,3,0,0,7,7,6,0,1,1
-2026-01-24,First Division A,2025-26,Oud-Heverlee Leuven,St. Gilloise,0,0,4,9,3,2,0,0,0,13,5,0,0,0
-2026-01-25,First Division A,2025-26,Antwerp,Charleroi,0,2,4,6,2,2,0,0,2,10,4,0,0,0
-2026-01-25,First Division A,2025-26,Genk,Cercle Brugge,1,1,4,2,1,0,0,0,2,6,1,0,1,0
-2026-01-25,First Division A,2025-26,Anderlecht,Dender,0,0,6,6,2,4,0,0,0,12,6,0,0,0
-2026-01-25,First Division A,2025-26,Mechelen,Westerlo,1,1,9,5,3,1,0,0,2,14,4,0,1,0
-2026-01-30,First Division A,2025-26,RAAL La Louviere,Gent,1,1,6,5,0,0,0,0,2,11,0,0,1,0
-2026-01-31,First Division A,2025-26,St Truiden,Charleroi,0,2,6,6,2,3,1,0,2,12,5,1,0,0
-2026-01-31,First Division A,2025-26,Waregem,Westerlo,0,1,7,3,1,2,0,0,1,10,3,0,0,0
-2026-01-31,First Division A,2025-26,Cercle Brugge,Antwerp,0,4,2,5,1,1,1,0,4,7,2,1,0,1
-2026-02-01,First Division A,2025-26,Standard,Anderlecht,2,0,9,4,2,4,0,0,2,13,6,0,0,0
-2026-02-01,First Division A,2025-26,Dender,Genk,1,2,8,2,5,1,0,0,3,10,6,0,1,1
-2026-02-01,First Division A,2025-26,St. Gilloise,Club Brugge,1,0,5,5,3,2,0,0,1,10,5,0,0,0
-2026-02-01,First Division A,2025-26,Oud-Heverlee Leuven,Mechelen,2,2,7,5,3,6,0,0,4,12,9,0,1,1
-2026-02-06,First Division A,2025-26,Westerlo,St Truiden,0,4,6,5,3,1,1,0,4,11,4,1,0,1
-2026-02-07,First Division A,2025-26,Waregem,Dender,1,0,6,1,1,4,0,0,1,7,5,0,0,0
-2026-02-07,First Division A,2025-26,Charleroi,Cercle Brugge,3,4,6,3,3,3,1,1,7,9,6,2,1,1
-2026-02-07,First Division A,2025-26,Gent,Oud-Heverlee Leuven,1,3,6,5,2,5,0,0,4,11,7,0,1,1
-2026-02-08,First Division A,2025-26,Genk,Anderlecht,2,0,5,7,2,1,0,0,2,12,3,0,0,0
-2026-02-08,First Division A,2025-26,St. Gilloise,RAAL La Louviere,2,1,9,1,4,4,0,0,3,10,8,0,1,1
-2026-02-08,First Division A,2025-26,Club Brugge,Standard,3,0,7,0,0,2,0,0,3,7,2,0,0,1
-2026-02-08,First Division A,2025-26,Mechelen,Antwerp,2,0,3,6,1,1,0,0,2,9,2,0,0,0
-2026-02-13,First Division A,2025-26,Mechelen,Genk,2,3,2,4,2,3,0,0,5,6,5,0,1,1
-2026-02-14,First Division A,2025-26,Standard,St. Gilloise,1,1,3,5,4,4,0,0,2,8,8,0,1,0
-2026-02-14,First Division A,2025-26,Charleroi,Gent,2,3,12,4,0,3,0,0,5,16,3,0,1,1
-2026-02-14,First Division A,2025-26,Oud-Heverlee Leuven,Dender,3,2,10,7,2,1,0,0,5,17,3,0,1,1
-2026-02-15,First Division A,2025-26,Cercle Brugge,Club Brugge,1,2,2,8,1,3,0,0,3,10,4,0,1,1
-2026-02-15,First Division A,2025-26,Antwerp,Westerlo,0,2,4,2,2,4,0,0,2,6,6,0,0,0
-2026-02-15,First Division A,2025-26,Anderlecht,RAAL La Louviere,0,0,8,4,1,5,0,0,0,12,6,0,0,0
-2026-02-15,First Division A,2025-26,St Truiden,Waregem,3,2,7,6,3,3,0,1,5,13,6,1,1,1
-2026-02-20,First Division A,2025-26,Gent,Cercle Brugge,0,1,4,10,0,4,1,0,1,14,4,1,0,0
-2026-02-21,First Division A,2025-26,Dender,St Truiden,1,4,4,9,3,0,0,0,5,13,3,0,1,1
-2026-02-21,First Division A,2025-26,Club Brugge,Oud-Heverlee Leuven,2,1,12,4,0,1,0,0,3,16,1,0,1,1
-2026-02-21,First Division A,2025-26,St. Gilloise,Antwerp,2,1,10,1,2,1,0,0,3,11,3,0,1,1
-2026-02-22,First Division A,2025-26,Genk,Standard,0,3,9,5,0,0,0,0,3,14,0,0,0,1
-2026-02-22,First Division A,2025-26,RAAL La Louviere,Mechelen,0,2,4,4,1,0,1,0,2,8,1,1,0,0
-2026-02-22,First Division A,2025-26,Westerlo,Charleroi,2,1,0,6,2,2,0,0,3,6,4,0,1,1
-2026-02-22,First Division A,2025-26,Waregem,Anderlecht,2,4,6,4,1,1,0,0,6,10,2,0,1,1
-2026-02-27,First Division A,2025-26,Standard,RAAL La Louviere,1,1,4,3,1,3,0,0,2,7,4,0,1,0
-2026-02-28,First Division A,2025-26,Anderlecht,Oud-Heverlee Leuven,5,1,9,8,4,4,0,0,6,17,8,0,1,1
-2026-02-28,First Division A,2025-26,Mechelen,Waregem,2,1,1,8,1,2,0,0,3,9,3,0,1,1
-2026-02-28,First Division A,2025-26,Antwerp,St Truiden,1,0,3,4,2,1,0,0,1,7,3,0,0,0
-2026-03-01,First Division A,2025-26,Genk,Gent,3,0,7,8,2,0,0,0,3,15,2,0,0,1
-2026-03-01,First Division A,2025-26,Westerlo,St. Gilloise,0,0,5,3,1,3,1,0,0,8,4,1,0,0
-2026-03-01,First Division A,2025-26,Charleroi,Club Brugge,1,2,2,4,5,1,1,0,3,6,6,1,1,1
-2026-03-01,First Division A,2025-26,Cercle Brugge,Dender,0,0,9,4,1,2,0,0,0,13,3,0,0,0
-2026-03-06,First Division A,2025-26,RAAL La Louviere,Antwerp,0,0,7,3,1,3,0,1,0,10,4,1,0,0
-2026-03-07,First Division A,2025-26,Oud-Heverlee Leuven,Westerlo,0,1,9,5,2,3,0,0,1,14,5,0,0,0
-2026-03-07,First Division A,2025-26,Dender,Charleroi,2,2,5,13,1,1,0,0,4,18,2,0,1,1
-2026-03-07,First Division A,2025-26,St. Gilloise,Genk,2,1,5,1,3,2,0,0,3,6,5,0,1,1
-2026-03-08,First Division A,2025-26,Waregem,Standard,0,1,3,2,0,2,0,0,1,5,2,0,0,0
-2026-03-08,First Division A,2025-26,St Truiden,Cercle Brugge,2,1,7,5,0,4,0,0,3,12,4,0,1,1
-2026-03-08,First Division A,2025-26,Gent,Mechelen,3,1,3,5,2,2,0,0,4,8,4,0,1,1
-2026-03-08,First Division A,2025-26,Club Brugge,Anderlecht,2,2,11,2,1,3,0,0,4,13,4,0,1,1
-2026-03-13,First Division A,2025-26,Gent,Waregem,2,0,2,6,2,1,0,0,2,8,3,0,0,0
-2026-03-14,First Division A,2025-26,Charleroi,Oud-Heverlee Leuven,0,2,10,3,1,1,0,0,2,13,2,0,0,0
-2026-03-14,First Division A,2025-26,St. Gilloise,Dender,2,0,5,5,0,1,0,0,2,10,1,0,0,0
-2026-03-14,First Division A,2025-26,Westerlo,Club Brugge,1,2,11,2,1,2,0,0,3,13,3,0,1,1
-2026-03-15,First Division A,2025-26,Genk,St Truiden,1,0,5,8,2,0,0,0,1,13,2,0,0,0
-2026-03-15,First Division A,2025-26,Antwerp,Standard,1,1,5,3,2,3,1,0,2,8,5,1,1,0
-2026-03-15,First Division A,2025-26,Mechelen,Anderlecht,1,0,5,4,2,8,0,1,1,9,10,1,0,0
-2026-03-15,First Division A,2025-26,Cercle Brugge,RAAL La Louviere,1,3,5,7,2,2,0,0,4,12,4,0,1,1
-2026-03-22,First Division A,2025-26,RAAL La Louviere,Genk,5,5,10,3,2,1,0,0,10,13,3,0,1,1
-2026-03-22,First Division A,2025-26,St Truiden,St. Gilloise,1,3,5,5,0,0,0,0,4,10,0,0,1,1
-2026-03-22,First Division A,2025-26,Oud-Heverlee Leuven,Antwerp,1,0,5,5,3,5,0,1,1,10,8,1,0,0
-2026-03-22,First Division A,2025-26,Standard,Westerlo,0,0,6,9,3,1,0,0,0,15,4,0,0,0
-2026-03-22,First Division A,2025-26,Club Brugge,Mechelen,4,1,15,2,0,1,0,0,5,17,1,0,1,1
-2026-03-22,First Division A,2025-26,Anderlecht,Cercle Brugge,2,3,8,7,1,2,0,0,5,15,3,0,1,1
-2026-03-22,First Division A,2025-26,Dender,Gent,1,3,6,3,1,2,0,0,4,9,3,0,1,1
-2026-03-22,First Division A,2025-26,Waregem,Charleroi,1,0,4,10,1,2,0,0,1,14,3,0,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2025-07-25,First Division A,2025-26,Antwerp,St. Gilloise,1,1,2,5,3,3,0,0,2,7,6,0,1,0,4.0,3.4,1.9,4.26,3.53,1.93
+2025-07-26,First Division A,2025-26,Dender,Cercle Brugge,0,0,3,3,0,2,0,0,0,6,2,0,0,0,2.88,3.3,2.4,2.91,3.43,2.41
+2025-07-26,First Division A,2025-26,Waregem,Mechelen,1,1,9,6,3,2,0,0,2,15,5,0,1,0,3.2,3.5,2.15,3.25,3.64,2.14
+2025-07-26,First Division A,2025-26,RAAL La Louviere,Standard,0,2,5,1,2,1,0,0,2,6,3,0,0,0,2.6,3.25,2.7,2.62,3.26,2.77
+2025-07-27,First Division A,2025-26,Anderlecht,Westerlo,5,2,8,3,4,3,0,0,7,11,7,0,1,1,1.73,3.7,4.5,1.75,3.91,4.39
+2025-07-27,First Division A,2025-26,Oud-Heverlee Leuven,Charleroi,2,2,4,8,2,2,0,0,4,12,4,0,1,1,2.75,3.3,2.45,2.91,3.37,2.45
+2025-07-27,First Division A,2025-26,Club Brugge,Genk,2,1,8,6,1,2,1,0,3,14,3,1,1,1,1.73,3.8,4.33,1.78,3.89,4.28
+2025-07-27,First Division A,2025-26,St Truiden,Gent,3,1,4,6,1,1,0,0,4,10,2,0,1,1,2.05,3.4,3.4,2.09,3.6,3.39
+2025-08-01,First Division A,2025-26,Mechelen,Club Brugge,2,1,2,3,4,0,0,0,3,5,4,0,1,1,3.7,3.8,1.85,3.95,3.96,1.88
+2025-08-02,First Division A,2025-26,Westerlo,Waregem,3,1,3,5,1,1,0,0,4,8,2,0,1,1,1.8,3.7,4.0,1.83,4.06,3.86
+2025-08-02,First Division A,2025-26,Standard,Dender,1,1,5,1,3,3,0,0,2,6,6,0,1,0,1.9,3.3,4.2,1.89,3.47,4.24
+2025-08-02,First Division A,2025-26,Gent,RAAL La Louviere,1,0,5,2,0,1,0,0,1,7,1,0,0,0,1.7,3.4,5.25,1.69,3.89,4.82
+2025-08-03,First Division A,2025-26,Charleroi,St Truiden,1,1,1,7,5,1,1,0,2,8,6,1,1,0,2.0,3.6,3.7,2.01,3.5,3.74
+2025-08-03,First Division A,2025-26,St. Gilloise,Oud-Heverlee Leuven,5,0,4,7,1,2,0,0,5,11,3,0,0,1,1.36,5.0,7.5,1.32,5.3,9.04
+2025-08-03,First Division A,2025-26,Genk,Antwerp,1,1,4,2,0,2,0,0,2,6,2,0,1,0,1.6,4.1,5.0,1.59,4.25,5.23
+2025-08-03,First Division A,2025-26,Cercle Brugge,Anderlecht,0,2,5,3,2,2,0,0,2,8,4,0,0,0,3.0,3.25,2.3,3.08,3.46,2.29
+2025-08-08,First Division A,2025-26,St Truiden,Dender,2,0,4,2,3,0,0,1,2,6,3,1,0,0,1.85,3.75,3.8,1.89,3.7,3.95
+2025-08-09,First Division A,2025-26,Club Brugge,Cercle Brugge,2,0,9,5,2,3,0,1,2,14,5,1,0,0,1.45,4.33,6.25,1.46,4.67,6.34
+2025-08-09,First Division A,2025-26,Westerlo,Mechelen,0,1,8,5,1,1,0,0,1,13,2,0,0,0,2.45,3.6,2.5,2.54,3.65,2.62
+2025-08-09,First Division A,2025-26,Gent,St. Gilloise,2,3,5,10,1,4,0,0,5,15,5,0,1,1,5.0,4.1,1.6,4.95,4.27,1.61
+2025-08-10,First Division A,2025-26,RAAL La Louviere,Charleroi,1,0,4,3,3,0,0,0,1,7,3,0,0,0,3.3,3.3,2.15,3.22,3.56,2.18
+2025-08-10,First Division A,2025-26,Anderlecht,Waregem,2,3,6,5,0,3,0,0,5,11,3,0,1,1,1.45,4.75,5.75,1.45,4.74,6.31
+2025-08-10,First Division A,2025-26,Standard,Genk,2,1,2,6,3,3,0,0,3,8,6,0,1,1,4.5,3.5,1.75,4.57,3.68,1.78
+2025-08-10,First Division A,2025-26,Antwerp,Oud-Heverlee Leuven,3,1,5,3,3,5,0,1,4,8,8,1,1,1,1.91,3.6,3.7,1.93,3.67,3.81
+2025-08-15,First Division A,2025-26,Oud-Heverlee Leuven,Genk,1,2,6,6,2,2,0,0,3,12,4,0,1,1,5.0,4.0,1.65,5.39,3.96,1.67
+2025-08-16,First Division A,2025-26,Waregem,Club Brugge,0,1,3,9,2,2,0,0,1,12,4,0,0,0,5.25,4.5,1.5,5.72,4.56,1.51
+2025-08-16,First Division A,2025-26,Mechelen,Gent,1,1,2,11,2,1,0,0,2,13,3,0,1,0,1.91,3.7,3.7,1.92,3.68,3.87
+2025-08-16,First Division A,2025-26,St. Gilloise,Standard,3,0,12,1,1,2,0,1,3,13,3,1,0,1,1.33,4.75,10.0,1.34,4.77,9.8
+2025-08-17,First Division A,2025-26,Cercle Brugge,Westerlo,4,1,1,11,0,1,0,0,5,12,1,0,1,1,2.15,3.7,3.0,2.19,3.66,3.12
+2025-08-17,First Division A,2025-26,Charleroi,Antwerp,1,1,4,1,3,3,0,0,2,5,6,0,1,0,2.35,3.4,2.9,2.36,3.27,3.14
+2025-08-17,First Division A,2025-26,St Truiden,RAAL La Louviere,2,1,4,5,1,2,0,0,3,9,3,0,1,1,1.67,3.5,5.5,1.65,3.86,5.23
+2025-08-17,First Division A,2025-26,Dender,Anderlecht,0,2,2,7,1,1,0,0,2,9,2,0,0,0,3.8,3.7,1.95,3.75,3.68,1.94
+2025-08-23,First Division A,2025-26,Standard,Cercle Brugge,0,3,4,3,1,3,0,0,3,7,4,0,0,1,2.45,3.2,2.88,2.49,3.28,2.92
+2025-08-23,First Division A,2025-26,Waregem,St Truiden,0,2,2,11,2,0,1,0,2,13,2,1,0,0,2.6,3.6,2.5,2.63,3.66,2.52
+2025-08-24,First Division A,2025-26,Antwerp,Mechelen,2,1,6,13,0,3,1,0,3,19,3,1,1,1,1.95,3.6,3.6,2.0,3.58,3.68
+2025-08-24,First Division A,2025-26,RAAL La Louviere,St. Gilloise,0,0,5,2,2,3,0,0,0,7,5,0,0,0,6.25,4.75,1.42,7.73,4.59,1.41
+2025-08-24,First Division A,2025-26,Dender,Oud-Heverlee Leuven,0,1,4,6,3,4,0,0,1,10,7,0,0,0,2.25,3.25,3.2,2.32,3.38,3.1
+2025-08-29,First Division A,2025-26,Cercle Brugge,St Truiden,1,1,3,8,2,1,0,0,2,11,3,0,1,0,2.1,3.4,3.1,2.19,3.65,3.29
+2025-08-30,First Division A,2025-26,Mechelen,RAAL La Louviere,3,2,4,6,1,0,0,0,5,10,1,0,1,1,1.62,4.0,5.0,1.62,4.28,4.93
+2025-08-30,First Division A,2025-26,Westerlo,Antwerp,2,0,5,4,2,3,0,0,2,9,5,0,0,0,2.55,3.4,2.63,2.55,3.5,2.68
+2025-08-30,First Division A,2025-26,Charleroi,Dender,3,1,5,4,1,0,0,0,4,9,1,0,1,1,1.7,3.6,4.75,1.77,3.56,4.81
+2025-08-31,First Division A,2025-26,Gent,Club Brugge,1,1,6,7,4,2,0,0,2,13,6,0,1,0,5.5,3.9,1.57,5.15,4.19,1.61
+2025-08-31,First Division A,2025-26,Oud-Heverlee Leuven,Standard,1,0,4,4,3,3,0,0,1,8,6,0,0,0,2.2,3.2,3.25,2.27,3.26,3.32
+2025-08-31,First Division A,2025-26,St. Gilloise,Anderlecht,2,0,5,5,1,6,0,2,2,10,7,2,0,0,1.6,4.0,5.25,1.58,3.95,5.92
+2025-08-31,First Division A,2025-26,Genk,Waregem,3,2,5,4,2,2,1,0,5,9,4,1,1,1,1.4,5.5,6.0,1.4,4.99,6.99
+2025-09-12,First Division A,2025-26,Standard,Mechelen,1,1,12,5,3,3,0,0,2,17,6,0,1,0,2.3,3.25,3.0,2.37,3.35,3.19
+2025-09-13,First Division A,2025-26,Waregem,Oud-Heverlee Leuven,2,0,2,6,3,4,0,0,2,8,7,0,0,0,2.4,3.4,2.88,2.42,3.44,2.9
+2025-09-13,First Division A,2025-26,Dender,St. Gilloise,0,1,1,6,0,0,0,0,1,7,0,0,0,0,6.0,4.5,1.48,7.24,4.41,1.44
+2025-09-13,First Division A,2025-26,RAAL La Louviere,Club Brugge,1,0,5,6,0,1,0,0,1,11,1,0,0,0,5.75,4.5,1.48,6.47,4.55,1.47
+2025-09-14,First Division A,2025-26,Antwerp,Gent,1,2,5,1,4,2,0,1,3,6,6,1,1,1,2.45,3.3,2.9,2.46,3.56,2.76
+2025-09-14,First Division A,2025-26,Cercle Brugge,Charleroi,2,3,4,3,1,2,0,0,5,7,3,0,1,1,2.15,3.4,3.25,2.14,3.51,3.35
+2025-09-14,First Division A,2025-26,Anderlecht,Genk,1,1,3,7,2,3,1,0,2,10,5,1,1,0,2.5,3.4,2.75,2.52,3.53,2.71
+2025-09-14,First Division A,2025-26,St Truiden,Westerlo,0,3,8,3,1,2,0,0,3,11,3,0,0,1,2.1,3.8,3.1,2.09,3.66,3.36
+2025-09-17,First Division A,2025-26,Genk,Charleroi,0,1,4,3,0,2,0,0,1,7,2,0,0,0,1.7,3.8,4.33,1.75,3.94,4.41
+2025-09-19,First Division A,2025-26,Gent,Dender,3,0,2,5,1,1,0,0,3,7,2,0,0,1,1.73,3.9,4.2,1.78,3.99,4.47
+2025-09-20,First Division A,2025-26,Oud-Heverlee Leuven,RAAL La Louviere,1,2,2,1,4,3,0,0,3,3,7,0,1,1,2.0,3.3,3.5,2.03,3.27,3.94
+2025-09-20,First Division A,2025-26,Charleroi,Waregem,1,2,6,11,3,1,1,0,3,17,4,1,1,1,1.75,3.75,4.0,1.79,3.77,4.38
+2025-09-20,First Division A,2025-26,Anderlecht,Antwerp,0,0,8,2,3,2,0,0,0,10,5,0,0,0,1.65,3.9,4.75,1.64,4.01,5.13
+2025-09-21,First Division A,2025-26,Mechelen,Cercle Brugge,0,0,7,7,1,3,0,0,0,14,4,0,0,0,2.45,3.6,2.55,2.56,3.52,2.67
+2025-09-21,First Division A,2025-26,Club Brugge,St Truiden,2,0,5,0,1,2,0,0,2,5,3,0,0,0,1.42,5.25,5.25,1.43,5.4,5.8
+2025-09-21,First Division A,2025-26,Genk,St. Gilloise,1,2,8,5,2,4,0,0,3,13,6,0,1,1,3.0,3.4,2.2,3.09,3.53,2.25
+2025-09-21,First Division A,2025-26,Westerlo,Standard,0,2,7,1,0,5,0,0,2,8,5,0,0,0,1.85,3.6,3.9,1.85,3.63,4.23
+2025-09-23,First Division A,2025-26,Anderlecht,Gent,1,0,8,2,3,3,0,0,1,10,6,0,0,0,1.7,3.9,4.75,1.77,4.03,4.51
+2025-09-24,First Division A,2025-26,Club Brugge,Westerlo,5,5,5,4,1,3,0,0,10,9,4,0,1,1,1.33,5.5,8.0,1.3,5.99,8.06
+2025-09-26,First Division A,2025-26,Oud-Heverlee Leuven,Anderlecht,1,1,2,5,4,3,0,0,2,7,7,0,1,0,3.5,3.6,2.0,3.84,3.52,2.04
+2025-09-27,First Division A,2025-26,Waregem,Antwerp,2,0,4,4,0,1,0,0,2,8,1,0,0,0,2.63,3.25,2.63,2.64,3.34,2.7
+2025-09-27,First Division A,2025-26,Standard,Club Brugge,1,2,7,8,4,2,1,0,3,15,6,1,1,1,5.25,4.33,1.57,5.75,4.18,1.56
+2025-09-27,First Division A,2025-26,St. Gilloise,Westerlo,2,0,9,2,3,2,0,0,2,11,5,0,0,0,1.36,5.0,8.0,1.34,5.57,7.65
+2025-09-28,First Division A,2025-26,St Truiden,Genk,1,2,3,6,4,2,1,0,3,9,6,1,1,1,3.0,3.5,2.2,3.08,3.78,2.17
+2025-09-28,First Division A,2025-26,Cercle Brugge,Gent,2,4,10,2,2,3,0,0,6,12,5,0,1,1,2.2,3.8,2.9,2.21,3.63,3.09
+2025-09-28,First Division A,2025-26,Charleroi,Mechelen,0,2,5,3,0,4,0,0,2,8,4,0,0,0,2.0,3.5,3.5,2.03,3.65,3.52
+2025-09-28,First Division A,2025-26,Dender,RAAL La Louviere,0,0,4,2,1,3,0,0,0,6,4,0,0,0,2.38,3.25,2.8,2.55,3.13,2.96
+2025-10-03,First Division A,2025-26,Gent,Charleroi,2,1,4,2,2,4,0,0,3,6,6,0,1,1,2.05,3.7,3.4,2.11,3.56,3.59
+2025-10-04,First Division A,2025-26,Antwerp,Cercle Brugge,1,1,8,3,1,1,0,0,2,11,2,0,1,0,2.4,3.4,2.8,2.4,3.46,2.91
+2025-10-04,First Division A,2025-26,RAAL La Louviere,Waregem,0,0,12,1,2,3,0,0,0,13,5,0,0,0,2.3,3.6,2.8,2.34,3.44,3.02
+2025-10-04,First Division A,2025-26,Mechelen,St Truiden,1,3,5,9,3,1,0,0,4,14,4,0,1,1,2.1,3.6,3.0,2.22,3.49,3.2
+2025-10-05,First Division A,2025-26,Anderlecht,Standard,1,0,6,4,3,3,0,1,1,10,6,1,0,0,1.6,3.9,5.25,1.61,3.99,5.42
+2025-10-05,First Division A,2025-26,Genk,Dender,2,1,8,3,2,5,0,2,3,11,7,2,1,1,1.36,4.75,7.0,1.41,4.8,7.19
+2025-10-05,First Division A,2025-26,Club Brugge,St. Gilloise,1,0,7,3,2,3,0,0,1,10,5,0,0,0,2.2,3.5,3.0,2.28,3.7,2.93
+2025-10-05,First Division A,2025-26,Westerlo,Oud-Heverlee Leuven,2,0,6,6,2,2,0,0,2,12,4,0,0,0,1.85,3.75,3.75,1.85,3.81,4.0
+2025-10-18,First Division A,2025-26,RAAL La Louviere,Westerlo,0,0,2,2,0,1,0,0,0,4,1,0,0,0,2.55,3.4,2.63,2.58,3.45,2.69
+2025-10-18,First Division A,2025-26,Oud-Heverlee Leuven,Club Brugge,0,1,4,11,2,1,0,0,1,15,3,0,0,0,5.25,4.1,1.6,5.11,4.21,1.61
+2025-10-18,First Division A,2025-26,St. Gilloise,Charleroi,3,1,1,2,0,3,0,0,4,3,3,0,1,1,1.42,4.5,7.5,1.37,4.83,8.44
+2025-10-19,First Division A,2025-26,Cercle Brugge,Genk,2,2,4,4,3,2,0,0,4,8,5,0,1,1,3.0,3.7,2.15,3.11,3.56,2.23
+2025-10-19,First Division A,2025-26,Dender,Mechelen,1,3,4,4,1,0,0,0,4,8,1,0,1,1,2.7,3.4,2.5,2.7,3.41,2.59
+2025-10-19,First Division A,2025-26,St Truiden,Anderlecht,2,2,5,6,1,2,0,0,4,11,3,0,1,1,2.9,3.5,2.3,3.02,3.47,2.32
+2025-10-19,First Division A,2025-26,Waregem,Gent,4,1,3,12,0,2,0,0,5,15,2,0,1,1,2.6,3.5,2.55,2.74,3.41,2.56
+2025-10-20,First Division A,2025-26,Standard,Antwerp,1,0,4,5,2,3,1,0,1,9,5,1,0,0,1.95,3.5,3.8,2.14,3.26,3.86
+2025-10-24,First Division A,2025-26,Charleroi,Anderlecht,1,0,5,9,2,2,0,0,1,14,4,0,0,0,2.55,3.2,2.8,3.13,3.5,2.25
+2025-10-25,First Division A,2025-26,Westerlo,Dender,1,1,11,3,2,2,0,0,2,14,4,0,1,0,1.7,3.8,4.33,1.76,3.95,4.33
+2025-10-25,First Division A,2025-26,Mechelen,Oud-Heverlee Leuven,1,1,6,2,3,5,0,0,2,8,8,0,1,0,2.15,3.4,3.1,2.16,3.45,3.37
+2025-10-25,First Division A,2025-26,Gent,Standard,4,0,4,4,0,2,0,0,4,8,2,0,0,1,1.9,3.6,3.8,1.85,3.71,4.13
+2025-10-26,First Division A,2025-26,Antwerp,Club Brugge,0,1,1,5,2,1,0,0,1,6,3,0,0,0,4.75,4.1,1.62,4.95,4.26,1.62
+2025-10-26,First Division A,2025-26,Cercle Brugge,Waregem,1,1,0,3,0,1,0,0,2,3,1,0,1,0,1.8,3.9,4.0,1.79,3.93,4.15
+2025-10-26,First Division A,2025-26,Genk,RAAL La Louviere,1,1,9,3,1,3,0,0,2,12,4,0,1,0,1.48,4.5,5.5,1.48,4.47,6.39
+2025-10-26,First Division A,2025-26,St. Gilloise,St Truiden,2,0,5,6,1,2,0,0,2,11,3,0,0,0,1.36,4.75,7.5,1.36,5.12,8.04
+2025-10-31,First Division A,2025-26,Standard,Charleroi,3,1,4,5,2,3,0,0,4,9,5,0,1,1,2.8,3.1,2.55,,,
+2025-11-01,First Division A,2025-26,Waregem,St. Gilloise,1,4,2,5,1,4,0,0,5,7,5,0,1,1,4.33,4.1,1.67,,,
+2025-11-01,First Division A,2025-26,Club Brugge,Dender,2,1,7,4,1,1,0,0,3,11,2,0,1,1,1.25,6.0,9.0,,,
+2025-11-01,First Division A,2025-26,Anderlecht,Mechelen,3,1,9,2,1,1,0,0,4,11,2,0,1,1,1.6,4.0,5.0,,,
+2025-11-02,First Division A,2025-26,RAAL La Louviere,Cercle Brugge,2,1,1,5,3,1,0,0,3,6,4,0,1,1,2.55,3.1,2.75,,,
+2025-11-02,First Division A,2025-26,St Truiden,Antwerp,1,0,6,4,3,2,0,1,1,10,5,1,0,0,2.05,3.4,3.6,,,
+2025-11-02,First Division A,2025-26,Oud-Heverlee Leuven,Gent,4,0,0,9,4,2,0,1,4,9,6,1,0,1,2.3,3.5,2.9,,,
+2025-11-02,First Division A,2025-26,Westerlo,Genk,0,1,4,4,0,1,0,0,1,8,1,0,0,0,2.9,4.0,2.1,,,
+2025-11-07,First Division A,2025-26,Dender,Waregem,2,2,6,5,1,1,0,0,4,11,2,0,1,1,2.4,3.5,2.75,,,
+2025-11-08,First Division A,2025-26,Cercle Brugge,Oud-Heverlee Leuven,1,2,8,3,1,1,0,0,3,11,2,0,1,1,2.1,3.5,3.4,,,
+2025-11-08,First Division A,2025-26,Charleroi,Westerlo,2,0,7,5,2,1,0,0,2,12,3,0,0,0,2.1,3.4,3.3,,,
+2025-11-08,First Division A,2025-26,Antwerp,RAAL La Louviere,3,1,7,4,4,3,0,1,4,11,7,1,1,1,2.15,3.2,3.4,,,
+2025-11-09,First Division A,2025-26,Anderlecht,Club Brugge,1,0,6,5,5,4,0,0,1,11,9,0,0,0,2.8,3.5,2.3,,,
+2025-11-09,First Division A,2025-26,St Truiden,Standard,1,0,9,1,0,1,0,0,1,10,1,0,0,0,2.0,3.4,3.6,,,
+2025-11-09,First Division A,2025-26,Gent,Genk,1,1,6,2,2,1,0,0,2,8,3,0,1,0,3.1,3.5,2.15,,,
+2025-11-09,First Division A,2025-26,Mechelen,St. Gilloise,1,1,4,10,4,2,0,0,2,14,6,0,1,0,5.0,4.0,1.62,,,
+2025-11-21,First Division A,2025-26,Standard,Waregem,0,0,5,3,2,1,1,1,0,8,3,2,0,0,2.25,3.3,2.8,,,
+2025-11-22,First Division A,2025-26,Westerlo,Gent,0,0,9,2,3,3,0,0,0,11,6,0,0,0,2.3,3.6,2.63,,,
+2025-11-22,First Division A,2025-26,Club Brugge,Charleroi,1,0,6,11,2,1,0,0,1,17,3,0,0,0,1.44,4.0,6.5,,,
+2025-11-22,First Division A,2025-26,St. Gilloise,Cercle Brugge,2,0,7,4,2,4,0,0,2,11,6,0,0,0,1.38,4.33,7.0,,,
+2025-11-23,First Division A,2025-26,RAAL La Louviere,Anderlecht,0,1,5,7,2,3,0,0,1,12,5,0,0,0,3.8,3.1,1.91,,,
+2025-11-23,First Division A,2025-26,Oud-Heverlee Leuven,St Truiden,1,2,10,1,3,2,0,0,3,11,5,0,1,1,2.5,3.1,2.7,,,
+2025-11-23,First Division A,2025-26,Genk,Mechelen,0,1,6,3,0,5,0,0,1,9,5,0,0,0,1.5,3.9,5.5,,,
+2025-11-23,First Division A,2025-26,Antwerp,Dender,1,2,5,3,1,4,0,0,3,8,5,0,1,1,1.83,3.4,3.9,,,
+2025-11-28,First Division A,2025-26,Mechelen,Standard,0,1,4,4,1,1,0,0,1,8,2,0,0,0,2.2,3.3,3.0,,,
+2025-11-29,First Division A,2025-26,Dender,Westerlo,2,2,2,4,4,1,0,0,4,6,5,0,1,1,2.6,3.5,2.4,,,
+2025-11-29,First Division A,2025-26,Waregem,Cercle Brugge,1,1,6,7,1,2,0,0,2,13,3,0,1,0,2.5,3.5,2.5,,,
+2025-11-29,First Division A,2025-26,Charleroi,RAAL La Louviere,0,0,6,5,0,1,0,0,0,11,1,0,0,0,1.83,3.2,4.2,,,
+2025-11-30,First Division A,2025-26,Club Brugge,Antwerp,0,1,9,4,0,3,0,0,1,13,3,0,0,0,1.33,4.5,7.5,,,
+2025-11-30,First Division A,2025-26,Genk,Oud-Heverlee Leuven,2,1,10,2,0,3,0,0,3,12,3,0,1,1,1.5,4.0,5.75,,,
+2025-11-30,First Division A,2025-26,Anderlecht,St. Gilloise,1,0,4,2,2,4,0,0,1,6,6,0,0,0,3.0,3.3,2.25,,,
+2025-11-30,First Division A,2025-26,Gent,St Truiden,1,2,5,6,2,2,0,0,3,11,4,0,1,1,2.1,3.5,3.1,,,
+2025-12-05,First Division A,2025-26,RAAL La Louviere,Dender,1,2,5,2,1,1,0,0,3,7,2,0,1,1,2.15,3.2,3.4,,,
+2025-12-06,First Division A,2025-26,Cercle Brugge,Standard,1,2,9,5,0,2,0,0,3,14,2,0,1,1,1.9,3.4,4.1,,,
+2025-12-06,First Division A,2025-26,St. Gilloise,Gent,1,1,8,0,1,1,0,0,2,8,2,0,1,0,1.38,4.5,8.0,,,
+2025-12-06,First Division A,2025-26,St Truiden,Club Brugge,3,2,8,6,1,1,0,0,5,14,2,0,1,1,4.1,3.7,1.83,,,
+2025-12-07,First Division A,2025-26,Oud-Heverlee Leuven,Waregem,1,1,4,3,2,3,0,0,2,7,5,0,1,0,2.1,3.4,3.4,,,
+2025-12-07,First Division A,2025-26,Antwerp,Genk,3,0,3,10,1,1,0,0,3,13,2,0,0,1,3.25,3.5,2.1,,,
+2025-12-07,First Division A,2025-26,Mechelen,Charleroi,1,0,7,3,4,2,0,0,1,10,6,0,0,0,2.9,3.3,2.35,,,
+2025-12-07,First Division A,2025-26,Westerlo,Anderlecht,4,0,5,9,3,2,0,0,4,14,5,0,0,1,3.0,3.6,2.25,,,
+2025-12-12,First Division A,2025-26,Standard,Oud-Heverlee Leuven,0,1,5,4,2,2,0,0,1,9,4,0,0,0,2.35,3.0,3.2,,,
+2025-12-13,First Division A,2025-26,Cercle Brugge,Mechelen,2,3,6,9,1,2,0,0,5,15,3,0,1,1,1.8,3.8,3.9,,,
+2025-12-13,First Division A,2025-26,Waregem,RAAL La Louviere,2,2,3,2,1,2,0,0,4,5,3,0,1,1,2.25,3.25,3.2,,,
+2025-12-13,First Division A,2025-26,Anderlecht,St Truiden,2,1,6,2,4,5,0,0,3,8,9,0,1,1,1.85,3.75,3.7,,,
+2025-12-14,First Division A,2025-26,Gent,Antwerp,0,2,5,1,0,1,1,0,2,6,1,1,0,0,2.2,3.4,3.2,,,
+2025-12-14,First Division A,2025-26,Dender,Club Brugge,1,5,0,3,0,0,0,0,6,3,0,0,1,1,5.25,4.33,1.55,,,
+2025-12-14,First Division A,2025-26,Charleroi,St. Gilloise,1,1,4,5,1,2,0,0,2,9,3,0,1,0,4.33,3.5,1.83,,,
+2025-12-14,First Division A,2025-26,Genk,Westerlo,1,1,9,7,0,2,0,1,2,16,2,1,1,0,1.7,4.1,4.33,,,
+2025-12-19,First Division A,2025-26,Charleroi,Genk,2,2,8,1,2,0,0,0,4,9,2,0,1,1,2.88,3.1,2.35,,,
+2025-12-20,First Division A,2025-26,Westerlo,RAAL La Louviere,2,1,4,5,1,0,0,0,3,9,1,0,1,1,1.73,3.6,4.2,,,
+2025-12-20,First Division A,2025-26,St. Gilloise,Waregem,2,0,5,3,1,2,0,0,2,8,3,0,0,0,1.25,5.0,9.5,,,
+2025-12-20,First Division A,2025-26,Dender,Standard,0,1,5,4,4,1,0,0,1,9,5,0,0,0,2.6,3.1,2.6,,,
+2025-12-21,First Division A,2025-26,Club Brugge,Gent,2,1,10,2,0,2,0,0,3,12,2,0,1,1,1.42,4.33,6.25,,,
+2025-12-21,First Division A,2025-26,St Truiden,Mechelen,1,0,2,6,2,2,0,0,1,8,4,0,0,0,1.65,3.75,4.5,,,
+2025-12-21,First Division A,2025-26,Antwerp,Anderlecht,2,2,6,5,0,3,0,0,4,11,3,0,1,1,3.0,3.3,2.2,,,
+2025-12-21,First Division A,2025-26,Oud-Heverlee Leuven,Cercle Brugge,0,2,8,7,6,5,0,0,2,15,11,0,0,0,2.5,3.3,2.5,,,
+2025-12-26,First Division A,2025-26,Genk,Club Brugge,3,5,9,2,3,3,0,0,8,11,6,0,1,1,2.9,3.5,2.15,,,
+2025-12-26,First Division A,2025-26,Cercle Brugge,St. Gilloise,1,1,4,4,3,4,1,1,2,8,7,2,1,0,3.6,3.5,1.9,,,
+2025-12-26,First Division A,2025-26,Standard,St Truiden,1,2,1,5,1,2,1,0,3,6,3,1,1,1,2.7,3.3,2.38,,,
+2025-12-26,First Division A,2025-26,Anderlecht,Charleroi,1,2,8,3,1,4,0,0,3,11,5,0,1,1,1.75,3.5,4.33,,,
+2025-12-27,First Division A,2025-26,Antwerp,Waregem,2,1,5,7,3,0,0,0,3,12,3,0,1,1,1.95,3.4,3.5,,,
+2025-12-27,First Division A,2025-26,RAAL La Louviere,Oud-Heverlee Leuven,0,0,13,5,1,3,0,0,0,18,4,0,0,0,2.4,3.0,3.1,,,
+2025-12-27,First Division A,2025-26,Mechelen,Dender,1,1,5,6,2,5,0,1,2,11,7,1,1,0,2.15,3.4,3.1,,,
+2025-12-27,First Division A,2025-26,Gent,Westerlo,2,0,4,3,1,1,0,0,2,7,2,0,0,0,2.25,3.6,2.8,,,
+2026-01-16,First Division A,2025-26,Club Brugge,RAAL La Louviere,2,3,2,7,0,3,1,0,5,9,3,1,1,1,1.3,5.25,8.0,,,
+2026-01-17,First Division A,2025-26,St. Gilloise,Mechelen,1,0,7,0,4,2,0,0,1,7,6,0,0,0,1.3,4.5,9.0,,,
+2026-01-17,First Division A,2025-26,Westerlo,Cercle Brugge,0,2,7,4,0,4,0,0,2,11,4,0,0,0,2.05,3.5,3.2,,,
+2026-01-17,First Division A,2025-26,Waregem,Genk,2,1,4,0,2,2,0,0,3,4,4,0,1,1,3.5,3.5,1.91,,,
+2026-01-18,First Division A,2025-26,Gent,Anderlecht,4,2,9,8,4,3,0,0,6,17,7,0,1,1,3.1,3.3,2.15,,,
+2026-01-18,First Division A,2025-26,Dender,Antwerp,1,0,2,5,2,0,0,0,1,7,2,0,0,0,3.0,3.1,2.35,,,
+2026-01-18,First Division A,2025-26,Charleroi,Standard,2,0,7,9,2,1,0,0,2,16,3,0,0,0,1.8,3.25,4.5,,,
+2026-01-18,First Division A,2025-26,St Truiden,Oud-Heverlee Leuven,1,0,2,3,3,6,0,0,1,5,9,0,0,0,1.73,3.5,4.33,,,
+2026-01-23,First Division A,2025-26,Standard,Gent,0,4,8,4,2,0,0,0,4,12,2,0,0,1,2.7,3.1,2.7,,,
+2026-01-24,First Division A,2025-26,RAAL La Louviere,St Truiden,1,2,6,5,2,2,0,0,3,11,4,0,1,1,3.1,3.2,2.3,,,
+2026-01-24,First Division A,2025-26,Club Brugge,Waregem,4,3,7,0,3,3,0,0,7,7,6,0,1,1,1.38,5.25,6.25,,,
+2026-01-24,First Division A,2025-26,Oud-Heverlee Leuven,St. Gilloise,0,0,4,9,3,2,0,0,0,13,5,0,0,0,5.0,3.75,1.67,,,
+2026-01-25,First Division A,2025-26,Antwerp,Charleroi,0,2,4,6,2,2,0,0,2,10,4,0,0,0,2.4,3.25,2.9,,,
+2026-01-25,First Division A,2025-26,Genk,Cercle Brugge,1,1,4,2,1,0,0,0,2,6,1,0,1,0,1.9,3.7,3.8,,,
+2026-01-25,First Division A,2025-26,Anderlecht,Dender,0,0,6,6,2,4,0,0,0,12,6,0,0,0,1.5,4.33,6.0,,,
+2026-01-25,First Division A,2025-26,Mechelen,Westerlo,1,1,9,5,3,1,0,0,2,14,4,0,1,0,2.63,3.75,2.4,,,
+2026-01-30,First Division A,2025-26,RAAL La Louviere,Gent,1,1,6,5,0,0,0,0,2,11,0,0,1,0,2.35,3.1,2.9,,,
+2026-01-31,First Division A,2025-26,St Truiden,Charleroi,0,2,6,6,2,3,1,0,2,12,5,1,0,0,1.95,3.5,3.5,,,
+2026-01-31,First Division A,2025-26,Waregem,Westerlo,0,1,7,3,1,2,0,0,1,10,3,0,0,0,2.25,3.6,2.7,,,
+2026-01-31,First Division A,2025-26,Cercle Brugge,Antwerp,0,4,2,5,1,1,1,0,4,7,2,1,0,1,1.9,3.4,3.75,,,
+2026-02-01,First Division A,2025-26,Standard,Anderlecht,2,0,9,4,2,4,0,0,2,13,6,0,0,0,3.4,3.2,2.1,,,
+2026-02-01,First Division A,2025-26,Dender,Genk,1,2,8,2,5,1,0,0,3,10,6,0,1,1,3.8,3.4,1.9,,,
+2026-02-01,First Division A,2025-26,St. Gilloise,Club Brugge,1,0,5,5,3,2,0,0,1,10,5,0,0,0,2.1,3.4,3.1,,,
+2026-02-01,First Division A,2025-26,Oud-Heverlee Leuven,Mechelen,2,2,7,5,3,6,0,0,4,12,9,0,1,1,2.05,3.25,3.4,,,
+2026-02-06,First Division A,2025-26,Westerlo,St Truiden,0,4,6,5,3,1,1,0,4,11,4,1,0,1,2.4,3.6,2.55,,,
+2026-02-07,First Division A,2025-26,Waregem,Dender,1,0,6,1,1,4,0,0,1,7,5,0,0,0,2.15,3.3,3.25,,,
+2026-02-07,First Division A,2025-26,Charleroi,Cercle Brugge,3,4,6,3,3,3,1,1,7,9,6,2,1,1,1.91,3.4,3.5,,,
+2026-02-07,First Division A,2025-26,Gent,Oud-Heverlee Leuven,1,3,6,5,2,5,0,0,4,11,7,0,1,1,1.83,3.5,4.2,,,
+2026-02-08,First Division A,2025-26,Genk,Anderlecht,2,0,5,7,2,1,0,0,2,12,3,0,0,0,2.0,3.4,3.5,,,
+2026-02-08,First Division A,2025-26,St. Gilloise,RAAL La Louviere,2,1,9,1,4,4,0,0,3,10,8,0,1,1,1.42,4.2,7.5,,,
+2026-02-08,First Division A,2025-26,Club Brugge,Standard,3,0,7,0,0,2,0,0,3,7,2,0,0,1,1.36,5.0,7.5,,,
+2026-02-08,First Division A,2025-26,Mechelen,Antwerp,2,0,3,6,1,1,0,0,2,9,2,0,0,0,2.5,3.3,2.75,,,
+2026-02-13,First Division A,2025-26,Mechelen,Genk,2,3,2,4,2,3,0,0,5,6,5,0,1,1,3.4,3.5,2.1,,,
+2026-02-14,First Division A,2025-26,Standard,St. Gilloise,1,1,3,5,4,4,0,0,2,8,8,0,1,0,5.5,3.6,1.67,,,
+2026-02-14,First Division A,2025-26,Charleroi,Gent,2,3,12,4,0,3,0,0,5,16,3,0,1,1,2.15,3.4,3.3,,,
+2026-02-14,First Division A,2025-26,Oud-Heverlee Leuven,Dender,3,2,10,7,2,1,0,0,5,17,3,0,1,1,1.91,3.4,4.0,,,
+2026-02-15,First Division A,2025-26,Cercle Brugge,Club Brugge,1,2,2,8,1,3,0,0,3,10,4,0,1,1,3.9,3.8,1.8,,,
+2026-02-15,First Division A,2025-26,Antwerp,Westerlo,0,2,4,2,2,4,0,0,2,6,6,0,0,0,2.1,3.6,3.2,,,
+2026-02-15,First Division A,2025-26,Anderlecht,RAAL La Louviere,0,0,8,4,1,5,0,0,0,12,6,0,0,0,1.8,3.5,4.5,,,
+2026-02-15,First Division A,2025-26,St Truiden,Waregem,3,2,7,6,3,3,0,1,5,13,6,1,1,1,1.7,3.8,4.5,,,
+2026-02-20,First Division A,2025-26,Gent,Cercle Brugge,0,1,4,10,0,4,1,0,1,14,4,1,0,0,2.15,3.5,2.9,,,
+2026-02-21,First Division A,2025-26,Dender,St Truiden,1,4,4,9,3,0,0,0,5,13,3,0,1,1,3.2,3.4,2.05,,,
+2026-02-21,First Division A,2025-26,Club Brugge,Oud-Heverlee Leuven,2,1,12,4,0,1,0,0,3,16,1,0,1,1,1.4,4.33,7.0,,,
+2026-02-21,First Division A,2025-26,St. Gilloise,Antwerp,2,1,10,1,2,1,0,0,3,11,3,0,1,1,1.42,4.0,7.5,,,
+2026-02-22,First Division A,2025-26,Genk,Standard,0,3,9,5,0,0,0,0,3,14,0,0,0,1,1.48,3.8,6.25,,,
+2026-02-22,First Division A,2025-26,RAAL La Louviere,Mechelen,0,2,4,4,1,0,1,0,2,8,1,1,0,0,2.2,3.2,3.0,,,
+2026-02-22,First Division A,2025-26,Westerlo,Charleroi,2,1,0,6,2,2,0,0,3,6,4,0,1,1,2.25,3.4,2.75,,,
+2026-02-22,First Division A,2025-26,Waregem,Anderlecht,2,4,6,4,1,1,0,0,6,10,2,0,1,1,3.0,3.3,2.15,,,
+2026-02-27,First Division A,2025-26,Standard,RAAL La Louviere,1,1,4,3,1,3,0,0,2,7,4,0,1,0,2.4,3.0,2.9,,,
+2026-02-28,First Division A,2025-26,Anderlecht,Oud-Heverlee Leuven,5,1,9,8,4,4,0,0,6,17,8,0,1,1,1.65,3.7,4.5,,,
+2026-02-28,First Division A,2025-26,Mechelen,Waregem,2,1,1,8,1,2,0,0,3,9,3,0,1,1,2.1,3.4,3.1,,,
+2026-02-28,First Division A,2025-26,Antwerp,St Truiden,1,0,3,4,2,1,0,0,1,7,3,0,0,0,3.0,3.3,2.2,,,
+2026-03-01,First Division A,2025-26,Genk,Gent,3,0,7,8,2,0,0,0,3,15,2,0,0,1,1.65,3.8,4.75,,,
+2026-03-01,First Division A,2025-26,Westerlo,St. Gilloise,0,0,5,3,1,3,1,0,0,8,4,1,0,0,4.5,3.6,1.67,,,
+2026-03-01,First Division A,2025-26,Charleroi,Club Brugge,1,2,2,4,5,1,1,0,3,6,6,1,1,1,3.9,3.6,1.83,,,
+2026-03-01,First Division A,2025-26,Cercle Brugge,Dender,0,0,9,4,1,2,0,0,0,13,3,0,0,0,1.7,3.5,4.5,,,
+2026-03-06,First Division A,2025-26,RAAL La Louviere,Antwerp,0,0,7,3,1,3,0,1,0,10,4,1,0,0,2.05,3.4,3.5,,,
+2026-03-07,First Division A,2025-26,Oud-Heverlee Leuven,Westerlo,0,1,9,5,2,3,0,0,1,14,5,0,0,0,2.3,3.4,2.8,,,
+2026-03-07,First Division A,2025-26,Dender,Charleroi,2,2,5,13,1,1,0,0,4,18,2,0,1,1,3.2,3.3,2.2,,,
+2026-03-07,First Division A,2025-26,St. Gilloise,Genk,2,1,5,1,3,2,0,0,3,6,5,0,1,1,1.67,3.9,4.75,,,
+2026-03-08,First Division A,2025-26,Waregem,Standard,0,1,3,2,0,2,0,0,1,5,2,0,0,0,1.95,3.4,3.7,,,
+2026-03-08,First Division A,2025-26,St Truiden,Cercle Brugge,2,1,7,5,0,4,0,0,3,12,4,0,1,1,1.85,3.75,3.8,,,
+2026-03-08,First Division A,2025-26,Gent,Mechelen,3,1,3,5,2,2,0,0,4,8,4,0,1,1,1.91,3.5,3.7,,,
+2026-03-08,First Division A,2025-26,Club Brugge,Anderlecht,2,2,11,2,1,3,0,0,4,13,4,0,1,1,1.6,4.0,5.0,,,
+2026-03-13,First Division A,2025-26,Gent,Waregem,2,0,2,6,2,1,0,0,2,8,3,0,0,0,2.25,3.3,2.75,,,
+2026-03-14,First Division A,2025-26,Charleroi,Oud-Heverlee Leuven,0,2,10,3,1,1,0,0,2,13,2,0,0,0,1.85,3.3,3.8,,,
+2026-03-14,First Division A,2025-26,St. Gilloise,Dender,2,0,5,5,0,1,0,0,2,10,1,0,0,0,1.25,5.0,11.0,,,
+2026-03-14,First Division A,2025-26,Westerlo,Club Brugge,1,2,11,2,1,2,0,0,3,13,3,0,1,1,5.0,4.1,1.55,,,
+2026-03-15,First Division A,2025-26,Genk,St Truiden,1,0,5,8,2,0,0,0,1,13,2,0,0,0,2.15,3.4,3.0,,,
+2026-03-15,First Division A,2025-26,Antwerp,Standard,1,1,5,3,2,3,1,0,2,8,5,1,1,0,2.05,3.1,3.5,,,
+2026-03-15,First Division A,2025-26,Mechelen,Anderlecht,1,0,5,4,2,8,0,1,1,9,10,1,0,0,3.3,3.5,2.0,,,
+2026-03-15,First Division A,2025-26,Cercle Brugge,RAAL La Louviere,1,3,5,7,2,2,0,0,4,12,4,0,1,1,1.91,3.4,3.75,,,
+2026-03-22,First Division A,2025-26,RAAL La Louviere,Genk,5,5,10,3,2,1,0,0,10,13,3,0,1,1,3.4,3.3,2.0,,,
+2026-03-22,First Division A,2025-26,St Truiden,St. Gilloise,1,3,5,5,0,0,0,0,4,10,0,0,1,1,3.25,3.3,2.1,,,
+2026-03-22,First Division A,2025-26,Oud-Heverlee Leuven,Antwerp,1,0,5,5,3,5,0,1,1,10,8,1,0,0,2.15,3.2,3.25,,,
+2026-03-22,First Division A,2025-26,Standard,Westerlo,0,0,6,9,3,1,0,0,0,15,4,0,0,0,2.35,3.3,2.8,,,
+2026-03-22,First Division A,2025-26,Club Brugge,Mechelen,4,1,15,2,0,1,0,0,5,17,1,0,1,1,1.29,5.5,8.0,,,
+2026-03-22,First Division A,2025-26,Anderlecht,Cercle Brugge,2,3,8,7,1,2,0,0,5,15,3,0,1,1,1.85,3.5,3.8,,,
+2026-03-22,First Division A,2025-26,Dender,Gent,1,3,6,3,1,2,0,0,4,9,3,0,1,1,3.5,3.5,1.95,,,
+2026-03-22,First Division A,2025-26,Waregem,Charleroi,1,0,4,10,1,2,0,0,1,14,3,0,0,0,2.55,3.4,2.55,,,

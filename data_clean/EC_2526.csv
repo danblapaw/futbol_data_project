@@ -1,476 +1,476 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2025-08-09,Conference,2025-26,Altrincham,Aldershot,3,2,0,0,5,3,0,0,5,0,8,0,1,1
-2025-08-09,Conference,2025-26,Boreham Wood,Rochdale,0,2,0,0,0,3,0,0,2,0,3,0,0,0
-2025-08-09,Conference,2025-26,Brackley Town,Eastleigh,1,0,0,0,1,2,0,0,1,0,3,0,0,0
-2025-08-09,Conference,2025-26,Braintree Town,Halifax,3,0,0,0,4,3,0,0,3,0,7,0,0,1
-2025-08-09,Conference,2025-26,Gateshead,Southend,0,3,0,0,1,1,0,0,3,0,2,0,0,1
-2025-08-09,Conference,2025-26,Solihull,Forest Green,2,2,0,0,2,0,1,0,4,0,2,1,1,1
-2025-08-09,Conference,2025-26,Tamworth,Scunthorpe,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2025-08-09,Conference,2025-26,Wealdstone,Truro,2,0,0,0,1,0,0,0,2,0,1,0,0,0
-2025-08-09,Conference,2025-26,Woking,Carlisle,0,2,0,0,3,2,0,0,2,0,5,0,0,0
-2025-08-09,Conference,2025-26,Yeovil,Hartlepool,0,0,0,0,3,2,0,0,0,0,5,0,0,0
-2025-08-09,Conference,2025-26,York,Sutton,2,2,0,0,1,1,0,0,4,0,2,0,1,1
-2025-08-16,Conference,2025-26,Truro,York,0,2,0,0,2,2,0,0,2,0,4,0,0,0
-2025-08-16,Conference,2025-26,Wealdstone,Halifax,2,1,0,0,4,3,0,1,3,0,7,1,1,1
-2025-08-16,Conference,2025-26,Sutton,Solihull,0,0,0,0,3,3,0,0,0,0,6,0,0,0
-2025-08-16,Conference,2025-26,Southend,Tamworth,2,0,0,0,2,1,0,0,2,0,3,0,0,0
-2025-08-16,Conference,2025-26,Scunthorpe,Woking,3,1,0,0,2,2,0,0,4,0,4,0,1,1
-2025-08-16,Conference,2025-26,Eastleigh,Gateshead,0,2,0,0,2,1,0,0,2,0,3,0,0,0
-2025-08-16,Conference,2025-26,Forest Green,Yeovil,2,0,0,0,1,3,0,1,2,0,4,1,0,0
-2025-08-16,Conference,2025-26,Carlisle,Boreham Wood,3,3,0,0,1,1,0,0,6,0,2,0,1,1
-2025-08-16,Conference,2025-26,Aldershot,Boston Utd,2,3,0,0,3,2,1,0,5,0,5,1,1,1
-2025-08-16,Conference,2025-26,Rochdale,Altrincham,2,1,0,0,1,5,0,0,3,0,6,0,1,1
-2025-08-16,Conference,2025-26,Hartlepool,Braintree Town,2,0,0,0,1,1,0,1,2,0,2,1,0,0
-2025-08-19,Conference,2025-26,Altrincham,Hartlepool,0,2,0,0,1,1,0,0,2,0,2,0,0,0
-2025-08-19,Conference,2025-26,Boston Utd,Halifax,0,1,0,0,2,3,0,0,1,0,5,0,0,0
-2025-08-19,Conference,2025-26,Carlisle,Solihull,1,1,0,0,2,0,0,0,2,0,2,0,1,0
-2025-08-19,Conference,2025-26,Tamworth,Truro,2,0,0,0,2,2,0,0,2,0,4,0,0,0
-2025-08-19,Conference,2025-26,Woking,Wealdstone,1,2,0,0,1,5,0,0,3,0,6,0,1,1
-2025-08-20,Conference,2025-26,Yeovil,Brackley Town,2,1,0,0,4,2,0,0,3,0,6,0,1,1
-2025-08-20,Conference,2025-26,Southend,York,0,0,0,0,2,3,0,0,0,0,5,0,0,0
-2025-08-20,Conference,2025-26,Rochdale,Gateshead,4,0,0,0,1,4,0,0,4,0,5,0,0,1
-2025-08-20,Conference,2025-26,Boreham Wood,Braintree Town,2,1,0,0,2,1,0,1,3,0,3,1,1,1
-2025-08-20,Conference,2025-26,Aldershot,Eastleigh,2,3,0,0,3,3,0,1,5,0,6,1,1,1
-2025-08-20,Conference,2025-26,Forest Green,Sutton,4,0,0,0,1,3,0,0,4,0,4,0,0,1
-2025-08-23,Conference,2025-26,Wealdstone,Carlisle,0,1,0,0,0,3,0,0,1,0,3,0,0,0
-2025-08-23,Conference,2025-26,Truro,Southend,0,1,0,0,5,0,0,0,1,0,5,0,0,0
-2025-08-23,Conference,2025-26,Sutton,Scunthorpe,2,3,0,0,1,2,1,0,5,0,3,1,1,1
-2025-08-23,Conference,2025-26,Solihull,Aldershot,1,5,0,0,2,2,0,0,6,0,4,0,1,1
-2025-08-23,Conference,2025-26,Halifax,Forest Green,1,2,0,0,2,3,0,0,3,0,5,0,1,1
-2025-08-23,Conference,2025-26,Hartlepool,Woking,3,0,0,0,0,2,0,0,3,0,2,0,0,1
-2025-08-23,Conference,2025-26,Eastleigh,Boston Utd,2,0,0,0,1,3,0,0,2,0,4,0,0,0
-2025-08-23,Conference,2025-26,Braintree Town,Yeovil,1,0,0,0,2,2,0,0,1,0,4,0,0,0
-2025-08-23,Conference,2025-26,Brackley Town,Rochdale,2,1,0,0,3,4,0,0,3,0,7,0,1,1
-2025-08-23,Conference,2025-26,Morecambe,Altrincham,2,1,0,0,4,3,0,0,3,0,7,0,1,1
-2025-08-23,Conference,2025-26,Gateshead,Tamworth,2,1,0,0,2,2,0,0,3,0,4,0,1,1
-2025-08-25,Conference,2025-26,Scunthorpe,Halifax,1,1,0,0,2,2,1,0,2,0,4,1,1,0
-2025-08-25,Conference,2025-26,Woking,York,1,1,0,0,3,4,0,0,2,0,7,0,1,0
-2025-08-25,Conference,2025-26,Tamworth,Brackley Town,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-08-25,Conference,2025-26,Southend,Hartlepool,1,1,0,0,1,3,0,0,2,0,4,0,1,0
-2025-08-25,Conference,2025-26,Rochdale,Sutton,1,0,0,0,1,0,0,0,1,0,1,0,0,0
-2025-08-25,Conference,2025-26,Altrincham,Solihull,2,0,0,0,4,1,0,0,2,0,5,0,0,0
-2025-08-25,Conference,2025-26,Carlisle,Braintree Town,5,0,0,0,0,2,0,0,5,0,2,0,0,1
-2025-08-25,Conference,2025-26,Boston Utd,Wealdstone,2,1,0,0,0,2,0,0,3,0,2,0,1,1
-2025-08-25,Conference,2025-26,Boreham Wood,Truro,2,1,0,0,2,2,0,0,3,0,4,0,1,1
-2025-08-25,Conference,2025-26,Aldershot,Morecambe,4,0,0,0,3,2,0,0,4,0,5,0,0,1
-2025-08-25,Conference,2025-26,Yeovil,Gateshead,3,4,0,0,1,3,0,0,7,0,4,0,1,1
-2025-08-25,Conference,2025-26,Forest Green,Eastleigh,1,0,0,0,4,2,0,0,1,0,6,0,0,0
-2025-08-30,Conference,2025-26,Truro,Boston Utd,3,0,0,0,0,3,0,0,3,0,3,0,0,1
-2025-08-30,Conference,2025-26,Sutton,Carlisle,2,1,0,0,0,1,0,0,3,0,1,0,1,1
-2025-08-30,Conference,2025-26,Brackley Town,Scunthorpe,1,1,0,0,4,5,0,1,2,0,9,1,1,0
-2025-08-30,Conference,2025-26,Wealdstone,Rochdale,1,3,0,0,1,3,0,0,4,0,4,0,1,1
-2025-08-30,Conference,2025-26,Morecambe,Woking,0,2,0,0,2,2,0,0,2,0,4,0,0,0
-2025-08-30,Conference,2025-26,Braintree Town,Forest Green,0,0,0,0,4,2,0,0,0,0,6,0,0,0
-2025-08-30,Conference,2025-26,Halifax,Yeovil,3,2,0,0,4,2,0,0,5,0,6,0,1,1
-2025-08-30,Conference,2025-26,Gateshead,Aldershot,3,3,0,0,4,4,0,0,6,0,8,0,1,1
-2025-08-30,Conference,2025-26,Eastleigh,Altrincham,2,1,0,0,1,3,0,0,3,0,4,0,1,1
-2025-08-30,Conference,2025-26,Hartlepool,Boreham Wood,0,0,0,0,2,1,1,0,0,0,3,1,0,0
-2025-08-30,Conference,2025-26,Solihull,Southend,1,2,0,0,2,0,0,0,3,0,2,0,1,1
-2025-09-02,Conference,2025-26,Braintree Town,Tamworth,1,2,0,0,2,0,0,0,3,0,2,0,1,1
-2025-09-02,Conference,2025-26,Morecambe,Forest Green,1,3,0,0,2,1,0,0,4,0,3,0,1,1
-2025-09-02,Conference,2025-26,Solihull,Yeovil,0,1,0,0,0,2,0,0,1,0,2,0,0,0
-2025-09-02,Conference,2025-26,Wealdstone,Southend,3,2,0,0,4,4,0,0,5,0,8,0,1,1
-2025-09-03,Conference,2025-26,Truro,Aldershot,2,2,0,0,1,2,0,2,4,0,3,2,1,1
-2025-09-03,Conference,2025-26,Sutton,Boreham Wood,3,4,0,0,2,2,0,0,7,0,4,0,1,1
-2025-09-03,Conference,2025-26,Hartlepool,Boston Utd,1,1,0,0,2,2,0,0,2,0,4,0,1,0
-2025-09-03,Conference,2025-26,Brackley Town,Carlisle,0,1,0,0,2,2,0,0,1,0,4,0,0,0
-2025-09-03,Conference,2025-26,Gateshead,Altrincham,0,2,0,0,0,0,1,0,2,0,0,1,0,0
-2025-09-03,Conference,2025-26,Halifax,Woking,1,1,0,0,3,2,0,0,2,0,5,0,1,0
-2025-09-06,Conference,2025-26,Southend,Halifax,3,0,0,0,1,2,0,1,3,0,3,1,0,1
-2025-09-06,Conference,2025-26,Yeovil,York,1,3,0,0,2,1,0,0,4,0,3,0,1,1
-2025-09-06,Conference,2025-26,Woking,Gateshead,5,0,0,0,0,1,0,0,5,0,1,0,0,1
-2025-09-06,Conference,2025-26,Tamworth,Eastleigh,1,0,0,0,1,3,1,1,1,0,4,2,0,0
-2025-09-06,Conference,2025-26,Scunthorpe,Wealdstone,2,1,0,0,1,2,0,0,3,0,3,0,1,1
-2025-09-06,Conference,2025-26,Aldershot,Brackley Town,2,2,0,0,2,3,1,0,4,0,5,1,1,1
-2025-09-06,Conference,2025-26,Forest Green,Hartlepool,1,0,0,0,2,2,0,0,1,0,4,0,0,0
-2025-09-06,Conference,2025-26,Carlisle,Truro,3,0,0,0,3,1,0,0,3,0,4,0,0,1
-2025-09-06,Conference,2025-26,Boston Utd,Solihull,1,2,0,0,1,3,0,0,3,0,4,0,1,1
-2025-09-06,Conference,2025-26,Boreham Wood,Morecambe,3,0,0,0,3,3,0,1,3,0,6,1,0,1
-2025-09-06,Conference,2025-26,Altrincham,Sutton,2,1,0,0,0,6,0,0,3,0,6,0,1,1
-2025-09-06,Conference,2025-26,Rochdale,Braintree Town,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2025-09-09,Conference,2025-26,York,Tamworth,4,0,0,0,1,1,0,0,4,0,2,0,0,1
-2025-09-13,Conference,2025-26,Halifax,Eastleigh,2,2,0,0,3,3,0,0,4,0,6,0,1,1
-2025-09-13,Conference,2025-26,Wealdstone,Gateshead,2,2,0,0,2,2,0,0,4,0,4,0,1,1
-2025-09-13,Conference,2025-26,Sutton,Tamworth,2,3,0,0,2,3,0,0,5,0,5,0,1,1
-2025-09-13,Conference,2025-26,Southend,Boston Utd,1,1,0,0,0,4,0,0,2,0,4,0,1,0
-2025-09-13,Conference,2025-26,Solihull,Morecambe,4,4,0,0,1,0,0,0,8,0,1,0,1,1
-2025-09-13,Conference,2025-26,Truro,Rochdale,0,1,0,0,2,2,0,0,1,0,4,0,0,0
-2025-09-13,Conference,2025-26,Forest Green,Scunthorpe,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-09-13,Conference,2025-26,Carlisle,Aldershot,2,0,0,0,1,1,0,0,2,0,2,0,0,0
-2025-09-13,Conference,2025-26,Braintree Town,York,2,3,0,0,4,1,0,0,5,0,5,0,1,1
-2025-09-13,Conference,2025-26,Boreham Wood,Altrincham,3,1,0,0,2,2,0,1,4,0,4,1,1,1
-2025-09-13,Conference,2025-26,Yeovil,Woking,1,0,0,0,4,3,0,0,1,0,7,0,0,0
-2025-09-13,Conference,2025-26,Hartlepool,Brackley Town,0,0,0,0,1,1,0,0,0,0,2,0,0,0
-2025-09-20,Conference,2025-26,York,Solihull,0,1,0,0,3,0,0,2,1,0,3,2,0,0
-2025-09-20,Conference,2025-26,Woking,Forest Green,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2025-09-20,Conference,2025-26,Tamworth,Yeovil,1,0,0,0,2,1,0,0,1,0,3,0,0,0
-2025-09-20,Conference,2025-26,Scunthorpe,Truro,4,0,0,0,3,3,0,0,4,0,6,0,0,1
-2025-09-20,Conference,2025-26,Morecambe,Wealdstone,4,3,0,0,2,1,0,0,7,0,3,0,1,1
-2025-09-20,Conference,2025-26,Boston Utd,Boreham Wood,0,2,0,0,3,0,0,0,2,0,3,0,0,0
-2025-09-20,Conference,2025-26,Eastleigh,Braintree Town,1,3,0,0,3,4,0,0,4,0,7,0,1,1
-2025-09-20,Conference,2025-26,Altrincham,Carlisle,1,2,0,0,1,4,1,1,3,0,5,2,1,1
-2025-09-20,Conference,2025-26,Aldershot,Hartlepool,1,0,0,0,5,2,0,0,1,0,7,0,0,0
-2025-09-20,Conference,2025-26,Brackley Town,Sutton,1,0,0,0,3,2,0,0,1,0,5,0,0,0
-2025-09-20,Conference,2025-26,Gateshead,Halifax,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2025-09-23,Conference,2025-26,Woking,Sutton,1,1,0,0,0,3,0,0,2,0,3,0,1,0
-2025-09-23,Conference,2025-26,York,Carlisle,5,0,0,0,4,5,0,0,5,0,9,0,0,1
-2025-09-23,Conference,2025-26,Rochdale,Solihull,4,1,0,0,3,2,0,0,5,0,5,0,1,1
-2025-09-23,Conference,2025-26,Gateshead,Hartlepool,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2025-09-23,Conference,2025-26,Brackley Town,Truro,1,0,0,0,2,1,0,0,1,0,3,0,0,0
-2025-09-23,Conference,2025-26,Altrincham,Forest Green,1,2,0,0,1,3,1,0,3,0,4,1,1,1
-2025-09-24,Conference,2025-26,Aldershot,Yeovil,1,4,0,0,1,2,0,0,5,0,3,0,1,1
-2025-09-24,Conference,2025-26,Boston Utd,Braintree Town,2,0,0,0,2,3,0,0,2,0,5,0,0,0
-2025-09-24,Conference,2025-26,Eastleigh,Southend,2,1,0,0,0,1,0,0,3,0,1,0,1,1
-2025-09-24,Conference,2025-26,Morecambe,Halifax,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2025-09-24,Conference,2025-26,Scunthorpe,Boreham Wood,1,1,0,0,2,0,0,0,2,0,2,0,1,0
-2025-09-24,Conference,2025-26,Tamworth,Wealdstone,1,1,0,0,2,3,0,0,2,0,5,0,1,0
-2025-09-27,Conference,2025-26,Forest Green,York,1,1,0,0,1,1,0,0,2,0,2,0,1,0
-2025-09-27,Conference,2025-26,Yeovil,Altrincham,1,0,0,0,2,2,0,0,1,0,4,0,0,0
-2025-09-27,Conference,2025-26,Wealdstone,Eastleigh,0,0,0,0,3,2,0,1,0,0,5,1,0,0
-2025-09-27,Conference,2025-26,Truro,Morecambe,5,0,0,0,1,1,0,1,5,0,2,1,0,1
-2025-09-27,Conference,2025-26,Sutton,Boston Utd,1,1,0,0,5,4,0,0,2,0,9,0,1,0
-2025-09-27,Conference,2025-26,Southend,Scunthorpe,0,2,0,0,2,2,0,0,2,0,4,0,0,0
-2025-09-27,Conference,2025-26,Carlisle,Rochdale,0,2,0,0,2,2,0,0,2,0,4,0,0,0
-2025-09-27,Conference,2025-26,Hartlepool,Tamworth,1,1,0,0,3,2,0,0,2,0,5,0,1,0
-2025-09-27,Conference,2025-26,Halifax,Aldershot,4,2,0,0,3,3,0,0,6,0,6,0,1,1
-2025-09-27,Conference,2025-26,Braintree Town,Gateshead,1,2,0,0,0,2,0,0,3,0,2,0,1,1
-2025-09-27,Conference,2025-26,Boreham Wood,Woking,1,0,0,0,0,1,0,0,1,0,1,0,0,0
-2025-09-27,Conference,2025-26,Solihull,Brackley Town,1,0,0,0,2,1,0,0,1,0,3,0,0,0
-2025-09-30,Conference,2025-26,Truro,Eastleigh,0,2,0,0,2,3,0,0,2,0,5,0,0,0
-2025-09-30,Conference,2025-26,Solihull,Woking,0,3,0,0,2,2,0,0,3,0,4,0,0,1
-2025-09-30,Conference,2025-26,Sutton,Yeovil,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2025-09-30,Conference,2025-26,Boreham Wood,Southend,1,1,0,0,4,2,0,0,2,0,6,0,1,0
-2025-09-30,Conference,2025-26,Aldershot,Braintree Town,1,1,0,0,0,1,0,1,2,0,1,1,1,0
-2025-09-30,Conference,2025-26,Morecambe,Gateshead,2,5,0,0,1,1,0,0,7,0,2,0,1,1
-2025-10-01,Conference,2025-26,Altrincham,Tamworth,1,2,0,0,1,3,0,0,3,0,4,0,1,1
-2025-10-01,Conference,2025-26,Boston Utd,Forest Green,0,0,0,0,1,0,0,0,0,0,1,0,0,0
-2025-10-01,Conference,2025-26,Brackley Town,Wealdstone,0,2,0,0,3,1,0,0,2,0,4,0,0,0
-2025-10-01,Conference,2025-26,Carlisle,Hartlepool,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2025-10-01,Conference,2025-26,Rochdale,Halifax,1,2,0,0,4,3,0,0,3,0,7,0,1,1
-2025-10-01,Conference,2025-26,York,Scunthorpe,1,3,0,0,2,2,0,0,4,0,4,0,1,1
-2025-10-04,Conference,2025-26,Scunthorpe,Carlisle,0,1,0,0,4,4,1,0,1,0,8,1,0,0
-2025-10-04,Conference,2025-26,Yeovil,Boreham Wood,0,3,0,0,1,1,0,0,3,0,2,0,0,1
-2025-10-04,Conference,2025-26,Woking,Truro,2,2,0,0,2,2,0,0,4,0,4,0,1,1
-2025-10-04,Conference,2025-26,Wealdstone,Altrincham,1,1,0,0,1,2,0,0,2,0,3,0,1,0
-2025-10-04,Conference,2025-26,Tamworth,Morecambe,1,1,0,0,1,3,0,0,2,0,4,0,1,0
-2025-10-04,Conference,2025-26,Southend,Aldershot,3,0,0,0,2,0,0,0,3,0,2,0,0,1
-2025-10-04,Conference,2025-26,Forest Green,Rochdale,0,1,0,0,2,3,0,0,1,0,5,0,0,0
-2025-10-04,Conference,2025-26,Eastleigh,Solihull,1,1,0,0,2,2,0,0,2,0,4,0,1,0
-2025-10-04,Conference,2025-26,Braintree Town,Sutton,0,0,0,0,1,3,0,0,0,0,4,0,0,0
-2025-10-04,Conference,2025-26,Hartlepool,York,1,2,0,0,2,0,0,0,3,0,2,0,1,1
-2025-10-04,Conference,2025-26,Gateshead,Boston Utd,1,3,0,0,1,1,0,0,4,0,2,0,1,1
-2025-10-04,Conference,2025-26,Halifax,Brackley Town,2,0,0,0,0,3,0,0,2,0,3,0,0,0
-2025-10-07,Conference,2025-26,Scunthorpe,Morecambe,3,1,0,0,1,3,0,0,4,0,4,0,1,1
-2025-10-18,Conference,2025-26,Rochdale,Yeovil,3,0,0,0,1,4,0,0,3,0,5,0,0,1
-2025-10-18,Conference,2025-26,Carlisle,Forest Green,4,2,0,0,4,3,0,1,6,0,7,1,1,1
-2025-10-18,Conference,2025-26,York,Wealdstone,4,0,0,0,1,1,0,0,4,0,2,0,0,1
-2025-10-18,Conference,2025-26,Truro,Halifax,2,1,0,0,1,1,0,0,3,0,2,0,1,1
-2025-10-18,Conference,2025-26,Morecambe,Southend,0,3,0,0,3,1,0,0,3,0,4,0,0,1
-2025-10-18,Conference,2025-26,Sutton,Hartlepool,3,3,0,0,3,2,0,0,6,0,5,0,1,1
-2025-10-18,Conference,2025-26,Boston Utd,Scunthorpe,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-10-18,Conference,2025-26,Boreham Wood,Eastleigh,2,0,0,0,3,3,0,0,2,0,6,0,0,0
-2025-10-18,Conference,2025-26,Altrincham,Woking,1,3,0,0,2,4,0,0,4,0,6,0,1,1
-2025-10-18,Conference,2025-26,Aldershot,Tamworth,1,2,0,0,2,3,0,0,3,0,5,0,1,1
-2025-10-18,Conference,2025-26,Solihull,Braintree Town,2,0,0,0,3,3,0,0,2,0,6,0,0,0
-2025-10-18,Conference,2025-26,Brackley Town,Gateshead,0,0,0,0,2,2,1,0,0,0,4,1,0,0
-2025-10-21,Conference,2025-26,Boston Utd,Morecambe,0,4,0,0,3,1,0,0,4,0,4,0,0,1
-2025-10-21,Conference,2025-26,Eastleigh,Scunthorpe,1,1,0,0,3,3,0,0,2,0,6,0,1,0
-2025-10-21,Conference,2025-26,York,Boreham Wood,2,2,0,0,1,2,0,0,4,0,3,0,1,1
-2025-10-25,Conference,2025-26,Tamworth,Boston Utd,1,3,0,0,4,3,0,0,4,0,7,0,1,1
-2025-10-25,Conference,2025-26,Yeovil,Carlisle,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-10-25,Conference,2025-26,Wealdstone,Sutton,4,2,0,0,3,0,0,0,6,0,3,0,1,1
-2025-10-25,Conference,2025-26,Southend,Brackley Town,2,0,0,0,0,1,0,0,2,0,1,0,0,0
-2025-10-25,Conference,2025-26,Scunthorpe,Aldershot,2,1,0,0,2,3,0,0,3,0,5,0,1,1
-2025-10-25,Conference,2025-26,Woking,Rochdale,0,0,0,0,2,1,0,0,0,0,3,0,0,0
-2025-10-25,Conference,2025-26,Gateshead,Truro,2,2,0,0,3,1,0,0,4,0,4,0,1,1
-2025-10-25,Conference,2025-26,Forest Green,Boreham Wood,2,1,0,0,0,1,0,0,3,0,1,0,1,1
-2025-10-25,Conference,2025-26,Eastleigh,Morecambe,2,1,0,0,2,4,0,0,3,0,6,0,1,1
-2025-10-25,Conference,2025-26,Braintree Town,Altrincham,0,0,0,0,0,3,0,0,0,0,3,0,0,0
-2025-10-25,Conference,2025-26,Halifax,York,1,1,0,0,1,2,0,0,2,0,3,0,1,0
-2025-10-25,Conference,2025-26,Hartlepool,Solihull,2,0,0,0,3,2,0,0,2,0,5,0,0,0
-2025-11-04,Conference,2025-26,Boreham Wood,Aldershot,1,0,0,0,0,1,0,0,1,0,1,0,0,0
-2025-11-04,Conference,2025-26,Carlisle,Halifax,2,0,0,0,1,1,0,0,2,0,2,0,0,0
-2025-11-04,Conference,2025-26,Hartlepool,Morecambe,1,1,0,0,1,1,0,0,2,0,2,0,1,0
-2025-11-04,Conference,2025-26,Yeovil,Wealdstone,0,2,0,0,2,1,0,0,2,0,3,0,0,0
-2025-11-05,Conference,2025-26,York,Gateshead,4,0,0,0,1,1,0,0,4,0,2,0,0,1
-2025-11-05,Conference,2025-26,Woking,Southend,1,1,0,0,3,2,0,0,2,0,5,0,1,0
-2025-11-05,Conference,2025-26,Sutton,Eastleigh,2,1,0,0,4,2,0,0,3,0,6,0,1,1
-2025-11-05,Conference,2025-26,Altrincham,Boston Utd,1,0,0,0,2,2,0,0,1,0,4,0,0,0
-2025-11-05,Conference,2025-26,Braintree Town,Brackley Town,0,1,0,0,6,2,0,0,1,0,8,0,0,0
-2025-11-05,Conference,2025-26,Solihull,Truro,4,0,0,0,2,1,0,1,4,0,3,1,0,1
-2025-11-08,Conference,2025-26,Scunthorpe,Yeovil,1,0,0,0,1,2,0,0,1,0,3,0,0,0
-2025-11-08,Conference,2025-26,Southend,Carlisle,1,2,0,0,1,3,0,0,3,0,4,0,1,1
-2025-11-08,Conference,2025-26,Wealdstone,Braintree Town,1,0,0,0,2,2,1,0,1,0,4,1,0,0
-2025-11-08,Conference,2025-26,Truro,Altrincham,0,1,0,0,2,1,0,0,1,0,3,0,0,0
-2025-11-08,Conference,2025-26,Tamworth,Woking,0,1,0,0,2,2,0,0,1,0,4,0,0,0
-2025-11-08,Conference,2025-26,Morecambe,Sutton,2,2,0,0,1,1,0,0,4,0,2,0,1,1
-2025-11-08,Conference,2025-26,Aldershot,Forest Green,2,3,0,0,1,1,0,0,5,0,2,0,1,1
-2025-11-08,Conference,2025-26,Gateshead,Solihull,0,2,0,0,3,0,0,0,2,0,3,0,0,0
-2025-11-08,Conference,2025-26,Eastleigh,York,2,4,0,0,1,3,0,0,6,0,4,0,1,1
-2025-11-08,Conference,2025-26,Brackley Town,Boreham Wood,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2025-11-08,Conference,2025-26,Boston Utd,Rochdale,1,3,0,0,2,0,0,0,4,0,2,0,1,1
-2025-11-08,Conference,2025-26,Halifax,Hartlepool,0,1,0,0,1,4,0,0,1,0,5,0,0,0
-2025-11-11,Conference,2025-26,Forest Green,Tamworth,4,2,0,0,2,2,0,1,6,0,4,1,1,1
-2025-11-11,Conference,2025-26,York,Rochdale,4,1,0,0,0,2,0,0,5,0,2,0,1,1
-2025-11-15,Conference,2025-26,York,Morecambe,4,2,0,0,4,1,0,1,6,0,5,1,1,1
-2025-11-15,Conference,2025-26,Yeovil,Southend,0,1,0,0,5,3,0,0,1,0,8,0,0,0
-2025-11-15,Conference,2025-26,Woking,Boston Utd,1,1,0,0,4,2,0,0,2,0,6,0,1,0
-2025-11-15,Conference,2025-26,Sutton,Halifax,2,0,0,0,4,2,0,0,2,0,6,0,0,0
-2025-11-15,Conference,2025-26,Solihull,Scunthorpe,3,0,0,0,0,1,1,0,3,0,1,1,0,1
-2025-11-15,Conference,2025-26,Rochdale,Aldershot,1,0,0,0,1,3,0,0,1,0,4,0,0,0
-2025-11-15,Conference,2025-26,Hartlepool,Wealdstone,1,1,0,0,1,0,0,0,2,0,1,0,1,0
-2025-11-15,Conference,2025-26,Carlisle,Eastleigh,1,1,0,0,1,2,0,0,2,0,3,0,1,0
-2025-11-15,Conference,2025-26,Braintree Town,Truro,2,0,0,0,2,0,0,0,2,0,2,0,0,0
-2025-11-15,Conference,2025-26,Boreham Wood,Tamworth,1,2,0,0,2,0,0,0,3,0,2,0,1,1
-2025-11-15,Conference,2025-26,Altrincham,Brackley Town,2,1,0,0,2,4,0,0,3,0,6,0,1,1
-2025-11-15,Conference,2025-26,Forest Green,Gateshead,3,1,0,0,3,3,0,0,4,0,6,0,1,1
-2025-11-18,Conference,2025-26,Morecambe,Brackley Town,2,0,0,0,2,0,0,0,2,0,2,0,0,0
-2025-11-22,Conference,2025-26,Scunthorpe,Braintree Town,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-11-22,Conference,2025-26,Wealdstone,Forest Green,1,1,0,0,2,2,0,0,2,0,4,0,1,0
-2025-11-22,Conference,2025-26,Truro,Sutton,2,3,0,0,2,0,0,0,5,0,2,0,1,1
-2025-11-22,Conference,2025-26,Southend,Altrincham,3,0,0,0,3,1,0,1,3,0,4,1,0,1
-2025-11-22,Conference,2025-26,Morecambe,Yeovil,0,0,0,0,2,3,0,0,0,0,5,0,0,0
-2025-11-22,Conference,2025-26,Boston Utd,Carlisle,1,2,0,0,3,2,0,0,3,0,5,0,1,1
-2025-11-22,Conference,2025-26,Gateshead,Boreham Wood,0,3,0,0,2,2,0,1,3,0,4,1,0,1
-2025-11-22,Conference,2025-26,Aldershot,Woking,1,2,0,0,5,4,0,0,3,0,9,0,1,1
-2025-11-22,Conference,2025-26,Tamworth,Rochdale,1,2,0,0,2,3,0,0,3,0,5,0,1,1
-2025-11-22,Conference,2025-26,Halifax,Solihull,3,0,0,0,1,3,1,1,3,0,4,2,0,1
-2025-11-22,Conference,2025-26,Eastleigh,Hartlepool,0,2,0,0,1,1,0,0,2,0,2,0,0,0
-2025-11-22,Conference,2025-26,Brackley Town,York,2,3,0,0,1,1,0,0,5,0,2,0,1,1
-2025-11-29,Conference,2025-26,Boreham Wood,Halifax,2,1,0,0,2,0,0,0,3,0,2,0,1,1
-2025-11-29,Conference,2025-26,Yeovil,Boston Utd,2,1,0,0,4,1,0,0,3,0,5,0,1,1
-2025-11-29,Conference,2025-26,Woking,Brackley Town,2,0,0,0,0,4,0,1,2,0,4,1,0,0
-2025-11-29,Conference,2025-26,Sutton,Gateshead,4,2,0,0,2,1,0,0,6,0,3,0,1,1
-2025-11-29,Conference,2025-26,Rochdale,Eastleigh,2,0,0,0,0,1,0,0,2,0,1,0,0,0
-2025-11-29,Conference,2025-26,York,Aldershot,5,1,0,0,0,2,0,1,6,0,2,1,1,1
-2025-11-29,Conference,2025-26,Forest Green,Southend,2,1,0,0,2,3,0,0,3,0,5,0,1,1
-2025-11-29,Conference,2025-26,Carlisle,Tamworth,2,1,0,0,2,3,0,0,3,0,5,0,1,1
-2025-11-29,Conference,2025-26,Braintree Town,Morecambe,1,0,0,0,3,3,0,0,1,0,6,0,0,0
-2025-11-29,Conference,2025-26,Altrincham,Scunthorpe,4,2,0,0,2,2,0,0,6,0,4,0,1,1
-2025-11-29,Conference,2025-26,Solihull,Wealdstone,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-11-29,Conference,2025-26,Hartlepool,Truro,3,1,0,0,1,1,0,0,4,0,2,0,1,1
-2025-12-06,Conference,2025-26,Scunthorpe,Tamworth,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2025-12-06,Conference,2025-26,Hartlepool,Yeovil,0,2,0,0,1,4,1,0,2,0,5,1,0,0
-2025-12-06,Conference,2025-26,Halifax,Braintree Town,4,0,0,0,0,1,0,0,4,0,1,0,0,1
-2025-12-06,Conference,2025-26,Forest Green,Solihull,1,1,0,0,2,4,0,0,2,0,6,0,1,0
-2025-12-06,Conference,2025-26,Morecambe,Boston Utd,0,3,0,0,2,1,0,0,3,0,3,0,0,1
-2025-12-06,Conference,2025-26,Aldershot,Altrincham,2,1,0,0,3,3,0,0,3,0,6,0,1,1
-2025-12-10,Conference,2025-26,Carlisle,Woking,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2025-12-16,Conference,2025-26,Truro,Wealdstone,2,0,0,0,3,2,0,0,2,0,5,0,0,0
-2025-12-19,Conference,2025-26,Altrincham,Rochdale,0,3,0,0,0,1,0,0,3,0,1,0,0,1
-2025-12-20,Conference,2025-26,Yeovil,Forest Green,0,2,0,0,4,0,0,1,2,0,4,1,0,0
-2025-12-20,Conference,2025-26,York,Truro,4,0,0,0,0,2,0,0,4,0,2,0,0,1
-2025-12-20,Conference,2025-26,Tamworth,Southend,2,1,0,0,1,1,0,0,3,0,2,0,1,1
-2025-12-20,Conference,2025-26,Woking,Scunthorpe,1,2,0,0,0,2,0,0,3,0,2,0,1,1
-2025-12-20,Conference,2025-26,Boston Utd,Aldershot,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2025-12-21,Conference,2025-26,Brackley Town,Morecambe,0,2,0,0,3,3,0,0,2,0,6,0,0,0
-2025-12-21,Conference,2025-26,Solihull,Sutton,4,1,0,0,2,2,0,1,5,0,4,1,1,1
-2025-12-21,Conference,2025-26,Braintree Town,Hartlepool,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2025-12-21,Conference,2025-26,Gateshead,Eastleigh,1,3,0,0,2,2,1,0,4,0,4,1,1,1
-2025-12-21,Conference,2025-26,Boreham Wood,Carlisle,2,0,0,0,1,3,0,0,2,0,4,0,0,0
-2025-12-21,Conference,2025-26,Halifax,Wealdstone,2,2,0,0,2,3,0,0,4,0,5,0,1,1
-2025-12-26,Conference,2025-26,York,Boston Utd,2,2,0,0,1,2,1,0,4,0,3,1,1,1
-2025-12-26,Conference,2025-26,Wealdstone,Boreham Wood,0,4,0,0,2,1,0,0,4,0,3,0,0,1
-2025-12-26,Conference,2025-26,Truro,Yeovil,1,0,0,0,0,1,0,0,1,0,1,0,0,0
-2025-12-26,Conference,2025-26,Sutton,Aldershot,0,0,0,0,1,2,0,0,0,0,3,0,0,0
-2025-12-26,Conference,2025-26,Solihull,Tamworth,7,1,0,0,1,3,0,0,8,0,4,0,1,1
-2025-12-26,Conference,2025-26,Morecambe,Rochdale,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2025-12-26,Conference,2025-26,Halifax,Altrincham,2,1,0,0,2,3,0,0,3,0,5,0,1,1
-2025-12-26,Conference,2025-26,Gateshead,Carlisle,0,3,0,0,1,0,0,0,3,0,1,0,0,1
-2025-12-26,Conference,2025-26,Eastleigh,Woking,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2025-12-26,Conference,2025-26,Braintree Town,Southend,0,1,0,0,2,4,0,1,1,0,6,1,0,0
-2025-12-26,Conference,2025-26,Brackley Town,Forest Green,1,0,0,0,5,2,0,0,1,0,7,0,0,0
-2025-12-26,Conference,2025-26,Hartlepool,Scunthorpe,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2025-12-30,Conference,2025-26,Scunthorpe,Gateshead,2,0,0,0,2,1,0,1,2,0,3,1,0,0
-2025-12-30,Conference,2025-26,Yeovil,Eastleigh,1,1,0,0,5,3,0,0,2,0,8,0,1,0
-2025-12-30,Conference,2025-26,Tamworth,Halifax,0,2,0,0,1,3,0,0,2,0,4,0,0,0
-2025-12-30,Conference,2025-26,Southend,Sutton,1,0,0,0,2,3,0,0,1,0,5,0,0,0
-2025-12-30,Conference,2025-26,Rochdale,Hartlepool,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2025-12-30,Conference,2025-26,Woking,Braintree Town,0,1,0,0,1,1,0,0,1,0,2,0,0,0
-2025-12-30,Conference,2025-26,Carlisle,Morecambe,1,0,0,0,1,3,0,0,1,0,4,0,0,0
-2025-12-30,Conference,2025-26,Boston Utd,Brackley Town,1,2,0,0,2,5,0,0,3,0,7,0,1,1
-2025-12-30,Conference,2025-26,Boreham Wood,Solihull,2,1,0,0,2,0,0,0,3,0,2,0,1,1
-2025-12-30,Conference,2025-26,Altrincham,York,1,2,0,0,0,1,1,0,3,0,1,1,1,1
-2025-12-30,Conference,2025-26,Forest Green,Truro,1,1,0,0,2,4,0,0,2,0,6,0,1,0
-2025-12-30,Conference,2025-26,Aldershot,Wealdstone,4,1,0,0,1,3,0,0,5,0,4,0,1,1
-2026-01-03,Conference,2025-26,Yeovil,Braintree Town,3,1,0,0,0,2,0,0,4,0,2,0,1,1
-2026-01-03,Conference,2025-26,Tamworth,Gateshead,3,1,0,0,1,3,0,0,4,0,4,0,1,1
-2026-01-03,Conference,2025-26,Boston Utd,Eastleigh,1,2,0,0,3,4,0,0,3,0,7,0,1,1
-2026-01-03,Conference,2025-26,Carlisle,Wealdstone,2,0,0,0,2,2,0,0,2,0,4,0,0,0
-2026-01-03,Conference,2025-26,Forest Green,Halifax,2,1,0,0,1,3,0,0,3,0,4,0,1,1
-2026-01-10,Conference,2025-26,Aldershot,Solihull,1,5,0,0,2,2,1,0,6,0,4,1,1,1
-2026-01-10,Conference,2025-26,Sutton,York,1,2,0,0,4,1,0,0,3,0,5,0,1,1
-2026-01-10,Conference,2025-26,Woking,Hartlepool,4,0,0,0,1,0,0,1,4,0,1,1,0,1
-2026-01-10,Conference,2025-26,Braintree Town,Boston Utd,0,0,0,0,4,3,0,0,0,0,7,0,0,0
-2026-01-17,Conference,2025-26,York,Southend,1,1,0,0,3,3,0,0,2,0,6,0,1,0
-2026-01-17,Conference,2025-26,Wealdstone,Woking,1,0,0,0,2,3,0,0,1,0,5,0,0,0
-2026-01-17,Conference,2025-26,Truro,Tamworth,0,0,0,0,2,0,1,0,0,0,2,1,0,0
-2026-01-17,Conference,2025-26,Sutton,Forest Green,1,1,0,0,5,2,0,1,2,0,7,1,1,0
-2026-01-17,Conference,2025-26,Solihull,Carlisle,3,3,0,0,2,3,0,0,6,0,5,0,1,1
-2026-01-17,Conference,2025-26,Morecambe,Scunthorpe,2,2,0,0,3,6,0,0,4,0,9,0,1,1
-2026-01-17,Conference,2025-26,Halifax,Boston Utd,2,1,0,0,1,1,0,0,3,0,2,0,1,1
-2026-01-17,Conference,2025-26,Gateshead,Rochdale,0,2,0,0,2,0,0,0,2,0,2,0,0,0
-2026-01-17,Conference,2025-26,Eastleigh,Aldershot,1,4,0,0,4,3,0,0,5,0,7,0,1,1
-2026-01-17,Conference,2025-26,Braintree Town,Boreham Wood,0,3,0,0,3,1,0,0,3,0,4,0,0,1
-2026-01-17,Conference,2025-26,Brackley Town,Yeovil,2,1,0,0,3,2,0,0,3,0,5,0,1,1
-2026-01-17,Conference,2025-26,Hartlepool,Altrincham,1,0,0,0,4,6,0,0,1,0,10,0,0,0
-2026-01-20,Conference,2025-26,Boreham Wood,Scunthorpe,1,3,0,0,0,1,0,0,4,0,1,0,1,1
-2026-01-20,Conference,2025-26,Hartlepool,Gateshead,2,1,0,0,0,0,0,1,3,0,0,1,1,1
-2026-01-20,Conference,2025-26,Southend,Eastleigh,4,1,0,0,3,1,0,0,5,0,4,0,1,1
-2026-01-20,Conference,2025-26,Truro,Brackley Town,3,3,0,0,2,2,0,0,6,0,4,0,1,1
-2026-01-21,Conference,2025-26,Solihull,Rochdale,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2026-01-21,Conference,2025-26,Halifax,Morecambe,1,0,0,0,2,4,0,0,1,0,6,0,0,0
-2026-01-21,Conference,2025-26,Forest Green,Altrincham,1,1,0,0,2,2,0,0,2,0,4,0,1,0
-2026-01-21,Conference,2025-26,Carlisle,York,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2026-01-24,Conference,2025-26,Scunthorpe,Forest Green,3,2,0,0,2,3,0,0,5,0,5,0,1,1
-2026-01-24,Conference,2025-26,York,Braintree Town,5,0,0,0,1,1,0,0,5,0,2,0,0,1
-2026-01-24,Conference,2025-26,Tamworth,Sutton,0,1,0,0,5,5,0,0,1,0,10,0,0,0
-2026-01-24,Conference,2025-26,Rochdale,Truro,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2026-01-24,Conference,2025-26,Brackley Town,Hartlepool,0,0,0,0,3,2,0,0,0,0,5,0,0,0
-2026-01-24,Conference,2025-26,Eastleigh,Halifax,2,3,0,0,1,3,0,0,5,0,4,0,1,1
-2026-01-24,Conference,2025-26,Morecambe,Solihull,0,2,0,0,3,1,0,0,2,0,4,0,0,0
-2026-01-24,Conference,2025-26,Boston Utd,Southend,3,3,0,0,2,3,0,0,6,0,5,0,1,1
-2026-01-24,Conference,2025-26,Altrincham,Boreham Wood,3,1,0,0,2,3,0,0,4,0,5,0,1,1
-2026-01-27,Conference,2025-26,Rochdale,Southend,2,1,0,0,1,0,0,0,3,0,1,0,1,1
-2026-01-31,Conference,2025-26,Sutton,Brackley Town,1,1,0,0,3,2,0,0,2,0,5,0,1,0
-2026-01-31,Conference,2025-26,Hartlepool,Aldershot,0,3,0,0,1,0,0,0,3,0,1,0,0,1
-2026-01-31,Conference,2025-26,Solihull,York,0,2,0,0,2,4,0,0,2,0,6,0,0,0
-2026-01-31,Conference,2025-26,Braintree Town,Eastleigh,2,1,0,0,4,2,0,0,3,0,6,0,1,1
-2026-01-31,Conference,2025-26,Carlisle,Altrincham,3,1,0,0,2,3,0,0,4,0,5,0,1,1
-2026-01-31,Conference,2025-26,Boreham Wood,Boston Utd,1,2,0,0,2,1,2,0,3,0,3,2,1,1
-2026-02-03,Conference,2025-26,Rochdale,Boreham Wood,4,1,0,0,1,1,0,0,5,0,2,0,1,1
-2026-02-03,Conference,2025-26,Forest Green,Woking,4,2,0,0,0,2,0,0,6,0,2,0,1,1
-2026-02-03,Conference,2025-26,Altrincham,Morecambe,1,1,0,0,2,1,0,0,2,0,3,0,1,0
-2026-02-07,Conference,2025-26,Aldershot,Halifax,3,2,0,0,3,3,1,0,5,0,6,1,1,1
-2026-02-07,Conference,2025-26,Altrincham,Yeovil,0,1,0,0,4,2,0,0,1,0,6,0,0,0
-2026-02-07,Conference,2025-26,Morecambe,Truro,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2026-02-07,Conference,2025-26,Rochdale,Carlisle,1,0,0,0,1,2,0,0,1,0,3,0,0,0
-2026-02-07,Conference,2025-26,Scunthorpe,Southend,1,0,0,0,2,1,0,0,1,0,3,0,0,0
-2026-02-07,Conference,2025-26,Tamworth,Hartlepool,1,1,0,0,2,2,0,0,2,0,4,0,1,0
-2026-02-07,Conference,2025-26,York,Forest Green,2,1,0,0,4,1,0,0,3,0,5,0,1,1
-2026-02-07,Conference,2025-26,Eastleigh,Wealdstone,2,2,0,0,2,2,0,0,4,0,4,0,1,1
-2026-02-07,Conference,2025-26,Boston Utd,Sutton,1,0,0,0,1,2,0,0,1,0,3,0,0,0
-2026-02-10,Conference,2025-26,Morecambe,Tamworth,2,2,0,0,3,1,0,0,4,0,4,0,1,1
-2026-02-10,Conference,2025-26,Solihull,Eastleigh,2,3,0,0,1,0,0,0,5,0,1,0,1,1
-2026-02-10,Conference,2025-26,Truro,Woking,0,2,0,0,1,1,0,0,2,0,2,0,0,0
-2026-02-10,Conference,2025-26,Carlisle,Scunthorpe,3,2,0,0,3,2,0,0,5,0,5,0,1,1
-2026-02-10,Conference,2025-26,Altrincham,Wealdstone,1,0,0,0,2,0,0,0,1,0,2,0,0,0
-2026-02-10,Conference,2025-26,Boston Utd,Gateshead,1,0,0,0,1,1,0,0,1,0,2,0,0,0
-2026-02-11,Conference,2025-26,Boreham Wood,Yeovil,3,2,0,0,0,1,0,1,5,0,1,1,1,1
-2026-02-11,Conference,2025-26,Brackley Town,Halifax,1,1,0,0,4,2,0,0,2,0,6,0,1,0
-2026-02-11,Conference,2025-26,Rochdale,Forest Green,2,1,0,0,1,1,0,0,3,0,2,0,1,1
-2026-02-11,Conference,2025-26,Sutton,Braintree Town,1,1,0,0,4,2,1,0,2,0,6,1,1,0
-2026-02-11,Conference,2025-26,York,Hartlepool,3,2,0,0,4,1,0,0,5,0,5,0,1,1
-2026-02-14,Conference,2025-26,Forest Green,Carlisle,1,3,0,0,2,3,0,0,4,0,5,0,1,1
-2026-02-14,Conference,2025-26,Yeovil,Rochdale,1,1,0,0,0,0,1,0,2,0,0,1,1,0
-2026-02-14,Conference,2025-26,Wealdstone,York,0,3,0,0,1,0,1,0,3,0,1,1,0,1
-2026-02-14,Conference,2025-26,Tamworth,Aldershot,1,1,0,0,1,1,1,1,2,0,2,2,1,0
-2026-02-14,Conference,2025-26,Southend,Morecambe,5,1,0,0,1,1,0,0,6,0,2,0,1,1
-2026-02-14,Conference,2025-26,Halifax,Truro,1,0,0,0,1,0,0,0,1,0,1,0,0,0
-2026-02-14,Conference,2025-26,Gateshead,Brackley Town,1,2,0,0,1,0,0,0,3,0,1,0,1,1
-2026-02-14,Conference,2025-26,Eastleigh,Boreham Wood,2,2,0,0,2,0,0,0,4,0,2,0,1,1
-2026-02-14,Conference,2025-26,Braintree Town,Solihull,0,0,0,0,1,4,0,0,0,0,5,0,0,0
-2026-02-14,Conference,2025-26,Scunthorpe,Boston Utd,3,6,0,0,2,4,0,0,9,0,6,0,1,1
-2026-02-17,Conference,2025-26,Halifax,Gateshead,1,2,0,0,1,3,0,0,3,0,4,0,1,1
-2026-02-17,Conference,2025-26,Rochdale,Scunthorpe,1,1,0,0,0,4,0,0,2,0,4,0,1,0
-2026-02-17,Conference,2025-26,Sutton,Woking,2,1,0,0,3,2,1,0,3,0,5,1,1,1
-2026-02-17,Conference,2025-26,Yeovil,Aldershot,1,2,0,0,3,2,0,0,3,0,5,0,1,1
-2026-02-21,Conference,2025-26,Solihull,Hartlepool,3,4,0,0,6,1,0,0,7,0,7,0,1,1
-2026-02-21,Conference,2025-26,Truro,Gateshead,1,2,0,0,2,3,0,0,3,0,5,0,1,1
-2026-02-21,Conference,2025-26,York,Halifax,4,1,0,0,2,1,0,0,5,0,3,0,1,1
-2026-02-21,Conference,2025-26,Sutton,Wealdstone,3,0,0,0,3,0,0,0,3,0,3,0,0,1
-2026-02-21,Conference,2025-26,Rochdale,Woking,3,0,0,0,2,4,0,0,3,0,6,0,0,1
-2026-02-21,Conference,2025-26,Morecambe,Eastleigh,4,0,0,0,1,0,0,0,4,0,1,0,0,1
-2026-02-21,Conference,2025-26,Brackley Town,Southend,0,3,0,0,3,2,0,0,3,0,5,0,0,1
-2026-02-21,Conference,2025-26,Boston Utd,Tamworth,0,0,0,0,2,0,0,0,0,0,2,0,0,0
-2026-02-21,Conference,2025-26,Boreham Wood,Forest Green,1,1,0,0,2,2,0,1,2,0,4,1,1,0
-2026-02-21,Conference,2025-26,Altrincham,Braintree Town,2,1,0,0,1,3,0,0,3,0,4,0,1,1
-2026-02-21,Conference,2025-26,Aldershot,Scunthorpe,3,1,0,0,4,2,0,0,4,0,6,0,1,1
-2026-02-21,Conference,2025-26,Carlisle,Yeovil,3,0,0,0,1,0,0,0,3,0,1,0,0,1
-2026-02-24,Conference,2025-26,Forest Green,Boston Utd,2,3,0,0,3,2,0,0,5,0,5,0,1,1
-2026-02-24,Conference,2025-26,Halifax,Rochdale,2,2,0,0,3,1,0,0,4,0,4,0,1,1
-2026-02-24,Conference,2025-26,Scunthorpe,York,0,3,0,0,3,3,0,0,3,0,6,0,0,1
-2026-02-24,Conference,2025-26,Southend,Boreham Wood,0,2,0,0,1,1,0,0,2,0,2,0,0,0
-2026-02-24,Conference,2025-26,Tamworth,Altrincham,5,1,0,0,1,4,0,2,6,0,5,2,1,1
-2026-02-24,Conference,2025-26,Wealdstone,Brackley Town,2,1,0,0,2,2,0,1,3,0,4,1,1,1
-2026-02-25,Conference,2025-26,Gateshead,Morecambe,4,4,0,0,1,3,0,0,8,0,4,0,1,1
-2026-02-25,Conference,2025-26,Yeovil,Sutton,3,2,0,0,3,5,0,0,5,0,8,0,1,1
-2026-02-25,Conference,2025-26,Hartlepool,Carlisle,3,1,0,0,1,1,0,1,4,0,2,1,1,1
-2026-02-25,Conference,2025-26,Braintree Town,Aldershot,1,2,0,0,1,2,0,0,3,0,3,0,1,1
-2026-02-25,Conference,2025-26,Eastleigh,Truro,2,1,0,0,1,1,0,0,3,0,2,0,1,1
-2026-02-28,Conference,2025-26,Truro,Braintree Town,2,3,0,0,2,5,0,0,5,0,7,0,1,1
-2026-02-28,Conference,2025-26,Aldershot,Rochdale,0,2,0,0,2,2,0,0,2,0,4,0,0,0
-2026-02-28,Conference,2025-26,Brackley Town,Altrincham,0,2,0,0,3,3,0,0,2,0,6,0,0,0
-2026-02-28,Conference,2025-26,Eastleigh,Carlisle,1,2,0,0,1,1,0,0,3,0,2,0,1,1
-2026-02-28,Conference,2025-26,Gateshead,Forest Green,0,2,0,0,2,2,0,0,2,0,4,0,0,0
-2026-02-28,Conference,2025-26,Halifax,Sutton,2,2,0,0,1,2,0,0,4,0,3,0,1,1
-2026-02-28,Conference,2025-26,Scunthorpe,Solihull,3,3,0,0,1,2,0,1,6,0,3,1,1,1
-2026-02-28,Conference,2025-26,Tamworth,Boreham Wood,3,2,0,0,0,1,0,0,5,0,1,0,1,1
-2026-02-28,Conference,2025-26,Morecambe,York,0,1,0,0,3,5,1,0,1,0,8,1,0,0
-2026-03-03,Conference,2025-26,Southend,Truro,1,1,0,0,1,2,0,0,2,0,3,0,1,0
-2026-03-03,Conference,2025-26,Wealdstone,Morecambe,2,3,0,0,2,3,0,1,5,0,5,1,1,1
-2026-03-03,Conference,2025-26,Rochdale,Brackley Town,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2026-03-03,Conference,2025-26,Yeovil,Tamworth,2,0,0,0,2,2,0,0,2,0,4,0,0,0
-2026-03-03,Conference,2025-26,Boston Utd,Woking,2,2,0,0,1,5,0,0,4,0,6,0,1,1
-2026-03-03,Conference,2025-26,Boreham Wood,York,3,2,0,0,3,2,0,1,5,0,5,1,1,1
-2026-03-03,Conference,2025-26,Hartlepool,Sutton,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2026-03-04,Conference,2025-26,Gateshead,Braintree Town,1,0,0,0,1,2,0,0,1,0,3,0,0,0
-2026-03-07,Conference,2025-26,Carlisle,Southend,2,2,0,0,0,2,0,0,4,0,2,0,1,1
-2026-03-07,Conference,2025-26,York,Eastleigh,3,1,0,0,1,1,0,0,4,0,2,0,1,1
-2026-03-07,Conference,2025-26,Woking,Tamworth,3,1,0,0,2,1,0,0,4,0,3,0,1,1
-2026-03-07,Conference,2025-26,Sutton,Morecambe,0,5,0,0,3,2,1,0,5,0,5,1,0,1
-2026-03-07,Conference,2025-26,Solihull,Gateshead,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2026-03-07,Conference,2025-26,Yeovil,Scunthorpe,0,3,0,0,1,1,0,0,3,0,2,0,0,1
-2026-03-07,Conference,2025-26,Hartlepool,Halifax,0,1,0,0,3,0,0,0,1,0,3,0,0,0
-2026-03-07,Conference,2025-26,Forest Green,Aldershot,2,1,0,0,3,4,0,0,3,0,7,0,1,1
-2026-03-07,Conference,2025-26,Braintree Town,Wealdstone,1,4,0,0,3,3,0,0,5,0,6,0,1,1
-2026-03-07,Conference,2025-26,Altrincham,Truro,2,0,0,0,2,0,0,0,2,0,2,0,0,0
-2026-03-07,Conference,2025-26,Boreham Wood,Brackley Town,5,3,0,0,2,3,0,0,8,0,5,0,1,1
-2026-03-07,Conference,2025-26,Rochdale,Boston Utd,1,0,0,0,1,3,0,0,1,0,4,0,0,0
-2026-03-10,Conference,2025-26,Woking,Boreham Wood,2,2,0,0,1,1,0,1,4,0,2,1,1,1
-2026-03-10,Conference,2025-26,Wealdstone,Tamworth,3,2,0,0,0,3,0,0,5,0,3,0,1,1
-2026-03-10,Conference,2025-26,Southend,Gateshead,1,1,0,0,1,1,0,0,2,0,2,0,1,0
-2026-03-10,Conference,2025-26,Scunthorpe,Sutton,1,2,0,0,2,2,0,0,3,0,4,0,1,1
-2026-03-10,Conference,2025-26,Aldershot,Carlisle,0,2,0,0,2,4,0,0,2,0,6,0,0,0
-2026-03-10,Conference,2025-26,Eastleigh,Brackley Town,2,1,0,0,3,4,0,0,3,0,7,0,1,1
-2026-03-14,Conference,2025-26,Tamworth,Carlisle,2,1,0,0,1,0,0,0,3,0,1,0,1,1
-2026-03-14,Conference,2025-26,Morecambe,Braintree Town,1,1,0,0,4,1,0,0,2,0,5,0,1,0
-2026-03-14,Conference,2025-26,Scunthorpe,Altrincham,2,1,0,0,2,1,0,0,3,0,3,0,1,1
-2026-03-14,Conference,2025-26,Truro,Hartlepool,0,1,0,0,4,2,0,0,1,0,6,0,0,0
-2026-03-14,Conference,2025-26,Southend,Forest Green,2,0,0,0,1,1,0,0,2,0,2,0,0,0
-2026-03-14,Conference,2025-26,Eastleigh,Rochdale,1,3,0,0,1,0,0,0,4,0,1,0,1,1
-2026-03-14,Conference,2025-26,Gateshead,Sutton,1,1,0,0,1,2,0,0,2,0,3,0,1,0
-2026-03-14,Conference,2025-26,Brackley Town,Woking,1,4,0,0,1,1,0,0,5,0,2,0,1,1
-2026-03-14,Conference,2025-26,Boston Utd,Yeovil,2,1,0,0,1,0,0,0,3,0,1,0,1,1
-2026-03-14,Conference,2025-26,Aldershot,York,0,3,0,0,3,1,0,0,3,0,4,0,0,1
-2026-03-14,Conference,2025-26,Wealdstone,Solihull,5,1,0,0,1,3,0,0,6,0,4,0,1,1
-2026-03-14,Conference,2025-26,Halifax,Boreham Wood,3,2,0,0,4,1,0,0,5,0,5,0,1,1
-2026-03-17,Conference,2025-26,Brackley Town,Solihull,1,1,0,0,0,0,1,0,2,0,0,1,1,0
-2026-03-17,Conference,2025-26,Gateshead,Wealdstone,1,0,0,0,3,2,0,0,1,0,5,0,0,0
-2026-03-17,Conference,2025-26,Southend,Rochdale,3,2,0,0,1,2,0,0,5,0,3,0,1,1
-2026-03-17,Conference,2025-26,Truro,Scunthorpe,1,2,0,0,1,2,0,0,3,0,3,0,1,1
-2026-03-17,Conference,2025-26,Woking,Yeovil,1,0,0,0,2,3,0,0,1,0,5,0,0,0
-2026-03-21,Conference,2025-26,Solihull,Halifax,0,3,0,0,3,2,1,0,3,0,5,1,0,1
-2026-03-21,Conference,2025-26,York,Brackley Town,4,0,0,0,0,1,0,0,4,0,1,0,0,1
-2026-03-21,Conference,2025-26,Yeovil,Morecambe,3,2,0,0,0,3,0,0,5,0,3,0,1,1
-2026-03-21,Conference,2025-26,Sutton,Truro,0,3,0,0,3,2,0,0,3,0,5,0,0,1
-2026-03-21,Conference,2025-26,Rochdale,Tamworth,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2026-03-21,Conference,2025-26,Hartlepool,Eastleigh,1,0,0,0,2,1,0,0,1,0,3,0,0,0
-2026-03-21,Conference,2025-26,Carlisle,Boston Utd,6,2,0,0,1,5,0,1,8,0,6,1,1,1
-2026-03-21,Conference,2025-26,Braintree Town,Scunthorpe,2,3,0,0,5,3,0,0,5,0,8,0,1,1
-2026-03-21,Conference,2025-26,Boreham Wood,Gateshead,3,0,0,0,1,2,0,0,3,0,3,0,0,1
-2026-03-21,Conference,2025-26,Altrincham,Southend,1,0,0,0,3,2,0,0,1,0,5,0,0,0
-2026-03-21,Conference,2025-26,Woking,Aldershot,3,2,0,0,4,3,0,0,5,0,7,0,1,1
-2026-03-21,Conference,2025-26,Forest Green,Wealdstone,2,0,0,0,2,3,0,0,2,0,5,0,0,0
-2026-03-24,Conference,2025-26,Halifax,Carlisle,0,1,0,0,2,3,0,0,1,0,5,0,0,0
-2026-03-24,Conference,2025-26,Gateshead,York,3,1,0,0,3,2,0,0,4,0,5,0,1,1
-2026-03-24,Conference,2025-26,Eastleigh,Sutton,0,2,0,0,0,2,1,0,2,0,2,1,0,0
-2026-03-24,Conference,2025-26,Brackley Town,Braintree Town,1,1,0,0,0,3,0,0,2,0,3,0,1,0
-2026-03-24,Conference,2025-26,Aldershot,Boreham Wood,1,2,0,0,3,2,0,0,3,0,5,0,1,1
-2026-03-24,Conference,2025-26,Boston Utd,Altrincham,2,2,0,0,6,3,0,0,4,0,9,0,1,1
-2026-03-25,Conference,2025-26,Truro,Solihull,1,1,0,0,1,2,0,0,2,0,3,0,1,0
-2026-03-25,Conference,2025-26,Morecambe,Hartlepool,2,3,0,0,1,2,0,0,5,0,3,0,1,1
-2026-03-25,Conference,2025-26,Scunthorpe,Rochdale,2,2,0,0,1,1,0,0,4,0,2,0,1,1
-2026-03-25,Conference,2025-26,Southend,Woking,1,1,0,0,1,1,0,0,2,0,2,0,1,0
-2026-03-25,Conference,2025-26,Tamworth,Forest Green,1,0,0,0,1,1,0,0,1,0,2,0,0,0
-2026-03-25,Conference,2025-26,Wealdstone,Yeovil,0,2,0,0,1,1,0,1,2,0,2,1,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2025-08-09,Conference,2025-26,Altrincham,Aldershot,3,2,0,0,5,3,0,0,5,0,8,0,1,1,1.9,3.8,3.6,1.88,3.8,3.65
+2025-08-09,Conference,2025-26,Boreham Wood,Rochdale,0,2,0,0,0,3,0,0,2,0,3,0,0,0,2.88,3.4,2.38,3.07,3.19,2.35
+2025-08-09,Conference,2025-26,Brackley Town,Eastleigh,1,0,0,0,1,2,0,0,1,0,3,0,0,0,2.05,3.5,3.4,2.03,3.41,3.54
+2025-08-09,Conference,2025-26,Braintree Town,Halifax,3,0,0,0,4,3,0,0,3,0,7,0,0,1,2.25,3.2,3.2,2.29,3.23,3.14
+2025-08-09,Conference,2025-26,Gateshead,Southend,0,3,0,0,1,1,0,0,3,0,2,0,0,1,3.1,3.5,2.2,3.15,3.44,2.19
+2025-08-09,Conference,2025-26,Solihull,Forest Green,2,2,0,0,2,0,1,0,4,0,2,1,1,1,3.8,3.4,1.95,3.69,3.4,1.99
+2025-08-09,Conference,2025-26,Tamworth,Scunthorpe,1,2,0,0,2,2,0,0,3,0,4,0,1,1,2.1,3.6,3.2,2.08,3.54,3.28
+2025-08-09,Conference,2025-26,Wealdstone,Truro,2,0,0,0,1,0,0,0,2,0,1,0,0,0,2.3,3.6,2.75,2.37,3.3,2.93
+2025-08-09,Conference,2025-26,Woking,Carlisle,0,2,0,0,3,2,0,0,2,0,5,0,0,0,4.5,3.6,1.73,4.55,3.73,1.71
+2025-08-09,Conference,2025-26,Yeovil,Hartlepool,0,0,0,0,3,2,0,0,0,0,5,0,0,0,2.38,3.5,2.75,2.51,3.17,2.85
+2025-08-09,Conference,2025-26,York,Sutton,2,2,0,0,1,1,0,0,4,0,2,0,1,1,1.55,4.2,5.75,1.52,4.29,5.45
+2025-08-16,Conference,2025-26,Truro,York,0,2,0,0,2,2,0,0,2,0,4,0,0,0,3.9,4.0,1.7,5.1,3.46,1.7
+2025-08-16,Conference,2025-26,Wealdstone,Halifax,2,1,0,0,4,3,0,1,3,0,7,1,1,1,2.3,3.2,2.88,2.4,3.35,2.85
+2025-08-16,Conference,2025-26,Sutton,Solihull,0,0,0,0,3,3,0,0,0,0,6,0,0,0,1.85,3.4,3.75,1.91,3.58,3.78
+2025-08-16,Conference,2025-26,Southend,Tamworth,2,0,0,0,2,1,0,0,2,0,3,0,0,0,1.57,3.9,5.0,1.58,3.69,5.93
+2025-08-16,Conference,2025-26,Scunthorpe,Woking,3,1,0,0,2,2,0,0,4,0,4,0,1,1,1.9,3.75,3.3,1.94,3.62,3.61
+2025-08-16,Conference,2025-26,Eastleigh,Gateshead,0,2,0,0,2,1,0,0,2,0,3,0,0,0,1.83,3.5,3.7,1.88,3.94,3.51
+2025-08-16,Conference,2025-26,Forest Green,Yeovil,2,0,0,0,1,3,0,1,2,0,4,1,0,0,1.7,3.9,4.0,1.72,3.75,4.47
+2025-08-16,Conference,2025-26,Carlisle,Boreham Wood,3,3,0,0,1,1,0,0,6,0,2,0,1,1,1.6,3.7,4.75,1.65,4.26,4.36
+2025-08-16,Conference,2025-26,Aldershot,Boston Utd,2,3,0,0,3,2,1,0,5,0,5,1,1,1,2.15,3.3,3.1,2.18,3.4,3.19
+2025-08-16,Conference,2025-26,Rochdale,Altrincham,2,1,0,0,1,5,0,0,3,0,6,0,1,1,1.85,3.4,3.8,1.9,3.61,3.77
+2025-08-16,Conference,2025-26,Hartlepool,Braintree Town,2,0,0,0,1,1,0,1,2,0,2,1,0,0,2.1,3.25,3.2,2.21,3.37,3.15
+2025-08-19,Conference,2025-26,Altrincham,Hartlepool,0,2,0,0,1,1,0,0,2,0,2,0,0,0,2.15,3.5,2.88,2.32,3.47,3.02
+2025-08-19,Conference,2025-26,Boston Utd,Halifax,0,1,0,0,2,3,0,0,1,0,5,0,0,0,2.2,3.4,2.88,2.33,3.34,3.11
+2025-08-19,Conference,2025-26,Carlisle,Solihull,1,1,0,0,2,0,0,0,2,0,2,0,1,0,1.5,4.1,5.25,1.5,4.31,6.29
+2025-08-19,Conference,2025-26,Tamworth,Truro,2,0,0,0,2,2,0,0,2,0,4,0,0,0,1.83,3.8,3.5,1.83,3.74,4.13
+2025-08-19,Conference,2025-26,Woking,Wealdstone,1,2,0,0,1,5,0,0,3,0,6,0,1,1,2.15,3.4,3.0,2.25,3.48,3.15
+2025-08-20,Conference,2025-26,Yeovil,Brackley Town,2,1,0,0,4,2,0,0,3,0,6,0,1,1,2.2,3.25,3.0,2.28,3.23,3.14
+2025-08-20,Conference,2025-26,Southend,York,0,0,0,0,2,3,0,0,0,0,5,0,0,0,2.2,3.7,2.7,2.25,3.66,2.87
+2025-08-20,Conference,2025-26,Rochdale,Gateshead,4,0,0,0,1,4,0,0,4,0,5,0,0,1,1.57,4.1,4.75,1.61,3.99,4.96
+2025-08-20,Conference,2025-26,Boreham Wood,Braintree Town,2,1,0,0,2,1,0,1,3,0,3,1,1,1,2.1,3.5,3.0,2.13,3.37,3.34
+2025-08-20,Conference,2025-26,Aldershot,Eastleigh,2,3,0,0,3,3,0,1,5,0,6,1,1,1,1.9,3.5,3.5,1.97,3.49,3.64
+2025-08-20,Conference,2025-26,Forest Green,Sutton,4,0,0,0,1,3,0,0,4,0,4,0,0,1,1.95,3.5,3.4,1.95,3.65,3.55
+2025-08-23,Conference,2025-26,Wealdstone,Carlisle,0,1,0,0,0,3,0,0,1,0,3,0,0,0,3.75,3.9,1.75,3.64,3.82,1.88
+2025-08-23,Conference,2025-26,Truro,Southend,0,1,0,0,5,0,0,0,1,0,5,0,0,0,5.0,4.0,1.53,5.44,4.09,1.55
+2025-08-23,Conference,2025-26,Sutton,Scunthorpe,2,3,0,0,1,2,1,0,5,0,3,1,1,1,2.2,3.4,2.88,2.32,3.37,2.95
+2025-08-23,Conference,2025-26,Solihull,Aldershot,1,5,0,0,2,2,0,0,6,0,4,0,1,1,2.05,3.4,3.1,2.12,3.56,3.17
+2025-08-23,Conference,2025-26,Halifax,Forest Green,1,2,0,0,2,3,0,0,3,0,5,0,1,1,2.75,3.3,2.35,2.86,3.3,2.43
+2025-08-23,Conference,2025-26,Hartlepool,Woking,3,0,0,0,0,2,0,0,3,0,2,0,0,1,1.7,3.9,4.0,1.72,3.75,4.45
+2025-08-23,Conference,2025-26,Eastleigh,Boston Utd,2,0,0,0,1,3,0,0,2,0,4,0,0,0,2.2,3.4,2.9,2.29,3.37,3.0
+2025-08-23,Conference,2025-26,Braintree Town,Yeovil,1,0,0,0,2,2,0,0,1,0,4,0,0,0,2.15,3.4,3.0,2.21,3.21,3.32
+2025-08-23,Conference,2025-26,Brackley Town,Rochdale,2,1,0,0,3,4,0,0,3,0,7,0,1,1,3.1,3.6,2.05,3.11,3.67,2.12
+2025-08-23,Conference,2025-26,Morecambe,Altrincham,2,1,0,0,4,3,0,0,3,0,7,0,1,1,3.8,3.75,1.7,3.08,3.34,2.23
+2025-08-23,Conference,2025-26,Gateshead,Tamworth,2,1,0,0,2,2,0,0,3,0,4,0,1,1,2.5,3.3,2.55,2.5,3.63,2.56
+2025-08-25,Conference,2025-26,Scunthorpe,Halifax,1,1,0,0,2,2,1,0,2,0,4,1,1,0,,,,,,
+2025-08-25,Conference,2025-26,Woking,York,1,1,0,0,3,4,0,0,2,0,7,0,1,0,,,,,,
+2025-08-25,Conference,2025-26,Tamworth,Brackley Town,1,1,0,0,2,1,0,0,2,0,3,0,1,0,,,,,,
+2025-08-25,Conference,2025-26,Southend,Hartlepool,1,1,0,0,1,3,0,0,2,0,4,0,1,0,,,,,,
+2025-08-25,Conference,2025-26,Rochdale,Sutton,1,0,0,0,1,0,0,0,1,0,1,0,0,0,,,,,,
+2025-08-25,Conference,2025-26,Altrincham,Solihull,2,0,0,0,4,1,0,0,2,0,5,0,0,0,,,,,,
+2025-08-25,Conference,2025-26,Carlisle,Braintree Town,5,0,0,0,0,2,0,0,5,0,2,0,0,1,,,,,,
+2025-08-25,Conference,2025-26,Boston Utd,Wealdstone,2,1,0,0,0,2,0,0,3,0,2,0,1,1,,,,,,
+2025-08-25,Conference,2025-26,Boreham Wood,Truro,2,1,0,0,2,2,0,0,3,0,4,0,1,1,,,,,,
+2025-08-25,Conference,2025-26,Aldershot,Morecambe,4,0,0,0,3,2,0,0,4,0,5,0,0,1,,,,,,
+2025-08-25,Conference,2025-26,Yeovil,Gateshead,3,4,0,0,1,3,0,0,7,0,4,0,1,1,,,,,,
+2025-08-25,Conference,2025-26,Forest Green,Eastleigh,1,0,0,0,4,2,0,0,1,0,6,0,0,0,,,,,,
+2025-08-30,Conference,2025-26,Truro,Boston Utd,3,0,0,0,0,3,0,0,3,0,3,0,0,1,3.0,3.3,2.2,2.9,3.63,2.25
+2025-08-30,Conference,2025-26,Sutton,Carlisle,2,1,0,0,0,1,0,0,3,0,1,0,1,1,3.3,3.4,2.0,3.33,3.62,2.04
+2025-08-30,Conference,2025-26,Brackley Town,Scunthorpe,1,1,0,0,4,5,0,1,2,0,9,1,1,0,2.05,3.25,3.4,2.08,3.39,3.43
+2025-08-30,Conference,2025-26,Wealdstone,Rochdale,1,3,0,0,1,3,0,0,4,0,4,0,1,1,3.6,3.3,1.95,3.45,3.31,2.1
+2025-08-30,Conference,2025-26,Morecambe,Woking,0,2,0,0,2,2,0,0,2,0,4,0,0,0,2.25,3.4,2.75,2.33,3.51,2.84
+2025-08-30,Conference,2025-26,Braintree Town,Forest Green,0,0,0,0,4,2,0,0,0,0,6,0,0,0,4.0,3.4,1.83,3.87,3.59,1.88
+2025-08-30,Conference,2025-26,Halifax,Yeovil,3,2,0,0,4,2,0,0,5,0,6,0,1,1,2.38,2.9,3.0,2.42,3.09,3.05
+2025-08-30,Conference,2025-26,Gateshead,Aldershot,3,3,0,0,4,4,0,0,6,0,8,0,1,1,2.15,3.6,2.88,2.21,3.81,2.84
+2025-08-30,Conference,2025-26,Eastleigh,Altrincham,2,1,0,0,1,3,0,0,3,0,4,0,1,1,2.6,3.5,2.35,2.64,3.55,2.47
+2025-08-30,Conference,2025-26,Hartlepool,Boreham Wood,0,0,0,0,2,1,1,0,0,0,3,1,0,0,1.73,3.9,3.9,1.76,3.69,4.29
+2025-08-30,Conference,2025-26,Solihull,Southend,1,2,0,0,2,0,0,0,3,0,2,0,1,1,4.75,3.6,1.65,4.71,3.72,1.73
+2025-09-02,Conference,2025-26,Braintree Town,Tamworth,1,2,0,0,2,0,0,0,3,0,2,0,1,1,2.7,3.5,2.3,2.76,3.54,2.47
+2025-09-02,Conference,2025-26,Morecambe,Forest Green,1,3,0,0,2,1,0,0,4,0,3,0,1,1,5.25,4.75,1.42,6.26,4.75,1.46
+2025-09-02,Conference,2025-26,Solihull,Yeovil,0,1,0,0,0,2,0,0,1,0,2,0,0,0,2.55,3.3,2.5,2.72,3.42,2.57
+2025-09-02,Conference,2025-26,Wealdstone,Southend,3,2,0,0,4,4,0,0,5,0,8,0,1,1,4.0,3.7,1.75,4.6,3.65,1.78
+2025-09-03,Conference,2025-26,Truro,Aldershot,2,2,0,0,1,2,0,2,4,0,3,2,1,1,2.63,3.4,2.4,2.65,3.58,2.44
+2025-09-03,Conference,2025-26,Sutton,Boreham Wood,3,4,0,0,2,2,0,0,7,0,4,0,1,1,2.55,3.2,2.55,2.69,3.33,2.55
+2025-09-03,Conference,2025-26,Hartlepool,Boston Utd,1,1,0,0,2,2,0,0,2,0,4,0,1,0,1.6,3.8,4.75,1.59,3.93,5.27
+2025-09-03,Conference,2025-26,Brackley Town,Carlisle,0,1,0,0,2,2,0,0,1,0,4,0,0,0,2.9,3.3,2.2,2.95,3.54,2.25
+2025-09-03,Conference,2025-26,Gateshead,Altrincham,0,2,0,0,0,0,1,0,2,0,0,1,0,0,2.7,3.6,2.25,2.7,3.81,2.31
+2025-09-03,Conference,2025-26,Halifax,Woking,1,1,0,0,3,2,0,0,2,0,5,0,1,0,1.85,3.5,3.7,1.88,3.5,4.0
+2025-09-06,Conference,2025-26,Southend,Halifax,3,0,0,0,1,2,0,1,3,0,3,1,0,1,1.55,3.8,5.25,1.57,3.79,5.77
+2025-09-06,Conference,2025-26,Yeovil,York,1,3,0,0,2,1,0,0,4,0,3,0,1,1,4.2,3.4,1.8,4.22,3.53,1.82
+2025-09-06,Conference,2025-26,Woking,Gateshead,5,0,0,0,0,1,0,0,5,0,1,0,0,1,2.1,3.5,2.9,2.19,3.52,3.06
+2025-09-06,Conference,2025-26,Tamworth,Eastleigh,1,0,0,0,1,3,1,1,1,0,4,2,0,0,2.0,3.5,3.3,1.99,3.45,3.62
+2025-09-06,Conference,2025-26,Scunthorpe,Wealdstone,2,1,0,0,1,2,0,0,3,0,3,0,1,1,1.85,3.4,3.9,1.92,3.71,3.59
+2025-09-06,Conference,2025-26,Aldershot,Brackley Town,2,2,0,0,2,3,1,0,4,0,5,1,1,1,2.4,3.3,2.63,2.44,3.58,2.65
+2025-09-06,Conference,2025-26,Forest Green,Hartlepool,1,0,0,0,2,2,0,0,1,0,4,0,0,0,1.67,3.5,4.75,1.63,3.85,4.97
+2025-09-06,Conference,2025-26,Carlisle,Truro,3,0,0,0,3,1,0,0,3,0,4,0,0,1,1.5,4.5,5.0,1.53,4.44,5.14
+2025-09-06,Conference,2025-26,Boston Utd,Solihull,1,2,0,0,1,3,0,0,3,0,4,0,1,1,2.15,3.3,3.1,2.23,3.5,3.02
+2025-09-06,Conference,2025-26,Boreham Wood,Morecambe,3,0,0,0,3,3,0,1,3,0,6,1,0,1,1.5,3.8,5.75,1.51,4.36,5.51
+2025-09-06,Conference,2025-26,Altrincham,Sutton,2,1,0,0,0,6,0,0,3,0,6,0,1,1,1.85,3.75,3.5,1.85,4.17,3.43
+2025-09-06,Conference,2025-26,Rochdale,Braintree Town,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.45,4.2,6.5,1.45,4.58,5.97
+2025-09-09,Conference,2025-26,York,Tamworth,4,0,0,0,1,1,0,0,4,0,2,0,0,1,1.48,4.33,5.25,1.5,4.53,5.99
+2025-09-13,Conference,2025-26,Halifax,Eastleigh,2,2,0,0,3,3,0,0,4,0,6,0,1,1,2.0,3.2,3.6,2.06,3.22,3.67
+2025-09-13,Conference,2025-26,Wealdstone,Gateshead,2,2,0,0,2,2,0,0,4,0,4,0,1,1,1.9,3.8,3.3,1.95,3.81,3.4
+2025-09-13,Conference,2025-26,Sutton,Tamworth,2,3,0,0,2,3,0,0,5,0,5,0,1,1,2.45,3.25,2.55,2.43,3.51,2.71
+2025-09-13,Conference,2025-26,Southend,Boston Utd,1,1,0,0,0,4,0,0,2,0,4,0,1,0,1.33,4.5,7.5,1.35,4.78,7.91
+2025-09-13,Conference,2025-26,Solihull,Morecambe,4,4,0,0,1,0,0,0,8,0,1,0,1,1,1.53,4.1,5.0,1.54,4.64,4.78
+2025-09-13,Conference,2025-26,Truro,Rochdale,0,1,0,0,2,2,0,0,1,0,4,0,0,0,4.1,3.75,1.73,4.41,3.72,1.74
+2025-09-13,Conference,2025-26,Forest Green,Scunthorpe,1,1,0,0,2,1,0,0,2,0,3,0,1,0,1.53,4.0,5.0,1.56,4.11,5.27
+2025-09-13,Conference,2025-26,Carlisle,Aldershot,2,0,0,0,1,1,0,0,2,0,2,0,0,0,1.48,4.5,5.0,1.52,4.7,4.87
+2025-09-13,Conference,2025-26,Braintree Town,York,2,3,0,0,4,1,0,0,5,0,5,0,1,1,5.25,3.9,1.57,5.34,4.18,1.54
+2025-09-13,Conference,2025-26,Boreham Wood,Altrincham,3,1,0,0,2,2,0,1,4,0,4,1,1,1,1.9,3.5,3.7,1.93,3.79,3.46
+2025-09-13,Conference,2025-26,Yeovil,Woking,1,0,0,0,4,3,0,0,1,0,7,0,0,0,2.0,3.3,3.4,2.06,3.49,3.4
+2025-09-13,Conference,2025-26,Hartlepool,Brackley Town,0,0,0,0,1,1,0,0,0,0,2,0,0,0,1.95,3.5,3.5,1.95,3.5,3.7
+2025-09-20,Conference,2025-26,York,Solihull,0,1,0,0,3,0,0,2,1,0,3,2,0,0,1.33,5.0,8.0,1.29,5.2,8.98
+2025-09-20,Conference,2025-26,Woking,Forest Green,0,2,0,0,0,0,0,0,2,0,0,0,0,0,4.2,3.7,1.7,4.39,3.77,1.73
+2025-09-20,Conference,2025-26,Tamworth,Yeovil,1,0,0,0,2,1,0,0,1,0,3,0,0,0,2.0,3.25,3.5,2.06,3.28,3.61
+2025-09-20,Conference,2025-26,Scunthorpe,Truro,4,0,0,0,3,3,0,0,4,0,6,0,0,1,1.65,3.7,4.5,1.65,3.83,4.84
+2025-09-20,Conference,2025-26,Morecambe,Wealdstone,4,3,0,0,2,1,0,0,7,0,3,0,1,1,3.8,3.5,1.83,3.47,4.09,1.86
+2025-09-20,Conference,2025-26,Boston Utd,Boreham Wood,0,2,0,0,3,0,0,0,2,0,3,0,0,0,3.5,3.4,1.95,3.59,3.68,1.93
+2025-09-20,Conference,2025-26,Eastleigh,Braintree Town,1,3,0,0,3,4,0,0,4,0,7,0,1,1,1.85,3.1,4.1,1.92,3.44,3.91
+2025-09-20,Conference,2025-26,Altrincham,Carlisle,1,2,0,0,1,4,1,1,3,0,5,2,1,1,3.1,3.5,2.05,3.2,3.68,2.07
+2025-09-20,Conference,2025-26,Aldershot,Hartlepool,1,0,0,0,5,2,0,0,1,0,7,0,0,0,2.88,3.3,2.25,2.79,3.63,2.31
+2025-09-20,Conference,2025-26,Brackley Town,Sutton,1,0,0,0,3,2,0,0,1,0,5,0,0,0,1.83,3.5,3.8,1.85,3.63,3.93
+2025-09-20,Conference,2025-26,Gateshead,Halifax,1,2,0,0,2,2,0,0,3,0,4,0,1,1,2.35,3.5,2.6,2.24,3.84,2.78
+2025-09-23,Conference,2025-26,Woking,Sutton,1,1,0,0,0,3,0,0,2,0,3,0,1,0,2.15,3.3,3.1,2.22,3.61,3.1
+2025-09-23,Conference,2025-26,York,Carlisle,5,0,0,0,4,5,0,0,5,0,9,0,0,1,1.91,3.6,3.3,2.01,3.57,3.67
+2025-09-23,Conference,2025-26,Rochdale,Solihull,4,1,0,0,3,2,0,0,5,0,5,0,1,1,1.48,4.2,5.0,1.5,4.44,6.06
+2025-09-23,Conference,2025-26,Gateshead,Hartlepool,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.1,3.4,2.1,3.26,3.65,2.13
+2025-09-23,Conference,2025-26,Brackley Town,Truro,1,0,0,0,2,1,0,0,1,0,3,0,0,0,1.8,3.3,4.0,1.85,3.7,4.13
+2025-09-23,Conference,2025-26,Altrincham,Forest Green,1,2,0,0,1,3,1,0,3,0,4,1,1,1,3.4,3.5,1.95,3.41,3.75,2.04
+2025-09-24,Conference,2025-26,Aldershot,Yeovil,1,4,0,0,1,2,0,0,5,0,3,0,1,1,1.95,3.4,3.4,1.99,3.75,3.37
+2025-09-24,Conference,2025-26,Boston Utd,Braintree Town,2,0,0,0,2,3,0,0,2,0,5,0,0,0,2.05,3.5,3.1,2.09,3.57,3.23
+2025-09-24,Conference,2025-26,Eastleigh,Southend,2,1,0,0,0,1,0,0,3,0,1,0,1,1,4.5,3.75,1.65,4.62,3.87,1.68
+2025-09-24,Conference,2025-26,Morecambe,Halifax,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.75,3.3,2.35,2.85,3.44,2.36
+2025-09-24,Conference,2025-26,Scunthorpe,Boreham Wood,1,1,0,0,2,0,0,0,2,0,2,0,1,0,2.3,3.3,2.7,2.38,3.47,2.8
+2025-09-24,Conference,2025-26,Tamworth,Wealdstone,1,1,0,0,2,3,0,0,2,0,5,0,1,0,2.05,3.4,3.2,2.1,3.5,3.28
+2025-09-27,Conference,2025-26,Forest Green,York,1,1,0,0,1,1,0,0,2,0,2,0,1,0,2.3,3.25,2.75,2.37,3.34,2.9
+2025-09-27,Conference,2025-26,Yeovil,Altrincham,1,0,0,0,2,2,0,0,1,0,4,0,0,0,2.75,3.2,2.4,2.74,3.62,2.36
+2025-09-27,Conference,2025-26,Wealdstone,Eastleigh,0,0,0,0,3,2,0,1,0,0,5,1,0,0,2.1,3.4,3.1,2.19,3.61,3.0
+2025-09-27,Conference,2025-26,Truro,Morecambe,5,0,0,0,1,1,0,1,5,0,2,1,0,1,2.3,3.25,2.9,2.25,3.73,2.83
+2025-09-27,Conference,2025-26,Sutton,Boston Utd,1,1,0,0,5,4,0,0,2,0,9,0,1,0,1.95,3.6,3.5,1.92,4.02,3.36
+2025-09-27,Conference,2025-26,Southend,Scunthorpe,0,2,0,0,2,2,0,0,2,0,4,0,0,0,1.7,3.75,4.5,1.7,3.78,4.55
+2025-09-27,Conference,2025-26,Carlisle,Rochdale,0,2,0,0,2,2,0,0,2,0,4,0,0,0,2.0,3.3,3.4,2.05,3.53,3.38
+2025-09-27,Conference,2025-26,Hartlepool,Tamworth,1,1,0,0,3,2,0,0,2,0,5,0,1,0,2.0,3.5,3.4,2.0,3.58,3.47
+2025-09-27,Conference,2025-26,Halifax,Aldershot,4,2,0,0,3,3,0,0,6,0,6,0,1,1,2.05,3.6,3.0,2.09,3.91,3.0
+2025-09-27,Conference,2025-26,Braintree Town,Gateshead,1,2,0,0,0,2,0,0,3,0,2,0,1,1,2.15,3.4,3.1,2.21,3.54,3.01
+2025-09-27,Conference,2025-26,Boreham Wood,Woking,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1.67,3.7,4.2,1.75,3.79,4.49
+2025-09-27,Conference,2025-26,Solihull,Brackley Town,1,0,0,0,2,1,0,0,1,0,3,0,0,0,3.1,3.4,2.15,3.22,3.36,2.18
+2025-09-30,Conference,2025-26,Truro,Eastleigh,0,2,0,0,2,3,0,0,2,0,5,0,0,0,2.15,3.2,3.1,2.86,3.27,2.51
+2025-09-30,Conference,2025-26,Solihull,Woking,0,3,0,0,2,2,0,0,3,0,4,0,0,1,2.45,3.2,2.7,1.92,3.9,3.58
+2025-09-30,Conference,2025-26,Sutton,Yeovil,1,2,0,0,2,2,0,0,3,0,4,0,1,1,2.35,3.25,2.8,2.5,3.36,2.81
+2025-09-30,Conference,2025-26,Boreham Wood,Southend,1,1,0,0,4,2,0,0,2,0,6,0,1,0,2.4,3.4,2.55,2.87,3.42,2.41
+2025-09-30,Conference,2025-26,Aldershot,Braintree Town,1,1,0,0,0,1,0,1,2,0,1,1,1,0,1.8,3.9,3.7,1.79,4.3,3.72
+2025-09-30,Conference,2025-26,Morecambe,Gateshead,2,5,0,0,1,1,0,0,7,0,2,0,1,1,2.45,3.5,2.45,2.53,3.82,2.51
+2025-10-01,Conference,2025-26,Altrincham,Tamworth,1,2,0,0,1,3,0,0,3,0,4,0,1,1,1.91,3.5,3.5,1.96,3.71,3.45
+2025-10-01,Conference,2025-26,Boston Utd,Forest Green,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.0,3.8,1.6,5.28,3.86,1.6
+2025-10-01,Conference,2025-26,Brackley Town,Wealdstone,0,2,0,0,3,1,0,0,2,0,4,0,0,0,1.85,3.5,3.8,1.89,3.54,3.88
+2025-10-01,Conference,2025-26,Carlisle,Hartlepool,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.73,3.75,4.0,1.76,3.93,4.02
+2025-10-01,Conference,2025-26,Rochdale,Halifax,1,2,0,0,4,3,0,0,3,0,7,0,1,1,1.55,3.8,5.25,1.59,3.95,5.22
+2025-10-01,Conference,2025-26,York,Scunthorpe,1,3,0,0,2,2,0,0,4,0,4,0,1,1,1.55,4.1,5.0,1.57,4.14,5.09
+2025-10-04,Conference,2025-26,Scunthorpe,Carlisle,0,1,0,0,4,4,1,0,1,0,8,1,0,0,2.55,3.5,2.45,2.54,3.48,2.6
+2025-10-04,Conference,2025-26,Yeovil,Boreham Wood,0,3,0,0,1,1,0,0,3,0,2,0,0,1,2.9,3.4,2.25,3.05,3.37,2.27
+2025-10-04,Conference,2025-26,Woking,Truro,2,2,0,0,2,2,0,0,4,0,4,0,1,1,2.1,3.5,3.1,2.08,3.53,3.31
+2025-10-04,Conference,2025-26,Wealdstone,Altrincham,1,1,0,0,1,2,0,0,2,0,3,0,1,0,2.35,3.5,2.7,2.48,3.46,2.68
+2025-10-04,Conference,2025-26,Tamworth,Morecambe,1,1,0,0,1,3,0,0,2,0,4,0,1,0,1.48,4.5,5.25,1.48,4.5,5.59
+2025-10-04,Conference,2025-26,Southend,Aldershot,3,0,0,0,2,0,0,0,3,0,2,0,0,1,1.4,4.75,6.0,1.45,4.67,5.89
+2025-10-04,Conference,2025-26,Forest Green,Rochdale,0,1,0,0,2,3,0,0,1,0,5,0,0,0,1.95,3.3,3.5,2.09,3.31,3.5
+2025-10-04,Conference,2025-26,Eastleigh,Solihull,1,1,0,0,2,2,0,0,2,0,4,0,1,0,2.0,3.5,3.3,2.05,3.49,3.41
+2025-10-04,Conference,2025-26,Braintree Town,Sutton,0,0,0,0,1,3,0,0,0,0,4,0,0,0,2.4,3.3,2.7,2.48,3.28,2.79
+2025-10-04,Conference,2025-26,Hartlepool,York,1,2,0,0,2,0,0,0,3,0,2,0,1,1,3.4,3.7,1.91,3.56,3.7,1.93
+2025-10-04,Conference,2025-26,Gateshead,Boston Utd,1,3,0,0,1,1,0,0,4,0,2,0,1,1,2.05,3.5,3.0,2.15,3.76,2.98
+2025-10-04,Conference,2025-26,Halifax,Brackley Town,2,0,0,0,0,3,0,0,2,0,3,0,0,0,2.38,3.0,3.0,2.74,3.1,2.65
+2025-10-07,Conference,2025-26,Scunthorpe,Morecambe,3,1,0,0,1,3,0,0,4,0,4,0,1,1,1.3,5.25,7.0,1.34,5.3,7.98
+2025-10-18,Conference,2025-26,Rochdale,Yeovil,3,0,0,0,1,4,0,0,3,0,5,0,0,1,1.38,4.33,7.0,1.39,4.65,7.14
+2025-10-18,Conference,2025-26,Carlisle,Forest Green,4,2,0,0,4,3,0,1,6,0,7,1,1,1,2.5,3.25,2.7,2.49,3.42,2.7
+2025-10-18,Conference,2025-26,York,Wealdstone,4,0,0,0,1,1,0,0,4,0,2,0,0,1,1.36,5.0,6.5,1.33,5.23,7.45
+2025-10-18,Conference,2025-26,Truro,Halifax,2,1,0,0,1,1,0,0,3,0,2,0,1,1,3.0,3.4,2.15,3.22,3.37,2.18
+2025-10-18,Conference,2025-26,Morecambe,Southend,0,3,0,0,3,1,0,0,3,0,4,0,0,1,4.75,4.0,1.55,5.02,4.2,1.57
+2025-10-18,Conference,2025-26,Sutton,Hartlepool,3,3,0,0,3,2,0,0,6,0,5,0,1,1,2.55,3.5,2.38,2.79,3.45,2.39
+2025-10-18,Conference,2025-26,Boston Utd,Scunthorpe,1,1,0,0,2,1,0,0,2,0,3,0,1,0,3.2,3.6,2.05,3.13,3.53,2.15
+2025-10-18,Conference,2025-26,Boreham Wood,Eastleigh,2,0,0,0,3,3,0,0,2,0,6,0,0,0,1.65,3.6,4.75,1.62,3.88,5.03
+2025-10-18,Conference,2025-26,Altrincham,Woking,1,3,0,0,2,4,0,0,4,0,6,0,1,1,1.95,3.5,3.4,2.0,3.52,3.54
+2025-10-18,Conference,2025-26,Aldershot,Tamworth,1,2,0,0,2,3,0,0,3,0,5,0,1,1,2.63,3.4,2.38,2.76,3.62,2.34
+2025-10-18,Conference,2025-26,Solihull,Braintree Town,2,0,0,0,3,3,0,0,2,0,6,0,0,0,2.15,3.4,3.0,2.11,3.6,3.17
+2025-10-18,Conference,2025-26,Brackley Town,Gateshead,0,0,0,0,2,2,1,0,0,0,4,1,0,0,1.75,3.75,3.8,1.76,3.96,3.99
+2025-10-21,Conference,2025-26,Boston Utd,Morecambe,0,4,0,0,3,1,0,0,4,0,4,0,0,1,1.85,3.8,3.4,1.9,3.85,3.68
+2025-10-21,Conference,2025-26,Eastleigh,Scunthorpe,1,1,0,0,3,3,0,0,2,0,6,0,1,0,3.2,3.4,2.05,3.48,3.34,2.13
+2025-10-21,Conference,2025-26,York,Boreham Wood,2,2,0,0,1,2,0,0,4,0,3,0,1,1,1.8,3.8,3.6,1.85,3.94,3.78
+2025-10-25,Conference,2025-26,Tamworth,Boston Utd,1,3,0,0,4,3,0,0,4,0,7,0,1,1,1.75,3.7,4.1,1.76,3.72,4.27
+2025-10-25,Conference,2025-26,Yeovil,Carlisle,1,1,0,0,2,1,0,0,2,0,3,0,1,0,3.6,3.4,1.9,3.74,3.47,1.95
+2025-10-25,Conference,2025-26,Wealdstone,Sutton,4,2,0,0,3,0,0,0,6,0,3,0,1,1,2.1,3.4,3.1,2.11,3.56,3.21
+2025-10-25,Conference,2025-26,Southend,Brackley Town,2,0,0,0,0,1,0,0,2,0,1,0,0,0,1.62,3.5,5.25,1.7,3.6,4.81
+2025-10-25,Conference,2025-26,Scunthorpe,Aldershot,2,1,0,0,2,3,0,0,3,0,5,0,1,1,1.67,3.7,4.5,1.68,4.17,4.24
+2025-10-25,Conference,2025-26,Woking,Rochdale,0,0,0,0,2,1,0,0,0,0,3,0,0,0,3.9,3.5,1.8,3.74,3.89,1.83
+2025-10-25,Conference,2025-26,Gateshead,Truro,2,2,0,0,3,1,0,0,4,0,4,0,1,1,2.15,3.7,2.8,1.9,3.92,3.49
+2025-10-25,Conference,2025-26,Forest Green,Boreham Wood,2,1,0,0,0,1,0,0,3,0,1,0,1,1,2.0,3.5,3.2,2.03,3.65,3.32
+2025-10-25,Conference,2025-26,Eastleigh,Morecambe,2,1,0,0,2,4,0,0,3,0,6,0,1,1,1.85,3.7,3.5,1.89,4.02,3.43
+2025-10-25,Conference,2025-26,Braintree Town,Altrincham,0,0,0,0,0,3,0,0,0,0,3,0,0,0,2.8,3.4,2.25,2.78,3.37,2.45
+2025-10-25,Conference,2025-26,Halifax,York,1,1,0,0,1,2,0,0,2,0,3,0,1,0,4.33,3.6,1.73,4.28,3.79,1.75
+2025-10-25,Conference,2025-26,Hartlepool,Solihull,2,0,0,0,3,2,0,0,2,0,5,0,0,0,1.67,4.1,4.0,1.66,3.86,4.71
+2025-11-04,Conference,2025-26,Boreham Wood,Aldershot,1,0,0,0,0,1,0,0,1,0,1,0,0,0,1.5,4.5,5.25,,,
+2025-11-04,Conference,2025-26,Carlisle,Halifax,2,0,0,0,1,1,0,0,2,0,2,0,0,0,1.57,4.0,5.0,,,
+2025-11-04,Conference,2025-26,Hartlepool,Morecambe,1,1,0,0,1,1,0,0,2,0,2,0,1,0,1.75,3.9,3.7,,,
+2025-11-04,Conference,2025-26,Yeovil,Wealdstone,0,2,0,0,2,1,0,0,2,0,3,0,0,0,2.88,3.4,2.25,,,
+2025-11-05,Conference,2025-26,York,Gateshead,4,0,0,0,1,1,0,0,4,0,2,0,0,1,1.27,6.0,7.0,,,
+2025-11-05,Conference,2025-26,Woking,Southend,1,1,0,0,3,2,0,0,2,0,5,0,1,0,4.1,3.5,1.8,,,
+2025-11-05,Conference,2025-26,Sutton,Eastleigh,2,1,0,0,4,2,0,0,3,0,6,0,1,1,2.3,3.3,2.8,,,
+2025-11-05,Conference,2025-26,Altrincham,Boston Utd,1,0,0,0,2,2,0,0,1,0,4,0,0,0,1.85,3.4,3.7,,,
+2025-11-05,Conference,2025-26,Braintree Town,Brackley Town,0,1,0,0,6,2,0,0,1,0,8,0,0,0,2.5,3.1,2.63,,,
+2025-11-05,Conference,2025-26,Solihull,Truro,4,0,0,0,2,1,0,1,4,0,3,1,0,1,2.55,3.3,2.45,,,
+2025-11-08,Conference,2025-26,Scunthorpe,Yeovil,1,0,0,0,1,2,0,0,1,0,3,0,0,0,1.65,4.1,4.0,,,
+2025-11-08,Conference,2025-26,Southend,Carlisle,1,2,0,0,1,3,0,0,3,0,4,0,1,1,2.1,3.6,2.9,,,
+2025-11-08,Conference,2025-26,Wealdstone,Braintree Town,1,0,0,0,2,2,1,0,1,0,4,1,0,0,1.75,3.8,3.8,,,
+2025-11-08,Conference,2025-26,Truro,Altrincham,0,1,0,0,2,1,0,0,1,0,3,0,0,0,2.35,3.3,2.75,,,
+2025-11-08,Conference,2025-26,Tamworth,Woking,0,1,0,0,2,2,0,0,1,0,4,0,0,0,1.91,3.25,3.8,,,
+2025-11-08,Conference,2025-26,Morecambe,Sutton,2,2,0,0,1,1,0,0,4,0,2,0,1,1,2.25,3.5,2.7,,,
+2025-11-08,Conference,2025-26,Aldershot,Forest Green,2,3,0,0,1,1,0,0,5,0,2,0,1,1,3.9,3.7,1.75,,,
+2025-11-08,Conference,2025-26,Gateshead,Solihull,0,2,0,0,3,0,0,0,2,0,3,0,0,0,2.4,3.5,2.55,,,
+2025-11-08,Conference,2025-26,Eastleigh,York,2,4,0,0,1,3,0,0,6,0,4,0,1,1,4.2,4.0,1.65,,,
+2025-11-08,Conference,2025-26,Brackley Town,Boreham Wood,1,3,0,0,0,0,0,0,4,0,0,0,1,1,3.5,3.4,1.95,,,
+2025-11-08,Conference,2025-26,Boston Utd,Rochdale,1,3,0,0,2,0,0,0,4,0,2,0,1,1,3.9,3.8,1.75,,,
+2025-11-08,Conference,2025-26,Halifax,Hartlepool,0,1,0,0,1,4,0,0,1,0,5,0,0,0,2.2,3.5,2.8,,,
+2025-11-11,Conference,2025-26,Forest Green,Tamworth,4,2,0,0,2,2,0,1,6,0,4,1,1,1,1.42,4.2,7.0,,,
+2025-11-11,Conference,2025-26,York,Rochdale,4,1,0,0,0,2,0,0,5,0,2,0,1,1,1.91,3.6,3.5,,,
+2025-11-15,Conference,2025-26,York,Morecambe,4,2,0,0,4,1,0,1,6,0,5,1,1,1,1.18,6.5,11.0,,,
+2025-11-15,Conference,2025-26,Yeovil,Southend,0,1,0,0,5,3,0,0,1,0,8,0,0,0,5.0,3.5,1.62,,,
+2025-11-15,Conference,2025-26,Woking,Boston Utd,1,1,0,0,4,2,0,0,2,0,6,0,1,0,2.0,3.25,3.6,,,
+2025-11-15,Conference,2025-26,Sutton,Halifax,2,0,0,0,4,2,0,0,2,0,6,0,0,0,2.5,3.4,2.45,,,
+2025-11-15,Conference,2025-26,Solihull,Scunthorpe,3,0,0,0,0,1,1,0,3,0,1,1,0,1,3.1,3.3,2.15,,,
+2025-11-15,Conference,2025-26,Rochdale,Aldershot,1,0,0,0,1,3,0,0,1,0,4,0,0,0,1.33,4.75,8.0,,,
+2025-11-15,Conference,2025-26,Hartlepool,Wealdstone,1,1,0,0,1,0,0,0,2,0,1,0,1,0,1.95,3.6,3.25,,,
+2025-11-15,Conference,2025-26,Carlisle,Eastleigh,1,1,0,0,1,2,0,0,2,0,3,0,1,0,1.48,3.9,6.0,,,
+2025-11-15,Conference,2025-26,Braintree Town,Truro,2,0,0,0,2,0,0,0,2,0,2,0,0,0,2.25,3.4,2.8,,,
+2025-11-15,Conference,2025-26,Boreham Wood,Tamworth,1,2,0,0,2,0,0,0,3,0,2,0,1,1,1.5,4.1,5.75,,,
+2025-11-15,Conference,2025-26,Altrincham,Brackley Town,2,1,0,0,2,4,0,0,3,0,6,0,1,1,2.35,3.25,2.8,,,
+2025-11-15,Conference,2025-26,Forest Green,Gateshead,3,1,0,0,3,3,0,0,4,0,6,0,1,1,1.33,4.75,7.5,,,
+2025-11-18,Conference,2025-26,Morecambe,Brackley Town,2,0,0,0,2,0,0,0,2,0,2,0,0,0,2.0,3.6,3.1,,,
+2025-11-22,Conference,2025-26,Scunthorpe,Braintree Town,1,1,0,0,2,1,0,0,2,0,3,0,1,0,1.57,3.9,5.0,,,
+2025-11-22,Conference,2025-26,Wealdstone,Forest Green,1,1,0,0,2,2,0,0,2,0,4,0,1,0,3.7,3.6,1.85,,,
+2025-11-22,Conference,2025-26,Truro,Sutton,2,3,0,0,2,0,0,0,5,0,2,0,1,1,2.25,3.25,2.9,,,
+2025-11-22,Conference,2025-26,Southend,Altrincham,3,0,0,0,3,1,0,1,3,0,4,1,0,1,1.53,3.9,5.75,,,
+2025-11-22,Conference,2025-26,Morecambe,Yeovil,0,0,0,0,2,3,0,0,0,0,5,0,0,0,2.1,3.5,3.0,,,
+2025-11-22,Conference,2025-26,Boston Utd,Carlisle,1,2,0,0,3,2,0,0,3,0,5,0,1,1,4.75,3.5,1.67,,,
+2025-11-22,Conference,2025-26,Gateshead,Boreham Wood,0,3,0,0,2,2,0,1,3,0,4,1,0,1,5.0,4.0,1.53,,,
+2025-11-22,Conference,2025-26,Aldershot,Woking,1,2,0,0,5,4,0,0,3,0,9,0,1,1,2.45,3.3,2.55,,,
+2025-11-22,Conference,2025-26,Tamworth,Rochdale,1,2,0,0,2,3,0,0,3,0,5,0,1,1,4.33,3.6,1.7,,,
+2025-11-22,Conference,2025-26,Halifax,Solihull,3,0,0,0,1,3,1,1,3,0,4,2,0,1,2.3,3.4,2.8,,,
+2025-11-22,Conference,2025-26,Eastleigh,Hartlepool,0,2,0,0,1,1,0,0,2,0,2,0,0,0,2.5,3.3,2.5,,,
+2025-11-22,Conference,2025-26,Brackley Town,York,2,3,0,0,1,1,0,0,5,0,2,0,1,1,6.5,4.2,1.42,,,
+2025-11-29,Conference,2025-26,Boreham Wood,Halifax,2,1,0,0,2,0,0,0,3,0,2,0,1,1,1.44,4.0,6.5,,,
+2025-11-29,Conference,2025-26,Yeovil,Boston Utd,2,1,0,0,4,1,0,0,3,0,5,0,1,1,2.3,3.2,3.0,,,
+2025-11-29,Conference,2025-26,Woking,Brackley Town,2,0,0,0,0,4,0,1,2,0,4,1,0,0,2.0,3.25,3.5,,,
+2025-11-29,Conference,2025-26,Sutton,Gateshead,4,2,0,0,2,1,0,0,6,0,3,0,1,1,1.8,3.8,3.6,,,
+2025-11-29,Conference,2025-26,Rochdale,Eastleigh,2,0,0,0,0,1,0,0,2,0,1,0,0,0,1.3,4.75,9.0,,,
+2025-11-29,Conference,2025-26,York,Aldershot,5,1,0,0,0,2,0,1,6,0,2,1,1,1,1.25,5.5,9.0,,,
+2025-11-29,Conference,2025-26,Forest Green,Southend,2,1,0,0,2,3,0,0,3,0,5,0,1,1,2.15,3.3,3.1,,,
+2025-11-29,Conference,2025-26,Carlisle,Tamworth,2,1,0,0,2,3,0,0,3,0,5,0,1,1,1.44,4.33,5.75,,,
+2025-11-29,Conference,2025-26,Braintree Town,Morecambe,1,0,0,0,3,3,0,0,1,0,6,0,0,0,2.15,3.7,2.8,,,
+2025-11-29,Conference,2025-26,Altrincham,Scunthorpe,4,2,0,0,2,2,0,0,6,0,4,0,1,1,2.45,3.3,2.55,,,
+2025-11-29,Conference,2025-26,Solihull,Wealdstone,1,1,0,0,2,1,0,0,2,0,3,0,1,0,2.1,3.5,3.0,,,
+2025-11-29,Conference,2025-26,Hartlepool,Truro,3,1,0,0,1,1,0,0,4,0,2,0,1,1,1.7,3.6,4.33,,,
+2025-12-06,Conference,2025-26,Scunthorpe,Tamworth,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.73,3.6,4.33,,,
+2025-12-06,Conference,2025-26,Hartlepool,Yeovil,0,2,0,0,1,4,1,0,2,0,5,1,0,0,1.73,3.4,4.5,,,
+2025-12-06,Conference,2025-26,Halifax,Braintree Town,4,0,0,0,0,1,0,0,4,0,1,0,0,1,1.85,3.5,3.6,,,
+2025-12-06,Conference,2025-26,Forest Green,Solihull,1,1,0,0,2,4,0,0,2,0,6,0,1,0,1.48,4.0,5.75,,,
+2025-12-06,Conference,2025-26,Morecambe,Boston Utd,0,3,0,0,2,1,0,0,3,0,3,0,0,1,2.25,3.5,2.75,,,
+2025-12-06,Conference,2025-26,Aldershot,Altrincham,2,1,0,0,3,3,0,0,3,0,6,0,1,1,2.4,3.4,2.5,,,
+2025-12-10,Conference,2025-26,Carlisle,Woking,1,3,0,0,0,0,0,0,4,0,0,0,1,1,1.48,4.0,6.0,,,
+2025-12-16,Conference,2025-26,Truro,Wealdstone,2,0,0,0,3,2,0,0,2,0,5,0,0,0,2.8,3.25,2.35,,,
+2025-12-19,Conference,2025-26,Altrincham,Rochdale,0,3,0,0,0,1,0,0,3,0,1,0,0,1,3.8,3.6,1.8,,,
+2025-12-20,Conference,2025-26,Yeovil,Forest Green,0,2,0,0,4,0,0,1,2,0,4,1,0,0,5.25,3.9,1.55,,,
+2025-12-20,Conference,2025-26,York,Truro,4,0,0,0,0,2,0,0,4,0,2,0,0,1,1.2,5.5,12.0,,,
+2025-12-20,Conference,2025-26,Tamworth,Southend,2,1,0,0,1,1,0,0,3,0,2,0,1,1,3.6,3.5,1.9,,,
+2025-12-20,Conference,2025-26,Woking,Scunthorpe,1,2,0,0,0,2,0,0,3,0,2,0,1,1,2.6,3.25,2.5,,,
+2025-12-20,Conference,2025-26,Boston Utd,Aldershot,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.95,3.5,3.3,,,
+2025-12-21,Conference,2025-26,Brackley Town,Morecambe,0,2,0,0,3,3,0,0,2,0,6,0,0,0,2.05,3.3,3.2,,,
+2025-12-21,Conference,2025-26,Solihull,Sutton,4,1,0,0,2,2,0,1,5,0,4,1,1,1,2.0,3.4,3.3,,,
+2025-12-21,Conference,2025-26,Braintree Town,Hartlepool,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.5,3.3,1.95,,,
+2025-12-21,Conference,2025-26,Gateshead,Eastleigh,1,3,0,0,2,2,1,0,4,0,4,1,1,1,2.5,3.4,2.55,,,
+2025-12-21,Conference,2025-26,Boreham Wood,Carlisle,2,0,0,0,1,3,0,0,2,0,4,0,0,0,1.95,3.6,3.25,,,
+2025-12-21,Conference,2025-26,Halifax,Wealdstone,2,2,0,0,2,3,0,0,4,0,5,0,1,1,2.15,3.4,3.0,,,
+2025-12-26,Conference,2025-26,York,Boston Utd,2,2,0,0,1,2,1,0,4,0,3,1,1,1,1.25,5.25,9.0,,,
+2025-12-26,Conference,2025-26,Wealdstone,Boreham Wood,0,4,0,0,2,1,0,0,4,0,3,0,0,1,4.2,3.8,1.73,,,
+2025-12-26,Conference,2025-26,Truro,Yeovil,1,0,0,0,0,1,0,0,1,0,1,0,0,0,2.2,3.2,3.1,,,
+2025-12-26,Conference,2025-26,Sutton,Aldershot,0,0,0,0,1,2,0,0,0,0,3,0,0,0,1.91,3.7,3.4,,,
+2025-12-26,Conference,2025-26,Solihull,Tamworth,7,1,0,0,1,3,0,0,8,0,4,0,1,1,1.95,3.4,3.5,,,
+2025-12-26,Conference,2025-26,Morecambe,Rochdale,1,2,0,0,2,2,0,0,3,0,4,0,1,1,5.75,4.1,1.45,,,
+2025-12-26,Conference,2025-26,Halifax,Altrincham,2,1,0,0,2,3,0,0,3,0,5,0,1,1,2.15,3.25,3.1,,,
+2025-12-26,Conference,2025-26,Gateshead,Carlisle,0,3,0,0,1,0,0,0,3,0,1,0,0,1,5.0,4.33,1.53,,,
+2025-12-26,Conference,2025-26,Eastleigh,Woking,1,1,0,0,2,1,0,0,2,0,3,0,1,0,2.45,3.2,2.7,,,
+2025-12-26,Conference,2025-26,Braintree Town,Southend,0,1,0,0,2,4,0,1,1,0,6,1,0,0,4.75,3.5,1.67,,,
+2025-12-26,Conference,2025-26,Brackley Town,Forest Green,1,0,0,0,5,2,0,0,1,0,7,0,0,0,4.75,3.6,1.65,,,
+2025-12-26,Conference,2025-26,Hartlepool,Scunthorpe,1,2,0,0,2,2,0,0,3,0,4,0,1,1,2.15,3.4,3.0,,,
+2025-12-30,Conference,2025-26,Scunthorpe,Gateshead,2,0,0,0,2,1,0,1,2,0,3,1,0,0,1.33,4.5,7.0,,,
+2025-12-30,Conference,2025-26,Yeovil,Eastleigh,1,1,0,0,5,3,0,0,2,0,8,0,1,0,2.45,3.0,2.8,,,
+2025-12-30,Conference,2025-26,Tamworth,Halifax,0,2,0,0,1,3,0,0,2,0,4,0,0,0,2.6,3.4,2.45,,,
+2025-12-30,Conference,2025-26,Southend,Sutton,1,0,0,0,2,3,0,0,1,0,5,0,0,0,1.42,4.1,6.25,,,
+2025-12-30,Conference,2025-26,Rochdale,Hartlepool,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.53,3.8,5.75,,,
+2025-12-30,Conference,2025-26,Woking,Braintree Town,0,1,0,0,1,1,0,0,1,0,2,0,0,0,1.8,3.5,4.1,,,
+2025-12-30,Conference,2025-26,Carlisle,Morecambe,1,0,0,0,1,3,0,0,1,0,4,0,0,0,1.42,4.75,6.0,,,
+2025-12-30,Conference,2025-26,Boston Utd,Brackley Town,1,2,0,0,2,5,0,0,3,0,7,0,1,1,2.1,3.25,3.3,,,
+2025-12-30,Conference,2025-26,Boreham Wood,Solihull,2,1,0,0,2,0,0,0,3,0,2,0,1,1,1.48,4.0,6.0,,,
+2025-12-30,Conference,2025-26,Altrincham,York,1,2,0,0,0,1,1,0,3,0,1,1,1,1,5.5,4.33,1.48,,,
+2025-12-30,Conference,2025-26,Forest Green,Truro,1,1,0,0,2,4,0,0,2,0,6,0,1,0,1.2,6.5,10.0,,,
+2025-12-30,Conference,2025-26,Aldershot,Wealdstone,4,1,0,0,1,3,0,0,5,0,4,0,1,1,2.2,3.6,2.8,,,
+2026-01-03,Conference,2025-26,Yeovil,Braintree Town,3,1,0,0,0,2,0,0,4,0,2,0,1,1,2.35,3.0,3.0,,,
+2026-01-03,Conference,2025-26,Tamworth,Gateshead,3,1,0,0,1,3,0,0,4,0,4,0,1,1,1.65,3.8,4.5,,,
+2026-01-03,Conference,2025-26,Boston Utd,Eastleigh,1,2,0,0,3,4,0,0,3,0,7,0,1,1,2.25,3.1,3.0,,,
+2026-01-03,Conference,2025-26,Carlisle,Wealdstone,2,0,0,0,2,2,0,0,2,0,4,0,0,0,1.48,4.2,6.0,,,
+2026-01-03,Conference,2025-26,Forest Green,Halifax,2,1,0,0,1,3,0,0,3,0,4,0,1,1,1.38,4.2,7.0,,,
+2026-01-10,Conference,2025-26,Aldershot,Solihull,1,5,0,0,2,2,1,0,6,0,4,1,1,1,1.85,3.9,3.4,,,
+2026-01-10,Conference,2025-26,Sutton,York,1,2,0,0,4,1,0,0,3,0,5,0,1,1,5.5,4.33,1.48,,,
+2026-01-10,Conference,2025-26,Woking,Hartlepool,4,0,0,0,1,0,0,1,4,0,1,1,0,1,2.4,3.3,2.63,,,
+2026-01-10,Conference,2025-26,Braintree Town,Boston Utd,0,0,0,0,4,3,0,0,0,0,7,0,0,0,2.5,3.25,2.6,,,
+2026-01-17,Conference,2025-26,York,Southend,1,1,0,0,3,3,0,0,2,0,6,0,1,0,1.67,3.8,4.33,,,
+2026-01-17,Conference,2025-26,Wealdstone,Woking,1,0,0,0,2,3,0,0,1,0,5,0,0,0,2.5,3.25,2.55,,,
+2026-01-17,Conference,2025-26,Truro,Tamworth,0,0,0,0,2,0,1,0,0,0,2,1,0,0,2.3,3.3,2.8,,,
+2026-01-17,Conference,2025-26,Sutton,Forest Green,1,1,0,0,5,2,0,1,2,0,7,1,1,0,5.0,3.75,1.57,,,
+2026-01-17,Conference,2025-26,Solihull,Carlisle,3,3,0,0,2,3,0,0,6,0,5,0,1,1,3.0,3.4,2.15,,,
+2026-01-17,Conference,2025-26,Morecambe,Scunthorpe,2,2,0,0,3,6,0,0,4,0,9,0,1,1,3.5,3.6,1.9,,,
+2026-01-17,Conference,2025-26,Halifax,Boston Utd,2,1,0,0,1,1,0,0,3,0,2,0,1,1,1.95,3.4,3.6,,,
+2026-01-17,Conference,2025-26,Gateshead,Rochdale,0,2,0,0,2,0,0,0,2,0,2,0,0,0,7.5,4.75,1.33,,,
+2026-01-17,Conference,2025-26,Eastleigh,Aldershot,1,4,0,0,4,3,0,0,5,0,7,0,1,1,2.3,3.5,2.75,,,
+2026-01-17,Conference,2025-26,Braintree Town,Boreham Wood,0,3,0,0,3,1,0,0,3,0,4,0,0,1,5.75,3.9,1.5,,,
+2026-01-17,Conference,2025-26,Brackley Town,Yeovil,2,1,0,0,3,2,0,0,3,0,5,0,1,1,1.95,3.25,3.7,,,
+2026-01-17,Conference,2025-26,Hartlepool,Altrincham,1,0,0,0,4,6,0,0,1,0,10,0,0,0,1.91,3.4,3.7,,,
+2026-01-20,Conference,2025-26,Boreham Wood,Scunthorpe,1,3,0,0,0,1,0,0,4,0,1,0,1,1,1.65,3.7,4.75,,,
+2026-01-20,Conference,2025-26,Hartlepool,Gateshead,2,1,0,0,0,0,0,1,3,0,0,1,1,1,1.5,4.0,5.5,,,
+2026-01-20,Conference,2025-26,Southend,Eastleigh,4,1,0,0,3,1,0,0,5,0,4,0,1,1,1.36,4.33,7.5,,,
+2026-01-20,Conference,2025-26,Truro,Brackley Town,3,3,0,0,2,2,0,0,6,0,4,0,1,1,2.4,3.1,2.8,,,
+2026-01-21,Conference,2025-26,Solihull,Rochdale,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.6,3.5,1.91,,,
+2026-01-21,Conference,2025-26,Halifax,Morecambe,1,0,0,0,2,4,0,0,1,0,6,0,0,0,1.83,3.5,3.8,,,
+2026-01-21,Conference,2025-26,Forest Green,Altrincham,1,1,0,0,2,2,0,0,2,0,4,0,1,0,1.42,4.2,6.5,,,
+2026-01-21,Conference,2025-26,Carlisle,York,0,3,0,0,0,0,0,0,3,0,0,0,0,1,3.0,3.5,2.15,,,
+2026-01-24,Conference,2025-26,Scunthorpe,Forest Green,3,2,0,0,2,3,0,0,5,0,5,0,1,1,3.0,3.4,2.15,,,
+2026-01-24,Conference,2025-26,York,Braintree Town,5,0,0,0,1,1,0,0,5,0,2,0,0,1,1.17,6.0,12.0,,,
+2026-01-24,Conference,2025-26,Tamworth,Sutton,0,1,0,0,5,5,0,0,1,0,10,0,0,0,2.25,3.4,2.8,,,
+2026-01-24,Conference,2025-26,Rochdale,Truro,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.3,4.5,10.0,,,
+2026-01-24,Conference,2025-26,Brackley Town,Hartlepool,0,0,0,0,3,2,0,0,0,0,5,0,0,0,2.5,3.2,2.63,,,
+2026-01-24,Conference,2025-26,Eastleigh,Halifax,2,3,0,0,1,3,0,0,5,0,4,0,1,1,2.7,3.25,2.4,,,
+2026-01-24,Conference,2025-26,Morecambe,Solihull,0,2,0,0,3,1,0,0,2,0,4,0,0,0,2.88,3.5,2.15,,,
+2026-01-24,Conference,2025-26,Boston Utd,Southend,3,3,0,0,2,3,0,0,6,0,5,0,1,1,5.0,3.6,1.62,,,
+2026-01-24,Conference,2025-26,Altrincham,Boreham Wood,3,1,0,0,2,3,0,0,4,0,5,0,1,1,5.75,4.0,1.5,,,
+2026-01-27,Conference,2025-26,Rochdale,Southend,2,1,0,0,1,0,0,0,3,0,1,0,1,1,2.1,3.25,3.2,,,
+2026-01-31,Conference,2025-26,Sutton,Brackley Town,1,1,0,0,3,2,0,0,2,0,5,0,1,0,2.05,3.3,3.3,,,
+2026-01-31,Conference,2025-26,Hartlepool,Aldershot,0,3,0,0,1,0,0,0,3,0,1,0,0,1,1.9,3.5,3.5,,,
+2026-01-31,Conference,2025-26,Solihull,York,0,2,0,0,2,4,0,0,2,0,6,0,0,0,4.2,3.8,1.7,,,
+2026-01-31,Conference,2025-26,Braintree Town,Eastleigh,2,1,0,0,4,2,0,0,3,0,6,0,1,1,2.63,3.3,2.45,,,
+2026-01-31,Conference,2025-26,Carlisle,Altrincham,3,1,0,0,2,3,0,0,4,0,5,0,1,1,1.55,3.9,5.25,,,
+2026-01-31,Conference,2025-26,Boreham Wood,Boston Utd,1,2,0,0,2,1,2,0,3,0,3,2,1,1,1.33,5.0,7.0,,,
+2026-02-03,Conference,2025-26,Rochdale,Boreham Wood,4,1,0,0,1,1,0,0,5,0,2,0,1,1,1.85,3.5,3.75,,,
+2026-02-03,Conference,2025-26,Forest Green,Woking,4,2,0,0,0,2,0,0,6,0,2,0,1,1,1.5,3.8,6.0,,,
+2026-02-03,Conference,2025-26,Altrincham,Morecambe,1,1,0,0,2,1,0,0,2,0,3,0,1,0,2.15,3.4,3.0,,,
+2026-02-07,Conference,2025-26,Aldershot,Halifax,3,2,0,0,3,3,1,0,5,0,6,1,1,1,2.05,3.6,3.1,,,
+2026-02-07,Conference,2025-26,Altrincham,Yeovil,0,1,0,0,4,2,0,0,1,0,6,0,0,0,2.0,3.3,3.4,,,
+2026-02-07,Conference,2025-26,Morecambe,Truro,1,2,0,0,2,2,0,0,3,0,4,0,1,1,1.85,3.5,3.7,,,
+2026-02-07,Conference,2025-26,Rochdale,Carlisle,1,0,0,0,1,2,0,0,1,0,3,0,0,0,1.73,3.5,4.33,,,
+2026-02-07,Conference,2025-26,Scunthorpe,Southend,1,0,0,0,2,1,0,0,1,0,3,0,0,0,2.63,3.3,2.45,,,
+2026-02-07,Conference,2025-26,Tamworth,Hartlepool,1,1,0,0,2,2,0,0,2,0,4,0,1,0,2.8,3.25,2.35,,,
+2026-02-07,Conference,2025-26,York,Forest Green,2,1,0,0,4,1,0,0,3,0,5,0,1,1,1.75,3.8,3.8,,,
+2026-02-07,Conference,2025-26,Eastleigh,Wealdstone,2,2,0,0,2,2,0,0,4,0,4,0,1,1,2.1,3.3,3.2,,,
+2026-02-07,Conference,2025-26,Boston Utd,Sutton,1,0,0,0,1,2,0,0,1,0,3,0,0,0,2.15,3.5,2.9,,,
+2026-02-10,Conference,2025-26,Morecambe,Tamworth,2,2,0,0,3,1,0,0,4,0,4,0,1,1,2.25,3.5,2.8,,,
+2026-02-10,Conference,2025-26,Solihull,Eastleigh,2,3,0,0,1,0,0,0,5,0,1,0,1,1,1.7,3.6,4.33,,,
+2026-02-10,Conference,2025-26,Truro,Woking,0,2,0,0,1,1,0,0,2,0,2,0,0,0,2.63,3.2,2.5,,,
+2026-02-10,Conference,2025-26,Carlisle,Scunthorpe,3,2,0,0,3,2,0,0,5,0,5,0,1,1,2.35,3.4,2.7,,,
+2026-02-10,Conference,2025-26,Altrincham,Wealdstone,1,0,0,0,2,0,0,0,1,0,2,0,0,0,2.1,3.4,3.1,,,
+2026-02-10,Conference,2025-26,Boston Utd,Gateshead,1,0,0,0,1,1,0,0,1,0,2,0,0,0,1.67,3.7,4.5,,,
+2026-02-11,Conference,2025-26,Boreham Wood,Yeovil,3,2,0,0,0,1,0,1,5,0,1,1,1,1,1.48,4.0,6.0,,,
+2026-02-11,Conference,2025-26,Brackley Town,Halifax,1,1,0,0,4,2,0,0,2,0,6,0,1,0,2.6,3.1,2.6,,,
+2026-02-11,Conference,2025-26,Rochdale,Forest Green,2,1,0,0,1,1,0,0,3,0,2,0,1,1,1.9,3.4,3.7,,,
+2026-02-11,Conference,2025-26,Sutton,Braintree Town,1,1,0,0,4,2,1,0,2,0,6,1,1,0,1.65,3.7,4.5,,,
+2026-02-11,Conference,2025-26,York,Hartlepool,3,2,0,0,4,1,0,0,5,0,5,0,1,1,1.3,4.75,8.5,,,
+2026-02-14,Conference,2025-26,Forest Green,Carlisle,1,3,0,0,2,3,0,0,4,0,5,0,1,1,1.8,3.7,3.9,,,
+2026-02-14,Conference,2025-26,Yeovil,Rochdale,1,1,0,0,0,0,1,0,2,0,0,1,1,0,5.25,3.7,1.6,,,
+2026-02-14,Conference,2025-26,Wealdstone,York,0,3,0,0,1,0,1,0,3,0,1,1,0,1,6.5,4.33,1.4,,,
+2026-02-14,Conference,2025-26,Tamworth,Aldershot,1,1,0,0,1,1,1,1,2,0,2,2,1,0,2.35,3.6,2.55,,,
+2026-02-14,Conference,2025-26,Southend,Morecambe,5,1,0,0,1,1,0,0,6,0,2,0,1,1,1.36,4.75,6.5,,,
+2026-02-14,Conference,2025-26,Halifax,Truro,1,0,0,0,1,0,0,0,1,0,1,0,0,0,1.95,3.3,3.6,,,
+2026-02-14,Conference,2025-26,Gateshead,Brackley Town,1,2,0,0,1,0,0,0,3,0,1,0,1,1,2.9,3.5,2.2,,,
+2026-02-14,Conference,2025-26,Eastleigh,Boreham Wood,2,2,0,0,2,0,0,0,4,0,2,0,1,1,4.33,3.6,1.7,,,
+2026-02-14,Conference,2025-26,Braintree Town,Solihull,0,0,0,0,1,4,0,0,0,0,5,0,0,0,3.4,3.6,1.9,,,
+2026-02-14,Conference,2025-26,Scunthorpe,Boston Utd,3,6,0,0,2,4,0,0,9,0,6,0,1,1,1.57,3.8,5.25,,,
+2026-02-17,Conference,2025-26,Halifax,Gateshead,1,2,0,0,1,3,0,0,3,0,4,0,1,1,1.55,3.9,5.0,,,
+2026-02-17,Conference,2025-26,Rochdale,Scunthorpe,1,1,0,0,0,4,0,0,2,0,4,0,1,0,1.7,3.6,4.75,,,
+2026-02-17,Conference,2025-26,Sutton,Woking,2,1,0,0,3,2,1,0,3,0,5,1,1,1,2.25,3.3,2.88,,,
+2026-02-17,Conference,2025-26,Yeovil,Aldershot,1,2,0,0,3,2,0,0,3,0,5,0,1,1,2.8,3.4,2.25,,,
+2026-02-21,Conference,2025-26,Solihull,Hartlepool,3,4,0,0,6,1,0,0,7,0,7,0,1,1,2.15,3.4,3.0,,,
+2026-02-21,Conference,2025-26,Truro,Gateshead,1,2,0,0,2,3,0,0,3,0,5,0,1,1,2.1,3.25,3.25,,,
+2026-02-21,Conference,2025-26,York,Halifax,4,1,0,0,2,1,0,0,5,0,3,0,1,1,1.33,4.75,7.5,,,
+2026-02-21,Conference,2025-26,Sutton,Wealdstone,3,0,0,0,3,0,0,0,3,0,3,0,0,1,2.25,3.4,2.75,,,
+2026-02-21,Conference,2025-26,Rochdale,Woking,3,0,0,0,2,4,0,0,3,0,6,0,0,1,1.38,4.1,8.0,,,
+2026-02-21,Conference,2025-26,Morecambe,Eastleigh,4,0,0,0,1,0,0,0,4,0,1,0,0,1,2.3,3.5,2.75,,,
+2026-02-21,Conference,2025-26,Brackley Town,Southend,0,3,0,0,3,2,0,0,3,0,5,0,0,1,4.5,3.5,1.7,,,
+2026-02-21,Conference,2025-26,Boston Utd,Tamworth,0,0,0,0,2,0,0,0,0,0,2,0,0,0,2.0,3.4,3.4,,,
+2026-02-21,Conference,2025-26,Boreham Wood,Forest Green,1,1,0,0,2,2,0,1,2,0,4,1,1,0,2.38,3.5,2.55,,,
+2026-02-21,Conference,2025-26,Altrincham,Braintree Town,2,1,0,0,1,3,0,0,3,0,4,0,1,1,1.8,3.5,4.1,,,
+2026-02-21,Conference,2025-26,Aldershot,Scunthorpe,3,1,0,0,4,2,0,0,4,0,6,0,1,1,2.7,3.6,2.25,,,
+2026-02-21,Conference,2025-26,Carlisle,Yeovil,3,0,0,0,1,0,0,0,3,0,1,0,0,1,1.55,4.0,5.25,,,
+2026-02-24,Conference,2025-26,Forest Green,Boston Utd,2,3,0,0,3,2,0,0,5,0,5,0,1,1,1.55,3.9,5.0,,,
+2026-02-24,Conference,2025-26,Halifax,Rochdale,2,2,0,0,3,1,0,0,4,0,4,0,1,1,4.75,3.4,1.7,,,
+2026-02-24,Conference,2025-26,Scunthorpe,York,0,3,0,0,3,3,0,0,3,0,6,0,0,1,4.0,3.9,1.7,,,
+2026-02-24,Conference,2025-26,Southend,Boreham Wood,0,2,0,0,1,1,0,0,2,0,2,0,0,0,2.0,3.6,3.2,,,
+2026-02-24,Conference,2025-26,Tamworth,Altrincham,5,1,0,0,1,4,0,2,6,0,5,2,1,1,2.25,3.3,2.9,,,
+2026-02-24,Conference,2025-26,Wealdstone,Brackley Town,2,1,0,0,2,2,0,1,3,0,4,1,1,1,2.1,3.2,3.25,,,
+2026-02-25,Conference,2025-26,Gateshead,Morecambe,4,4,0,0,1,3,0,0,8,0,4,0,1,1,2.3,3.6,2.63,,,
+2026-02-25,Conference,2025-26,Yeovil,Sutton,3,2,0,0,3,5,0,0,5,0,8,0,1,1,2.3,3.25,2.75,,,
+2026-02-25,Conference,2025-26,Hartlepool,Carlisle,3,1,0,0,1,1,0,1,4,0,2,1,1,1,3.1,3.4,2.1,,,
+2026-02-25,Conference,2025-26,Braintree Town,Aldershot,1,2,0,0,1,2,0,0,3,0,3,0,1,1,3.8,3.75,1.8,,,
+2026-02-25,Conference,2025-26,Eastleigh,Truro,2,1,0,0,1,1,0,0,3,0,2,0,1,1,2.05,3.25,3.3,,,
+2026-02-28,Conference,2025-26,Truro,Braintree Town,2,3,0,0,2,5,0,0,5,0,7,0,1,1,1.85,3.4,3.8,,,
+2026-02-28,Conference,2025-26,Aldershot,Rochdale,0,2,0,0,2,2,0,0,2,0,4,0,0,0,4.0,3.6,1.75,,,
+2026-02-28,Conference,2025-26,Brackley Town,Altrincham,0,2,0,0,3,3,0,0,2,0,6,0,0,0,2.2,3.2,3.1,,,
+2026-02-28,Conference,2025-26,Eastleigh,Carlisle,1,2,0,0,1,1,0,0,3,0,2,0,1,1,4.0,3.5,1.8,,,
+2026-02-28,Conference,2025-26,Gateshead,Forest Green,0,2,0,0,2,2,0,0,2,0,4,0,0,0,5.0,4.1,1.53,,,
+2026-02-28,Conference,2025-26,Halifax,Sutton,2,2,0,0,1,2,0,0,4,0,3,0,1,1,1.95,3.4,3.5,,,
+2026-02-28,Conference,2025-26,Scunthorpe,Solihull,3,3,0,0,1,2,0,1,6,0,3,1,1,1,1.8,3.7,3.8,,,
+2026-02-28,Conference,2025-26,Tamworth,Boreham Wood,3,2,0,0,0,1,0,0,5,0,1,0,1,1,3.9,3.5,1.8,,,
+2026-02-28,Conference,2025-26,Morecambe,York,0,1,0,0,3,5,1,0,1,0,8,1,0,0,6.5,4.5,1.4,,,
+2026-03-03,Conference,2025-26,Southend,Truro,1,1,0,0,1,2,0,0,2,0,3,0,1,0,1.33,4.75,8.0,,,
+2026-03-03,Conference,2025-26,Wealdstone,Morecambe,2,3,0,0,2,3,0,1,5,0,5,1,1,1,1.95,3.5,3.4,,,
+2026-03-03,Conference,2025-26,Rochdale,Brackley Town,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.27,4.75,11.0,,,
+2026-03-03,Conference,2025-26,Yeovil,Tamworth,2,0,0,0,2,2,0,0,2,0,4,0,0,0,2.45,3.4,2.55,,,
+2026-03-03,Conference,2025-26,Boston Utd,Woking,2,2,0,0,1,5,0,0,4,0,6,0,1,1,1.95,3.3,3.7,,,
+2026-03-03,Conference,2025-26,Boreham Wood,York,3,2,0,0,3,2,0,1,5,0,5,1,1,1,2.9,3.6,2.1,,,
+2026-03-03,Conference,2025-26,Hartlepool,Sutton,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.85,3.5,3.75,,,
+2026-03-04,Conference,2025-26,Gateshead,Braintree Town,1,0,0,0,1,2,0,0,1,0,3,0,0,0,1.8,3.9,3.6,,,
+2026-03-07,Conference,2025-26,Carlisle,Southend,2,2,0,0,0,2,0,0,4,0,2,0,1,1,2.4,3.4,2.63,,,
+2026-03-07,Conference,2025-26,York,Eastleigh,3,1,0,0,1,1,0,0,4,0,2,0,1,1,1.17,6.5,12.0,,,
+2026-03-07,Conference,2025-26,Woking,Tamworth,3,1,0,0,2,1,0,0,4,0,3,0,1,1,2.0,3.5,3.25,,,
+2026-03-07,Conference,2025-26,Sutton,Morecambe,0,5,0,0,3,2,1,0,5,0,5,1,0,1,1.8,3.7,3.8,,,
+2026-03-07,Conference,2025-26,Solihull,Gateshead,1,2,0,0,2,2,0,0,3,0,4,0,1,1,1.62,4.1,4.33,,,
+2026-03-07,Conference,2025-26,Yeovil,Scunthorpe,0,3,0,0,1,1,0,0,3,0,2,0,0,1,3.3,3.4,2.0,,,
+2026-03-07,Conference,2025-26,Hartlepool,Halifax,0,1,0,0,3,0,0,0,1,0,3,0,0,0,1.91,3.4,3.6,,,
+2026-03-07,Conference,2025-26,Forest Green,Aldershot,2,1,0,0,3,4,0,0,3,0,7,0,1,1,1.75,3.75,3.9,,,
+2026-03-07,Conference,2025-26,Braintree Town,Wealdstone,1,4,0,0,3,3,0,0,5,0,6,0,1,1,3.4,3.5,1.95,,,
+2026-03-07,Conference,2025-26,Altrincham,Truro,2,0,0,0,2,0,0,0,2,0,2,0,0,0,1.95,3.4,3.6,,,
+2026-03-07,Conference,2025-26,Boreham Wood,Brackley Town,5,3,0,0,2,3,0,0,8,0,5,0,1,1,1.4,4.75,6.0,,,
+2026-03-07,Conference,2025-26,Rochdale,Boston Utd,1,0,0,0,1,3,0,0,1,0,4,0,0,0,1.53,4.2,5.0,,,
+2026-03-10,Conference,2025-26,Woking,Boreham Wood,2,2,0,0,1,1,0,1,4,0,2,1,1,1,3.3,3.7,1.95,,,
+2026-03-10,Conference,2025-26,Wealdstone,Tamworth,3,2,0,0,0,3,0,0,5,0,3,0,1,1,2.05,3.5,3.2,,,
+2026-03-10,Conference,2025-26,Southend,Gateshead,1,1,0,0,1,1,0,0,2,0,2,0,1,0,1.33,5.0,7.0,,,
+2026-03-10,Conference,2025-26,Scunthorpe,Sutton,1,2,0,0,2,2,0,0,3,0,4,0,1,1,1.75,3.9,3.75,,,
+2026-03-10,Conference,2025-26,Aldershot,Carlisle,0,2,0,0,2,4,0,0,2,0,6,0,0,0,2.5,3.5,2.45,,,
+2026-03-10,Conference,2025-26,Eastleigh,Brackley Town,2,1,0,0,3,4,0,0,3,0,7,0,1,1,2.2,3.6,2.75,,,
+2026-03-14,Conference,2025-26,Tamworth,Carlisle,2,1,0,0,1,0,0,0,3,0,1,0,1,1,3.2,3.4,2.05,,,
+2026-03-14,Conference,2025-26,Morecambe,Braintree Town,1,1,0,0,4,1,0,0,2,0,5,0,1,0,1.7,3.9,3.9,,,
+2026-03-14,Conference,2025-26,Scunthorpe,Altrincham,2,1,0,0,2,1,0,0,3,0,3,0,1,1,1.62,3.8,4.5,,,
+2026-03-14,Conference,2025-26,Truro,Hartlepool,0,1,0,0,4,2,0,0,1,0,6,0,0,0,3.1,3.25,2.15,,,
+2026-03-14,Conference,2025-26,Southend,Forest Green,2,0,0,0,1,1,0,0,2,0,2,0,0,0,2.05,3.4,3.2,,,
+2026-03-14,Conference,2025-26,Eastleigh,Rochdale,1,3,0,0,1,0,0,0,4,0,1,0,1,1,6.5,4.0,1.45,,,
+2026-03-14,Conference,2025-26,Gateshead,Sutton,1,1,0,0,1,2,0,0,2,0,3,0,1,0,2.4,3.7,2.45,,,
+2026-03-14,Conference,2025-26,Brackley Town,Woking,1,4,0,0,1,1,0,0,5,0,2,0,1,1,2.55,3.1,2.63,,,
+2026-03-14,Conference,2025-26,Boston Utd,Yeovil,2,1,0,0,1,0,0,0,3,0,1,0,1,1,1.83,3.5,3.8,,,
+2026-03-14,Conference,2025-26,Aldershot,York,0,3,0,0,3,1,0,0,3,0,4,0,0,1,3.9,4.1,1.7,,,
+2026-03-14,Conference,2025-26,Wealdstone,Solihull,5,1,0,0,1,3,0,0,6,0,4,0,1,1,2.25,3.5,2.75,,,
+2026-03-14,Conference,2025-26,Halifax,Boreham Wood,3,2,0,0,4,1,0,0,5,0,5,0,1,1,3.1,3.6,2.0,,,
+2026-03-17,Conference,2025-26,Brackley Town,Solihull,1,1,0,0,0,0,1,0,2,0,0,1,1,0,2.55,3.4,2.45,,,
+2026-03-17,Conference,2025-26,Gateshead,Wealdstone,1,0,0,0,3,2,0,0,1,0,5,0,0,0,2.45,3.6,2.45,,,
+2026-03-17,Conference,2025-26,Southend,Rochdale,3,2,0,0,1,2,0,0,5,0,3,0,1,1,2.6,3.1,2.6,,,
+2026-03-17,Conference,2025-26,Truro,Scunthorpe,1,2,0,0,1,2,0,0,3,0,3,0,1,1,3.6,3.5,1.9,,,
+2026-03-17,Conference,2025-26,Woking,Yeovil,1,0,0,0,2,3,0,0,1,0,5,0,0,0,1.91,3.4,3.5,,,
+2026-03-21,Conference,2025-26,Solihull,Halifax,0,3,0,0,3,2,1,0,3,0,5,1,0,1,2.25,3.4,2.75,,,
+2026-03-21,Conference,2025-26,York,Brackley Town,4,0,0,0,0,1,0,0,4,0,1,0,0,1,1.14,6.5,15.0,,,
+2026-03-21,Conference,2025-26,Yeovil,Morecambe,3,2,0,0,0,3,0,0,5,0,3,0,1,1,2.1,3.5,2.9,,,
+2026-03-21,Conference,2025-26,Sutton,Truro,0,3,0,0,3,2,0,0,3,0,5,0,0,1,1.73,3.7,4.1,,,
+2026-03-21,Conference,2025-26,Rochdale,Tamworth,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.33,4.75,8.0,,,
+2026-03-21,Conference,2025-26,Hartlepool,Eastleigh,1,0,0,0,2,1,0,0,1,0,3,0,0,0,1.57,3.75,5.0,,,
+2026-03-21,Conference,2025-26,Carlisle,Boston Utd,6,2,0,0,1,5,0,1,8,0,6,1,1,1,1.75,3.4,4.33,,,
+2026-03-21,Conference,2025-26,Braintree Town,Scunthorpe,2,3,0,0,5,3,0,0,5,0,8,0,1,1,4.75,3.8,1.6,,,
+2026-03-21,Conference,2025-26,Boreham Wood,Gateshead,3,0,0,0,1,2,0,0,3,0,3,0,0,1,1.4,4.5,6.25,,,
+2026-03-21,Conference,2025-26,Altrincham,Southend,1,0,0,0,3,2,0,0,1,0,5,0,0,0,4.33,3.8,1.65,,,
+2026-03-21,Conference,2025-26,Woking,Aldershot,3,2,0,0,4,3,0,0,5,0,7,0,1,1,2.3,3.5,2.7,,,
+2026-03-21,Conference,2025-26,Forest Green,Wealdstone,2,0,0,0,2,3,0,0,2,0,5,0,0,0,1.55,3.9,5.0,,,
+2026-03-24,Conference,2025-26,Halifax,Carlisle,0,1,0,0,2,3,0,0,1,0,5,0,0,0,2.75,3.3,2.3,,,
+2026-03-24,Conference,2025-26,Gateshead,York,3,1,0,0,3,2,0,0,4,0,5,0,1,1,7.0,4.5,1.36,,,
+2026-03-24,Conference,2025-26,Eastleigh,Sutton,0,2,0,0,0,2,1,0,2,0,2,1,0,0,2.75,3.4,2.3,,,
+2026-03-24,Conference,2025-26,Brackley Town,Braintree Town,1,1,0,0,0,3,0,0,2,0,3,0,1,0,1.75,3.75,3.7,,,
+2026-03-24,Conference,2025-26,Aldershot,Boreham Wood,1,2,0,0,3,2,0,0,3,0,5,0,1,1,3.25,3.8,1.91,,,
+2026-03-24,Conference,2025-26,Boston Utd,Altrincham,2,2,0,0,6,3,0,0,4,0,9,0,1,1,1.9,3.5,3.5,,,
+2026-03-25,Conference,2025-26,Truro,Solihull,1,1,0,0,1,2,0,0,2,0,3,0,1,0,2.9,3.25,2.25,,,
+2026-03-25,Conference,2025-26,Morecambe,Hartlepool,2,3,0,0,1,2,0,0,5,0,3,0,1,1,2.9,3.5,2.15,,,
+2026-03-25,Conference,2025-26,Scunthorpe,Rochdale,2,2,0,0,1,1,0,0,4,0,2,0,1,1,3.4,3.4,2.0,,,
+2026-03-25,Conference,2025-26,Southend,Woking,1,1,0,0,1,1,0,0,2,0,2,0,1,0,1.6,3.7,5.0,,,
+2026-03-25,Conference,2025-26,Tamworth,Forest Green,1,0,0,0,1,1,0,0,1,0,2,0,0,0,3.5,3.6,1.9,,,
+2026-03-25,Conference,2025-26,Wealdstone,Yeovil,0,2,0,0,1,1,0,1,2,0,2,1,0,0,1.83,3.3,4.0,,,

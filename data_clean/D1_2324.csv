@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2023-08-18,Bundesliga,2023-24,Werder Bremen,Bayern Munich,0,4,0,6,2,1,0,0,4,6,3,0,0,1
-2023-08-19,Bundesliga,2023-24,Augsburg,M'gladbach,4,4,8,7,1,2,0,0,8,15,3,0,1,1
-2023-08-19,Bundesliga,2023-24,Hoffenheim,Freiburg,1,2,4,2,0,1,0,0,3,6,1,0,1,1
-2023-08-19,Bundesliga,2023-24,Leverkusen,RB Leipzig,3,2,4,5,1,2,0,0,5,9,3,0,1,1
-2023-08-19,Bundesliga,2023-24,Stuttgart,Bochum,5,0,7,0,1,1,0,0,5,7,2,0,0,1
-2023-08-19,Bundesliga,2023-24,Wolfsburg,Heidenheim,2,0,1,7,3,0,0,0,2,8,3,0,0,0
-2023-08-19,Bundesliga,2023-24,Dortmund,FC Koln,1,0,6,3,1,0,0,0,1,9,1,0,0,0
-2023-08-20,Bundesliga,2023-24,Union Berlin,Mainz,4,1,3,1,1,5,0,0,5,4,6,0,1,1
-2023-08-20,Bundesliga,2023-24,Ein Frankfurt,Darmstadt,1,0,7,3,2,3,0,0,1,10,5,0,0,0
-2023-08-25,Bundesliga,2023-24,RB Leipzig,Stuttgart,5,1,4,4,1,1,0,0,6,8,2,0,1,1
-2023-08-26,Bundesliga,2023-24,M'gladbach,Leverkusen,0,3,5,8,2,3,0,0,3,13,5,0,0,1
-2023-08-26,Bundesliga,2023-24,Heidenheim,Hoffenheim,2,3,10,6,1,5,0,0,5,16,6,0,1,1
-2023-08-26,Bundesliga,2023-24,Freiburg,Werder Bremen,1,0,5,5,2,2,0,0,1,10,4,0,0,0
-2023-08-26,Bundesliga,2023-24,Bochum,Dortmund,1,1,5,4,2,1,0,0,2,9,3,0,1,0
-2023-08-26,Bundesliga,2023-24,Darmstadt,Union Berlin,1,4,3,5,2,2,0,1,5,8,4,1,1,1
-2023-08-26,Bundesliga,2023-24,FC Koln,Wolfsburg,1,2,6,1,1,5,0,0,3,7,6,0,1,1
-2023-08-27,Bundesliga,2023-24,Mainz,Ein Frankfurt,1,1,5,4,3,4,0,1,2,9,7,1,1,0
-2023-08-27,Bundesliga,2023-24,Bayern Munich,Augsburg,3,1,10,4,1,2,0,0,4,14,3,0,1,1
-2023-09-01,Bundesliga,2023-24,Dortmund,Heidenheim,2,2,3,6,3,3,0,0,4,9,6,0,1,1
-2023-09-02,Bundesliga,2023-24,Werder Bremen,Mainz,4,0,1,7,2,2,0,0,4,8,4,0,0,1
-2023-09-02,Bundesliga,2023-24,M'gladbach,Bayern Munich,1,2,1,15,0,2,0,0,3,16,2,0,1,1
-2023-09-02,Bundesliga,2023-24,Stuttgart,Freiburg,5,0,2,4,1,1,0,0,5,6,2,0,0,1
-2023-09-02,Bundesliga,2023-24,Augsburg,Bochum,2,2,3,5,2,2,0,0,4,8,4,0,1,1
-2023-09-02,Bundesliga,2023-24,Hoffenheim,Wolfsburg,3,1,3,3,2,2,0,0,4,6,4,0,1,1
-2023-09-02,Bundesliga,2023-24,Leverkusen,Darmstadt,5,1,4,2,3,2,0,0,6,6,5,0,1,1
-2023-09-03,Bundesliga,2023-24,Ein Frankfurt,FC Koln,1,1,8,1,1,3,0,0,2,9,4,0,1,0
-2023-09-03,Bundesliga,2023-24,Union Berlin,RB Leipzig,0,3,3,7,3,1,1,0,3,10,4,1,0,1
-2023-09-15,Bundesliga,2023-24,Bayern Munich,Leverkusen,2,2,7,4,0,3,0,0,4,11,3,0,1,1
-2023-09-16,Bundesliga,2023-24,Bochum,Ein Frankfurt,1,1,8,2,3,2,0,0,2,10,5,0,1,0
-2023-09-16,Bundesliga,2023-24,Wolfsburg,Union Berlin,2,1,3,7,1,0,0,0,3,10,1,0,1,1
-2023-09-16,Bundesliga,2023-24,RB Leipzig,Augsburg,3,0,1,6,0,0,0,0,3,7,0,0,0,1
-2023-09-16,Bundesliga,2023-24,Freiburg,Dortmund,2,4,6,8,2,3,1,0,6,14,5,1,1,1
-2023-09-16,Bundesliga,2023-24,FC Koln,Hoffenheim,1,3,13,4,4,4,1,0,4,17,8,1,1,1
-2023-09-16,Bundesliga,2023-24,Mainz,Stuttgart,1,3,6,4,1,2,0,0,4,10,3,0,1,1
-2023-09-17,Bundesliga,2023-24,Heidenheim,Werder Bremen,4,2,10,1,1,1,0,0,6,11,2,0,1,1
-2023-09-17,Bundesliga,2023-24,Darmstadt,M'gladbach,3,3,6,6,1,1,1,0,6,12,2,1,1,1
-2023-09-22,Bundesliga,2023-24,Stuttgart,Darmstadt,3,1,5,4,1,6,0,0,4,9,7,0,1,1
-2023-09-23,Bundesliga,2023-24,Union Berlin,Hoffenheim,0,2,11,6,1,3,0,0,2,17,4,0,0,0
-2023-09-23,Bundesliga,2023-24,Werder Bremen,FC Koln,2,1,9,8,2,1,0,0,3,17,3,0,1,1
-2023-09-23,Bundesliga,2023-24,M'gladbach,RB Leipzig,0,1,11,6,1,1,0,0,1,17,2,0,0,0
-2023-09-23,Bundesliga,2023-24,Augsburg,Mainz,2,1,3,4,2,3,1,0,3,7,5,1,1,1
-2023-09-23,Bundesliga,2023-24,Bayern Munich,Bochum,7,0,8,1,0,1,0,0,7,9,1,0,0,1
-2023-09-23,Bundesliga,2023-24,Dortmund,Wolfsburg,1,0,5,3,0,1,0,0,1,8,1,0,0,0
-2023-09-24,Bundesliga,2023-24,Leverkusen,Heidenheim,4,1,7,2,1,1,0,0,5,9,2,0,1,1
-2023-09-24,Bundesliga,2023-24,Ein Frankfurt,Freiburg,0,0,7,3,4,2,0,0,0,10,6,0,0,0
-2023-09-29,Bundesliga,2023-24,Hoffenheim,Dortmund,1,3,4,3,3,4,0,1,4,7,7,1,1,1
-2023-09-30,Bundesliga,2023-24,Bochum,M'gladbach,1,3,5,10,2,3,0,0,4,15,5,0,1,1
-2023-09-30,Bundesliga,2023-24,FC Koln,Stuttgart,0,2,8,4,2,1,0,0,2,12,3,0,0,0
-2023-09-30,Bundesliga,2023-24,Heidenheim,Union Berlin,1,0,5,7,1,2,0,0,1,12,3,0,0,0
-2023-09-30,Bundesliga,2023-24,Mainz,Leverkusen,0,3,3,1,4,1,0,0,3,4,5,0,0,1
-2023-09-30,Bundesliga,2023-24,Wolfsburg,Ein Frankfurt,2,0,7,4,1,6,0,1,2,11,7,1,0,0
-2023-09-30,Bundesliga,2023-24,RB Leipzig,Bayern Munich,2,2,5,1,2,5,0,0,4,6,7,0,1,1
-2023-10-01,Bundesliga,2023-24,Darmstadt,Werder Bremen,4,2,2,4,3,2,0,0,6,6,5,0,1,1
-2023-10-01,Bundesliga,2023-24,Freiburg,Augsburg,2,0,2,3,2,2,0,0,2,5,4,0,0,0
-2023-10-06,Bundesliga,2023-24,M'gladbach,Mainz,2,2,10,3,3,1,0,0,4,13,4,0,1,1
-2023-10-07,Bundesliga,2023-24,Werder Bremen,Hoffenheim,2,3,4,4,5,4,0,0,5,8,9,0,1,1
-2023-10-07,Bundesliga,2023-24,Stuttgart,Wolfsburg,3,1,5,6,1,3,0,0,4,11,4,0,1,1
-2023-10-07,Bundesliga,2023-24,RB Leipzig,Bochum,0,0,9,1,2,4,0,0,0,10,6,0,0,0
-2023-10-07,Bundesliga,2023-24,Augsburg,Darmstadt,1,2,4,4,4,2,0,0,3,8,6,0,1,1
-2023-10-07,Bundesliga,2023-24,Dortmund,Union Berlin,4,2,4,6,1,1,0,0,6,10,2,0,1,1
-2023-10-08,Bundesliga,2023-24,Leverkusen,FC Koln,3,0,11,4,3,0,0,0,3,15,3,0,0,1
-2023-10-08,Bundesliga,2023-24,Bayern Munich,Freiburg,3,0,7,1,1,0,0,0,3,8,1,0,0,1
-2023-10-08,Bundesliga,2023-24,Ein Frankfurt,Heidenheim,2,0,3,6,2,3,0,0,2,9,5,0,0,0
-2023-10-20,Bundesliga,2023-24,Dortmund,Werder Bremen,1,0,10,4,1,5,0,0,1,14,6,0,0,0
-2023-10-21,Bundesliga,2023-24,Mainz,Bayern Munich,1,3,2,7,3,2,0,0,4,9,5,0,1,1
-2023-10-21,Bundesliga,2023-24,Wolfsburg,Leverkusen,1,2,4,3,3,5,0,0,3,7,8,0,1,1
-2023-10-21,Bundesliga,2023-24,Union Berlin,Stuttgart,0,3,4,2,2,1,0,0,3,6,3,0,0,1
-2023-10-21,Bundesliga,2023-24,Hoffenheim,Ein Frankfurt,1,3,6,3,3,0,0,0,4,9,3,0,1,1
-2023-10-21,Bundesliga,2023-24,Darmstadt,RB Leipzig,1,3,6,0,6,3,0,0,4,6,9,0,1,1
-2023-10-21,Bundesliga,2023-24,Freiburg,Bochum,2,1,5,2,3,4,0,0,3,7,7,0,1,1
-2023-10-22,Bundesliga,2023-24,FC Koln,M'gladbach,3,1,8,3,0,2,0,1,4,11,2,1,1,1
-2023-10-22,Bundesliga,2023-24,Heidenheim,Augsburg,2,5,6,5,3,2,0,0,7,11,5,0,1,1
-2023-10-27,Bundesliga,2023-24,Bochum,Mainz,2,2,5,4,3,3,0,0,4,9,6,0,1,1
-2023-10-28,Bundesliga,2023-24,RB Leipzig,FC Koln,6,0,11,1,2,4,0,1,6,12,6,1,0,1
-2023-10-28,Bundesliga,2023-24,Stuttgart,Hoffenheim,2,3,6,0,2,1,0,0,5,6,3,0,1,1
-2023-10-28,Bundesliga,2023-24,Werder Bremen,Union Berlin,2,0,3,3,1,4,0,1,2,6,5,1,0,0
-2023-10-28,Bundesliga,2023-24,Bayern Munich,Darmstadt,8,0,7,1,1,2,1,2,8,8,3,3,0,1
-2023-10-28,Bundesliga,2023-24,M'gladbach,Heidenheim,2,1,6,4,0,3,0,0,3,10,3,0,1,1
-2023-10-28,Bundesliga,2023-24,Augsburg,Wolfsburg,3,2,5,5,6,4,1,0,5,10,10,1,1,1
-2023-10-29,Bundesliga,2023-24,Ein Frankfurt,Dortmund,3,3,0,4,3,2,0,0,6,4,5,0,1,1
-2023-10-29,Bundesliga,2023-24,Leverkusen,Freiburg,2,1,11,4,0,2,0,0,3,15,2,0,1,1
-2023-11-03,Bundesliga,2023-24,Darmstadt,Bochum,1,2,11,2,2,5,1,0,3,13,7,1,1,1
-2023-11-04,Bundesliga,2023-24,Dortmund,Bayern Munich,0,4,3,2,3,2,0,0,4,5,5,0,0,1
-2023-11-04,Bundesliga,2023-24,Union Berlin,Ein Frankfurt,0,3,9,1,0,1,0,0,3,10,1,0,0,1
-2023-11-04,Bundesliga,2023-24,Mainz,RB Leipzig,2,0,2,7,3,1,0,0,2,9,4,0,0,0
-2023-11-04,Bundesliga,2023-24,Hoffenheim,Leverkusen,2,3,4,3,3,2,0,0,5,7,5,0,1,1
-2023-11-04,Bundesliga,2023-24,Freiburg,M'gladbach,3,3,8,2,2,2,0,0,6,10,4,0,1,1
-2023-11-04,Bundesliga,2023-24,FC Koln,Augsburg,1,1,10,2,1,4,0,0,2,12,5,0,1,0
-2023-11-05,Bundesliga,2023-24,Wolfsburg,Werder Bremen,2,2,5,2,4,1,1,0,4,7,5,1,1,1
-2023-11-05,Bundesliga,2023-24,Heidenheim,Stuttgart,2,0,9,6,2,2,0,0,2,15,4,0,0,0
-2023-11-10,Bundesliga,2023-24,M'gladbach,Wolfsburg,4,0,8,5,1,3,0,0,4,13,4,0,0,1
-2023-11-11,Bundesliga,2023-24,Bochum,FC Koln,1,1,3,3,4,1,0,0,2,6,5,0,1,0
-2023-11-11,Bundesliga,2023-24,Darmstadt,Mainz,0,0,0,5,3,3,0,0,0,5,6,0,0,0
-2023-11-11,Bundesliga,2023-24,Stuttgart,Dortmund,2,1,6,1,2,3,0,0,3,7,5,0,1,1
-2023-11-11,Bundesliga,2023-24,Augsburg,Hoffenheim,1,1,3,5,1,2,0,0,2,8,3,0,1,0
-2023-11-11,Bundesliga,2023-24,Bayern Munich,Heidenheim,4,2,7,2,1,0,0,0,6,9,1,0,1,1
-2023-11-12,Bundesliga,2023-24,Leverkusen,Union Berlin,4,0,10,1,0,1,0,0,4,11,1,0,0,1
-2023-11-12,Bundesliga,2023-24,Werder Bremen,Ein Frankfurt,2,2,3,7,1,3,0,0,4,10,4,0,1,1
-2023-11-12,Bundesliga,2023-24,RB Leipzig,Freiburg,3,1,7,3,2,0,0,0,4,10,2,0,1,1
-2023-11-24,Bundesliga,2023-24,FC Koln,Bayern Munich,0,1,3,12,0,1,0,0,1,15,1,0,0,0
-2023-11-25,Bundesliga,2023-24,Werder Bremen,Leverkusen,0,3,1,6,3,1,0,0,3,7,4,0,0,1
-2023-11-25,Bundesliga,2023-24,Dortmund,M'gladbach,4,2,5,4,1,2,0,0,6,9,3,0,1,1
-2023-11-25,Bundesliga,2023-24,Freiburg,Darmstadt,1,1,11,2,2,0,0,0,2,13,2,0,1,0
-2023-11-25,Bundesliga,2023-24,Union Berlin,Augsburg,1,1,3,4,2,2,0,0,2,7,4,0,1,0
-2023-11-25,Bundesliga,2023-24,Wolfsburg,RB Leipzig,2,1,1,12,4,2,0,0,3,13,6,0,1,1
-2023-11-25,Bundesliga,2023-24,Ein Frankfurt,Stuttgart,1,2,4,2,0,1,0,0,3,6,1,0,1,1
-2023-11-26,Bundesliga,2023-24,Heidenheim,Bochum,0,0,6,5,4,3,0,0,0,11,7,0,0,0
-2023-11-26,Bundesliga,2023-24,Hoffenheim,Mainz,1,1,4,5,4,4,0,0,2,9,8,0,1,0
-2023-12-01,Bundesliga,2023-24,Darmstadt,FC Koln,0,1,1,6,1,3,0,0,1,7,4,0,0,0
-2023-12-02,Bundesliga,2023-24,RB Leipzig,Heidenheim,2,1,5,3,2,2,0,0,3,8,4,0,1,1
-2023-12-02,Bundesliga,2023-24,Stuttgart,Werder Bremen,2,0,6,7,1,0,0,0,2,13,1,0,0,0
-2023-12-02,Bundesliga,2023-24,Bochum,Wolfsburg,3,1,6,6,6,2,0,0,4,12,8,0,1,1
-2023-12-02,Bundesliga,2023-24,M'gladbach,Hoffenheim,2,1,6,3,2,2,0,0,3,9,4,0,1,1
-2023-12-03,Bundesliga,2023-24,Leverkusen,Dortmund,1,1,16,1,3,2,0,0,2,17,5,0,1,0
-2023-12-03,Bundesliga,2023-24,Augsburg,Ein Frankfurt,2,1,2,4,1,1,0,0,3,6,2,0,1,1
-2023-12-03,Bundesliga,2023-24,Mainz,Freiburg,0,1,14,3,1,1,0,0,1,17,2,0,0,0
-2023-12-08,Bundesliga,2023-24,Hoffenheim,Bochum,3,1,4,5,3,2,0,0,4,9,5,0,1,1
-2023-12-09,Bundesliga,2023-24,Ein Frankfurt,Bayern Munich,5,1,1,9,1,2,0,0,6,10,3,0,1,1
-2023-12-09,Bundesliga,2023-24,Heidenheim,Darmstadt,3,2,8,3,2,2,0,0,5,11,4,0,1,1
-2023-12-09,Bundesliga,2023-24,Union Berlin,M'gladbach,3,1,6,7,1,3,0,0,4,13,4,0,1,1
-2023-12-09,Bundesliga,2023-24,Werder Bremen,Augsburg,2,0,5,2,1,2,0,0,2,7,3,0,0,0
-2023-12-09,Bundesliga,2023-24,Wolfsburg,Freiburg,0,1,5,3,1,4,0,0,1,8,5,0,0,0
-2023-12-09,Bundesliga,2023-24,Dortmund,RB Leipzig,2,3,6,6,1,3,1,0,5,12,4,1,1,1
-2023-12-10,Bundesliga,2023-24,FC Koln,Mainz,0,0,1,7,2,4,0,0,0,8,6,0,0,0
-2023-12-10,Bundesliga,2023-24,Stuttgart,Leverkusen,1,1,8,8,1,1,0,0,2,16,2,0,1,0
-2023-12-15,Bundesliga,2023-24,M'gladbach,Werder Bremen,2,2,4,3,4,2,0,0,4,7,6,0,1,1
-2023-12-16,Bundesliga,2023-24,Augsburg,Dortmund,1,1,4,7,2,1,0,0,2,11,3,0,1,0
-2023-12-16,Bundesliga,2023-24,Bochum,Union Berlin,3,0,6,4,2,2,0,0,3,10,4,0,0,1
-2023-12-16,Bundesliga,2023-24,Darmstadt,Wolfsburg,0,1,7,7,2,0,0,1,1,14,2,1,0,0
-2023-12-16,Bundesliga,2023-24,Mainz,Heidenheim,0,1,8,1,3,3,0,0,1,9,6,0,0,0
-2023-12-16,Bundesliga,2023-24,RB Leipzig,Hoffenheim,3,1,9,2,3,2,0,0,4,11,5,0,1,1
-2023-12-17,Bundesliga,2023-24,Freiburg,FC Koln,2,0,5,2,1,4,0,1,2,7,5,1,0,0
-2023-12-17,Bundesliga,2023-24,Leverkusen,Ein Frankfurt,3,0,5,5,1,1,0,0,3,10,2,0,0,1
-2023-12-17,Bundesliga,2023-24,Bayern Munich,Stuttgart,3,0,6,2,0,3,0,0,3,8,3,0,0,1
-2023-12-19,Bundesliga,2023-24,Hoffenheim,Darmstadt,3,3,8,3,2,4,0,0,6,11,6,0,1,1
-2023-12-19,Bundesliga,2023-24,Werder Bremen,RB Leipzig,1,1,1,4,4,2,0,0,2,5,6,0,1,0
-2023-12-19,Bundesliga,2023-24,Dortmund,Mainz,1,1,6,1,0,4,0,0,2,7,4,0,1,0
-2023-12-20,Bundesliga,2023-24,Union Berlin,FC Koln,2,0,4,5,0,0,0,0,2,9,0,0,0,0
-2023-12-20,Bundesliga,2023-24,Ein Frankfurt,M'gladbach,2,1,8,2,1,6,0,1,3,10,7,1,1,1
-2023-12-20,Bundesliga,2023-24,Heidenheim,Freiburg,3,2,7,4,3,4,0,0,5,11,7,0,1,1
-2023-12-20,Bundesliga,2023-24,Leverkusen,Bochum,4,0,4,3,0,2,0,0,4,7,2,0,0,1
-2023-12-20,Bundesliga,2023-24,Stuttgart,Augsburg,3,0,4,4,0,4,0,0,3,8,4,0,0,1
-2023-12-20,Bundesliga,2023-24,Wolfsburg,Bayern Munich,1,2,0,6,4,2,0,0,3,6,6,0,1,1
-2024-01-12,Bundesliga,2023-24,Bayern Munich,Hoffenheim,3,0,11,2,1,3,0,1,3,13,4,1,0,1
-2024-01-13,Bundesliga,2023-24,Augsburg,Leverkusen,0,1,0,12,3,1,0,0,1,12,4,0,0,0
-2024-01-13,Bundesliga,2023-24,FC Koln,Heidenheim,1,1,9,6,2,1,0,0,2,15,3,0,1,0
-2024-01-13,Bundesliga,2023-24,Freiburg,Union Berlin,0,0,4,3,0,2,0,0,0,7,2,0,0,0
-2024-01-13,Bundesliga,2023-24,Mainz,Wolfsburg,1,1,7,3,3,4,0,0,2,10,7,0,1,0
-2024-01-13,Bundesliga,2023-24,RB Leipzig,Ein Frankfurt,0,1,15,4,0,2,0,0,1,19,2,0,0,0
-2024-01-13,Bundesliga,2023-24,Darmstadt,Dortmund,0,3,3,4,1,3,0,0,3,7,4,0,0,1
-2024-01-14,Bundesliga,2023-24,Bochum,Werder Bremen,1,1,3,4,6,5,0,0,2,7,11,0,1,0
-2024-01-14,Bundesliga,2023-24,M'gladbach,Stuttgart,3,1,0,3,3,3,0,0,4,3,6,0,1,1
-2024-01-20,Bundesliga,2023-24,Heidenheim,Wolfsburg,1,1,4,2,0,1,0,0,2,6,1,0,1,0
-2024-01-20,Bundesliga,2023-24,RB Leipzig,Leverkusen,2,3,1,9,2,3,0,0,5,10,5,0,1,1
-2024-01-20,Bundesliga,2023-24,Freiburg,Hoffenheim,3,2,2,2,3,3,1,0,5,4,6,1,1,1
-2024-01-20,Bundesliga,2023-24,Bochum,Stuttgart,1,0,1,7,5,3,0,0,1,8,8,0,0,0
-2024-01-20,Bundesliga,2023-24,Darmstadt,Ein Frankfurt,2,2,4,1,1,1,0,0,4,5,2,0,1,1
-2024-01-20,Bundesliga,2023-24,FC Koln,Dortmund,0,4,13,4,2,2,0,0,4,17,4,0,0,1
-2024-01-21,Bundesliga,2023-24,Bayern Munich,Werder Bremen,0,1,10,2,2,1,0,0,1,12,3,0,0,0
-2024-01-21,Bundesliga,2023-24,M'gladbach,Augsburg,1,2,5,7,1,2,0,0,3,12,3,0,1,1
-2024-01-24,Bundesliga,2023-24,Bayern Munich,Union Berlin,1,0,12,1,2,4,0,0,1,13,6,0,0,0
-2024-01-26,Bundesliga,2023-24,Ein Frankfurt,Mainz,1,0,2,1,2,1,0,0,1,3,3,0,0,0
-2024-01-27,Bundesliga,2023-24,Augsburg,Bayern Munich,2,3,4,5,2,6,0,0,5,9,8,0,1,1
-2024-01-27,Bundesliga,2023-24,Hoffenheim,Heidenheim,1,1,9,5,4,0,0,0,2,14,4,0,1,0
-2024-01-27,Bundesliga,2023-24,Werder Bremen,Freiburg,3,1,5,5,2,1,0,0,4,10,3,0,1,1
-2024-01-27,Bundesliga,2023-24,Wolfsburg,FC Koln,1,1,6,3,5,3,0,0,2,9,8,0,1,0
-2024-01-27,Bundesliga,2023-24,Leverkusen,M'gladbach,0,0,8,2,3,1,0,0,0,10,4,0,0,0
-2024-01-27,Bundesliga,2023-24,Stuttgart,RB Leipzig,5,2,9,3,1,4,0,0,7,12,5,0,1,1
-2024-01-28,Bundesliga,2023-24,Union Berlin,Darmstadt,1,0,4,3,3,2,0,0,1,7,5,0,0,0
-2024-01-28,Bundesliga,2023-24,Dortmund,Bochum,3,1,8,4,1,3,0,0,4,12,4,0,1,1
-2024-02-02,Bundesliga,2023-24,Heidenheim,Dortmund,0,0,4,6,0,2,0,0,0,10,2,0,0,0
-2024-02-03,Bundesliga,2023-24,Mainz,Werder Bremen,0,1,11,1,4,3,0,0,1,12,7,0,0,0
-2024-02-03,Bundesliga,2023-24,FC Koln,Ein Frankfurt,2,0,7,7,1,4,0,2,2,14,5,2,0,0
-2024-02-03,Bundesliga,2023-24,Freiburg,Stuttgart,1,3,1,6,4,2,1,0,4,7,6,1,1,1
-2024-02-03,Bundesliga,2023-24,Bochum,Augsburg,1,1,3,5,3,1,0,0,2,8,4,0,1,0
-2024-02-03,Bundesliga,2023-24,Bayern Munich,M'gladbach,3,1,6,5,0,1,0,0,4,11,1,0,1,1
-2024-02-03,Bundesliga,2023-24,Darmstadt,Leverkusen,0,2,4,3,2,2,0,0,2,7,4,0,0,0
-2024-02-04,Bundesliga,2023-24,Wolfsburg,Hoffenheim,2,2,7,2,2,3,0,0,4,9,5,0,1,1
-2024-02-04,Bundesliga,2023-24,RB Leipzig,Union Berlin,2,0,5,4,1,2,0,1,2,9,3,1,0,0
-2024-02-07,Bundesliga,2023-24,Mainz,Union Berlin,1,1,8,3,2,4,0,0,2,11,6,0,1,0
-2024-02-09,Bundesliga,2023-24,Dortmund,Freiburg,3,0,5,3,2,0,0,0,3,8,2,0,0,1
-2024-02-10,Bundesliga,2023-24,Leverkusen,Bayern Munich,3,0,4,6,3,2,0,0,3,10,5,0,0,1
-2024-02-10,Bundesliga,2023-24,Werder Bremen,Heidenheim,1,2,5,10,1,2,0,0,3,15,3,0,1,1
-2024-02-10,Bundesliga,2023-24,Union Berlin,Wolfsburg,1,0,6,10,1,2,0,0,1,16,3,0,0,0
-2024-02-10,Bundesliga,2023-24,M'gladbach,Darmstadt,0,0,7,2,0,5,0,0,0,9,5,0,0,0
-2024-02-10,Bundesliga,2023-24,Augsburg,RB Leipzig,2,2,1,3,5,1,0,0,4,4,6,0,1,1
-2024-02-10,Bundesliga,2023-24,Ein Frankfurt,Bochum,1,1,8,3,2,2,0,0,2,11,4,0,1,0
-2024-02-11,Bundesliga,2023-24,Stuttgart,Mainz,3,1,4,5,1,1,0,0,4,9,2,0,1,1
-2024-02-11,Bundesliga,2023-24,Hoffenheim,FC Koln,1,1,10,3,3,4,0,0,2,13,7,0,1,0
-2024-02-16,Bundesliga,2023-24,FC Koln,Werder Bremen,0,1,5,3,4,4,0,0,1,8,8,0,0,0
-2024-02-17,Bundesliga,2023-24,RB Leipzig,M'gladbach,2,0,8,4,1,5,0,0,2,12,6,0,0,0
-2024-02-17,Bundesliga,2023-24,Wolfsburg,Dortmund,1,1,5,3,3,1,0,0,2,8,4,0,1,0
-2024-02-17,Bundesliga,2023-24,Mainz,Augsburg,1,0,7,7,3,2,0,1,1,14,5,1,0,0
-2024-02-17,Bundesliga,2023-24,Heidenheim,Leverkusen,1,2,4,5,2,1,0,0,3,9,3,0,1,1
-2024-02-17,Bundesliga,2023-24,Darmstadt,Stuttgart,1,2,5,3,4,5,0,1,3,8,9,1,1,1
-2024-02-17,Bundesliga,2023-24,Hoffenheim,Union Berlin,0,1,6,2,3,4,1,1,1,8,7,2,0,0
-2024-02-18,Bundesliga,2023-24,Freiburg,Ein Frankfurt,3,3,6,1,0,0,0,0,6,7,0,0,1,1
-2024-02-18,Bundesliga,2023-24,Bochum,Bayern Munich,3,2,4,9,2,4,0,1,5,13,6,1,1,1
-2024-02-23,Bundesliga,2023-24,Leverkusen,Mainz,2,1,11,2,3,5,0,1,3,13,8,1,1,1
-2024-02-24,Bundesliga,2023-24,M'gladbach,Bochum,5,2,5,6,2,4,0,0,7,11,6,0,1,1
-2024-02-24,Bundesliga,2023-24,Stuttgart,FC Koln,1,1,9,4,1,0,0,0,2,13,1,0,1,0
-2024-02-24,Bundesliga,2023-24,Union Berlin,Heidenheim,2,2,4,2,2,1,0,0,4,6,3,0,1,1
-2024-02-24,Bundesliga,2023-24,Bayern Munich,RB Leipzig,2,1,6,4,3,3,0,0,3,10,6,0,1,1
-2024-02-24,Bundesliga,2023-24,Werder Bremen,Darmstadt,1,1,4,6,3,4,0,0,2,10,7,0,1,0
-2024-02-25,Bundesliga,2023-24,Ein Frankfurt,Wolfsburg,2,2,5,3,2,1,0,0,4,8,3,0,1,1
-2024-02-25,Bundesliga,2023-24,Dortmund,Hoffenheim,2,3,10,3,2,3,0,0,5,13,5,0,1,1
-2024-02-25,Bundesliga,2023-24,Augsburg,Freiburg,2,1,10,2,3,1,0,0,3,12,4,0,1,1
-2024-03-01,Bundesliga,2023-24,Freiburg,Bayern Munich,2,2,3,6,1,2,0,0,4,9,3,0,1,1
-2024-03-02,Bundesliga,2023-24,Mainz,M'gladbach,1,1,12,6,5,1,1,0,2,18,6,1,1,0
-2024-03-02,Bundesliga,2023-24,Union Berlin,Dortmund,0,2,8,7,2,1,0,0,2,15,3,0,0,0
-2024-03-02,Bundesliga,2023-24,Wolfsburg,Stuttgart,2,3,5,4,3,2,0,0,5,9,5,0,1,1
-2024-03-02,Bundesliga,2023-24,Heidenheim,Ein Frankfurt,1,2,7,3,1,4,0,0,3,10,5,0,1,1
-2024-03-02,Bundesliga,2023-24,Bochum,RB Leipzig,1,4,2,5,3,2,1,0,5,7,5,1,1,1
-2024-03-02,Bundesliga,2023-24,Darmstadt,Augsburg,0,6,3,6,2,0,0,0,6,9,2,0,0,1
-2024-03-03,Bundesliga,2023-24,FC Koln,Leverkusen,0,2,1,9,2,2,1,0,2,10,4,1,0,0
-2024-03-03,Bundesliga,2023-24,Hoffenheim,Werder Bremen,2,1,3,3,5,1,1,0,3,6,6,1,1,1
-2024-03-08,Bundesliga,2023-24,Stuttgart,Union Berlin,2,0,4,3,1,2,0,1,2,7,3,1,0,0
-2024-03-09,Bundesliga,2023-24,Augsburg,Heidenheim,1,0,5,2,1,3,0,0,1,7,4,0,0,0
-2024-03-09,Bundesliga,2023-24,Bayern Munich,Mainz,8,1,6,7,1,1,0,0,9,13,2,0,1,1
-2024-03-09,Bundesliga,2023-24,M'gladbach,FC Koln,3,3,8,3,3,4,0,0,6,11,7,0,1,1
-2024-03-09,Bundesliga,2023-24,RB Leipzig,Darmstadt,2,0,8,4,0,3,0,0,2,12,3,0,0,0
-2024-03-09,Bundesliga,2023-24,Werder Bremen,Dortmund,1,2,10,4,1,2,0,1,3,14,3,1,1,1
-2024-03-10,Bundesliga,2023-24,Bochum,Freiburg,1,2,12,5,3,7,0,0,3,17,10,0,1,1
-2024-03-10,Bundesliga,2023-24,Ein Frankfurt,Hoffenheim,3,1,5,1,2,3,0,2,4,6,5,2,1,1
-2024-03-10,Bundesliga,2023-24,Leverkusen,Wolfsburg,2,0,9,2,1,3,0,1,2,11,4,1,0,0
-2024-03-15,Bundesliga,2023-24,FC Koln,RB Leipzig,1,5,3,6,2,2,0,0,6,9,4,0,1,1
-2024-03-16,Bundesliga,2023-24,Hoffenheim,Stuttgart,0,3,5,6,1,0,0,0,3,11,1,0,0,1
-2024-03-16,Bundesliga,2023-24,Union Berlin,Werder Bremen,2,1,4,3,3,5,0,0,3,7,8,0,1,1
-2024-03-16,Bundesliga,2023-24,Wolfsburg,Augsburg,1,3,8,6,1,3,1,0,4,14,4,1,1,1
-2024-03-16,Bundesliga,2023-24,Heidenheim,M'gladbach,1,1,10,4,1,3,0,0,2,14,4,0,1,0
-2024-03-16,Bundesliga,2023-24,Mainz,Bochum,2,0,7,6,4,3,0,0,2,13,7,0,0,0
-2024-03-16,Bundesliga,2023-24,Darmstadt,Bayern Munich,2,5,2,9,1,0,0,0,7,11,1,0,1,1
-2024-03-17,Bundesliga,2023-24,Freiburg,Leverkusen,2,3,2,8,1,0,0,0,5,10,1,0,1,1
-2024-03-17,Bundesliga,2023-24,Dortmund,Ein Frankfurt,3,1,8,3,1,2,0,0,4,11,3,0,1,1
-2024-03-30,Bundesliga,2023-24,Ein Frankfurt,Union Berlin,0,0,6,2,3,1,0,0,0,8,4,0,0,0
-2024-03-30,Bundesliga,2023-24,Leverkusen,Hoffenheim,2,1,9,2,0,1,0,0,3,11,1,0,1,1
-2024-03-30,Bundesliga,2023-24,M'gladbach,Freiburg,0,3,14,1,1,0,0,0,3,15,1,0,0,1
-2024-03-30,Bundesliga,2023-24,RB Leipzig,Mainz,0,0,12,2,2,5,0,0,0,14,7,0,0,0
-2024-03-30,Bundesliga,2023-24,Werder Bremen,Wolfsburg,0,2,3,6,4,4,1,1,2,9,8,2,0,0
-2024-03-30,Bundesliga,2023-24,Bayern Munich,Dortmund,0,2,7,4,0,0,0,0,2,11,0,0,0,0
-2024-03-31,Bundesliga,2023-24,Augsburg,FC Koln,1,1,12,6,0,3,0,0,2,18,3,0,1,0
-2024-03-31,Bundesliga,2023-24,Stuttgart,Heidenheim,3,3,6,7,1,0,0,1,6,13,1,1,1,1
-2024-03-31,Bundesliga,2023-24,Bochum,Darmstadt,2,2,6,5,2,2,0,0,4,11,4,0,1,1
-2024-04-05,Bundesliga,2023-24,Ein Frankfurt,Werder Bremen,1,1,9,0,3,2,1,1,2,9,5,2,1,0
-2024-04-06,Bundesliga,2023-24,Dortmund,Stuttgart,0,1,8,3,2,4,0,0,1,11,6,0,0,0
-2024-04-06,Bundesliga,2023-24,Mainz,Darmstadt,4,0,5,1,2,3,0,0,4,6,5,0,0,1
-2024-04-06,Bundesliga,2023-24,Union Berlin,Leverkusen,0,1,7,10,3,2,1,0,1,17,5,1,0,0
-2024-04-06,Bundesliga,2023-24,Freiburg,RB Leipzig,1,4,8,4,3,4,0,0,5,12,7,0,1,1
-2024-04-06,Bundesliga,2023-24,FC Koln,Bochum,2,1,9,4,3,3,0,0,3,13,6,0,1,1
-2024-04-06,Bundesliga,2023-24,Heidenheim,Bayern Munich,3,2,3,3,2,0,0,0,5,6,2,0,1,1
-2024-04-07,Bundesliga,2023-24,Hoffenheim,Augsburg,3,1,11,6,3,1,0,0,4,17,4,0,1,1
-2024-04-07,Bundesliga,2023-24,Wolfsburg,M'gladbach,1,3,4,4,2,2,0,0,4,8,4,0,1,1
-2024-04-12,Bundesliga,2023-24,Augsburg,Union Berlin,2,0,5,4,1,1,0,0,2,9,2,0,0,0
-2024-04-13,Bundesliga,2023-24,Stuttgart,Ein Frankfurt,3,0,4,5,1,3,0,0,3,9,4,0,0,1
-2024-04-13,Bundesliga,2023-24,M'gladbach,Dortmund,1,2,2,4,1,4,0,1,3,6,5,1,1,1
-2024-04-13,Bundesliga,2023-24,RB Leipzig,Wolfsburg,3,0,6,4,2,4,0,0,3,10,6,0,0,1
-2024-04-13,Bundesliga,2023-24,Bochum,Heidenheim,1,1,6,2,4,1,0,0,2,8,5,0,1,0
-2024-04-13,Bundesliga,2023-24,Bayern Munich,FC Koln,2,0,5,5,0,3,0,0,2,10,3,0,0,0
-2024-04-13,Bundesliga,2023-24,Mainz,Hoffenheim,4,1,9,3,0,2,0,0,5,12,2,0,1,1
-2024-04-14,Bundesliga,2023-24,Darmstadt,Freiburg,0,1,2,2,0,1,0,0,1,4,1,0,0,0
-2024-04-14,Bundesliga,2023-24,Leverkusen,Werder Bremen,5,0,7,0,2,1,0,0,5,7,3,0,0,1
-2024-04-19,Bundesliga,2023-24,Ein Frankfurt,Augsburg,3,1,6,5,3,3,0,0,4,11,6,0,1,1
-2024-04-20,Bundesliga,2023-24,Union Berlin,Bayern Munich,1,5,5,3,0,0,0,0,6,8,0,0,1,1
-2024-04-20,Bundesliga,2023-24,FC Koln,Darmstadt,0,2,4,3,0,1,0,0,2,7,1,0,0,0
-2024-04-20,Bundesliga,2023-24,Heidenheim,RB Leipzig,1,2,2,6,3,1,0,0,3,8,4,0,1,1
-2024-04-20,Bundesliga,2023-24,Hoffenheim,M'gladbach,4,3,6,5,1,3,0,0,7,11,4,0,1,1
-2024-04-20,Bundesliga,2023-24,Wolfsburg,Bochum,1,0,5,8,4,3,0,0,1,13,7,0,0,0
-2024-04-21,Bundesliga,2023-24,Freiburg,Mainz,1,1,2,4,3,4,0,0,2,6,7,0,1,0
-2024-04-21,Bundesliga,2023-24,Werder Bremen,Stuttgart,2,1,1,7,3,3,0,0,3,8,6,0,1,1
-2024-04-21,Bundesliga,2023-24,Dortmund,Leverkusen,1,1,2,6,4,3,0,0,2,8,7,0,1,0
-2024-04-26,Bundesliga,2023-24,Bochum,Hoffenheim,3,2,10,4,1,1,0,0,5,14,2,0,1,1
-2024-04-27,Bundesliga,2023-24,Augsburg,Werder Bremen,0,3,6,4,1,2,0,0,3,10,3,0,0,1
-2024-04-27,Bundesliga,2023-24,Bayern Munich,Ein Frankfurt,2,1,4,2,0,3,0,0,3,6,3,0,1,1
-2024-04-27,Bundesliga,2023-24,Freiburg,Wolfsburg,1,2,3,6,4,2,1,0,3,9,6,1,1,1
-2024-04-27,Bundesliga,2023-24,RB Leipzig,Dortmund,4,1,5,8,1,2,0,0,5,13,3,0,1,1
-2024-04-27,Bundesliga,2023-24,Leverkusen,Stuttgart,2,2,5,2,4,3,0,0,4,7,7,0,1,1
-2024-04-28,Bundesliga,2023-24,Mainz,FC Koln,1,1,6,6,4,4,1,0,2,12,8,1,1,0
-2024-04-28,Bundesliga,2023-24,M'gladbach,Union Berlin,0,0,3,4,2,2,0,0,0,7,4,0,0,0
-2024-04-28,Bundesliga,2023-24,Darmstadt,Heidenheim,0,1,3,8,2,1,0,0,1,11,3,0,0,0
-2024-05-03,Bundesliga,2023-24,Hoffenheim,RB Leipzig,1,1,4,4,1,3,0,1,2,8,4,1,1,0
-2024-05-04,Bundesliga,2023-24,Wolfsburg,Darmstadt,3,0,9,2,0,3,0,0,3,11,3,0,0,1
-2024-05-04,Bundesliga,2023-24,Werder Bremen,M'gladbach,2,2,7,2,0,0,0,0,4,9,0,0,1,1
-2024-05-04,Bundesliga,2023-24,FC Koln,Freiburg,0,0,7,1,1,1,0,0,0,8,2,0,0,0
-2024-05-04,Bundesliga,2023-24,Dortmund,Augsburg,5,1,6,9,0,1,0,0,6,15,1,0,1,1
-2024-05-04,Bundesliga,2023-24,Stuttgart,Bayern Munich,3,1,3,1,1,2,0,0,4,4,3,0,1,1
-2024-05-05,Bundesliga,2023-24,Ein Frankfurt,Leverkusen,1,5,10,5,0,0,0,0,6,15,0,0,1,1
-2024-05-05,Bundesliga,2023-24,Heidenheim,Mainz,1,1,6,3,2,3,0,0,2,9,5,0,1,0
-2024-05-05,Bundesliga,2023-24,Union Berlin,Bochum,3,4,6,4,0,1,0,0,7,10,1,0,1,1
-2024-05-10,Bundesliga,2023-24,Augsburg,Stuttgart,0,1,5,5,4,2,0,0,1,10,6,0,0,0
-2024-05-11,Bundesliga,2023-24,FC Koln,Union Berlin,3,2,6,8,3,2,0,0,5,14,5,0,1,1
-2024-05-11,Bundesliga,2023-24,Freiburg,Heidenheim,1,1,2,4,1,1,0,0,2,6,2,0,1,0
-2024-05-11,Bundesliga,2023-24,M'gladbach,Ein Frankfurt,1,1,2,8,1,0,0,0,2,10,1,0,1,0
-2024-05-11,Bundesliga,2023-24,RB Leipzig,Werder Bremen,1,1,4,3,1,0,0,0,2,7,1,0,1,0
-2024-05-11,Bundesliga,2023-24,Mainz,Dortmund,3,0,4,2,2,2,0,0,3,6,4,0,0,1
-2024-05-12,Bundesliga,2023-24,Darmstadt,Hoffenheim,0,6,2,3,3,0,0,0,6,5,3,0,0,1
-2024-05-12,Bundesliga,2023-24,Bayern Munich,Wolfsburg,2,0,4,0,0,2,0,0,2,4,2,0,0,0
-2024-05-12,Bundesliga,2023-24,Bochum,Leverkusen,0,5,2,6,2,1,1,0,5,8,3,1,0,1
-2024-05-18,Bundesliga,2023-24,Stuttgart,M'gladbach,4,0,8,4,1,2,0,0,4,12,3,0,0,1
-2024-05-18,Bundesliga,2023-24,Union Berlin,Freiburg,2,1,3,7,7,4,0,0,3,10,11,0,1,1
-2024-05-18,Bundesliga,2023-24,Leverkusen,Augsburg,2,1,5,4,0,1,0,0,3,9,1,0,1,1
-2024-05-18,Bundesliga,2023-24,Werder Bremen,Bochum,4,1,8,8,1,1,0,0,5,16,2,0,1,1
-2024-05-18,Bundesliga,2023-24,Heidenheim,FC Koln,4,1,5,12,1,3,0,0,5,17,4,0,1,1
-2024-05-18,Bundesliga,2023-24,Ein Frankfurt,RB Leipzig,2,2,8,3,2,2,0,0,4,11,4,0,1,1
-2024-05-18,Bundesliga,2023-24,Dortmund,Darmstadt,4,0,7,3,0,3,0,0,4,10,3,0,0,1
-2024-05-18,Bundesliga,2023-24,Hoffenheim,Bayern Munich,4,2,6,5,3,1,0,0,6,11,4,0,1,1
-2024-05-18,Bundesliga,2023-24,Wolfsburg,Mainz,1,3,1,3,2,3,0,0,4,4,5,0,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2023-08-18,Bundesliga,2023-24,Werder Bremen,Bayern Munich,0,4,0,6,2,1,0,0,4,6,3,0,0,1,7.5,6.5,1.3,8.59,6.36,1.33
+2023-08-19,Bundesliga,2023-24,Augsburg,M'gladbach,4,4,8,7,1,2,0,0,8,15,3,0,1,1,2.7,3.6,2.45,2.74,3.78,2.51
+2023-08-19,Bundesliga,2023-24,Hoffenheim,Freiburg,1,2,4,2,0,1,0,0,3,6,1,0,1,1,2.3,3.6,2.9,2.43,3.67,2.92
+2023-08-19,Bundesliga,2023-24,Leverkusen,RB Leipzig,3,2,4,5,1,2,0,0,5,9,3,0,1,1,2.45,3.6,2.75,2.5,3.61,2.85
+2023-08-19,Bundesliga,2023-24,Stuttgart,Bochum,5,0,7,0,1,1,0,0,5,7,2,0,0,1,1.65,4.33,4.5,1.7,4.25,4.78
+2023-08-19,Bundesliga,2023-24,Wolfsburg,Heidenheim,2,0,1,7,3,0,0,0,2,8,3,0,0,0,1.6,4.2,5.25,1.62,4.49,5.24
+2023-08-19,Bundesliga,2023-24,Dortmund,FC Koln,1,0,6,3,1,0,0,0,1,9,1,0,0,0,1.4,5.0,7.0,1.41,5.42,7.25
+2023-08-20,Bundesliga,2023-24,Union Berlin,Mainz,4,1,3,1,1,5,0,0,5,4,6,0,1,1,1.95,3.5,3.9,2.02,3.5,4.02
+2023-08-20,Bundesliga,2023-24,Ein Frankfurt,Darmstadt,1,0,7,3,2,3,0,0,1,10,5,0,0,0,1.36,5.25,7.5,1.4,5.42,7.44
+2023-08-25,Bundesliga,2023-24,RB Leipzig,Stuttgart,5,1,4,4,1,1,0,0,6,8,2,0,1,1,1.5,4.75,5.75,1.53,4.69,6.14
+2023-08-26,Bundesliga,2023-24,M'gladbach,Leverkusen,0,3,5,8,2,3,0,0,3,13,5,0,0,1,3.8,3.8,1.85,3.73,4.2,1.91
+2023-08-26,Bundesliga,2023-24,Heidenheim,Hoffenheim,2,3,10,6,1,5,0,0,5,16,6,0,1,1,3.0,3.6,2.25,2.96,3.81,2.34
+2023-08-26,Bundesliga,2023-24,Freiburg,Werder Bremen,1,0,5,5,2,2,0,0,1,10,4,0,0,0,1.7,3.75,4.75,1.72,4.15,4.76
+2023-08-26,Bundesliga,2023-24,Bochum,Dortmund,1,1,5,4,2,1,0,0,2,9,3,0,1,0,7.0,5.0,1.4,6.63,5.36,1.44
+2023-08-26,Bundesliga,2023-24,Darmstadt,Union Berlin,1,4,3,5,2,2,0,1,5,8,4,1,1,1,4.0,3.3,1.95,3.94,3.42,2.08
+2023-08-26,Bundesliga,2023-24,FC Koln,Wolfsburg,1,2,6,1,1,5,0,0,3,7,6,0,1,1,2.3,3.4,3.0,2.41,3.53,3.04
+2023-08-27,Bundesliga,2023-24,Mainz,Ein Frankfurt,1,1,5,4,3,4,0,1,2,9,7,1,1,0,2.38,3.5,2.88,2.39,3.74,2.92
+2023-08-27,Bundesliga,2023-24,Bayern Munich,Augsburg,3,1,10,4,1,2,0,0,4,14,3,0,1,1,1.08,12.0,19.0,1.09,14.24,22.48
+2023-09-01,Bundesliga,2023-24,Dortmund,Heidenheim,2,2,3,6,3,3,0,0,4,9,6,0,1,1,1.25,7.0,9.5,1.26,7.07,10.23
+2023-09-02,Bundesliga,2023-24,Werder Bremen,Mainz,4,0,1,7,2,2,0,0,4,8,4,0,0,1,2.63,3.5,2.55,2.76,3.55,2.61
+2023-09-02,Bundesliga,2023-24,M'gladbach,Bayern Munich,1,2,1,15,0,2,0,0,3,16,2,0,1,1,8.5,5.75,1.3,7.93,6.61,1.31
+2023-09-02,Bundesliga,2023-24,Stuttgart,Freiburg,5,0,2,4,1,1,0,0,5,6,2,0,0,1,2.2,3.5,3.2,2.18,3.79,3.28
+2023-09-02,Bundesliga,2023-24,Augsburg,Bochum,2,2,3,5,2,2,0,0,4,8,4,0,1,1,2.0,3.75,3.75,2.09,3.67,3.61
+2023-09-02,Bundesliga,2023-24,Hoffenheim,Wolfsburg,3,1,3,3,2,2,0,0,4,6,4,0,1,1,2.5,3.6,2.63,2.48,3.86,2.73
+2023-09-02,Bundesliga,2023-24,Leverkusen,Darmstadt,5,1,4,2,3,2,0,0,6,6,5,0,1,1,1.2,7.0,12.0,1.2,7.79,13.72
+2023-09-03,Bundesliga,2023-24,Ein Frankfurt,FC Koln,1,1,8,1,1,3,0,0,2,9,4,0,1,0,2.1,3.4,3.5,2.18,3.49,3.54
+2023-09-03,Bundesliga,2023-24,Union Berlin,RB Leipzig,0,3,3,7,3,1,1,0,3,10,4,1,0,1,3.4,3.25,2.2,3.24,3.48,2.31
+2023-09-15,Bundesliga,2023-24,Bayern Munich,Leverkusen,2,2,7,4,0,3,0,0,4,11,3,0,1,1,1.65,4.5,4.5,1.65,4.7,4.78
+2023-09-16,Bundesliga,2023-24,Bochum,Ein Frankfurt,1,1,8,2,3,2,0,0,2,10,5,0,1,0,2.88,3.6,2.38,2.95,3.63,2.42
+2023-09-16,Bundesliga,2023-24,Wolfsburg,Union Berlin,2,1,3,7,1,0,0,0,3,10,1,0,1,1,2.25,3.4,3.2,2.27,3.55,3.27
+2023-09-16,Bundesliga,2023-24,RB Leipzig,Augsburg,3,0,1,6,0,0,0,0,3,7,0,0,0,1,1.25,7.0,10.0,1.24,7.19,11.19
+2023-09-16,Bundesliga,2023-24,Freiburg,Dortmund,2,4,6,8,2,3,1,0,6,14,5,1,1,1,3.1,3.8,2.1,3.16,3.86,2.21
+2023-09-16,Bundesliga,2023-24,FC Koln,Hoffenheim,1,3,13,4,4,4,1,0,4,17,8,1,1,1,2.25,3.6,3.1,2.26,3.87,3.06
+2023-09-16,Bundesliga,2023-24,Mainz,Stuttgart,1,3,6,4,1,2,0,0,4,10,3,0,1,1,2.63,3.4,2.7,2.57,3.71,2.71
+2023-09-17,Bundesliga,2023-24,Heidenheim,Werder Bremen,4,2,10,1,1,1,0,0,6,11,2,0,1,1,2.3,4.0,2.7,2.39,3.88,2.85
+2023-09-17,Bundesliga,2023-24,Darmstadt,M'gladbach,3,3,6,6,1,1,1,0,6,12,2,1,1,1,2.9,3.5,2.38,3.01,3.74,2.34
+2023-09-22,Bundesliga,2023-24,Stuttgart,Darmstadt,3,1,5,4,1,6,0,0,4,9,7,0,1,1,1.36,4.5,8.0,1.4,5.24,8.18
+2023-09-23,Bundesliga,2023-24,Union Berlin,Hoffenheim,0,2,11,6,1,3,0,0,2,17,4,0,0,0,2.05,3.6,3.4,2.15,3.72,3.39
+2023-09-23,Bundesliga,2023-24,Werder Bremen,FC Koln,2,1,9,8,2,1,0,0,3,17,3,0,1,1,2.5,3.6,2.6,2.56,3.69,2.74
+2023-09-23,Bundesliga,2023-24,M'gladbach,RB Leipzig,0,1,11,6,1,1,0,0,1,17,2,0,0,0,4.75,4.75,1.57,5.26,4.74,1.59
+2023-09-23,Bundesliga,2023-24,Augsburg,Mainz,2,1,3,4,2,3,1,0,3,7,5,1,1,1,2.55,3.5,2.63,2.61,3.7,2.68
+2023-09-23,Bundesliga,2023-24,Bayern Munich,Bochum,7,0,8,1,0,1,0,0,7,9,1,0,0,1,1.11,10.0,19.0,1.1,12.85,20.11
+2023-09-23,Bundesliga,2023-24,Dortmund,Wolfsburg,1,0,5,3,0,1,0,0,1,8,1,0,0,0,1.65,4.0,4.75,1.71,4.47,4.48
+2023-09-24,Bundesliga,2023-24,Leverkusen,Heidenheim,4,1,7,2,1,1,0,0,5,9,2,0,1,1,1.22,6.5,12.0,1.23,7.35,11.42
+2023-09-24,Bundesliga,2023-24,Ein Frankfurt,Freiburg,0,0,7,3,4,2,0,0,0,10,6,0,0,0,2.05,3.6,3.4,2.16,3.66,3.42
+2023-09-29,Bundesliga,2023-24,Hoffenheim,Dortmund,1,3,4,3,3,4,0,1,4,7,7,1,1,1,3.1,4.0,2.05,3.15,4.16,2.12
+2023-09-30,Bundesliga,2023-24,Bochum,M'gladbach,1,3,5,10,2,3,0,0,4,15,5,0,1,1,2.3,3.75,2.9,2.32,3.88,2.96
+2023-09-30,Bundesliga,2023-24,FC Koln,Stuttgart,0,2,8,4,2,1,0,0,2,12,3,0,0,0,2.88,3.5,2.38,2.89,3.64,2.46
+2023-09-30,Bundesliga,2023-24,Heidenheim,Union Berlin,1,0,5,7,1,2,0,0,1,12,3,0,0,0,3.0,3.6,2.25,3.05,3.72,2.32
+2023-09-30,Bundesliga,2023-24,Mainz,Leverkusen,0,3,3,1,4,1,0,0,3,4,5,0,0,1,5.75,4.5,1.53,5.85,4.72,1.54
+2023-09-30,Bundesliga,2023-24,Wolfsburg,Ein Frankfurt,2,0,7,4,1,6,0,1,2,11,7,1,0,0,2.05,3.5,3.5,2.11,3.53,3.68
+2023-09-30,Bundesliga,2023-24,RB Leipzig,Bayern Munich,2,2,5,1,2,5,0,0,4,6,7,0,1,1,3.4,4.2,1.91,3.73,4.2,1.91
+2023-10-01,Bundesliga,2023-24,Darmstadt,Werder Bremen,4,2,2,4,3,2,0,0,6,6,5,0,1,1,2.8,3.8,2.3,2.82,3.74,2.47
+2023-10-01,Bundesliga,2023-24,Freiburg,Augsburg,2,0,2,3,2,2,0,0,2,5,4,0,0,0,1.73,4.0,4.75,1.73,4.19,4.68
+2023-10-06,Bundesliga,2023-24,M'gladbach,Mainz,2,2,10,3,3,1,0,0,4,13,4,0,1,1,2.05,3.75,3.4,2.08,3.93,3.48
+2023-10-07,Bundesliga,2023-24,Werder Bremen,Hoffenheim,2,3,4,4,5,4,0,0,5,8,9,0,1,1,2.75,3.75,2.4,2.75,3.92,2.44
+2023-10-07,Bundesliga,2023-24,Stuttgart,Wolfsburg,3,1,5,6,1,3,0,0,4,11,4,0,1,1,2.0,3.5,3.75,2.01,3.8,3.73
+2023-10-07,Bundesliga,2023-24,RB Leipzig,Bochum,0,0,9,1,2,4,0,0,0,10,6,0,0,0,1.25,6.0,11.0,1.25,6.87,10.85
+2023-10-07,Bundesliga,2023-24,Augsburg,Darmstadt,1,2,4,4,4,2,0,0,3,8,6,0,1,1,1.85,3.75,4.0,1.92,3.9,3.98
+2023-10-07,Bundesliga,2023-24,Dortmund,Union Berlin,4,2,4,6,1,1,0,0,6,10,2,0,1,1,1.57,4.33,5.25,1.61,4.51,5.28
+2023-10-08,Bundesliga,2023-24,Leverkusen,FC Koln,3,0,11,4,3,0,0,0,3,15,3,0,0,1,1.33,5.5,8.0,1.34,5.68,9.07
+2023-10-08,Bundesliga,2023-24,Bayern Munich,Freiburg,3,0,7,1,1,0,0,0,3,8,1,0,0,1,1.14,8.5,17.0,1.16,9.23,14.64
+2023-10-08,Bundesliga,2023-24,Ein Frankfurt,Heidenheim,2,0,3,6,2,3,0,0,2,9,5,0,0,0,1.7,4.0,4.75,1.74,4.12,4.7
+2023-10-20,Bundesliga,2023-24,Dortmund,Werder Bremen,1,0,10,4,1,5,0,0,1,14,6,0,0,0,1.29,6.5,8.0,1.3,6.69,8.63
+2023-10-21,Bundesliga,2023-24,Mainz,Bayern Munich,1,3,2,7,3,2,0,0,4,9,5,0,1,1,9.0,6.0,1.29,9.99,6.69,1.27
+2023-10-21,Bundesliga,2023-24,Wolfsburg,Leverkusen,1,2,4,3,3,5,0,0,3,7,8,0,1,1,4.33,4.0,1.75,4.52,4.2,1.75
+2023-10-21,Bundesliga,2023-24,Union Berlin,Stuttgart,0,3,4,2,2,1,0,0,3,6,3,0,0,1,2.5,3.5,2.7,2.56,3.58,2.79
+2023-10-21,Bundesliga,2023-24,Hoffenheim,Ein Frankfurt,1,3,6,3,3,0,0,0,4,9,3,0,1,1,2.1,3.5,3.4,2.15,3.72,3.4
+2023-10-21,Bundesliga,2023-24,Darmstadt,RB Leipzig,1,3,6,0,6,3,0,0,4,6,9,0,1,1,6.5,4.75,1.44,6.38,5.09,1.47
+2023-10-21,Bundesliga,2023-24,Freiburg,Bochum,2,1,5,2,3,4,0,0,3,7,7,0,1,1,1.7,3.75,5.0,1.76,4.02,4.73
+2023-10-22,Bundesliga,2023-24,FC Koln,M'gladbach,3,1,8,3,0,2,0,1,4,11,2,1,1,1,2.4,3.6,2.88,2.37,3.77,2.93
+2023-10-22,Bundesliga,2023-24,Heidenheim,Augsburg,2,5,6,5,3,2,0,0,7,11,5,0,1,1,2.45,3.5,2.8,2.42,3.69,2.91
+2023-10-27,Bundesliga,2023-24,Bochum,Mainz,2,2,5,4,3,3,0,0,4,9,6,0,1,1,2.7,3.3,2.55,2.78,3.57,2.57
+2023-10-28,Bundesliga,2023-24,RB Leipzig,FC Koln,6,0,11,1,2,4,0,1,6,12,6,1,0,1,1.44,4.75,7.0,1.44,5.05,7.18
+2023-10-28,Bundesliga,2023-24,Stuttgart,Hoffenheim,2,3,6,0,2,1,0,0,5,6,3,0,1,1,1.85,4.0,3.8,1.88,4.15,3.82
+2023-10-28,Bundesliga,2023-24,Werder Bremen,Union Berlin,2,0,3,3,1,4,0,1,2,6,5,1,0,0,2.7,3.3,2.6,2.73,3.61,2.6
+2023-10-28,Bundesliga,2023-24,Bayern Munich,Darmstadt,8,0,7,1,1,2,1,2,8,8,3,3,0,1,1.06,12.0,26.0,1.07,16.22,27.11
+2023-10-28,Bundesliga,2023-24,M'gladbach,Heidenheim,2,1,6,4,0,3,0,0,3,10,3,0,1,1,1.8,4.0,4.0,1.8,4.26,4.16
+2023-10-28,Bundesliga,2023-24,Augsburg,Wolfsburg,3,2,5,5,6,4,1,0,5,10,10,1,1,1,2.9,3.5,2.38,2.91,3.67,2.4
+2023-10-29,Bundesliga,2023-24,Ein Frankfurt,Dortmund,3,3,0,4,3,2,0,0,6,4,5,0,1,1,3.4,3.4,2.15,3.31,3.73,2.18
+2023-10-29,Bundesliga,2023-24,Leverkusen,Freiburg,2,1,11,4,0,2,0,0,3,15,2,0,1,1,1.29,5.5,11.0,1.29,6.08,10.27
+2023-11-03,Bundesliga,2023-24,Darmstadt,Bochum,1,2,11,2,2,5,1,0,3,13,7,1,1,1,2.3,3.75,2.88,2.41,3.61,2.98
+2023-11-04,Bundesliga,2023-24,Dortmund,Bayern Munich,0,4,3,2,3,2,0,0,4,5,5,0,0,1,4.0,4.33,1.75,3.77,4.42,1.84
+2023-11-04,Bundesliga,2023-24,Union Berlin,Ein Frankfurt,0,3,9,1,0,1,0,0,3,10,1,0,0,1,2.55,3.1,2.9,2.57,3.21,3.01
+2023-11-04,Bundesliga,2023-24,Mainz,RB Leipzig,2,0,2,7,3,1,0,0,2,9,4,0,0,0,5.75,4.2,1.6,5.42,4.56,1.58
+2023-11-04,Bundesliga,2023-24,Hoffenheim,Leverkusen,2,3,4,3,3,2,0,0,5,7,5,0,1,1,5.0,4.5,1.57,4.92,4.9,1.59
+2023-11-04,Bundesliga,2023-24,Freiburg,M'gladbach,3,3,8,2,2,2,0,0,6,10,4,0,1,1,2.1,3.8,3.2,2.08,4.0,3.31
+2023-11-04,Bundesliga,2023-24,FC Koln,Augsburg,1,1,10,2,1,4,0,0,2,12,5,0,1,0,2.3,3.6,2.9,2.32,3.75,2.97
+2023-11-05,Bundesliga,2023-24,Wolfsburg,Werder Bremen,2,2,5,2,4,1,1,0,4,7,5,1,1,1,1.7,4.33,4.33,1.74,4.29,4.37
+2023-11-05,Bundesliga,2023-24,Heidenheim,Stuttgart,2,0,9,6,2,2,0,0,2,15,4,0,0,0,4.5,4.33,1.65,4.59,4.39,1.69
+2023-11-10,Bundesliga,2023-24,M'gladbach,Wolfsburg,4,0,8,5,1,3,0,0,4,13,4,0,0,1,2.3,3.8,2.7,2.41,3.75,2.89
+2023-11-11,Bundesliga,2023-24,Bochum,FC Koln,1,1,3,3,4,1,0,0,2,6,5,0,1,0,2.45,3.4,2.88,2.46,3.7,2.81
+2023-11-11,Bundesliga,2023-24,Darmstadt,Mainz,0,0,0,5,3,3,0,0,0,5,6,0,0,0,3.1,3.5,2.25,3.04,3.72,2.3
+2023-11-11,Bundesliga,2023-24,Stuttgart,Dortmund,2,1,6,1,2,3,0,0,3,7,5,0,1,1,2.55,3.75,2.55,2.61,3.85,2.56
+2023-11-11,Bundesliga,2023-24,Augsburg,Hoffenheim,1,1,3,5,1,2,0,0,2,8,3,0,1,0,2.63,3.6,2.55,2.62,3.92,2.52
+2023-11-11,Bundesliga,2023-24,Bayern Munich,Heidenheim,4,2,7,2,1,0,0,0,6,9,1,0,1,1,1.06,17.0,21.0,1.06,18.13,28.2
+2023-11-12,Bundesliga,2023-24,Leverkusen,Union Berlin,4,0,10,1,0,1,0,0,4,11,1,0,0,1,1.29,6.0,9.0,1.29,6.09,10.4
+2023-11-12,Bundesliga,2023-24,Werder Bremen,Ein Frankfurt,2,2,3,7,1,3,0,0,4,10,4,0,1,1,3.1,3.4,2.3,3.01,3.6,2.36
+2023-11-12,Bundesliga,2023-24,RB Leipzig,Freiburg,3,1,7,3,2,0,0,0,4,10,2,0,1,1,1.44,5.0,6.5,1.46,4.96,6.59
+2023-11-24,Bundesliga,2023-24,FC Koln,Bayern Munich,0,1,3,12,0,1,0,0,1,15,1,0,0,0,9.0,7.0,1.25,10.64,6.78,1.25
+2023-11-25,Bundesliga,2023-24,Werder Bremen,Leverkusen,0,3,1,6,3,1,0,0,3,7,4,0,0,1,6.5,5.0,1.45,6.3,5.25,1.45
+2023-11-25,Bundesliga,2023-24,Dortmund,M'gladbach,4,2,5,4,1,2,0,0,6,9,3,0,1,1,1.45,5.5,5.25,1.48,5.38,5.62
+2023-11-25,Bundesliga,2023-24,Freiburg,Darmstadt,1,1,11,2,2,0,0,0,2,13,2,0,1,0,1.55,4.33,5.75,1.57,4.42,5.65
+2023-11-25,Bundesliga,2023-24,Union Berlin,Augsburg,1,1,3,4,2,2,0,0,2,7,4,0,1,0,1.95,3.6,3.8,2.01,3.65,3.79
+2023-11-25,Bundesliga,2023-24,Wolfsburg,RB Leipzig,2,1,1,12,4,2,0,0,3,13,6,0,1,1,3.6,4.0,1.91,3.79,3.97,1.93
+2023-11-25,Bundesliga,2023-24,Ein Frankfurt,Stuttgart,1,2,4,2,0,1,0,0,3,6,1,0,1,1,2.6,3.6,2.6,2.65,3.7,2.6
+2023-11-26,Bundesliga,2023-24,Heidenheim,Bochum,0,0,6,5,4,3,0,0,0,11,7,0,0,0,2.2,3.6,3.1,2.23,3.81,3.09
+2023-11-26,Bundesliga,2023-24,Hoffenheim,Mainz,1,1,4,5,4,4,0,0,2,9,8,0,1,0,1.85,3.8,3.8,1.85,4.08,4.01
+2023-12-01,Bundesliga,2023-24,Darmstadt,FC Koln,0,1,1,6,1,3,0,0,1,7,4,0,0,0,2.63,3.4,2.6,2.66,3.54,2.71
+2023-12-02,Bundesliga,2023-24,RB Leipzig,Heidenheim,2,1,5,3,2,2,0,0,3,8,4,0,1,1,1.25,7.0,9.0,1.24,7.2,10.19
+2023-12-02,Bundesliga,2023-24,Stuttgart,Werder Bremen,2,0,6,7,1,0,0,0,2,13,1,0,0,0,1.4,5.25,6.5,1.4,5.24,7.66
+2023-12-02,Bundesliga,2023-24,Bochum,Wolfsburg,3,1,6,6,6,2,0,0,4,12,8,0,1,1,2.63,3.6,2.55,2.67,3.6,2.62
+2023-12-02,Bundesliga,2023-24,M'gladbach,Hoffenheim,2,1,6,3,2,2,0,0,3,9,4,0,1,1,2.2,4.0,2.88,2.26,4.13,2.87
+2023-12-03,Bundesliga,2023-24,Leverkusen,Dortmund,1,1,16,1,3,2,0,0,2,17,5,0,1,0,1.62,4.5,4.75,1.68,4.46,4.59
+2023-12-03,Bundesliga,2023-24,Augsburg,Ein Frankfurt,2,1,2,4,1,1,0,0,3,6,2,0,1,1,2.63,3.6,2.55,2.69,3.6,2.61
+2023-12-03,Bundesliga,2023-24,Mainz,Freiburg,0,1,14,3,1,1,0,0,1,17,2,0,0,0,2.3,3.4,3.1,2.29,3.56,3.16
+2023-12-08,Bundesliga,2023-24,Hoffenheim,Bochum,3,1,4,5,3,2,0,0,4,9,5,0,1,1,1.67,4.2,4.75,1.73,4.32,4.52
+2023-12-09,Bundesliga,2023-24,Ein Frankfurt,Bayern Munich,5,1,1,9,1,2,0,0,6,10,3,0,1,1,9.0,5.5,1.3,8.96,6.05,1.31
+2023-12-09,Bundesliga,2023-24,Heidenheim,Darmstadt,3,2,8,3,2,2,0,0,5,11,4,0,1,1,2.05,3.5,3.5,2.07,3.73,3.53
+2023-12-09,Bundesliga,2023-24,Union Berlin,M'gladbach,3,1,6,7,1,3,0,0,4,13,4,0,1,1,2.1,3.5,3.4,2.18,3.68,3.29
+2023-12-09,Bundesliga,2023-24,Werder Bremen,Augsburg,2,0,5,2,1,2,0,0,2,7,3,0,0,0,2.38,3.6,2.8,2.45,3.71,2.81
+2023-12-09,Bundesliga,2023-24,Wolfsburg,Freiburg,0,1,5,3,1,4,0,0,1,8,5,0,0,0,2.25,3.5,3.1,2.29,3.78,3.0
+2023-12-09,Bundesliga,2023-24,Dortmund,RB Leipzig,2,3,6,6,1,3,1,0,5,12,4,1,1,1,2.6,3.6,2.55,2.59,3.87,2.57
+2023-12-10,Bundesliga,2023-24,FC Koln,Mainz,0,0,1,7,2,4,0,0,0,8,6,0,0,0,2.3,3.5,3.0,2.48,3.44,2.95
+2023-12-10,Bundesliga,2023-24,Stuttgart,Leverkusen,1,1,8,8,1,1,0,0,2,16,2,0,1,0,2.9,3.6,2.3,2.84,3.82,2.38
+2023-12-15,Bundesliga,2023-24,M'gladbach,Werder Bremen,2,2,4,3,4,2,0,0,4,7,6,0,1,1,2.0,4.0,3.3,2.01,4.02,3.54
+2023-12-16,Bundesliga,2023-24,Augsburg,Dortmund,1,1,4,7,2,1,0,0,2,11,3,0,1,0,3.5,4.2,1.91,3.64,4.24,1.91
+2023-12-16,Bundesliga,2023-24,Bochum,Union Berlin,3,0,6,4,2,2,0,0,3,10,4,0,0,1,2.7,3.4,2.6,2.68,3.48,2.68
+2023-12-16,Bundesliga,2023-24,Darmstadt,Wolfsburg,0,1,7,7,2,0,0,1,1,14,2,1,0,0,3.1,3.6,2.2,3.29,3.61,2.21
+2023-12-16,Bundesliga,2023-24,Mainz,Heidenheim,0,1,8,1,3,3,0,0,1,9,6,0,0,0,1.67,4.2,4.75,1.67,4.23,4.93
+2023-12-16,Bundesliga,2023-24,RB Leipzig,Hoffenheim,3,1,9,2,3,2,0,0,4,11,5,0,1,1,1.45,5.0,6.0,1.45,5.3,6.22
+2023-12-17,Bundesliga,2023-24,Freiburg,FC Koln,2,0,5,2,1,4,0,1,2,7,5,1,0,0,1.8,3.8,4.2,1.82,3.75,4.57
+2023-12-17,Bundesliga,2023-24,Leverkusen,Ein Frankfurt,3,0,5,5,1,1,0,0,3,10,2,0,0,1,1.36,5.0,8.5,1.36,5.67,7.93
+2023-12-17,Bundesliga,2023-24,Bayern Munich,Stuttgart,3,0,6,2,0,3,0,0,3,8,3,0,0,1,1.45,5.25,5.5,1.44,5.56,6.06
+2023-12-19,Bundesliga,2023-24,Hoffenheim,Darmstadt,3,3,8,3,2,4,0,0,6,11,6,0,1,1,1.44,5.0,6.5,1.45,5.14,6.78
+2023-12-19,Bundesliga,2023-24,Werder Bremen,RB Leipzig,1,1,1,4,4,2,0,0,2,5,6,0,1,0,5.0,4.5,1.57,5.13,4.76,1.6
+2023-12-19,Bundesliga,2023-24,Dortmund,Mainz,1,1,6,1,0,4,0,0,2,7,4,0,1,0,1.55,4.75,5.25,1.57,4.84,5.33
+2023-12-20,Bundesliga,2023-24,Union Berlin,FC Koln,2,0,4,5,0,0,0,0,2,9,0,0,0,0,1.95,3.6,3.8,1.95,3.59,4.09
+2023-12-20,Bundesliga,2023-24,Ein Frankfurt,M'gladbach,2,1,8,2,1,6,0,1,3,10,7,1,1,1,1.83,4.0,3.8,1.88,3.98,4.0
+2023-12-20,Bundesliga,2023-24,Heidenheim,Freiburg,3,2,7,4,3,4,0,0,5,11,7,0,1,1,2.8,3.6,2.38,2.9,3.58,2.44
+2023-12-20,Bundesliga,2023-24,Leverkusen,Bochum,4,0,4,3,0,2,0,0,4,7,2,0,0,1,1.17,8.0,15.0,1.18,8.42,13.23
+2023-12-20,Bundesliga,2023-24,Stuttgart,Augsburg,3,0,4,4,0,4,0,0,3,8,4,0,0,1,1.36,5.25,7.5,1.37,5.46,7.98
+2023-12-20,Bundesliga,2023-24,Wolfsburg,Bayern Munich,1,2,0,6,4,2,0,0,3,6,6,0,1,1,6.5,5.75,1.36,7.64,5.7,1.37
+2024-01-12,Bundesliga,2023-24,Bayern Munich,Hoffenheim,3,0,11,2,1,3,0,1,3,13,4,1,0,1,1.14,9.0,12.0,1.15,9.94,16.13
+2024-01-13,Bundesliga,2023-24,Augsburg,Leverkusen,0,1,0,12,3,1,0,0,1,12,4,0,0,0,5.25,4.75,1.5,5.74,4.65,1.54
+2024-01-13,Bundesliga,2023-24,FC Koln,Heidenheim,1,1,9,6,2,1,0,0,2,15,3,0,1,0,2.05,3.6,3.4,2.1,3.67,3.51
+2024-01-13,Bundesliga,2023-24,Freiburg,Union Berlin,0,0,4,3,0,2,0,0,0,7,2,0,0,0,2.05,3.6,3.5,2.1,3.62,3.54
+2024-01-13,Bundesliga,2023-24,Mainz,Wolfsburg,1,1,7,3,3,4,0,0,2,10,7,0,1,0,2.2,3.4,3.25,2.25,3.47,3.33
+2024-01-13,Bundesliga,2023-24,RB Leipzig,Ein Frankfurt,0,1,15,4,0,2,0,0,1,19,2,0,0,0,1.45,4.5,7.5,1.45,4.99,6.78
+2024-01-13,Bundesliga,2023-24,Darmstadt,Dortmund,0,3,3,4,1,3,0,0,3,7,4,0,0,1,5.25,4.5,1.53,5.5,4.91,1.53
+2024-01-14,Bundesliga,2023-24,Bochum,Werder Bremen,1,1,3,4,6,5,0,0,2,7,11,0,1,0,2.15,3.6,3.1,2.21,3.78,3.16
+2024-01-14,Bundesliga,2023-24,M'gladbach,Stuttgart,3,1,0,3,3,3,0,0,4,3,6,0,1,1,3.5,4.0,1.91,3.67,4.14,1.92
+2024-01-20,Bundesliga,2023-24,Heidenheim,Wolfsburg,1,1,4,2,0,1,0,0,2,6,1,0,1,0,2.7,3.5,2.55,2.78,3.5,2.58
+2024-01-20,Bundesliga,2023-24,RB Leipzig,Leverkusen,2,3,1,9,2,3,0,0,5,10,5,0,1,1,2.4,3.8,2.7,2.44,3.78,2.79
+2024-01-20,Bundesliga,2023-24,Freiburg,Hoffenheim,3,2,2,2,3,3,1,0,5,4,6,1,1,1,2.0,3.8,3.4,2.07,3.83,3.44
+2024-01-20,Bundesliga,2023-24,Bochum,Stuttgart,1,0,1,7,5,3,0,0,1,8,8,0,0,0,3.6,3.8,1.95,3.66,3.9,1.98
+2024-01-20,Bundesliga,2023-24,Darmstadt,Ein Frankfurt,2,2,4,1,1,1,0,0,4,5,2,0,1,1,3.8,3.75,1.91,3.91,3.71,1.96
+2024-01-20,Bundesliga,2023-24,FC Koln,Dortmund,0,4,13,4,2,2,0,0,4,17,4,0,0,1,4.5,4.0,1.73,4.27,4.29,1.76
+2024-01-21,Bundesliga,2023-24,Bayern Munich,Werder Bremen,0,1,10,2,2,1,0,0,1,12,3,0,0,0,1.09,11.0,21.0,1.08,11.78,20.98
+2024-01-21,Bundesliga,2023-24,M'gladbach,Augsburg,1,2,5,7,1,2,0,0,3,12,3,0,1,1,1.91,3.8,3.8,1.91,3.98,3.61
+2024-01-24,Bundesliga,2023-24,Bayern Munich,Union Berlin,1,0,12,1,2,4,0,0,1,13,6,0,0,0,1.18,7.0,17.0,1.15,8.7,17.25
+2024-01-26,Bundesliga,2023-24,Ein Frankfurt,Mainz,1,0,2,1,2,1,0,0,1,3,3,0,0,0,2.15,3.4,3.5,2.17,3.44,3.54
+2024-01-27,Bundesliga,2023-24,Augsburg,Bayern Munich,2,3,4,5,2,6,0,0,5,9,8,0,1,1,8.5,5.75,1.3,8.77,5.99,1.31
+2024-01-27,Bundesliga,2023-24,Hoffenheim,Heidenheim,1,1,9,5,4,0,0,0,2,14,4,0,1,0,1.67,4.5,4.33,1.7,4.28,4.64
+2024-01-27,Bundesliga,2023-24,Werder Bremen,Freiburg,3,1,5,5,2,1,0,0,4,10,3,0,1,1,2.4,3.5,2.88,2.45,3.52,2.94
+2024-01-27,Bundesliga,2023-24,Wolfsburg,FC Koln,1,1,6,3,5,3,0,0,2,9,8,0,1,0,1.83,3.75,4.2,1.83,3.83,4.41
+2024-01-27,Bundesliga,2023-24,Leverkusen,M'gladbach,0,0,8,2,3,1,0,0,0,10,4,0,0,0,1.29,5.5,10.0,1.27,6.56,9.6
+2024-01-27,Bundesliga,2023-24,Stuttgart,RB Leipzig,5,2,9,3,1,4,0,0,7,12,5,0,1,1,2.63,3.8,2.4,2.75,3.82,2.45
+2024-01-28,Bundesliga,2023-24,Union Berlin,Darmstadt,1,0,4,3,3,2,0,0,1,7,5,0,0,0,1.62,3.8,5.75,1.64,3.92,5.85
+2024-01-28,Bundesliga,2023-24,Dortmund,Bochum,3,1,8,4,1,3,0,0,4,12,4,0,1,1,1.36,5.5,7.5,1.38,5.7,7.32
+2024-02-02,Bundesliga,2023-24,Heidenheim,Dortmund,0,0,4,6,0,2,0,0,0,10,2,0,0,0,3.75,4.5,1.8,3.99,4.34,1.82
+2024-02-03,Bundesliga,2023-24,Mainz,Werder Bremen,0,1,11,1,4,3,0,0,1,12,7,0,0,0,2.1,3.5,3.5,2.12,3.52,3.59
+2024-02-03,Bundesliga,2023-24,FC Koln,Ein Frankfurt,2,0,7,7,1,4,0,2,2,14,5,2,0,0,3.25,3.4,2.2,3.31,3.47,2.26
+2024-02-03,Bundesliga,2023-24,Freiburg,Stuttgart,1,3,1,6,4,2,1,0,4,7,6,1,1,1,3.1,3.6,2.2,3.15,3.79,2.21
+2024-02-03,Bundesliga,2023-24,Bochum,Augsburg,1,1,3,5,3,1,0,0,2,8,4,0,1,0,2.15,3.4,3.4,2.21,3.65,3.25
+2024-02-03,Bundesliga,2023-24,Bayern Munich,M'gladbach,3,1,6,5,0,1,0,0,4,11,1,0,1,1,1.14,9.5,13.0,1.15,9.2,16.53
+2024-02-03,Bundesliga,2023-24,Darmstadt,Leverkusen,0,2,4,3,2,2,0,0,2,7,4,0,0,0,9.5,6.5,1.25,9.27,6.36,1.28
+2024-02-04,Bundesliga,2023-24,Wolfsburg,Hoffenheim,2,2,7,2,2,3,0,0,4,9,5,0,1,1,2.1,3.75,3.2,2.14,3.83,3.28
+2024-02-04,Bundesliga,2023-24,RB Leipzig,Union Berlin,2,0,5,4,1,2,0,1,2,9,3,1,0,0,1.4,5.0,7.5,1.4,4.98,7.93
+2024-02-07,Bundesliga,2023-24,Mainz,Union Berlin,1,1,8,3,2,4,0,0,2,11,6,0,1,0,2.15,3.3,3.5,2.22,3.29,3.58
+2024-02-09,Bundesliga,2023-24,Dortmund,Freiburg,3,0,5,3,2,0,0,0,3,8,2,0,0,1,1.45,4.75,6.5,1.47,5.13,6.36
+2024-02-10,Bundesliga,2023-24,Leverkusen,Bayern Munich,3,0,4,6,3,2,0,0,3,10,5,0,0,1,2.63,3.8,2.4,2.68,3.9,2.47
+2024-02-10,Bundesliga,2023-24,Werder Bremen,Heidenheim,1,2,5,10,1,2,0,0,3,15,3,0,1,1,1.8,3.8,4.33,1.86,3.79,4.25
+2024-02-10,Bundesliga,2023-24,Union Berlin,Wolfsburg,1,0,6,10,1,2,0,0,1,16,3,0,0,0,2.25,3.4,3.2,2.35,3.37,3.22
+2024-02-10,Bundesliga,2023-24,M'gladbach,Darmstadt,0,0,7,2,0,5,0,0,0,9,5,0,0,0,1.6,4.5,5.0,1.61,4.33,5.44
+2024-02-10,Bundesliga,2023-24,Augsburg,RB Leipzig,2,2,1,3,5,1,0,0,4,4,6,0,1,1,4.0,4.2,1.75,4.19,4.26,1.78
+2024-02-10,Bundesliga,2023-24,Ein Frankfurt,Bochum,1,1,8,3,2,2,0,0,2,11,4,0,1,0,1.73,3.8,4.75,1.76,3.82,4.86
+2024-02-11,Bundesliga,2023-24,Stuttgart,Mainz,3,1,4,5,1,1,0,0,4,9,2,0,1,1,1.44,4.5,7.5,1.44,4.77,7.45
+2024-02-11,Bundesliga,2023-24,Hoffenheim,FC Koln,1,1,10,3,3,4,0,0,2,13,7,0,1,0,1.8,3.8,4.33,1.86,3.9,4.12
+2024-02-16,Bundesliga,2023-24,FC Koln,Werder Bremen,0,1,5,3,4,4,0,0,1,8,8,0,0,0,2.4,3.4,2.88,2.57,3.38,2.92
+2024-02-17,Bundesliga,2023-24,RB Leipzig,M'gladbach,2,0,8,4,1,5,0,0,2,12,6,0,0,0,1.36,5.5,7.0,1.38,5.63,7.27
+2024-02-17,Bundesliga,2023-24,Wolfsburg,Dortmund,1,1,5,3,3,1,0,0,2,8,4,0,1,0,3.2,3.8,2.1,3.32,3.79,2.13
+2024-02-17,Bundesliga,2023-24,Mainz,Augsburg,1,0,7,7,3,2,0,1,1,14,5,1,0,0,2.0,3.5,3.8,2.03,3.66,3.72
+2024-02-17,Bundesliga,2023-24,Heidenheim,Leverkusen,1,2,4,5,2,1,0,0,3,9,3,0,1,1,8.0,5.75,1.33,8.03,5.8,1.35
+2024-02-17,Bundesliga,2023-24,Darmstadt,Stuttgart,1,2,5,3,4,5,0,1,3,8,9,1,1,1,6.5,4.75,1.44,6.88,4.89,1.45
+2024-02-17,Bundesliga,2023-24,Hoffenheim,Union Berlin,0,1,6,2,3,4,1,1,1,8,7,2,0,0,2.0,3.6,3.6,2.06,3.71,3.58
+2024-02-18,Bundesliga,2023-24,Freiburg,Ein Frankfurt,3,3,6,1,0,0,0,0,6,7,0,0,1,1,2.3,3.4,3.1,2.33,3.38,3.24
+2024-02-18,Bundesliga,2023-24,Bochum,Bayern Munich,3,2,4,9,2,4,0,1,5,13,6,1,1,1,8.0,5.75,1.33,8.13,5.93,1.34
+2024-02-23,Bundesliga,2023-24,Leverkusen,Mainz,2,1,11,2,3,5,0,1,3,13,8,1,1,1,1.22,6.5,13.0,1.26,6.53,12.14
+2024-02-24,Bundesliga,2023-24,M'gladbach,Bochum,5,2,5,6,2,4,0,0,7,11,6,0,1,1,2.0,3.8,3.5,2.02,3.77,3.65
+2024-02-24,Bundesliga,2023-24,Stuttgart,FC Koln,1,1,9,4,1,0,0,0,2,13,1,0,1,0,1.3,5.25,10.0,1.32,5.75,9.52
+2024-02-24,Bundesliga,2023-24,Union Berlin,Heidenheim,2,2,4,2,2,1,0,0,4,6,3,0,1,1,2.0,3.5,3.75,2.04,3.49,3.89
+2024-02-24,Bundesliga,2023-24,Bayern Munich,RB Leipzig,2,1,6,4,3,3,0,0,3,10,6,0,1,1,1.67,4.33,4.5,1.7,4.4,4.53
+2024-02-24,Bundesliga,2023-24,Werder Bremen,Darmstadt,1,1,4,6,3,4,0,0,2,10,7,0,1,0,1.65,4.2,5.0,1.69,3.94,5.22
+2024-02-25,Bundesliga,2023-24,Ein Frankfurt,Wolfsburg,2,2,5,3,2,1,0,0,4,8,3,0,1,1,2.25,3.4,3.2,2.29,3.48,3.24
+2024-02-25,Bundesliga,2023-24,Dortmund,Hoffenheim,2,3,10,3,2,3,0,0,5,13,5,0,1,1,1.5,5.0,5.5,1.51,5.16,5.52
+2024-02-25,Bundesliga,2023-24,Augsburg,Freiburg,2,1,10,2,3,1,0,0,3,12,4,0,1,1,2.2,3.6,3.1,2.28,3.66,3.11
+2024-03-01,Bundesliga,2023-24,Freiburg,Bayern Munich,2,2,3,6,1,2,0,0,4,9,3,0,1,1,5.75,4.75,1.5,6.11,4.86,1.51
+2024-03-02,Bundesliga,2023-24,Mainz,M'gladbach,1,1,12,6,5,1,1,0,2,18,6,1,1,0,1.91,3.75,3.75,1.98,3.81,3.73
+2024-03-02,Bundesliga,2023-24,Union Berlin,Dortmund,0,2,8,7,2,1,0,0,2,15,3,0,0,0,3.4,3.6,2.05,3.44,3.62,2.14
+2024-03-02,Bundesliga,2023-24,Wolfsburg,Stuttgart,2,3,5,4,3,2,0,0,5,9,5,0,1,1,3.3,3.5,2.15,3.34,3.56,2.2
+2024-03-02,Bundesliga,2023-24,Heidenheim,Ein Frankfurt,1,2,7,3,1,4,0,0,3,10,5,0,1,1,2.8,3.3,2.5,2.84,3.39,2.59
+2024-03-02,Bundesliga,2023-24,Bochum,RB Leipzig,1,4,2,5,3,2,1,0,5,7,5,1,1,1,5.0,4.2,1.62,4.76,4.44,1.66
+2024-03-02,Bundesliga,2023-24,Darmstadt,Augsburg,0,6,3,6,2,0,0,0,6,9,2,0,0,1,2.9,3.3,2.4,2.93,3.47,2.48
+2024-03-03,Bundesliga,2023-24,FC Koln,Leverkusen,0,2,1,9,2,2,1,0,2,10,4,1,0,0,9.0,4.75,1.36,8.08,5.15,1.39
+2024-03-03,Bundesliga,2023-24,Hoffenheim,Werder Bremen,2,1,3,3,5,1,1,0,3,6,6,1,1,1,1.91,4.0,3.6,1.97,3.87,3.72
+2024-03-08,Bundesliga,2023-24,Stuttgart,Union Berlin,2,0,4,3,1,2,0,1,2,7,3,1,0,0,1.45,4.5,7.0,1.48,4.62,7.08
+2024-03-09,Bundesliga,2023-24,Augsburg,Heidenheim,1,0,5,2,1,3,0,0,1,7,4,0,0,0,1.85,4.2,3.5,1.88,3.89,4.07
+2024-03-09,Bundesliga,2023-24,Bayern Munich,Mainz,8,1,6,7,1,1,0,0,9,13,2,0,1,1,1.25,7.0,10.0,1.23,6.97,11.21
+2024-03-09,Bundesliga,2023-24,M'gladbach,FC Koln,3,3,8,3,3,4,0,0,6,11,7,0,1,1,1.83,4.0,4.0,1.85,3.77,4.32
+2024-03-09,Bundesliga,2023-24,RB Leipzig,Darmstadt,2,0,8,4,0,3,0,0,2,12,3,0,0,0,1.14,8.5,15.0,1.15,8.79,16.82
+2024-03-09,Bundesliga,2023-24,Werder Bremen,Dortmund,1,2,10,4,1,2,0,1,3,14,3,1,1,1,3.5,4.33,1.85,3.87,4.06,1.88
+2024-03-10,Bundesliga,2023-24,Bochum,Freiburg,1,2,12,5,3,7,0,0,3,17,10,0,1,1,2.2,3.75,3.0,2.27,3.65,3.13
+2024-03-10,Bundesliga,2023-24,Ein Frankfurt,Hoffenheim,3,1,5,1,2,3,0,2,4,6,5,2,1,1,2.0,4.0,3.3,2.06,3.9,3.43
+2024-03-10,Bundesliga,2023-24,Leverkusen,Wolfsburg,2,0,9,2,1,3,0,1,2,11,4,1,0,0,1.33,5.75,8.5,1.32,5.89,9.05
+2024-03-15,Bundesliga,2023-24,FC Koln,RB Leipzig,1,5,3,6,2,2,0,0,6,9,4,0,1,1,6.5,4.75,1.45,6.61,4.86,1.48
+2024-03-16,Bundesliga,2023-24,Hoffenheim,Stuttgart,0,3,5,6,1,0,0,0,3,11,1,0,0,1,3.8,4.0,1.83,3.77,4.23,1.88
+2024-03-16,Bundesliga,2023-24,Union Berlin,Werder Bremen,2,1,4,3,3,5,0,0,3,7,8,0,1,1,2.05,3.4,3.8,2.02,3.64,3.79
+2024-03-16,Bundesliga,2023-24,Wolfsburg,Augsburg,1,3,8,6,1,3,1,0,4,14,4,1,1,1,2.05,3.5,3.5,2.12,3.65,3.46
+2024-03-16,Bundesliga,2023-24,Heidenheim,M'gladbach,1,1,10,4,1,3,0,0,2,14,4,0,1,0,2.45,3.6,2.7,2.49,3.63,2.8
+2024-03-16,Bundesliga,2023-24,Mainz,Bochum,2,0,7,6,4,3,0,0,2,13,7,0,0,0,1.8,3.8,4.33,1.79,3.88,4.58
+2024-03-16,Bundesliga,2023-24,Darmstadt,Bayern Munich,2,5,2,9,1,0,0,0,7,11,1,0,1,1,17.0,8.0,1.14,17.12,9.56,1.14
+2024-03-17,Bundesliga,2023-24,Freiburg,Leverkusen,2,3,2,8,1,0,0,0,5,10,1,0,1,1,6.0,4.33,1.53,5.92,4.39,1.56
+2024-03-17,Bundesliga,2023-24,Dortmund,Ein Frankfurt,3,1,8,3,1,2,0,0,4,11,3,0,1,1,1.62,4.2,5.0,1.63,4.47,5.01
+2024-03-30,Bundesliga,2023-24,Ein Frankfurt,Union Berlin,0,0,6,2,3,1,0,0,0,8,4,0,0,0,2.0,3.5,3.8,2.07,3.41,3.88
+2024-03-30,Bundesliga,2023-24,Leverkusen,Hoffenheim,2,1,9,2,0,1,0,0,3,11,1,0,1,1,1.2,7.5,12.0,1.21,7.55,11.72
+2024-03-30,Bundesliga,2023-24,M'gladbach,Freiburg,0,3,14,1,1,0,0,0,3,15,1,0,0,1,2.2,3.6,3.2,2.21,3.72,3.19
+2024-03-30,Bundesliga,2023-24,RB Leipzig,Mainz,0,0,12,2,2,5,0,0,0,14,7,0,0,0,1.4,5.25,7.5,1.39,5.34,7.66
+2024-03-30,Bundesliga,2023-24,Werder Bremen,Wolfsburg,0,2,3,6,4,4,1,1,2,9,8,2,0,0,2.88,3.5,2.4,2.88,3.61,2.44
+2024-03-30,Bundesliga,2023-24,Bayern Munich,Dortmund,0,2,7,4,0,0,0,0,2,11,0,0,0,0,1.4,5.75,6.0,1.39,5.92,6.7
+2024-03-31,Bundesliga,2023-24,Augsburg,FC Koln,1,1,12,6,0,3,0,0,2,18,3,0,1,0,1.75,4.0,4.5,1.81,3.84,4.51
+2024-03-31,Bundesliga,2023-24,Stuttgart,Heidenheim,3,3,6,7,1,0,0,1,6,13,1,1,1,1,1.25,6.0,10.0,1.26,6.51,10.08
+2024-03-31,Bundesliga,2023-24,Bochum,Darmstadt,2,2,6,5,2,2,0,0,4,11,4,0,1,1,1.62,4.0,5.25,1.63,4.3,5.25
+2024-04-05,Bundesliga,2023-24,Ein Frankfurt,Werder Bremen,1,1,9,0,3,2,1,1,2,9,5,2,1,0,1.75,3.8,4.5,1.78,4.02,4.56
+2024-04-06,Bundesliga,2023-24,Dortmund,Stuttgart,0,1,8,3,2,4,0,0,1,11,6,0,0,0,2.25,4.0,2.8,2.31,3.95,2.88
+2024-04-06,Bundesliga,2023-24,Mainz,Darmstadt,4,0,5,1,2,3,0,0,4,6,5,0,0,1,1.4,5.0,7.5,1.41,4.97,7.93
+2024-04-06,Bundesliga,2023-24,Union Berlin,Leverkusen,0,1,7,10,3,2,1,0,1,17,5,1,0,0,5.75,4.33,1.55,6.19,4.31,1.55
+2024-04-06,Bundesliga,2023-24,Freiburg,RB Leipzig,1,4,8,4,3,4,0,0,5,12,7,0,1,1,4.75,4.33,1.65,4.79,4.31,1.68
+2024-04-06,Bundesliga,2023-24,FC Koln,Bochum,2,1,9,4,3,3,0,0,3,13,6,0,1,1,2.25,3.5,3.1,2.33,3.63,3.05
+2024-04-06,Bundesliga,2023-24,Heidenheim,Bayern Munich,3,2,3,3,2,0,0,0,5,6,2,0,1,1,6.5,6.0,1.36,7.05,6.07,1.37
+2024-04-07,Bundesliga,2023-24,Hoffenheim,Augsburg,3,1,11,6,3,1,0,0,4,17,4,0,1,1,2.2,4.0,2.9,2.29,3.94,2.92
+2024-04-07,Bundesliga,2023-24,Wolfsburg,M'gladbach,1,3,4,4,2,2,0,0,4,8,4,0,1,1,1.85,4.0,3.8,1.9,3.89,3.97
+2024-04-12,Bundesliga,2023-24,Augsburg,Union Berlin,2,0,5,4,1,1,0,0,2,9,2,0,0,0,2.1,3.4,3.4,2.15,3.52,3.59
+2024-04-13,Bundesliga,2023-24,Stuttgart,Ein Frankfurt,3,0,4,5,1,3,0,0,3,9,4,0,0,1,1.53,4.5,5.5,1.51,4.76,6.01
+2024-04-13,Bundesliga,2023-24,M'gladbach,Dortmund,1,2,2,4,1,4,0,1,3,6,5,1,1,1,3.25,4.0,2.0,3.29,4.24,2.02
+2024-04-13,Bundesliga,2023-24,RB Leipzig,Wolfsburg,3,0,6,4,2,4,0,0,3,10,6,0,0,1,1.36,5.0,8.0,1.36,5.66,7.8
+2024-04-13,Bundesliga,2023-24,Bochum,Heidenheim,1,1,6,2,4,1,0,0,2,8,5,0,1,0,2.05,3.75,3.3,2.1,3.71,3.47
+2024-04-13,Bundesliga,2023-24,Bayern Munich,FC Koln,2,0,5,5,0,3,0,0,2,10,3,0,0,0,1.22,7.5,11.0,1.18,8.25,13.01
+2024-04-13,Bundesliga,2023-24,Mainz,Hoffenheim,4,1,9,3,0,2,0,0,5,12,2,0,1,1,1.95,4.0,3.4,2.0,3.91,3.58
+2024-04-14,Bundesliga,2023-24,Darmstadt,Freiburg,0,1,2,2,0,1,0,0,1,4,1,0,0,0,4.0,3.8,1.83,3.98,3.98,1.88
+2024-04-14,Bundesliga,2023-24,Leverkusen,Werder Bremen,5,0,7,0,2,1,0,0,5,7,3,0,0,1,1.2,7.0,13.0,1.2,7.49,12.7
+2024-04-19,Bundesliga,2023-24,Ein Frankfurt,Augsburg,3,1,6,5,3,3,0,0,4,11,6,0,1,1,2.0,3.75,3.5,2.06,3.76,3.6
+2024-04-20,Bundesliga,2023-24,Union Berlin,Bayern Munich,1,5,5,3,0,0,0,0,6,8,0,0,1,1,4.75,4.5,1.62,4.94,4.62,1.62
+2024-04-20,Bundesliga,2023-24,FC Koln,Darmstadt,0,2,4,3,0,1,0,0,2,7,1,0,0,0,1.5,4.75,5.75,1.49,4.61,6.76
+2024-04-20,Bundesliga,2023-24,Heidenheim,RB Leipzig,1,2,2,6,3,1,0,0,3,8,4,0,1,1,5.75,5.25,1.45,6.19,5.19,1.46
+2024-04-20,Bundesliga,2023-24,Hoffenheim,M'gladbach,4,3,6,5,1,3,0,0,7,11,4,0,1,1,2.1,4.0,3.1,2.16,4.04,3.09
+2024-04-20,Bundesliga,2023-24,Wolfsburg,Bochum,1,0,5,8,4,3,0,0,1,13,7,0,0,0,1.75,4.0,4.33,1.81,3.88,4.43
+2024-04-21,Bundesliga,2023-24,Freiburg,Mainz,1,1,2,4,3,4,0,0,2,6,7,0,1,0,2.6,3.5,2.6,2.58,3.59,2.72
+2024-04-21,Bundesliga,2023-24,Werder Bremen,Stuttgart,2,1,1,7,3,3,0,0,3,8,6,0,1,1,4.75,4.75,1.57,5.11,4.66,1.6
+2024-04-21,Bundesliga,2023-24,Dortmund,Leverkusen,1,1,2,6,4,3,0,0,2,8,7,0,1,0,2.55,3.8,2.55,2.56,3.84,2.5
+2024-04-26,Bundesliga,2023-24,Bochum,Hoffenheim,3,2,10,4,1,1,0,0,5,14,2,0,1,1,2.15,4.0,2.9,2.21,4.0,3.06
+2024-04-27,Bundesliga,2023-24,Augsburg,Werder Bremen,0,3,6,4,1,2,0,0,3,10,3,0,0,1,1.8,4.0,4.0,1.8,4.19,4.13
+2024-04-27,Bundesliga,2023-24,Bayern Munich,Ein Frankfurt,2,1,4,2,0,3,0,0,3,6,3,0,1,1,1.4,5.25,7.0,1.42,5.46,6.65
+2024-04-27,Bundesliga,2023-24,Freiburg,Wolfsburg,1,2,3,6,4,2,1,0,3,9,6,1,1,1,2.3,3.6,2.88,2.37,3.58,3.01
+2024-04-27,Bundesliga,2023-24,RB Leipzig,Dortmund,4,1,5,8,1,2,0,0,5,13,3,0,1,1,1.67,4.33,4.5,1.68,4.45,4.61
+2024-04-27,Bundesliga,2023-24,Leverkusen,Stuttgart,2,2,5,2,4,3,0,0,4,7,7,0,1,1,1.75,4.2,4.33,1.76,4.31,4.25
+2024-04-28,Bundesliga,2023-24,Mainz,FC Koln,1,1,6,6,4,4,1,0,2,12,8,1,1,0,1.55,4.33,6.0,1.54,4.37,6.2
+2024-04-28,Bundesliga,2023-24,M'gladbach,Union Berlin,0,0,3,4,2,2,0,0,0,7,4,0,0,0,2.3,3.5,3.0,2.38,3.45,3.1
+2024-04-28,Bundesliga,2023-24,Darmstadt,Heidenheim,0,1,3,8,2,1,0,0,1,11,3,0,0,0,3.3,3.75,2.1,3.42,3.71,2.12
+2024-05-03,Bundesliga,2023-24,Hoffenheim,RB Leipzig,1,1,4,4,1,3,0,1,2,8,4,1,1,0,5.25,5.0,1.5,5.44,5.24,1.52
+2024-05-04,Bundesliga,2023-24,Wolfsburg,Darmstadt,3,0,9,2,0,3,0,0,3,11,3,0,0,1,1.4,5.0,8.0,1.4,5.13,7.8
+2024-05-04,Bundesliga,2023-24,Werder Bremen,M'gladbach,2,2,7,2,0,0,0,0,4,9,0,0,1,1,2.25,3.75,3.0,2.31,3.83,2.94
+2024-05-04,Bundesliga,2023-24,FC Koln,Freiburg,0,0,7,1,1,1,0,0,0,8,2,0,0,0,2.3,3.75,2.88,2.37,3.66,2.95
+2024-05-04,Bundesliga,2023-24,Dortmund,Augsburg,5,1,6,9,0,1,0,0,6,15,1,0,1,1,1.85,4.33,3.6,1.86,4.37,3.7
+2024-05-04,Bundesliga,2023-24,Stuttgart,Bayern Munich,3,1,3,1,1,2,0,0,4,4,3,0,1,1,2.1,4.0,3.1,2.13,4.14,3.09
+2024-05-05,Bundesliga,2023-24,Ein Frankfurt,Leverkusen,1,5,10,5,0,0,0,0,6,15,0,0,1,1,3.2,3.5,2.2,3.27,3.68,2.19
+2024-05-05,Bundesliga,2023-24,Heidenheim,Mainz,1,1,6,3,2,3,0,0,2,9,5,0,1,0,3.0,3.5,2.3,3.03,3.58,2.36
+2024-05-05,Bundesliga,2023-24,Union Berlin,Bochum,3,4,6,4,0,1,0,0,7,10,1,0,1,1,1.95,3.5,4.0,1.97,3.51,4.12
+2024-05-10,Bundesliga,2023-24,Augsburg,Stuttgart,0,1,5,5,4,2,0,0,1,10,6,0,0,0,4.0,4.2,1.75,3.92,4.45,1.82
+2024-05-11,Bundesliga,2023-24,FC Koln,Union Berlin,3,2,6,8,3,2,0,0,5,14,5,0,1,1,2.8,3.3,2.55,2.79,3.39,2.63
+2024-05-11,Bundesliga,2023-24,Freiburg,Heidenheim,1,1,2,4,1,1,0,0,2,6,2,0,1,0,1.7,4.0,4.5,1.72,4.07,4.78
+2024-05-11,Bundesliga,2023-24,M'gladbach,Ein Frankfurt,1,1,2,8,1,0,0,0,2,10,1,0,1,0,2.45,3.75,2.63,2.53,3.73,2.7
+2024-05-11,Bundesliga,2023-24,RB Leipzig,Werder Bremen,1,1,4,3,1,0,0,0,2,7,1,0,1,0,1.29,6.5,8.0,1.29,6.72,8.41
+2024-05-11,Bundesliga,2023-24,Mainz,Dortmund,3,0,4,2,2,2,0,0,3,6,4,0,0,1,2.2,3.6,3.1,2.19,3.97,3.08
+2024-05-12,Bundesliga,2023-24,Darmstadt,Hoffenheim,0,6,2,3,3,0,0,0,6,5,3,0,0,1,4.75,4.5,1.62,4.67,4.73,1.64
+2024-05-12,Bundesliga,2023-24,Bayern Munich,Wolfsburg,2,0,4,0,0,2,0,0,2,4,2,0,0,0,1.33,6.0,7.5,1.34,6.36,7.4
+2024-05-12,Bundesliga,2023-24,Bochum,Leverkusen,0,5,2,6,2,1,1,0,5,8,3,1,0,1,4.2,4.33,1.7,4.42,4.35,1.72
+2024-05-18,Bundesliga,2023-24,Stuttgart,M'gladbach,4,0,8,4,1,2,0,0,4,12,3,0,0,1,1.29,6.25,8.5,1.28,6.62,8.47
+2024-05-18,Bundesliga,2023-24,Union Berlin,Freiburg,2,1,3,7,7,4,0,0,3,10,11,0,1,1,2.1,3.4,3.5,2.15,3.39,3.57
+2024-05-18,Bundesliga,2023-24,Leverkusen,Augsburg,2,1,5,4,0,1,0,0,3,9,1,0,1,1,1.3,6.0,9.0,1.3,6.65,7.63
+2024-05-18,Bundesliga,2023-24,Werder Bremen,Bochum,4,1,8,8,1,1,0,0,5,16,2,0,1,1,2.38,3.6,2.8,2.37,3.61,2.94
+2024-05-18,Bundesliga,2023-24,Heidenheim,FC Koln,4,1,5,12,1,3,0,0,5,17,4,0,1,1,2.3,4.0,2.7,2.35,4.0,2.74
+2024-05-18,Bundesliga,2023-24,Ein Frankfurt,RB Leipzig,2,2,8,3,2,2,0,0,4,11,4,0,1,1,2.8,3.8,2.3,2.78,3.75,2.43
+2024-05-18,Bundesliga,2023-24,Dortmund,Darmstadt,4,0,7,3,0,3,0,0,4,10,3,0,0,1,1.17,8.5,13.0,1.15,9.67,14.01
+2024-05-18,Bundesliga,2023-24,Hoffenheim,Bayern Munich,4,2,6,5,3,1,0,0,6,11,4,0,1,1,2.88,4.5,2.0,3.07,4.34,2.07
+2024-05-18,Bundesliga,2023-24,Wolfsburg,Mainz,1,3,1,3,2,3,0,0,4,4,5,0,1,1,3.2,3.5,2.2,3.28,3.54,2.21

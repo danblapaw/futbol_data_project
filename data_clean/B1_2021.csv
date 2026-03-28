@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2020-08-08,First Division A,2020-21,Club Brugge,Charleroi,0,1,10,2,2,3,0,0,1,12,5,0,0,0
-2020-08-08,First Division A,2020-21,Antwerp,Mouscron,1,1,7,3,2,1,0,0,2,10,3,0,1,0
-2020-08-08,First Division A,2020-21,Standard,Cercle Brugge,1,0,5,4,1,1,0,0,1,9,2,0,0,0
-2020-08-09,First Division A,2020-21,St Truiden,Gent,2,1,6,3,2,2,0,0,3,9,4,0,1,1
-2020-08-09,First Division A,2020-21,Waregem,Genk,1,2,9,8,3,1,0,0,3,17,4,0,1,1
-2020-08-09,First Division A,2020-21,Mechelen,Anderlecht,2,2,2,7,3,3,0,0,4,9,6,0,1,1
-2020-08-09,First Division A,2020-21,Kortrijk,Waasland-Beveren,1,3,4,1,2,4,0,0,4,5,6,0,1,1
-2020-08-10,First Division A,2020-21,Oostende,Beerschot VA,1,2,12,7,3,2,0,0,3,19,5,0,1,1
-2020-08-10,First Division A,2020-21,Oud-Heverlee Leuven,Eupen,1,1,5,8,1,2,0,0,2,13,3,0,1,0
-2020-08-14,First Division A,2020-21,Mouscron,Mechelen,0,1,5,5,3,3,0,0,1,10,6,0,0,0
-2020-08-15,First Division A,2020-21,Genk,Oud-Heverlee Leuven,1,1,7,1,1,1,0,0,2,8,2,0,1,0
-2020-08-15,First Division A,2020-21,Charleroi,Oostende,1,0,8,7,1,2,0,0,1,15,3,0,0,0
-2020-08-15,First Division A,2020-21,Gent,Kortrijk,1,2,6,5,0,1,0,0,3,11,1,0,1,1
-2020-08-16,First Division A,2020-21,Eupen,Club Brugge,0,4,6,6,0,0,0,0,4,12,0,0,0,1
-2020-08-16,First Division A,2020-21,Cercle Brugge,Antwerp,2,1,5,2,1,1,0,0,3,7,2,0,1,1
-2020-08-16,First Division A,2020-21,Beerschot VA,Waregem,3,1,3,5,3,2,0,0,4,8,5,0,1,1
-2020-08-16,First Division A,2020-21,Anderlecht,St Truiden,3,1,2,1,2,0,0,1,4,3,2,1,1,1
-2020-08-17,First Division A,2020-21,Waasland-Beveren,Standard,1,2,4,8,3,3,0,0,3,12,6,0,1,1
-2020-08-21,First Division A,2020-21,Kortrijk,Eupen,0,0,1,5,2,2,0,0,0,6,4,0,0,0
-2020-08-22,First Division A,2020-21,Waregem,Waasland-Beveren,4,1,7,2,3,1,0,0,5,9,4,0,1,1
-2020-08-22,First Division A,2020-21,Mechelen,Cercle Brugge,2,3,6,8,4,2,0,0,5,14,6,0,1,1
-2020-08-22,First Division A,2020-21,Oud-Heverlee Leuven,Charleroi,1,3,6,5,1,4,0,1,4,11,5,1,1,1
-2020-08-22,First Division A,2020-21,Antwerp,Gent,1,0,3,6,0,0,0,0,1,9,0,0,0,0
-2020-08-23,First Division A,2020-21,Standard,Genk,0,0,6,5,6,2,1,0,0,11,8,1,0,0
-2020-08-23,First Division A,2020-21,Club Brugge,Beerschot VA,0,1,5,1,1,0,0,0,1,6,1,0,0,0
-2020-08-23,First Division A,2020-21,Anderlecht,Mouscron,1,1,12,2,2,2,0,1,2,14,4,1,1,0
-2020-08-24,First Division A,2020-21,St Truiden,Oostende,0,0,4,5,1,7,1,1,0,9,8,2,0,0
-2020-08-28,First Division A,2020-21,Oostende,Anderlecht,2,2,5,4,3,3,0,0,4,9,6,0,1,1
-2020-08-29,First Division A,2020-21,Eupen,St Truiden,1,1,4,5,4,4,1,0,2,9,8,1,1,0
-2020-08-29,First Division A,2020-21,Cercle Brugge,Kortrijk,0,1,5,11,2,3,0,0,1,16,5,0,0,0
-2020-08-29,First Division A,2020-21,Waasland-Beveren,Oud-Heverlee Leuven,1,3,4,6,1,1,1,0,4,10,2,1,1,1
-2020-08-29,First Division A,2020-21,Mouscron,Waregem,0,1,5,4,2,1,0,0,1,9,3,0,0,0
-2020-08-30,First Division A,2020-21,Genk,Club Brugge,1,2,1,5,4,3,0,0,3,6,7,0,1,1
-2020-08-30,First Division A,2020-21,Beerschot VA,Standard,0,3,7,5,3,1,0,0,3,12,4,0,0,1
-2020-08-30,First Division A,2020-21,Charleroi,Antwerp,2,0,5,3,4,3,0,1,2,8,7,1,0,0
-2020-08-30,First Division A,2020-21,Gent,Mechelen,1,0,3,2,2,1,0,0,1,5,3,0,0,0
-2020-09-11,First Division A,2020-21,Eupen,Gent,2,1,4,5,3,3,0,1,3,9,6,1,1,1
-2020-09-12,First Division A,2020-21,Mechelen,Oostende,0,1,5,10,5,2,0,0,1,15,7,0,0,0
-2020-09-12,First Division A,2020-21,Oud-Heverlee Leuven,Standard,1,0,1,3,2,4,0,1,1,4,6,1,0,0
-2020-09-12,First Division A,2020-21,Club Brugge,Waasland-Beveren,4,1,5,2,1,2,0,0,5,7,3,0,1,1
-2020-09-13,First Division A,2020-21,Anderlecht,Cercle Brugge,2,0,7,3,1,4,0,0,2,10,5,0,0,0
-2020-09-13,First Division A,2020-21,St Truiden,Antwerp,2,3,3,4,3,4,1,1,5,7,7,2,1,1
-2020-09-13,First Division A,2020-21,Waregem,Charleroi,0,2,3,2,0,1,0,0,2,5,1,0,0,0
-2020-09-13,First Division A,2020-21,Kortrijk,Mouscron,3,0,8,1,2,2,0,2,3,9,4,2,0,1
-2020-09-14,First Division A,2020-21,Beerschot VA,Genk,5,2,5,3,0,4,0,2,7,8,4,2,1,1
-2020-09-18,First Division A,2020-21,Charleroi,Beerschot VA,3,1,7,1,0,1,0,0,4,8,1,0,1,1
-2020-09-19,First Division A,2020-21,Oostende,Oud-Heverlee Leuven,3,1,11,2,4,2,0,0,4,13,6,0,1,1
-2020-09-19,First Division A,2020-21,Mouscron,Gent,0,1,11,3,3,0,0,0,1,14,3,0,0,0
-2020-09-19,First Division A,2020-21,Waasland-Beveren,Anderlecht,2,4,5,7,4,1,0,0,6,12,5,0,1,1
-2020-09-20,First Division A,2020-21,Waregem,Club Brugge,0,6,2,4,1,1,0,0,6,6,2,0,0,1
-2020-09-20,First Division A,2020-21,Standard,Kortrijk,2,1,6,3,0,3,0,0,3,9,3,0,1,1
-2020-09-20,First Division A,2020-21,Genk,Mechelen,3,1,1,4,0,1,0,0,4,5,1,0,1,1
-2020-09-20,First Division A,2020-21,Antwerp,Eupen,2,2,9,4,2,6,0,0,4,13,8,0,1,1
-2020-09-21,First Division A,2020-21,Cercle Brugge,St Truiden,3,0,5,4,1,3,0,0,3,9,4,0,0,1
-2020-09-25,First Division A,2020-21,Kortrijk,Antwerp,1,3,6,2,2,0,0,0,4,8,2,0,1,1
-2020-09-26,First Division A,2020-21,Beerschot VA,Waasland-Beveren,3,2,10,0,1,2,0,0,5,10,3,0,1,1
-2020-09-26,First Division A,2020-21,Mechelen,St Truiden,2,0,3,6,3,6,0,0,2,9,9,0,0,0
-2020-09-26,First Division A,2020-21,Gent,Oud-Heverlee Leuven,2,3,8,4,2,3,0,0,5,12,5,0,1,1
-2020-09-27,First Division A,2020-21,Standard,Waregem,2,2,7,2,2,3,0,0,4,9,5,0,1,1
-2020-09-27,First Division A,2020-21,Anderlecht,Eupen,1,1,9,5,2,4,0,0,2,14,6,0,1,0
-2020-09-27,First Division A,2020-21,Club Brugge,Cercle Brugge,2,1,8,5,1,2,0,0,3,13,3,0,1,1
-2020-09-27,First Division A,2020-21,Mouscron,Charleroi,1,1,0,6,1,1,0,0,2,6,2,0,1,0
-2020-09-28,First Division A,2020-21,Genk,Oostende,2,2,6,5,1,5,1,0,4,11,6,1,1,1
-2020-10-02,First Division A,2020-21,Antwerp,Mechelen,4,1,4,6,1,2,0,0,5,10,3,0,1,1
-2020-10-03,First Division A,2020-21,Waasland-Beveren,Genk,1,1,4,6,3,3,0,0,2,10,6,0,1,0
-2020-10-03,First Division A,2020-21,Eupen,Cercle Brugge,1,2,8,3,5,4,0,0,3,11,9,0,1,1
-2020-10-03,First Division A,2020-21,Oud-Heverlee Leuven,Waregem,2,1,9,9,1,0,0,0,3,18,1,0,1,1
-2020-10-03,First Division A,2020-21,St Truiden,Kortrijk,0,0,9,4,3,2,0,1,0,13,5,1,0,0
-2020-10-04,First Division A,2020-21,Club Brugge,Anderlecht,3,0,8,1,1,4,0,1,3,9,5,1,0,1
-2020-10-04,First Division A,2020-21,Gent,Beerschot VA,5,1,6,5,1,1,0,0,6,11,2,0,1,1
-2020-10-04,First Division A,2020-21,Charleroi,Standard,1,2,7,8,2,3,0,0,3,15,5,0,1,1
-2020-10-04,First Division A,2020-21,Oostende,Mouscron,3,0,6,0,1,0,0,0,3,6,1,0,0,1
-2020-10-17,First Division A,2020-21,Mechelen,Kortrijk,1,2,7,6,2,1,1,0,3,13,3,1,1,1
-2020-10-17,First Division A,2020-21,Standard,Club Brugge,1,1,8,5,2,3,0,0,2,13,5,0,1,0
-2020-10-17,First Division A,2020-21,Cercle Brugge,Gent,5,2,5,9,0,0,0,0,7,14,0,0,1,1
-2020-10-17,First Division A,2020-21,Beerschot VA,St Truiden,6,3,4,4,0,4,0,0,9,8,4,0,1,1
-2020-10-18,First Division A,2020-21,Waregem,Antwerp,1,3,3,9,1,1,0,0,4,12,2,0,1,1
-2020-10-18,First Division A,2020-21,Mouscron,Eupen,0,2,5,4,3,1,0,0,2,9,4,0,0,0
-2020-10-18,First Division A,2020-21,Genk,Charleroi,2,1,4,5,4,2,1,0,3,9,6,1,1,1
-2020-10-18,First Division A,2020-21,Anderlecht,Oud-Heverlee Leuven,2,2,3,8,1,2,0,0,4,11,3,0,1,1
-2020-10-23,First Division A,2020-21,Kortrijk,Anderlecht,1,3,4,3,0,2,0,0,4,7,2,0,1,1
-2020-10-24,First Division A,2020-21,Oud-Heverlee Leuven,Club Brugge,2,1,4,4,2,3,0,0,3,8,5,0,1,1
-2020-10-25,First Division A,2020-21,St Truiden,Standard,2,0,4,3,1,1,0,0,2,7,2,0,0,0
-2020-10-25,First Division A,2020-21,Antwerp,Beerschot VA,3,2,8,6,4,2,0,0,5,14,6,0,1,1
-2020-10-25,First Division A,2020-21,Oostende,Waregem,3,0,4,10,1,1,0,0,3,14,2,0,0,1
-2020-10-26,First Division A,2020-21,Gent,Genk,1,2,8,3,1,2,0,0,3,11,3,0,1,1
-2020-10-30,First Division A,2020-21,Genk,Eupen,4,0,3,6,1,2,0,0,4,9,3,0,0,1
-2020-10-31,First Division A,2020-21,Club Brugge,Mechelen,2,2,3,2,1,0,0,0,4,5,1,0,1,1
-2020-10-31,First Division A,2020-21,Beerschot VA,Oud-Heverlee Leuven,4,2,7,5,5,1,0,0,6,12,6,0,1,1
-2020-10-31,First Division A,2020-21,Charleroi,Cercle Brugge,3,0,11,1,2,1,0,0,3,12,3,0,0,1
-2020-11-01,First Division A,2020-21,Standard,Oostende,1,0,9,4,1,3,0,0,1,13,4,0,0,0
-2020-11-01,First Division A,2020-21,Waasland-Beveren,Gent,1,4,7,3,4,0,0,0,5,10,4,0,1,1
-2020-11-01,First Division A,2020-21,Anderlecht,Antwerp,1,0,4,6,0,3,0,0,1,10,3,0,0,0
-2020-11-02,First Division A,2020-21,Waregem,Kortrijk,1,1,3,9,2,0,1,0,2,12,2,1,1,0
-2020-11-06,First Division A,2020-21,Mechelen,Charleroi,3,3,4,6,2,3,0,0,6,10,5,0,1,1
-2020-11-07,First Division A,2020-21,Kortrijk,Beerschot VA,5,5,6,6,2,2,0,0,10,12,4,0,1,1
-2020-11-07,First Division A,2020-21,Eupen,Waasland-Beveren,1,1,14,4,1,2,0,0,2,18,3,0,1,0
-2020-11-07,First Division A,2020-21,St Truiden,Genk,1,2,11,4,5,2,1,0,3,15,7,1,1,1
-2020-11-08,First Division A,2020-21,Cercle Brugge,Waregem,1,3,4,8,3,3,0,0,4,12,6,0,1,1
-2020-11-08,First Division A,2020-21,Gent,Anderlecht,1,1,2,7,3,4,0,0,2,9,7,0,1,0
-2020-11-08,First Division A,2020-21,Antwerp,Standard,1,1,3,3,0,3,0,0,2,6,3,0,1,0
-2020-11-08,First Division A,2020-21,Oostende,Club Brugge,1,3,4,8,3,0,1,0,4,12,3,1,1,1
-2020-11-21,First Division A,2020-21,Standard,Eupen,2,2,3,3,2,0,1,0,4,6,2,1,1,1
-2020-11-21,First Division A,2020-21,Oostende,Antwerp,1,1,7,5,1,1,0,0,2,12,2,0,1,0
-2020-11-21,First Division A,2020-21,Waasland-Beveren,Cercle Brugge,0,2,5,7,4,3,1,0,2,12,7,1,0,0
-2020-11-21,First Division A,2020-21,Club Brugge,Kortrijk,1,0,7,2,0,3,0,0,1,9,3,0,0,0
-2020-11-22,First Division A,2020-21,Charleroi,Gent,0,1,3,4,1,2,0,0,1,7,3,0,0,0
-2020-11-22,First Division A,2020-21,Beerschot VA,Anderlecht,2,1,5,3,2,2,0,0,3,8,4,0,1,1
-2020-11-22,First Division A,2020-21,Waregem,Mechelen,1,2,3,4,0,2,0,0,3,7,2,0,1,1
-2020-11-22,First Division A,2020-21,Genk,Mouscron,4,1,5,3,1,4,0,0,5,8,5,0,1,1
-2020-11-23,First Division A,2020-21,Oud-Heverlee Leuven,St Truiden,2,2,4,1,1,4,0,0,4,5,5,0,1,1
-2020-11-24,First Division A,2020-21,Waasland-Beveren,Oostende,2,0,2,6,2,2,0,0,2,8,4,0,0,0
-2020-11-25,First Division A,2020-21,Cercle Brugge,Mouscron,1,2,4,5,4,2,0,0,3,9,6,0,1,1
-2020-11-27,First Division A,2020-21,Eupen,Charleroi,3,1,6,3,1,5,0,0,4,9,6,0,1,1
-2020-11-28,First Division A,2020-21,St Truiden,Waasland-Beveren,1,1,10,7,3,1,0,0,2,17,4,0,1,0
-2020-11-28,First Division A,2020-21,Cercle Brugge,Genk,1,5,2,6,2,0,0,0,6,8,2,0,1,1
-2020-11-28,First Division A,2020-21,Mouscron,Club Brugge,0,0,1,4,2,3,0,0,0,5,5,0,0,0
-2020-11-29,First Division A,2020-21,Mechelen,Beerschot VA,2,3,3,2,4,2,1,0,5,5,6,1,1,1
-2020-11-29,First Division A,2020-21,Gent,Waregem,0,3,8,0,1,1,0,0,3,8,2,0,0,1
-2020-11-29,First Division A,2020-21,Anderlecht,Standard,0,0,2,6,2,2,0,0,0,8,4,0,0,0
-2020-11-29,First Division A,2020-21,Kortrijk,Oostende,3,1,5,6,0,3,0,0,4,11,3,0,1,1
-2020-11-30,First Division A,2020-21,Antwerp,Oud-Heverlee Leuven,3,2,11,2,3,5,0,0,5,13,8,0,1,1
-2020-12-01,First Division A,2020-21,Mouscron,St Truiden,3,2,2,8,3,3,0,0,5,10,6,0,1,1
-2020-12-02,First Division A,2020-21,Charleroi,Waasland-Beveren,0,2,4,7,1,3,1,0,2,11,4,1,0,0
-2020-12-03,First Division A,2020-21,Eupen,Mechelen,1,1,2,8,0,2,0,0,2,10,2,0,1,0
-2020-12-04,First Division A,2020-21,Waregem,Anderlecht,2,2,1,4,1,2,0,0,4,5,3,0,1,1
-2020-12-05,First Division A,2020-21,Waasland-Beveren,Mouscron,2,0,7,2,1,2,0,0,2,9,3,0,0,0
-2020-12-05,First Division A,2020-21,Oud-Heverlee Leuven,Cercle Brugge,2,1,1,5,2,2,1,0,3,6,4,1,1,1
-2020-12-05,First Division A,2020-21,Club Brugge,St Truiden,1,0,3,3,0,1,0,0,1,6,1,0,0,0
-2020-12-06,First Division A,2020-21,Oostende,Gent,2,1,3,6,2,4,0,0,3,9,6,0,1,1
-2020-12-06,First Division A,2020-21,Standard,Mechelen,2,2,7,4,2,1,0,0,4,11,3,0,1,1
-2020-12-06,First Division A,2020-21,Genk,Antwerp,4,2,5,4,1,3,0,0,6,9,4,0,1,1
-2020-12-06,First Division A,2020-21,Beerschot VA,Eupen,0,1,11,7,3,2,0,0,1,18,5,0,0,0
-2020-12-07,First Division A,2020-21,Charleroi,Kortrijk,0,0,7,7,4,2,0,0,0,14,6,0,0,0
-2020-12-08,First Division A,2020-21,Oud-Heverlee Leuven,Mouscron,2,0,2,2,0,5,0,0,2,4,5,0,0,0
-2020-12-11,First Division A,2020-21,Anderlecht,Genk,1,0,7,5,3,3,0,0,1,12,6,0,0,0
-2020-12-12,First Division A,2020-21,St Truiden,Charleroi,1,2,9,5,2,2,1,0,3,14,4,1,1,1
-2020-12-12,First Division A,2020-21,Mouscron,Beerschot VA,3,1,2,7,0,2,0,0,4,9,2,0,1,1
-2020-12-12,First Division A,2020-21,Cercle Brugge,Oostende,0,1,3,3,4,0,1,0,1,6,4,1,0,0
-2020-12-12,First Division A,2020-21,Kortrijk,Oud-Heverlee Leuven,0,3,12,1,2,1,0,0,3,13,3,0,0,1
-2020-12-13,First Division A,2020-21,Mechelen,Waasland-Beveren,2,3,3,1,0,0,1,0,5,4,0,1,1,1
-2020-12-13,First Division A,2020-21,Antwerp,Club Brugge,0,2,2,9,3,1,1,0,2,11,4,1,0,0
-2020-12-13,First Division A,2020-21,Gent,Standard,2,1,3,3,0,1,0,0,3,6,1,0,1,1
-2020-12-15,First Division A,2020-21,Cercle Brugge,Charleroi,3,4,2,9,3,2,1,0,7,11,5,1,1,1
-2020-12-15,First Division A,2020-21,Mouscron,Oud-Heverlee Leuven,2,2,6,4,5,2,0,0,4,10,7,0,1,1
-2020-12-15,First Division A,2020-21,Anderlecht,Oostende,2,1,2,3,0,3,1,0,3,5,3,1,1,1
-2020-12-16,First Division A,2020-21,Gent,Waasland-Beveren,3,0,4,4,1,2,0,0,3,8,3,0,0,1
-2020-12-16,First Division A,2020-21,Antwerp,Waregem,0,1,2,4,2,3,0,0,1,6,5,0,0,0
-2020-12-16,First Division A,2020-21,Kortrijk,Standard,2,1,6,5,3,1,0,0,3,11,4,0,1,1
-2020-12-17,First Division A,2020-21,Mechelen,Club Brugge,0,3,6,3,3,0,0,0,3,9,3,0,0,1
-2020-12-18,First Division A,2020-21,Charleroi,Anderlecht,1,0,3,3,3,0,0,0,1,6,3,0,0,0
-2020-12-19,First Division A,2020-21,Genk,Kortrijk,2,0,4,1,1,2,0,0,2,5,3,0,0,0
-2020-12-19,First Division A,2020-21,Waregem,St Truiden,0,2,6,4,4,2,1,0,2,10,6,1,0,0
-2020-12-20,First Division A,2020-21,Club Brugge,Gent,0,1,15,0,3,3,0,0,1,15,6,0,0,0
-2020-12-20,First Division A,2020-21,Oud-Heverlee Leuven,Mechelen,1,2,3,3,3,4,0,0,3,6,7,0,1,1
-2020-12-20,First Division A,2020-21,Standard,Mouscron,0,1,5,1,4,1,0,0,1,6,5,0,0,0
-2020-12-20,First Division A,2020-21,Waasland-Beveren,Antwerp,0,3,5,7,1,4,0,0,3,12,5,0,0,1
-2020-12-26,First Division A,2020-21,Oud-Heverlee Leuven,Oostende,1,2,4,9,1,3,0,0,3,13,4,0,1,1
-2020-12-26,First Division A,2020-21,Kortrijk,Gent,1,0,4,3,3,0,0,1,1,7,3,1,0,0
-2020-12-26,First Division A,2020-21,Standard,St Truiden,1,2,7,3,2,2,0,1,3,10,4,1,1,1
-2020-12-26,First Division A,2020-21,Club Brugge,Eupen,3,0,12,2,0,2,1,0,3,14,2,1,0,1
-2020-12-26,First Division A,2020-21,Waregem,Cercle Brugge,1,0,5,7,3,2,0,0,1,12,5,0,0,0
-2020-12-27,First Division A,2020-21,Antwerp,Charleroi,2,1,8,2,1,1,0,0,3,10,2,0,1,1
-2020-12-27,First Division A,2020-21,Genk,Waasland-Beveren,1,1,6,5,0,3,0,0,2,11,3,0,1,0
-2020-12-27,First Division A,2020-21,Anderlecht,Beerschot VA,2,0,7,1,1,4,0,0,2,8,5,0,0,0
-2020-12-27,First Division A,2020-21,Mechelen,Mouscron,2,1,5,3,0,1,0,0,3,8,1,0,1,1
-2020-12-29,First Division A,2020-21,Eupen,Waregem,2,3,3,6,3,2,0,0,5,9,5,0,1,1
-2020-12-30,First Division A,2020-21,St Truiden,Beerschot VA,1,0,6,3,3,0,0,0,1,9,3,0,0,0
-2021-01-06,First Division A,2020-21,Eupen,Genk,1,4,6,1,3,1,0,0,5,7,4,0,1,1
-2021-01-09,First Division A,2020-21,Oostende,Charleroi,3,2,6,3,2,0,0,0,5,9,2,0,1,1
-2021-01-09,First Division A,2020-21,Kortrijk,Genk,2,1,5,3,1,2,0,0,3,8,3,0,1,1
-2021-01-09,First Division A,2020-21,Cercle Brugge,Eupen,1,2,6,8,2,3,0,0,3,14,5,0,1,1
-2021-01-09,First Division A,2020-21,Waregem,Mouscron,1,0,2,10,3,2,0,0,1,12,5,0,0,0
-2021-01-10,First Division A,2020-21,Mechelen,Antwerp,3,0,6,4,1,3,0,0,3,10,4,0,0,1
-2021-01-10,First Division A,2020-21,Beerschot VA,Gent,1,1,2,11,4,2,0,0,2,13,6,0,1,0
-2021-01-10,First Division A,2020-21,Oud-Heverlee Leuven,Anderlecht,1,0,1,9,1,3,0,0,1,10,4,0,0,0
-2021-01-10,First Division A,2020-21,St Truiden,Club Brugge,1,2,5,7,1,2,1,0,3,12,3,1,1,1
-2021-01-11,First Division A,2020-21,Standard,Waasland-Beveren,3,1,5,5,3,1,0,0,4,10,4,0,1,1
-2021-01-12,First Division A,2020-21,Oostende,Eupen,1,1,10,2,2,3,0,1,2,12,5,1,1,0
-2021-01-13,First Division A,2020-21,Beerschot VA,Cercle Brugge,1,1,2,7,2,1,0,0,2,9,3,0,1,0
-2021-01-15,First Division A,2020-21,Eupen,Anderlecht,2,0,3,3,2,3,0,1,2,6,5,1,0,0
-2021-01-16,First Division A,2020-21,Oostende,Kortrijk,2,1,2,2,2,1,0,0,3,4,3,0,1,1
-2021-01-16,First Division A,2020-21,Mouscron,Genk,2,0,8,4,2,2,0,1,2,12,4,1,0,0
-2021-01-16,First Division A,2020-21,Waasland-Beveren,Waregem,1,5,8,1,2,1,0,0,6,9,3,0,1,1
-2021-01-16,First Division A,2020-21,Charleroi,Mechelen,0,1,7,4,1,1,0,0,1,11,2,0,0,0
-2021-01-17,First Division A,2020-21,Gent,Antwerp,0,1,5,4,1,3,0,0,1,9,4,0,0,0
-2021-01-17,First Division A,2020-21,Cercle Brugge,Standard,0,1,7,3,1,1,0,0,1,10,2,0,0,0
-2021-01-17,First Division A,2020-21,Beerschot VA,Club Brugge,0,3,5,7,3,2,0,0,3,12,5,0,0,1
-2021-01-17,First Division A,2020-21,St Truiden,Oud-Heverlee Leuven,3,1,2,4,2,0,0,1,4,6,2,1,1,1
-2021-01-19,First Division A,2020-21,Anderlecht,Charleroi,3,0,6,4,0,3,0,0,3,10,3,0,0,1
-2021-01-19,First Division A,2020-21,Mouscron,Waasland-Beveren,1,1,6,6,4,1,0,0,2,12,5,0,1,0
-2021-01-20,First Division A,2020-21,Kortrijk,St Truiden,0,2,9,1,2,0,0,0,2,10,2,0,0,0
-2021-01-20,First Division A,2020-21,Eupen,Beerschot VA,3,1,7,4,0,2,0,1,4,11,2,1,1,1
-2021-01-20,First Division A,2020-21,Mechelen,Standard,0,4,4,0,1,1,0,0,4,4,2,0,0,1
-2021-01-20,First Division A,2020-21,Antwerp,Cercle Brugge,1,0,2,8,2,3,0,0,1,10,5,0,0,0
-2021-01-20,First Division A,2020-21,Club Brugge,Oostende,2,1,5,3,1,1,0,0,3,8,2,0,1,1
-2021-01-21,First Division A,2020-21,Waregem,Oud-Heverlee Leuven,2,3,5,9,1,0,0,0,5,14,1,0,1,1
-2021-01-21,First Division A,2020-21,Genk,Gent,1,1,0,4,2,4,1,0,2,4,6,1,1,0
-2021-01-22,First Division A,2020-21,Anderlecht,Waasland-Beveren,0,0,13,1,1,0,0,0,0,14,1,0,0,0
-2021-01-23,First Division A,2020-21,Antwerp,Oostende,1,2,4,4,3,3,0,0,3,8,6,0,1,1
-2021-01-23,First Division A,2020-21,St Truiden,Mouscron,0,2,7,4,4,3,0,0,2,11,7,0,0,0
-2021-01-23,First Division A,2020-21,Mechelen,Eupen,3,0,5,10,3,1,0,0,3,15,4,0,0,1
-2021-01-23,First Division A,2020-21,Kortrijk,Cercle Brugge,1,2,8,7,2,1,0,0,3,15,3,0,1,1
-2021-01-24,First Division A,2020-21,Oud-Heverlee Leuven,Gent,0,3,3,7,2,2,1,0,3,10,4,1,0,1
-2021-01-24,First Division A,2020-21,Club Brugge,Genk,3,2,7,2,0,1,0,0,5,9,1,0,1,1
-2021-01-24,First Division A,2020-21,Waregem,Beerschot VA,0,3,6,3,0,0,0,0,3,9,0,0,0,1
-2021-01-24,First Division A,2020-21,Standard,Charleroi,3,2,3,2,1,2,0,1,5,5,3,1,1,1
-2021-01-26,First Division A,2020-21,Waasland-Beveren,Mechelen,2,3,6,10,2,1,0,0,5,16,3,0,1,1
-2021-01-26,First Division A,2020-21,Mouscron,Anderlecht,1,1,5,4,2,1,0,0,2,9,3,0,1,0
-2021-01-26,First Division A,2020-21,Eupen,Antwerp,0,2,5,4,2,1,0,0,2,9,3,0,0,0
-2021-01-27,First Division A,2020-21,Beerschot VA,Kortrijk,0,0,4,9,1,2,0,0,0,13,3,0,0,0
-2021-01-27,First Division A,2020-21,Genk,Waregem,3,2,5,3,0,0,0,0,5,8,0,0,1,1
-2021-01-27,First Division A,2020-21,Charleroi,Oud-Heverlee Leuven,1,1,12,5,2,3,0,0,2,17,5,0,1,0
-2021-01-27,First Division A,2020-21,Gent,St Truiden,1,1,6,3,1,2,0,0,2,9,3,0,1,0
-2021-01-28,First Division A,2020-21,Cercle Brugge,Club Brugge,1,2,2,6,0,2,0,0,3,8,2,0,1,1
-2021-01-28,First Division A,2020-21,Oostende,Standard,2,2,8,12,2,0,0,0,4,20,2,0,1,1
-2021-01-29,First Division A,2020-21,Antwerp,Waasland-Beveren,3,2,12,2,2,1,0,0,5,14,3,0,1,1
-2021-01-30,First Division A,2020-21,Eupen,Mouscron,1,1,7,6,0,2,0,0,2,13,2,0,1,0
-2021-01-30,First Division A,2020-21,Kortrijk,Charleroi,1,3,5,3,1,1,1,0,4,8,2,1,1,1
-2021-01-30,First Division A,2020-21,Mechelen,Genk,0,0,4,3,2,3,0,0,0,7,5,0,0,0
-2021-01-30,First Division A,2020-21,Oud-Heverlee Leuven,Beerschot VA,0,1,6,4,3,2,0,0,1,10,5,0,0,0
-2021-01-31,First Division A,2020-21,St Truiden,Cercle Brugge,3,0,1,4,3,2,0,0,3,5,5,0,0,1
-2021-01-31,First Division A,2020-21,Club Brugge,Standard,3,1,7,4,1,4,0,0,4,11,5,0,1,1
-2021-01-31,First Division A,2020-21,Waregem,Oostende,2,1,7,9,1,1,0,0,3,16,2,0,1,1
-2021-01-31,First Division A,2020-21,Anderlecht,Gent,0,0,5,3,0,1,0,0,0,8,1,0,0,0
-2021-02-05,First Division A,2020-21,Mouscron,Kortrijk,0,3,4,4,2,1,1,0,3,8,3,1,0,1
-2021-02-06,First Division A,2020-21,Standard,Oud-Heverlee Leuven,1,1,7,1,3,1,1,0,2,8,4,1,1,0
-2021-02-06,First Division A,2020-21,Waasland-Beveren,Club Brugge,0,2,3,5,2,0,0,0,2,8,2,0,0,0
-2021-02-06,First Division A,2020-21,Oostende,St Truiden,3,1,7,5,0,1,0,0,4,12,1,0,1,1
-2021-02-06,First Division A,2020-21,Cercle Brugge,Mechelen,0,1,7,10,2,1,0,0,1,17,3,0,0,0
-2021-02-07,First Division A,2020-21,Beerschot VA,Antwerp,1,2,5,7,4,3,0,0,3,12,7,0,1,1
-2021-02-07,First Division A,2020-21,Charleroi,Waregem,1,1,3,6,1,1,0,0,2,9,2,0,1,0
-2021-02-07,First Division A,2020-21,Genk,Anderlecht,1,2,5,2,3,2,0,0,3,7,5,0,1,1
-2021-02-07,First Division A,2020-21,Gent,Eupen,2,2,3,1,4,2,0,0,4,4,6,0,1,1
-2021-02-12,First Division A,2020-21,Oud-Heverlee Leuven,Kortrijk,3,1,3,5,2,4,1,0,4,8,6,1,1,1
-2021-02-13,First Division A,2020-21,St Truiden,Waregem,1,2,5,2,0,2,0,0,3,7,2,0,1,1
-2021-02-14,First Division A,2020-21,Beerschot VA,Mechelen,1,2,5,6,2,0,0,0,3,11,2,0,1,1
-2021-02-14,First Division A,2020-21,Cercle Brugge,Anderlecht,0,0,4,2,1,1,0,0,0,6,2,0,0,0
-2021-02-14,First Division A,2020-21,Standard,Antwerp,1,1,4,2,1,4,0,0,2,6,5,0,1,0
-2021-02-15,First Division A,2020-21,Gent,Mouscron,4,0,7,3,1,1,0,0,4,10,2,0,0,1
-2021-02-17,First Division A,2020-21,Waasland-Beveren,Eupen,1,0,4,5,3,2,0,0,1,9,5,0,0,0
-2021-02-17,First Division A,2020-21,Oostende,Genk,3,1,4,2,1,2,0,0,4,6,3,0,1,1
-2021-02-19,First Division A,2020-21,Mechelen,Gent,1,1,3,3,1,1,0,0,2,6,2,0,1,0
-2021-02-20,First Division A,2020-21,Eupen,Oostende,1,1,3,2,3,2,0,0,2,5,5,0,1,0
-2021-02-20,First Division A,2020-21,Mouscron,Cercle Brugge,1,2,7,5,4,2,0,0,3,12,6,0,1,1
-2021-02-20,First Division A,2020-21,Waasland-Beveren,Charleroi,1,1,7,3,2,0,0,0,2,10,2,0,1,0
-2021-02-21,First Division A,2020-21,Antwerp,St Truiden,0,0,3,4,1,1,0,0,0,7,2,0,0,0
-2021-02-21,First Division A,2020-21,Genk,Beerschot VA,1,2,10,3,2,3,0,0,3,13,5,0,1,1
-2021-02-21,First Division A,2020-21,Anderlecht,Kortrijk,0,2,6,6,0,3,0,0,2,12,3,0,0,0
-2021-02-21,First Division A,2020-21,Waregem,Standard,3,2,6,3,0,1,0,0,5,9,1,0,1,1
-2021-02-22,First Division A,2020-21,Club Brugge,Oud-Heverlee Leuven,3,0,8,5,1,3,0,0,3,13,4,0,0,1
-2021-02-26,First Division A,2020-21,Charleroi,Genk,1,2,3,6,2,2,0,0,3,9,4,0,1,1
-2021-02-27,First Division A,2020-21,Cercle Brugge,Waasland-Beveren,2,0,1,1,2,5,0,0,2,2,7,0,0,0
-2021-02-27,First Division A,2020-21,Oostende,Mechelen,2,0,5,11,2,3,0,0,2,16,5,0,0,0
-2021-02-27,First Division A,2020-21,Kortrijk,Waregem,1,2,1,6,1,4,0,0,3,7,5,0,1,1
-2021-02-28,First Division A,2020-21,Standard,Anderlecht,1,3,2,3,3,2,0,0,4,5,5,0,1,1
-2021-02-28,First Division A,2020-21,Beerschot VA,Mouscron,2,2,3,4,2,5,0,0,4,7,7,0,1,1
-2021-02-28,First Division A,2020-21,St Truiden,Eupen,0,2,6,9,2,1,1,0,2,15,3,1,0,0
-2021-03-01,First Division A,2020-21,Oud-Heverlee Leuven,Antwerp,2,0,2,5,1,2,0,0,2,7,3,0,0,0
-2021-03-05,First Division A,2020-21,Charleroi,St Truiden,0,0,4,1,1,2,0,0,0,5,3,0,0,0
-2021-03-06,First Division A,2020-21,Eupen,Oud-Heverlee Leuven,3,3,2,6,4,2,0,0,6,8,6,0,1,1
-2021-03-06,First Division A,2020-21,Waasland-Beveren,Beerschot VA,1,2,9,1,2,2,0,0,3,10,4,0,1,1
-2021-03-06,First Division A,2020-21,Antwerp,Kortrijk,4,2,5,9,1,1,1,0,6,14,2,1,1,1
-2021-03-07,First Division A,2020-21,Genk,Cercle Brugge,2,0,8,2,1,4,0,1,2,10,5,1,0,0
-2021-03-07,First Division A,2020-21,Club Brugge,Waregem,3,0,6,2,0,1,0,0,3,8,1,0,0,1
-2021-03-07,First Division A,2020-21,Mouscron,Standard,1,0,3,14,2,1,0,0,1,17,3,0,0,0
-2021-03-07,First Division A,2020-21,Anderlecht,Mechelen,1,1,6,0,0,1,0,0,2,6,1,0,1,0
-2021-03-08,First Division A,2020-21,Gent,Oostende,1,0,4,2,1,0,0,0,1,6,1,0,0,0
-2021-03-12,First Division A,2020-21,Charleroi,Club Brugge,1,1,7,7,3,0,0,0,2,14,3,0,1,0
-2021-03-15,First Division A,2020-21,Gent,Club Brugge,0,4,5,6,0,1,0,0,4,11,1,0,0,1
-2021-03-19,First Division A,2020-21,Genk,Standard,2,2,3,6,2,4,0,0,4,9,6,0,1,1
-2021-03-20,First Division A,2020-21,Mouscron,Oostende,0,1,2,9,1,1,0,0,1,11,2,0,0,0
-2021-03-20,First Division A,2020-21,Eupen,Kortrijk,2,0,6,4,2,2,0,0,2,10,4,0,0,0
-2021-03-21,First Division A,2020-21,Club Brugge,Antwerp,0,2,5,2,4,2,1,0,2,7,6,1,0,0
-2021-03-21,First Division A,2020-21,Mechelen,Oud-Heverlee Leuven,2,2,6,4,3,1,0,0,4,10,4,0,1,1
-2021-03-21,First Division A,2020-21,Anderlecht,Waregem,4,1,5,3,2,1,1,1,5,8,3,2,1,1
-2021-03-21,First Division A,2020-21,Gent,Cercle Brugge,1,0,3,2,2,2,0,0,1,5,4,0,0,0
-2021-04-03,First Division A,2020-21,Oostende,Waasland-Beveren,0,2,4,3,2,2,2,0,2,7,4,2,0,0
-2021-04-03,First Division A,2020-21,St Truiden,Mechelen,2,1,5,8,0,2,0,0,3,13,2,0,1,1
-2021-04-03,First Division A,2020-21,Kortrijk,Club Brugge,1,2,3,9,4,2,0,0,3,12,6,0,1,1
-2021-04-04,First Division A,2020-21,Charleroi,Mouscron,1,1,6,5,1,3,0,0,2,11,4,0,1,0
-2021-04-04,First Division A,2020-21,Standard,Gent,2,1,6,7,2,4,0,0,3,13,6,0,1,1
-2021-04-04,First Division A,2020-21,Cercle Brugge,Beerschot VA,2,1,2,4,3,1,1,0,3,6,4,1,1,1
-2021-04-05,First Division A,2020-21,Oud-Heverlee Leuven,Genk,2,3,7,7,1,0,0,0,5,14,1,0,1,1
-2021-04-05,First Division A,2020-21,Waregem,Eupen,2,1,7,8,1,3,0,1,3,15,4,1,1,1
-2021-04-05,First Division A,2020-21,Antwerp,Anderlecht,1,4,1,7,0,1,0,0,5,8,1,0,1,1
-2021-04-06,First Division A,2020-21,Waasland-Beveren,St Truiden,2,4,4,6,5,1,2,0,6,10,6,2,1,1
-2021-04-07,First Division A,2020-21,Beerschot VA,Charleroi,2,1,3,9,2,2,0,0,3,12,4,0,1,1
-2021-04-09,First Division A,2020-21,Eupen,Standard,0,4,6,5,1,0,0,0,4,11,1,0,0,1
-2021-04-10,First Division A,2020-21,Cercle Brugge,Oud-Heverlee Leuven,3,0,4,11,4,1,1,0,3,15,5,1,0,1
-2021-04-10,First Division A,2020-21,Mechelen,Waregem,4,2,3,7,3,0,0,0,6,10,3,0,1,1
-2021-04-10,First Division A,2020-21,Gent,Charleroi,4,0,9,3,3,2,0,0,4,12,5,0,0,1
-2021-04-11,First Division A,2020-21,Genk,St Truiden,4,0,5,2,0,1,0,0,4,7,1,0,0,1
-2021-04-11,First Division A,2020-21,Waasland-Beveren,Kortrijk,3,4,6,3,1,1,0,0,7,9,2,0,1,1
-2021-04-11,First Division A,2020-21,Anderlecht,Club Brugge,2,1,3,4,1,3,0,0,3,7,4,0,1,1
-2021-04-11,First Division A,2020-21,Beerschot VA,Oostende,1,2,1,11,1,2,0,0,3,12,3,0,1,1
-2021-04-12,First Division A,2020-21,Mouscron,Antwerp,2,3,13,3,3,1,0,1,5,16,4,1,1,1
-2021-04-17,First Division A,2020-21,Charleroi,Eupen,2,3,7,4,3,0,0,0,5,11,3,0,1,1
-2021-04-17,First Division A,2020-21,Antwerp,Genk,3,2,9,4,3,1,0,0,5,13,4,0,1,1
-2021-04-18,First Division A,2020-21,St Truiden,Anderlecht,0,1,2,5,1,1,0,0,1,7,2,0,0,0
-2021-04-18,First Division A,2020-21,Oud-Heverlee Leuven,Waasland-Beveren,1,2,5,3,3,4,0,0,3,8,7,0,1,1
-2021-04-18,First Division A,2020-21,Standard,Beerschot VA,3,0,6,9,1,2,0,0,3,15,3,0,0,1
-2021-04-18,First Division A,2020-21,Kortrijk,Mechelen,1,4,4,5,1,1,0,0,5,9,2,0,1,1
-2021-04-18,First Division A,2020-21,Club Brugge,Mouscron,4,2,8,3,1,1,0,0,6,11,2,0,1,1
-2021-04-18,First Division A,2020-21,Oostende,Cercle Brugge,1,1,7,5,2,2,0,0,2,12,4,0,1,0
-2021-04-18,First Division A,2020-21,Waregem,Gent,2,7,4,3,2,1,0,0,9,7,3,0,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2020-08-08,First Division A,2020-21,Club Brugge,Charleroi,0,1,10,2,2,3,0,0,1,12,5,0,0,0,1.5,3.8,6.0,1.53,4.13,6.81
+2020-08-08,First Division A,2020-21,Antwerp,Mouscron,1,1,7,3,2,1,0,0,2,10,3,0,1,0,1.3,5.0,10.0,1.32,5.34,10.09
+2020-08-08,First Division A,2020-21,Standard,Cercle Brugge,1,0,5,4,1,1,0,0,1,9,2,0,0,0,1.4,4.5,6.5,1.43,4.75,7.44
+2020-08-09,First Division A,2020-21,St Truiden,Gent,2,1,6,3,2,2,0,0,3,9,4,0,1,1,4.5,3.8,1.65,4.54,4.19,1.72
+2020-08-09,First Division A,2020-21,Waregem,Genk,1,2,9,8,3,1,0,0,3,17,4,0,1,1,3.75,3.6,1.9,3.65,3.91,1.97
+2020-08-09,First Division A,2020-21,Mechelen,Anderlecht,2,2,2,7,3,3,0,0,4,9,6,0,1,1,4.5,3.5,1.8,4.33,3.6,1.89
+2020-08-09,First Division A,2020-21,Kortrijk,Waasland-Beveren,1,3,4,1,2,4,0,0,4,5,6,0,1,1,1.6,3.8,4.75,1.65,4.18,5.08
+2020-08-10,First Division A,2020-21,Oostende,Beerschot VA,1,2,12,7,3,2,0,0,3,19,5,0,1,1,2.3,3.4,3.0,2.34,3.63,2.97
+2020-08-10,First Division A,2020-21,Oud-Heverlee Leuven,Eupen,1,1,5,8,1,2,0,0,2,13,3,0,1,0,2.3,3.4,3.0,2.4,3.56,2.92
+2020-08-14,First Division A,2020-21,Mouscron,Mechelen,0,1,5,5,3,3,0,0,1,10,6,0,0,0,3.5,3.4,2.05,3.54,3.62,2.08
+2020-08-15,First Division A,2020-21,Genk,Oud-Heverlee Leuven,1,1,7,1,1,1,0,0,2,8,2,0,1,0,1.25,6.0,12.0,1.27,6.0,11.37
+2020-08-15,First Division A,2020-21,Charleroi,Oostende,1,0,8,7,1,2,0,0,1,15,3,0,0,0,1.4,4.2,8.5,1.39,4.88,8.45
+2020-08-15,First Division A,2020-21,Gent,Kortrijk,1,2,6,5,0,1,0,0,3,11,1,0,1,1,1.36,4.75,8.0,1.4,5.04,7.77
+2020-08-16,First Division A,2020-21,Eupen,Club Brugge,0,4,6,6,0,0,0,0,4,12,0,0,0,1,8.5,4.5,1.36,8.3,4.43,1.44
+2020-08-16,First Division A,2020-21,Cercle Brugge,Antwerp,2,1,5,2,1,1,0,0,3,7,2,0,1,1,3.8,3.8,1.85,3.95,3.96,1.88
+2020-08-16,First Division A,2020-21,Beerschot VA,Waregem,3,1,3,5,3,2,0,0,4,8,5,0,1,1,2.4,3.4,2.8,2.34,3.53,3.04
+2020-08-16,First Division A,2020-21,Anderlecht,St Truiden,3,1,2,1,2,0,0,1,4,3,2,1,1,1,1.4,4.5,7.5,1.45,4.76,7.08
+2020-08-17,First Division A,2020-21,Waasland-Beveren,Standard,1,2,4,8,3,3,0,0,3,12,6,0,1,1,5.5,4.0,1.57,5.8,4.26,1.57
+2020-08-21,First Division A,2020-21,Kortrijk,Eupen,0,0,1,5,2,2,0,0,0,6,4,0,0,0,2.3,3.5,2.9,2.37,3.42,3.06
+2020-08-22,First Division A,2020-21,Waregem,Waasland-Beveren,4,1,7,2,3,1,0,0,5,9,4,0,1,1,1.66,4.0,4.75,1.75,3.98,4.6
+2020-08-22,First Division A,2020-21,Mechelen,Cercle Brugge,2,3,6,8,4,2,0,0,5,14,6,0,1,1,1.8,3.75,4.33,1.81,3.8,4.44
+2020-08-22,First Division A,2020-21,Oud-Heverlee Leuven,Charleroi,1,3,6,5,1,4,0,1,4,11,5,1,1,1,4.0,3.8,1.72,4.61,3.73,1.8
+2020-08-22,First Division A,2020-21,Antwerp,Gent,1,0,3,6,0,0,0,0,1,9,0,0,0,0,2.6,3.4,2.6,2.7,3.43,2.64
+2020-08-23,First Division A,2020-21,Standard,Genk,0,0,6,5,6,2,1,0,0,11,8,1,0,0,2.2,3.4,3.2,2.23,3.38,3.38
+2020-08-23,First Division A,2020-21,Club Brugge,Beerschot VA,0,1,5,1,1,0,0,0,1,6,1,0,0,0,1.3,5.5,9.0,1.3,5.68,9.92
+2020-08-23,First Division A,2020-21,Anderlecht,Mouscron,1,1,12,2,2,2,0,1,2,14,4,1,1,0,1.36,4.33,8.5,1.39,4.91,8.38
+2020-08-24,First Division A,2020-21,St Truiden,Oostende,0,0,4,5,1,7,1,1,0,9,8,2,0,0,2.1,3.5,3.3,2.08,3.6,3.56
+2020-08-28,First Division A,2020-21,Oostende,Anderlecht,2,2,5,4,3,3,0,0,4,9,6,0,1,1,3.5,3.75,1.95,3.56,3.77,2.01
+2020-08-29,First Division A,2020-21,Eupen,St Truiden,1,1,4,5,4,4,1,0,2,9,8,1,1,0,2.0,3.5,3.6,2.01,3.64,3.7
+2020-08-29,First Division A,2020-21,Cercle Brugge,Kortrijk,0,1,5,11,2,3,0,0,1,16,5,0,0,0,2.25,3.5,2.9,2.31,3.48,3.09
+2020-08-29,First Division A,2020-21,Waasland-Beveren,Oud-Heverlee Leuven,1,3,4,6,1,1,1,0,4,10,2,1,1,1,2.5,3.5,2.62,2.66,3.56,2.58
+2020-08-29,First Division A,2020-21,Mouscron,Waregem,0,1,5,4,2,1,0,0,1,9,3,0,0,0,2.87,3.4,2.37,2.8,3.47,2.5
+2020-08-30,First Division A,2020-21,Genk,Club Brugge,1,2,1,5,4,3,0,0,3,6,7,0,1,1,2.8,3.6,2.3,3.25,3.45,2.23
+2020-08-30,First Division A,2020-21,Beerschot VA,Standard,0,3,7,5,3,1,0,0,3,12,4,0,0,1,2.9,3.5,2.25,3.02,3.46,2.35
+2020-08-30,First Division A,2020-21,Charleroi,Antwerp,2,0,5,3,4,3,0,1,2,8,7,1,0,0,2.1,3.4,3.3,2.19,3.49,3.32
+2020-08-30,First Division A,2020-21,Gent,Mechelen,1,0,3,2,2,1,0,0,1,5,3,0,0,0,1.66,4.0,4.33,1.78,3.97,4.37
+2020-09-11,First Division A,2020-21,Eupen,Gent,2,1,4,5,3,3,0,1,3,9,6,1,1,1,3.1,3.75,2.15,3.19,3.62,2.25
+2020-09-12,First Division A,2020-21,Mechelen,Oostende,0,1,5,10,5,2,0,0,1,15,7,0,0,0,1.8,3.75,4.2,1.89,3.84,4.06
+2020-09-12,First Division A,2020-21,Oud-Heverlee Leuven,Standard,1,0,1,3,2,4,0,1,1,4,6,1,0,0,5.0,3.8,1.65,5.25,3.7,1.74
+2020-09-12,First Division A,2020-21,Club Brugge,Waasland-Beveren,4,1,5,2,1,2,0,0,5,7,3,0,1,1,1.16,7.5,13.0,1.13,9.29,23.78
+2020-09-13,First Division A,2020-21,Anderlecht,Cercle Brugge,2,0,7,3,1,4,0,0,2,10,5,0,0,0,1.44,4.5,6.5,1.5,4.61,6.54
+2020-09-13,First Division A,2020-21,St Truiden,Antwerp,2,3,3,4,3,4,1,1,5,7,7,2,1,1,4.0,3.8,1.8,4.0,3.9,1.89
+2020-09-13,First Division A,2020-21,Waregem,Charleroi,0,2,3,2,0,1,0,0,2,5,1,0,0,0,3.5,3.6,2.0,3.71,3.45,2.11
+2020-09-13,First Division A,2020-21,Kortrijk,Mouscron,3,0,8,1,2,2,0,2,3,9,4,2,0,1,1.85,3.8,3.8,1.85,3.9,4.16
+2020-09-14,First Division A,2020-21,Beerschot VA,Genk,5,2,5,3,0,4,0,2,7,8,4,2,1,1,3.25,3.75,2.05,3.17,3.75,2.24
+2020-09-18,First Division A,2020-21,Charleroi,Beerschot VA,3,1,7,1,0,1,0,0,4,8,1,0,1,1,1.66,3.75,5.0,1.75,3.76,5.19
+2020-09-19,First Division A,2020-21,Oostende,Oud-Heverlee Leuven,3,1,11,2,4,2,0,0,4,13,6,0,1,1,2.0,3.5,3.6,2.09,3.72,3.41
+2020-09-19,First Division A,2020-21,Mouscron,Gent,0,1,11,3,3,0,0,0,1,14,3,0,0,0,4.33,3.75,1.75,4.39,3.85,1.81
+2020-09-19,First Division A,2020-21,Waasland-Beveren,Anderlecht,2,4,5,7,4,1,0,0,6,12,5,0,1,1,6.25,4.2,1.5,6.04,4.56,1.52
+2020-09-20,First Division A,2020-21,Waregem,Club Brugge,0,6,2,4,1,1,0,0,6,6,2,0,0,1,6.25,4.2,1.5,6.21,4.44,1.53
+2020-09-20,First Division A,2020-21,Standard,Kortrijk,2,1,6,3,0,3,0,0,3,9,3,0,1,1,1.53,4.33,5.5,1.58,4.02,6.23
+2020-09-20,First Division A,2020-21,Genk,Mechelen,3,1,1,4,0,1,0,0,4,5,1,0,1,1,1.61,4.2,4.75,1.71,4.08,4.75
+2020-09-20,First Division A,2020-21,Antwerp,Eupen,2,2,9,4,2,6,0,0,4,13,8,0,1,1,1.65,4.2,4.75,1.71,3.67,5.45
+2020-09-21,First Division A,2020-21,Cercle Brugge,St Truiden,3,0,5,4,1,3,0,0,3,9,4,0,0,1,2.05,3.6,3.3,2.2,3.45,3.39
+2020-09-25,First Division A,2020-21,Kortrijk,Antwerp,1,3,6,2,2,0,0,0,4,8,2,0,1,1,3.1,3.6,2.2,3.12,3.69,2.29
+2020-09-26,First Division A,2020-21,Beerschot VA,Waasland-Beveren,3,2,10,0,1,2,0,0,5,10,3,0,1,1,1.45,4.5,6.5,1.43,4.98,7.55
+2020-09-26,First Division A,2020-21,Mechelen,St Truiden,2,0,3,6,3,6,0,0,2,9,9,0,0,0,1.75,4.0,4.2,1.75,4.35,4.39
+2020-09-26,First Division A,2020-21,Gent,Oud-Heverlee Leuven,2,3,8,4,2,3,0,0,5,12,5,0,1,1,1.44,4.75,6.0,1.46,5.25,6.45
+2020-09-27,First Division A,2020-21,Standard,Waregem,2,2,7,2,2,3,0,0,4,9,5,0,1,1,1.5,4.0,7.0,1.5,4.98,6.16
+2020-09-27,First Division A,2020-21,Anderlecht,Eupen,1,1,9,5,2,4,0,0,2,14,6,0,1,0,1.6,4.0,5.25,1.65,4.06,5.65
+2020-09-27,First Division A,2020-21,Club Brugge,Cercle Brugge,2,1,8,5,1,2,0,0,3,13,3,0,1,1,1.2,6.0,12.0,1.21,6.67,12.96
+2020-09-27,First Division A,2020-21,Mouscron,Charleroi,1,1,0,6,1,1,0,0,2,6,2,0,1,0,5.0,3.6,1.72,5.26,3.73,1.75
+2020-09-28,First Division A,2020-21,Genk,Oostende,2,2,6,5,1,5,1,0,4,11,6,1,1,1,1.5,4.33,6.0,1.56,4.3,6.32
+2020-10-02,First Division A,2020-21,Antwerp,Mechelen,4,1,4,6,1,2,0,0,5,10,3,0,1,1,1.83,4.0,3.75,1.93,3.77,4.08
+2020-10-03,First Division A,2020-21,Waasland-Beveren,Genk,1,1,4,6,3,3,0,0,2,10,6,0,1,0,5.25,4.75,1.45,5.96,4.79,1.53
+2020-10-03,First Division A,2020-21,Eupen,Cercle Brugge,1,2,8,3,5,4,0,0,3,11,9,0,1,1,2.0,3.6,3.5,2.05,3.43,4.0
+2020-10-03,First Division A,2020-21,Oud-Heverlee Leuven,Waregem,2,1,9,9,1,0,0,0,3,18,1,0,1,1,2.37,3.75,2.75,2.56,3.64,2.76
+2020-10-03,First Division A,2020-21,St Truiden,Kortrijk,0,0,9,4,3,2,0,1,0,13,5,1,0,0,2.8,3.6,2.3,2.89,3.68,2.44
+2020-10-04,First Division A,2020-21,Club Brugge,Anderlecht,3,0,8,1,1,4,0,1,3,9,5,1,0,1,1.57,4.2,5.25,1.6,4.07,6.24
+2020-10-04,First Division A,2020-21,Gent,Beerschot VA,5,1,6,5,1,1,0,0,6,11,2,0,1,1,1.75,3.8,4.33,1.79,4.02,4.5
+2020-10-04,First Division A,2020-21,Charleroi,Standard,1,2,7,8,2,3,0,0,3,15,5,0,1,1,2.2,3.6,3.0,2.42,3.28,3.23
+2020-10-04,First Division A,2020-21,Oostende,Mouscron,3,0,6,0,1,0,0,0,3,6,1,0,0,1,1.72,3.8,4.2,1.83,3.72,4.66
+2020-10-17,First Division A,2020-21,Mechelen,Kortrijk,1,2,7,6,2,1,1,0,3,13,3,1,1,1,2.0,3.75,3.5,2.0,3.66,3.9
+2020-10-17,First Division A,2020-21,Standard,Club Brugge,1,1,8,5,2,3,0,0,2,13,5,0,1,0,3.5,3.5,2.0,3.83,3.59,2.04
+2020-10-17,First Division A,2020-21,Cercle Brugge,Gent,5,2,5,9,0,0,0,0,7,14,0,0,1,1,3.25,4.0,2.0,3.46,3.96,2.05
+2020-10-17,First Division A,2020-21,Beerschot VA,St Truiden,6,3,4,4,0,4,0,0,9,8,4,0,1,1,1.66,4.0,4.33,1.78,3.88,4.77
+2020-10-18,First Division A,2020-21,Waregem,Antwerp,1,3,3,9,1,1,0,0,4,12,2,0,1,1,3.2,3.6,2.0,3.19,4.23,2.09
+2020-10-18,First Division A,2020-21,Mouscron,Eupen,0,2,5,4,3,1,0,0,2,9,4,0,0,0,3.0,3.6,2.2,3.46,3.81,2.1
+2020-10-18,First Division A,2020-21,Genk,Charleroi,2,1,4,5,4,2,1,0,3,9,6,1,1,1,2.5,3.5,2.7,2.64,3.4,2.82
+2020-10-18,First Division A,2020-21,Anderlecht,Oud-Heverlee Leuven,2,2,3,8,1,2,0,0,4,11,3,0,1,1,1.5,4.33,6.0,1.55,4.45,6.16
+2020-10-23,First Division A,2020-21,Kortrijk,Anderlecht,1,3,4,3,0,2,0,0,4,7,2,0,1,1,3.5,3.6,2.0,3.61,3.67,2.09
+2020-10-24,First Division A,2020-21,Oud-Heverlee Leuven,Club Brugge,2,1,4,4,2,3,0,0,3,8,5,0,1,1,6.5,4.5,1.45,7.06,4.82,1.46
+2020-10-25,First Division A,2020-21,St Truiden,Standard,2,0,4,3,1,1,0,0,2,7,2,0,0,0,4.5,4.0,1.75,4.33,4.18,1.79
+2020-10-25,First Division A,2020-21,Antwerp,Beerschot VA,3,2,8,6,4,2,0,0,5,14,6,0,1,1,1.85,4.0,3.75,1.93,3.7,4.18
+2020-10-25,First Division A,2020-21,Oostende,Waregem,3,0,4,10,1,1,0,0,3,14,2,0,0,1,1.83,3.75,4.0,1.91,4.14,3.8
+2020-10-26,First Division A,2020-21,Gent,Genk,1,2,8,3,1,2,0,0,3,11,3,0,1,1,1.85,3.8,3.75,2.03,3.7,3.69
+2020-10-30,First Division A,2020-21,Genk,Eupen,4,0,3,6,1,2,0,0,4,9,3,0,0,1,1.8,3.8,3.75,1.88,3.98,4.06
+2020-10-31,First Division A,2020-21,Club Brugge,Mechelen,2,2,3,2,1,0,0,0,4,5,1,0,1,1,1.25,5.5,11.0,1.27,6.17,11.6
+2020-10-31,First Division A,2020-21,Beerschot VA,Oud-Heverlee Leuven,4,2,7,5,5,1,0,0,6,12,6,0,1,1,1.83,4.0,3.6,1.86,4.24,3.91
+2020-10-31,First Division A,2020-21,Charleroi,Cercle Brugge,3,0,11,1,2,1,0,0,3,12,3,0,0,1,1.5,4.2,6.5,1.55,4.43,6.28
+2020-11-01,First Division A,2020-21,Standard,Oostende,1,0,9,4,1,3,0,0,1,13,4,0,0,0,1.72,4.0,4.33,1.76,3.91,4.88
+2020-11-01,First Division A,2020-21,Waasland-Beveren,Gent,1,4,7,3,4,0,0,0,5,10,4,0,1,1,5.75,4.75,1.44,6.36,4.69,1.51
+2020-11-01,First Division A,2020-21,Anderlecht,Antwerp,1,0,4,6,0,3,0,0,1,10,3,0,0,0,2.05,3.4,3.5,2.17,3.6,3.44
+2020-11-02,First Division A,2020-21,Waregem,Kortrijk,1,1,3,9,2,0,1,0,2,12,2,1,1,0,2.4,3.75,2.7,2.4,3.81,2.82
+2020-11-06,First Division A,2020-21,Mechelen,Charleroi,3,3,4,6,2,3,0,0,6,10,5,0,1,1,3.0,3.4,2.3,2.97,3.75,2.36
+2020-11-07,First Division A,2020-21,Kortrijk,Beerschot VA,5,5,6,6,2,2,0,0,10,12,4,0,1,1,2.37,3.6,2.75,2.39,4.24,2.67
+2020-11-07,First Division A,2020-21,Eupen,Waasland-Beveren,1,1,14,4,1,2,0,0,2,18,3,0,1,0,1.45,4.33,7.0,1.49,4.44,7.48
+2020-11-07,First Division A,2020-21,St Truiden,Genk,1,2,11,4,5,2,1,0,3,15,7,1,1,1,3.5,3.5,2.0,3.61,3.41,2.18
+2020-11-08,First Division A,2020-21,Cercle Brugge,Waregem,1,3,4,8,3,3,0,0,4,12,6,0,1,1,1.9,3.75,3.6,2.05,4.09,3.36
+2020-11-08,First Division A,2020-21,Gent,Anderlecht,1,1,2,7,3,4,0,0,2,9,7,0,1,0,2.25,3.5,2.9,2.36,3.6,3.06
+2020-11-08,First Division A,2020-21,Antwerp,Standard,1,1,3,3,0,3,0,0,2,6,3,0,1,0,2.25,3.3,3.1,2.29,3.37,3.4
+2020-11-08,First Division A,2020-21,Oostende,Club Brugge,1,3,4,8,3,0,1,0,4,12,3,1,1,1,4.33,4.0,1.7,4.39,4.06,1.8
+2020-11-21,First Division A,2020-21,Standard,Eupen,2,2,3,3,2,0,1,0,4,6,2,1,1,1,1.65,3.75,5.25,1.68,3.9,5.59
+2020-11-21,First Division A,2020-21,Oostende,Antwerp,1,1,7,5,1,1,0,0,2,12,2,0,1,0,3.1,3.5,2.15,3.04,3.82,2.29
+2020-11-21,First Division A,2020-21,Waasland-Beveren,Cercle Brugge,0,2,5,7,4,3,1,0,2,12,7,1,0,0,3.1,3.9,2.05,3.32,4.08,2.07
+2020-11-21,First Division A,2020-21,Club Brugge,Kortrijk,1,0,7,2,0,3,0,0,1,9,3,0,0,0,1.28,5.75,9.0,1.3,5.93,10.4
+2020-11-22,First Division A,2020-21,Charleroi,Gent,0,1,3,4,1,2,0,0,1,7,3,0,0,0,2.0,3.6,3.5,2.07,3.53,3.81
+2020-11-22,First Division A,2020-21,Beerschot VA,Anderlecht,2,1,5,3,2,2,0,0,3,8,4,0,1,1,3.0,3.75,2.15,2.94,3.96,2.3
+2020-11-22,First Division A,2020-21,Waregem,Mechelen,1,2,3,4,0,2,0,0,3,7,2,0,1,1,2.8,3.5,2.37,2.83,3.84,2.42
+2020-11-22,First Division A,2020-21,Genk,Mouscron,4,1,5,3,1,4,0,0,5,8,5,0,1,1,1.36,4.75,7.5,1.42,4.96,7.53
+2020-11-23,First Division A,2020-21,Oud-Heverlee Leuven,St Truiden,2,2,4,1,1,4,0,0,4,5,5,0,1,1,1.9,3.8,3.5,2.02,3.7,3.72
+2020-11-24,First Division A,2020-21,Waasland-Beveren,Oostende,2,0,2,6,2,2,0,0,2,8,4,0,0,0,6.5,4.5,1.5,5.65,4.56,1.57
+2020-11-25,First Division A,2020-21,Cercle Brugge,Mouscron,1,2,4,5,4,2,0,0,3,9,6,0,1,1,1.66,4.0,4.75,1.72,4.02,5.01
+2020-11-27,First Division A,2020-21,Eupen,Charleroi,3,1,6,3,1,5,0,0,4,9,6,0,1,1,3.1,3.5,2.2,3.17,3.57,2.31
+2020-11-28,First Division A,2020-21,St Truiden,Waasland-Beveren,1,1,10,7,3,1,0,0,2,17,4,0,1,0,1.75,3.8,4.33,1.79,4.16,4.29
+2020-11-28,First Division A,2020-21,Cercle Brugge,Genk,1,5,2,6,2,0,0,0,6,8,2,0,1,1,3.5,3.75,1.9,3.62,3.97,2.0
+2020-11-28,First Division A,2020-21,Mouscron,Club Brugge,0,0,1,4,2,3,0,0,0,5,5,0,0,0,9.5,5.0,1.33,9.17,5.3,1.36
+2020-11-29,First Division A,2020-21,Mechelen,Beerschot VA,2,3,3,2,4,2,1,0,5,5,6,1,1,1,2.1,3.75,3.1,2.18,4.03,3.11
+2020-11-29,First Division A,2020-21,Gent,Waregem,0,3,8,0,1,1,0,0,3,8,2,0,0,1,1.5,4.5,6.0,1.5,4.85,6.03
+2020-11-29,First Division A,2020-21,Anderlecht,Standard,0,0,2,6,2,2,0,0,0,8,4,0,0,0,2.1,3.5,3.4,2.24,3.6,3.29
+2020-11-29,First Division A,2020-21,Kortrijk,Oostende,3,1,5,6,0,3,0,0,4,11,3,0,1,1,2.25,3.75,2.8,2.25,3.74,3.1
+2020-11-30,First Division A,2020-21,Antwerp,Oud-Heverlee Leuven,3,2,11,2,3,5,0,0,5,13,8,0,1,1,1.6,4.2,5.25,1.63,4.31,5.28
+2020-12-01,First Division A,2020-21,Mouscron,St Truiden,3,2,2,8,3,3,0,0,5,10,6,0,1,1,2.9,3.4,2.4,3.01,3.34,2.52
+2020-12-02,First Division A,2020-21,Charleroi,Waasland-Beveren,0,2,4,7,1,3,1,0,2,11,4,1,0,0,1.28,5.75,9.0,1.3,5.79,10.96
+2020-12-03,First Division A,2020-21,Eupen,Mechelen,1,1,2,8,0,2,0,0,2,10,2,0,1,0,2.45,3.25,2.87,2.64,3.37,2.84
+2020-12-04,First Division A,2020-21,Waregem,Anderlecht,2,2,1,4,1,2,0,0,4,5,3,0,1,1,3.8,4.0,1.8,3.75,4.31,1.88
+2020-12-05,First Division A,2020-21,Waasland-Beveren,Mouscron,2,0,7,2,1,2,0,0,2,9,3,0,0,0,2.2,3.5,3.1,2.4,3.51,3.07
+2020-12-05,First Division A,2020-21,Oud-Heverlee Leuven,Cercle Brugge,2,1,1,5,2,2,1,0,3,6,4,1,1,1,2.15,3.75,3.1,2.21,3.88,3.14
+2020-12-05,First Division A,2020-21,Club Brugge,St Truiden,1,0,3,3,0,1,0,0,1,6,1,0,0,0,1.2,6.5,11.0,1.24,6.74,11.77
+2020-12-06,First Division A,2020-21,Oostende,Gent,2,1,3,6,2,4,0,0,3,9,6,0,1,1,3.0,3.6,2.2,3.04,3.99,2.23
+2020-12-06,First Division A,2020-21,Standard,Mechelen,2,2,7,4,2,1,0,0,4,11,3,0,1,1,2.05,3.5,3.4,2.17,3.65,3.41
+2020-12-06,First Division A,2020-21,Genk,Antwerp,4,2,5,4,1,3,0,0,6,9,4,0,1,1,2.15,3.4,3.2,2.26,3.54,3.29
+2020-12-06,First Division A,2020-21,Beerschot VA,Eupen,0,1,11,7,3,2,0,0,1,18,5,0,0,0,1.83,4.0,3.75,1.95,4.13,3.65
+2020-12-07,First Division A,2020-21,Charleroi,Kortrijk,0,0,7,7,4,2,0,0,0,14,6,0,0,0,1.72,3.6,5.0,1.76,3.67,5.12
+2020-12-08,First Division A,2020-21,Oud-Heverlee Leuven,Mouscron,2,0,2,2,0,5,0,0,2,4,5,0,0,0,1.75,3.75,4.5,1.8,3.93,4.56
+2020-12-11,First Division A,2020-21,Anderlecht,Genk,1,0,7,5,3,3,0,0,1,12,6,0,0,0,2.62,3.5,2.5,2.64,3.73,2.63
+2020-12-12,First Division A,2020-21,St Truiden,Charleroi,1,2,9,5,2,2,1,0,3,14,4,1,1,1,3.0,3.6,2.2,3.11,3.66,2.31
+2020-12-12,First Division A,2020-21,Mouscron,Beerschot VA,3,1,2,7,0,2,0,0,4,9,2,0,1,1,3.75,3.9,1.85,3.54,4.22,1.96
+2020-12-12,First Division A,2020-21,Cercle Brugge,Oostende,0,1,3,3,4,0,1,0,1,6,4,1,0,0,2.87,3.5,2.3,2.92,3.82,2.36
+2020-12-12,First Division A,2020-21,Kortrijk,Oud-Heverlee Leuven,0,3,12,1,2,1,0,0,3,13,3,0,0,1,2.0,3.6,3.5,2.11,3.68,3.54
+2020-12-13,First Division A,2020-21,Mechelen,Waasland-Beveren,2,3,3,1,0,0,1,0,5,4,0,1,1,1,1.44,4.5,6.5,1.43,4.96,6.46
+2020-12-13,First Division A,2020-21,Antwerp,Club Brugge,0,2,2,9,3,1,1,0,2,11,4,1,0,0,3.1,3.5,2.2,3.09,3.64,2.33
+2020-12-13,First Division A,2020-21,Gent,Standard,2,1,3,3,0,1,0,0,3,6,1,0,1,1,2.15,3.3,3.25,2.25,3.71,3.12
+2020-12-15,First Division A,2020-21,Cercle Brugge,Charleroi,3,4,2,9,3,2,1,0,7,11,5,1,1,1,3.25,3.6,2.1,3.41,3.64,2.15
+2020-12-15,First Division A,2020-21,Mouscron,Oud-Heverlee Leuven,2,2,6,4,5,2,0,0,4,10,7,0,1,1,2.9,3.6,2.2,3.08,3.59,2.33
+2020-12-15,First Division A,2020-21,Anderlecht,Oostende,2,1,2,3,0,3,1,0,3,5,3,1,1,1,1.8,3.8,4.0,1.85,3.76,4.33
+2020-12-16,First Division A,2020-21,Gent,Waasland-Beveren,3,0,4,4,1,2,0,0,3,8,3,0,0,1,1.44,4.75,6.5,1.43,5.02,6.81
+2020-12-16,First Division A,2020-21,Antwerp,Waregem,0,1,2,4,2,3,0,0,1,6,5,0,0,0,1.5,4.33,6.0,1.54,4.41,6.46
+2020-12-16,First Division A,2020-21,Kortrijk,Standard,2,1,6,5,3,1,0,0,3,11,4,0,1,1,3.0,3.6,2.15,3.2,3.66,2.26
+2020-12-17,First Division A,2020-21,Mechelen,Club Brugge,0,3,6,3,3,0,0,0,3,9,3,0,0,1,5.25,3.8,1.65,4.59,4.02,1.74
+2020-12-18,First Division A,2020-21,Charleroi,Anderlecht,1,0,3,3,3,0,0,0,1,6,3,0,0,0,2.87,3.3,2.37,3.04,3.32,2.49
+2020-12-19,First Division A,2020-21,Genk,Kortrijk,2,0,4,1,1,2,0,0,2,5,3,0,0,0,1.55,4.75,4.75,1.63,4.2,5.26
+2020-12-19,First Division A,2020-21,Waregem,St Truiden,0,2,6,4,4,2,1,0,2,10,6,1,0,0,2.2,3.6,2.9,2.31,3.63,3.02
+2020-12-20,First Division A,2020-21,Club Brugge,Gent,0,1,15,0,3,3,0,0,1,15,6,0,0,0,1.57,3.8,6.0,1.59,4.04,5.97
+2020-12-20,First Division A,2020-21,Oud-Heverlee Leuven,Mechelen,1,2,3,3,3,4,0,0,3,6,7,0,1,1,2.4,3.8,2.55,2.55,3.51,2.76
+2020-12-20,First Division A,2020-21,Standard,Mouscron,0,1,5,1,4,1,0,0,1,6,5,0,0,0,1.4,4.33,8.0,1.4,4.87,7.94
+2020-12-20,First Division A,2020-21,Waasland-Beveren,Antwerp,0,3,5,7,1,4,0,0,3,12,5,0,0,1,4.2,3.8,1.72,4.18,3.96,1.82
+2020-12-26,First Division A,2020-21,Oud-Heverlee Leuven,Oostende,1,2,4,9,1,3,0,0,3,13,4,0,1,1,2.6,3.5,2.6,2.55,3.6,2.71
+2020-12-26,First Division A,2020-21,Kortrijk,Gent,1,0,4,3,3,0,0,1,1,7,3,1,0,0,3.25,3.5,2.1,3.26,3.61,2.19
+2020-12-26,First Division A,2020-21,Standard,St Truiden,1,2,7,3,2,2,0,1,3,10,4,1,1,1,1.6,3.75,6.0,1.64,4.14,5.24
+2020-12-26,First Division A,2020-21,Club Brugge,Eupen,3,0,12,2,0,2,1,0,3,14,2,1,0,1,1.2,6.5,13.0,1.18,7.71,13.87
+2020-12-26,First Division A,2020-21,Waregem,Cercle Brugge,1,0,5,7,3,2,0,0,1,12,5,0,0,0,2.0,3.75,3.4,2.16,3.5,3.45
+2020-12-27,First Division A,2020-21,Antwerp,Charleroi,2,1,8,2,1,1,0,0,3,10,2,0,1,1,2.05,3.4,3.6,2.04,3.58,3.7
+2020-12-27,First Division A,2020-21,Genk,Waasland-Beveren,1,1,6,5,0,3,0,0,2,11,3,0,1,0,1.28,5.5,9.5,1.29,5.88,10.36
+2020-12-27,First Division A,2020-21,Anderlecht,Beerschot VA,2,0,7,1,1,4,0,0,2,8,5,0,0,0,1.7,4.0,4.5,1.75,4.35,4.13
+2020-12-27,First Division A,2020-21,Mechelen,Mouscron,2,1,5,3,0,1,0,0,3,8,1,0,1,1,1.57,3.8,6.5,1.59,4.24,5.59
+2020-12-29,First Division A,2020-21,Eupen,Waregem,2,3,3,6,3,2,0,0,5,9,5,0,1,1,1.9,3.6,3.75,2.0,3.67,3.8
+2020-12-30,First Division A,2020-21,St Truiden,Beerschot VA,1,0,6,3,3,0,0,0,1,9,3,0,0,0,2.25,3.5,3.0,2.34,3.76,2.89
+2021-01-06,First Division A,2020-21,Eupen,Genk,1,4,6,1,3,1,0,0,5,7,4,0,1,1,3.6,3.75,1.9,3.68,3.76,1.99
+2021-01-09,First Division A,2020-21,Oostende,Charleroi,3,2,6,3,2,0,0,0,5,9,2,0,1,1,2.75,3.4,2.45,2.77,3.41,2.6
+2021-01-09,First Division A,2020-21,Kortrijk,Genk,2,1,5,3,1,2,0,0,3,8,3,0,1,1,3.5,3.4,2.1,3.39,3.38,2.23
+2021-01-09,First Division A,2020-21,Cercle Brugge,Eupen,1,2,6,8,2,3,0,0,3,14,5,0,1,1,2.5,3.4,2.62,2.59,3.35,2.82
+2021-01-09,First Division A,2020-21,Waregem,Mouscron,1,0,2,10,3,2,0,0,1,12,5,0,0,0,1.85,3.75,3.8,1.95,3.5,4.11
+2021-01-10,First Division A,2020-21,Mechelen,Antwerp,3,0,6,4,1,3,0,0,3,10,4,0,0,1,2.87,3.4,2.3,2.81,3.51,2.51
+2021-01-10,First Division A,2020-21,Beerschot VA,Gent,1,1,2,11,4,2,0,0,2,13,6,0,1,0,3.1,3.5,2.15,3.05,3.92,2.19
+2021-01-10,First Division A,2020-21,Oud-Heverlee Leuven,Anderlecht,1,0,1,9,1,3,0,0,1,10,4,0,0,0,4.0,3.6,1.9,3.68,3.92,1.94
+2021-01-10,First Division A,2020-21,St Truiden,Club Brugge,1,2,5,7,1,2,1,0,3,12,3,1,1,1,6.0,4.2,1.53,5.94,4.24,1.56
+2021-01-11,First Division A,2020-21,Standard,Waasland-Beveren,3,1,5,5,3,1,0,0,4,10,4,0,1,1,1.45,4.2,7.0,1.47,4.55,6.58
+2021-01-12,First Division A,2020-21,Oostende,Eupen,1,1,10,2,2,3,0,1,2,12,5,1,1,0,1.8,3.8,4.0,1.87,3.91,4.1
+2021-01-13,First Division A,2020-21,Beerschot VA,Cercle Brugge,1,1,2,7,2,1,0,0,2,9,3,0,1,0,1.85,3.75,3.75,1.91,3.59,4.2
+2021-01-15,First Division A,2020-21,Eupen,Anderlecht,2,0,3,3,2,3,0,1,2,6,5,1,0,0,4.0,3.75,1.9,3.94,3.65,1.97
+2021-01-16,First Division A,2020-21,Oostende,Kortrijk,2,1,2,2,2,1,0,0,3,4,3,0,1,1,2.15,3.6,3.1,2.22,3.6,3.21
+2021-01-16,First Division A,2020-21,Mouscron,Genk,2,0,8,4,2,2,0,1,2,12,4,1,0,0,4.75,3.75,1.7,4.5,4.01,1.75
+2021-01-16,First Division A,2020-21,Waasland-Beveren,Waregem,1,5,8,1,2,1,0,0,6,9,3,0,1,1,2.7,3.6,2.37,2.73,3.79,2.45
+2021-01-16,First Division A,2020-21,Charleroi,Mechelen,0,1,7,4,1,1,0,0,1,11,2,0,0,0,2.05,3.6,3.3,2.13,3.87,3.21
+2021-01-17,First Division A,2020-21,Gent,Antwerp,0,1,5,4,1,3,0,0,1,9,4,0,0,0,1.95,3.5,4.0,1.99,3.64,3.81
+2021-01-17,First Division A,2020-21,Cercle Brugge,Standard,0,1,7,3,1,1,0,0,1,10,2,0,0,0,3.6,3.5,2.0,3.79,3.43,2.07
+2021-01-17,First Division A,2020-21,Beerschot VA,Club Brugge,0,3,5,7,3,2,0,0,3,12,5,0,0,1,6.5,4.75,1.45,5.94,4.93,1.49
+2021-01-17,First Division A,2020-21,St Truiden,Oud-Heverlee Leuven,3,1,2,4,2,0,0,1,4,6,2,1,1,1,2.0,3.4,3.75,2.15,3.21,3.79
+2021-01-19,First Division A,2020-21,Anderlecht,Charleroi,3,0,6,4,0,3,0,0,3,10,3,0,0,1,1.9,3.5,3.75,2.0,3.58,3.92
+2021-01-19,First Division A,2020-21,Mouscron,Waasland-Beveren,1,1,6,6,4,1,0,0,2,12,5,0,1,0,1.83,3.8,4.0,1.91,3.68,4.19
+2021-01-20,First Division A,2020-21,Kortrijk,St Truiden,0,2,9,1,2,0,0,0,2,10,2,0,0,0,2.15,3.5,3.1,2.24,3.48,3.28
+2021-01-20,First Division A,2020-21,Eupen,Beerschot VA,3,1,7,4,0,2,0,1,4,11,2,1,1,1,1.95,3.75,3.4,1.99,3.75,3.68
+2021-01-20,First Division A,2020-21,Mechelen,Standard,0,4,4,0,1,1,0,0,4,4,2,0,0,1,2.25,3.75,2.8,2.4,3.55,2.94
+2021-01-20,First Division A,2020-21,Antwerp,Cercle Brugge,1,0,2,8,2,3,0,0,1,10,5,0,0,0,1.5,4.33,5.75,1.55,4.19,6.24
+2021-01-20,First Division A,2020-21,Club Brugge,Oostende,2,1,5,3,1,1,0,0,3,8,2,0,1,1,1.28,5.5,8.5,1.32,5.52,9.42
+2021-01-21,First Division A,2020-21,Waregem,Oud-Heverlee Leuven,2,3,5,9,1,0,0,0,5,14,1,0,1,1,2.25,3.5,3.0,2.27,3.93,2.9
+2021-01-21,First Division A,2020-21,Genk,Gent,1,1,0,4,2,4,1,0,2,4,6,1,1,0,2.05,3.75,3.3,2.19,3.68,3.21
+2021-01-22,First Division A,2020-21,Anderlecht,Waasland-Beveren,0,0,13,1,1,0,0,0,0,14,1,0,0,0,1.28,4.5,11.0,1.3,5.69,10.58
+2021-01-23,First Division A,2020-21,Antwerp,Oostende,1,2,4,4,3,3,0,0,3,8,6,0,1,1,2.0,3.75,3.4,2.08,3.7,3.47
+2021-01-23,First Division A,2020-21,St Truiden,Mouscron,0,2,7,4,4,3,0,0,2,11,7,0,0,0,1.9,3.6,3.25,2.02,3.59,3.76
+2021-01-23,First Division A,2020-21,Mechelen,Eupen,3,0,5,10,3,1,0,0,3,15,4,0,0,1,1.75,3.6,3.6,1.93,3.86,3.79
+2021-01-23,First Division A,2020-21,Kortrijk,Cercle Brugge,1,2,8,7,2,1,0,0,3,15,3,0,1,1,2.0,3.75,3.0,2.11,3.45,3.62
+2021-01-24,First Division A,2020-21,Oud-Heverlee Leuven,Gent,0,3,3,7,2,2,1,0,3,10,4,1,0,1,3.8,3.6,1.72,3.57,4.34,1.88
+2021-01-24,First Division A,2020-21,Club Brugge,Genk,3,2,7,2,0,1,0,0,5,9,1,0,1,1,1.55,3.8,5.0,1.63,3.73,6.12
+2021-01-24,First Division A,2020-21,Waregem,Beerschot VA,0,3,6,3,0,0,0,0,3,9,0,0,0,1,1.95,3.6,3.1,2.13,3.53,3.48
+2021-01-24,First Division A,2020-21,Standard,Charleroi,3,2,3,2,1,2,0,1,5,5,3,1,1,1,1.9,3.6,3.3,2.13,3.24,3.82
+2021-01-26,First Division A,2020-21,Waasland-Beveren,Mechelen,2,3,6,10,2,1,0,0,5,16,3,0,1,1,4.75,4.33,1.6,4.73,4.36,1.68
+2021-01-26,First Division A,2020-21,Mouscron,Anderlecht,1,1,5,4,2,1,0,0,2,9,3,0,1,0,5.0,3.8,1.7,4.7,3.89,1.76
+2021-01-26,First Division A,2020-21,Eupen,Antwerp,0,2,5,4,2,1,0,0,2,9,3,0,0,0,2.75,3.6,2.37,3.0,3.49,2.42
+2021-01-27,First Division A,2020-21,Beerschot VA,Kortrijk,0,0,4,9,1,2,0,0,0,13,3,0,0,0,2.4,3.5,2.8,2.38,3.96,2.74
+2021-01-27,First Division A,2020-21,Genk,Waregem,3,2,5,3,0,0,0,0,5,8,0,0,1,1,1.5,4.5,5.75,1.5,4.41,6.71
+2021-01-27,First Division A,2020-21,Charleroi,Oud-Heverlee Leuven,1,1,12,5,2,3,0,0,2,17,5,0,1,0,1.8,3.8,4.0,1.88,3.82,4.04
+2021-01-27,First Division A,2020-21,Gent,St Truiden,1,1,6,3,1,2,0,0,2,9,3,0,1,0,1.57,4.0,5.75,1.57,4.32,5.71
+2021-01-28,First Division A,2020-21,Cercle Brugge,Club Brugge,1,2,2,6,0,2,0,0,3,8,2,0,1,1,7.5,5.0,1.36,8.61,4.5,1.41
+2021-01-28,First Division A,2020-21,Oostende,Standard,2,2,8,12,2,0,0,0,4,20,2,0,1,1,2.7,3.2,2.6,2.71,3.3,2.73
+2021-01-29,First Division A,2020-21,Antwerp,Waasland-Beveren,3,2,12,2,2,1,0,0,5,14,3,0,1,1,1.5,4.5,6.0,1.52,4.14,7.3
+2021-01-30,First Division A,2020-21,Eupen,Mouscron,1,1,7,6,0,2,0,0,2,13,2,0,1,0,2.05,3.3,3.5,2.11,3.55,3.51
+2021-01-30,First Division A,2020-21,Kortrijk,Charleroi,1,3,5,3,1,1,1,0,4,8,2,1,1,1,2.45,3.4,2.75,2.62,3.33,2.8
+2021-01-30,First Division A,2020-21,Mechelen,Genk,0,0,4,3,2,3,0,0,0,7,5,0,0,0,2.55,3.4,2.62,2.76,3.41,2.61
+2021-01-30,First Division A,2020-21,Oud-Heverlee Leuven,Beerschot VA,0,1,6,4,3,2,0,0,1,10,5,0,0,0,2.2,3.5,3.1,2.42,3.38,3.04
+2021-01-31,First Division A,2020-21,St Truiden,Cercle Brugge,3,0,1,4,3,2,0,0,3,5,5,0,0,1,2.0,3.5,3.5,2.18,3.31,3.59
+2021-01-31,First Division A,2020-21,Club Brugge,Standard,3,1,7,4,1,4,0,0,4,11,5,0,1,1,1.55,3.8,6.5,1.61,3.75,6.49
+2021-01-31,First Division A,2020-21,Waregem,Oostende,2,1,7,9,1,1,0,0,3,16,2,0,1,1,3.4,3.5,2.05,3.31,4.12,2.02
+2021-01-31,First Division A,2020-21,Anderlecht,Gent,0,0,5,3,0,1,0,0,0,8,1,0,0,0,2.25,3.4,3.1,2.35,3.3,3.22
+2021-02-05,First Division A,2020-21,Mouscron,Kortrijk,0,3,4,4,2,1,1,0,3,8,3,1,0,1,3.0,3.4,2.3,3.18,3.38,2.36
+2021-02-06,First Division A,2020-21,Standard,Oud-Heverlee Leuven,1,1,7,1,3,1,1,0,2,8,4,1,1,0,1.65,3.8,5.0,1.69,4.08,4.84
+2021-02-06,First Division A,2020-21,Waasland-Beveren,Club Brugge,0,2,3,5,2,0,0,0,2,8,2,0,0,0,13.0,7.5,1.16,15.04,6.64,1.2
+2021-02-06,First Division A,2020-21,Oostende,St Truiden,3,1,7,5,0,1,0,0,4,12,1,0,1,1,2.0,3.2,3.8,2.1,3.16,4.04
+2021-02-06,First Division A,2020-21,Cercle Brugge,Mechelen,0,1,7,10,2,1,0,0,1,17,3,0,0,0,3.0,3.6,2.15,2.99,3.85,2.25
+2021-02-07,First Division A,2020-21,Beerschot VA,Antwerp,1,2,5,7,4,3,0,0,3,12,7,0,1,1,3.4,3.25,2.2,3.51,3.13,2.3
+2021-02-07,First Division A,2020-21,Charleroi,Waregem,1,1,3,6,1,1,0,0,2,9,2,0,1,0,1.75,3.6,4.33,1.83,3.87,4.21
+2021-02-07,First Division A,2020-21,Genk,Anderlecht,1,2,5,2,3,2,0,0,3,7,5,0,1,1,2.3,3.4,3.0,2.42,3.44,2.99
+2021-02-07,First Division A,2020-21,Gent,Eupen,2,2,3,1,4,2,0,0,4,4,6,0,1,1,1.65,3.75,5.0,1.67,4.29,4.77
+2021-02-12,First Division A,2020-21,Oud-Heverlee Leuven,Kortrijk,3,1,3,5,2,4,1,0,4,8,6,1,1,1,2.9,3.4,2.37,2.79,3.62,2.51
+2021-02-13,First Division A,2020-21,St Truiden,Waregem,1,2,5,2,0,2,0,0,3,7,2,0,1,1,2.0,3.5,3.6,2.11,3.53,3.53
+2021-02-14,First Division A,2020-21,Beerschot VA,Mechelen,1,2,5,6,2,0,0,0,3,11,2,0,1,1,3.1,3.5,2.25,3.45,3.32,2.23
+2021-02-14,First Division A,2020-21,Cercle Brugge,Anderlecht,0,0,4,2,1,1,0,0,0,6,2,0,0,0,3.8,3.6,1.9,3.67,3.63,2.03
+2021-02-14,First Division A,2020-21,Standard,Antwerp,1,1,4,2,1,4,0,0,2,6,5,0,1,0,2.05,3.5,3.6,2.18,3.34,3.55
+2021-02-15,First Division A,2020-21,Gent,Mouscron,4,0,7,3,1,1,0,0,4,10,2,0,0,1,1.5,4.2,6.5,1.5,4.51,6.38
+2021-02-17,First Division A,2020-21,Waasland-Beveren,Eupen,1,0,4,5,3,2,0,0,1,9,5,0,0,0,4.0,3.8,1.83,3.77,3.96,1.91
+2021-02-17,First Division A,2020-21,Oostende,Genk,3,1,4,2,1,2,0,0,4,6,3,0,1,1,2.25,3.6,2.8,2.34,3.7,2.92
+2021-02-19,First Division A,2020-21,Mechelen,Gent,1,1,3,3,1,1,0,0,2,6,2,0,1,0,3.4,3.6,2.05,3.63,3.53,2.1
+2021-02-20,First Division A,2020-21,Eupen,Oostende,1,1,3,2,3,2,0,0,2,5,5,0,1,0,2.7,3.5,2.45,2.82,3.5,2.51
+2021-02-20,First Division A,2020-21,Mouscron,Cercle Brugge,1,2,7,5,4,2,0,0,3,12,6,0,1,1,2.37,3.5,2.8,2.53,3.54,2.78
+2021-02-20,First Division A,2020-21,Waasland-Beveren,Charleroi,1,1,7,3,2,0,0,0,2,10,2,0,1,0,3.6,3.5,1.9,3.51,3.95,1.99
+2021-02-21,First Division A,2020-21,Antwerp,St Truiden,0,0,3,4,1,1,0,0,0,7,2,0,0,0,1.7,4.0,4.33,1.79,4.05,4.22
+2021-02-21,First Division A,2020-21,Genk,Beerschot VA,1,2,10,3,2,3,0,0,3,13,5,0,1,1,1.61,4.33,4.75,1.68,4.18,4.81
+2021-02-21,First Division A,2020-21,Anderlecht,Kortrijk,0,2,6,6,0,3,0,0,2,12,3,0,0,0,1.6,4.0,5.25,1.63,3.92,5.67
+2021-02-21,First Division A,2020-21,Waregem,Standard,3,2,6,3,0,1,0,0,5,9,1,0,1,1,3.5,3.4,1.95,3.73,3.81,1.96
+2021-02-22,First Division A,2020-21,Club Brugge,Oud-Heverlee Leuven,3,0,8,5,1,3,0,0,3,13,4,0,0,1,1.2,7.0,11.0,1.34,5.71,8.22
+2021-02-26,First Division A,2020-21,Charleroi,Genk,1,2,3,6,2,2,0,0,3,9,4,0,1,1,3.1,3.5,2.2,3.12,3.72,2.25
+2021-02-27,First Division A,2020-21,Cercle Brugge,Waasland-Beveren,2,0,1,1,2,5,0,0,2,2,7,0,0,0,1.75,4.0,4.2,1.79,4.17,4.12
+2021-02-27,First Division A,2020-21,Oostende,Mechelen,2,0,5,11,2,3,0,0,2,16,5,0,0,0,2.37,3.6,2.7,2.46,3.66,2.78
+2021-02-27,First Division A,2020-21,Kortrijk,Waregem,1,2,1,6,1,4,0,0,3,7,5,0,1,1,1.95,3.6,3.5,1.96,4.08,3.5
+2021-02-28,First Division A,2020-21,Standard,Anderlecht,1,3,2,3,3,2,0,0,4,5,5,0,1,1,2.5,3.5,2.62,2.75,3.17,2.78
+2021-02-28,First Division A,2020-21,Beerschot VA,Mouscron,2,2,3,4,2,5,0,0,4,7,7,0,1,1,2.05,3.6,3.3,2.12,3.92,3.19
+2021-02-28,First Division A,2020-21,St Truiden,Eupen,0,2,6,9,2,1,1,0,2,15,3,1,0,0,2.15,3.6,3.0,2.24,3.7,3.1
+2021-03-01,First Division A,2020-21,Oud-Heverlee Leuven,Antwerp,2,0,2,5,1,2,0,0,2,7,3,0,0,0,3.4,3.6,2.0,3.69,3.53,2.06
+2021-03-05,First Division A,2020-21,Charleroi,St Truiden,0,0,4,1,1,2,0,0,0,5,3,0,0,0,2.2,3.6,3.0,2.33,3.48,3.16
+2021-03-06,First Division A,2020-21,Eupen,Oud-Heverlee Leuven,3,3,2,6,4,2,0,0,6,8,6,0,1,1,1.75,3.8,4.2,1.86,4.0,3.93
+2021-03-06,First Division A,2020-21,Waasland-Beveren,Beerschot VA,1,2,9,1,2,2,0,0,3,10,4,0,1,1,3.0,3.6,2.15,2.87,3.97,2.28
+2021-03-06,First Division A,2020-21,Antwerp,Kortrijk,4,2,5,9,1,1,1,0,6,14,2,1,1,1,1.9,3.6,3.6,1.94,3.92,3.7
+2021-03-07,First Division A,2020-21,Genk,Cercle Brugge,2,0,8,2,1,4,0,1,2,10,5,1,0,0,1.7,3.8,4.33,1.79,3.88,4.46
+2021-03-07,First Division A,2020-21,Club Brugge,Waregem,3,0,6,2,0,1,0,0,3,8,1,0,0,1,1.22,7.0,10.0,1.28,6.06,9.74
+2021-03-07,First Division A,2020-21,Mouscron,Standard,1,0,3,14,2,1,0,0,1,17,3,0,0,0,3.5,3.6,2.0,3.51,3.63,2.09
+2021-03-07,First Division A,2020-21,Anderlecht,Mechelen,1,1,6,0,0,1,0,0,2,6,1,0,1,0,1.9,3.75,3.6,1.88,3.78,4.05
+2021-03-08,First Division A,2020-21,Gent,Oostende,1,0,4,2,1,0,0,0,1,6,1,0,0,0,1.72,3.8,4.5,1.74,3.97,4.51
+2021-03-12,First Division A,2020-21,Charleroi,Club Brugge,1,1,7,7,3,0,0,0,2,14,3,0,1,0,6.5,4.0,1.5,7.34,4.08,1.52
+2021-03-15,First Division A,2020-21,Gent,Club Brugge,0,4,5,6,0,1,0,0,4,11,1,0,0,1,3.3,3.6,2.1,3.36,3.55,2.14
+2021-03-19,First Division A,2020-21,Genk,Standard,2,2,3,6,2,4,0,0,4,9,6,0,1,1,2.05,3.4,3.5,2.14,3.65,3.42
+2021-03-20,First Division A,2020-21,Mouscron,Oostende,0,1,2,9,1,1,0,0,1,11,2,0,0,0,3.6,3.3,2.05,3.62,3.44,2.12
+2021-03-20,First Division A,2020-21,Eupen,Kortrijk,2,0,6,4,2,2,0,0,2,10,4,0,0,0,2.45,3.3,2.75,2.6,3.46,2.74
+2021-03-21,First Division A,2020-21,Club Brugge,Antwerp,0,2,5,2,4,2,1,0,2,7,6,1,0,0,1.5,4.2,6.5,1.49,4.56,6.56
+2021-03-21,First Division A,2020-21,Mechelen,Oud-Heverlee Leuven,2,2,6,4,3,1,0,0,4,10,4,0,1,1,1.8,3.75,4.33,1.84,3.94,4.09
+2021-03-21,First Division A,2020-21,Anderlecht,Waregem,4,1,5,3,2,1,1,1,5,8,3,2,1,1,1.57,4.0,5.75,1.61,4.34,5.26
+2021-03-21,First Division A,2020-21,Gent,Cercle Brugge,1,0,3,2,2,2,0,0,1,5,4,0,0,0,2.05,3.75,3.2,2.21,3.58,3.14
+2021-04-03,First Division A,2020-21,Oostende,Waasland-Beveren,0,2,4,3,2,2,2,0,2,7,4,2,0,0,1.44,4.5,7.0,1.44,4.8,6.97
+2021-04-03,First Division A,2020-21,St Truiden,Mechelen,2,1,5,8,0,2,0,0,3,13,2,0,1,1,2.9,3.4,2.4,2.92,3.53,2.42
+2021-04-03,First Division A,2020-21,Kortrijk,Club Brugge,1,2,3,9,4,2,0,0,3,12,6,0,1,1,6.5,4.2,1.5,5.61,4.42,1.56
+2021-04-04,First Division A,2020-21,Charleroi,Mouscron,1,1,6,5,1,3,0,0,2,11,4,0,1,0,1.8,3.6,4.5,1.85,3.67,4.39
+2021-04-04,First Division A,2020-21,Standard,Gent,2,1,6,7,2,4,0,0,3,13,6,0,1,1,2.55,3.4,2.62,2.79,3.2,2.72
+2021-04-04,First Division A,2020-21,Cercle Brugge,Beerschot VA,2,1,2,4,3,1,1,0,3,6,4,1,1,1,1.95,3.6,3.6,1.99,3.93,3.54
+2021-04-05,First Division A,2020-21,Oud-Heverlee Leuven,Genk,2,3,7,7,1,0,0,0,5,14,1,0,1,1,3.75,3.5,1.95,3.49,3.91,2.01
+2021-04-05,First Division A,2020-21,Waregem,Eupen,2,1,7,8,1,3,0,1,3,15,4,1,1,1,2.3,3.4,2.9,2.48,3.4,2.92
+2021-04-05,First Division A,2020-21,Antwerp,Anderlecht,1,4,1,7,0,1,0,0,5,8,1,0,1,1,3.0,3.2,2.45,2.88,3.48,2.47
+2021-04-06,First Division A,2020-21,Waasland-Beveren,St Truiden,2,4,4,6,5,1,2,0,6,10,6,2,1,1,3.1,3.5,2.2,3.34,3.44,2.25
+2021-04-07,First Division A,2020-21,Beerschot VA,Charleroi,2,1,3,9,2,2,0,0,3,12,4,0,1,1,2.8,3.5,2.37,2.87,3.64,2.41
+2021-04-09,First Division A,2020-21,Eupen,Standard,0,4,6,5,1,0,0,0,4,11,1,0,0,1,3.5,3.4,2.05,3.57,3.34,2.2
+2021-04-10,First Division A,2020-21,Cercle Brugge,Oud-Heverlee Leuven,3,0,4,11,4,1,1,0,3,15,5,1,0,1,2.0,3.75,3.4,1.98,4.02,3.49
+2021-04-10,First Division A,2020-21,Mechelen,Waregem,4,2,3,7,3,0,0,0,6,10,3,0,1,1,1.75,4.2,4.0,1.78,4.19,4.14
+2021-04-10,First Division A,2020-21,Gent,Charleroi,4,0,9,3,3,2,0,0,4,12,5,0,0,1,1.66,4.0,4.75,1.73,3.92,4.78
+2021-04-11,First Division A,2020-21,Genk,St Truiden,4,0,5,2,0,1,0,0,4,7,1,0,0,1,1.55,4.2,5.5,1.58,4.49,5.35
+2021-04-11,First Division A,2020-21,Waasland-Beveren,Kortrijk,3,4,6,3,1,1,0,0,7,9,2,0,1,1,3.4,3.8,2.0,3.52,3.76,2.02
+2021-04-11,First Division A,2020-21,Anderlecht,Club Brugge,2,1,3,4,1,3,0,0,3,7,4,0,1,1,3.5,3.25,2.15,3.39,3.44,2.21
+2021-04-11,First Division A,2020-21,Beerschot VA,Oostende,1,2,1,11,1,2,0,0,3,12,3,0,1,1,3.1,3.5,2.2,3.12,3.76,2.21
+2021-04-12,First Division A,2020-21,Mouscron,Antwerp,2,3,13,3,3,1,0,1,5,16,4,1,1,1,3.5,3.75,1.95,3.74,3.82,1.95
+2021-04-17,First Division A,2020-21,Charleroi,Eupen,2,3,7,4,3,0,0,0,5,11,3,0,1,1,2.25,3.3,2.87,2.29,3.26,3.38
+2021-04-17,First Division A,2020-21,Antwerp,Genk,3,2,9,4,3,1,0,0,5,13,4,0,1,1,2.8,3.5,2.37,2.84,3.75,2.38
+2021-04-18,First Division A,2020-21,St Truiden,Anderlecht,0,1,2,5,1,1,0,0,1,7,2,0,0,0,5.5,3.4,1.57,,,
+2021-04-18,First Division A,2020-21,Oud-Heverlee Leuven,Waasland-Beveren,1,2,5,3,3,4,0,0,3,8,7,0,1,1,1.83,4.0,3.75,1.81,4.71,3.6
+2021-04-18,First Division A,2020-21,Standard,Beerschot VA,3,0,6,9,1,2,0,0,3,15,3,0,0,1,1.6,4.0,5.25,1.63,4.0,5.52
+2021-04-18,First Division A,2020-21,Kortrijk,Mechelen,1,4,4,5,1,1,0,0,5,9,2,0,1,1,3.75,3.6,1.85,3.58,4.34,1.88
+2021-04-18,First Division A,2020-21,Club Brugge,Mouscron,4,2,8,3,1,1,0,0,6,11,2,0,1,1,1.2,6.5,12.0,1.21,7.0,12.5
+2021-04-18,First Division A,2020-21,Oostende,Cercle Brugge,1,1,7,5,2,2,0,0,2,12,4,0,1,0,1.55,4.0,6.0,1.59,4.34,5.4
+2021-04-18,First Division A,2020-21,Waregem,Gent,2,7,4,3,2,1,0,0,9,7,3,0,1,1,4.75,3.6,1.72,4.26,4.11,1.78

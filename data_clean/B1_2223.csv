@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2022-07-22,First Division A,2022-23,Standard,Gent,2,2,2,12,5,2,1,0,4,14,7,1,1,1
-2022-07-23,First Division A,2022-23,Charleroi,Eupen,3,1,2,1,2,1,0,0,4,3,3,0,1,1
-2022-07-23,First Division A,2022-23,Kortrijk,Oud-Heverlee Leuven,0,2,6,4,3,0,0,0,2,10,3,0,0,0
-2022-07-23,First Division A,2022-23,Waregem,Seraing,2,0,7,0,1,1,0,0,2,7,2,0,0,0
-2022-07-23,First Division A,2022-23,St Truiden,St. Gilloise,1,1,0,5,1,4,0,0,2,5,5,0,1,0
-2022-07-24,First Division A,2022-23,Anderlecht,Oostende,2,0,7,5,0,4,0,1,2,12,4,1,0,0
-2022-07-24,First Division A,2022-23,Westerlo,Cercle Brugge,2,0,3,4,1,5,0,1,2,7,6,1,0,0
-2022-07-24,First Division A,2022-23,Club Brugge,Genk,3,2,4,3,1,2,0,0,5,7,3,0,1,1
-2022-07-24,First Division A,2022-23,Mechelen,Antwerp,0,2,6,2,1,1,0,0,2,8,2,0,0,0
-2022-07-29,First Division A,2022-23,St. Gilloise,Charleroi,1,0,8,4,2,1,0,0,1,12,3,0,0,0
-2022-07-30,First Division A,2022-23,Cercle Brugge,Anderlecht,1,0,8,1,0,5,0,1,1,9,5,1,0,0
-2022-07-30,First Division A,2022-23,Oostende,Mechelen,2,1,6,9,0,2,1,0,3,15,2,1,1,1
-2022-07-30,First Division A,2022-23,Oud-Heverlee Leuven,Westerlo,2,0,5,6,2,3,0,1,2,11,5,1,0,0
-2022-07-30,First Division A,2022-23,Gent,St Truiden,1,1,3,6,2,2,0,0,2,9,4,0,1,0
-2022-07-31,First Division A,2022-23,Seraing,Kortrijk,0,1,3,4,2,2,1,1,1,7,4,2,0,0
-2022-07-31,First Division A,2022-23,Genk,Standard,3,1,7,4,3,4,0,0,4,11,7,0,1,1
-2022-07-31,First Division A,2022-23,Eupen,Club Brugge,2,1,5,7,4,2,1,0,3,12,6,1,1,1
-2022-07-31,First Division A,2022-23,Antwerp,Waregem,1,0,3,6,2,3,0,1,1,9,5,1,0,0
-2022-08-05,First Division A,2022-23,Club Brugge,Waregem,1,1,7,4,2,3,0,0,2,11,5,0,1,0
-2022-08-06,First Division A,2022-23,Genk,Eupen,4,2,8,2,0,3,0,1,6,10,3,1,1,1
-2022-08-06,First Division A,2022-23,Charleroi,Oostende,1,3,9,5,2,1,0,0,4,14,3,0,1,1
-2022-08-06,First Division A,2022-23,Kortrijk,St Truiden,0,0,4,6,0,1,0,0,0,10,1,0,0,0
-2022-08-06,First Division A,2022-23,Mechelen,St. Gilloise,3,0,3,5,2,5,0,0,3,8,7,0,0,1
-2022-08-07,First Division A,2022-23,Standard,Cercle Brugge,2,0,6,6,1,2,0,0,2,12,3,0,0,0
-2022-08-07,First Division A,2022-23,Gent,Westerlo,2,1,10,7,2,0,0,0,3,17,2,0,1,1
-2022-08-07,First Division A,2022-23,Anderlecht,Seraing,3,1,2,1,1,1,0,0,4,3,2,0,1,1
-2022-08-07,First Division A,2022-23,Antwerp,Oud-Heverlee Leuven,4,2,8,7,2,1,0,0,6,15,3,0,1,1
-2022-08-12,First Division A,2022-23,Oostende,Gent,1,3,2,6,3,1,0,0,4,8,4,0,1,1
-2022-08-13,First Division A,2022-23,St. Gilloise,Kortrijk,2,1,5,1,0,3,0,0,3,6,3,0,1,1
-2022-08-13,First Division A,2022-23,Seraing,Charleroi,0,1,4,6,2,2,0,0,1,10,4,0,0,0
-2022-08-13,First Division A,2022-23,Westerlo,Standard,4,2,4,6,2,6,0,1,6,10,8,1,1,1
-2022-08-13,First Division A,2022-23,Cercle Brugge,Mechelen,0,0,8,8,1,3,0,0,0,16,4,0,0,0
-2022-08-14,First Division A,2022-23,St Truiden,Anderlecht,0,3,6,5,4,3,0,0,3,11,7,0,0,1
-2022-08-14,First Division A,2022-23,Eupen,Antwerp,0,1,6,3,4,0,0,0,1,9,4,0,0,0
-2022-08-14,First Division A,2022-23,Oud-Heverlee Leuven,Club Brugge,0,3,7,5,3,2,0,0,3,12,5,0,0,1
-2022-08-14,First Division A,2022-23,Waregem,Genk,1,4,4,8,4,2,0,0,5,12,6,0,1,1
-2022-08-19,First Division A,2022-23,Eupen,Seraing,1,3,7,6,5,3,0,0,4,13,8,0,1,1
-2022-08-20,First Division A,2022-23,Genk,Cercle Brugge,2,1,7,5,1,1,0,0,3,12,2,0,1,1
-2022-08-20,First Division A,2022-23,Oostende,St Truiden,0,1,5,5,2,4,0,0,1,10,6,0,0,0
-2022-08-21,First Division A,2022-23,Club Brugge,Kortrijk,2,1,15,2,3,3,0,1,3,17,6,1,1,1
-2022-08-21,First Division A,2022-23,Waregem,Charleroi,1,3,2,5,2,0,0,0,4,7,2,0,1,1
-2022-08-21,First Division A,2022-23,Standard,Oud-Heverlee Leuven,1,3,10,3,3,4,0,1,4,13,7,1,1,1
-2022-08-21,First Division A,2022-23,Mechelen,Westerlo,5,4,4,5,1,2,0,0,9,9,3,0,1,1
-2022-08-26,First Division A,2022-23,Charleroi,Club Brugge,1,3,2,5,1,0,0,0,4,7,1,0,1,1
-2022-08-27,First Division A,2022-23,Oud-Heverlee Leuven,Oostende,2,1,2,7,1,3,0,0,3,9,4,0,1,1
-2022-08-27,First Division A,2022-23,St Truiden,Mechelen,3,1,4,3,1,3,0,0,4,7,4,0,1,1
-2022-08-27,First Division A,2022-23,Seraing,Genk,0,4,5,2,2,3,0,0,4,7,5,0,0,1
-2022-08-27,First Division A,2022-23,Cercle Brugge,Waregem,1,1,6,4,1,2,0,0,2,10,3,0,1,0
-2022-08-28,First Division A,2022-23,Gent,Antwerp,1,2,6,2,2,3,0,0,3,8,5,0,1,1
-2022-08-28,First Division A,2022-23,Kortrijk,Standard,0,1,4,9,4,3,1,0,1,13,7,1,0,0
-2022-08-28,First Division A,2022-23,St. Gilloise,Anderlecht,2,1,7,7,3,1,0,0,3,14,4,0,1,1
-2022-08-28,First Division A,2022-23,Westerlo,Eupen,0,1,5,10,2,1,0,0,1,15,3,0,0,0
-2022-08-31,First Division A,2022-23,Antwerp,St. Gilloise,4,2,4,3,2,0,0,2,6,7,2,2,1,1
-2022-09-01,First Division A,2022-23,Anderlecht,Gent,0,1,5,3,2,2,0,0,1,8,4,0,0,0
-2022-09-02,First Division A,2022-23,Club Brugge,Cercle Brugge,4,0,7,4,1,2,0,0,4,11,3,0,0,1
-2022-09-03,First Division A,2022-23,Standard,Oostende,1,0,5,4,2,2,0,0,1,9,4,0,0,0
-2022-09-03,First Division A,2022-23,Mechelen,Seraing,2,3,9,3,2,2,0,0,5,12,4,0,1,1
-2022-09-03,First Division A,2022-23,Eupen,Kortrijk,0,1,8,4,5,3,0,0,1,12,8,0,0,0
-2022-09-03,First Division A,2022-23,Genk,St Truiden,0,0,8,6,1,3,0,0,0,14,4,0,0,0
-2022-09-04,First Division A,2022-23,Anderlecht,Oud-Heverlee Leuven,2,2,12,2,3,1,0,0,4,14,4,0,1,1
-2022-09-04,First Division A,2022-23,Antwerp,Westerlo,3,0,3,6,0,2,0,0,3,9,2,0,0,1
-2022-09-04,First Division A,2022-23,Charleroi,Gent,2,1,4,4,2,0,0,1,3,8,2,1,1,1
-2022-09-04,First Division A,2022-23,Waregem,St. Gilloise,1,3,7,3,3,3,0,1,4,10,6,1,1,1
-2022-09-09,First Division A,2022-23,St Truiden,Standard,1,2,7,0,0,3,0,0,3,7,3,0,1,1
-2022-09-10,First Division A,2022-23,Oud-Heverlee Leuven,Charleroi,3,2,2,1,1,4,0,0,5,3,5,0,1,1
-2022-09-10,First Division A,2022-23,Seraing,Club Brugge,0,2,2,1,4,2,0,0,2,3,6,0,0,0
-2022-09-10,First Division A,2022-23,Kortrijk,Mechelen,1,4,10,3,3,5,0,0,5,13,8,0,1,1
-2022-09-10,First Division A,2022-23,Oostende,Eupen,1,0,3,6,5,3,1,0,1,9,8,1,0,0
-2022-09-11,First Division A,2022-23,Westerlo,Anderlecht,2,1,1,6,2,3,0,0,3,7,5,0,1,1
-2022-09-11,First Division A,2022-23,Cercle Brugge,Antwerp,0,2,3,3,1,3,0,0,2,6,4,0,0,0
-2022-09-11,First Division A,2022-23,St. Gilloise,Genk,1,2,4,5,4,3,0,0,3,9,7,0,1,1
-2022-09-11,First Division A,2022-23,Gent,Waregem,2,0,4,4,0,2,0,0,2,8,2,0,0,0
-2022-09-16,First Division A,2022-23,Antwerp,Seraing,2,1,5,3,3,2,0,0,3,8,5,0,1,1
-2022-09-17,First Division A,2022-23,Charleroi,Westerlo,2,3,1,0,0,0,0,0,5,1,0,0,1,1
-2022-09-17,First Division A,2022-23,Waregem,St Truiden,0,3,0,4,1,3,1,0,3,4,4,1,0,1
-2022-09-17,First Division A,2022-23,Cercle Brugge,Oostende,2,2,10,7,1,3,0,0,4,17,4,0,1,1
-2022-09-17,First Division A,2022-23,Mechelen,Oud-Heverlee Leuven,0,0,10,1,2,2,1,0,0,11,4,1,0,0
-2022-09-18,First Division A,2022-23,Genk,Gent,1,0,5,5,2,2,0,0,1,10,4,0,0,0
-2022-09-18,First Division A,2022-23,Eupen,St. Gilloise,1,2,5,5,3,2,1,0,3,10,5,1,1,1
-2022-09-18,First Division A,2022-23,Standard,Club Brugge,3,0,1,8,4,2,1,0,3,9,6,1,0,1
-2022-09-18,First Division A,2022-23,Anderlecht,Kortrijk,4,1,9,6,1,2,0,0,5,15,3,0,1,1
-2022-09-30,First Division A,2022-23,Standard,Seraing,0,2,9,4,1,4,0,0,2,13,5,0,0,0
-2022-10-01,First Division A,2022-23,Oud-Heverlee Leuven,St. Gilloise,0,3,6,8,2,3,0,0,3,14,5,0,0,1
-2022-10-01,First Division A,2022-23,Oostende,Genk,1,2,2,6,1,1,1,0,3,8,2,1,1,1
-2022-10-01,First Division A,2022-23,Westerlo,Waregem,2,0,5,12,3,3,0,0,2,17,6,0,0,0
-2022-10-01,First Division A,2022-23,Club Brugge,Mechelen,3,0,5,3,0,0,0,0,3,8,0,0,0,1
-2022-10-02,First Division A,2022-23,Anderlecht,Charleroi,0,1,14,5,2,3,0,0,1,19,5,0,0,0
-2022-10-02,First Division A,2022-23,Gent,Cercle Brugge,3,4,6,4,3,5,0,0,7,10,8,0,1,1
-2022-10-02,First Division A,2022-23,Kortrijk,Antwerp,2,1,0,7,4,1,0,0,3,7,5,0,1,1
-2022-10-02,First Division A,2022-23,St Truiden,Eupen,0,1,10,1,1,2,0,0,1,11,3,0,0,0
-2022-10-07,First Division A,2022-23,Antwerp,St Truiden,2,0,6,2,1,3,0,1,2,8,4,1,0,0
-2022-10-08,First Division A,2022-23,Waregem,Oud-Heverlee Leuven,2,5,4,6,6,2,0,0,7,10,8,0,1,1
-2022-10-08,First Division A,2022-23,Club Brugge,Westerlo,0,2,11,3,0,1,0,0,2,14,1,0,0,0
-2022-10-08,First Division A,2022-23,Genk,Kortrijk,2,1,10,3,4,0,0,0,3,13,4,0,1,1
-2022-10-08,First Division A,2022-23,Seraing,Oostende,1,1,3,9,1,1,1,0,2,12,2,1,1,0
-2022-10-09,First Division A,2022-23,Mechelen,Anderlecht,1,3,5,7,1,4,0,0,4,12,5,0,1,1
-2022-10-09,First Division A,2022-23,Eupen,Gent,0,4,6,9,2,2,0,0,4,15,4,0,0,1
-2022-10-09,First Division A,2022-23,Charleroi,Standard,0,1,3,1,3,4,1,2,1,4,7,3,0,0
-2022-10-09,First Division A,2022-23,St. Gilloise,Cercle Brugge,2,1,3,4,0,1,0,0,3,7,1,0,1,1
-2022-10-14,First Division A,2022-23,Westerlo,Seraing,2,2,5,2,0,1,0,0,4,7,1,0,1,1
-2022-10-15,First Division A,2022-23,Oud-Heverlee Leuven,Genk,0,1,11,9,3,2,0,1,1,20,5,1,0,0
-2022-10-15,First Division A,2022-23,St Truiden,Charleroi,2,1,4,4,1,2,0,0,3,8,3,0,1,1
-2022-10-15,First Division A,2022-23,Kortrijk,Waregem,1,3,3,5,4,4,0,0,4,8,8,0,1,1
-2022-10-15,First Division A,2022-23,Cercle Brugge,Eupen,5,1,2,2,2,2,0,0,6,4,4,0,1,1
-2022-10-16,First Division A,2022-23,Standard,Antwerp,3,0,2,6,2,3,0,0,3,8,5,0,0,1
-2022-10-16,First Division A,2022-23,Gent,Mechelen,3,0,5,2,1,3,0,1,3,7,4,1,0,1
-2022-10-16,First Division A,2022-23,Anderlecht,Club Brugge,0,1,6,7,1,3,0,1,1,13,4,1,0,0
-2022-10-16,First Division A,2022-23,Oostende,St. Gilloise,1,6,6,4,2,2,0,0,7,10,4,0,1,1
-2022-10-18,First Division A,2022-23,Seraing,Cercle Brugge,0,1,1,1,5,3,1,0,1,2,8,1,0,0
-2022-10-18,First Division A,2022-23,Charleroi,Kortrijk,2,2,4,9,3,1,0,0,4,13,4,0,1,1
-2022-10-18,First Division A,2022-23,Eupen,Oud-Heverlee Leuven,4,2,6,3,3,2,0,0,6,9,5,0,1,1
-2022-10-18,First Division A,2022-23,Genk,Westerlo,6,1,7,1,1,0,0,1,7,8,1,1,1,1
-2022-10-19,First Division A,2022-23,Mechelen,Standard,2,0,8,5,1,2,0,0,2,13,3,0,0,0
-2022-10-19,First Division A,2022-23,St. Gilloise,Gent,2,0,3,4,1,2,0,1,2,7,3,1,0,0
-2022-10-19,First Division A,2022-23,Club Brugge,St Truiden,3,0,8,1,2,2,0,1,3,9,4,1,0,1
-2022-10-20,First Division A,2022-23,Antwerp,Oostende,3,0,7,3,1,2,0,0,3,10,3,0,0,1
-2022-10-20,First Division A,2022-23,Waregem,Anderlecht,3,2,5,5,8,1,0,1,5,10,9,1,1,1
-2022-10-21,First Division A,2022-23,Cercle Brugge,Charleroi,4,1,6,6,3,1,0,0,5,12,4,0,1,1
-2022-10-22,First Division A,2022-23,Kortrijk,Westerlo,0,2,6,6,0,2,1,0,2,12,2,1,0,0
-2022-10-22,First Division A,2022-23,Mechelen,Eupen,2,1,7,8,3,4,1,0,3,15,7,1,1,1
-2022-10-22,First Division A,2022-23,St Truiden,Oud-Heverlee Leuven,0,0,3,5,2,2,1,0,0,8,4,1,0,0
-2022-10-22,First Division A,2022-23,St. Gilloise,Club Brugge,2,2,4,4,4,2,1,0,4,8,6,1,1,1
-2022-10-23,First Division A,2022-23,Gent,Seraing,2,1,9,3,1,1,0,0,3,12,2,0,1,1
-2022-10-23,First Division A,2022-23,Antwerp,Genk,1,3,8,4,1,1,0,0,4,12,2,0,1,1
-2022-10-23,First Division A,2022-23,Standard,Anderlecht,5,0,0,0,0,0,0,0,5,0,0,0,0,1
-2022-10-23,First Division A,2022-23,Oostende,Waregem,2,1,5,5,2,3,0,0,3,10,5,0,1,1
-2022-10-28,First Division A,2022-23,Genk,Mechelen,3,1,8,7,2,2,1,0,4,15,4,1,1,1
-2022-10-29,First Division A,2022-23,Club Brugge,Oostende,4,2,4,2,2,2,0,0,6,6,4,0,1,1
-2022-10-29,First Division A,2022-23,Westerlo,St Truiden,2,3,4,2,4,3,0,0,5,6,7,0,1,1
-2022-10-29,First Division A,2022-23,Waregem,Standard,0,3,4,10,1,1,1,0,3,14,2,1,0,1
-2022-10-29,First Division A,2022-23,Kortrijk,Cercle Brugge,1,1,3,6,4,2,0,0,2,9,6,0,1,0
-2022-10-30,First Division A,2022-23,Charleroi,Antwerp,1,0,4,8,3,3,0,0,1,12,6,0,0,0
-2022-10-30,First Division A,2022-23,Oud-Heverlee Leuven,Gent,1,1,1,6,5,4,0,0,2,7,9,0,1,0
-2022-10-30,First Division A,2022-23,Anderlecht,Eupen,4,2,10,4,2,2,0,0,6,14,4,0,1,1
-2022-10-30,First Division A,2022-23,Seraing,St. Gilloise,1,2,6,7,3,2,0,0,3,13,5,0,1,1
-2022-11-04,First Division A,2022-23,Genk,Charleroi,4,1,5,4,1,1,0,0,5,9,2,0,1,1
-2022-11-05,First Division A,2022-23,Mechelen,Waregem,2,2,11,5,1,4,0,1,4,16,5,1,1,1
-2022-11-05,First Division A,2022-23,Cercle Brugge,Oud-Heverlee Leuven,2,1,6,6,2,2,0,0,3,12,4,0,1,1
-2022-11-05,First Division A,2022-23,Seraing,St Truiden,1,2,5,7,5,1,1,0,3,12,6,1,1,1
-2022-11-05,First Division A,2022-23,Eupen,Standard,2,0,7,2,0,3,1,1,2,9,3,2,0,0
-2022-11-06,First Division A,2022-23,Gent,Club Brugge,2,0,4,3,1,5,0,0,2,7,6,0,0,0
-2022-11-06,First Division A,2022-23,St. Gilloise,Westerlo,1,1,10,4,4,3,0,0,2,14,7,0,1,0
-2022-11-06,First Division A,2022-23,Antwerp,Anderlecht,0,0,4,1,2,3,0,0,0,5,5,0,0,0
-2022-11-06,First Division A,2022-23,Oostende,Kortrijk,3,1,8,6,3,3,0,1,4,14,6,1,1,1
-2022-11-11,First Division A,2022-23,Oud-Heverlee Leuven,Seraing,5,0,14,3,1,6,0,1,5,17,7,1,0,1
-2022-11-12,First Division A,2022-23,Waregem,Eupen,5,5,11,2,2,2,0,0,10,13,4,0,1,1
-2022-11-12,First Division A,2022-23,Charleroi,Mechelen,0,5,0,0,0,0,0,0,5,0,0,0,0,1
-2022-11-12,First Division A,2022-23,Westerlo,Oostende,6,0,5,3,1,2,0,0,6,8,3,0,0,1
-2022-11-12,First Division A,2022-23,St Truiden,Cercle Brugge,0,1,10,2,0,4,1,1,1,12,4,2,0,0
-2022-11-13,First Division A,2022-23,Anderlecht,Genk,0,2,5,6,2,3,0,1,2,11,5,1,0,0
-2022-11-13,First Division A,2022-23,Kortrijk,Gent,0,4,8,6,2,0,1,1,4,14,2,2,0,1
-2022-11-13,First Division A,2022-23,Club Brugge,Antwerp,2,2,3,4,4,2,0,0,4,7,6,0,1,1
-2022-11-13,First Division A,2022-23,Standard,St. Gilloise,2,3,8,4,3,4,0,0,5,12,7,0,1,1
-2022-12-23,First Division A,2022-23,Seraing,Eupen,0,1,4,9,3,1,0,0,1,13,4,0,0,0
-2022-12-23,First Division A,2022-23,Gent,Standard,0,0,13,1,0,5,0,0,0,14,5,0,0,0
-2022-12-23,First Division A,2022-23,Mechelen,Cercle Brugge,1,1,9,8,2,4,0,1,2,17,6,1,1,0
-2022-12-26,First Division A,2022-23,Club Brugge,Oud-Heverlee Leuven,1,1,3,3,3,2,0,0,2,6,5,0,1,0
-2022-12-26,First Division A,2022-23,St. Gilloise,Oostende,3,0,10,2,3,4,0,0,3,12,7,0,0,1
-2022-12-26,First Division A,2022-23,Kortrijk,Genk,1,0,5,6,4,1,0,0,1,11,5,0,0,0
-2022-12-26,First Division A,2022-23,Charleroi,Anderlecht,0,1,3,0,2,1,0,0,1,3,3,0,0,0
-2022-12-27,First Division A,2022-23,St Truiden,Waregem,2,0,6,3,0,1,0,1,2,9,1,1,0,0
-2022-12-27,First Division A,2022-23,Westerlo,Antwerp,3,3,3,6,1,1,0,0,6,9,2,0,1,1
-2023-01-06,First Division A,2022-23,Standard,St Truiden,1,1,9,2,0,2,0,0,2,11,2,0,1,0
-2023-01-07,First Division A,2022-23,Eupen,Charleroi,1,2,5,7,1,2,0,0,3,12,3,0,1,1
-2023-01-07,First Division A,2022-23,Cercle Brugge,Westerlo,0,1,6,4,1,3,0,0,1,10,4,0,0,0
-2023-01-07,First Division A,2022-23,Oostende,Seraing,1,2,5,2,6,5,2,0,3,7,11,2,1,1
-2023-01-07,First Division A,2022-23,Antwerp,Gent,2,0,3,6,2,1,0,0,2,9,3,0,0,0
-2023-01-08,First Division A,2022-23,Oud-Heverlee Leuven,Kortrijk,2,3,5,6,1,3,0,0,5,11,4,0,1,1
-2023-01-08,First Division A,2022-23,Anderlecht,St. Gilloise,1,3,0,6,5,3,1,0,4,6,8,1,1,1
-2023-01-08,First Division A,2022-23,Genk,Club Brugge,3,1,5,4,2,4,0,1,4,9,6,1,1,1
-2023-01-08,First Division A,2022-23,Waregem,Mechelen,2,0,3,3,2,6,0,0,2,6,8,0,0,0
-2023-01-13,First Division A,2022-23,Westerlo,Oud-Heverlee Leuven,1,2,9,3,3,2,0,1,3,12,5,1,1,1
-2023-01-14,First Division A,2022-23,Seraing,Standard,1,1,3,11,5,1,0,0,2,14,6,0,1,0
-2023-01-14,First Division A,2022-23,Eupen,St Truiden,0,2,3,3,1,1,0,0,2,6,2,0,0,0
-2023-01-14,First Division A,2022-23,Mechelen,Oostende,2,1,10,1,1,1,0,1,3,11,2,1,1,1
-2023-01-14,First Division A,2022-23,Genk,Waregem,1,0,1,5,2,2,0,0,1,6,4,0,0,0
-2023-01-15,First Division A,2022-23,Gent,Kortrijk,2,1,7,5,3,1,0,0,3,12,4,0,1,1
-2023-01-15,First Division A,2022-23,Club Brugge,Anderlecht,1,1,3,4,2,3,0,0,2,7,5,0,1,0
-2023-01-15,First Division A,2022-23,St. Gilloise,Antwerp,2,0,8,9,5,4,0,0,2,17,9,0,0,0
-2023-01-15,First Division A,2022-23,Charleroi,Cercle Brugge,2,1,9,7,1,1,0,0,3,16,2,0,1,1
-2023-01-17,First Division A,2022-23,Oud-Heverlee Leuven,Eupen,1,1,8,7,2,2,0,0,2,15,4,0,1,0
-2023-01-17,First Division A,2022-23,Standard,Mechelen,2,0,7,7,2,0,0,0,2,14,2,0,0,0
-2023-01-17,First Division A,2022-23,Westerlo,Genk,2,3,11,4,3,0,0,0,5,15,3,0,1,1
-2023-01-18,First Division A,2022-23,Oostende,Antwerp,0,3,6,5,1,0,0,0,3,11,1,0,0,1
-2023-01-18,First Division A,2022-23,Anderlecht,Waregem,2,3,5,2,1,2,0,0,5,7,3,0,1,1
-2023-01-18,First Division A,2022-23,Cercle Brugge,St. Gilloise,1,1,3,6,2,0,0,0,2,9,2,0,1,0
-2023-01-18,First Division A,2022-23,Kortrijk,Seraing,3,2,6,8,1,2,0,1,5,14,3,1,1,1
-2023-01-19,First Division A,2022-23,St Truiden,Club Brugge,1,1,1,8,1,1,0,0,2,9,2,0,1,0
-2023-01-19,First Division A,2022-23,Gent,Charleroi,0,0,9,5,2,4,0,0,0,14,6,0,0,0
-2023-01-21,First Division A,2022-23,Waregem,Westerlo,1,1,5,5,1,1,0,0,2,10,2,0,1,0
-2023-01-21,First Division A,2022-23,Mechelen,Kortrijk,3,2,9,0,2,4,0,0,5,9,6,0,1,1
-2023-01-21,First Division A,2022-23,Oostende,Cercle Brugge,1,2,4,6,3,1,0,0,3,10,4,0,1,1
-2023-01-21,First Division A,2022-23,St. Gilloise,Oud-Heverlee Leuven,1,0,12,5,1,3,0,0,1,17,4,0,0,0
-2023-01-22,First Division A,2022-23,Antwerp,Standard,4,1,2,2,3,2,0,1,5,4,5,1,1,1
-2023-01-22,First Division A,2022-23,Seraing,Anderlecht,0,1,4,6,3,1,0,0,1,10,4,0,0,0
-2023-01-22,First Division A,2022-23,Club Brugge,Charleroi,2,2,2,3,2,4,0,1,4,5,6,1,1,1
-2023-01-22,First Division A,2022-23,St Truiden,Gent,0,3,1,5,2,0,1,0,3,6,2,1,0,1
-2023-01-27,First Division A,2022-23,Standard,Eupen,3,1,8,2,1,2,0,0,4,10,3,0,1,1
-2023-01-28,First Division A,2022-23,Westerlo,Mechelen,2,0,11,5,1,3,0,1,2,16,4,1,0,0
-2023-01-28,First Division A,2022-23,Kortrijk,Oostende,2,2,2,5,1,0,0,0,4,7,1,0,1,1
-2023-01-28,First Division A,2022-23,Oud-Heverlee Leuven,St Truiden,1,1,6,3,0,3,0,0,2,9,3,0,1,0
-2023-01-28,First Division A,2022-23,Charleroi,St. Gilloise,0,1,2,8,3,3,0,0,1,10,6,0,0,0
-2023-01-29,First Division A,2022-23,Anderlecht,Antwerp,0,0,6,2,4,3,1,1,0,8,7,2,0,0
-2023-01-29,First Division A,2022-23,Cercle Brugge,Gent,3,2,4,2,1,1,0,0,5,6,2,0,1,1
-2023-01-29,First Division A,2022-23,Waregem,Club Brugge,1,2,4,8,2,4,1,0,3,12,6,1,1,1
-2023-01-29,First Division A,2022-23,Genk,Seraing,4,0,3,4,0,2,0,0,4,7,2,0,0,1
-2023-02-01,First Division A,2022-23,Eupen,Genk,1,1,3,7,5,4,0,0,2,10,9,0,1,0
-2023-02-03,First Division A,2022-23,Oostende,Anderlecht,0,2,3,2,3,1,0,0,2,5,4,0,0,0
-2023-02-04,First Division A,2022-23,Cercle Brugge,Standard,1,1,4,1,3,3,0,0,2,5,6,0,1,0
-2023-02-04,First Division A,2022-23,Eupen,Westerlo,1,1,4,7,1,0,0,0,2,11,1,0,1,0
-2023-02-04,First Division A,2022-23,Seraing,Oud-Heverlee Leuven,2,1,7,11,1,0,0,0,3,18,1,0,1,1
-2023-02-04,First Division A,2022-23,St Truiden,Kortrijk,1,0,2,2,1,3,0,0,1,4,4,0,0,0
-2023-02-05,First Division A,2022-23,Antwerp,Club Brugge,0,0,2,5,1,5,0,0,0,7,6,0,0,0
-2023-02-05,First Division A,2022-23,Mechelen,Charleroi,2,2,4,7,0,3,1,0,4,11,3,1,1,1
-2023-02-05,First Division A,2022-23,Gent,Genk,2,3,4,3,1,1,0,0,5,7,2,0,1,1
-2023-02-05,First Division A,2022-23,St. Gilloise,Waregem,4,0,2,3,0,1,0,0,4,5,1,0,0,1
-2023-02-10,First Division A,2022-23,Eupen,Mechelen,2,1,4,2,0,4,0,0,3,6,4,0,1,1
-2023-02-10,First Division A,2022-23,Club Brugge,St. Gilloise,1,1,5,3,1,4,0,0,2,8,5,0,1,0
-2023-02-10,First Division A,2022-23,Oud-Heverlee Leuven,Cercle Brugge,0,0,6,7,1,0,0,0,0,13,1,0,0,0
-2023-02-11,First Division A,2022-23,Westerlo,Gent,3,3,3,6,1,1,0,0,6,9,2,0,1,1
-2023-02-11,First Division A,2022-23,Charleroi,Seraing,3,0,10,2,1,0,0,0,3,12,1,0,0,1
-2023-02-12,First Division A,2022-23,Genk,Antwerp,0,1,9,3,2,3,0,0,1,12,5,0,0,0
-2023-02-12,First Division A,2022-23,Anderlecht,St Truiden,3,1,4,2,1,1,0,0,4,6,2,0,1,1
-2023-02-12,First Division A,2022-23,Standard,Kortrijk,0,2,7,3,0,2,1,0,2,10,2,1,0,0
-2023-02-12,First Division A,2022-23,Waregem,Oostende,1,1,3,4,0,1,0,0,2,7,1,0,1,0
-2023-02-17,First Division A,2022-23,Mechelen,Genk,2,2,4,4,1,0,0,0,4,8,1,0,1,1
-2023-02-18,First Division A,2022-23,St. Gilloise,Standard,2,4,3,0,2,5,0,0,6,3,7,0,1,1
-2023-02-18,First Division A,2022-23,Seraing,Waregem,1,1,4,7,3,3,1,1,2,11,6,2,1,0
-2023-02-18,First Division A,2022-23,Antwerp,Eupen,2,0,7,4,3,3,0,1,2,11,6,1,0,0
-2023-02-18,First Division A,2022-23,Oostende,Charleroi,0,0,11,3,0,0,0,0,0,14,0,0,0,0
-2023-02-19,First Division A,2022-23,Cercle Brugge,Club Brugge,2,2,17,4,2,2,0,0,4,21,4,0,1,1
-2023-02-19,First Division A,2022-23,Gent,Oud-Heverlee Leuven,2,0,5,9,2,1,0,0,2,14,3,0,0,0
-2023-02-19,First Division A,2022-23,Kortrijk,Anderlecht,2,2,6,4,2,0,0,0,4,10,2,0,1,1
-2023-02-19,First Division A,2022-23,St Truiden,Westerlo,0,1,1,6,1,0,1,0,1,7,1,1,0,0
-2023-02-24,First Division A,2022-23,Waregem,Kortrijk,3,3,8,5,3,4,0,0,6,13,7,0,1,1
-2023-02-25,First Division A,2022-23,Westerlo,St. Gilloise,4,2,4,6,2,2,0,0,6,10,4,0,1,1
-2023-02-25,First Division A,2022-23,Genk,Oostende,3,0,4,4,2,3,0,0,3,8,5,0,0,1
-2023-02-25,First Division A,2022-23,Eupen,Cercle Brugge,2,2,4,6,1,1,1,0,4,10,2,1,1,1
-2023-02-25,First Division A,2022-23,Seraing,Mechelen,0,2,4,3,2,1,0,0,2,7,3,0,0,0
-2023-02-26,First Division A,2022-23,Club Brugge,Gent,2,0,9,3,2,0,0,0,2,12,2,0,0,0
-2023-02-26,First Division A,2022-23,Oud-Heverlee Leuven,Antwerp,1,1,3,7,1,0,0,0,2,10,1,0,1,0
-2023-02-26,First Division A,2022-23,Anderlecht,Standard,2,2,7,3,2,2,0,0,4,10,4,0,1,1
-2023-02-26,First Division A,2022-23,Charleroi,St Truiden,1,0,3,2,0,2,0,0,1,5,2,0,0,0
-2023-03-03,First Division A,2022-23,Oostende,Club Brugge,3,0,0,5,2,2,0,0,3,5,4,0,0,1
-2023-03-04,First Division A,2022-23,Oud-Heverlee Leuven,Waregem,4,2,3,5,2,1,0,0,6,8,3,0,1,1
-2023-03-04,First Division A,2022-23,Standard,Westerlo,2,0,7,1,0,2,1,0,2,8,2,1,0,0
-2023-03-04,First Division A,2022-23,Kortrijk,Charleroi,0,1,4,2,0,4,0,0,1,6,4,0,0,0
-2023-03-04,First Division A,2022-23,Cercle Brugge,Seraing,3,1,11,3,1,1,0,0,4,14,2,0,1,1
-2023-03-05,First Division A,2022-23,St Truiden,Genk,2,2,2,2,3,1,0,0,4,4,4,0,1,1
-2023-03-05,First Division A,2022-23,Antwerp,Mechelen,5,0,6,3,1,2,0,0,5,9,3,0,0,1
-2023-03-05,First Division A,2022-23,Gent,Anderlecht,1,0,4,2,1,4,0,1,1,6,5,1,0,0
-2023-03-05,First Division A,2022-23,St. Gilloise,Eupen,2,1,5,2,1,1,0,0,3,7,2,0,1,1
-2023-03-10,First Division A,2022-23,Charleroi,Oud-Heverlee Leuven,0,1,7,4,1,4,0,0,1,11,5,0,0,0
-2023-03-11,First Division A,2022-23,Westerlo,Kortrijk,3,1,7,7,3,2,0,0,4,14,5,0,1,1
-2023-03-11,First Division A,2022-23,Seraing,Antwerp,0,2,4,5,3,1,1,0,2,9,4,1,0,0
-2023-03-11,First Division A,2022-23,Mechelen,St Truiden,1,0,8,4,1,2,0,0,1,12,3,0,0,0
-2023-03-11,First Division A,2022-23,Eupen,Oostende,4,4,9,2,0,3,0,1,8,11,3,1,1,1
-2023-03-12,First Division A,2022-23,Club Brugge,Standard,2,0,6,6,1,1,0,0,2,12,2,0,0,0
-2023-03-12,First Division A,2022-23,Waregem,Gent,2,6,4,1,1,1,0,0,8,5,2,0,1,1
-2023-03-12,First Division A,2022-23,Genk,St. Gilloise,1,2,14,5,3,3,0,0,3,19,6,0,1,1
-2023-03-12,First Division A,2022-23,Anderlecht,Cercle Brugge,2,0,5,4,0,2,0,1,2,9,2,1,0,0
-2023-03-17,First Division A,2022-23,Cercle Brugge,Genk,1,1,6,9,2,1,0,0,2,15,3,0,1,0
-2023-03-18,First Division A,2022-23,Kortrijk,Club Brugge,1,0,1,6,2,2,0,0,1,7,4,0,0,0
-2023-03-18,First Division A,2022-23,Oostende,Westerlo,1,2,7,5,1,2,0,0,3,12,3,0,1,1
-2023-03-18,First Division A,2022-23,St Truiden,Seraing,2,1,4,2,2,2,0,0,3,6,4,0,1,1
-2023-03-18,First Division A,2022-23,Standard,Waregem,2,2,6,5,3,2,0,0,4,11,5,0,1,1
-2023-03-19,First Division A,2022-23,Gent,Eupen,3,0,16,5,2,0,0,0,3,21,2,0,0,1
-2023-03-19,First Division A,2022-23,St. Gilloise,Mechelen,2,1,3,5,1,2,0,0,3,8,3,0,1,1
-2023-03-19,First Division A,2022-23,Antwerp,Charleroi,0,1,8,0,0,4,0,1,1,8,4,1,0,0
-2023-03-19,First Division A,2022-23,Oud-Heverlee Leuven,Anderlecht,0,2,4,7,3,2,0,0,2,11,5,0,0,0
-2023-03-31,First Division A,2022-23,Waregem,Antwerp,0,2,6,5,4,1,0,0,2,11,5,0,0,0
-2023-04-01,First Division A,2022-23,Cercle Brugge,Kortrijk,2,0,6,2,2,2,0,0,2,8,4,0,0,0
-2023-04-01,First Division A,2022-23,Seraing,Gent,0,5,3,13,0,1,0,0,5,16,1,0,0,1
-2023-04-01,First Division A,2022-23,Westerlo,Charleroi,2,3,7,4,2,5,0,0,5,11,7,0,1,1
-2023-04-01,First Division A,2022-23,Oostende,Standard,1,3,6,7,3,1,1,0,4,13,4,1,1,1
-2023-04-02,First Division A,2022-23,Mechelen,Club Brugge,0,3,1,8,1,1,0,0,3,9,2,0,0,1
-2023-04-02,First Division A,2022-23,Genk,Oud-Heverlee Leuven,2,1,11,5,4,2,0,0,3,16,6,0,1,1
-2023-04-02,First Division A,2022-23,Eupen,Anderlecht,0,1,2,6,1,0,0,0,1,8,1,0,0,0
-2023-04-02,First Division A,2022-23,St. Gilloise,St Truiden,2,1,13,1,2,3,0,1,3,14,5,1,1,1
-2023-04-07,First Division A,2022-23,Club Brugge,Seraing,2,0,21,1,0,0,0,0,2,22,0,0,0,0
-2023-04-08,First Division A,2022-23,Kortrijk,Eupen,0,0,7,6,3,2,0,0,0,13,5,0,0,0
-2023-04-08,First Division A,2022-23,Oud-Heverlee Leuven,Mechelen,4,1,2,8,1,3,0,0,5,10,4,0,1,1
-2023-04-08,First Division A,2022-23,Charleroi,Waregem,3,2,3,5,3,1,0,0,5,8,4,0,1,1
-2023-04-08,First Division A,2022-23,Gent,St. Gilloise,1,1,4,3,0,2,0,0,2,7,2,0,1,0
-2023-04-09,First Division A,2022-23,St Truiden,Oostende,5,0,6,2,1,1,0,0,5,8,2,0,0,1
-2023-04-09,First Division A,2022-23,Standard,Genk,2,0,4,7,3,3,0,0,2,11,6,0,0,0
-2023-04-09,First Division A,2022-23,Anderlecht,Westerlo,0,0,10,1,2,2,0,0,0,11,4,0,0,0
-2023-04-09,First Division A,2022-23,Antwerp,Cercle Brugge,2,1,6,1,1,3,0,0,3,7,4,0,1,1
-2023-04-14,First Division A,2022-23,Standard,Charleroi,3,1,5,5,4,1,1,0,4,10,5,1,1,1
-2023-04-15,First Division A,2022-23,Eupen,Waregem,1,5,4,3,3,1,0,0,6,7,4,0,1,1
-2023-04-15,First Division A,2022-23,Cercle Brugge,St Truiden,3,1,4,1,3,0,0,0,4,5,3,0,1,1
-2023-04-15,First Division A,2022-23,Oostende,Oud-Heverlee Leuven,0,4,7,6,1,0,0,0,4,13,1,0,0,1
-2023-04-15,First Division A,2022-23,Westerlo,Club Brugge,0,0,4,13,4,3,0,0,0,17,7,0,0,0
-2023-04-16,First Division A,2022-23,Genk,Anderlecht,5,2,7,2,2,3,0,0,7,9,5,0,1,1
-2023-04-16,First Division A,2022-23,Mechelen,Gent,1,1,3,6,1,1,0,0,2,9,2,0,1,0
-2023-04-16,First Division A,2022-23,Antwerp,Kortrijk,1,0,12,2,0,1,0,0,1,14,1,0,0,0
-2023-04-16,First Division A,2022-23,St. Gilloise,Seraing,2,1,11,2,1,1,0,0,3,13,2,0,1,1
-2023-04-22,First Division A,2022-23,Seraing,Westerlo,1,1,6,4,4,1,0,0,2,10,5,0,1,0
-2023-04-23,First Division A,2022-23,Gent,Oostende,1,2,3,5,2,3,0,0,3,8,5,0,1,1
-2023-04-23,First Division A,2022-23,Kortrijk,St. Gilloise,2,4,0,3,1,3,0,0,6,3,4,0,1,1
-2023-04-23,First Division A,2022-23,Club Brugge,Eupen,7,0,4,4,0,3,0,0,7,8,3,0,0,1
-2023-04-23,First Division A,2022-23,Oud-Heverlee Leuven,Standard,3,2,6,7,0,2,0,0,5,13,2,0,1,1
-2023-04-23,First Division A,2022-23,Anderlecht,Mechelen,2,3,6,3,0,0,0,0,5,9,0,0,1,1
-2023-04-23,First Division A,2022-23,St Truiden,Antwerp,0,1,6,2,2,0,0,0,1,8,2,0,0,0
-2023-04-23,First Division A,2022-23,Charleroi,Genk,2,2,6,4,3,1,0,0,4,10,4,0,1,1
-2023-04-23,First Division A,2022-23,Waregem,Cercle Brugge,2,3,3,3,2,4,0,0,5,6,6,0,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2022-07-22,First Division A,2022-23,Standard,Gent,2,2,2,12,5,2,1,0,4,14,7,1,1,1,4.2,3.6,1.85,4.27,3.67,1.89
+2022-07-23,First Division A,2022-23,Charleroi,Eupen,3,1,2,1,2,1,0,0,4,3,3,0,1,1,1.61,3.6,4.75,1.68,4.35,4.69
+2022-07-23,First Division A,2022-23,Kortrijk,Oud-Heverlee Leuven,0,2,6,4,3,0,0,0,2,10,3,0,0,0,2.37,3.2,2.87,2.47,3.65,2.81
+2022-07-23,First Division A,2022-23,Waregem,Seraing,2,0,7,0,1,1,0,0,2,7,2,0,0,0,2.15,3.5,2.9,2.2,3.83,3.14
+2022-07-23,First Division A,2022-23,St Truiden,St. Gilloise,1,1,0,5,1,4,0,0,2,5,5,0,1,0,4.33,3.2,1.85,4.13,3.62,1.93
+2022-07-24,First Division A,2022-23,Anderlecht,Oostende,2,0,7,5,0,4,0,1,2,12,4,1,0,0,1.25,5.5,9.0,1.3,5.79,8.87
+2022-07-24,First Division A,2022-23,Westerlo,Cercle Brugge,2,0,3,4,1,5,0,1,2,7,6,1,0,0,2.5,3.2,2.7,2.61,3.39,2.74
+2022-07-24,First Division A,2022-23,Club Brugge,Genk,3,2,4,3,1,2,0,0,5,7,3,0,1,1,1.72,3.75,4.2,1.76,4.33,4.2
+2022-07-24,First Division A,2022-23,Mechelen,Antwerp,0,2,6,2,1,1,0,0,2,8,2,0,0,0,2.55,3.25,2.5,2.63,3.77,2.51
+2022-07-29,First Division A,2022-23,St. Gilloise,Charleroi,1,0,8,4,2,1,0,0,1,12,3,0,0,0,1.65,4.0,5.0,1.68,3.96,5.24
+2022-07-30,First Division A,2022-23,Cercle Brugge,Anderlecht,1,0,8,1,0,5,0,1,1,9,5,1,0,0,3.6,3.4,1.9,3.81,3.68,2.0
+2022-07-30,First Division A,2022-23,Oostende,Mechelen,2,1,6,9,0,2,1,0,3,15,2,1,1,1,2.62,3.4,2.4,2.79,3.72,2.46
+2022-07-30,First Division A,2022-23,Oud-Heverlee Leuven,Westerlo,2,0,5,6,2,3,0,1,2,11,5,1,0,0,2.5,3.4,2.62,2.56,3.63,2.73
+2022-07-30,First Division A,2022-23,Gent,St Truiden,1,1,3,6,2,2,0,0,2,9,4,0,1,0,1.5,4.2,5.5,1.53,4.31,6.61
+2022-07-31,First Division A,2022-23,Seraing,Kortrijk,0,1,3,4,2,2,1,1,1,7,4,2,0,0,2.87,3.4,2.25,2.92,3.45,2.43
+2022-07-31,First Division A,2022-23,Genk,Standard,3,1,7,4,3,4,0,0,4,11,7,0,1,1,1.5,4.2,5.25,1.52,4.35,6.15
+2022-07-31,First Division A,2022-23,Eupen,Club Brugge,2,1,5,7,4,2,1,0,3,12,6,1,1,1,5.25,4.75,1.5,6.13,4.92,1.46
+2022-07-31,First Division A,2022-23,Antwerp,Waregem,1,0,3,6,2,3,0,1,1,9,5,1,0,0,1.36,4.5,7.0,1.4,5.15,7.14
+2022-08-05,First Division A,2022-23,Club Brugge,Waregem,1,1,7,4,2,3,0,0,2,11,5,0,1,0,1.22,6.0,9.0,1.27,6.84,9.3
+2022-08-06,First Division A,2022-23,Genk,Eupen,4,2,8,2,0,3,0,1,6,10,3,1,1,1,1.36,5.0,6.5,1.35,5.76,8.06
+2022-08-06,First Division A,2022-23,Charleroi,Oostende,1,3,9,5,2,1,0,0,4,14,3,0,1,1,1.6,3.8,5.0,1.62,4.38,5.23
+2022-08-06,First Division A,2022-23,Kortrijk,St Truiden,0,0,4,6,0,1,0,0,0,10,1,0,0,0,3.0,3.2,2.3,3.27,3.32,2.34
+2022-08-06,First Division A,2022-23,Mechelen,St. Gilloise,3,0,3,5,2,5,0,0,3,8,7,0,0,1,3.0,3.5,2.1,3.29,3.68,2.18
+2022-08-07,First Division A,2022-23,Standard,Cercle Brugge,2,0,6,6,1,2,0,0,2,12,3,0,0,0,2.55,3.2,2.55,2.78,3.54,2.56
+2022-08-07,First Division A,2022-23,Gent,Westerlo,2,1,10,7,2,0,0,0,3,17,2,0,1,1,1.61,4.0,4.75,1.68,3.82,5.2
+2022-08-07,First Division A,2022-23,Anderlecht,Seraing,3,1,2,1,1,1,0,0,4,3,2,0,1,1,1.25,5.5,11.0,1.27,5.82,9.95
+2022-08-07,First Division A,2022-23,Antwerp,Oud-Heverlee Leuven,4,2,8,7,2,1,0,0,6,15,3,0,1,1,1.61,4.0,4.75,1.59,4.35,5.25
+2022-08-12,First Division A,2022-23,Oostende,Gent,1,3,2,6,3,1,0,0,4,8,4,0,1,1,4.75,3.75,1.7,4.87,4.21,1.68
+2022-08-13,First Division A,2022-23,St. Gilloise,Kortrijk,2,1,5,1,0,3,0,0,3,6,3,0,1,1,1.4,4.75,7.0,1.46,4.65,6.61
+2022-08-13,First Division A,2022-23,Seraing,Charleroi,0,1,4,6,2,2,0,0,1,10,4,0,0,0,4.33,3.5,1.8,4.22,3.83,1.82
+2022-08-13,First Division A,2022-23,Westerlo,Standard,4,2,4,6,2,6,0,1,6,10,8,1,1,1,2.05,3.4,3.5,2.1,3.42,3.75
+2022-08-13,First Division A,2022-23,Cercle Brugge,Mechelen,0,0,8,8,1,3,0,0,0,16,4,0,0,0,2.1,3.6,3.3,2.15,3.7,3.36
+2022-08-14,First Division A,2022-23,St Truiden,Anderlecht,0,3,6,5,4,3,0,0,3,11,7,0,0,1,3.6,3.5,2.0,3.59,3.5,2.08
+2022-08-14,First Division A,2022-23,Eupen,Antwerp,0,1,6,3,4,0,0,0,1,9,4,0,0,0,4.0,3.6,1.85,3.65,3.85,1.95
+2022-08-14,First Division A,2022-23,Oud-Heverlee Leuven,Club Brugge,0,3,7,5,3,2,0,0,3,12,5,0,0,1,5.25,3.75,1.65,4.62,4.19,1.68
+2022-08-14,First Division A,2022-23,Waregem,Genk,1,4,4,8,4,2,0,0,5,12,6,0,1,1,4.33,3.8,1.72,4.19,4.41,1.71
+2022-08-19,First Division A,2022-23,Eupen,Seraing,1,3,7,6,5,3,0,0,4,13,8,0,1,1,1.7,3.8,4.75,1.73,4.03,4.74
+2022-08-20,First Division A,2022-23,Genk,Cercle Brugge,2,1,7,5,1,1,0,0,3,12,2,0,1,1,1.61,4.33,4.5,1.62,4.17,5.53
+2022-08-20,First Division A,2022-23,Oostende,St Truiden,0,1,5,5,2,4,0,0,1,10,6,0,0,0,3.2,3.25,2.25,3.22,3.5,2.29
+2022-08-21,First Division A,2022-23,Club Brugge,Kortrijk,2,1,15,2,3,3,0,1,3,17,6,1,1,1,1.33,5.0,9.5,1.29,6.02,10.23
+2022-08-21,First Division A,2022-23,Waregem,Charleroi,1,3,2,5,2,0,0,0,4,7,2,0,1,1,3.1,3.75,2.15,3.11,3.85,2.16
+2022-08-21,First Division A,2022-23,Standard,Oud-Heverlee Leuven,1,3,10,3,3,4,0,1,4,13,7,1,1,1,1.95,3.75,3.4,2.01,3.78,3.51
+2022-08-21,First Division A,2022-23,Mechelen,Westerlo,5,4,4,5,1,2,0,0,9,9,3,0,1,1,2.62,3.25,2.7,2.49,3.65,2.71
+2022-08-26,First Division A,2022-23,Charleroi,Club Brugge,1,3,2,5,1,0,0,0,4,7,1,0,1,1,3.6,3.8,1.95,3.7,3.79,2.0
+2022-08-27,First Division A,2022-23,Oud-Heverlee Leuven,Oostende,2,1,2,7,1,3,0,0,3,9,4,0,1,1,1.95,3.5,3.6,2.04,3.82,3.56
+2022-08-27,First Division A,2022-23,St Truiden,Mechelen,3,1,4,3,1,3,0,0,4,7,4,0,1,1,2.1,3.3,3.4,2.24,3.46,3.35
+2022-08-27,First Division A,2022-23,Seraing,Genk,0,4,5,2,2,3,0,0,4,7,5,0,0,1,5.75,4.5,1.5,6.01,4.54,1.54
+2022-08-27,First Division A,2022-23,Cercle Brugge,Waregem,1,1,6,4,1,2,0,0,2,10,3,0,1,0,1.75,3.75,4.5,1.81,4.0,4.28
+2022-08-28,First Division A,2022-23,Gent,Antwerp,1,2,6,2,2,3,0,0,3,8,5,0,1,1,1.9,3.6,3.75,1.99,3.43,4.15
+2022-08-28,First Division A,2022-23,Kortrijk,Standard,0,1,4,9,4,3,1,0,1,13,7,1,0,0,2.7,3.25,2.62,2.71,3.59,2.53
+2022-08-28,First Division A,2022-23,St. Gilloise,Anderlecht,2,1,7,7,3,1,0,0,3,14,4,0,1,1,2.25,3.3,3.2,2.17,3.55,3.3
+2022-08-28,First Division A,2022-23,Westerlo,Eupen,0,1,5,10,2,1,0,0,1,15,3,0,0,0,1.85,3.5,4.2,,,
+2022-08-31,First Division A,2022-23,Antwerp,St. Gilloise,4,2,4,3,2,0,0,2,6,7,2,2,1,1,2.75,3.25,2.55,2.82,3.45,2.58
+2022-09-01,First Division A,2022-23,Anderlecht,Gent,0,1,5,3,2,2,0,0,1,8,4,0,0,0,2.2,3.4,3.3,2.11,3.64,3.37
+2022-09-02,First Division A,2022-23,Club Brugge,Cercle Brugge,4,0,7,4,1,2,0,0,4,11,3,0,0,1,1.6,4.33,4.5,1.6,4.34,5.56
+2022-09-03,First Division A,2022-23,Standard,Oostende,1,0,5,4,2,2,0,0,1,9,4,0,0,0,2.0,3.5,3.75,1.99,3.82,3.7
+2022-09-03,First Division A,2022-23,Mechelen,Seraing,2,3,9,3,2,2,0,0,5,12,4,0,1,1,1.57,4.33,5.25,1.56,4.45,5.83
+2022-09-03,First Division A,2022-23,Eupen,Kortrijk,0,1,8,4,5,3,0,0,1,12,8,0,0,0,2.25,3.4,3.1,2.27,3.52,3.24
+2022-09-03,First Division A,2022-23,Genk,St Truiden,0,0,8,6,1,3,0,0,0,14,4,0,0,0,1.65,4.0,5.0,1.66,4.18,5.11
+2022-09-04,First Division A,2022-23,Anderlecht,Oud-Heverlee Leuven,2,2,12,2,3,1,0,0,4,14,4,0,1,1,1.4,5.0,8.5,1.38,5.41,7.85
+2022-09-04,First Division A,2022-23,Antwerp,Westerlo,3,0,3,6,0,2,0,0,3,9,2,0,0,1,1.9,4.0,3.6,1.91,3.81,3.84
+2022-09-04,First Division A,2022-23,Charleroi,Gent,2,1,4,4,2,0,0,1,3,8,2,1,1,1,3.4,3.4,2.1,3.31,3.72,2.11
+2022-09-04,First Division A,2022-23,Waregem,St. Gilloise,1,3,7,3,3,3,0,1,4,10,6,1,1,1,5.25,3.75,1.65,4.71,4.12,1.68
+2022-09-09,First Division A,2022-23,St Truiden,Standard,1,2,7,0,0,3,0,0,3,7,3,0,1,1,2.15,3.3,3.3,2.23,3.42,3.42
+2022-09-10,First Division A,2022-23,Oud-Heverlee Leuven,Charleroi,3,2,2,1,1,4,0,0,5,3,5,0,1,1,2.75,3.5,2.37,2.84,3.87,2.36
+2022-09-10,First Division A,2022-23,Seraing,Club Brugge,0,2,2,1,4,2,0,0,2,3,6,0,0,0,7.5,4.75,1.4,7.6,4.73,1.44
+2022-09-10,First Division A,2022-23,Kortrijk,Mechelen,1,4,10,3,3,5,0,0,5,13,8,0,1,1,2.6,3.4,2.6,2.65,3.79,2.55
+2022-09-10,First Division A,2022-23,Oostende,Eupen,1,0,3,6,5,3,1,0,1,9,8,1,0,0,2.1,3.6,3.3,2.12,3.85,3.32
+2022-09-11,First Division A,2022-23,Westerlo,Anderlecht,2,1,1,6,2,3,0,0,3,7,5,0,1,1,2.8,3.3,2.45,2.94,3.58,2.35
+2022-09-11,First Division A,2022-23,Cercle Brugge,Antwerp,0,2,3,3,1,3,0,0,2,6,4,0,0,0,2.8,3.4,2.4,2.98,3.6,2.32
+2022-09-11,First Division A,2022-23,St. Gilloise,Genk,1,2,4,5,4,3,0,0,3,9,7,0,1,1,2.05,3.5,3.4,2.13,3.6,3.36
+2022-09-11,First Division A,2022-23,Gent,Waregem,2,0,4,4,0,2,0,0,2,8,2,0,0,0,1.33,5.0,8.0,1.36,5.34,7.68
+2022-09-16,First Division A,2022-23,Antwerp,Seraing,2,1,5,3,3,2,0,0,3,8,5,0,1,1,1.33,5.25,8.0,1.34,5.48,9.11
+2022-09-17,First Division A,2022-23,Charleroi,Westerlo,2,3,1,0,0,0,0,0,5,1,0,0,1,1,2.1,3.5,3.4,2.2,3.71,3.24
+2022-09-17,First Division A,2022-23,Waregem,St Truiden,0,3,0,4,1,3,1,0,3,4,4,1,0,1,2.87,3.25,2.45,2.89,3.51,2.49
+2022-09-17,First Division A,2022-23,Cercle Brugge,Oostende,2,2,10,7,1,3,0,0,4,17,4,0,1,1,1.8,3.5,4.5,1.82,3.94,4.28
+2022-09-17,First Division A,2022-23,Mechelen,Oud-Heverlee Leuven,0,0,10,1,2,2,1,0,0,11,4,1,0,0,1.85,3.8,3.8,1.91,4.11,3.72
+2022-09-18,First Division A,2022-23,Genk,Gent,1,0,5,5,2,2,0,0,1,10,4,0,0,0,2.2,3.4,3.1,2.14,3.74,3.23
+2022-09-18,First Division A,2022-23,Eupen,St. Gilloise,1,2,5,5,3,2,1,0,3,10,5,1,1,1,4.0,3.5,1.9,3.99,3.93,1.85
+2022-09-18,First Division A,2022-23,Standard,Club Brugge,3,0,1,8,4,2,1,0,3,9,6,1,0,1,3.8,3.6,1.9,3.78,3.72,1.95
+2022-09-18,First Division A,2022-23,Anderlecht,Kortrijk,4,1,9,6,1,2,0,0,5,15,3,0,1,1,1.33,5.5,7.5,1.34,5.34,8.72
+2022-09-30,First Division A,2022-23,Standard,Seraing,0,2,9,4,1,4,0,0,2,13,5,0,0,0,1.65,4.0,5.25,1.62,4.18,5.76
+2022-10-01,First Division A,2022-23,Oud-Heverlee Leuven,St. Gilloise,0,3,6,8,2,3,0,0,3,14,5,0,0,1,4.5,3.75,1.72,4.3,4.11,1.81
+2022-10-01,First Division A,2022-23,Oostende,Genk,1,2,2,6,1,1,1,0,3,8,2,1,1,1,4.2,3.8,1.75,4.19,4.25,1.8
+2022-10-01,First Division A,2022-23,Westerlo,Waregem,2,0,5,12,3,3,0,0,2,17,6,0,0,0,1.57,4.0,5.25,1.62,4.45,5.34
+2022-10-01,First Division A,2022-23,Club Brugge,Mechelen,3,0,5,3,0,0,0,0,3,8,0,0,0,1,1.45,4.5,5.75,1.46,5.09,6.72
+2022-10-02,First Division A,2022-23,Anderlecht,Charleroi,0,1,14,5,2,3,0,0,1,19,5,0,0,0,1.6,4.0,5.0,1.63,4.25,5.05
+2022-10-02,First Division A,2022-23,Gent,Cercle Brugge,3,4,6,4,3,5,0,0,7,10,8,0,1,1,1.6,4.0,5.0,1.63,4.01,5.4
+2022-10-02,First Division A,2022-23,Kortrijk,Antwerp,2,1,0,7,4,1,0,0,3,7,5,0,1,1,4.5,3.75,1.72,4.43,3.94,1.76
+2022-10-02,First Division A,2022-23,St Truiden,Eupen,0,1,10,1,1,2,0,0,1,11,3,0,0,0,1.72,3.75,4.33,1.82,3.67,4.42
+2022-10-07,First Division A,2022-23,Antwerp,St Truiden,2,0,6,2,1,3,0,1,2,8,4,1,0,0,1.9,3.6,3.8,1.97,3.41,4.29
+2022-10-08,First Division A,2022-23,Waregem,Oud-Heverlee Leuven,2,5,4,6,6,2,0,0,7,10,8,0,1,1,2.62,3.6,2.45,2.65,3.92,2.5
+2022-10-08,First Division A,2022-23,Club Brugge,Westerlo,0,2,11,3,0,1,0,0,2,14,1,0,0,0,1.53,4.33,5.25,1.59,4.4,5.56
+2022-10-08,First Division A,2022-23,Genk,Kortrijk,2,1,10,3,4,0,0,0,3,13,4,0,1,1,1.3,5.5,8.5,1.29,6.07,10.1
+2022-10-08,First Division A,2022-23,Seraing,Oostende,1,1,3,9,1,1,1,0,2,12,2,1,1,0,2.75,3.4,2.4,2.83,3.5,2.53
+2022-10-09,First Division A,2022-23,Mechelen,Anderlecht,1,3,5,7,1,4,0,0,4,12,5,0,1,1,3.75,3.75,1.85,3.85,3.84,1.9
+2022-10-09,First Division A,2022-23,Eupen,Gent,0,4,6,9,2,2,0,0,4,15,4,0,0,1,4.2,3.6,1.75,4.49,3.85,1.77
+2022-10-09,First Division A,2022-23,Charleroi,Standard,0,1,3,1,3,4,1,2,1,4,7,3,0,0,2.1,3.5,3.2,2.1,3.84,3.24
+2022-10-09,First Division A,2022-23,St. Gilloise,Cercle Brugge,2,1,3,4,0,1,0,0,3,7,1,0,1,1,1.53,4.2,5.25,1.65,4.11,5.03
+2022-10-14,First Division A,2022-23,Westerlo,Seraing,2,2,5,2,0,1,0,0,4,7,1,0,1,1,1.57,3.8,5.75,1.61,4.0,5.99
+2022-10-15,First Division A,2022-23,Oud-Heverlee Leuven,Genk,0,1,11,9,3,2,0,1,1,20,5,1,0,0,4.33,4.2,1.66,4.5,4.39,1.7
+2022-10-15,First Division A,2022-23,St Truiden,Charleroi,2,1,4,4,1,2,0,0,3,8,3,0,1,1,2.1,3.3,3.5,2.18,3.35,3.61
+2022-10-15,First Division A,2022-23,Kortrijk,Waregem,1,3,3,5,4,4,0,0,4,8,8,0,1,1,1.95,3.75,3.5,2.0,3.97,3.41
+2022-10-15,First Division A,2022-23,Cercle Brugge,Eupen,5,1,2,2,2,2,0,0,6,4,4,0,1,1,1.8,3.6,4.2,1.87,3.87,4.14
+2022-10-16,First Division A,2022-23,Standard,Antwerp,3,0,2,6,2,3,0,0,3,8,5,0,0,1,2.87,3.5,2.3,2.93,3.68,2.32
+2022-10-16,First Division A,2022-23,Gent,Mechelen,3,0,5,2,1,3,0,1,3,7,4,1,0,1,1.45,4.5,6.0,1.5,4.59,6.07
+2022-10-16,First Division A,2022-23,Anderlecht,Club Brugge,0,1,6,7,1,3,0,1,1,13,4,1,0,0,2.5,3.5,2.7,2.56,3.8,2.56
+2022-10-16,First Division A,2022-23,Oostende,St. Gilloise,1,6,6,4,2,2,0,0,7,10,4,0,1,1,4.33,3.75,1.75,4.29,3.87,1.8
+2022-10-18,First Division A,2022-23,Seraing,Cercle Brugge,0,1,1,1,5,3,1,0,1,2,8,1,0,0,3.8,3.6,1.9,4.03,3.68,1.94
+2022-10-18,First Division A,2022-23,Charleroi,Kortrijk,2,2,4,9,3,1,0,0,4,13,4,0,1,1,1.66,4.0,4.5,1.69,4.13,4.94
+2022-10-18,First Division A,2022-23,Eupen,Oud-Heverlee Leuven,4,2,6,3,3,2,0,0,6,9,5,0,1,1,2.62,3.5,2.45,2.73,3.65,2.54
+2022-10-18,First Division A,2022-23,Genk,Westerlo,6,1,7,1,1,0,0,1,7,8,1,1,1,1,1.57,4.2,5.0,1.61,4.5,5.16
+2022-10-19,First Division A,2022-23,Mechelen,Standard,2,0,8,5,1,2,0,0,2,13,3,0,0,0,2.55,3.4,2.62,2.59,3.88,2.56
+2022-10-19,First Division A,2022-23,St. Gilloise,Gent,2,0,3,4,1,2,0,1,2,7,3,1,0,0,2.05,3.4,3.4,2.2,3.45,3.44
+2022-10-19,First Division A,2022-23,Club Brugge,St Truiden,3,0,8,1,2,2,0,1,3,9,4,1,0,1,1.5,4.5,5.75,1.48,4.73,6.62
+2022-10-20,First Division A,2022-23,Antwerp,Oostende,3,0,7,3,1,2,0,0,3,10,3,0,0,1,1.57,4.2,5.0,1.58,4.32,5.39
+2022-10-20,First Division A,2022-23,Waregem,Anderlecht,3,2,5,5,8,1,0,1,5,10,9,1,1,1,5.25,4.2,1.57,4.85,4.4,1.62
+2022-10-21,First Division A,2022-23,Cercle Brugge,Charleroi,4,1,6,6,3,1,0,0,5,12,4,0,1,1,2.0,3.4,3.8,2.02,3.78,3.65
+2022-10-22,First Division A,2022-23,Kortrijk,Westerlo,0,2,6,6,0,2,1,0,2,12,2,1,0,0,2.87,3.5,2.3,3.04,3.69,2.31
+2022-10-22,First Division A,2022-23,Mechelen,Eupen,2,1,7,8,3,4,1,0,3,15,7,1,1,1,1.85,3.8,3.75,1.93,3.95,3.78
+2022-10-22,First Division A,2022-23,St Truiden,Oud-Heverlee Leuven,0,0,3,5,2,2,1,0,0,8,4,1,0,0,2.0,3.4,3.6,2.02,3.87,3.56
+2022-10-22,First Division A,2022-23,St. Gilloise,Club Brugge,2,2,4,4,4,2,1,0,4,8,6,1,1,1,2.6,3.4,2.6,2.6,3.58,2.71
+2022-10-23,First Division A,2022-23,Gent,Seraing,2,1,9,3,1,1,0,0,3,12,2,0,1,1,1.36,5.0,7.0,1.4,5.05,7.08
+2022-10-23,First Division A,2022-23,Antwerp,Genk,1,3,8,4,1,1,0,0,4,12,2,0,1,1,2.62,3.4,2.45,2.74,3.49,2.63
+2022-10-23,First Division A,2022-23,Standard,Anderlecht,5,0,0,0,0,0,0,0,5,0,0,0,0,1,3.0,3.5,2.2,2.99,3.74,2.26
+2022-10-23,First Division A,2022-23,Oostende,Waregem,2,1,5,5,2,3,0,0,3,10,5,0,1,1,2.05,3.5,3.4,2.08,3.79,3.32
+2022-10-28,First Division A,2022-23,Genk,Mechelen,3,1,8,7,2,2,1,0,4,15,4,1,1,1,1.36,5.25,7.0,1.36,5.6,8.1
+2022-10-29,First Division A,2022-23,Club Brugge,Oostende,4,2,4,2,2,2,0,0,6,6,4,0,1,1,1.25,6.0,10.0,1.28,6.42,9.18
+2022-10-29,First Division A,2022-23,Westerlo,St Truiden,2,3,4,2,4,3,0,0,5,6,7,0,1,1,2.2,3.25,3.4,2.25,3.44,3.34
+2022-10-29,First Division A,2022-23,Waregem,Standard,0,3,4,10,1,1,1,0,3,14,2,1,0,1,3.0,3.6,2.2,3.1,3.89,2.2
+2022-10-29,First Division A,2022-23,Kortrijk,Cercle Brugge,1,1,3,6,4,2,0,0,2,9,6,0,1,0,3.6,3.6,1.95,3.66,3.71,2.03
+2022-10-30,First Division A,2022-23,Charleroi,Antwerp,1,0,4,8,3,3,0,0,1,12,6,0,0,0,3.4,3.5,2.05,3.27,3.69,2.13
+2022-10-30,First Division A,2022-23,Oud-Heverlee Leuven,Gent,1,1,1,6,5,4,0,0,2,7,9,0,1,0,3.75,3.6,1.95,3.58,3.79,1.99
+2022-10-30,First Division A,2022-23,Anderlecht,Eupen,4,2,10,4,2,2,0,0,6,14,4,0,1,1,1.44,4.75,6.0,1.44,4.96,6.9
+2022-10-30,First Division A,2022-23,Seraing,St. Gilloise,1,2,6,7,3,2,0,0,3,13,5,0,1,1,6.0,4.2,1.53,5.92,4.23,1.55
+2022-11-04,First Division A,2022-23,Genk,Charleroi,4,1,5,4,1,1,0,0,5,9,2,0,1,1,1.4,4.75,7.5,1.4,5.26,7.51
+2022-11-05,First Division A,2022-23,Mechelen,Waregem,2,2,11,5,1,4,0,1,4,16,5,1,1,1,1.72,3.75,4.5,1.78,4.28,4.17
+2022-11-05,First Division A,2022-23,Cercle Brugge,Oud-Heverlee Leuven,2,1,6,6,2,2,0,0,3,12,4,0,1,1,1.83,3.8,3.8,1.88,4.18,3.62
+2022-11-05,First Division A,2022-23,Seraing,St Truiden,1,2,5,7,5,1,1,0,3,12,6,1,1,1,3.6,3.2,2.1,3.73,3.4,2.12
+2022-11-05,First Division A,2022-23,Eupen,Standard,2,0,7,2,0,3,1,1,2,9,3,2,0,0,3.1,3.4,2.25,3.07,3.84,2.24
+2022-11-06,First Division A,2022-23,Gent,Club Brugge,2,0,4,3,1,5,0,0,2,7,6,0,0,0,2.7,3.5,2.5,2.86,3.61,2.45
+2022-11-06,First Division A,2022-23,St. Gilloise,Westerlo,1,1,10,4,4,3,0,0,2,14,7,0,1,0,1.57,4.0,5.5,1.56,4.28,5.71
+2022-11-06,First Division A,2022-23,Antwerp,Anderlecht,0,0,4,1,2,3,0,0,0,5,5,0,0,0,2.15,3.4,3.3,2.2,3.53,3.25
+2022-11-06,First Division A,2022-23,Oostende,Kortrijk,3,1,8,6,3,3,0,1,4,14,6,1,1,1,2.1,3.4,3.3,2.22,3.54,3.22
+2022-11-11,First Division A,2022-23,Oud-Heverlee Leuven,Seraing,5,0,14,3,1,6,0,1,5,17,7,1,0,1,1.55,4.0,5.75,1.59,4.32,5.63
+2022-11-12,First Division A,2022-23,Waregem,Eupen,5,5,11,2,2,2,0,0,10,13,4,0,1,1,2.3,3.75,2.8,2.31,3.9,2.91
+2022-11-12,First Division A,2022-23,Charleroi,Mechelen,0,5,0,0,0,0,0,0,5,0,0,0,0,1,2.2,3.5,3.0,2.26,3.74,3.09
+2022-11-12,First Division A,2022-23,Westerlo,Oostende,6,0,5,3,1,2,0,0,6,8,3,0,0,1,1.75,4.0,4.2,1.78,4.11,4.31
+2022-11-12,First Division A,2022-23,St Truiden,Cercle Brugge,0,1,10,2,0,4,1,1,1,12,4,2,0,0,2.4,3.4,2.8,2.54,3.34,2.94
+2022-11-13,First Division A,2022-23,Anderlecht,Genk,0,2,5,6,2,3,0,1,2,11,5,1,0,0,2.62,3.5,2.5,2.61,3.5,2.66
+2022-11-13,First Division A,2022-23,Kortrijk,Gent,0,4,8,6,2,0,1,1,4,14,2,2,0,1,5.0,3.8,1.66,4.67,4.06,1.7
+2022-11-13,First Division A,2022-23,Club Brugge,Antwerp,2,2,3,4,4,2,0,0,4,7,6,0,1,1,1.83,3.75,4.0,1.83,3.97,4.0
+2022-11-13,First Division A,2022-23,Standard,St. Gilloise,2,3,8,4,3,4,0,0,5,12,7,0,1,1,3.4,3.5,2.0,3.35,3.78,2.07
+2022-12-23,First Division A,2022-23,Seraing,Eupen,0,1,4,9,3,1,0,0,1,13,4,0,0,0,2.7,3.25,2.45,2.79,3.57,2.53
+2022-12-23,First Division A,2022-23,Gent,Standard,0,0,13,1,0,5,0,0,0,14,5,0,0,0,1.53,4.0,5.25,1.53,4.3,6.62
+2022-12-23,First Division A,2022-23,Mechelen,Cercle Brugge,1,1,9,8,2,4,0,1,2,17,6,1,1,0,2.55,3.4,2.55,2.65,3.62,2.64
+2022-12-26,First Division A,2022-23,Club Brugge,Oud-Heverlee Leuven,1,1,3,3,3,2,0,0,2,6,5,0,1,0,1.44,4.75,5.75,1.46,4.84,6.23
+2022-12-26,First Division A,2022-23,St. Gilloise,Oostende,3,0,10,2,3,4,0,0,3,12,7,0,0,1,1.33,5.0,7.0,1.32,5.62,8.85
+2022-12-26,First Division A,2022-23,Kortrijk,Genk,1,0,5,6,4,1,0,0,1,11,5,0,0,0,6.5,4.33,1.4,6.33,5.05,1.44
+2022-12-26,First Division A,2022-23,Charleroi,Anderlecht,0,1,3,0,2,1,0,0,1,3,3,0,0,0,2.9,3.4,2.15,3.07,3.84,2.18
+2022-12-27,First Division A,2022-23,St Truiden,Waregem,2,0,6,3,0,1,0,1,2,9,1,1,0,0,1.67,3.6,4.5,1.62,4.14,5.22
+2022-12-27,First Division A,2022-23,Westerlo,Antwerp,3,3,3,6,1,1,0,0,6,9,2,0,1,1,3.1,3.5,2.05,,,
+2023-01-06,First Division A,2022-23,Standard,St Truiden,1,1,9,2,0,2,0,0,2,11,2,0,1,0,2.2,3.25,3.0,2.43,3.17,3.27
+2023-01-07,First Division A,2022-23,Eupen,Charleroi,1,2,5,7,1,2,0,0,3,12,3,0,1,1,2.55,3.4,2.45,2.69,3.66,2.58
+2023-01-07,First Division A,2022-23,Cercle Brugge,Westerlo,0,1,6,4,1,3,0,0,1,10,4,0,0,0,2.05,3.5,3.1,2.18,3.65,3.32
+2023-01-07,First Division A,2022-23,Oostende,Seraing,1,2,5,2,6,5,2,0,3,7,11,2,1,1,1.75,3.75,4.2,1.85,3.97,4.14
+2023-01-07,First Division A,2022-23,Antwerp,Gent,2,0,3,6,2,1,0,0,2,9,3,0,0,0,2.45,3.25,2.63,2.51,3.35,2.89
+2023-01-08,First Division A,2022-23,Oud-Heverlee Leuven,Kortrijk,2,3,5,6,1,3,0,0,5,11,4,0,1,1,1.65,4.0,4.2,1.67,4.25,4.66
+2023-01-08,First Division A,2022-23,Anderlecht,St. Gilloise,1,3,0,6,5,3,1,0,4,6,8,1,1,1,2.6,3.3,2.45,2.79,3.49,2.5
+2023-01-08,First Division A,2022-23,Genk,Club Brugge,3,1,5,4,2,4,0,1,4,9,6,1,1,1,2.1,3.5,3.0,2.2,3.76,3.08
+2023-01-08,First Division A,2022-23,Waregem,Mechelen,2,0,3,3,2,6,0,0,2,6,8,0,0,0,2.75,3.5,2.2,2.88,3.94,2.25
+2023-01-13,First Division A,2022-23,Westerlo,Oud-Heverlee Leuven,1,2,9,3,3,2,0,1,3,12,5,1,1,1,1.95,3.75,3.5,2.01,3.93,3.53
+2023-01-14,First Division A,2022-23,Seraing,Standard,1,1,3,11,5,1,0,0,2,14,6,0,1,0,3.8,3.6,1.91,4.07,3.6,1.92
+2023-01-14,First Division A,2022-23,Eupen,St Truiden,0,2,3,3,1,1,0,0,2,6,2,0,0,0,2.9,3.4,2.3,3.03,3.35,2.41
+2023-01-14,First Division A,2022-23,Mechelen,Oostende,2,1,10,1,1,1,0,1,3,11,2,1,1,1,1.73,3.8,4.33,1.74,4.09,4.4
+2023-01-14,First Division A,2022-23,Genk,Waregem,1,0,1,5,2,2,0,0,1,6,4,0,0,0,1.25,6.5,8.0,1.26,6.4,9.3
+2023-01-15,First Division A,2022-23,Gent,Kortrijk,2,1,7,5,3,1,0,0,3,12,4,0,1,1,1.36,5.0,8.5,1.32,5.43,9.12
+2023-01-15,First Division A,2022-23,Club Brugge,Anderlecht,1,1,3,4,2,3,0,0,2,7,5,0,1,0,1.91,3.75,3.6,1.93,3.78,3.8
+2023-01-15,First Division A,2022-23,St. Gilloise,Antwerp,2,0,8,9,5,4,0,0,2,17,9,0,0,0,2.15,3.4,3.25,2.16,3.51,3.36
+2023-01-15,First Division A,2022-23,Charleroi,Cercle Brugge,2,1,9,7,1,1,0,0,3,16,2,0,1,1,2.63,3.3,2.63,2.64,3.42,2.68
+2023-01-17,First Division A,2022-23,Oud-Heverlee Leuven,Eupen,1,1,8,7,2,2,0,0,2,15,4,0,1,0,1.62,4.0,4.75,1.67,4.39,4.78
+2023-01-17,First Division A,2022-23,Standard,Mechelen,2,0,7,7,2,0,0,0,2,14,2,0,0,0,1.85,3.6,3.8,1.98,3.75,3.8
+2023-01-17,First Division A,2022-23,Westerlo,Genk,2,3,11,4,3,0,0,0,5,15,3,0,1,1,3.3,3.75,2.0,3.45,3.97,2.03
+2023-01-18,First Division A,2022-23,Oostende,Antwerp,0,3,6,5,1,0,0,0,3,11,1,0,0,1,4.2,3.8,1.75,4.1,4.01,1.84
+2023-01-18,First Division A,2022-23,Anderlecht,Waregem,2,3,5,2,1,2,0,0,5,7,3,0,1,1,1.5,4.5,5.25,1.59,4.63,5.21
+2023-01-18,First Division A,2022-23,Cercle Brugge,St. Gilloise,1,1,3,6,2,0,0,0,2,9,2,0,1,0,3.3,3.5,2.05,3.6,3.56,2.1
+2023-01-18,First Division A,2022-23,Kortrijk,Seraing,3,2,6,8,1,2,0,1,5,14,3,1,1,1,1.85,3.75,3.8,1.83,3.7,4.53
+2023-01-19,First Division A,2022-23,St Truiden,Club Brugge,1,1,1,8,1,1,0,0,2,9,2,0,1,0,3.5,3.5,2.0,3.76,3.35,2.08
+2023-01-19,First Division A,2022-23,Gent,Charleroi,0,0,9,5,2,4,0,0,0,14,6,0,0,0,1.55,4.2,5.25,1.55,4.27,5.91
+2023-01-21,First Division A,2022-23,Waregem,Westerlo,1,1,5,5,1,1,0,0,2,10,2,0,1,0,2.88,3.4,2.2,2.98,3.62,2.37
+2023-01-21,First Division A,2022-23,Mechelen,Kortrijk,3,2,9,0,2,4,0,0,5,9,6,0,1,1,1.75,3.5,4.2,1.8,4.11,4.22
+2023-01-21,First Division A,2022-23,Oostende,Cercle Brugge,1,2,4,6,3,1,0,0,3,10,4,0,1,1,3.0,3.4,2.1,3.16,3.75,2.22
+2023-01-21,First Division A,2022-23,St. Gilloise,Oud-Heverlee Leuven,1,0,12,5,1,3,0,0,1,17,4,0,0,0,1.5,4.5,5.25,1.53,4.64,5.85
+2023-01-22,First Division A,2022-23,Antwerp,Standard,4,1,2,2,3,2,0,1,5,4,5,1,1,1,1.67,3.6,4.75,1.68,3.88,5.05
+2023-01-22,First Division A,2022-23,Seraing,Anderlecht,0,1,4,6,3,1,0,0,1,10,4,0,0,0,5.25,4.0,1.55,5.86,4.12,1.57
+2023-01-22,First Division A,2022-23,Club Brugge,Charleroi,2,2,2,3,2,4,0,1,4,5,6,1,1,1,1.4,4.5,6.5,1.41,4.85,7.35
+2023-01-22,First Division A,2022-23,St Truiden,Gent,0,3,1,5,2,0,1,0,3,6,2,1,0,1,3.4,3.2,2.1,3.48,3.31,2.19
+2023-01-27,First Division A,2022-23,Standard,Eupen,3,1,8,2,1,2,0,0,4,10,3,0,1,1,1.65,3.75,4.5,1.68,3.98,5.2
+2023-01-28,First Division A,2022-23,Westerlo,Mechelen,2,0,11,5,1,3,0,1,2,16,4,1,0,0,1.85,3.6,3.6,2.01,3.72,3.74
+2023-01-28,First Division A,2022-23,Kortrijk,Oostende,2,2,2,5,1,0,0,0,4,7,1,0,1,1,2.0,3.4,3.3,2.09,3.86,3.38
+2023-01-28,First Division A,2022-23,Oud-Heverlee Leuven,St Truiden,1,1,6,3,0,3,0,0,2,9,3,0,1,0,2.25,3.3,2.9,2.34,3.49,3.14
+2023-01-28,First Division A,2022-23,Charleroi,St. Gilloise,0,1,2,8,3,3,0,0,1,10,6,0,0,0,3.3,3.4,2.0,3.64,3.68,2.05
+2023-01-29,First Division A,2022-23,Anderlecht,Antwerp,0,0,6,2,4,3,1,1,0,8,7,2,0,0,2.63,3.25,2.45,2.72,3.62,2.5
+2023-01-29,First Division A,2022-23,Cercle Brugge,Gent,3,2,4,2,1,1,0,0,5,6,2,0,1,1,3.1,3.25,2.15,3.28,3.39,2.25
+2023-01-29,First Division A,2022-23,Waregem,Club Brugge,1,2,4,8,2,4,1,0,3,12,6,1,1,1,4.5,3.75,1.65,4.99,4.37,1.61
+2023-01-29,First Division A,2022-23,Genk,Seraing,4,0,3,4,0,2,0,0,4,7,2,0,0,1,1.22,5.75,10.0,1.21,6.63,12.63
+2023-02-01,First Division A,2022-23,Eupen,Genk,1,1,3,7,5,4,0,0,2,10,9,0,1,0,5.5,3.8,1.53,5.83,4.47,1.56
+2023-02-03,First Division A,2022-23,Oostende,Anderlecht,0,2,3,2,3,1,0,0,2,5,4,0,0,0,3.4,3.6,1.91,3.65,4.0,1.96
+2023-02-04,First Division A,2022-23,Cercle Brugge,Standard,1,1,4,1,3,3,0,0,2,5,6,0,1,0,2.05,3.5,3.1,2.14,3.5,3.55
+2023-02-04,First Division A,2022-23,Eupen,Westerlo,1,1,4,7,1,0,0,0,2,11,1,0,1,0,2.9,3.5,2.15,3.16,3.66,2.25
+2023-02-04,First Division A,2022-23,Seraing,Oud-Heverlee Leuven,2,1,7,11,1,0,0,0,3,18,1,0,1,1,4.0,3.6,1.85,4.32,3.79,1.85
+2023-02-04,First Division A,2022-23,St Truiden,Kortrijk,1,0,2,2,1,3,0,0,1,4,4,0,0,0,1.73,3.6,4.33,1.8,3.75,4.68
+2023-02-05,First Division A,2022-23,Antwerp,Club Brugge,0,0,2,5,1,5,0,0,0,7,6,0,0,0,2.5,3.3,2.63,2.66,3.28,2.84
+2023-02-05,First Division A,2022-23,Mechelen,Charleroi,2,2,4,7,0,3,1,0,4,11,3,1,1,1,2.15,3.4,3.1,2.3,3.62,2.99
+2023-02-05,First Division A,2022-23,Gent,Genk,2,3,4,3,1,1,0,0,5,7,2,0,1,1,2.25,3.4,2.8,2.39,3.6,2.88
+2023-02-05,First Division A,2022-23,St. Gilloise,Waregem,4,0,2,3,0,1,0,0,4,5,1,0,0,1,1.36,4.75,7.0,1.37,5.23,7.76
+2023-02-10,First Division A,2022-23,Eupen,Mechelen,2,1,4,2,0,4,0,0,3,6,4,0,1,1,2.55,3.4,2.5,2.63,3.52,2.71
+2023-02-10,First Division A,2022-23,Club Brugge,St. Gilloise,1,1,5,3,1,4,0,0,2,8,5,0,1,0,2.3,3.3,2.9,2.63,3.46,2.75
+2023-02-10,First Division A,2022-23,Oud-Heverlee Leuven,Cercle Brugge,0,0,6,7,1,0,0,0,0,13,1,0,0,0,2.25,3.25,2.8,2.4,3.46,3.05
+2023-02-11,First Division A,2022-23,Westerlo,Gent,3,3,3,6,1,1,0,0,6,9,2,0,1,1,2.8,3.3,2.38,3.0,3.45,2.44
+2023-02-11,First Division A,2022-23,Charleroi,Seraing,3,0,10,2,1,0,0,0,3,12,1,0,0,1,1.5,4.0,5.75,1.51,4.41,6.71
+2023-02-12,First Division A,2022-23,Genk,Antwerp,0,1,9,3,2,3,0,0,1,12,5,0,0,0,1.91,3.5,3.75,2.03,3.66,3.57
+2023-02-12,First Division A,2022-23,Anderlecht,St Truiden,3,1,4,2,1,1,0,0,4,6,2,0,1,1,1.83,3.4,4.0,1.81,3.61,4.56
+2023-02-12,First Division A,2022-23,Standard,Kortrijk,0,2,7,3,0,2,1,0,2,10,2,1,0,0,1.62,4.0,4.75,1.63,4.39,4.82
+2023-02-12,First Division A,2022-23,Waregem,Oostende,1,1,3,4,0,1,0,0,2,7,1,0,1,0,1.95,3.6,3.5,2.04,3.66,3.53
+2023-02-17,First Division A,2022-23,Mechelen,Genk,2,2,4,4,1,0,0,0,4,8,1,0,1,1,4.2,3.6,1.8,4.01,4.0,1.86
+2023-02-18,First Division A,2022-23,St. Gilloise,Standard,2,4,3,0,2,5,0,0,6,3,7,0,1,1,1.53,4.2,6.0,1.53,4.34,6.43
+2023-02-18,First Division A,2022-23,Seraing,Waregem,1,1,4,7,3,3,1,1,2,11,6,2,1,0,3.1,3.4,2.2,3.23,3.74,2.19
+2023-02-18,First Division A,2022-23,Antwerp,Eupen,2,0,7,4,3,3,0,1,2,11,6,1,0,0,1.36,5.0,8.0,1.37,5.26,8.43
+2023-02-18,First Division A,2022-23,Oostende,Charleroi,0,0,11,3,0,0,0,0,0,14,0,0,0,0,3.1,3.5,2.25,3.07,3.77,2.26
+2023-02-19,First Division A,2022-23,Cercle Brugge,Club Brugge,2,2,17,4,2,2,0,0,4,21,4,0,1,1,3.5,3.4,2.05,3.49,3.5,2.11
+2023-02-19,First Division A,2022-23,Gent,Oud-Heverlee Leuven,2,0,5,9,2,1,0,0,2,14,3,0,0,0,1.57,4.0,5.25,1.62,4.18,5.2
+2023-02-19,First Division A,2022-23,Kortrijk,Anderlecht,2,2,6,4,2,0,0,0,4,10,2,0,1,1,4.0,3.6,1.85,3.7,3.94,1.92
+2023-02-19,First Division A,2022-23,St Truiden,Westerlo,0,1,1,6,1,0,1,0,1,7,1,1,0,0,2.63,3.3,2.63,2.78,3.22,2.68
+2023-02-24,First Division A,2022-23,Waregem,Kortrijk,3,3,8,5,3,4,0,0,6,13,7,0,1,1,2.2,3.5,3.1,2.18,3.63,3.34
+2023-02-25,First Division A,2022-23,Westerlo,St. Gilloise,4,2,4,6,2,2,0,0,6,10,4,0,1,1,3.5,3.6,1.95,3.61,3.77,2.03
+2023-02-25,First Division A,2022-23,Genk,Oostende,3,0,4,4,2,3,0,0,3,8,5,0,0,1,1.33,5.5,7.0,1.34,5.68,8.75
+2023-02-25,First Division A,2022-23,Eupen,Cercle Brugge,2,2,4,6,1,1,1,0,4,10,2,1,1,1,3.4,3.5,2.05,3.53,3.7,2.08
+2023-02-25,First Division A,2022-23,Seraing,Mechelen,0,2,4,3,2,1,0,0,2,7,3,0,0,0,3.75,3.6,1.95,3.7,3.73,2.02
+2023-02-26,First Division A,2022-23,Club Brugge,Gent,2,0,9,3,2,0,0,0,2,12,2,0,0,0,2.15,3.75,3.1,2.13,3.46,3.48
+2023-02-26,First Division A,2022-23,Oud-Heverlee Leuven,Antwerp,1,1,3,7,1,0,0,0,2,10,1,0,1,0,3.5,3.5,2.0,3.59,3.65,2.03
+2023-02-26,First Division A,2022-23,Anderlecht,Standard,2,2,7,3,2,2,0,0,4,10,4,0,1,1,1.83,3.75,4.0,1.88,3.84,3.96
+2023-02-26,First Division A,2022-23,Charleroi,St Truiden,1,0,3,2,0,2,0,0,1,5,2,0,0,0,2.05,3.5,3.6,2.02,3.48,3.8
+2023-03-03,First Division A,2022-23,Oostende,Club Brugge,3,0,0,5,2,2,0,0,3,5,4,0,0,1,4.5,4.0,1.67,4.56,4.33,1.7
+2023-03-04,First Division A,2022-23,Oud-Heverlee Leuven,Waregem,4,2,3,5,2,1,0,0,6,8,3,0,1,1,1.83,3.6,4.2,1.87,3.97,4.0
+2023-03-04,First Division A,2022-23,Standard,Westerlo,2,0,7,1,0,2,1,0,2,8,2,1,0,0,2.55,3.3,2.7,2.6,3.67,2.66
+2023-03-04,First Division A,2022-23,Kortrijk,Charleroi,0,1,4,2,0,4,0,0,1,6,4,0,0,0,3.1,3.4,2.25,3.21,3.68,2.22
+2023-03-04,First Division A,2022-23,Cercle Brugge,Seraing,3,1,11,3,1,1,0,0,4,14,2,0,1,1,1.4,4.75,8.0,1.37,4.84,9.64
+2023-03-05,First Division A,2022-23,St Truiden,Genk,2,2,2,2,3,1,0,0,4,4,4,0,1,1,4.0,3.4,1.91,4.06,3.63,1.95
+2023-03-05,First Division A,2022-23,Antwerp,Mechelen,5,0,6,3,1,2,0,0,5,9,3,0,0,1,1.53,4.2,5.75,1.53,4.32,6.12
+2023-03-05,First Division A,2022-23,Gent,Anderlecht,1,0,4,2,1,4,0,1,1,6,5,1,0,0,2.05,3.4,3.5,2.1,3.64,3.4
+2023-03-05,First Division A,2022-23,St. Gilloise,Eupen,2,1,5,2,1,1,0,0,3,7,2,0,1,1,1.25,5.5,12.0,1.23,6.29,11.47
+2023-03-10,First Division A,2022-23,Charleroi,Oud-Heverlee Leuven,0,1,7,4,1,4,0,0,1,11,5,0,0,0,1.85,3.6,3.6,1.94,3.72,3.96
+2023-03-11,First Division A,2022-23,Westerlo,Kortrijk,3,1,7,7,3,2,0,0,4,14,5,0,1,1,1.67,4.0,4.33,1.69,4.25,4.57
+2023-03-11,First Division A,2022-23,Seraing,Antwerp,0,2,4,5,3,1,1,0,2,9,4,1,0,0,7.5,4.33,1.4,8.31,4.63,1.42
+2023-03-11,First Division A,2022-23,Mechelen,St Truiden,1,0,8,4,1,2,0,0,1,12,3,0,0,0,2.15,3.25,3.1,2.28,3.37,3.35
+2023-03-11,First Division A,2022-23,Eupen,Oostende,4,4,9,2,0,3,0,1,8,11,3,1,1,1,2.5,3.4,2.6,2.62,3.6,2.68
+2023-03-12,First Division A,2022-23,Club Brugge,Standard,2,0,6,6,1,1,0,0,2,12,2,0,0,0,1.7,3.8,4.33,1.71,4.09,4.53
+2023-03-12,First Division A,2022-23,Waregem,Gent,2,6,4,1,1,1,0,0,8,5,2,0,1,1,3.2,3.6,1.95,3.53,3.54,2.09
+2023-03-12,First Division A,2022-23,Genk,St. Gilloise,1,2,14,5,3,3,0,0,3,19,6,0,1,1,2.2,3.4,3.0,2.35,3.54,2.98
+2023-03-12,First Division A,2022-23,Anderlecht,Cercle Brugge,2,0,5,4,0,2,0,1,2,9,2,1,0,0,2.05,3.5,3.3,2.07,3.59,3.52
+2023-03-17,First Division A,2022-23,Cercle Brugge,Genk,1,1,6,9,2,1,0,0,2,15,3,0,1,0,2.7,3.4,2.38,2.76,3.7,2.5
+2023-03-18,First Division A,2022-23,Kortrijk,Club Brugge,1,0,1,6,2,2,0,0,1,7,4,0,0,0,4.2,3.8,1.65,4.41,4.5,1.7
+2023-03-18,First Division A,2022-23,Oostende,Westerlo,1,2,7,5,1,2,0,0,3,12,3,0,1,1,2.88,3.3,2.25,2.87,3.87,2.34
+2023-03-18,First Division A,2022-23,St Truiden,Seraing,2,1,4,2,2,2,0,0,3,6,4,0,1,1,1.53,3.75,5.75,1.57,3.98,6.25
+2023-03-18,First Division A,2022-23,Standard,Waregem,2,2,6,5,3,2,0,0,4,11,5,0,1,1,1.67,3.75,4.5,1.73,4.01,4.59
+2023-03-19,First Division A,2022-23,Gent,Eupen,3,0,16,5,2,0,0,0,3,21,2,0,0,1,1.36,4.75,8.0,1.34,5.15,9.02
+2023-03-19,First Division A,2022-23,St. Gilloise,Mechelen,2,1,3,5,1,2,0,0,3,8,3,0,1,1,1.36,4.75,7.0,1.4,5.02,7.41
+2023-03-19,First Division A,2022-23,Antwerp,Charleroi,0,1,8,0,0,4,0,1,1,8,4,1,0,0,1.67,3.75,4.5,1.71,4.0,4.77
+2023-03-19,First Division A,2022-23,Oud-Heverlee Leuven,Anderlecht,0,2,4,7,3,2,0,0,2,11,5,0,0,0,3.0,3.4,2.15,3.12,3.57,2.25
+2023-03-31,First Division A,2022-23,Waregem,Antwerp,0,2,6,5,4,1,0,0,2,11,5,0,0,0,4.2,4.0,1.65,4.68,4.18,1.71
+2023-04-01,First Division A,2022-23,Cercle Brugge,Kortrijk,2,0,6,2,2,2,0,0,2,8,4,0,0,0,1.57,4.0,4.75,1.61,4.31,5.4
+2023-04-01,First Division A,2022-23,Seraing,Gent,0,5,3,13,0,1,0,0,5,16,1,0,0,1,8.0,4.33,1.33,8.99,4.73,1.4
+2023-04-01,First Division A,2022-23,Westerlo,Charleroi,2,3,7,4,2,5,0,0,5,11,7,0,1,1,2.1,3.5,3.1,2.19,3.67,3.29
+2023-04-01,First Division A,2022-23,Oostende,Standard,1,3,6,7,3,1,1,0,4,13,4,1,1,1,3.1,3.4,2.1,3.04,3.8,2.23
+2023-04-02,First Division A,2022-23,Mechelen,Club Brugge,0,3,1,8,1,1,0,0,3,9,2,0,0,1,3.5,3.5,1.91,3.72,3.8,1.94
+2023-04-02,First Division A,2022-23,Genk,Oud-Heverlee Leuven,2,1,11,5,4,2,0,0,3,16,6,0,1,1,1.5,4.0,6.0,1.51,4.64,5.85
+2023-04-02,First Division A,2022-23,Eupen,Anderlecht,0,1,2,6,1,0,0,0,1,8,1,0,0,0,3.8,3.6,1.8,4.33,3.9,1.79
+2023-04-02,First Division A,2022-23,St. Gilloise,St Truiden,2,1,13,1,2,3,0,1,3,14,5,1,1,1,1.44,4.5,6.5,1.45,4.27,7.87
+2023-04-07,First Division A,2022-23,Club Brugge,Seraing,2,0,21,1,0,0,0,0,2,22,0,0,0,0,1.11,9.5,21.0,1.12,9.49,24.9
+2023-04-08,First Division A,2022-23,Kortrijk,Eupen,0,0,7,6,3,2,0,0,0,13,5,0,0,0,2.0,3.5,3.6,2.04,3.79,3.47
+2023-04-08,First Division A,2022-23,Oud-Heverlee Leuven,Mechelen,4,1,2,8,1,3,0,0,5,10,4,0,1,1,2.1,3.5,3.3,2.19,3.82,3.18
+2023-04-08,First Division A,2022-23,Charleroi,Waregem,3,2,3,5,3,1,0,0,5,8,4,0,1,1,1.73,3.8,4.75,1.66,4.55,4.64
+2023-04-08,First Division A,2022-23,Gent,St. Gilloise,1,1,4,3,0,2,0,0,2,7,2,0,1,0,2.55,3.3,2.7,2.63,3.62,2.66
+2023-04-09,First Division A,2022-23,St Truiden,Oostende,5,0,6,2,1,1,0,0,5,8,2,0,0,1,2.25,3.25,3.25,2.33,3.35,3.16
+2023-04-09,First Division A,2022-23,Standard,Genk,2,0,4,7,3,3,0,0,2,11,6,0,0,0,2.63,3.4,2.55,2.6,3.78,2.53
+2023-04-09,First Division A,2022-23,Anderlecht,Westerlo,0,0,10,1,2,2,0,0,0,11,4,0,0,0,1.67,3.75,5.0,1.7,4.1,4.62
+2023-04-09,First Division A,2022-23,Antwerp,Cercle Brugge,2,1,6,1,1,3,0,0,3,7,4,0,1,1,1.7,3.6,4.75,1.7,3.86,4.95
+2023-04-14,First Division A,2022-23,Standard,Charleroi,3,1,5,5,4,1,1,0,4,10,5,1,1,1,2.05,3.5,3.5,2.06,3.7,3.58
+2023-04-15,First Division A,2022-23,Eupen,Waregem,1,5,4,3,3,1,0,0,6,7,4,0,1,1,2.38,3.4,2.9,2.44,3.59,2.9
+2023-04-15,First Division A,2022-23,Cercle Brugge,St Truiden,3,1,4,1,3,0,0,0,4,5,3,0,1,1,1.67,3.75,5.0,1.72,3.94,4.99
+2023-04-15,First Division A,2022-23,Oostende,Oud-Heverlee Leuven,0,4,7,6,1,0,0,0,4,13,1,0,0,1,2.4,3.5,2.75,2.37,4.21,2.62
+2023-04-15,First Division A,2022-23,Westerlo,Club Brugge,0,0,4,13,4,3,0,0,0,17,7,0,0,0,3.3,3.4,2.15,3.29,3.71,2.17
+2023-04-16,First Division A,2022-23,Genk,Anderlecht,5,2,7,2,2,3,0,0,7,9,5,0,1,1,1.85,3.6,4.0,1.83,4.08,3.91
+2023-04-16,First Division A,2022-23,Mechelen,Gent,1,1,3,6,1,1,0,0,2,9,2,0,1,0,4.75,3.8,1.67,5.04,4.2,1.63
+2023-04-16,First Division A,2022-23,Antwerp,Kortrijk,1,0,12,2,0,1,0,0,1,14,1,0,0,0,1.29,5.75,9.0,1.29,5.45,11.18
+2023-04-16,First Division A,2022-23,St. Gilloise,Seraing,2,1,11,2,1,1,0,0,3,13,2,0,1,1,1.08,10.0,23.0,1.12,9.45,19.3
+2023-04-22,First Division A,2022-23,Seraing,Westerlo,1,1,6,4,4,1,0,0,2,10,5,0,1,0,5.5,4.0,1.55,5.5,4.36,1.6
+2023-04-23,First Division A,2022-23,Gent,Oostende,1,2,3,5,2,3,0,0,3,8,5,0,1,1,1.2,6.0,12.0,1.21,7.1,11.31
+2023-04-23,First Division A,2022-23,Kortrijk,St. Gilloise,2,4,0,3,1,3,0,0,6,3,4,0,1,1,5.25,4.2,1.53,5.46,4.5,1.55
+2023-04-23,First Division A,2022-23,Club Brugge,Eupen,7,0,4,4,0,3,0,0,7,8,3,0,0,1,1.3,5.0,9.5,1.3,5.64,9.77
+2023-04-23,First Division A,2022-23,Oud-Heverlee Leuven,Standard,3,2,6,7,0,2,0,0,5,13,2,0,1,1,2.5,3.6,2.5,2.65,3.74,2.51
+2023-04-23,First Division A,2022-23,Anderlecht,Mechelen,2,3,6,3,0,0,0,0,5,9,0,0,1,1,1.36,5.0,7.0,1.35,5.24,8.18
+2023-04-23,First Division A,2022-23,St Truiden,Antwerp,0,1,6,2,2,0,0,0,1,8,2,0,0,0,4.33,3.5,1.8,4.32,3.84,1.81
+2023-04-23,First Division A,2022-23,Charleroi,Genk,2,2,6,4,3,1,0,0,4,10,4,0,1,1,3.6,3.6,1.91,3.59,4.0,1.93
+2023-04-23,First Division A,2022-23,Waregem,Cercle Brugge,2,3,3,3,2,4,0,0,5,6,6,0,1,1,3.0,3.6,2.15,2.94,3.87,2.24

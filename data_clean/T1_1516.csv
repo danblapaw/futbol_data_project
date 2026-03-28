@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2015-08-14,Super Lig,2015-16,Fenerbahce,Eskisehirspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-08-15,Super Lig,2015-16,Buyuksehyr,Antalyaspor,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2015-08-15,Super Lig,2015-16,Sivasspor,Galatasaray,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-08-15,Super Lig,2015-16,Trabzonspor,Bursaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-08-16,Super Lig,2015-16,Gaziantepspor,Kasimpasa,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2015-08-16,Super Lig,2015-16,Konyaspor,Akhisar Belediyespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-08-16,Super Lig,2015-16,Mersin Idman Yurdu,Besiktas,2,5,0,0,0,0,0,0,7,0,0,0,1,1
-2015-08-16,Super Lig,2015-16,Osmanlispor,Kayserispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-08-17,Super Lig,2015-16,Genclerbirligi,Rizespor,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2015-08-21,Super Lig,2015-16,Kasimpasa,Buyuksehyr,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-08-22,Super Lig,2015-16,Akhisar Belediyespor,Mersin Idman Yurdu,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-08-22,Super Lig,2015-16,Besiktas,Trabzonspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-08-22,Super Lig,2015-16,Kayserispor,Konyaspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-08-23,Super Lig,2015-16,Antalyaspor,Genclerbirligi,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2015-08-23,Super Lig,2015-16,Bursaspor,Gaziantepspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-08-23,Super Lig,2015-16,Eskisehirspor,Sivasspor,4,2,0,0,0,0,0,0,6,0,0,0,1,1
-2015-08-23,Super Lig,2015-16,Rizespor,Fenerbahce,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-08-24,Super Lig,2015-16,Galatasaray,Osmanlispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-08-28,Super Lig,2015-16,Gaziantepspor,Besiktas,0,4,0,0,0,0,0,0,4,0,0,0,0,1
-2015-08-29,Super Lig,2015-16,Buyuksehyr,Bursaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-08-29,Super Lig,2015-16,Genclerbirligi,Kasimpasa,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-08-29,Super Lig,2015-16,Konyaspor,Galatasaray,1,4,0,0,0,0,0,0,5,0,0,0,1,1
-2015-08-29,Super Lig,2015-16,Mersin Idman Yurdu,Kayserispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-08-30,Super Lig,2015-16,Sivasspor,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-08-30,Super Lig,2015-16,Trabzonspor,Akhisar Belediyespor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-08-30,Super Lig,2015-16,Eskisehirspor,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-08-30,Super Lig,2015-16,Fenerbahce,Antalyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-09-12,Super Lig,2015-16,Akhisar Belediyespor,Gaziantepspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-09-12,Super Lig,2015-16,Antalyaspor,Eskisehirspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-09-12,Super Lig,2015-16,Bursaspor,Genclerbirligi,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-09-12,Super Lig,2015-16,Galatasaray,Mersin Idman Yurdu,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-09-13,Super Lig,2015-16,Rizespor,Sivasspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-09-13,Super Lig,2015-16,Besiktas,Buyuksehyr,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-09-13,Super Lig,2015-16,Kasimpasa,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-09-13,Super Lig,2015-16,Osmanlispor,Konyaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-09-14,Super Lig,2015-16,Kayserispor,Trabzonspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-09-18,Super Lig,2015-16,Mersin Idman Yurdu,Osmanlispor,0,4,0,0,0,0,0,0,4,0,0,0,0,1
-2015-09-18,Super Lig,2015-16,Buyuksehyr,Akhisar Belediyespor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-09-19,Super Lig,2015-16,Eskisehirspor,Kasimpasa,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2015-09-19,Super Lig,2015-16,Rizespor,Antalyaspor,5,1,0,0,0,0,0,0,6,0,0,0,1,1
-2015-09-19,Super Lig,2015-16,Sivasspor,Konyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-09-19,Super Lig,2015-16,Trabzonspor,Galatasaray,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-09-20,Super Lig,2015-16,Fenerbahce,Bursaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-09-20,Super Lig,2015-16,Gaziantepspor,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-09-21,Super Lig,2015-16,Genclerbirligi,Besiktas,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-09-26,Super Lig,2015-16,Osmanlispor,Trabzonspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2015-09-26,Super Lig,2015-16,Galatasaray,Gaziantepspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-09-26,Super Lig,2015-16,Akhisar Belediyespor,Genclerbirligi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-09-27,Super Lig,2015-16,Antalyaspor,Sivasspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-09-27,Super Lig,2015-16,Besiktas,Fenerbahce,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-09-27,Super Lig,2015-16,Konyaspor,Mersin Idman Yurdu,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-09-28,Super Lig,2015-16,Bursaspor,Eskisehirspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-09-28,Super Lig,2015-16,Kasimpasa,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-09-28,Super Lig,2015-16,Kayserispor,Buyuksehyr,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-02,Super Lig,2015-16,Sivasspor,Mersin Idman Yurdu,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-10-02,Super Lig,2015-16,Trabzonspor,Konyaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-10-03,Super Lig,2015-16,Genclerbirligi,Kayserispor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-10-03,Super Lig,2015-16,Buyuksehyr,Galatasaray,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2015-10-03,Super Lig,2015-16,Gaziantepspor,Osmanlispor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-10-04,Super Lig,2015-16,Antalyaspor,Kasimpasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-10-04,Super Lig,2015-16,Eskisehirspor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-10-04,Super Lig,2015-16,Fenerbahce,Akhisar Belediyespor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-10-04,Super Lig,2015-16,Rizespor,Bursaspor,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2015-10-17,Super Lig,2015-16,Bursaspor,Antalyaspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2015-10-17,Super Lig,2015-16,Galatasaray,Genclerbirligi,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2015-10-17,Super Lig,2015-16,Konyaspor,Gaziantepspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-10-18,Super Lig,2015-16,Akhisar Belediyespor,Eskisehirspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-18,Super Lig,2015-16,Besiktas,Rizespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-18,Super Lig,2015-16,Kasimpasa,Sivasspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-10-18,Super Lig,2015-16,Kayserispor,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-19,Super Lig,2015-16,Mersin Idman Yurdu,Trabzonspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-10-19,Super Lig,2015-16,Osmanlispor,Buyuksehyr,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2015-10-23,Super Lig,2015-16,Eskisehirspor,Kayserispor,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2015-10-23,Super Lig,2015-16,Rizespor,Akhisar Belediyespor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2015-10-24,Super Lig,2015-16,Sivasspor,Trabzonspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2015-10-24,Super Lig,2015-16,Kasimpasa,Bursaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-24,Super Lig,2015-16,Genclerbirligi,Osmanlispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-24,Super Lig,2015-16,Gaziantepspor,Mersin Idman Yurdu,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-25,Super Lig,2015-16,Buyuksehyr,Konyaspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2015-10-25,Super Lig,2015-16,Fenerbahce,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-10-26,Super Lig,2015-16,Antalyaspor,Besiktas,1,5,0,0,0,0,0,0,6,0,0,0,1,1
-2015-10-28,Super Lig,2015-16,Bursaspor,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-28,Super Lig,2015-16,Kayserispor,Rizespor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-10-28,Super Lig,2015-16,Trabzonspor,Gaziantepspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-10-29,Super Lig,2015-16,Galatasaray,Eskisehirspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2015-10-29,Super Lig,2015-16,Mersin Idman Yurdu,Buyuksehyr,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-10-29,Super Lig,2015-16,Osmanlispor,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-10-30,Super Lig,2015-16,Akhisar Belediyespor,Antalyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-10-30,Super Lig,2015-16,Besiktas,Kasimpasa,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2015-10-30,Super Lig,2015-16,Konyaspor,Genclerbirligi,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-11-06,Super Lig,2015-16,Eskisehirspor,Osmanlispor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2015-11-06,Super Lig,2015-16,Genclerbirligi,Mersin Idman Yurdu,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-11-07,Super Lig,2015-16,Kasimpasa,Akhisar Belediyespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-11-07,Super Lig,2015-16,Rizespor,Galatasaray,4,3,0,0,0,0,0,0,7,0,0,0,1,1
-2015-11-07,Super Lig,2015-16,Antalyaspor,Kayserispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-11-07,Super Lig,2015-16,Buyuksehyr,Trabzonspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-11-08,Super Lig,2015-16,Bursaspor,Besiktas,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-11-08,Super Lig,2015-16,Fenerbahce,Konyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-11-08,Super Lig,2015-16,Sivasspor,Gaziantepspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2015-11-21,Super Lig,2015-16,Akhisar Belediyespor,Bursaspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2015-11-21,Super Lig,2015-16,Galatasaray,Antalyaspor,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2015-11-21,Super Lig,2015-16,Kayserispor,Kasimpasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-11-21,Super Lig,2015-16,Mersin Idman Yurdu,Fenerbahce,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2015-11-22,Super Lig,2015-16,Trabzonspor,Genclerbirligi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-11-22,Super Lig,2015-16,Osmanlispor,Rizespor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-11-22,Super Lig,2015-16,Besiktas,Sivasspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-11-22,Super Lig,2015-16,Konyaspor,Eskisehirspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-11-23,Super Lig,2015-16,Gaziantepspor,Buyuksehyr,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-11-27,Super Lig,2015-16,Antalyaspor,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-11-27,Super Lig,2015-16,Bursaspor,Kayserispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-11-27,Super Lig,2015-16,Rizespor,Konyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-11-28,Super Lig,2015-16,Sivasspor,Buyuksehyr,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-11-28,Super Lig,2015-16,Eskisehirspor,Mersin Idman Yurdu,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-11-29,Super Lig,2015-16,Kasimpasa,Galatasaray,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-11-29,Super Lig,2015-16,Besiktas,Akhisar Belediyespor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2015-11-29,Super Lig,2015-16,Genclerbirligi,Gaziantepspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-11-30,Super Lig,2015-16,Fenerbahce,Trabzonspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-12-04,Super Lig,2015-16,Galatasaray,Bursaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2015-12-05,Super Lig,2015-16,Kayserispor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-05,Super Lig,2015-16,Konyaspor,Antalyaspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-12-05,Super Lig,2015-16,Osmanlispor,Kasimpasa,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-12-06,Super Lig,2015-16,Gaziantepspor,Fenerbahce,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2015-12-06,Super Lig,2015-16,Mersin Idman Yurdu,Rizespor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2015-12-06,Super Lig,2015-16,Buyuksehyr,Genclerbirligi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-12-07,Super Lig,2015-16,Akhisar Belediyespor,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-12-07,Super Lig,2015-16,Trabzonspor,Eskisehirspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2015-12-11,Super Lig,2015-16,Bursaspor,Osmanlispor,0,4,0,0,0,0,0,0,4,0,0,0,0,1
-2015-12-12,Super Lig,2015-16,Antalyaspor,Mersin Idman Yurdu,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-12-12,Super Lig,2015-16,Eskisehirspor,Gaziantepspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-12,Super Lig,2015-16,Kasimpasa,Konyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-12,Super Lig,2015-16,Rizespor,Trabzonspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2015-12-13,Super Lig,2015-16,Kayserispor,Akhisar Belediyespor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-12-13,Super Lig,2015-16,Genclerbirligi,Sivasspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-12-13,Super Lig,2015-16,Fenerbahce,Buyuksehyr,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-12-14,Super Lig,2015-16,Besiktas,Galatasaray,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-19,Super Lig,2015-16,Gaziantepspor,Rizespor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2015-12-19,Super Lig,2015-16,Konyaspor,Bursaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2015-12-19,Super Lig,2015-16,Mersin Idman Yurdu,Kasimpasa,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-19,Super Lig,2015-16,Trabzonspor,Antalyaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2015-12-20,Super Lig,2015-16,Buyuksehyr,Eskisehirspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-20,Super Lig,2015-16,Galatasaray,Akhisar Belediyespor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2015-12-20,Super Lig,2015-16,Genclerbirligi,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2015-12-20,Super Lig,2015-16,Sivasspor,Kayserispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-12-21,Super Lig,2015-16,Osmanlispor,Besiktas,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2015-12-26,Super Lig,2015-16,Antalyaspor,Gaziantepspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-12-26,Super Lig,2015-16,Kasimpasa,Trabzonspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-12-26,Super Lig,2015-16,Rizespor,Buyuksehyr,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-27,Super Lig,2015-16,Besiktas,Konyaspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2015-12-27,Super Lig,2015-16,Bursaspor,Mersin Idman Yurdu,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-27,Super Lig,2015-16,Akhisar Belediyespor,Osmanlispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2015-12-27,Super Lig,2015-16,Kayserispor,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2015-12-28,Super Lig,2015-16,Fenerbahce,Sivasspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2015-12-28,Super Lig,2015-16,Eskisehirspor,Genclerbirligi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-01-16,Super Lig,2015-16,Akhisar Belediyespor,Konyaspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-01-16,Super Lig,2015-16,Galatasaray,Sivasspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-01-16,Super Lig,2015-16,Kasimpasa,Gaziantepspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-01-16,Super Lig,2015-16,Kayserispor,Osmanlispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-01-17,Super Lig,2015-16,Antalyaspor,Buyuksehyr,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-01-17,Super Lig,2015-16,Bursaspor,Trabzonspor,4,2,0,0,0,0,0,0,6,0,0,0,1,1
-2016-01-17,Super Lig,2015-16,Rizespor,Genclerbirligi,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2016-01-18,Super Lig,2015-16,Eskisehirspor,Fenerbahce,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2016-01-23,Super Lig,2015-16,Konyaspor,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-01-23,Super Lig,2015-16,Mersin Idman Yurdu,Akhisar Belediyespor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-01-23,Super Lig,2015-16,Osmanlispor,Galatasaray,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2016-01-24,Super Lig,2015-16,Fenerbahce,Rizespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-01-24,Super Lig,2015-16,Gaziantepspor,Bursaspor,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2016-01-24,Super Lig,2015-16,Genclerbirligi,Antalyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-01-24,Super Lig,2015-16,Sivasspor,Eskisehirspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-01-25,Super Lig,2015-16,Buyuksehyr,Kasimpasa,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-02-05,Super Lig,2015-16,Osmanlispor,Sivasspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-02-05,Super Lig,2015-16,Antalyaspor,Fenerbahce,4,2,0,0,0,0,0,0,6,0,0,0,1,1
-2016-02-06,Super Lig,2015-16,Bursaspor,Buyuksehyr,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2016-02-06,Super Lig,2015-16,Galatasaray,Konyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-02-06,Super Lig,2015-16,Kayserispor,Mersin Idman Yurdu,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-07,Super Lig,2015-16,Akhisar Belediyespor,Trabzonspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-07,Super Lig,2015-16,Besiktas,Gaziantepspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-02-07,Super Lig,2015-16,Rizespor,Eskisehirspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-02-08,Super Lig,2015-16,Kasimpasa,Genclerbirligi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-12,Super Lig,2015-16,Fenerbahce,Kasimpasa,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-02-13,Super Lig,2015-16,Mersin Idman Yurdu,Galatasaray,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-13,Super Lig,2015-16,Genclerbirligi,Bursaspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-02-13,Super Lig,2015-16,Konyaspor,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-02-14,Super Lig,2015-16,Buyuksehyr,Besiktas,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-02-14,Super Lig,2015-16,Eskisehirspor,Antalyaspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2016-02-14,Super Lig,2015-16,Gaziantepspor,Akhisar Belediyespor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-14,Super Lig,2015-16,Sivasspor,Rizespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-15,Super Lig,2015-16,Trabzonspor,Kayserispor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-17,Super Lig,2015-16,Besiktas,Mersin Idman Yurdu,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-19,Super Lig,2015-16,Konyaspor,Sivasspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-20,Super Lig,2015-16,Kasimpasa,Eskisehirspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-20,Super Lig,2015-16,Antalyaspor,Rizespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-20,Super Lig,2015-16,Bursaspor,Fenerbahce,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-02-21,Super Lig,2015-16,Akhisar Belediyespor,Buyuksehyr,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-02-21,Super Lig,2015-16,Galatasaray,Trabzonspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-21,Super Lig,2015-16,Kayserispor,Gaziantepspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-02-21,Super Lig,2015-16,Osmanlispor,Mersin Idman Yurdu,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-02-22,Super Lig,2015-16,Besiktas,Genclerbirligi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-26,Super Lig,2015-16,Buyuksehyr,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-27,Super Lig,2015-16,Trabzonspor,Osmanlispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-02-27,Super Lig,2015-16,Rizespor,Kasimpasa,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-02-27,Super Lig,2015-16,Mersin Idman Yurdu,Konyaspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-02-27,Super Lig,2015-16,Eskisehirspor,Bursaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-02-28,Super Lig,2015-16,Gaziantepspor,Galatasaray,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-02-28,Super Lig,2015-16,Genclerbirligi,Akhisar Belediyespor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-02-28,Super Lig,2015-16,Sivasspor,Antalyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-02-29,Super Lig,2015-16,Fenerbahce,Besiktas,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-03-04,Super Lig,2015-16,Mersin Idman Yurdu,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-05,Super Lig,2015-16,Osmanlispor,Gaziantepspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-03-05,Super Lig,2015-16,Bursaspor,Rizespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-05,Super Lig,2015-16,Kayserispor,Genclerbirligi,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-03-06,Super Lig,2015-16,Akhisar Belediyespor,Fenerbahce,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2016-03-06,Super Lig,2015-16,Galatasaray,Buyuksehyr,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2016-03-06,Super Lig,2015-16,Kasimpasa,Antalyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-03-06,Super Lig,2015-16,Konyaspor,Trabzonspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-03-07,Super Lig,2015-16,Besiktas,Eskisehirspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-03-11,Super Lig,2015-16,Trabzonspor,Mersin Idman Yurdu,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-12,Super Lig,2015-16,Buyuksehyr,Osmanlispor,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2016-03-12,Super Lig,2015-16,Gaziantepspor,Konyaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-12,Super Lig,2015-16,Rizespor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-03-13,Super Lig,2015-16,Eskisehirspor,Akhisar Belediyespor,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2016-03-13,Super Lig,2015-16,Fenerbahce,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-13,Super Lig,2015-16,Genclerbirligi,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-03-14,Super Lig,2015-16,Sivasspor,Kasimpasa,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-14,Super Lig,2015-16,Antalyaspor,Bursaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-03-15,Super Lig,2015-16,Trabzonspor,Besiktas,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-03-18,Super Lig,2015-16,Kayserispor,Eskisehirspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-03-18,Super Lig,2015-16,Akhisar Belediyespor,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-03-19,Super Lig,2015-16,Trabzonspor,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-19,Super Lig,2015-16,Osmanlispor,Genclerbirligi,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-03-19,Super Lig,2015-16,Besiktas,Antalyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-03-20,Super Lig,2015-16,Bursaspor,Kasimpasa,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2016-03-20,Super Lig,2015-16,Konyaspor,Buyuksehyr,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-03-20,Super Lig,2015-16,Mersin Idman Yurdu,Gaziantepspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-04-02,Super Lig,2015-16,Eskisehirspor,Galatasaray,4,3,0,0,0,0,0,0,7,0,0,0,1,1
-2016-04-02,Super Lig,2015-16,Gaziantepspor,Trabzonspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-04-02,Super Lig,2015-16,Genclerbirligi,Konyaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-04-03,Super Lig,2015-16,Sivasspor,Bursaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-03,Super Lig,2015-16,Fenerbahce,Osmanlispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-04-03,Super Lig,2015-16,Buyuksehyr,Mersin Idman Yurdu,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-04-03,Super Lig,2015-16,Antalyaspor,Akhisar Belediyespor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-04-04,Super Lig,2015-16,Kasimpasa,Besiktas,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-04,Super Lig,2015-16,Rizespor,Kayserispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-04-08,Super Lig,2015-16,Gaziantepspor,Sivasspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-04-09,Super Lig,2015-16,Galatasaray,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-04-09,Super Lig,2015-16,Konyaspor,Fenerbahce,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-09,Super Lig,2015-16,Osmanlispor,Eskisehirspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-04-10,Super Lig,2015-16,Trabzonspor,Buyuksehyr,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-04-10,Super Lig,2015-16,Mersin Idman Yurdu,Genclerbirligi,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2016-04-10,Super Lig,2015-16,Kayserispor,Antalyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-04-11,Super Lig,2015-16,Akhisar Belediyespor,Kasimpasa,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-04-11,Super Lig,2015-16,Besiktas,Bursaspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2016-04-13,Super Lig,2015-16,Galatasaray,Fenerbahce,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-04-16,Super Lig,2015-16,Antalyaspor,Galatasaray,4,2,0,0,0,0,0,0,6,0,0,0,1,1
-2016-04-16,Super Lig,2015-16,Eskisehirspor,Konyaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-16,Super Lig,2015-16,Rizespor,Osmanlispor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-04-16,Super Lig,2015-16,Sivasspor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-17,Super Lig,2015-16,Bursaspor,Akhisar Belediyespor,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-04-17,Super Lig,2015-16,Buyuksehyr,Gaziantepspor,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2016-04-17,Super Lig,2015-16,Fenerbahce,Mersin Idman Yurdu,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2016-04-17,Super Lig,2015-16,Kasimpasa,Kayserispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-18,Super Lig,2015-16,Genclerbirligi,Trabzonspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-04-22,Super Lig,2015-16,Kayserispor,Bursaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-23,Super Lig,2015-16,Buyuksehyr,Sivasspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-04-23,Super Lig,2015-16,Osmanlispor,Antalyaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-04-23,Super Lig,2015-16,Akhisar Belediyespor,Besiktas,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2016-04-24,Super Lig,2015-16,Trabzonspor,Fenerbahce,0,4,0,0,0,0,0,0,4,0,0,0,0,1
-2016-04-24,Super Lig,2015-16,Mersin Idman Yurdu,Eskisehirspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-04-24,Super Lig,2015-16,Galatasaray,Kasimpasa,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2016-04-24,Super Lig,2015-16,Konyaspor,Rizespor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-04-25,Super Lig,2015-16,Gaziantepspor,Genclerbirligi,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2016-04-29,Super Lig,2015-16,Bursaspor,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-04-29,Super Lig,2015-16,Rizespor,Mersin Idman Yurdu,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-04-30,Super Lig,2015-16,Besiktas,Kayserispor,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-04-30,Super Lig,2015-16,Eskisehirspor,Trabzonspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-04-30,Super Lig,2015-16,Genclerbirligi,Buyuksehyr,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-05-01,Super Lig,2015-16,Antalyaspor,Konyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-05-01,Super Lig,2015-16,Fenerbahce,Gaziantepspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-05-01,Super Lig,2015-16,Sivasspor,Akhisar Belediyespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-05-02,Super Lig,2015-16,Kasimpasa,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-05-07,Super Lig,2015-16,Gaziantepspor,Eskisehirspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-05-07,Super Lig,2015-16,Osmanlispor,Bursaspor,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2016-05-07,Super Lig,2015-16,Sivasspor,Genclerbirligi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-05-08,Super Lig,2015-16,Galatasaray,Besiktas,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-05-08,Super Lig,2015-16,Trabzonspor,Rizespor,6,0,0,0,0,0,0,0,6,0,0,0,0,1
-2016-05-08,Super Lig,2015-16,Akhisar Belediyespor,Kayserispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-05-08,Super Lig,2015-16,Mersin Idman Yurdu,Antalyaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-05-09,Super Lig,2015-16,Buyuksehyr,Fenerbahce,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-05-09,Super Lig,2015-16,Konyaspor,Kasimpasa,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-05-13,Super Lig,2015-16,Antalyaspor,Trabzonspor,7,0,0,0,0,0,0,0,7,0,0,0,0,1
-2016-05-14,Super Lig,2015-16,Bursaspor,Konyaspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-05-14,Super Lig,2015-16,Eskisehirspor,Buyuksehyr,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-05-14,Super Lig,2015-16,Kayserispor,Sivasspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-05-14,Super Lig,2015-16,Rizespor,Gaziantepspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-05-15,Super Lig,2015-16,Fenerbahce,Genclerbirligi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-05-15,Super Lig,2015-16,Akhisar Belediyespor,Galatasaray,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-05-15,Super Lig,2015-16,Besiktas,Osmanlispor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-05-15,Super Lig,2015-16,Kasimpasa,Mersin Idman Yurdu,7,0,0,0,0,0,0,0,7,0,0,0,0,1
-2016-05-18,Super Lig,2015-16,Konyaspor,Besiktas,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-05-18,Super Lig,2015-16,Buyuksehyr,Rizespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-05-18,Super Lig,2015-16,Mersin Idman Yurdu,Bursaspor,2,5,0,0,0,0,0,0,7,0,0,0,1,1
-2016-05-19,Super Lig,2015-16,Osmanlispor,Akhisar Belediyespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-05-19,Super Lig,2015-16,Genclerbirligi,Eskisehirspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-05-19,Super Lig,2015-16,Sivasspor,Fenerbahce,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-05-19,Super Lig,2015-16,Galatasaray,Kayserispor,6,0,0,0,0,0,0,0,6,0,0,0,0,1
-2016-05-19,Super Lig,2015-16,Gaziantepspor,Antalyaspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-05-19,Super Lig,2015-16,Trabzonspor,Kasimpasa,0,6,0,0,0,0,0,0,6,0,0,0,0,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2015-08-14,Super Lig,2015-16,Fenerbahce,Eskisehirspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.4,4.75,7.0,1.42,4.81,8.87
+2015-08-15,Super Lig,2015-16,Buyuksehyr,Antalyaspor,2,3,0,0,0,0,0,0,5,0,0,0,1,1,1.7,3.5,5.25,1.71,3.76,5.53
+2015-08-15,Super Lig,2015-16,Sivasspor,Galatasaray,2,2,0,0,0,0,0,0,4,0,0,0,1,1,3.4,3.5,2.05,3.4,3.6,2.18
+2015-08-15,Super Lig,2015-16,Trabzonspor,Bursaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.25,3.4,3.1,2.37,3.35,3.23
+2015-08-16,Super Lig,2015-16,Gaziantepspor,Kasimpasa,0,3,0,0,0,0,0,0,3,0,0,0,0,1,2.63,3.3,2.6,2.76,3.48,2.63
+2015-08-16,Super Lig,2015-16,Konyaspor,Akhisar Belediyespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.91,3.4,4.0,1.96,3.46,4.34
+2015-08-16,Super Lig,2015-16,Mersin Idman Yurdu,Besiktas,2,5,0,0,0,0,0,0,7,0,0,0,1,1,3.4,3.3,2.15,3.54,3.47,2.18
+2015-08-16,Super Lig,2015-16,Osmanlispor,Kayserispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.3,3.2,3.2,2.4,3.28,3.24
+2015-08-17,Super Lig,2015-16,Genclerbirligi,Rizespor,2,3,0,0,0,0,0,0,5,0,0,0,1,1,2.1,3.3,3.5,2.14,3.44,3.67
+2015-08-21,Super Lig,2015-16,Kasimpasa,Buyuksehyr,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.38,3.4,2.88,2.51,3.43,2.98
+2015-08-22,Super Lig,2015-16,Akhisar Belediyespor,Mersin Idman Yurdu,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.38,3.2,3.0,2.44,3.33,3.12
+2015-08-22,Super Lig,2015-16,Besiktas,Trabzonspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.67,3.75,5.0,1.7,3.99,5.24
+2015-08-22,Super Lig,2015-16,Kayserispor,Konyaspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.3,3.25,3.1,2.33,3.31,3.35
+2015-08-23,Super Lig,2015-16,Antalyaspor,Genclerbirligi,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.25,3.4,3.1,2.37,3.54,3.07
+2015-08-23,Super Lig,2015-16,Bursaspor,Gaziantepspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.36,4.75,8.5,1.39,4.9,9.25
+2015-08-23,Super Lig,2015-16,Eskisehirspor,Sivasspor,4,2,0,0,0,0,0,0,6,0,0,0,1,1,2.15,3.75,3.0,2.23,3.52,3.36
+2015-08-23,Super Lig,2015-16,Rizespor,Fenerbahce,1,1,0,0,0,0,0,0,2,0,0,0,1,0,4.33,3.75,1.75,4.57,3.88,1.81
+2015-08-24,Super Lig,2015-16,Galatasaray,Osmanlispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.4,4.5,7.5,1.44,4.95,7.4
+2015-08-28,Super Lig,2015-16,Gaziantepspor,Besiktas,0,4,0,0,0,0,0,0,4,0,0,0,0,1,5.75,4.0,1.57,6.0,3.99,1.65
+2015-08-29,Super Lig,2015-16,Buyuksehyr,Bursaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.38,3.25,3.0,2.47,3.33,3.08
+2015-08-29,Super Lig,2015-16,Genclerbirligi,Kasimpasa,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.5,3.3,2.8,2.46,3.48,2.97
+2015-08-29,Super Lig,2015-16,Konyaspor,Galatasaray,1,4,0,0,0,0,0,0,5,0,0,0,1,1,3.2,3.4,2.2,3.28,3.39,2.33
+2015-08-29,Super Lig,2015-16,Mersin Idman Yurdu,Kayserispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.6,3.2,2.7,2.63,3.26,2.91
+2015-08-30,Super Lig,2015-16,Sivasspor,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.0,3.3,3.8,2.04,3.5,3.92
+2015-08-30,Super Lig,2015-16,Trabzonspor,Akhisar Belediyespor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.62,3.75,5.5,1.63,4.01,5.99
+2015-08-30,Super Lig,2015-16,Eskisehirspor,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.91,3.3,4.2,1.98,3.51,4.16
+2015-08-30,Super Lig,2015-16,Fenerbahce,Antalyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.25,5.75,11.0,1.28,6.13,11.92
+2015-09-12,Super Lig,2015-16,Akhisar Belediyespor,Gaziantepspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.95,3.6,3.6,2.02,3.43,4.19
+2015-09-12,Super Lig,2015-16,Antalyaspor,Eskisehirspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.3,3.3,3.1,2.3,3.46,3.26
+2015-09-12,Super Lig,2015-16,Bursaspor,Genclerbirligi,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.67,3.75,5.0,1.76,3.83,4.98
+2015-09-12,Super Lig,2015-16,Galatasaray,Mersin Idman Yurdu,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.33,5.0,8.5,1.38,5.23,9.19
+2015-09-13,Super Lig,2015-16,Rizespor,Sivasspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.1,3.4,3.4,2.1,3.59,3.7
+2015-09-13,Super Lig,2015-16,Besiktas,Buyuksehyr,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.67,3.75,5.0,1.72,3.94,5.3
+2015-09-13,Super Lig,2015-16,Kasimpasa,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.6,3.6,1.95,3.83,3.8,2.0
+2015-09-13,Super Lig,2015-16,Osmanlispor,Konyaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.0,3.3,3.8,2.02,3.43,4.2
+2015-09-14,Super Lig,2015-16,Kayserispor,Trabzonspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.45,3.2,3.0,2.49,3.36,3.03
+2015-09-18,Super Lig,2015-16,Mersin Idman Yurdu,Osmanlispor,0,4,0,0,0,0,0,0,4,0,0,0,0,1,2.8,3.2,2.55,2.89,3.39,2.6
+2015-09-18,Super Lig,2015-16,Buyuksehyr,Akhisar Belediyespor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.67,3.5,5.5,1.74,3.79,5.34
+2015-09-19,Super Lig,2015-16,Eskisehirspor,Kasimpasa,0,3,0,0,0,0,0,0,3,0,0,0,0,1,2.8,3.2,2.55,2.79,3.38,2.7
+2015-09-19,Super Lig,2015-16,Rizespor,Antalyaspor,5,1,0,0,0,0,0,0,6,0,0,0,1,1,2.2,3.4,3.2,2.25,3.44,3.45
+2015-09-19,Super Lig,2015-16,Sivasspor,Konyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,3.5,3.6,2.09,3.53,3.81
+2015-09-19,Super Lig,2015-16,Trabzonspor,Galatasaray,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.6,3.4,2.6,2.72,3.47,2.7
+2015-09-20,Super Lig,2015-16,Fenerbahce,Bursaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.53,4.0,6.0,1.57,4.43,6.11
+2015-09-20,Super Lig,2015-16,Gaziantepspor,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.7,3.4,2.5,2.85,3.21,2.76
+2015-09-21,Super Lig,2015-16,Genclerbirligi,Besiktas,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.75,3.6,1.91,4.24,3.73,1.92
+2015-09-26,Super Lig,2015-16,Osmanlispor,Trabzonspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.55,3.4,2.63,2.69,3.36,2.81
+2015-09-26,Super Lig,2015-16,Galatasaray,Gaziantepspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.44,4.5,6.5,1.46,4.6,8.21
+2015-09-26,Super Lig,2015-16,Akhisar Belediyespor,Genclerbirligi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.4,3.2,3.0,2.5,3.34,3.08
+2015-09-27,Super Lig,2015-16,Antalyaspor,Sivasspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.25,3.5,3.0,2.37,3.45,3.19
+2015-09-27,Super Lig,2015-16,Besiktas,Fenerbahce,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.3,3.25,3.1,2.46,3.44,3.04
+2015-09-27,Super Lig,2015-16,Konyaspor,Mersin Idman Yurdu,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.73,3.6,5.0,1.76,3.7,5.32
+2015-09-28,Super Lig,2015-16,Bursaspor,Eskisehirspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.73,3.6,4.75,1.75,3.86,5.17
+2015-09-28,Super Lig,2015-16,Kasimpasa,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.83,3.5,4.33,1.91,3.55,4.55
+2015-09-28,Super Lig,2015-16,Kayserispor,Buyuksehyr,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.4,3.2,3.0,2.4,3.25,3.31
+2015-10-02,Super Lig,2015-16,Sivasspor,Mersin Idman Yurdu,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.91,3.5,4.0,1.95,3.72,4.1
+2015-10-02,Super Lig,2015-16,Trabzonspor,Konyaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.7,3.75,4.75,1.8,3.75,4.95
+2015-10-03,Super Lig,2015-16,Genclerbirligi,Kayserispor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.63,3.1,2.75,2.66,3.27,2.91
+2015-10-03,Super Lig,2015-16,Buyuksehyr,Galatasaray,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.6,3.25,2.7,2.8,3.3,2.74
+2015-10-03,Super Lig,2015-16,Gaziantepspor,Osmanlispor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,3.1,3.3,2.25,3.14,3.39,2.43
+2015-10-04,Super Lig,2015-16,Antalyaspor,Kasimpasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.88,3.2,2.5,2.92,3.45,2.55
+2015-10-04,Super Lig,2015-16,Eskisehirspor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1,4.75,3.5,1.75,5.04,3.77,1.78
+2015-10-04,Super Lig,2015-16,Fenerbahce,Akhisar Belediyespor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.33,4.5,11.0,1.35,5.4,10.36
+2015-10-04,Super Lig,2015-16,Rizespor,Bursaspor,2,3,0,0,0,0,0,0,5,0,0,0,1,1,2.75,3.25,2.55,2.79,3.36,2.71
+2015-10-17,Super Lig,2015-16,Bursaspor,Antalyaspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.67,3.75,5.0,1.77,3.86,4.99
+2015-10-17,Super Lig,2015-16,Galatasaray,Genclerbirligi,4,1,0,0,0,0,0,0,5,0,0,0,1,1,1.44,4.2,7.5,1.5,4.61,7.17
+2015-10-17,Super Lig,2015-16,Konyaspor,Gaziantepspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.75,3.5,4.75,1.82,3.55,5.16
+2015-10-18,Super Lig,2015-16,Akhisar Belediyespor,Eskisehirspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.25,3.25,3.25,2.35,3.33,3.33
+2015-10-18,Super Lig,2015-16,Besiktas,Rizespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.4,4.5,8.0,1.42,4.96,8.31
+2015-10-18,Super Lig,2015-16,Kasimpasa,Sivasspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.95,3.5,3.8,1.98,3.66,4.06
+2015-10-18,Super Lig,2015-16,Kayserispor,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.2,3.6,1.83,4.61,3.65,1.87
+2015-10-19,Super Lig,2015-16,Mersin Idman Yurdu,Trabzonspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,3.0,3.4,2.3,3.26,3.53,2.3
+2015-10-19,Super Lig,2015-16,Osmanlispor,Buyuksehyr,0,3,0,0,0,0,0,0,3,0,0,0,0,1,2.2,3.25,3.25,2.33,3.36,3.35
+2015-10-23,Super Lig,2015-16,Eskisehirspor,Kayserispor,1,3,0,0,0,0,0,0,4,0,0,0,1,1,2.7,3.2,2.6,2.82,3.08,2.88
+2015-10-23,Super Lig,2015-16,Rizespor,Akhisar Belediyespor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.85,3.4,4.33,1.94,3.43,4.57
+2015-10-24,Super Lig,2015-16,Sivasspor,Trabzonspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.6,3.3,2.63,2.66,3.5,2.75
+2015-10-24,Super Lig,2015-16,Kasimpasa,Bursaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.55,3.3,2.7,2.63,3.51,2.78
+2015-10-24,Super Lig,2015-16,Genclerbirligi,Osmanlispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.75,3.2,2.55,2.84,3.45,2.61
+2015-10-24,Super Lig,2015-16,Gaziantepspor,Mersin Idman Yurdu,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.4,3.2,3.0,2.5,3.41,3.01
+2015-10-25,Super Lig,2015-16,Buyuksehyr,Konyaspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.85,3.5,4.2,1.93,3.5,4.48
+2015-10-25,Super Lig,2015-16,Fenerbahce,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.83,3.5,4.33,1.94,3.78,4.07
+2015-10-26,Super Lig,2015-16,Antalyaspor,Besiktas,1,5,0,0,0,0,0,0,6,0,0,0,1,1,5.0,3.8,1.67,5.28,3.94,1.72
+2015-10-28,Super Lig,2015-16,Bursaspor,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.67,3.8,5.0,1.71,3.97,5.26
+2015-10-28,Super Lig,2015-16,Kayserispor,Rizespor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,3.3,3.8,2.07,3.41,4.05
+2015-10-28,Super Lig,2015-16,Trabzonspor,Gaziantepspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.5,4.33,6.0,1.53,4.24,7.43
+2015-10-29,Super Lig,2015-16,Galatasaray,Eskisehirspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.44,4.33,7.0,1.47,4.58,7.98
+2015-10-29,Super Lig,2015-16,Mersin Idman Yurdu,Buyuksehyr,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.25,3.25,2.25,3.31,3.51,2.28
+2015-10-29,Super Lig,2015-16,Osmanlispor,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.8,3.25,2.0,3.99,3.61,2.01
+2015-10-30,Super Lig,2015-16,Akhisar Belediyespor,Antalyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,,,,2.38,3.42,3.2
+2015-10-30,Super Lig,2015-16,Besiktas,Kasimpasa,3,3,0,0,0,0,0,0,6,0,0,0,1,1,1.57,4.2,5.25,1.6,4.08,6.4
+2015-10-30,Super Lig,2015-16,Konyaspor,Genclerbirligi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.95,3.5,3.8,2.0,3.55,4.1
+2015-11-06,Super Lig,2015-16,Eskisehirspor,Osmanlispor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,3.1,3.3,2.3,3.2,3.29,2.45
+2015-11-06,Super Lig,2015-16,Genclerbirligi,Mersin Idman Yurdu,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.0,3.4,3.75,2.07,3.59,3.78
+2015-11-07,Super Lig,2015-16,Kasimpasa,Akhisar Belediyespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.75,3.75,4.33,1.83,3.76,4.73
+2015-11-07,Super Lig,2015-16,Rizespor,Galatasaray,4,3,0,0,0,0,0,0,7,0,0,0,1,1,3.6,3.6,1.95,3.59,3.69,2.1
+2015-11-07,Super Lig,2015-16,Antalyaspor,Kayserispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.4,3.2,3.0,2.44,3.44,3.07
+2015-11-07,Super Lig,2015-16,Buyuksehyr,Trabzonspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.3,3.4,3.0,2.35,3.46,3.22
+2015-11-08,Super Lig,2015-16,Bursaspor,Besiktas,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.88,3.4,2.38,2.96,3.55,2.47
+2015-11-08,Super Lig,2015-16,Fenerbahce,Konyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.36,4.75,8.0,1.4,4.84,9.67
+2015-11-08,Super Lig,2015-16,Sivasspor,Gaziantepspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.73,3.6,4.75,1.78,3.9,4.84
+2015-11-21,Super Lig,2015-16,Akhisar Belediyespor,Bursaspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,3.1,3.3,2.3,3.19,3.42,2.39
+2015-11-21,Super Lig,2015-16,Galatasaray,Antalyaspor,3,3,0,0,0,0,0,0,6,0,0,0,1,1,1.45,4.5,6.5,1.52,4.69,6.44
+2015-11-21,Super Lig,2015-16,Kayserispor,Kasimpasa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,3.2,3.0,2.47,3.34,3.11
+2015-11-21,Super Lig,2015-16,Mersin Idman Yurdu,Fenerbahce,1,3,0,0,0,0,0,0,4,0,0,0,1,1,6.0,4.0,1.55,6.72,4.24,1.56
+2015-11-22,Super Lig,2015-16,Trabzonspor,Genclerbirligi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.7,3.6,5.0,1.79,3.86,4.84
+2015-11-22,Super Lig,2015-16,Osmanlispor,Rizespor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.91,3.25,4.33,1.92,3.67,4.31
+2015-11-22,Super Lig,2015-16,Besiktas,Sivasspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.36,4.75,8.0,1.38,5.33,8.87
+2015-11-22,Super Lig,2015-16,Konyaspor,Eskisehirspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.0,3.3,3.75,2.08,3.38,4.02
+2015-11-23,Super Lig,2015-16,Gaziantepspor,Buyuksehyr,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.8,3.3,2.0,4.12,3.45,2.03
+2015-11-27,Super Lig,2015-16,Antalyaspor,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.9,3.3,2.38,2.97,3.57,2.45
+2015-11-27,Super Lig,2015-16,Bursaspor,Kayserispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.3,3.5,2.2,3.36,3.66
+2015-11-27,Super Lig,2015-16,Rizespor,Konyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3,3.25,3.1,2.41,3.33,3.23
+2015-11-28,Super Lig,2015-16,Sivasspor,Buyuksehyr,2,2,0,0,0,0,0,0,4,0,0,0,1,1,2.7,3.4,2.5,2.82,3.29,2.74
+2015-11-28,Super Lig,2015-16,Eskisehirspor,Mersin Idman Yurdu,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.1,3.3,3.5,2.07,3.62,3.78
+2015-11-29,Super Lig,2015-16,Kasimpasa,Galatasaray,2,2,0,0,0,0,0,0,4,0,0,0,1,1,3.2,3.4,2.2,3.36,3.55,2.24
+2015-11-29,Super Lig,2015-16,Besiktas,Akhisar Belediyespor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.36,4.5,9.0,1.4,4.84,9.69
+2015-11-29,Super Lig,2015-16,Genclerbirligi,Gaziantepspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.75,3.6,4.75,1.85,3.6,4.86
+2015-11-30,Super Lig,2015-16,Fenerbahce,Trabzonspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.5,4.33,6.0,1.54,4.37,6.83
+2015-12-04,Super Lig,2015-16,Galatasaray,Bursaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.62,4.0,5.0,1.68,4.19,5.21
+2015-12-05,Super Lig,2015-16,Kayserispor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.6,3.6,1.95,4.11,3.42,2.04
+2015-12-05,Super Lig,2015-16,Konyaspor,Antalyaspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.05,3.3,3.6,2.24,3.39,3.52
+2015-12-05,Super Lig,2015-16,Osmanlispor,Kasimpasa,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.15,3.4,3.3,2.19,3.53,3.51
+2015-12-06,Super Lig,2015-16,Gaziantepspor,Fenerbahce,2,2,0,0,0,0,0,0,4,0,0,0,1,1,7.0,4.33,1.44,8.86,4.54,1.44
+2015-12-06,Super Lig,2015-16,Mersin Idman Yurdu,Rizespor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.9,3.3,2.38,3.0,3.48,2.47
+2015-12-06,Super Lig,2015-16,Buyuksehyr,Genclerbirligi,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.85,3.6,4.0,1.92,3.63,4.38
+2015-12-07,Super Lig,2015-16,Akhisar Belediyespor,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.15,3.4,3.3,2.25,3.48,3.42
+2015-12-07,Super Lig,2015-16,Trabzonspor,Eskisehirspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.73,3.8,4.5,1.78,3.88,4.9
+2015-12-11,Super Lig,2015-16,Bursaspor,Osmanlispor,0,4,0,0,0,0,0,0,4,0,0,0,0,1,2.05,3.4,3.25,2.23,3.48,3.45
+2015-12-12,Super Lig,2015-16,Antalyaspor,Mersin Idman Yurdu,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.91,3.6,3.75,1.97,3.87,3.85
+2015-12-12,Super Lig,2015-16,Eskisehirspor,Gaziantepspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.3,3.5,2.12,3.53,3.72
+2015-12-12,Super Lig,2015-16,Kasimpasa,Konyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.73,3.6,4.75,1.75,3.72,5.43
+2015-12-12,Super Lig,2015-16,Rizespor,Trabzonspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.6,3.3,2.63,2.65,3.47,2.78
+2015-12-13,Super Lig,2015-16,Kayserispor,Akhisar Belediyespor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.0,3.3,3.8,2.02,3.37,4.3
+2015-12-13,Super Lig,2015-16,Genclerbirligi,Sivasspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.38,3.3,2.9,2.47,3.44,3.03
+2015-12-13,Super Lig,2015-16,Fenerbahce,Buyuksehyr,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.57,3.75,6.0,1.58,4.1,6.65
+2015-12-14,Super Lig,2015-16,Besiktas,Galatasaray,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.5,3.3,2.09,3.67,3.63
+2015-12-19,Super Lig,2015-16,Gaziantepspor,Rizespor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.8,3.1,2.6,2.94,3.35,2.58
+2015-12-19,Super Lig,2015-16,Konyaspor,Bursaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.38,3.25,3.0,2.47,3.33,3.13
+2015-12-19,Super Lig,2015-16,Mersin Idman Yurdu,Kasimpasa,1,2,0,0,0,0,0,0,3,0,0,0,1,1,4.2,3.3,1.91,3.94,3.77,1.98
+2015-12-19,Super Lig,2015-16,Trabzonspor,Antalyaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.7,3.75,4.75,1.78,3.96,4.73
+2015-12-20,Super Lig,2015-16,Buyuksehyr,Eskisehirspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.57,3.8,6.0,1.63,4.12,5.88
+2015-12-20,Super Lig,2015-16,Galatasaray,Akhisar Belediyespor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.44,4.5,6.5,1.51,4.61,6.93
+2015-12-20,Super Lig,2015-16,Genclerbirligi,Fenerbahce,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6.0,3.8,1.57,7.03,4.26,1.54
+2015-12-20,Super Lig,2015-16,Sivasspor,Kayserispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5,3.1,2.9,2.52,3.38,3.0
+2015-12-21,Super Lig,2015-16,Osmanlispor,Besiktas,2,3,0,0,0,0,0,0,5,0,0,0,1,1,3.5,3.3,2.1,3.68,3.59,2.11
+2015-12-26,Super Lig,2015-16,Antalyaspor,Gaziantepspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,3.5,3.6,2.04,3.6,3.88
+2015-12-26,Super Lig,2015-16,Kasimpasa,Trabzonspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.2,3.3,3.25,2.22,3.51,3.45
+2015-12-26,Super Lig,2015-16,Rizespor,Buyuksehyr,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.8,3.5,2.38,3.09,3.31,2.51
+2015-12-27,Super Lig,2015-16,Besiktas,Konyaspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.36,4.75,8.5,1.4,4.9,9.5
+2015-12-27,Super Lig,2015-16,Bursaspor,Mersin Idman Yurdu,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.57,4.0,5.5,1.61,4.2,6.02
+2015-12-27,Super Lig,2015-16,Akhisar Belediyespor,Osmanlispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3,3.5,2.88,2.5,3.31,3.09
+2015-12-27,Super Lig,2015-16,Kayserispor,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.2,3.5,2.15,3.31,3.52,2.28
+2015-12-28,Super Lig,2015-16,Fenerbahce,Sivasspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.33,5.0,9.0,1.38,5.14,9.24
+2015-12-28,Super Lig,2015-16,Eskisehirspor,Genclerbirligi,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.15,3.5,3.2,2.36,3.37,3.29
+2016-01-16,Super Lig,2015-16,Akhisar Belediyespor,Konyaspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.5,3.2,2.88,2.51,3.12,3.26
+2016-01-16,Super Lig,2015-16,Galatasaray,Sivasspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.55,4.2,5.5,1.61,4.43,5.57
+2016-01-16,Super Lig,2015-16,Kasimpasa,Gaziantepspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.62,3.75,5.5,1.61,4.05,6.35
+2016-01-16,Super Lig,2015-16,Kayserispor,Osmanlispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.25,3.2,3.3,2.3,3.34,3.43
+2016-01-17,Super Lig,2015-16,Antalyaspor,Buyuksehyr,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.4,3.3,2.15,3.54,3.37,2.24
+2016-01-17,Super Lig,2015-16,Bursaspor,Trabzonspor,4,2,0,0,0,0,0,0,6,0,0,0,1,1,2.25,3.4,3.1,2.26,3.48,3.38
+2016-01-17,Super Lig,2015-16,Rizespor,Genclerbirligi,2,3,0,0,0,0,0,0,5,0,0,0,1,1,2.2,3.3,3.3,2.31,3.35,3.4
+2016-01-18,Super Lig,2015-16,Eskisehirspor,Fenerbahce,0,3,0,0,0,0,0,0,3,0,0,0,0,1,6.5,3.8,1.53,5.88,4.31,1.61
+2016-01-23,Super Lig,2015-16,Konyaspor,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.4,3.4,2.8,2.67,3.17,2.98
+2016-01-23,Super Lig,2015-16,Mersin Idman Yurdu,Akhisar Belediyespor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.3,3.6,2.05,3.42,3.53,2.23
+2016-01-23,Super Lig,2015-16,Osmanlispor,Galatasaray,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.9,3.3,2.4,2.84,3.5,2.58
+2016-01-24,Super Lig,2015-16,Fenerbahce,Rizespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.29,5.5,11.0,1.32,5.74,10.62
+2016-01-24,Super Lig,2015-16,Gaziantepspor,Bursaspor,2,3,0,0,0,0,0,0,5,0,0,0,1,1,3.5,3.4,2.05,3.6,3.51,2.16
+2016-01-24,Super Lig,2015-16,Genclerbirligi,Antalyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.1,3.5,3.3,2.18,3.59,3.48
+2016-01-24,Super Lig,2015-16,Sivasspor,Eskisehirspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.75,3.75,4.33,1.71,3.9,5.39
+2016-01-25,Super Lig,2015-16,Buyuksehyr,Kasimpasa,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.15,3.4,3.3,2.35,3.26,3.4
+2016-02-05,Super Lig,2015-16,Osmanlispor,Sivasspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.91,3.4,4.0,2.03,3.59,3.95
+2016-02-05,Super Lig,2015-16,Antalyaspor,Fenerbahce,4,2,0,0,0,0,0,0,6,0,0,0,1,1,7.0,4.33,1.45,8.0,4.66,1.46
+2016-02-06,Super Lig,2015-16,Bursaspor,Buyuksehyr,3,3,0,0,0,0,0,0,6,0,0,0,1,1,2.25,3.4,3.1,2.3,3.48,3.31
+2016-02-06,Super Lig,2015-16,Galatasaray,Konyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.53,4.33,5.5,1.53,4.36,6.96
+2016-02-06,Super Lig,2015-16,Kayserispor,Mersin Idman Yurdu,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.57,4.0,5.75,1.58,4.13,6.63
+2016-02-07,Super Lig,2015-16,Akhisar Belediyespor,Trabzonspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.5,3.25,2.8,2.45,3.44,3.06
+2016-02-07,Super Lig,2015-16,Besiktas,Gaziantepspor,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.25,5.5,12.0,1.29,5.86,12.61
+2016-02-07,Super Lig,2015-16,Rizespor,Eskisehirspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.95,3.5,3.75,2.01,3.66,3.92
+2016-02-08,Super Lig,2015-16,Kasimpasa,Genclerbirligi,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.6,4.0,5.25,1.67,3.98,5.71
+2016-02-12,Super Lig,2015-16,Fenerbahce,Kasimpasa,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.53,4.2,6.0,1.51,4.4,7.41
+2016-02-13,Super Lig,2015-16,Mersin Idman Yurdu,Galatasaray,2,1,0,0,0,0,0,0,3,0,0,0,1,1,4.33,3.6,1.8,4.22,3.96,1.87
+2016-02-13,Super Lig,2015-16,Genclerbirligi,Bursaspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.3,3.5,2.9,2.41,3.46,3.1
+2016-02-13,Super Lig,2015-16,Konyaspor,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.5,3.25,2.8,2.66,3.21,2.96
+2016-02-14,Super Lig,2015-16,Buyuksehyr,Besiktas,2,2,0,0,0,0,0,0,4,0,0,0,1,1,3.2,3.4,2.2,3.27,3.6,2.27
+2016-02-14,Super Lig,2015-16,Eskisehirspor,Antalyaspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,2.3,3.3,3.1,2.41,3.56,3.04
+2016-02-14,Super Lig,2015-16,Gaziantepspor,Akhisar Belediyespor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.7,3.2,2.63,2.92,3.3,2.63
+2016-02-14,Super Lig,2015-16,Sivasspor,Rizespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.2,3.3,3.3,2.24,3.5,3.41
+2016-02-15,Super Lig,2015-16,Trabzonspor,Kayserispor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.3,3.5,2.24,3.46,3.46
+2016-02-17,Super Lig,2015-16,Besiktas,Mersin Idman Yurdu,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.25,6.0,10.0,1.28,6.37,11.24
+2016-02-19,Super Lig,2015-16,Konyaspor,Sivasspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.25,3.5,2.18,3.3,3.81
+2016-02-20,Super Lig,2015-16,Kasimpasa,Eskisehirspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.65,3.75,5.25,1.68,4.01,5.6
+2016-02-20,Super Lig,2015-16,Antalyaspor,Rizespor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.25,3.25,3.2,2.43,3.57,3.0
+2016-02-20,Super Lig,2015-16,Bursaspor,Fenerbahce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.33,3.75,1.8,4.25,3.82,1.89
+2016-02-21,Super Lig,2015-16,Akhisar Belediyespor,Buyuksehyr,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.6,3.2,2.75,2.75,3.24,2.83
+2016-02-21,Super Lig,2015-16,Galatasaray,Trabzonspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.75,3.5,4.75,1.85,4.01,4.23
+2016-02-21,Super Lig,2015-16,Kayserispor,Gaziantepspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.67,3.6,5.5,1.68,3.79,5.96
+2016-02-21,Super Lig,2015-16,Osmanlispor,Mersin Idman Yurdu,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.57,3.8,6.0,1.58,4.21,6.51
+2016-02-22,Super Lig,2015-16,Besiktas,Genclerbirligi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.44,4.33,7.0,1.47,4.66,7.62
+2016-02-26,Super Lig,2015-16,Buyuksehyr,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.8,3.5,4.5,1.87,3.54,4.83
+2016-02-27,Super Lig,2015-16,Trabzonspor,Osmanlispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.3,3.3,2.2,3.25,3.37,2.37
+2016-02-27,Super Lig,2015-16,Rizespor,Kasimpasa,2,0,0,0,0,0,0,0,2,0,0,0,0,0,3.0,3.1,2.45,2.99,3.44,2.5
+2016-02-27,Super Lig,2015-16,Mersin Idman Yurdu,Konyaspor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.9,3.2,2.45,2.85,3.3,2.7
+2016-02-27,Super Lig,2015-16,Eskisehirspor,Bursaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.1,3.3,2.3,2.93,3.64,2.44
+2016-02-28,Super Lig,2015-16,Gaziantepspor,Galatasaray,2,0,0,0,0,0,0,0,2,0,0,0,0,0,3.3,3.5,2.1,3.72,3.62,2.08
+2016-02-28,Super Lig,2015-16,Genclerbirligi,Akhisar Belediyespor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.05,3.3,3.6,2.16,3.28,3.89
+2016-02-28,Super Lig,2015-16,Sivasspor,Antalyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.85,3.6,4.0,1.92,3.76,4.19
+2016-02-29,Super Lig,2015-16,Fenerbahce,Besiktas,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.1,3.4,3.4,2.21,3.57,3.41
+2016-03-04,Super Lig,2015-16,Mersin Idman Yurdu,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3.1,3.3,2.3,3.14,3.38,2.44
+2016-03-05,Super Lig,2015-16,Osmanlispor,Gaziantepspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.55,3.8,6.0,1.57,4.19,6.65
+2016-03-05,Super Lig,2015-16,Bursaspor,Rizespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.73,3.75,4.5,1.77,3.94,4.85
+2016-03-05,Super Lig,2015-16,Kayserispor,Genclerbirligi,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.1,3.2,3.6,2.16,3.35,3.79
+2016-03-06,Super Lig,2015-16,Akhisar Belediyespor,Fenerbahce,0,3,0,0,0,0,0,0,3,0,0,0,0,1,4.5,3.75,1.75,4.96,3.75,1.79
+2016-03-06,Super Lig,2015-16,Galatasaray,Buyuksehyr,3,3,0,0,0,0,0,0,6,0,0,0,1,1,2.1,3.4,3.4,2.25,3.48,3.41
+2016-03-06,Super Lig,2015-16,Kasimpasa,Antalyaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.8,3.75,4.2,1.86,3.83,4.4
+2016-03-06,Super Lig,2015-16,Konyaspor,Trabzonspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.15,3.4,3.3,2.12,3.48,3.75
+2016-03-07,Super Lig,2015-16,Besiktas,Eskisehirspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.33,4.75,10.0,1.35,5.42,10.12
+2016-03-11,Super Lig,2015-16,Trabzonspor,Mersin Idman Yurdu,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.8,3.6,4.33,1.88,3.81,4.36
+2016-03-12,Super Lig,2015-16,Buyuksehyr,Osmanlispor,2,3,0,0,0,0,0,0,5,0,0,0,1,1,2.0,3.5,3.6,2.12,3.43,3.81
+2016-03-12,Super Lig,2015-16,Gaziantepspor,Konyaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.88,3.4,2.38,3.26,3.28,2.42
+2016-03-12,Super Lig,2015-16,Rizespor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1,5.5,3.8,1.62,5.6,4.08,1.66
+2016-03-13,Super Lig,2015-16,Eskisehirspor,Akhisar Belediyespor,3,3,0,0,0,0,0,0,6,0,0,0,1,1,2.7,3.4,2.5,2.76,3.29,2.78
+2016-03-13,Super Lig,2015-16,Fenerbahce,Kayserispor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.4,4.33,8.5,1.4,4.88,9.34
+2016-03-13,Super Lig,2015-16,Genclerbirligi,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.6,3.4,2.6,2.7,3.44,2.75
+2016-03-14,Super Lig,2015-16,Sivasspor,Kasimpasa,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.3,3.3,3.1,2.34,3.45,3.25
+2016-03-14,Super Lig,2015-16,Antalyaspor,Bursaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,3.3,3.4,2.15,3.27,3.65,2.24
+2016-03-15,Super Lig,2015-16,Trabzonspor,Besiktas,0,2,0,0,0,0,0,0,2,0,0,0,0,0,5.0,3.75,1.67,5.05,3.91,1.74
+2016-03-18,Super Lig,2015-16,Kayserispor,Eskisehirspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.73,3.75,4.5,1.78,3.85,4.91
+2016-03-18,Super Lig,2015-16,Akhisar Belediyespor,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.0,3.4,3.75,2.04,3.45,4.07
+2016-03-19,Super Lig,2015-16,Trabzonspor,Sivasspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.3,3.2,3.2,2.44,3.54,3.01
+2016-03-19,Super Lig,2015-16,Osmanlispor,Genclerbirligi,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.0,3.2,4.0,2.05,3.48,4.0
+2016-03-19,Super Lig,2015-16,Besiktas,Antalyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.33,4.75,9.5,1.37,5.59,8.46
+2016-03-20,Super Lig,2015-16,Bursaspor,Kasimpasa,4,1,0,0,0,0,0,0,5,0,0,0,1,1,2.05,3.5,3.4,2.09,3.59,3.74
+2016-03-20,Super Lig,2015-16,Konyaspor,Buyuksehyr,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.5,3.0,3.0,2.67,3.22,2.94
+2016-03-20,Super Lig,2015-16,Mersin Idman Yurdu,Gaziantepspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.1,3.5,3.25,2.2,3.36,3.67
+2016-04-02,Super Lig,2015-16,Eskisehirspor,Galatasaray,4,3,0,0,0,0,0,0,7,0,0,0,1,1,3.2,3.4,2.2,3.2,3.55,2.29
+2016-04-02,Super Lig,2015-16,Gaziantepspor,Trabzonspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.9,3.3,2.38,3.01,3.3,2.57
+2016-04-02,Super Lig,2015-16,Genclerbirligi,Konyaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.25,3.2,3.25,2.32,3.27,3.46
+2016-04-03,Super Lig,2015-16,Sivasspor,Bursaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.4,3.2,3.0,2.47,3.44,3.03
+2016-04-03,Super Lig,2015-16,Fenerbahce,Osmanlispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.45,4.2,7.5,1.5,4.36,7.83
+2016-04-03,Super Lig,2015-16,Buyuksehyr,Mersin Idman Yurdu,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.53,3.8,6.5,1.55,4.3,6.89
+2016-04-03,Super Lig,2015-16,Antalyaspor,Akhisar Belediyespor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,2.1,3.4,3.4,2.1,3.46,3.84
+2016-04-04,Super Lig,2015-16,Kasimpasa,Besiktas,2,1,0,0,0,0,0,0,3,0,0,0,1,1,5.5,3.6,1.65,5.39,3.91,1.71
+2016-04-04,Super Lig,2015-16,Rizespor,Kayserispor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.75,3.1,2.63,2.9,3.15,2.75
+2016-04-08,Super Lig,2015-16,Gaziantepspor,Sivasspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.0,3.3,2.35,3.31,3.38,2.34
+2016-04-09,Super Lig,2015-16,Galatasaray,Rizespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.67,3.75,5.0,1.81,3.99,4.53
+2016-04-09,Super Lig,2015-16,Konyaspor,Fenerbahce,2,1,0,0,0,0,0,0,3,0,0,0,1,1,4.33,3.5,1.83,5.16,3.49,1.83
+2016-04-09,Super Lig,2015-16,Osmanlispor,Eskisehirspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.65,3.75,5.25,1.73,3.92,5.19
+2016-04-10,Super Lig,2015-16,Trabzonspor,Buyuksehyr,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.8,3.25,2.5,2.85,3.42,2.62
+2016-04-10,Super Lig,2015-16,Mersin Idman Yurdu,Genclerbirligi,1,3,0,0,0,0,0,0,4,0,0,0,1,1,2.75,3.3,2.5,2.92,3.31,2.63
+2016-04-10,Super Lig,2015-16,Kayserispor,Antalyaspor,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.05,3.3,3.6,2.08,3.54,3.82
+2016-04-11,Super Lig,2015-16,Akhisar Belediyespor,Kasimpasa,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.5,3.25,2.8,2.54,3.39,2.97
+2016-04-11,Super Lig,2015-16,Besiktas,Bursaspor,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.44,4.2,7.5,1.49,4.81,6.89
+2016-04-13,Super Lig,2015-16,Galatasaray,Fenerbahce,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.8,3.5,1.95,3.82,3.76,2.01
+2016-04-16,Super Lig,2015-16,Antalyaspor,Galatasaray,4,2,0,0,0,0,0,0,6,0,0,0,1,1,2.3,3.1,3.3,2.36,3.58,3.1
+2016-04-16,Super Lig,2015-16,Eskisehirspor,Konyaspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.0,3.1,2.45,3.16,3.26,2.49
+2016-04-16,Super Lig,2015-16,Rizespor,Osmanlispor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.3,3.3,2.2,3.45,3.43,2.26
+2016-04-16,Super Lig,2015-16,Sivasspor,Besiktas,1,2,0,0,0,0,0,0,3,0,0,0,1,1,4.5,3.75,1.73,4.93,3.95,1.76
+2016-04-17,Super Lig,2015-16,Bursaspor,Akhisar Belediyespor,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.7,3.5,5.25,1.73,3.91,5.22
+2016-04-17,Super Lig,2015-16,Buyuksehyr,Gaziantepspor,4,1,0,0,0,0,0,0,5,0,0,0,1,1,1.36,4.33,10.0,1.4,4.92,9.29
+2016-04-17,Super Lig,2015-16,Fenerbahce,Mersin Idman Yurdu,4,1,0,0,0,0,0,0,5,0,0,0,1,1,1.17,6.5,17.0,1.19,7.74,19.16
+2016-04-17,Super Lig,2015-16,Kasimpasa,Kayserispor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.3,3.5,2.22,3.34,3.63
+2016-04-18,Super Lig,2015-16,Genclerbirligi,Trabzonspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.15,3.3,3.4,2.18,3.44,3.61
+2016-04-22,Super Lig,2015-16,Kayserispor,Bursaspor,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.95,3.5,3.8,2.04,3.59,3.9
+2016-04-23,Super Lig,2015-16,Buyuksehyr,Sivasspor,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.8,3.6,4.33,1.83,3.82,4.65
+2016-04-23,Super Lig,2015-16,Osmanlispor,Antalyaspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.8,3.5,4.5,1.85,3.84,4.43
+2016-04-23,Super Lig,2015-16,Akhisar Belediyespor,Besiktas,3,3,0,0,0,0,0,0,6,0,0,0,1,1,8.0,4.0,1.45,7.22,4.5,1.51
+2016-04-24,Super Lig,2015-16,Trabzonspor,Fenerbahce,0,4,0,0,0,0,0,0,4,0,0,0,0,1,5.5,3.8,1.6,5.69,4.29,1.63
+2016-04-24,Super Lig,2015-16,Mersin Idman Yurdu,Eskisehirspor,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.38,3.4,2.9,2.42,3.55,3.02
+2016-04-24,Super Lig,2015-16,Galatasaray,Kasimpasa,4,1,0,0,0,0,0,0,5,0,0,0,1,1,2.15,3.4,3.3,2.31,3.61,3.17
+2016-04-24,Super Lig,2015-16,Konyaspor,Rizespor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.73,3.5,5.0,1.85,3.55,4.88
+2016-04-25,Super Lig,2015-16,Gaziantepspor,Genclerbirligi,1,3,0,0,0,0,0,0,4,0,0,0,1,1,3.1,3.25,2.3,3.25,3.39,2.37
+2016-04-29,Super Lig,2015-16,Bursaspor,Galatasaray,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.2,3.6,3.0,2.33,3.75,3.04
+2016-04-29,Super Lig,2015-16,Rizespor,Mersin Idman Yurdu,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.36,4.2,7.0,,,
+2016-04-30,Super Lig,2015-16,Besiktas,Kayserispor,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.33,4.75,10.0,1.4,5.06,9.0
+2016-04-30,Super Lig,2015-16,Eskisehirspor,Trabzonspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.62,3.8,5.5,1.68,4.02,5.5
+2016-04-30,Super Lig,2015-16,Genclerbirligi,Buyuksehyr,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1,3.5,2.2,3.25,3.57,2.29
+2016-05-01,Super Lig,2015-16,Antalyaspor,Konyaspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.5,3.3,2.8,2.73,3.33,2.79
+2016-05-01,Super Lig,2015-16,Fenerbahce,Gaziantepspor,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.17,6.5,17.0,1.18,8.09,17.78
+2016-05-01,Super Lig,2015-16,Sivasspor,Akhisar Belediyespor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.73,3.6,4.75,1.78,3.82,4.95
+2016-05-02,Super Lig,2015-16,Kasimpasa,Osmanlispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.63,3.25,2.63,2.86,3.21,2.75
+2016-05-07,Super Lig,2015-16,Gaziantepspor,Eskisehirspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.5,3.25,2.1,3.5,3.4,2.25
+2016-05-07,Super Lig,2015-16,Osmanlispor,Bursaspor,3,3,0,0,0,0,0,0,6,0,0,0,1,1,1.67,3.8,5.0,1.71,4.11,5.02
+2016-05-07,Super Lig,2015-16,Sivasspor,Genclerbirligi,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.0,3.6,3.5,2.08,3.6,3.75
+2016-05-08,Super Lig,2015-16,Galatasaray,Besiktas,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.33,3.8,1.75,4.36,4.03,1.83
+2016-05-08,Super Lig,2015-16,Trabzonspor,Rizespor,6,0,0,0,0,0,0,0,6,0,0,0,0,1,2.88,3.3,2.4,2.9,3.25,2.68
+2016-05-08,Super Lig,2015-16,Akhisar Belediyespor,Kayserispor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.75,3.1,2.63,2.77,3.34,2.74
+2016-05-08,Super Lig,2015-16,Mersin Idman Yurdu,Antalyaspor,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.0,3.5,1.91,3.97,3.99,1.92
+2016-05-09,Super Lig,2015-16,Buyuksehyr,Fenerbahce,2,1,0,0,0,0,0,0,3,0,0,0,1,1,3.6,3.6,1.95,3.93,3.73,1.99
+2016-05-09,Super Lig,2015-16,Konyaspor,Kasimpasa,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.0,3.5,3.6,2.07,3.6,3.78
+2016-05-13,Super Lig,2015-16,Antalyaspor,Trabzonspor,7,0,0,0,0,0,0,0,7,0,0,0,0,1,1.8,4.0,3.8,1.9,3.89,4.13
+2016-05-14,Super Lig,2015-16,Bursaspor,Konyaspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.3,3.4,3.0,2.4,3.42,3.16
+2016-05-14,Super Lig,2015-16,Eskisehirspor,Buyuksehyr,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.05,3.6,3.3,2.08,3.57,3.78
+2016-05-14,Super Lig,2015-16,Kayserispor,Sivasspor,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.1,3.3,3.5,2.14,3.46,3.72
+2016-05-14,Super Lig,2015-16,Rizespor,Gaziantepspor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.57,4.0,5.5,1.65,4.09,5.77
+2016-05-15,Super Lig,2015-16,Fenerbahce,Genclerbirligi,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.29,5.5,9.5,1.33,5.93,9.38
+2016-05-15,Super Lig,2015-16,Akhisar Belediyespor,Galatasaray,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.75,3.4,2.45,2.81,3.57,2.57
+2016-05-15,Super Lig,2015-16,Besiktas,Osmanlispor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.5,4.0,7.0,1.51,4.76,6.52
+2016-05-15,Super Lig,2015-16,Kasimpasa,Mersin Idman Yurdu,7,0,0,0,0,0,0,0,7,0,0,0,0,1,1.2,6.0,15.0,1.2,7.71,15.45
+2016-05-18,Super Lig,2015-16,Konyaspor,Besiktas,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.55,3.4,2.63,2.48,3.76,2.81
+2016-05-18,Super Lig,2015-16,Buyuksehyr,Rizespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.53,4.0,6.0,1.59,4.39,5.9
+2016-05-18,Super Lig,2015-16,Mersin Idman Yurdu,Bursaspor,2,5,0,0,0,0,0,0,7,0,0,0,1,1,4.33,3.8,1.75,4.17,4.16,1.83
+2016-05-19,Super Lig,2015-16,Osmanlispor,Akhisar Belediyespor,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.6,3.8,5.5,1.63,4.27,5.65
+2016-05-19,Super Lig,2015-16,Genclerbirligi,Eskisehirspor,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.5,3.3,2.75,2.69,4.07,2.45
+2016-05-19,Super Lig,2015-16,Sivasspor,Fenerbahce,2,2,0,0,0,0,0,0,4,0,0,0,1,1,2.88,3.6,2.3,2.86,3.88,2.39
+2016-05-19,Super Lig,2015-16,Galatasaray,Kayserispor,6,0,0,0,0,0,0,0,6,0,0,0,0,1,1.62,3.75,5.5,1.62,4.29,5.74
+2016-05-19,Super Lig,2015-16,Gaziantepspor,Antalyaspor,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.05,3.4,3.5,2.17,3.37,3.74
+2016-05-19,Super Lig,2015-16,Trabzonspor,Kasimpasa,0,6,0,0,0,0,0,0,6,0,0,0,0,1,4.5,3.75,1.75,4.25,4.08,1.83

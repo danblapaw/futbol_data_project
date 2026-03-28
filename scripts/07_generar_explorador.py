@@ -65,7 +65,9 @@ def extraer(db):
                    rojas_local,rojas_visitante,
                    total_goles,total_corners,
                    total_amarillas,total_rojas,
-                   ambos_marcan,over_2_5
+                   ambos_marcan,over_2_5,
+                   b365_local,b365_empate,b365_visit,
+                   ps_local,ps_empate,ps_visit
             FROM partidos
             WHERE temporada=? AND liga IN ({_PH})
             ORDER BY fecha DESC
@@ -74,7 +76,9 @@ def extraer(db):
                     "local":r[4],"visit":r[5],"gl":r[6],"gv":r[7],
                     "cl":r[8],"cv":r[9],"al":r[10],"av":r[11],
                     "rl":r[12],"rv":r[13],"tg":r[14],"tc":r[15],
-                    "ta":r[16],"tr":r[17],"btts":r[18],"ov25":r[19]} for r in matches_raw]
+                    "ta":r[16],"tr":r[17],"btts":r[18],"ov25":r[19],
+                    "b365h":r[20],"b365d":r[21],"b365a":r[22],
+                    "psh":r[23],"psd":r[24],"psa":r[25]} for r in matches_raw]
 
         teams_raw = conn.execute(f"""
             SELECT equipo,liga,
@@ -293,7 +297,7 @@ td.amber{color:var(--amber)!important}td.red{color:var(--red)!important}td.dim{c
   z-index:1000;align-items:center;justify-content:center;backdrop-filter:blur(4px)}
 #modal-overlay.show{display:flex}
 #modal{background:var(--card);border:1px solid var(--border2);border-radius:12px;
-  width:560px;max-width:95vw;padding:28px;position:relative;animation:popIn .2s ease}
+  width:640px;max-width:95vw;padding:28px;position:relative;animation:popIn .2s ease}
 @keyframes popIn{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}
 #modal-close{position:absolute;top:14px;right:16px;background:none;border:none;
   color:var(--text3);font-size:20px;cursor:pointer;transition:color .15s;line-height:1}
@@ -312,6 +316,22 @@ td.amber{color:var(--amber)!important}td.red{color:var(--red)!important}td.dim{c
 .mstat-val{font-family:var(--fh);font-size:22px;font-weight:900;color:#fff;line-height:1}
 .mstat-label{font-family:var(--fm);font-size:9px;color:var(--text3);margin-top:3px;letter-spacing:.04em}
 .modal-badges{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+.odds-section{margin-bottom:18px}
+.odds-title{font-family:var(--fh);font-size:11px;font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--text3);margin-bottom:8px;display:flex;align-items:center;gap:8px}
+.odds-title::before{content:"";display:block;width:14px;height:2px;background:var(--green)}
+.odds-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px}
+.odds-col{background:var(--card2);border:1px solid var(--border);border-radius:8px;padding:10px 12px;text-align:center}
+.odds-col.win-local{border-color:var(--green);background:rgba(0,230,118,.07)}
+.odds-col.win-draw{border-color:var(--amber);background:rgba(255,179,0,.07)}
+.odds-col.win-visit{border-color:var(--cyan);background:rgba(41,217,245,.07)}
+.odds-outcome{font-family:var(--fh);font-size:10px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--text3);margin-bottom:6px}
+.odds-col.win-local .odds-outcome{color:var(--green)}
+.odds-col.win-draw .odds-outcome{color:var(--amber)}
+.odds-col.win-visit .odds-outcome{color:var(--cyan)}
+.odds-bk-row{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px}
+.odds-bk{font-family:var(--fm);font-size:9px;color:var(--text3)}
+.odds-val{font-family:var(--fh);font-size:19px;font-weight:900;color:#fff;line-height:1}
+.odds-prob{font-family:var(--fm);font-size:9px;color:var(--text3);margin-top:5px;padding-top:5px;border-top:1px solid var(--border)}
 .filter-row{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
 .fselect{padding:6px 12px;background:var(--card2);border:1px solid var(--border2);
   border-radius:6px;color:var(--text2);font-family:var(--fm);font-size:11px;outline:none;cursor:pointer}
@@ -702,6 +722,33 @@ function renderMatchesPage(){
   pg.innerHTML=b;
 }
 
+function fmtOdd(v){return(v!=null&&v>0)?v.toFixed(2):'—'}
+function implProb(v){return(v!=null&&v>0)?Math.round(100/v)+'%':''}
+function buildOddsSection(m){
+  const hasBet=(m.b365h!=null||m.b365d!=null||m.b365a!=null);
+  const hasPS=(m.psh!=null||m.psd!=null||m.psa!=null);
+  if(!hasBet&&!hasPS)return'';
+  const winner=m.gl>m.gv?0:m.gl===m.gv?1:2;
+  const wCls=['win-local','win-draw','win-visit'];
+  const labels=['Local','Empate','Visitante'];
+  const b365=[m.b365h,m.b365d,m.b365a];
+  const ps=[m.psh,m.psd,m.psa];
+  let h='<div class="odds-section"><div class="odds-title">Cuotas de Apuestas</div><div class="odds-grid">';
+  for(let i=0;i<3;i++){
+    const cls=wCls[i];
+    const tick=i===winner?' ✓':'';
+    h+=`<div class="odds-col ${i===winner?cls:''}">`;
+    h+=`<div class="odds-outcome">${labels[i]}${tick}</div>`;
+    if(hasBet){h+=`<div class="odds-bk-row"><span class="odds-bk">Bet365</span><span class="odds-val">${fmtOdd(b365[i])}</span></div>`;}
+    if(hasPS){h+=`<div class="odds-bk-row"><span class="odds-bk">Pinnacle</span><span class="odds-val">${fmtOdd(ps[i])}</span></div>`;}
+    const ref=hasPS?ps[i]:b365[i];
+    if(ref!=null)h+=`<div class="odds-prob">~${implProb(ref)} prob. impl.</div>`;
+    h+=`</div>`;
+  }
+  h+='</div></div>';
+  return h;
+}
+
 function openMatch(id){
   const m=matchById[id];if(!m)return;
   const res=m.gl>m.gv?'Victoria Local':m.gl===m.gv?'Empate':'Victoria Visitante';
@@ -717,6 +764,7 @@ function openMatch(id){
     <div style="text-align:center;margin-bottom:18px">
       <span style="font-family:var(--fh);font-size:14px;font-weight:700;color:${rc};letter-spacing:.06em;text-transform:uppercase">${res}</span>
     </div>
+    ${buildOddsSection(m)}
     <div class="modal-stats-grid">
       <div class="mstat"><div class="mstat-val" style="color:var(--green)">${m.tg}</div><div class="mstat-label">Total Goles</div></div>
       <div class="mstat"><div class="mstat-val">${m.tc>0?m.cl+' – '+m.cv:'—'}</div><div class="mstat-label">Corners L – V</div></div>

@@ -1,462 +1,462 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2025-08-01,League One,2025-26,Luton,AFC Wimbledon,1,0,5,2,1,1,0,0,1,7,2,0,0,0
-2025-08-02,League One,2025-26,Wigan,Northampton,3,1,9,3,0,2,0,0,4,12,2,0,1,1
-2025-08-02,League One,2025-26,Rotherham,Port Vale,2,1,6,3,1,1,1,1,3,9,2,2,1,1
-2025-08-02,League One,2025-26,Lincoln,Reading,2,0,3,9,1,0,0,0,2,12,1,0,0,0
-2025-08-02,League One,2025-26,Huddersfield,Leyton Orient,3,0,6,3,3,0,0,0,3,9,3,0,0,1
-2025-08-02,League One,2025-26,Plymouth,Barnsley,1,3,9,5,2,3,0,1,4,14,5,1,1,1
-2025-08-02,League One,2025-26,Burton,Mansfield,2,1,1,7,2,2,0,0,3,8,4,0,1,1
-2025-08-02,League One,2025-26,Bradford,Wycombe,2,1,2,6,3,4,0,0,3,8,7,0,1,1
-2025-08-02,League One,2025-26,Blackpool,Stevenage,2,3,2,2,1,4,0,0,5,4,5,0,1,1
-2025-08-02,League One,2025-26,Cardiff,Peterboro,2,1,4,2,3,1,0,0,3,6,4,0,1,1
-2025-08-02,League One,2025-26,Doncaster,Exeter,1,0,7,1,0,0,0,0,1,8,0,0,0,0
-2025-08-03,League One,2025-26,Stockport,Bolton,2,0,9,7,2,1,0,0,2,16,3,0,0,0
-2025-08-07,League One,2025-26,Port Vale,Cardiff,0,0,5,4,3,1,0,0,0,9,4,0,0,0
-2025-08-09,League One,2025-26,Mansfield,Doncaster,1,2,2,5,2,1,0,0,3,7,3,0,1,1
-2025-08-09,League One,2025-26,Wycombe,Stockport,1,2,8,4,3,1,0,0,3,12,4,0,1,1
-2025-08-09,League One,2025-26,Stevenage,Rotherham,1,0,5,5,3,2,0,0,1,10,5,0,0,0
-2025-08-09,League One,2025-26,Northampton,Bradford,0,0,6,3,2,5,0,0,0,9,7,0,0,0
-2025-08-09,League One,2025-26,Leyton Orient,Wigan,2,0,2,3,0,1,0,1,2,5,1,1,0,0
-2025-08-09,League One,2025-26,Reading,Huddersfield,0,2,4,10,4,2,0,0,2,14,6,0,0,0
-2025-08-09,League One,2025-26,Bolton,Plymouth,2,0,8,3,2,4,0,0,2,11,6,0,0,0
-2025-08-09,League One,2025-26,Barnsley,Burton,3,2,7,4,3,1,0,0,5,11,4,0,1,1
-2025-08-09,League One,2025-26,AFC Wimbledon,Lincoln,2,0,6,3,0,0,0,1,2,9,0,1,0,0
-2025-08-09,League One,2025-26,Peterboro,Luton,0,2,3,6,2,2,0,0,2,9,4,0,0,0
-2025-08-09,League One,2025-26,Exeter,Blackpool,4,1,6,5,1,1,0,0,5,11,2,0,1,1
-2025-08-16,League One,2025-26,Leyton Orient,Stockport,2,2,6,4,2,2,0,0,4,10,4,0,1,1
-2025-08-16,League One,2025-26,Wigan,Peterboro,2,0,3,10,1,2,0,0,2,13,3,0,0,0
-2025-08-16,League One,2025-26,Stevenage,Northampton,2,0,2,6,2,0,0,0,2,8,2,0,0,0
-2025-08-16,League One,2025-26,Reading,AFC Wimbledon,1,2,3,5,1,1,0,0,3,8,2,0,1,1
-2025-08-16,League One,2025-26,Lincoln,Plymouth,3,2,4,6,6,3,0,1,5,10,9,1,1,1
-2025-08-16,League One,2025-26,Doncaster,Wycombe,1,1,6,3,3,2,0,0,2,9,5,0,1,0
-2025-08-16,League One,2025-26,Exeter,Mansfield,1,2,3,4,2,1,0,0,3,7,3,0,1,1
-2025-08-16,League One,2025-26,Bradford,Luton,2,1,2,9,2,2,0,0,3,11,4,0,1,1
-2025-08-16,League One,2025-26,Blackpool,Huddersfield,3,2,1,7,0,2,1,0,5,8,2,1,1,1
-2025-08-16,League One,2025-26,Barnsley,Bolton,1,1,3,2,2,2,1,0,2,5,4,1,1,0
-2025-08-16,League One,2025-26,Burton,Port Vale,0,0,9,3,4,1,0,1,0,12,5,1,0,0
-2025-08-16,League One,2025-26,Cardiff,Rotherham,3,0,7,0,2,3,0,0,3,7,5,0,0,1
-2025-08-19,League One,2025-26,Wycombe,Exeter,0,1,6,7,4,3,0,0,1,13,7,0,0,0
-2025-08-19,League One,2025-26,Stockport,Bradford,1,2,8,8,1,2,0,0,3,16,3,0,1,1
-2025-08-19,League One,2025-26,Port Vale,Stevenage,1,2,4,2,1,2,0,0,3,6,3,0,1,1
-2025-08-19,League One,2025-26,Plymouth,Leyton Orient,0,1,4,2,1,2,0,0,1,6,3,0,0,0
-2025-08-19,League One,2025-26,Peterboro,Barnsley,0,1,2,5,1,3,0,0,1,7,4,0,0,0
-2025-08-19,League One,2025-26,Mansfield,Blackpool,2,0,4,0,0,0,0,0,2,4,0,0,0,0
-2025-08-19,League One,2025-26,Luton,Wigan,1,0,8,4,1,2,0,0,1,12,3,0,0,0
-2025-08-19,League One,2025-26,Huddersfield,Doncaster,2,0,7,6,3,3,0,0,2,13,6,0,0,0
-2025-08-19,League One,2025-26,AFC Wimbledon,Cardiff,0,1,5,2,2,2,0,0,1,7,4,0,0,0
-2025-08-19,League One,2025-26,Northampton,Lincoln,0,1,6,1,3,4,0,0,1,7,7,0,0,0
-2025-08-20,League One,2025-26,Bolton,Reading,1,1,3,1,0,5,0,0,2,4,5,0,1,0
-2025-08-23,League One,2025-26,Plymouth,Blackpool,1,0,4,4,1,3,0,0,1,8,4,0,0,0
-2025-08-23,League One,2025-26,Wycombe,Reading,2,2,5,8,1,3,0,0,4,13,4,0,1,1
-2025-08-23,League One,2025-26,Stockport,Burton,2,1,4,8,3,0,1,0,3,12,3,1,1,1
-2025-08-23,League One,2025-26,Port Vale,Doncaster,0,1,7,6,1,2,0,0,1,13,3,0,0,0
-2025-08-23,League One,2025-26,Peterboro,Bradford,1,1,8,6,1,1,0,0,2,14,2,0,1,0
-2025-08-23,League One,2025-26,Northampton,Exeter,2,0,1,4,0,4,0,0,2,5,4,0,0,0
-2025-08-23,League One,2025-26,Huddersfield,Stevenage,1,0,7,4,2,1,0,0,1,11,3,0,0,0
-2025-08-23,League One,2025-26,Bolton,Lincoln,1,1,13,2,2,2,0,0,2,15,4,0,1,0
-2025-08-23,League One,2025-26,AFC Wimbledon,Barnsley,2,0,3,3,2,1,0,0,2,6,3,0,0,0
-2025-08-23,League One,2025-26,Rotherham,Wigan,2,2,4,6,1,3,0,0,4,10,4,0,1,1
-2025-08-23,League One,2025-26,Luton,Cardiff,0,1,5,8,2,1,0,0,1,13,3,0,0,0
-2025-08-23,League One,2025-26,Mansfield,Leyton Orient,4,1,7,7,2,0,0,1,5,14,2,1,1,1
-2025-08-30,League One,2025-26,Reading,Port Vale,1,0,2,6,2,2,0,0,1,8,4,0,0,0
-2025-08-30,League One,2025-26,Wigan,Stockport,1,1,2,3,1,2,0,0,2,5,3,0,1,0
-2025-08-30,League One,2025-26,Stevenage,Wycombe,1,0,5,2,2,2,0,0,1,7,4,0,0,0
-2025-08-30,League One,2025-26,Lincoln,Mansfield,1,1,3,11,6,2,1,0,2,14,8,1,1,0
-2025-08-30,League One,2025-26,Leyton Orient,Northampton,0,1,6,6,5,0,0,0,1,12,5,0,0,0
-2025-08-30,League One,2025-26,Exeter,Peterboro,3,0,5,5,3,2,0,0,3,10,5,0,0,1
-2025-08-30,League One,2025-26,Bradford,AFC Wimbledon,3,2,7,2,0,1,0,0,5,9,1,0,1,1
-2025-08-30,League One,2025-26,Blackpool,Bolton,1,1,0,5,1,2,0,0,2,5,3,0,1,0
-2025-08-30,League One,2025-26,Barnsley,Huddersfield,3,1,3,6,1,2,0,1,4,9,3,1,1,1
-2025-08-30,League One,2025-26,Doncaster,Rotherham,1,0,2,6,3,1,0,0,1,8,4,0,0,0
-2025-08-30,League One,2025-26,Cardiff,Plymouth,4,0,5,5,3,1,0,0,4,10,4,0,0,1
-2025-08-30,League One,2025-26,Burton,Luton,0,3,6,4,0,1,0,0,3,10,1,0,0,1
-2025-09-06,League One,2025-26,Port Vale,Leyton Orient,2,3,5,2,1,3,0,0,5,7,4,0,1,1
-2025-09-06,League One,2025-26,Rotherham,Exeter,1,0,9,5,1,0,0,0,1,14,1,0,0,0
-2025-09-06,League One,2025-26,Plymouth,Stockport,4,2,8,7,2,1,0,0,6,15,3,0,1,1
-2025-09-06,League One,2025-26,Wycombe,Mansfield,2,0,7,5,3,3,0,0,2,12,6,0,0,0
-2025-09-06,League One,2025-26,Huddersfield,Peterboro,3,2,1,3,1,1,0,0,5,4,2,0,1,1
-2025-09-06,League One,2025-26,Doncaster,Bradford,3,1,3,7,0,2,0,0,4,10,2,0,1,1
-2025-09-06,League One,2025-26,Bolton,AFC Wimbledon,3,0,8,2,2,1,0,2,3,10,3,2,0,1
-2025-09-06,League One,2025-26,Lincoln,Wigan,2,2,7,11,3,0,1,1,4,18,3,2,1,1
-2025-09-13,League One,2025-26,Wigan,Doncaster,3,0,10,10,2,1,0,0,3,20,3,0,0,1
-2025-09-13,League One,2025-26,Stockport,Cardiff,1,1,7,2,0,1,0,0,2,9,1,0,1,0
-2025-09-13,League One,2025-26,Luton,Plymouth,2,3,16,3,2,3,0,1,5,19,5,1,1,1
-2025-09-13,League One,2025-26,Peterboro,Wycombe,2,1,3,3,3,1,0,0,3,6,4,0,1,1
-2025-09-13,League One,2025-26,Mansfield,Stevenage,1,1,3,9,2,4,0,0,2,12,6,0,1,0
-2025-09-13,League One,2025-26,Leyton Orient,Bolton,1,1,3,8,3,2,0,0,2,11,5,0,1,0
-2025-09-13,League One,2025-26,Northampton,Blackpool,1,0,5,5,1,1,0,0,1,10,2,0,0,0
-2025-09-13,League One,2025-26,Burton,Lincoln,0,1,6,3,2,3,0,0,1,9,5,0,0,0
-2025-09-13,League One,2025-26,Barnsley,Reading,3,2,5,4,3,5,0,0,5,9,8,0,1,1
-2025-09-13,League One,2025-26,AFC Wimbledon,Rotherham,2,1,5,5,2,3,0,0,3,10,5,0,1,1
-2025-09-13,League One,2025-26,Bradford,Huddersfield,3,1,5,11,1,5,0,0,4,16,6,0,1,1
-2025-09-13,League One,2025-26,Exeter,Port Vale,0,2,8,2,1,2,0,0,2,10,3,0,0,0
-2025-09-20,League One,2025-26,Stevenage,Exeter,2,1,6,3,1,1,0,0,3,9,2,0,1,1
-2025-09-20,League One,2025-26,Rotherham,Stockport,0,1,1,4,3,2,0,0,1,5,5,0,0,0
-2025-09-20,League One,2025-26,Reading,Leyton Orient,2,1,2,6,5,3,0,0,3,8,8,0,1,1
-2025-09-20,League One,2025-26,Port Vale,Mansfield,2,1,7,0,2,1,0,1,3,7,3,1,1,1
-2025-09-20,League One,2025-26,Plymouth,Peterboro,0,1,7,1,3,2,0,0,1,8,5,0,0,0
-2025-09-20,League One,2025-26,Cardiff,Bradford,1,3,4,7,4,4,0,0,4,11,8,0,1,1
-2025-09-20,League One,2025-26,Doncaster,AFC Wimbledon,1,2,2,6,1,2,0,0,3,8,3,0,1,1
-2025-09-20,League One,2025-26,Lincoln,Luton,3,1,2,7,1,5,0,0,4,9,6,0,1,1
-2025-09-20,League One,2025-26,Bolton,Wigan,4,1,4,16,0,1,0,0,5,20,1,0,1,1
-2025-09-20,League One,2025-26,Blackpool,Barnsley,1,0,7,3,2,1,0,0,1,10,3,0,0,0
-2025-09-20,League One,2025-26,Wycombe,Northampton,2,0,6,3,1,1,0,0,2,9,2,0,0,0
-2025-09-20,League One,2025-26,Huddersfield,Burton,0,0,15,5,0,1,0,0,0,20,1,0,0,0
-2025-09-27,League One,2025-26,Peterboro,Lincoln,0,3,1,0,0,2,0,0,3,1,2,0,0,1
-2025-09-27,League One,2025-26,Mansfield,Rotherham,2,1,4,2,3,4,0,0,3,6,7,0,1,1
-2025-09-27,League One,2025-26,Wigan,Cardiff,0,2,7,5,1,1,1,0,2,12,2,1,0,0
-2025-09-27,League One,2025-26,Stockport,Reading,1,1,5,3,1,1,0,0,2,8,2,0,1,0
-2025-09-27,League One,2025-26,Luton,Doncaster,1,0,6,3,2,1,0,0,1,9,3,0,0,0
-2025-09-27,League One,2025-26,Northampton,Bolton,2,0,4,10,2,1,0,0,2,14,3,0,0,0
-2025-09-27,League One,2025-26,Burton,Plymouth,0,4,6,5,0,1,0,0,4,11,1,0,0,1
-2025-09-27,League One,2025-26,Bradford,Blackpool,1,0,3,5,3,0,0,0,1,8,3,0,0,0
-2025-09-27,League One,2025-26,Exeter,Huddersfield,0,1,5,8,3,1,0,0,1,13,4,0,0,0
-2025-09-27,League One,2025-26,Barnsley,Port Vale,0,2,4,3,1,2,0,0,2,7,3,0,0,0
-2025-09-27,League One,2025-26,Leyton Orient,Stevenage,2,3,6,7,0,1,0,0,5,13,1,0,1,1
-2025-09-27,League One,2025-26,AFC Wimbledon,Wycombe,2,1,0,7,0,0,0,0,3,7,0,0,1,1
-2025-09-30,League One,2025-26,Blackpool,Luton,2,2,3,8,2,1,0,0,4,11,3,0,1,1
-2025-09-30,League One,2025-26,Cardiff,Burton,0,1,8,3,2,4,0,0,1,11,6,0,0,0
-2025-10-02,League One,2025-26,Rotherham,Bradford,2,2,5,4,4,4,0,0,4,9,8,0,1,1
-2025-10-04,League One,2025-26,Stevenage,Luton,2,0,1,5,3,1,0,0,2,6,4,0,0,0
-2025-10-04,League One,2025-26,Reading,Mansfield,1,1,4,5,2,1,0,0,2,9,3,0,1,0
-2025-10-04,League One,2025-26,Port Vale,Northampton,0,0,3,4,2,1,0,0,0,7,3,0,0,0
-2025-10-04,League One,2025-26,Lincoln,Exeter,0,1,7,2,0,2,0,0,1,9,2,0,0,0
-2025-10-04,League One,2025-26,Huddersfield,Stockport,1,2,10,2,2,1,0,1,3,12,3,1,1,1
-2025-10-04,League One,2025-26,Plymouth,Wigan,1,1,7,5,2,5,0,0,2,12,7,0,1,0
-2025-10-04,League One,2025-26,Bolton,Peterboro,2,1,7,1,2,3,0,0,3,8,5,0,1,1
-2025-10-04,League One,2025-26,Blackpool,AFC Wimbledon,0,2,1,2,3,1,0,0,2,3,4,0,0,0
-2025-10-04,League One,2025-26,Wycombe,Barnsley,2,2,11,4,1,2,0,0,4,15,3,0,1,1
-2025-10-04,League One,2025-26,Doncaster,Burton,1,1,5,10,1,1,0,0,2,15,2,0,1,0
-2025-10-04,League One,2025-26,Cardiff,Leyton Orient,4,3,6,8,2,2,0,0,7,14,4,0,1,1
-2025-10-11,League One,2025-26,Wigan,Wycombe,0,1,3,1,1,2,0,0,1,4,3,0,0,0
-2025-10-11,League One,2025-26,Stockport,Blackpool,1,0,4,4,0,2,0,0,1,8,2,0,0,0
-2025-10-11,League One,2025-26,Leyton Orient,Doncaster,4,0,4,5,1,1,0,0,4,9,2,0,0,1
-2025-10-11,League One,2025-26,Exeter,Reading,1,1,5,5,1,1,0,0,2,10,2,0,1,0
-2025-10-11,League One,2025-26,AFC Wimbledon,Port Vale,1,1,5,11,2,2,0,0,2,16,4,0,1,0
-2025-10-11,League One,2025-26,Northampton,Rotherham,1,2,4,4,3,2,0,0,3,8,5,0,1,1
-2025-10-11,League One,2025-26,Burton,Bolton,3,0,2,5,1,2,0,0,3,7,3,0,0,1
-2025-10-16,League One,2025-26,Huddersfield,Bolton,1,2,6,8,1,4,0,0,3,14,5,0,1,1
-2025-10-18,League One,2025-26,Plymouth,AFC Wimbledon,1,2,10,2,0,3,0,0,3,12,3,0,1,1
-2025-10-18,League One,2025-26,Wigan,Port Vale,1,0,4,7,1,2,1,0,1,11,3,1,0,0
-2025-10-18,League One,2025-26,Stockport,Exeter,1,0,4,3,1,1,0,0,1,7,2,0,0,0
-2025-10-18,League One,2025-26,Rotherham,Leyton Orient,1,0,2,12,3,3,0,0,1,14,6,0,0,0
-2025-10-18,League One,2025-26,Luton,Mansfield,0,2,5,1,0,0,0,0,2,6,0,0,0,0
-2025-10-18,League One,2025-26,Blackpool,Wycombe,1,1,2,2,3,0,0,0,2,4,3,0,1,0
-2025-10-18,League One,2025-26,Cardiff,Reading,2,1,4,10,1,0,0,0,3,14,1,0,1,1
-2025-10-18,League One,2025-26,Bradford,Barnsley,2,2,11,11,0,1,0,0,4,22,1,0,1,1
-2025-10-18,League One,2025-26,Lincoln,Stevenage,1,0,1,2,1,1,0,0,1,3,2,0,0,0
-2025-10-18,League One,2025-26,Burton,Peterboro,0,1,6,3,2,2,0,1,1,9,4,1,0,0
-2025-10-18,League One,2025-26,Doncaster,Northampton,1,2,2,7,1,1,0,0,3,9,2,0,1,1
-2025-10-21,League One,2025-26,Reading,Northampton,1,0,8,4,3,0,0,0,1,12,3,0,0,0
-2025-10-23,League One,2025-26,Exeter,Plymouth,2,0,4,4,3,2,0,0,2,8,5,0,0,0
-2025-10-25,League One,2025-26,Wycombe,Huddersfield,3,0,8,1,1,0,0,1,3,9,1,1,0,1
-2025-10-25,League One,2025-26,Stevenage,Bradford,1,1,4,1,3,3,0,0,2,5,6,0,1,0
-2025-10-25,League One,2025-26,Reading,Doncaster,1,1,1,6,1,1,0,0,2,7,2,0,1,0
-2025-10-25,League One,2025-26,Northampton,Luton,0,1,6,10,2,2,0,0,1,16,4,0,0,0
-2025-10-25,League One,2025-26,Peterboro,Blackpool,1,2,9,1,3,4,0,0,3,10,7,0,1,1
-2025-10-25,League One,2025-26,Barnsley,Rotherham,0,1,11,3,4,0,0,0,1,14,4,0,0,0
-2025-10-25,League One,2025-26,AFC Wimbledon,Burton,0,1,9,2,2,3,0,0,1,11,5,0,0,0
-2025-10-25,League One,2025-26,Mansfield,Wigan,1,1,10,3,1,3,0,0,2,13,4,0,1,0
-2025-10-25,League One,2025-26,Bolton,Cardiff,1,0,7,3,2,1,0,0,1,10,3,0,0,0
-2025-10-25,League One,2025-26,Leyton Orient,Lincoln,1,0,5,3,0,2,0,0,1,8,2,0,0,0
-2025-10-27,League One,2025-26,Port Vale,Stockport,0,3,4,5,0,1,0,0,3,9,1,0,0,1
-2025-10-28,League One,2025-26,Bradford,Lincoln,0,0,2,2,2,0,0,0,0,4,2,0,0,0
-2025-10-28,League One,2025-26,Mansfield,Plymouth,2,0,7,4,1,2,0,0,2,11,3,0,0,0
-2025-11-04,League One,2025-26,Rotherham,Burton,2,2,5,3,0,3,0,0,4,8,3,0,1,1
-2025-11-06,League One,2025-26,Reading,Stevenage,1,0,4,7,3,4,0,0,1,11,7,0,0,0
-2025-11-08,League One,2025-26,Huddersfield,Plymouth,3,1,11,3,2,6,0,0,4,14,8,0,1,1
-2025-11-08,League One,2025-26,Rotherham,Lincoln,3,0,4,6,1,1,0,0,3,10,2,0,0,1
-2025-11-08,League One,2025-26,Stockport,Luton,0,3,5,3,0,4,1,0,3,8,4,1,0,1
-2025-11-08,League One,2025-26,Peterboro,AFC Wimbledon,5,0,3,5,2,1,0,0,5,8,3,0,0,1
-2025-11-08,League One,2025-26,Exeter,Wigan,1,1,8,4,1,1,0,0,2,12,2,0,1,0
-2025-11-08,League One,2025-26,Wycombe,Leyton Orient,4,1,5,5,3,3,0,0,5,10,6,0,1,1
-2025-11-08,League One,2025-26,Bradford,Burton,1,2,7,2,2,4,0,0,3,9,6,0,1,1
-2025-11-08,League One,2025-26,Bolton,Port Vale,4,0,7,5,1,2,0,0,4,12,3,0,0,1
-2025-11-08,League One,2025-26,Blackpool,Cardiff,3,1,5,7,2,2,0,0,4,12,4,0,1,1
-2025-11-08,League One,2025-26,Northampton,Mansfield,2,1,5,4,1,0,0,0,3,9,1,0,1,1
-2025-11-08,League One,2025-26,Doncaster,Barnsley,1,2,5,8,1,3,0,0,3,13,4,0,1,1
-2025-11-15,League One,2025-26,Burton,Blackpool,1,0,7,5,3,4,0,0,1,12,7,0,0,0
-2025-11-15,League One,2025-26,Leyton Orient,Exeter,2,1,10,3,3,2,0,0,3,13,5,0,1,1
-2025-11-15,League One,2025-26,Lincoln,Doncaster,2,1,3,1,2,3,0,0,3,4,5,0,1,1
-2025-11-15,League One,2025-26,Luton,Rotherham,0,0,3,4,1,1,0,0,0,7,2,0,0,0
-2025-11-15,League One,2025-26,Port Vale,Wycombe,0,0,7,6,6,1,0,0,0,13,7,0,0,0
-2025-11-20,League One,2025-26,Peterboro,Stockport,3,0,3,6,1,1,0,0,3,9,2,0,0,1
-2025-11-22,League One,2025-26,Wycombe,Lincoln,3,2,1,7,2,1,0,0,5,8,3,0,1,1
-2025-11-22,League One,2025-26,Stevenage,Doncaster,0,0,4,4,1,2,0,0,0,8,3,0,0,0
-2025-11-22,League One,2025-26,Reading,Rotherham,1,1,4,3,2,3,0,0,2,7,5,0,1,0
-2025-11-22,League One,2025-26,Northampton,Cardiff,1,3,6,2,0,2,0,0,4,8,2,0,1,1
-2025-11-22,League One,2025-26,Mansfield,Huddersfield,1,3,4,4,1,1,0,0,4,8,2,0,1,1
-2025-11-22,League One,2025-26,Bolton,Bradford,0,0,4,4,3,3,0,0,0,8,6,0,0,0
-2025-11-22,League One,2025-26,Barnsley,Luton,5,0,2,4,2,2,0,0,5,6,4,0,0,1
-2025-11-22,League One,2025-26,AFC Wimbledon,Wigan,1,2,3,4,2,1,0,0,3,7,3,0,1,1
-2025-11-22,League One,2025-26,Port Vale,Plymouth,0,1,8,2,1,3,0,0,1,10,4,0,0,0
-2025-11-22,League One,2025-26,Leyton Orient,Blackpool,1,1,3,9,3,3,1,0,2,12,6,1,1,0
-2025-11-25,League One,2025-26,Luton,Huddersfield,2,1,12,7,0,1,0,0,3,19,1,0,1,1
-2025-11-25,League One,2025-26,Peterboro,Stevenage,0,1,4,3,3,2,0,0,1,7,5,0,0,0
-2025-11-29,League One,2025-26,Lincoln,Port Vale,1,0,3,5,3,2,0,0,1,8,5,0,0,0
-2025-11-29,League One,2025-26,Rotherham,Wycombe,1,1,6,5,3,2,0,0,2,11,5,0,1,0
-2025-11-29,League One,2025-26,Plymouth,Northampton,0,3,4,8,1,5,1,0,3,12,6,1,0,1
-2025-11-29,League One,2025-26,Luton,Bolton,1,1,13,2,1,1,0,1,2,15,2,1,1,0
-2025-11-29,League One,2025-26,Wigan,Stevenage,0,0,3,7,0,1,0,0,0,10,1,0,0,0
-2025-11-29,League One,2025-26,Huddersfield,AFC Wimbledon,3,3,11,2,2,2,0,0,6,13,4,0,1,1
-2025-11-29,League One,2025-26,Burton,Leyton Orient,0,4,2,6,3,0,0,0,4,8,3,0,0,1
-2025-11-29,League One,2025-26,Cardiff,Mansfield,3,0,6,4,1,1,0,0,3,10,2,0,0,1
-2025-11-29,League One,2025-26,Bradford,Exeter,1,0,7,7,3,2,0,0,1,14,5,0,0,0
-2025-11-29,League One,2025-26,Stockport,Barnsley,1,1,4,6,0,1,0,0,2,10,1,0,1,0
-2025-11-29,League One,2025-26,Blackpool,Reading,0,3,2,5,1,0,0,0,3,7,1,0,0,1
-2025-11-29,League One,2025-26,Doncaster,Peterboro,2,1,3,4,5,2,0,0,3,7,7,0,1,1
-2025-12-02,League One,2025-26,Wigan,Burton,1,0,7,7,1,1,0,0,1,14,2,0,0,0
-2025-12-06,League One,2025-26,Cardiff,Huddersfield,3,2,4,9,2,1,0,0,5,13,3,0,1,1
-2025-12-06,League One,2025-26,Plymouth,Bradford,0,1,5,2,1,3,0,0,1,7,4,0,0,0
-2025-12-09,League One,2025-26,Stevenage,Cardiff,0,1,4,6,4,1,0,0,1,10,5,0,0,0
-2025-12-09,League One,2025-26,Reading,Peterboro,1,2,5,3,1,3,0,0,3,8,4,0,1,1
-2025-12-09,League One,2025-26,Wycombe,Plymouth,0,1,6,2,0,6,0,0,1,8,6,0,0,0
-2025-12-09,League One,2025-26,Northampton,Huddersfield,1,1,5,1,0,0,0,0,2,6,0,0,1,0
-2025-12-09,League One,2025-26,Lincoln,Barnsley,3,1,7,8,0,1,0,0,4,15,1,0,1,1
-2025-12-09,League One,2025-26,Leyton Orient,Luton,1,1,2,2,1,2,0,0,2,4,3,0,1,0
-2025-12-09,League One,2025-26,Exeter,AFC Wimbledon,1,0,6,4,2,0,0,0,1,10,2,0,0,0
-2025-12-09,League One,2025-26,Doncaster,Stockport,0,2,5,9,4,2,0,0,2,14,6,0,0,0
-2025-12-09,League One,2025-26,Mansfield,Bolton,0,1,3,5,0,1,1,0,1,8,1,1,0,0
-2025-12-10,League One,2025-26,Rotherham,Blackpool,0,3,10,3,1,3,0,0,3,13,4,0,0,1
-2025-12-13,League One,2025-26,Cardiff,Doncaster,4,3,4,2,2,2,0,0,7,6,4,0,1,1
-2025-12-13,League One,2025-26,Plymouth,Rotherham,1,0,1,12,3,2,0,0,1,13,5,0,0,0
-2025-12-13,League One,2025-26,Peterboro,Northampton,2,1,4,8,3,0,0,1,3,12,3,1,1,1
-2025-12-13,League One,2025-26,Luton,Port Vale,2,2,8,4,1,2,0,0,4,12,3,0,1,1
-2025-12-13,League One,2025-26,Burton,Wycombe,0,0,6,6,0,1,0,0,0,12,1,0,0,0
-2025-12-13,League One,2025-26,Stockport,Stevenage,1,3,5,3,1,2,0,0,4,8,3,0,1,1
-2025-12-13,League One,2025-26,Bolton,Exeter,2,1,6,2,0,4,0,0,3,8,4,0,1,1
-2025-12-13,League One,2025-26,Blackpool,Lincoln,2,2,8,6,1,2,0,0,4,14,3,0,1,1
-2025-12-13,League One,2025-26,Barnsley,Leyton Orient,3,2,8,3,1,3,0,0,5,11,4,0,1,1
-2025-12-13,League One,2025-26,Huddersfield,Wigan,1,1,6,3,2,2,0,0,2,9,4,0,1,0
-2025-12-13,League One,2025-26,AFC Wimbledon,Mansfield,0,0,7,2,2,3,0,0,0,9,5,0,0,0
-2025-12-13,League One,2025-26,Bradford,Reading,2,0,3,2,1,3,0,0,2,5,4,0,0,0
-2025-12-18,League One,2025-26,Reading,Luton,3,2,0,5,2,1,0,0,5,5,3,0,1,1
-2025-12-19,League One,2025-26,Northampton,AFC Wimbledon,3,1,4,1,2,2,0,0,4,5,4,0,1,1
-2025-12-20,League One,2025-26,Wycombe,Bolton,2,1,5,7,2,0,0,0,3,12,2,0,1,1
-2025-12-20,League One,2025-26,Rotherham,Huddersfield,1,3,5,4,2,1,0,0,4,9,3,0,1,1
-2025-12-20,League One,2025-26,Port Vale,Peterboro,0,1,8,5,3,2,0,0,1,13,5,0,0,0
-2025-12-20,League One,2025-26,Mansfield,Stockport,1,2,5,0,2,2,0,0,3,5,4,0,1,1
-2025-12-20,League One,2025-26,Lincoln,Cardiff,2,1,4,3,3,1,0,0,3,7,4,0,1,1
-2025-12-20,League One,2025-26,Exeter,Barnsley,3,0,6,3,1,2,0,0,3,9,3,0,0,1
-2025-12-20,League One,2025-26,Doncaster,Plymouth,1,5,15,4,2,2,0,0,6,19,4,0,1,1
-2025-12-20,League One,2025-26,Wigan,Blackpool,0,2,6,1,2,4,0,0,2,7,6,0,0,0
-2025-12-20,League One,2025-26,Stevenage,Burton,2,2,5,2,1,1,0,0,4,7,2,0,1,1
-2025-12-20,League One,2025-26,Leyton Orient,Bradford,2,1,2,10,3,3,0,0,3,12,6,0,1,1
-2025-12-26,League One,2025-26,Huddersfield,Port Vale,5,0,6,5,2,2,0,0,5,11,4,0,0,1
-2025-12-26,League One,2025-26,Stockport,Lincoln,1,2,3,3,2,2,0,0,3,6,4,0,1,1
-2025-12-26,League One,2025-26,Peterboro,Leyton Orient,1,0,8,6,2,3,0,0,1,14,5,0,0,0
-2025-12-26,League One,2025-26,Luton,Wycombe,4,0,6,1,0,2,0,0,4,7,2,0,0,1
-2025-12-26,League One,2025-26,Cardiff,Exeter,1,0,5,4,3,1,0,0,1,9,4,0,0,0
-2025-12-26,League One,2025-26,Plymouth,Reading,1,4,5,7,3,3,1,0,5,12,6,1,1,1
-2025-12-26,League One,2025-26,Bradford,Wigan,2,1,7,2,2,1,0,2,3,9,3,2,1,1
-2025-12-26,League One,2025-26,Bolton,Rotherham,2,1,10,0,1,2,0,0,3,10,3,0,1,1
-2025-12-26,League One,2025-26,Blackpool,Doncaster,1,0,5,4,3,3,0,0,1,9,6,0,0,0
-2025-12-26,League One,2025-26,Barnsley,Mansfield,2,3,6,1,0,4,0,0,5,7,4,0,1,1
-2025-12-26,League One,2025-26,AFC Wimbledon,Stevenage,0,0,2,9,1,3,0,0,0,11,4,0,0,0
-2025-12-26,League One,2025-26,Burton,Northampton,5,1,5,7,3,2,0,0,6,12,5,0,1,1
-2025-12-29,League One,2025-26,Stockport,Doncaster,4,2,4,3,3,2,0,0,6,7,5,0,1,1
-2025-12-29,League One,2025-26,Peterboro,Reading,1,1,7,2,2,3,0,0,2,9,5,0,1,0
-2025-12-29,League One,2025-26,Luton,Leyton Orient,3,0,2,9,2,0,0,0,3,11,2,0,0,1
-2025-12-29,League One,2025-26,Huddersfield,Northampton,2,0,8,3,0,3,0,0,2,11,3,0,0,0
-2025-12-29,League One,2025-26,Cardiff,Stevenage,2,1,6,4,1,2,0,0,3,10,3,0,1,1
-2025-12-29,League One,2025-26,Plymouth,Wycombe,1,1,10,6,2,2,0,0,2,16,4,0,1,0
-2025-12-29,League One,2025-26,Bradford,Port Vale,1,0,11,3,3,3,0,0,1,14,6,0,0,0
-2025-12-29,League One,2025-26,Bolton,Mansfield,0,1,14,2,2,3,0,0,1,16,5,0,0,0
-2025-12-29,League One,2025-26,Blackpool,Rotherham,4,0,6,3,1,2,0,1,4,9,3,1,0,1
-2025-12-29,League One,2025-26,Barnsley,Lincoln,0,2,5,2,4,2,0,0,2,7,6,0,0,0
-2025-12-29,League One,2025-26,AFC Wimbledon,Exeter,0,1,7,5,3,4,0,0,1,12,7,0,0,0
-2025-12-29,League One,2025-26,Burton,Wigan,0,2,8,1,0,1,0,0,2,9,1,0,0,0
-2026-01-01,League One,2025-26,Wycombe,Cardiff,1,1,2,2,1,3,0,0,2,4,4,0,1,0
-2026-01-01,League One,2025-26,Wigan,Barnsley,1,1,8,6,1,0,0,1,2,14,1,1,1,0
-2026-01-01,League One,2025-26,Stevenage,Plymouth,1,1,6,5,2,1,0,0,2,11,3,0,1,0
-2026-01-01,League One,2025-26,Rotherham,Peterboro,0,2,5,5,5,1,0,0,2,10,6,0,0,0
-2026-01-01,League One,2025-26,Reading,Burton,2,0,5,3,0,0,0,0,2,8,0,0,0,0
-2026-01-01,League One,2025-26,Port Vale,Blackpool,5,1,5,2,3,3,0,1,6,7,6,1,1,1
-2026-01-01,League One,2025-26,Mansfield,Bradford,3,0,2,4,2,0,0,0,3,6,2,0,0,1
-2026-01-01,League One,2025-26,Lincoln,Huddersfield,1,1,4,3,3,2,0,0,2,7,5,0,1,0
-2026-01-01,League One,2025-26,Leyton Orient,AFC Wimbledon,1,3,3,6,2,1,0,0,4,9,3,0,1,1
-2026-01-01,League One,2025-26,Exeter,Luton,1,0,6,1,3,1,0,0,1,7,4,0,0,0
-2026-01-01,League One,2025-26,Doncaster,Bolton,1,1,3,3,2,3,0,0,2,6,5,0,1,0
-2026-01-01,League One,2025-26,Northampton,Stockport,0,0,5,5,1,3,0,0,0,10,4,0,0,0
-2026-01-04,League One,2025-26,Plymouth,Burton,3,0,9,4,2,2,0,0,3,13,4,0,0,1
-2026-01-04,League One,2025-26,Reading,Stockport,1,0,1,5,1,0,0,0,1,6,1,0,0,0
-2026-01-04,League One,2025-26,Huddersfield,Exeter,2,2,6,5,1,1,0,0,4,11,2,0,1,1
-2026-01-04,League One,2025-26,Wycombe,AFC Wimbledon,2,0,4,2,2,2,0,0,2,6,4,0,0,0
-2026-01-04,League One,2025-26,Blackpool,Bradford,1,2,6,6,0,2,0,0,3,12,2,0,1,1
-2026-01-04,League One,2025-26,Lincoln,Peterboro,5,2,6,7,2,3,0,0,7,13,5,0,1,1
-2026-01-04,League One,2025-26,Bolton,Northampton,0,0,8,3,0,0,0,0,0,11,0,0,0,0
-2026-01-04,League One,2025-26,Cardiff,Wigan,1,0,18,1,0,0,0,0,1,19,0,0,0,0
-2026-01-10,League One,2025-26,Luton,Stevenage,2,1,3,7,1,2,0,0,3,10,3,0,1,1
-2026-01-10,League One,2025-26,Stockport,Huddersfield,1,0,8,2,3,1,0,0,1,10,4,0,0,0
-2026-01-10,League One,2025-26,Leyton Orient,Cardiff,1,1,4,3,1,1,0,0,2,7,2,0,1,0
-2026-01-10,League One,2025-26,Peterboro,Bolton,3,1,5,5,2,0,0,0,4,10,2,0,1,1
-2026-01-17,League One,2025-26,Stockport,Rotherham,3,2,2,4,3,3,0,0,5,6,6,0,1,1
-2026-01-17,League One,2025-26,Peterboro,Plymouth,0,1,8,10,5,4,1,0,1,18,9,1,0,0
-2026-01-17,League One,2025-26,Northampton,Wycombe,1,2,6,6,2,3,0,0,3,12,5,0,1,1
-2026-01-17,League One,2025-26,Mansfield,Port Vale,3,0,3,2,2,0,0,0,3,5,2,0,0,1
-2026-01-17,League One,2025-26,Luton,Lincoln,2,2,8,7,1,5,0,0,4,15,6,0,1,1
-2026-01-17,League One,2025-26,Leyton Orient,Reading,3,1,6,1,3,3,0,0,4,7,6,0,1,1
-2026-01-17,League One,2025-26,Exeter,Stevenage,3,0,1,4,2,2,0,0,3,5,4,0,0,1
-2026-01-17,League One,2025-26,Burton,Huddersfield,3,1,3,8,1,4,0,0,4,11,5,0,1,1
-2026-01-17,League One,2025-26,Barnsley,Blackpool,2,1,3,7,2,2,0,0,3,10,4,0,1,1
-2026-01-17,League One,2025-26,AFC Wimbledon,Doncaster,0,1,7,4,2,2,1,0,1,11,4,1,0,0
-2026-01-17,League One,2025-26,Wigan,Bolton,0,1,1,6,0,1,0,0,1,7,1,0,0,0
-2026-01-17,League One,2025-26,Bradford,Cardiff,1,2,2,2,3,2,0,0,3,4,5,0,1,1
-2026-01-20,League One,2025-26,Stevenage,Bolton,0,0,6,4,0,1,0,0,0,10,1,0,0,0
-2026-01-22,League One,2025-26,Lincoln,Burton,2,1,2,5,3,0,0,0,3,7,3,0,1,1
-2026-01-24,League One,2025-26,Stevenage,Mansfield,1,1,5,1,4,2,0,0,2,6,6,0,1,0
-2026-01-24,League One,2025-26,Rotherham,AFC Wimbledon,1,1,8,4,2,2,0,0,2,12,4,0,1,0
-2026-01-24,League One,2025-26,Reading,Barnsley,2,2,9,6,0,3,0,0,4,15,3,0,1,1
-2026-01-24,League One,2025-26,Port Vale,Exeter,1,3,12,4,1,4,0,0,4,16,5,0,1,1
-2026-01-24,League One,2025-26,Doncaster,Wigan,3,3,13,6,3,2,0,0,6,19,5,0,1,1
-2026-01-24,League One,2025-26,Wycombe,Peterboro,0,2,6,3,0,1,0,0,2,9,1,0,0,0
-2026-01-24,League One,2025-26,Blackpool,Northampton,2,0,4,3,1,1,0,0,2,7,2,0,0,0
-2026-01-24,League One,2025-26,Plymouth,Luton,1,0,6,5,4,1,0,0,1,11,5,0,0,0
-2026-01-24,League One,2025-26,Huddersfield,Bradford,1,0,3,2,2,1,1,0,1,5,3,1,0,0
-2026-01-24,League One,2025-26,Cardiff,Stockport,1,1,9,1,3,2,0,0,2,10,5,0,1,0
-2026-01-24,League One,2025-26,Bolton,Leyton Orient,2,1,4,1,3,1,0,0,3,5,4,0,1,1
-2026-01-27,League One,2025-26,Reading,Exeter,2,2,5,3,4,2,0,0,4,8,6,0,1,1
-2026-01-27,League One,2025-26,Doncaster,Leyton Orient,3,0,3,3,2,3,0,0,3,6,5,0,0,1
-2026-01-27,League One,2025-26,Wycombe,Wigan,2,0,3,9,0,0,0,0,2,12,0,0,0,0
-2026-01-27,League One,2025-26,Stevenage,Peterboro,1,0,8,4,3,1,0,0,1,12,4,0,0,0
-2026-01-27,League One,2025-26,Rotherham,Northampton,2,1,13,4,3,0,0,0,3,17,3,0,1,1
-2026-01-27,League One,2025-26,Plymouth,Mansfield,1,1,6,2,2,2,0,0,2,8,4,0,1,0
-2026-01-27,League One,2025-26,Lincoln,Bradford,3,0,5,1,1,1,0,0,3,6,2,0,0,1
-2026-01-27,League One,2025-26,Huddersfield,Luton,1,0,6,9,1,2,1,0,1,15,3,1,0,0
-2026-01-27,League One,2025-26,Cardiff,Barnsley,4,0,6,3,1,2,0,0,4,9,3,0,0,1
-2026-01-27,League One,2025-26,Bolton,Burton,2,1,5,4,3,1,0,0,3,9,4,0,1,1
-2026-01-27,League One,2025-26,Blackpool,Stockport,1,2,2,10,1,1,0,0,3,12,2,0,1,1
-2026-01-31,League One,2025-26,Stockport,Plymouth,2,1,6,6,0,4,0,0,3,12,4,0,1,1
-2026-01-31,League One,2025-26,Peterboro,Huddersfield,2,3,7,4,5,3,0,0,5,11,8,0,1,1
-2026-01-31,League One,2025-26,Wigan,Lincoln,0,1,6,1,1,1,0,0,1,7,2,0,0,0
-2026-01-31,League One,2025-26,Mansfield,Wycombe,0,0,5,6,0,1,0,0,0,11,1,0,0,0
-2026-01-31,League One,2025-26,Luton,Blackpool,1,0,5,3,1,0,0,0,1,8,1,0,0,0
-2026-01-31,League One,2025-26,Leyton Orient,Port Vale,0,1,5,6,2,2,0,0,1,11,4,0,0,0
-2026-01-31,League One,2025-26,Northampton,Reading,0,2,9,3,2,3,0,0,2,12,5,0,0,0
-2026-01-31,League One,2025-26,Burton,Cardiff,2,2,5,4,2,1,0,0,4,9,3,0,1,1
-2026-01-31,League One,2025-26,Barnsley,Stevenage,3,1,3,7,3,2,0,0,4,10,5,0,1,1
-2026-01-31,League One,2025-26,Bradford,Doncaster,1,0,8,3,2,1,0,0,1,11,3,0,0,0
-2026-01-31,League One,2025-26,AFC Wimbledon,Bolton,0,1,5,4,1,1,0,0,1,9,2,0,0,0
-2026-01-31,League One,2025-26,Exeter,Rotherham,0,4,4,5,3,1,0,0,4,9,4,0,0,1
-2026-02-03,League One,2025-26,Port Vale,AFC Wimbledon,0,1,10,1,3,2,0,0,1,11,5,0,0,0
-2026-02-03,League One,2025-26,Barnsley,Northampton,2,2,6,7,2,1,0,0,4,13,3,0,1,1
-2026-02-03,League One,2025-26,Burton,Doncaster,1,2,20,7,1,2,0,0,3,27,3,0,1,1
-2026-02-07,League One,2025-26,Peterboro,Wigan,6,1,3,10,1,3,0,0,7,13,4,0,1,1
-2026-02-07,League One,2025-26,Wycombe,Doncaster,4,0,8,1,1,1,0,0,4,9,2,0,0,1
-2026-02-07,League One,2025-26,Stockport,Leyton Orient,0,0,4,2,1,2,1,0,0,6,3,1,0,0
-2026-02-07,League One,2025-26,Rotherham,Cardiff,0,3,5,5,3,3,0,1,3,10,6,1,0,1
-2026-02-07,League One,2025-26,Plymouth,Lincoln,1,4,5,8,2,4,0,0,5,13,6,0,1,1
-2026-02-07,League One,2025-26,Northampton,Stevenage,3,1,7,3,4,3,0,0,4,10,7,0,1,1
-2026-02-07,League One,2025-26,Luton,Bradford,2,1,5,5,2,2,0,0,3,10,4,0,1,1
-2026-02-07,League One,2025-26,Huddersfield,Blackpool,2,2,4,6,2,5,0,0,4,10,7,0,1,1
-2026-02-07,League One,2025-26,Port Vale,Burton,2,2,5,6,2,3,0,0,4,11,5,0,1,1
-2026-02-07,League One,2025-26,Mansfield,Exeter,0,0,4,4,1,4,0,0,0,8,5,0,0,0
-2026-02-07,League One,2025-26,Bolton,Barnsley,3,2,11,1,3,2,0,0,5,12,5,0,1,1
-2026-02-07,League One,2025-26,AFC Wimbledon,Reading,3,2,6,3,0,1,0,0,5,9,1,0,1,1
-2026-02-10,League One,2025-26,Mansfield,Peterboro,1,2,19,0,2,2,0,0,3,19,4,0,1,1
-2026-02-10,League One,2025-26,Wigan,Reading,1,2,3,4,1,1,0,0,3,7,2,0,1,1
-2026-02-14,League One,2025-26,Lincoln,Bolton,1,1,4,3,2,5,0,0,2,7,7,0,1,0
-2026-02-14,League One,2025-26,Exeter,Northampton,0,0,11,1,0,1,0,0,0,12,1,0,0,0
-2026-02-14,League One,2025-26,Cardiff,Luton,3,1,7,3,3,2,0,0,4,10,5,0,1,1
-2026-02-14,League One,2025-26,Bradford,Peterboro,2,0,10,5,3,3,0,0,2,15,6,0,0,0
-2026-02-14,League One,2025-26,Barnsley,AFC Wimbledon,3,3,10,5,2,0,0,0,6,15,2,0,1,1
-2026-02-14,League One,2025-26,Stevenage,Huddersfield,1,0,3,4,3,3,0,0,1,7,6,0,0,0
-2026-02-14,League One,2025-26,Reading,Wycombe,3,2,1,8,3,2,0,0,5,9,5,0,1,1
-2026-02-14,League One,2025-26,Blackpool,Plymouth,0,4,4,6,1,3,1,0,4,10,4,1,0,1
-2026-02-17,League One,2025-26,Lincoln,Northampton,4,0,9,1,1,1,0,1,4,10,2,1,0,1
-2026-02-17,League One,2025-26,Reading,Bolton,1,1,4,6,4,1,0,0,2,10,5,0,1,0
-2026-02-17,League One,2025-26,Blackpool,Mansfield,1,0,4,1,5,0,0,0,1,5,5,0,0,0
-2026-02-17,League One,2025-26,Stevenage,Port Vale,2,1,6,1,3,2,0,0,3,7,5,0,1,1
-2026-02-17,League One,2025-26,Leyton Orient,Plymouth,1,3,6,6,4,2,0,0,4,12,6,0,1,1
-2026-02-17,League One,2025-26,Burton,Rotherham,1,0,10,3,1,2,0,0,1,13,3,0,0,0
-2026-02-17,League One,2025-26,Doncaster,Huddersfield,1,0,0,5,4,1,0,0,1,5,5,0,0,0
-2026-02-17,League One,2025-26,Cardiff,AFC Wimbledon,4,1,4,5,0,2,0,0,5,9,2,0,1,1
-2026-02-17,League One,2025-26,Bradford,Stockport,1,0,4,2,3,2,0,0,1,6,5,0,0,0
-2026-02-17,League One,2025-26,Barnsley,Peterboro,2,1,3,5,2,1,0,0,3,8,3,0,1,1
-2026-02-17,League One,2025-26,Exeter,Wycombe,1,1,8,4,0,2,0,0,2,12,2,0,1,0
-2026-02-18,League One,2025-26,Wigan,Luton,1,0,7,4,4,2,0,0,1,11,6,0,0,0
-2026-02-21,League One,2025-26,Mansfield,Lincoln,0,2,2,4,2,3,0,0,2,6,5,0,0,0
-2026-02-21,League One,2025-26,Port Vale,Reading,1,1,9,3,0,2,0,0,2,12,2,0,1,0
-2026-02-21,League One,2025-26,Stockport,Wigan,4,2,6,1,1,1,0,2,6,7,2,2,1,1
-2026-02-21,League One,2025-26,Peterboro,Exeter,3,3,6,1,1,4,0,0,6,7,5,0,1,1
-2026-02-21,League One,2025-26,Northampton,Leyton Orient,1,2,7,4,1,2,0,0,3,11,3,0,1,1
-2026-02-21,League One,2025-26,Luton,Burton,1,1,1,6,3,3,0,0,2,7,6,0,1,0
-2026-02-21,League One,2025-26,Rotherham,Doncaster,1,2,2,3,3,3,0,0,3,5,6,0,1,1
-2026-02-21,League One,2025-26,Bolton,Blackpool,2,2,15,5,1,3,0,0,4,20,4,0,1,1
-2026-02-21,League One,2025-26,Huddersfield,Barnsley,2,1,10,7,1,2,0,0,3,17,3,0,1,1
-2026-02-21,League One,2025-26,Plymouth,Cardiff,5,2,3,8,3,4,0,0,7,11,7,0,1,1
-2026-02-21,League One,2025-26,AFC Wimbledon,Bradford,3,1,3,2,1,0,0,0,4,5,1,0,1,1
-2026-02-21,League One,2025-26,Wycombe,Stevenage,3,1,6,4,1,1,0,0,4,10,2,0,1,1
-2026-02-24,League One,2025-26,Bradford,Rotherham,1,0,6,7,1,1,0,0,1,13,2,0,0,0
-2026-02-24,League One,2025-26,Burton,Stockport,3,0,1,3,1,4,0,0,3,4,5,0,0,1
-2026-02-24,League One,2025-26,Northampton,Port Vale,0,1,6,0,1,0,0,0,1,6,1,0,0,0
-2026-02-28,League One,2025-26,Wycombe,Burton,3,0,3,4,3,2,0,0,3,7,5,0,0,1
-2026-02-28,League One,2025-26,Wigan,Huddersfield,1,0,4,6,2,3,0,0,1,10,5,0,0,0
-2026-02-28,League One,2025-26,Stevenage,Stockport,2,1,2,7,1,5,0,0,3,9,6,0,1,1
-2026-02-28,League One,2025-26,Rotherham,Plymouth,1,0,3,8,5,5,0,0,1,11,10,0,0,0
-2026-02-28,League One,2025-26,Reading,Bradford,2,1,5,6,3,0,0,0,3,11,3,0,1,1
-2026-02-28,League One,2025-26,Port Vale,Luton,1,1,6,6,3,3,0,0,2,12,6,0,1,0
-2026-02-28,League One,2025-26,Exeter,Bolton,1,5,4,3,2,1,0,0,6,7,3,0,1,1
-2026-02-28,League One,2025-26,Lincoln,Blackpool,4,0,7,6,1,4,0,0,4,13,5,0,0,1
-2026-02-28,League One,2025-26,Northampton,Peterboro,1,1,5,2,1,2,0,0,2,7,3,0,1,0
-2026-02-28,League One,2025-26,Leyton Orient,Barnsley,1,3,5,1,1,1,0,0,4,6,2,0,1,1
-2026-02-28,League One,2025-26,Mansfield,AFC Wimbledon,2,2,7,6,2,1,0,0,4,13,3,0,1,1
-2026-02-28,League One,2025-26,Doncaster,Cardiff,0,4,3,9,2,0,0,0,4,12,2,0,0,1
-2026-03-03,League One,2025-26,Rotherham,Mansfield,0,0,3,6,2,1,0,0,0,9,3,0,0,0
-2026-03-03,League One,2025-26,Exeter,Burton,1,1,11,5,1,2,0,0,2,16,3,0,1,0
-2026-03-03,League One,2025-26,Barnsley,Wycombe,0,1,2,3,3,3,0,0,1,5,6,0,0,0
-2026-03-07,League One,2025-26,Plymouth,Doncaster,2,1,1,2,5,4,0,0,3,3,9,0,1,1
-2026-03-07,League One,2025-26,Cardiff,Lincoln,0,2,6,2,0,3,0,0,2,8,3,0,0,0
-2026-03-07,League One,2025-26,Huddersfield,Rotherham,1,0,3,2,0,1,0,0,1,5,1,0,0,0
-2026-03-07,League One,2025-26,Barnsley,Exeter,2,1,6,6,1,1,0,0,3,12,2,0,1,1
-2026-03-07,League One,2025-26,Blackpool,Wigan,1,1,3,5,2,1,0,0,2,8,3,0,1,0
-2026-03-07,League One,2025-26,Bolton,Wycombe,3,2,6,4,3,4,0,0,5,10,7,0,1,1
-2026-03-07,League One,2025-26,Bradford,Leyton Orient,2,1,11,2,6,3,1,0,3,13,9,1,1,1
-2026-03-07,League One,2025-26,Burton,Stevenage,0,1,9,5,1,3,0,0,1,14,4,0,0,0
-2026-03-07,League One,2025-26,Luton,Reading,2,3,10,4,1,4,0,0,5,14,5,0,1,1
-2026-03-08,League One,2025-26,AFC Wimbledon,Northampton,1,0,9,6,0,1,0,0,1,15,1,0,0,0
-2026-03-10,League One,2025-26,Wigan,Plymouth,0,3,5,8,0,2,0,0,3,13,2,0,0,1
-2026-03-10,League One,2025-26,Stevenage,Leyton Orient,1,2,5,2,1,4,0,0,3,7,5,0,1,1
-2026-03-10,League One,2025-26,Mansfield,Reading,1,0,13,6,0,2,0,0,1,19,2,0,0,0
-2026-03-10,League One,2025-26,Doncaster,Luton,1,1,5,3,1,3,0,0,2,8,4,0,1,0
-2026-03-10,League One,2025-26,Barnsley,Cardiff,1,1,4,13,0,1,0,0,2,17,1,0,1,0
-2026-03-10,League One,2025-26,Exeter,Lincoln,0,1,6,7,2,4,0,0,1,13,6,0,0,0
-2026-03-11,League One,2025-26,Port Vale,Bradford,0,2,2,11,2,2,0,0,2,13,4,0,0,0
-2026-03-11,League One,2025-26,AFC Wimbledon,Blackpool,4,1,6,8,0,0,0,0,5,14,0,0,1,1
-2026-03-14,League One,2025-26,Stevenage,AFC Wimbledon,1,0,1,7,2,2,0,0,1,8,4,0,0,0
-2026-03-14,League One,2025-26,Reading,Plymouth,2,2,3,3,1,3,0,0,4,6,4,0,1,1
-2026-03-14,League One,2025-26,Wycombe,Luton,1,2,3,3,3,1,0,0,3,6,4,0,1,1
-2026-03-14,League One,2025-26,Port Vale,Huddersfield,0,0,2,6,3,1,0,0,0,8,4,0,0,0
-2026-03-14,League One,2025-26,Wigan,Bradford,2,0,2,2,4,2,0,0,2,4,6,0,0,0
-2026-03-14,League One,2025-26,Northampton,Burton,0,2,7,4,2,2,0,0,2,11,4,0,0,0
-2026-03-14,League One,2025-26,Leyton Orient,Peterboro,2,1,7,2,2,2,0,0,3,9,4,0,1,1
-2026-03-14,League One,2025-26,Exeter,Cardiff,0,4,0,10,0,0,0,0,4,10,0,0,0,1
-2026-03-14,League One,2025-26,Doncaster,Blackpool,2,1,7,1,0,3,0,1,3,8,3,1,1,1
-2026-03-14,League One,2025-26,Rotherham,Bolton,2,2,8,6,3,1,0,0,4,14,4,0,1,1
-2026-03-14,League One,2025-26,Lincoln,Stockport,3,1,4,5,3,1,0,0,4,9,4,0,1,1
-2026-03-14,League One,2025-26,Mansfield,Barnsley,2,2,3,5,0,3,0,0,4,8,3,0,1,1
-2026-03-17,League One,2025-26,Cardiff,Wycombe,0,2,8,5,2,1,1,0,2,13,3,1,0,0
-2026-03-17,League One,2025-26,Stockport,Northampton,2,1,8,3,1,1,0,0,3,11,2,0,1,1
-2026-03-17,League One,2025-26,Plymouth,Stevenage,1,0,6,7,2,2,0,0,1,13,4,0,0,0
-2026-03-17,League One,2025-26,Peterboro,Rotherham,5,0,3,5,1,1,0,0,5,8,2,0,0,1
-2026-03-17,League One,2025-26,Luton,Exeter,3,2,7,2,2,2,0,0,5,9,4,0,1,1
-2026-03-17,League One,2025-26,Huddersfield,Lincoln,2,2,3,7,4,2,0,0,4,10,6,0,1,1
-2026-03-17,League One,2025-26,Bradford,Mansfield,1,1,11,5,4,2,0,0,2,16,6,0,1,0
-2026-03-17,League One,2025-26,Barnsley,Wigan,1,1,11,5,3,1,0,1,2,16,4,1,1,0
-2026-03-17,League One,2025-26,Bolton,Doncaster,0,0,9,6,2,4,0,0,0,15,6,0,0,0
-2026-03-17,League One,2025-26,Blackpool,Port Vale,3,2,6,5,0,3,0,0,5,11,3,0,1,1
-2026-03-17,League One,2025-26,AFC Wimbledon,Leyton Orient,2,4,3,3,1,1,0,0,6,6,2,0,1,1
-2026-03-17,League One,2025-26,Burton,Reading,1,2,4,3,1,1,0,0,3,7,2,0,1,1
-2026-03-21,League One,2025-26,Plymouth,Huddersfield,3,1,5,3,3,3,0,0,4,8,6,0,1,1
-2026-03-21,League One,2025-26,Mansfield,Northampton,4,1,3,3,1,3,0,0,5,6,4,0,1,1
-2026-03-21,League One,2025-26,Stevenage,Reading,1,0,4,2,2,2,0,0,1,6,4,0,0,0
-2026-03-21,League One,2025-26,Port Vale,Bolton,1,0,2,5,0,2,0,0,1,7,2,0,0,0
-2026-03-21,League One,2025-26,Lincoln,Rotherham,3,0,7,4,0,1,0,0,3,11,1,0,0,1
-2026-03-21,League One,2025-26,Wigan,Exeter,2,0,3,4,1,3,0,0,2,7,4,0,0,0
-2026-03-21,League One,2025-26,Burton,Bradford,2,1,3,8,1,5,0,0,3,11,6,0,1,1
-2026-03-21,League One,2025-26,Barnsley,Doncaster,0,1,4,2,2,2,0,0,1,6,4,0,0,0
-2026-03-21,League One,2025-26,AFC Wimbledon,Peterboro,1,1,11,2,2,3,0,0,2,13,5,0,1,0
-2026-03-21,League One,2025-26,Luton,Stockport,1,1,8,6,1,2,0,0,2,14,3,0,1,0
-2026-03-21,League One,2025-26,Cardiff,Blackpool,0,0,11,2,2,3,0,0,0,13,5,0,0,0
-2026-03-21,League One,2025-26,Leyton Orient,Wycombe,2,0,8,7,3,0,0,1,2,15,3,1,0,0
-2026-03-24,League One,2025-26,Doncaster,Port Vale,1,0,4,1,3,0,0,0,1,5,3,0,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2025-08-01,League One,2025-26,Luton,AFC Wimbledon,1,0,5,2,1,1,0,0,1,7,2,0,0,0,1.5,4.33,5.5,1.49,4.49,6.65
+2025-08-02,League One,2025-26,Wigan,Northampton,3,1,9,3,0,2,0,0,4,12,2,0,1,1,2.1,3.1,3.6,2.08,3.24,3.74
+2025-08-02,League One,2025-26,Rotherham,Port Vale,2,1,6,3,1,1,1,1,3,9,2,2,1,1,2.2,3.6,2.9,2.2,3.69,3.03
+2025-08-02,League One,2025-26,Lincoln,Reading,2,0,3,9,1,0,0,0,2,12,1,0,0,0,1.9,3.5,3.8,1.88,3.64,3.97
+2025-08-02,League One,2025-26,Huddersfield,Leyton Orient,3,0,6,3,3,0,0,0,3,9,3,0,0,1,1.95,3.8,3.4,1.99,3.82,3.4
+2025-08-02,League One,2025-26,Plymouth,Barnsley,1,3,9,5,2,3,0,1,4,14,5,1,1,1,2.2,3.7,2.88,2.31,3.73,2.82
+2025-08-02,League One,2025-26,Burton,Mansfield,2,1,1,7,2,2,0,0,3,8,4,0,1,1,2.45,3.4,2.7,2.54,3.43,2.71
+2025-08-02,League One,2025-26,Bradford,Wycombe,2,1,2,6,3,4,0,0,3,8,7,0,1,1,2.45,3.25,2.8,2.5,3.33,2.82
+2025-08-02,League One,2025-26,Blackpool,Stevenage,2,3,2,2,1,4,0,0,5,4,5,0,1,1,1.9,3.5,3.75,1.87,3.63,4.02
+2025-08-02,League One,2025-26,Cardiff,Peterboro,2,1,4,2,3,1,0,0,3,6,4,0,1,1,1.55,4.2,5.25,1.57,4.32,5.5
+2025-08-02,League One,2025-26,Doncaster,Exeter,1,0,7,1,0,0,0,0,1,8,0,0,0,0,1.85,3.5,4.1,1.83,3.57,4.29
+2025-08-03,League One,2025-26,Stockport,Bolton,2,0,9,7,2,1,0,0,2,16,3,0,0,0,1.91,3.5,3.8,1.96,3.53,3.79
+2025-08-07,League One,2025-26,Port Vale,Cardiff,0,0,5,4,3,1,0,0,0,9,4,0,0,0,2.6,3.4,2.6,2.84,3.5,2.5
+2025-08-09,League One,2025-26,Mansfield,Doncaster,1,2,2,5,2,1,0,0,3,7,3,0,1,1,2.45,3.4,2.75,2.52,3.24,2.87
+2025-08-09,League One,2025-26,Wycombe,Stockport,1,2,8,4,3,1,0,0,3,12,4,0,1,1,2.5,3.25,2.8,2.54,3.25,2.83
+2025-08-09,League One,2025-26,Stevenage,Rotherham,1,0,5,5,3,2,0,0,1,10,5,0,0,0,1.8,3.5,4.5,1.78,3.59,4.61
+2025-08-09,League One,2025-26,Northampton,Bradford,0,0,6,3,2,5,0,0,0,9,7,0,0,0,3.0,3.2,2.35,2.91,3.15,2.54
+2025-08-09,League One,2025-26,Leyton Orient,Wigan,2,0,2,3,0,1,0,1,2,5,1,1,0,0,2.05,3.4,3.6,2.11,3.38,3.49
+2025-08-09,League One,2025-26,Reading,Huddersfield,0,2,4,10,4,2,0,0,2,14,6,0,0,0,3.0,3.5,2.25,3.06,3.44,2.28
+2025-08-09,League One,2025-26,Bolton,Plymouth,2,0,8,3,2,4,0,0,2,11,6,0,0,0,1.67,3.9,4.75,1.65,3.98,4.91
+2025-08-09,League One,2025-26,Barnsley,Burton,3,2,7,4,3,1,0,0,5,11,4,0,1,1,1.7,3.8,4.75,1.7,3.77,4.8
+2025-08-09,League One,2025-26,AFC Wimbledon,Lincoln,2,0,6,3,0,0,0,1,2,9,0,1,0,0,3.0,3.25,2.38,3.17,3.11,2.4
+2025-08-09,League One,2025-26,Peterboro,Luton,0,2,3,6,2,2,0,0,2,9,4,0,0,0,4.0,3.7,1.85,3.87,3.8,1.86
+2025-08-09,League One,2025-26,Exeter,Blackpool,4,1,6,5,1,1,0,0,5,11,2,0,1,1,3.4,3.3,2.15,3.31,3.5,2.13
+2025-08-16,League One,2025-26,Leyton Orient,Stockport,2,2,6,4,2,2,0,0,4,10,4,0,1,1,2.8,3.25,2.45,2.97,3.17,2.48
+2025-08-16,League One,2025-26,Wigan,Peterboro,2,0,3,10,1,2,0,0,2,13,3,0,0,0,1.95,3.5,3.6,1.97,3.47,3.81
+2025-08-16,League One,2025-26,Stevenage,Northampton,2,0,2,6,2,0,0,0,2,8,2,0,0,0,1.67,3.4,5.5,1.66,3.61,5.48
+2025-08-16,League One,2025-26,Reading,AFC Wimbledon,1,2,3,5,1,1,0,0,3,8,2,0,1,1,2.05,3.3,3.5,2.09,3.33,3.59
+2025-08-16,League One,2025-26,Lincoln,Plymouth,3,2,4,6,6,3,0,1,5,10,9,1,1,1,2.0,3.25,3.75,2.02,3.32,3.85
+2025-08-16,League One,2025-26,Doncaster,Wycombe,1,1,6,3,3,2,0,0,2,9,5,0,1,0,2.38,3.3,2.88,2.5,3.24,2.89
+2025-08-16,League One,2025-26,Exeter,Mansfield,1,2,3,4,2,1,0,0,3,7,3,0,1,1,2.63,3.25,2.63,2.64,3.39,2.62
+2025-08-16,League One,2025-26,Bradford,Luton,2,1,2,9,2,2,0,0,3,11,4,0,1,1,3.3,3.3,2.15,3.47,3.29,2.15
+2025-08-16,League One,2025-26,Blackpool,Huddersfield,3,2,1,7,0,2,1,0,5,8,2,1,1,1,2.7,3.3,2.45,2.81,3.37,2.49
+2025-08-16,League One,2025-26,Barnsley,Bolton,1,1,3,2,2,2,1,0,2,5,4,1,1,0,2.7,3.4,2.45,2.76,3.58,2.42
+2025-08-16,League One,2025-26,Burton,Port Vale,0,0,9,3,4,1,0,1,0,12,5,1,0,0,3.0,3.3,2.25,3.08,3.29,2.34
+2025-08-16,League One,2025-26,Cardiff,Rotherham,3,0,7,0,2,3,0,0,3,7,5,0,0,1,1.7,3.75,4.75,1.67,3.94,4.79
+2025-08-19,League One,2025-26,Wycombe,Exeter,0,1,6,7,4,3,0,0,1,13,7,0,0,0,1.65,4.0,4.75,1.66,4.13,5.05
+2025-08-19,League One,2025-26,Stockport,Bradford,1,2,8,8,1,2,0,0,3,16,3,0,1,1,2.05,3.4,3.5,2.07,3.51,3.68
+2025-08-19,League One,2025-26,Port Vale,Stevenage,1,2,4,2,1,2,0,0,3,6,3,0,1,1,2.45,3.0,3.0,2.53,3.08,3.14
+2025-08-19,League One,2025-26,Plymouth,Leyton Orient,0,1,4,2,1,2,0,0,1,6,3,0,0,0,2.7,3.3,2.5,2.82,3.5,2.51
+2025-08-19,League One,2025-26,Peterboro,Barnsley,0,1,2,5,1,3,0,0,1,7,4,0,0,0,3.0,3.6,2.15,2.98,3.78,2.28
+2025-08-19,League One,2025-26,Mansfield,Blackpool,2,0,4,0,0,0,0,0,2,4,0,0,0,0,2.55,3.3,2.63,2.55,3.41,2.82
+2025-08-19,League One,2025-26,Luton,Wigan,1,0,8,4,1,2,0,0,1,12,3,0,0,0,1.6,3.75,5.5,1.64,3.8,5.93
+2025-08-19,League One,2025-26,Huddersfield,Doncaster,2,0,7,6,3,3,0,0,2,13,6,0,0,0,1.9,3.8,3.6,1.89,3.85,3.97
+2025-08-19,League One,2025-26,AFC Wimbledon,Cardiff,0,1,5,2,2,2,0,0,1,7,4,0,0,0,3.3,3.4,2.1,3.45,3.49,2.16
+2025-08-19,League One,2025-26,Northampton,Lincoln,0,1,6,1,3,4,0,0,1,7,7,0,0,0,3.3,3.4,2.15,3.41,3.43,2.2
+2025-08-20,League One,2025-26,Bolton,Reading,1,1,3,1,0,5,0,0,2,4,5,0,1,0,1.57,4.1,5.25,1.56,4.17,5.58
+2025-08-23,League One,2025-26,Plymouth,Blackpool,1,0,4,4,1,3,0,0,1,8,4,0,0,0,2.6,3.3,2.6,2.66,3.38,2.61
+2025-08-23,League One,2025-26,Wycombe,Reading,2,2,5,8,1,3,0,0,4,13,4,0,1,1,1.8,3.4,4.5,1.81,3.62,4.34
+2025-08-23,League One,2025-26,Stockport,Burton,2,1,4,8,3,0,1,0,3,12,3,1,1,1,1.53,4.1,5.75,1.52,4.17,6.01
+2025-08-23,League One,2025-26,Port Vale,Doncaster,0,1,7,6,1,2,0,0,1,13,3,0,0,0,2.8,3.0,2.6,2.76,3.17,2.66
+2025-08-23,League One,2025-26,Peterboro,Bradford,1,1,8,6,1,1,0,0,2,14,2,0,1,0,3.5,3.7,1.95,3.63,3.67,1.96
+2025-08-23,League One,2025-26,Northampton,Exeter,2,0,1,4,0,4,0,0,2,5,4,0,0,0,2.35,3.1,3.1,2.45,3.12,3.07
+2025-08-23,League One,2025-26,Huddersfield,Stevenage,1,0,7,4,2,1,0,0,1,11,3,0,0,0,1.95,3.3,3.9,2.0,3.29,3.95
+2025-08-23,League One,2025-26,Bolton,Lincoln,1,1,13,2,2,2,0,0,2,15,4,0,1,0,1.7,3.5,5.0,1.72,3.74,4.75
+2025-08-23,League One,2025-26,AFC Wimbledon,Barnsley,2,0,3,3,2,1,0,0,2,6,3,0,0,0,2.9,3.4,2.3,2.85,3.46,2.41
+2025-08-23,League One,2025-26,Rotherham,Wigan,2,2,4,6,1,3,0,0,4,10,4,0,1,1,3.0,3.2,2.35,2.99,3.26,2.42
+2025-08-23,League One,2025-26,Luton,Cardiff,0,1,5,8,2,1,0,0,1,13,3,0,0,0,2.0,3.3,3.7,2.04,3.46,3.62
+2025-08-23,League One,2025-26,Mansfield,Leyton Orient,4,1,7,7,2,0,0,1,5,14,2,1,1,1,2.75,3.4,2.4,2.8,3.4,2.48
+2025-08-30,League One,2025-26,Reading,Port Vale,1,0,2,6,2,2,0,0,1,8,4,0,0,0,2.45,3.5,2.57,2.6,3.32,2.71
+2025-08-30,League One,2025-26,Wigan,Stockport,1,1,2,3,1,2,0,0,2,5,3,0,1,0,2.7,3.1,2.57,2.73,3.19,2.67
+2025-08-30,League One,2025-26,Stevenage,Wycombe,1,0,5,2,2,2,0,0,1,7,4,0,0,0,2.25,3.3,3.0,2.4,3.1,3.17
+2025-08-30,League One,2025-26,Lincoln,Mansfield,1,1,3,11,6,2,1,0,2,14,8,1,1,0,2.2,3.6,2.85,2.28,3.29,3.2
+2025-08-30,League One,2025-26,Leyton Orient,Northampton,0,1,6,6,5,0,0,0,1,12,5,0,0,0,1.68,3.8,4.5,1.72,3.6,4.94
+2025-08-30,League One,2025-26,Exeter,Peterboro,3,0,5,5,3,2,0,0,3,10,5,0,0,1,2.1,3.8,3.0,2.2,3.54,3.15
+2025-08-30,League One,2025-26,Bradford,AFC Wimbledon,3,2,7,2,0,1,0,0,5,9,1,0,1,1,1.68,3.6,4.75,1.78,3.49,4.76
+2025-08-30,League One,2025-26,Blackpool,Bolton,1,1,0,5,1,2,0,0,2,5,3,0,1,0,3.2,3.2,2.2,3.14,3.45,2.24
+2025-08-30,League One,2025-26,Barnsley,Huddersfield,3,1,3,6,1,2,0,1,4,9,3,1,1,1,2.5,3.75,2.35,2.72,3.46,2.52
+2025-08-30,League One,2025-26,Doncaster,Rotherham,1,0,2,6,3,1,0,0,1,8,4,0,0,0,1.66,4.0,4.33,1.71,3.73,5.07
+2025-08-30,League One,2025-26,Cardiff,Plymouth,4,0,5,5,3,1,0,0,4,10,4,0,0,1,1.49,4.5,5.5,1.54,4.35,5.8
+2025-08-30,League One,2025-26,Burton,Luton,0,3,6,4,0,1,0,0,3,10,1,0,0,1,4.5,3.9,1.66,4.5,3.76,1.75
+2025-09-06,League One,2025-26,Port Vale,Leyton Orient,2,3,5,2,1,3,0,0,5,7,4,0,1,1,2.05,3.5,3.0,2.24,3.58,3.04
+2025-09-06,League One,2025-26,Rotherham,Exeter,1,0,9,5,1,0,0,0,1,14,1,0,0,0,2.1,3.3,3.1,2.22,3.33,3.29
+2025-09-06,League One,2025-26,Plymouth,Stockport,4,2,8,7,2,1,0,0,6,15,3,0,1,1,3.3,3.5,1.93,3.07,3.51,2.25
+2025-09-06,League One,2025-26,Wycombe,Mansfield,2,0,7,5,3,3,0,0,2,12,6,0,0,0,1.93,3.6,3.3,2.05,3.58,3.45
+2025-09-06,League One,2025-26,Huddersfield,Peterboro,3,2,1,3,1,1,0,0,5,4,2,0,1,1,1.46,4.2,5.25,1.56,4.12,5.63
+2025-09-06,League One,2025-26,Doncaster,Bradford,3,1,3,7,0,2,0,0,4,10,2,0,1,1,2.15,3.3,3.1,2.33,3.34,3.07
+2025-09-06,League One,2025-26,Bolton,AFC Wimbledon,3,0,8,2,2,1,0,2,3,10,3,2,0,1,1.46,3.9,6.25,1.52,4.08,6.3
+2025-09-06,League One,2025-26,Lincoln,Wigan,2,2,7,11,3,0,1,1,4,18,3,2,1,1,2.3,3.1,3.0,2.47,3.17,2.99
+2025-09-13,League One,2025-26,Wigan,Doncaster,3,0,10,10,2,1,0,0,3,20,3,0,0,1,2.3,3.5,2.82,2.39,3.27,3.03
+2025-09-13,League One,2025-26,Stockport,Cardiff,1,1,7,2,0,1,0,0,2,9,1,0,1,0,2.65,3.5,2.45,2.7,3.44,2.54
+2025-09-13,League One,2025-26,Luton,Plymouth,2,3,16,3,2,3,0,1,5,19,5,1,1,1,1.49,4.2,6.0,1.51,4.47,5.71
+2025-09-13,League One,2025-26,Peterboro,Wycombe,2,1,3,3,3,1,0,0,3,6,4,0,1,1,3.25,3.5,2.1,3.14,3.59,2.18
+2025-09-13,League One,2025-26,Mansfield,Stevenage,1,1,3,9,2,4,0,0,2,12,6,0,1,0,2.4,3.25,2.75,2.52,3.13,2.95
+2025-09-13,League One,2025-26,Leyton Orient,Bolton,1,1,3,8,3,2,0,0,2,11,5,0,1,0,3.1,3.6,2.15,3.22,3.45,2.2
+2025-09-13,League One,2025-26,Northampton,Blackpool,1,0,5,5,1,1,0,0,1,10,2,0,0,0,2.57,3.4,2.57,2.61,3.29,2.72
+2025-09-13,League One,2025-26,Burton,Lincoln,0,1,6,3,2,3,0,0,1,9,5,0,0,0,2.75,3.5,2.35,2.76,3.32,2.55
+2025-09-13,League One,2025-26,Barnsley,Reading,3,2,5,4,3,5,0,0,5,9,8,0,1,1,1.76,3.8,4.2,1.8,3.95,3.99
+2025-09-13,League One,2025-26,AFC Wimbledon,Rotherham,2,1,5,5,2,3,0,0,3,10,5,0,1,1,2.15,3.4,3.25,2.19,3.36,3.33
+2025-09-13,League One,2025-26,Bradford,Huddersfield,3,1,5,11,1,5,0,0,4,16,6,0,1,1,2.5,3.4,2.65,2.6,3.4,2.66
+2025-09-13,League One,2025-26,Exeter,Port Vale,0,2,8,2,1,2,0,0,2,10,3,0,0,0,2.82,3.4,2.32,2.99,3.41,2.34
+2025-09-20,League One,2025-26,Stevenage,Exeter,2,1,6,3,1,1,0,0,3,9,2,0,1,1,1.76,3.4,4.5,1.83,3.41,4.6
+2025-09-20,League One,2025-26,Rotherham,Stockport,0,1,1,4,3,2,0,0,1,5,5,0,0,0,3.3,3.5,2.01,3.45,3.6,2.04
+2025-09-20,League One,2025-26,Reading,Leyton Orient,2,1,2,6,5,3,0,0,3,8,8,0,1,1,2.55,3.3,2.55,2.55,3.34,2.75
+2025-09-20,League One,2025-26,Port Vale,Mansfield,2,1,7,0,2,1,0,1,3,7,3,1,1,1,2.05,3.2,3.5,2.13,3.45,3.37
+2025-09-20,League One,2025-26,Plymouth,Peterboro,0,1,7,1,3,2,0,0,1,8,5,0,0,0,1.86,3.6,3.75,1.86,3.72,3.95
+2025-09-20,League One,2025-26,Cardiff,Bradford,1,3,4,7,4,4,0,0,4,11,8,0,1,1,1.79,3.5,4.2,1.84,3.75,4.02
+2025-09-20,League One,2025-26,Doncaster,AFC Wimbledon,1,2,2,6,1,2,0,0,3,8,3,0,1,1,1.76,3.3,4.75,1.8,3.39,4.79
+2025-09-20,League One,2025-26,Lincoln,Luton,3,1,2,7,1,5,0,0,4,9,6,0,1,1,3.5,3.2,2.05,3.61,3.22,2.13
+2025-09-20,League One,2025-26,Bolton,Wigan,4,1,4,16,0,1,0,0,5,20,1,0,1,1,1.68,3.6,4.75,1.76,3.79,4.39
+2025-09-20,League One,2025-26,Blackpool,Barnsley,1,0,7,3,2,1,0,0,1,10,3,0,0,0,2.4,3.5,2.55,2.58,3.63,2.55
+2025-09-20,League One,2025-26,Wycombe,Northampton,2,0,6,3,1,1,0,0,2,9,2,0,0,0,1.76,3.4,4.5,1.85,3.39,4.49
+2025-09-20,League One,2025-26,Huddersfield,Burton,0,0,15,5,0,1,0,0,0,20,1,0,0,0,1.57,3.9,5.0,1.63,3.98,5.12
+2025-09-27,League One,2025-26,Peterboro,Lincoln,0,3,1,0,0,2,0,0,3,1,2,0,0,1,2.75,3.3,2.35,2.81,3.29,2.54
+2025-09-27,League One,2025-26,Mansfield,Rotherham,2,1,4,2,3,4,0,0,3,6,7,0,1,1,1.81,3.6,3.9,1.9,3.64,3.9
+2025-09-27,League One,2025-26,Wigan,Cardiff,0,2,7,5,1,1,1,0,2,12,2,1,0,0,2.65,3.3,2.45,2.71,3.33,2.6
+2025-09-27,League One,2025-26,Stockport,Reading,1,1,5,3,1,1,0,0,2,8,2,0,1,0,1.62,3.9,4.75,1.65,3.94,5.02
+2025-09-27,League One,2025-26,Luton,Doncaster,1,0,6,3,2,1,0,0,1,9,3,0,0,0,1.68,3.7,4.5,1.72,3.84,4.59
+2025-09-27,League One,2025-26,Northampton,Bolton,2,0,4,10,2,1,0,0,2,14,3,0,0,0,4.33,3.6,1.76,4.32,3.69,1.79
+2025-09-27,League One,2025-26,Burton,Plymouth,0,4,6,5,0,1,0,0,4,11,1,0,0,1,2.5,3.3,2.55,2.61,3.38,2.66
+2025-09-27,League One,2025-26,Bradford,Blackpool,1,0,3,5,3,0,0,0,1,8,3,0,0,0,1.91,3.4,3.7,1.98,3.63,3.61
+2025-09-27,League One,2025-26,Exeter,Huddersfield,0,1,5,8,3,1,0,0,1,13,4,0,0,0,3.2,3.5,2.05,3.2,3.56,2.16
+2025-09-27,League One,2025-26,Barnsley,Port Vale,0,2,4,3,1,2,0,0,2,7,3,0,0,0,2.01,3.5,3.25,2.14,3.49,3.3
+2025-09-27,League One,2025-26,Leyton Orient,Stevenage,2,3,6,7,0,1,0,0,5,13,1,0,1,1,2.5,3.2,2.65,2.63,3.27,2.81
+2025-09-27,League One,2025-26,AFC Wimbledon,Wycombe,2,1,0,7,0,0,0,0,3,7,0,0,1,1,2.75,3.2,2.5,2.85,3.28,2.58
+2025-09-30,League One,2025-26,Blackpool,Luton,2,2,3,8,2,1,0,0,4,11,3,0,1,1,3.2,3.3,2.1,3.43,3.35,2.2
+2025-09-30,League One,2025-26,Cardiff,Burton,0,1,8,3,2,4,0,0,1,11,6,0,0,0,1.37,4.33,7.0,1.45,4.8,6.53
+2025-10-02,League One,2025-26,Rotherham,Bradford,2,2,5,4,4,4,0,0,4,9,8,0,1,1,3.6,3.4,1.96,3.48,3.51,2.07
+2025-10-04,League One,2025-26,Stevenage,Luton,2,0,1,5,3,1,0,0,2,6,4,0,0,0,2.7,3.1,2.5,2.82,3.24,2.55
+2025-10-04,League One,2025-26,Reading,Mansfield,1,1,4,5,2,1,0,0,2,9,3,0,1,0,2.3,3.3,2.85,2.57,3.26,2.78
+2025-10-04,League One,2025-26,Port Vale,Northampton,0,0,3,4,2,1,0,0,0,7,3,0,0,0,1.76,3.5,4.33,1.77,3.63,4.57
+2025-10-04,League One,2025-26,Lincoln,Exeter,0,1,7,2,0,2,0,0,1,9,2,0,0,0,1.57,3.8,5.0,1.61,3.82,5.55
+2025-10-04,League One,2025-26,Huddersfield,Stockport,1,2,10,2,2,1,0,1,3,12,3,1,1,1,2.15,3.5,3.0,2.26,3.39,3.15
+2025-10-04,League One,2025-26,Plymouth,Wigan,1,1,7,5,2,5,0,0,2,12,7,0,1,0,2.4,3.25,2.7,2.6,3.36,2.68
+2025-10-04,League One,2025-26,Bolton,Peterboro,2,1,7,1,2,3,0,0,3,8,5,0,1,1,1.41,4.5,6.0,1.45,4.59,6.43
+2025-10-04,League One,2025-26,Blackpool,AFC Wimbledon,0,2,1,2,3,1,0,0,2,3,4,0,0,0,1.96,3.3,3.7,2.08,3.32,3.64
+2025-10-04,League One,2025-26,Wycombe,Barnsley,2,2,11,4,1,2,0,0,4,15,3,0,1,1,1.91,3.6,3.5,1.96,3.69,3.63
+2025-10-04,League One,2025-26,Doncaster,Burton,1,1,5,10,1,1,0,0,2,15,2,0,1,0,1.66,3.75,4.5,1.74,3.78,4.56
+2025-10-04,League One,2025-26,Cardiff,Leyton Orient,4,3,6,8,2,2,0,0,7,14,4,0,1,1,1.62,3.9,4.75,1.63,3.88,5.26
+2025-10-11,League One,2025-26,Wigan,Wycombe,0,1,3,1,1,2,0,0,1,4,3,0,0,0,2.4,3.25,2.75,2.56,3.4,2.7
+2025-10-11,League One,2025-26,Stockport,Blackpool,1,0,4,4,0,2,0,0,1,8,2,0,0,0,1.68,3.6,4.5,1.74,3.77,4.57
+2025-10-11,League One,2025-26,Leyton Orient,Doncaster,4,0,4,5,1,1,0,0,4,9,2,0,0,1,2.15,3.5,3.0,2.19,3.65,3.09
+2025-10-11,League One,2025-26,Exeter,Reading,1,1,5,5,1,1,0,0,2,10,2,0,1,0,3.0,3.3,2.25,2.61,3.42,2.64
+2025-10-11,League One,2025-26,AFC Wimbledon,Port Vale,1,1,5,11,2,2,0,0,2,16,4,0,1,0,2.55,3.1,2.65,2.72,3.06,2.79
+2025-10-11,League One,2025-26,Northampton,Rotherham,1,2,4,4,3,2,0,0,3,8,5,0,1,1,2.01,3.3,3.5,2.07,3.37,3.62
+2025-10-11,League One,2025-26,Burton,Bolton,3,0,2,5,1,2,0,0,3,7,3,0,0,1,4.33,3.9,1.66,4.41,4.12,1.69
+2025-10-16,League One,2025-26,Huddersfield,Bolton,1,2,6,8,1,4,0,0,3,14,5,0,1,1,2.5,3.25,2.65,2.57,3.46,2.77
+2025-10-18,League One,2025-26,Plymouth,AFC Wimbledon,1,2,10,2,0,3,0,0,3,12,3,0,1,1,2.01,3.25,3.6,2.06,3.34,3.67
+2025-10-18,League One,2025-26,Wigan,Port Vale,1,0,4,7,1,2,1,0,1,11,3,1,0,0,2.5,3.05,2.75,2.5,3.29,2.85
+2025-10-18,League One,2025-26,Stockport,Exeter,1,0,4,3,1,1,0,0,1,7,2,0,0,0,1.41,4.2,7.0,1.42,4.84,6.52
+2025-10-18,League One,2025-26,Rotherham,Leyton Orient,1,0,2,12,3,3,0,0,1,14,6,0,0,0,2.85,3.4,2.25,2.98,3.54,2.29
+2025-10-18,League One,2025-26,Luton,Mansfield,0,2,5,1,0,0,0,0,2,6,0,0,0,0,1.57,3.9,5.0,1.62,4.0,5.13
+2025-10-18,League One,2025-26,Blackpool,Wycombe,1,1,2,2,3,0,0,0,2,4,3,0,1,0,2.75,3.3,2.35,2.93,3.23,2.48
+2025-10-18,League One,2025-26,Cardiff,Reading,2,1,4,10,1,0,0,0,3,14,1,0,1,1,1.53,4.0,5.25,1.59,4.26,5.04
+2025-10-18,League One,2025-26,Bradford,Barnsley,2,2,11,11,0,1,0,0,4,22,1,0,1,1,2.01,3.6,3.2,2.06,3.69,3.33
+2025-10-18,League One,2025-26,Lincoln,Stevenage,1,0,1,2,1,1,0,0,1,3,2,0,0,0,2.3,3.25,2.95,2.47,3.12,3.04
+2025-10-18,League One,2025-26,Burton,Peterboro,0,1,6,3,2,2,0,1,1,9,4,1,0,0,2.32,3.4,2.75,2.44,3.69,2.68
+2025-10-18,League One,2025-26,Doncaster,Northampton,1,2,2,7,1,1,0,0,3,9,2,0,1,1,1.76,3.6,4.2,1.78,3.72,4.4
+2025-10-21,League One,2025-26,Reading,Northampton,1,0,8,4,3,0,0,0,1,12,3,0,0,0,1.91,3.5,3.6,2.01,3.48,3.83
+2025-10-23,League One,2025-26,Exeter,Plymouth,2,0,4,4,3,2,0,0,2,8,5,0,0,0,2.75,3.4,2.32,2.91,3.41,2.39
+2025-10-25,League One,2025-26,Wycombe,Huddersfield,3,0,8,1,1,0,0,1,3,9,1,1,0,1,2.05,3.4,3.3,2.12,3.33,3.51
+2025-10-25,League One,2025-26,Stevenage,Bradford,1,1,4,1,3,3,0,0,2,5,6,0,1,0,2.32,3.25,2.85,2.4,3.22,3.05
+2025-10-25,League One,2025-26,Reading,Doncaster,1,1,1,6,1,1,0,0,2,7,2,0,1,0,2.15,3.25,3.2,2.26,3.57,3.0
+2025-10-25,League One,2025-26,Northampton,Luton,0,1,6,10,2,2,0,0,1,16,4,0,0,0,4.2,3.2,1.86,4.15,3.37,1.93
+2025-10-25,League One,2025-26,Peterboro,Blackpool,1,2,9,1,3,4,0,0,3,10,7,0,1,1,2.25,3.3,2.85,2.48,3.36,2.82
+2025-10-25,League One,2025-26,Barnsley,Rotherham,0,1,11,3,4,0,0,0,1,14,4,0,0,0,1.81,3.6,3.9,1.84,3.83,3.93
+2025-10-25,League One,2025-26,AFC Wimbledon,Burton,0,1,9,2,2,3,0,0,1,11,5,0,0,0,1.81,3.3,4.2,1.93,3.4,4.06
+2025-10-25,League One,2025-26,Mansfield,Wigan,1,1,10,3,1,3,0,0,2,13,4,0,1,0,2.35,3.05,2.95,2.44,3.26,2.96
+2025-10-25,League One,2025-26,Bolton,Cardiff,1,0,7,3,2,1,0,0,1,10,3,0,0,0,1.86,3.6,3.6,1.92,3.76,3.69
+2025-10-25,League One,2025-26,Leyton Orient,Lincoln,1,0,5,3,0,2,0,0,1,8,2,0,0,0,2.57,3.25,2.57,2.56,3.3,2.77
+2025-10-27,League One,2025-26,Port Vale,Stockport,0,3,4,5,0,1,0,0,3,9,1,0,0,1,2.57,3.2,2.57,2.67,3.23,2.7
+2025-10-28,League One,2025-26,Bradford,Lincoln,0,0,2,2,2,0,0,0,0,4,2,0,0,0,2.1,3.3,3.4,2.35,3.32,3.04
+2025-10-28,League One,2025-26,Mansfield,Plymouth,2,0,7,4,1,2,0,0,2,11,3,0,0,0,2.05,3.5,3.4,2.27,3.61,2.97
+2025-11-04,League One,2025-26,Rotherham,Burton,2,2,5,3,0,3,0,0,4,8,3,0,1,1,2.15,3.4,2.95,,,
+2025-11-06,League One,2025-26,Reading,Stevenage,1,0,4,7,3,4,0,0,1,11,7,0,0,0,2.75,3.25,2.45,,,
+2025-11-08,League One,2025-26,Huddersfield,Plymouth,3,1,11,3,2,6,0,0,4,14,8,0,1,1,1.79,3.6,4.0,,,
+2025-11-08,League One,2025-26,Rotherham,Lincoln,3,0,4,6,1,1,0,0,3,10,2,0,0,1,3.4,3.3,2.05,,,
+2025-11-08,League One,2025-26,Stockport,Luton,0,3,5,3,0,4,1,0,3,8,4,1,0,1,2.05,3.25,3.5,,,
+2025-11-08,League One,2025-26,Peterboro,AFC Wimbledon,5,0,3,5,2,1,0,0,5,8,3,0,0,1,2.5,3.25,2.65,,,
+2025-11-08,League One,2025-26,Exeter,Wigan,1,1,8,4,1,1,0,0,2,12,2,0,1,0,2.82,3.2,2.4,,,
+2025-11-08,League One,2025-26,Wycombe,Leyton Orient,4,1,5,5,3,3,0,0,5,10,6,0,1,1,1.76,3.6,4.1,,,
+2025-11-08,League One,2025-26,Bradford,Burton,1,2,7,2,2,4,0,0,3,9,6,0,1,1,1.62,3.7,4.75,,,
+2025-11-08,League One,2025-26,Bolton,Port Vale,4,0,7,5,1,2,0,0,4,12,3,0,0,1,1.66,3.75,4.75,,,
+2025-11-08,League One,2025-26,Blackpool,Cardiff,3,1,5,7,2,2,0,0,4,12,4,0,1,1,3.5,3.4,1.96,,,
+2025-11-08,League One,2025-26,Northampton,Mansfield,2,1,5,4,1,0,0,0,3,9,1,0,1,1,3.3,3.25,2.1,,,
+2025-11-08,League One,2025-26,Doncaster,Barnsley,1,2,5,8,1,3,0,0,3,13,4,0,1,1,2.15,3.5,2.95,,,
+2025-11-15,League One,2025-26,Burton,Blackpool,1,0,7,5,3,4,0,0,1,12,7,0,0,0,2.15,3.5,2.95,,,
+2025-11-15,League One,2025-26,Leyton Orient,Exeter,2,1,10,3,3,2,0,0,3,13,5,0,1,1,1.76,3.75,4.0,,,
+2025-11-15,League One,2025-26,Lincoln,Doncaster,2,1,3,1,2,3,0,0,3,4,5,0,1,1,2.01,3.25,3.6,,,
+2025-11-15,League One,2025-26,Luton,Rotherham,0,0,3,4,1,1,0,0,0,7,2,0,0,0,1.49,3.9,6.0,,,
+2025-11-15,League One,2025-26,Port Vale,Wycombe,0,0,7,6,6,1,0,0,0,13,7,0,0,0,2.57,3.3,2.5,,,
+2025-11-20,League One,2025-26,Peterboro,Stockport,3,0,3,6,1,1,0,0,3,9,2,0,0,1,3.05,3.5,2.1,,,
+2025-11-22,League One,2025-26,Wycombe,Lincoln,3,2,1,7,2,1,0,0,5,8,3,0,1,1,1.86,3.6,3.8,,,
+2025-11-22,League One,2025-26,Stevenage,Doncaster,0,0,4,4,1,2,0,0,0,8,3,0,0,0,1.91,3.3,4.0,,,
+2025-11-22,League One,2025-26,Reading,Rotherham,1,1,4,3,2,3,0,0,2,7,5,0,1,0,1.79,3.75,4.0,,,
+2025-11-22,League One,2025-26,Northampton,Cardiff,1,3,6,2,0,2,0,0,4,8,2,0,1,1,3.4,3.5,2.01,,,
+2025-11-22,League One,2025-26,Mansfield,Huddersfield,1,3,4,4,1,1,0,0,4,8,2,0,1,1,2.35,3.3,2.85,,,
+2025-11-22,League One,2025-26,Bolton,Bradford,0,0,4,4,3,3,0,0,0,8,6,0,0,0,1.71,3.9,4.1,,,
+2025-11-22,League One,2025-26,Barnsley,Luton,5,0,2,4,2,2,0,0,5,6,4,0,0,1,3.05,3.4,2.15,,,
+2025-11-22,League One,2025-26,AFC Wimbledon,Wigan,1,2,3,4,2,1,0,0,3,7,3,0,1,1,2.85,2.95,2.55,,,
+2025-11-22,League One,2025-26,Port Vale,Plymouth,0,1,8,2,1,3,0,0,1,10,4,0,0,0,1.91,3.3,4.0,,,
+2025-11-22,League One,2025-26,Leyton Orient,Blackpool,1,1,3,9,3,3,1,0,2,12,6,1,1,0,1.76,3.9,4.2,,,
+2025-11-25,League One,2025-26,Luton,Huddersfield,2,1,12,7,0,1,0,0,3,19,1,0,1,1,2.15,3.3,3.2,2.06,3.27,3.78
+2025-11-25,League One,2025-26,Peterboro,Stevenage,0,1,4,3,3,2,0,0,1,7,5,0,0,0,2.45,3.05,2.85,3.5,3.26,2.16
+2025-11-29,League One,2025-26,Lincoln,Port Vale,1,0,3,5,3,2,0,0,1,8,5,0,0,0,1.96,3.3,3.7,,,
+2025-11-29,League One,2025-26,Rotherham,Wycombe,1,1,6,5,3,2,0,0,2,11,5,0,1,0,4.33,3.4,1.76,,,
+2025-11-29,League One,2025-26,Plymouth,Northampton,0,3,4,8,1,5,1,0,3,12,6,1,0,1,2.01,3.25,3.6,,,
+2025-11-29,League One,2025-26,Luton,Bolton,1,1,13,2,1,1,0,1,2,15,2,1,1,0,2.45,3.4,2.65,,,
+2025-11-29,League One,2025-26,Wigan,Stevenage,0,0,3,7,0,1,0,0,0,10,1,0,0,0,2.15,2.95,3.4,,,
+2025-11-29,League One,2025-26,Huddersfield,AFC Wimbledon,3,3,11,2,2,2,0,0,6,13,4,0,1,1,1.68,3.4,5.0,,,
+2025-11-29,League One,2025-26,Burton,Leyton Orient,0,4,2,6,3,0,0,0,4,8,3,0,0,1,2.65,3.3,2.45,,,
+2025-11-29,League One,2025-26,Cardiff,Mansfield,3,0,6,4,1,1,0,0,3,10,2,0,0,1,1.79,3.6,4.1,,,
+2025-11-29,League One,2025-26,Bradford,Exeter,1,0,7,7,3,2,0,0,1,14,5,0,0,0,1.62,3.7,5.0,,,
+2025-11-29,League One,2025-26,Stockport,Barnsley,1,1,4,6,0,1,0,0,2,10,1,0,1,0,1.91,3.5,3.6,,,
+2025-11-29,League One,2025-26,Blackpool,Reading,0,3,2,5,1,0,0,0,3,7,1,0,0,1,2.5,3.4,2.55,,,
+2025-11-29,League One,2025-26,Doncaster,Peterboro,2,1,3,4,5,2,0,0,3,7,7,0,1,1,2.15,3.4,3.2,,,
+2025-12-02,League One,2025-26,Wigan,Burton,1,0,7,7,1,1,0,0,1,14,2,0,0,0,1.71,3.5,4.5,,,
+2025-12-06,League One,2025-26,Cardiff,Huddersfield,3,2,4,9,2,1,0,0,5,13,3,0,1,1,2.05,3.6,3.2,,,
+2025-12-06,League One,2025-26,Plymouth,Bradford,0,1,5,2,1,3,0,0,1,7,4,0,0,0,2.95,3.5,2.1,,,
+2025-12-09,League One,2025-26,Stevenage,Cardiff,0,1,4,6,4,1,0,0,1,10,5,0,0,0,2.75,3.2,2.4,,,
+2025-12-09,League One,2025-26,Reading,Peterboro,1,2,5,3,1,3,0,0,3,8,4,0,1,1,2.15,3.25,3.05,,,
+2025-12-09,League One,2025-26,Wycombe,Plymouth,0,1,6,2,0,6,0,0,1,8,6,0,0,0,1.56,3.9,5.25,,,
+2025-12-09,League One,2025-26,Northampton,Huddersfield,1,1,5,1,0,0,0,0,2,6,0,0,1,0,3.3,3.4,2.05,,,
+2025-12-09,League One,2025-26,Lincoln,Barnsley,3,1,7,8,0,1,0,0,4,15,1,0,1,1,1.86,3.5,3.9,,,
+2025-12-09,League One,2025-26,Leyton Orient,Luton,1,1,2,2,1,2,0,0,2,4,3,0,1,0,2.57,3.25,2.5,,,
+2025-12-09,League One,2025-26,Exeter,AFC Wimbledon,1,0,6,4,2,0,0,0,1,10,2,0,0,0,2.3,3.2,2.95,,,
+2025-12-09,League One,2025-26,Doncaster,Stockport,0,2,5,9,4,2,0,0,2,14,6,0,0,0,2.55,3.25,2.57,,,
+2025-12-09,League One,2025-26,Mansfield,Bolton,0,1,3,5,0,1,1,0,1,8,1,1,0,0,4.5,3.75,1.66,,,
+2025-12-10,League One,2025-26,Rotherham,Blackpool,0,3,10,3,1,3,0,0,3,13,4,0,0,1,2.25,3.05,3.05,,,
+2025-12-13,League One,2025-26,Cardiff,Doncaster,4,3,4,2,2,2,0,0,7,6,4,0,1,1,1.76,3.8,3.9,,,
+2025-12-13,League One,2025-26,Plymouth,Rotherham,1,0,1,12,3,2,0,0,1,13,5,0,0,0,1.96,3.5,3.4,,,
+2025-12-13,League One,2025-26,Peterboro,Northampton,2,1,4,8,3,0,0,1,3,12,3,1,1,1,2.01,3.3,3.5,,,
+2025-12-13,League One,2025-26,Luton,Port Vale,2,2,8,4,1,2,0,0,4,12,3,0,1,1,1.71,3.6,4.5,,,
+2025-12-13,League One,2025-26,Burton,Wycombe,0,0,6,6,0,1,0,0,0,12,1,0,0,0,3.5,3.4,1.96,,,
+2025-12-13,League One,2025-26,Stockport,Stevenage,1,3,5,3,1,2,0,0,4,8,3,0,1,1,1.81,3.25,4.2,,,
+2025-12-13,League One,2025-26,Bolton,Exeter,2,1,6,2,0,4,0,0,3,8,4,0,1,1,1.41,4.5,6.25,,,
+2025-12-13,League One,2025-26,Blackpool,Lincoln,2,2,8,6,1,2,0,0,4,14,3,0,1,1,3.05,3.3,2.2,,,
+2025-12-13,League One,2025-26,Barnsley,Leyton Orient,3,2,8,3,1,3,0,0,5,11,4,0,1,1,2.1,3.6,2.95,,,
+2025-12-13,League One,2025-26,Huddersfield,Wigan,1,1,6,3,2,2,0,0,2,9,4,0,1,0,2.01,3.4,3.4,,,
+2025-12-13,League One,2025-26,AFC Wimbledon,Mansfield,0,0,7,2,2,3,0,0,0,9,5,0,0,0,2.3,3.3,2.85,,,
+2025-12-13,League One,2025-26,Bradford,Reading,2,0,3,2,1,3,0,0,2,5,4,0,0,0,1.91,3.6,3.6,,,
+2025-12-18,League One,2025-26,Reading,Luton,3,2,0,5,2,1,0,0,5,5,3,0,1,1,2.65,3.4,2.4,,,
+2025-12-19,League One,2025-26,Northampton,AFC Wimbledon,3,1,4,1,2,2,0,0,4,5,4,0,1,1,2.2,3.05,3.3,,,
+2025-12-20,League One,2025-26,Wycombe,Bolton,2,1,5,7,2,0,0,0,3,12,2,0,1,1,2.65,3.3,2.45,,,
+2025-12-20,League One,2025-26,Rotherham,Huddersfield,1,3,5,4,2,1,0,0,4,9,3,0,1,1,3.3,3.4,2.05,,,
+2025-12-20,League One,2025-26,Port Vale,Peterboro,0,1,8,5,3,2,0,0,1,13,5,0,0,0,2.2,3.4,3.05,,,
+2025-12-20,League One,2025-26,Mansfield,Stockport,1,2,5,0,2,2,0,0,3,5,4,0,1,1,3.3,3.4,2.01,,,
+2025-12-20,League One,2025-26,Lincoln,Cardiff,2,1,4,3,3,1,0,0,3,7,4,0,1,1,2.5,3.25,2.65,,,
+2025-12-20,League One,2025-26,Exeter,Barnsley,3,0,6,3,1,2,0,0,3,9,3,0,0,1,3.2,3.5,2.1,,,
+2025-12-20,League One,2025-26,Doncaster,Plymouth,1,5,15,4,2,2,0,0,6,19,4,0,1,1,1.86,3.6,3.75,,,
+2025-12-20,League One,2025-26,Wigan,Blackpool,0,2,6,1,2,4,0,0,2,7,6,0,0,0,1.86,3.2,4.0,,,
+2025-12-20,League One,2025-26,Stevenage,Burton,2,2,5,2,1,1,0,0,4,7,2,0,1,1,1.79,3.3,4.33,,,
+2025-12-20,League One,2025-26,Leyton Orient,Bradford,2,1,2,10,3,3,0,0,3,12,6,0,1,1,2.4,3.3,2.7,,,
+2025-12-26,League One,2025-26,Huddersfield,Port Vale,5,0,6,5,2,2,0,0,5,11,4,0,0,1,1.68,3.6,4.5,,,
+2025-12-26,League One,2025-26,Stockport,Lincoln,1,2,3,3,2,2,0,0,3,6,4,0,1,1,2.1,3.25,3.25,,,
+2025-12-26,League One,2025-26,Peterboro,Leyton Orient,1,0,8,6,2,3,0,0,1,14,5,0,0,0,2.05,3.5,3.2,,,
+2025-12-26,League One,2025-26,Luton,Wycombe,4,0,6,1,0,2,0,0,4,7,2,0,0,1,2.2,3.3,3.05,,,
+2025-12-26,League One,2025-26,Cardiff,Exeter,1,0,5,4,3,1,0,0,1,9,4,0,0,0,1.51,4.0,5.75,,,
+2025-12-26,League One,2025-26,Plymouth,Reading,1,4,5,7,3,3,1,0,5,12,6,1,1,1,2.35,3.5,2.57,,,
+2025-12-26,League One,2025-26,Bradford,Wigan,2,1,7,2,2,1,0,2,3,9,3,2,1,1,1.86,3.4,3.75,,,
+2025-12-26,League One,2025-26,Bolton,Rotherham,2,1,10,0,1,2,0,0,3,10,3,0,1,1,1.35,4.5,7.5,,,
+2025-12-26,League One,2025-26,Blackpool,Doncaster,1,0,5,4,3,3,0,0,1,9,6,0,0,0,2.25,3.5,2.82,,,
+2025-12-26,League One,2025-26,Barnsley,Mansfield,2,3,6,1,0,4,0,0,5,7,4,0,1,1,1.86,3.5,3.75,,,
+2025-12-26,League One,2025-26,AFC Wimbledon,Stevenage,0,0,2,9,1,3,0,0,0,11,4,0,0,0,2.82,2.75,2.65,,,
+2025-12-26,League One,2025-26,Burton,Northampton,5,1,5,7,3,2,0,0,6,12,5,0,1,1,2.2,3.05,3.25,,,
+2025-12-29,League One,2025-26,Stockport,Doncaster,4,2,4,3,3,2,0,0,6,7,5,0,1,1,1.81,3.6,3.9,,,
+2025-12-29,League One,2025-26,Peterboro,Reading,1,1,7,2,2,3,0,0,2,9,5,0,1,0,2.32,3.4,2.85,,,
+2025-12-29,League One,2025-26,Luton,Leyton Orient,3,0,2,9,2,0,0,0,3,11,2,0,0,1,1.66,3.5,4.75,,,
+2025-12-29,League One,2025-26,Huddersfield,Northampton,2,0,8,3,0,3,0,0,2,11,3,0,0,0,1.49,3.75,6.25,,,
+2025-12-29,League One,2025-26,Cardiff,Stevenage,2,1,6,4,1,2,0,0,3,10,3,0,1,1,1.71,3.3,5.0,,,
+2025-12-29,League One,2025-26,Plymouth,Wycombe,1,1,10,6,2,2,0,0,2,16,4,0,1,0,3.3,3.3,2.05,,,
+2025-12-29,League One,2025-26,Bradford,Port Vale,1,0,11,3,3,3,0,0,1,14,6,0,0,0,1.68,3.7,4.5,,,
+2025-12-29,League One,2025-26,Bolton,Mansfield,0,1,14,2,2,3,0,0,1,16,5,0,0,0,1.42,4.2,7.0,,,
+2025-12-29,League One,2025-26,Blackpool,Rotherham,4,0,6,3,1,2,0,1,4,9,3,1,0,1,1.86,3.4,3.9,,,
+2025-12-29,League One,2025-26,Barnsley,Lincoln,0,2,5,2,4,2,0,0,2,7,6,0,0,0,2.65,3.25,2.5,,,
+2025-12-29,League One,2025-26,AFC Wimbledon,Exeter,0,1,7,5,3,4,0,0,1,12,7,0,0,0,2.3,3.2,2.95,,,
+2025-12-29,League One,2025-26,Burton,Wigan,0,2,8,1,0,1,0,0,2,9,1,0,0,0,2.57,3.2,2.55,,,
+2026-01-01,League One,2025-26,Wycombe,Cardiff,1,1,2,2,1,3,0,0,2,4,4,0,1,0,2.65,3.25,2.5,,,
+2026-01-01,League One,2025-26,Wigan,Barnsley,1,1,8,6,1,0,0,1,2,14,1,1,1,0,2.05,3.25,3.4,,,
+2026-01-01,League One,2025-26,Stevenage,Plymouth,1,1,6,5,2,1,0,0,2,11,3,0,1,0,1.91,3.3,3.9,,,
+2026-01-01,League One,2025-26,Rotherham,Peterboro,0,2,5,5,5,1,0,0,2,10,6,0,0,0,2.95,3.3,2.2,,,
+2026-01-01,League One,2025-26,Reading,Burton,2,0,5,3,0,0,0,0,2,8,0,0,0,0,1.91,3.3,3.8,,,
+2026-01-01,League One,2025-26,Port Vale,Blackpool,5,1,5,2,3,3,0,1,6,7,6,1,1,1,2.55,3.05,2.65,,,
+2026-01-01,League One,2025-26,Mansfield,Bradford,3,0,2,4,2,0,0,0,3,6,2,0,0,1,3.4,3.05,2.1,,,
+2026-01-01,League One,2025-26,Lincoln,Huddersfield,1,1,4,3,3,2,0,0,2,7,5,0,1,0,2.4,3.05,2.82,,,
+2026-01-01,League One,2025-26,Leyton Orient,AFC Wimbledon,1,3,3,6,2,1,0,0,4,9,3,0,1,1,1.86,3.3,4.0,,,
+2026-01-01,League One,2025-26,Exeter,Luton,1,0,6,1,3,1,0,0,1,7,4,0,0,0,3.4,3.6,1.96,,,
+2026-01-01,League One,2025-26,Doncaster,Bolton,1,1,3,3,2,3,0,0,2,6,5,0,1,0,3.8,3.6,1.81,,,
+2026-01-01,League One,2025-26,Northampton,Stockport,0,0,5,5,1,3,0,0,0,10,4,0,0,0,3.5,3.3,2.01,,,
+2026-01-04,League One,2025-26,Plymouth,Burton,3,0,9,4,2,2,0,0,3,13,4,0,0,1,2.15,3.3,3.25,,,
+2026-01-04,League One,2025-26,Reading,Stockport,1,0,1,5,1,0,0,0,1,6,1,0,0,0,2.45,3.3,2.65,,,
+2026-01-04,League One,2025-26,Huddersfield,Exeter,2,2,6,5,1,1,0,0,4,11,2,0,1,1,1.62,3.5,5.25,,,
+2026-01-04,League One,2025-26,Wycombe,AFC Wimbledon,2,0,4,2,2,2,0,0,2,6,4,0,0,0,1.79,3.3,4.5,,,
+2026-01-04,League One,2025-26,Blackpool,Bradford,1,2,6,6,0,2,0,0,3,12,2,0,1,1,2.7,3.2,2.5,,,
+2026-01-04,League One,2025-26,Lincoln,Peterboro,5,2,6,7,2,3,0,0,7,13,5,0,1,1,1.86,3.5,4.0,,,
+2026-01-04,League One,2025-26,Bolton,Northampton,0,0,8,3,0,0,0,0,0,11,0,0,0,0,1.35,4.5,8.0,,,
+2026-01-04,League One,2025-26,Cardiff,Wigan,1,0,18,1,0,0,0,0,1,19,0,0,0,0,1.62,3.7,5.0,,,
+2026-01-10,League One,2025-26,Luton,Stevenage,2,1,3,7,1,2,0,0,3,10,3,0,1,1,1.81,3.2,4.5,,,
+2026-01-10,League One,2025-26,Stockport,Huddersfield,1,0,8,2,3,1,0,0,1,10,4,0,0,0,2.4,3.3,2.7,,,
+2026-01-10,League One,2025-26,Leyton Orient,Cardiff,1,1,4,3,1,1,0,0,2,7,2,0,1,0,3.8,3.8,1.79,,,
+2026-01-10,League One,2025-26,Peterboro,Bolton,3,1,5,5,2,0,0,0,4,10,2,0,1,1,2.82,3.6,2.2,,,
+2026-01-17,League One,2025-26,Stockport,Rotherham,3,2,2,4,3,3,0,0,5,6,6,0,1,1,1.46,4.1,6.0,,,
+2026-01-17,League One,2025-26,Peterboro,Plymouth,0,1,8,10,5,4,1,0,1,18,9,1,0,0,1.96,3.6,3.4,,,
+2026-01-17,League One,2025-26,Northampton,Wycombe,1,2,6,6,2,3,0,0,3,12,5,0,1,1,3.2,3.3,2.15,,,
+2026-01-17,League One,2025-26,Mansfield,Port Vale,3,0,3,2,2,0,0,0,3,5,2,0,0,1,2.2,3.4,3.1,,,
+2026-01-17,League One,2025-26,Luton,Lincoln,2,2,8,7,1,5,0,0,4,15,6,0,1,1,2.35,3.0,2.75,,,
+2026-01-17,League One,2025-26,Leyton Orient,Reading,3,1,6,1,3,3,0,0,4,7,6,0,1,1,2.55,3.2,2.65,,,
+2026-01-17,League One,2025-26,Exeter,Stevenage,3,0,1,4,2,2,0,0,3,5,4,0,0,1,2.57,3.0,2.75,,,
+2026-01-17,League One,2025-26,Burton,Huddersfield,3,1,3,8,1,4,0,0,4,11,5,0,1,1,4.0,3.4,1.86,,,
+2026-01-17,League One,2025-26,Barnsley,Blackpool,2,1,3,7,2,2,0,0,3,10,4,0,1,1,2.1,3.4,3.2,,,
+2026-01-17,League One,2025-26,AFC Wimbledon,Doncaster,0,1,7,4,2,2,1,0,1,11,4,1,0,0,2.57,3.25,2.55,,,
+2026-01-17,League One,2025-26,Wigan,Bolton,0,1,1,6,0,1,0,0,1,7,1,0,0,0,3.2,3.3,2.15,,,
+2026-01-17,League One,2025-26,Bradford,Cardiff,1,2,2,2,3,2,0,0,3,4,5,0,1,1,2.75,3.6,2.2,,,
+2026-01-20,League One,2025-26,Stevenage,Bolton,0,0,6,4,0,1,0,0,0,10,1,0,0,0,3.4,3.3,2.05,,,
+2026-01-22,League One,2025-26,Lincoln,Burton,2,1,2,5,3,0,0,0,3,7,3,0,1,1,1.51,3.6,5.75,,,
+2026-01-24,League One,2025-26,Stevenage,Mansfield,1,1,5,1,4,2,0,0,2,6,6,0,1,0,2.1,3.2,3.4,,,
+2026-01-24,League One,2025-26,Rotherham,AFC Wimbledon,1,1,8,4,2,2,0,0,2,12,4,0,1,0,2.55,3.1,2.7,,,
+2026-01-24,League One,2025-26,Reading,Barnsley,2,2,9,6,0,3,0,0,4,15,3,0,1,1,2.25,3.6,2.82,,,
+2026-01-24,League One,2025-26,Port Vale,Exeter,1,3,12,4,1,4,0,0,4,16,5,0,1,1,2.35,3.2,3.0,,,
+2026-01-24,League One,2025-26,Doncaster,Wigan,3,3,13,6,3,2,0,0,6,19,5,0,1,1,2.25,3.2,3.1,,,
+2026-01-24,League One,2025-26,Wycombe,Peterboro,0,2,6,3,0,1,0,0,2,9,1,0,0,0,2.05,3.5,3.25,,,
+2026-01-24,League One,2025-26,Blackpool,Northampton,2,0,4,3,1,1,0,0,2,7,2,0,0,0,1.91,3.4,3.8,,,
+2026-01-24,League One,2025-26,Plymouth,Luton,1,0,6,5,4,1,0,0,1,11,5,0,0,0,2.65,3.4,2.45,,,
+2026-01-24,League One,2025-26,Huddersfield,Bradford,1,0,3,2,2,1,1,0,1,5,3,1,0,0,2.1,3.4,3.2,,,
+2026-01-24,League One,2025-26,Cardiff,Stockport,1,1,9,1,3,2,0,0,2,10,5,0,1,0,1.79,3.8,3.8,,,
+2026-01-24,League One,2025-26,Bolton,Leyton Orient,2,1,4,1,3,1,0,0,3,5,4,0,1,1,1.49,4.2,5.75,,,
+2026-01-27,League One,2025-26,Reading,Exeter,2,2,5,3,4,2,0,0,4,8,6,0,1,1,2.15,3.5,3.0,,,
+2026-01-27,League One,2025-26,Doncaster,Leyton Orient,3,0,3,3,2,3,0,0,3,6,5,0,0,1,2.01,3.4,3.4,,,
+2026-01-27,League One,2025-26,Wycombe,Wigan,2,0,3,9,0,0,0,0,2,12,0,0,0,0,1.96,3.25,3.75,,,
+2026-01-27,League One,2025-26,Stevenage,Peterboro,1,0,8,4,3,1,0,0,1,12,4,0,0,0,2.15,3.2,3.2,,,
+2026-01-27,League One,2025-26,Rotherham,Northampton,2,1,13,4,3,0,0,0,3,17,3,0,1,1,2.05,3.1,3.5,,,
+2026-01-27,League One,2025-26,Plymouth,Mansfield,1,1,6,2,2,2,0,0,2,8,4,0,1,0,1.91,3.4,3.7,,,
+2026-01-27,League One,2025-26,Lincoln,Bradford,3,0,5,1,1,1,0,0,3,6,2,0,0,1,2.01,3.0,3.75,,,
+2026-01-27,League One,2025-26,Huddersfield,Luton,1,0,6,9,1,2,1,0,1,15,3,1,0,0,2.15,3.3,3.1,,,
+2026-01-27,League One,2025-26,Cardiff,Barnsley,4,0,6,3,1,2,0,0,4,9,3,0,0,1,1.61,3.8,4.75,,,
+2026-01-27,League One,2025-26,Bolton,Burton,2,1,5,4,3,1,0,0,3,9,4,0,1,1,1.42,4.0,7.0,,,
+2026-01-27,League One,2025-26,Blackpool,Stockport,1,2,2,10,1,1,0,0,3,12,2,0,1,1,3.5,3.3,2.01,,,
+2026-01-31,League One,2025-26,Stockport,Plymouth,2,1,6,6,0,4,0,0,3,12,4,0,1,1,1.76,3.6,4.33,,,
+2026-01-31,League One,2025-26,Peterboro,Huddersfield,2,3,7,4,5,3,0,0,5,11,8,0,1,1,2.85,3.5,2.2,,,
+2026-01-31,League One,2025-26,Wigan,Lincoln,0,1,6,1,1,1,0,0,1,7,2,0,0,0,3.2,3.3,2.15,,,
+2026-01-31,League One,2025-26,Mansfield,Wycombe,0,0,5,6,0,1,0,0,0,11,1,0,0,0,3.0,3.2,2.3,,,
+2026-01-31,League One,2025-26,Luton,Blackpool,1,0,5,3,1,0,0,0,1,8,1,0,0,0,1.62,3.7,5.0,,,
+2026-01-31,League One,2025-26,Leyton Orient,Port Vale,0,1,5,6,2,2,0,0,1,11,4,0,0,0,2.05,3.25,3.5,,,
+2026-01-31,League One,2025-26,Northampton,Reading,0,2,9,3,2,3,0,0,2,12,5,0,0,0,3.1,3.3,2.2,,,
+2026-01-31,League One,2025-26,Burton,Cardiff,2,2,5,4,2,1,0,0,4,9,3,0,1,1,4.33,3.7,1.71,,,
+2026-01-31,League One,2025-26,Barnsley,Stevenage,3,1,3,7,3,2,0,0,4,10,5,0,1,1,2.4,3.3,2.75,,,
+2026-01-31,League One,2025-26,Bradford,Doncaster,1,0,8,3,2,1,0,0,1,11,3,0,0,0,2.3,3.3,2.85,,,
+2026-01-31,League One,2025-26,AFC Wimbledon,Bolton,0,1,5,4,1,1,0,0,1,9,2,0,0,0,3.9,3.5,1.86,,,
+2026-01-31,League One,2025-26,Exeter,Rotherham,0,4,4,5,3,1,0,0,4,9,4,0,0,1,1.86,3.5,3.9,,,
+2026-02-03,League One,2025-26,Port Vale,AFC Wimbledon,0,1,10,1,3,2,0,0,1,11,5,0,0,0,2.1,3.0,3.4,,,
+2026-02-03,League One,2025-26,Barnsley,Northampton,2,2,6,7,2,1,0,0,4,13,3,0,1,1,1.66,3.6,4.5,,,
+2026-02-03,League One,2025-26,Burton,Doncaster,1,2,20,7,1,2,0,0,3,27,3,0,1,1,3.0,3.25,2.3,,,
+2026-02-07,League One,2025-26,Peterboro,Wigan,6,1,3,10,1,3,0,0,7,13,4,0,1,1,2.15,3.3,3.2,,,
+2026-02-07,League One,2025-26,Wycombe,Doncaster,4,0,8,1,1,1,0,0,4,9,2,0,0,1,2.01,3.5,3.4,,,
+2026-02-07,League One,2025-26,Stockport,Leyton Orient,0,0,4,2,1,2,1,0,0,6,3,1,0,0,1.61,3.9,4.75,,,
+2026-02-07,League One,2025-26,Rotherham,Cardiff,0,3,5,5,3,3,0,1,3,10,6,1,0,1,3.8,3.5,1.86,,,
+2026-02-07,League One,2025-26,Plymouth,Lincoln,1,4,5,8,2,4,0,0,5,13,6,0,1,1,2.65,3.3,2.45,,,
+2026-02-07,League One,2025-26,Northampton,Stevenage,3,1,7,3,4,3,0,0,4,10,7,0,1,1,3.1,3.1,2.3,,,
+2026-02-07,League One,2025-26,Luton,Bradford,2,1,5,5,2,2,0,0,3,10,4,0,1,1,1.91,3.2,4.0,,,
+2026-02-07,League One,2025-26,Huddersfield,Blackpool,2,2,4,6,2,5,0,0,4,10,7,0,1,1,1.62,3.75,4.75,,,
+2026-02-07,League One,2025-26,Port Vale,Burton,2,2,5,6,2,3,0,0,4,11,5,0,1,1,2.3,3.4,2.85,,,
+2026-02-07,League One,2025-26,Mansfield,Exeter,0,0,4,4,1,4,0,0,0,8,5,0,0,0,2.1,3.3,3.25,,,
+2026-02-07,League One,2025-26,Bolton,Barnsley,3,2,11,1,3,2,0,0,5,12,5,0,1,1,1.62,3.8,4.75,,,
+2026-02-07,League One,2025-26,AFC Wimbledon,Reading,3,2,6,3,0,1,0,0,5,9,1,0,1,1,2.57,3.3,2.5,,,
+2026-02-10,League One,2025-26,Mansfield,Peterboro,1,2,19,0,2,2,0,0,3,19,4,0,1,1,2.15,3.4,3.1,,,
+2026-02-10,League One,2025-26,Wigan,Reading,1,2,3,4,1,1,0,0,3,7,2,0,1,1,2.4,3.2,2.82,,,
+2026-02-14,League One,2025-26,Lincoln,Bolton,1,1,4,3,2,5,0,0,2,7,7,0,1,0,2.3,3.25,2.75,,,
+2026-02-14,League One,2025-26,Exeter,Northampton,0,0,11,1,0,1,0,0,0,12,1,0,0,0,1.81,3.25,4.0,,,
+2026-02-14,League One,2025-26,Cardiff,Luton,3,1,7,3,3,2,0,0,4,10,5,0,1,1,1.71,3.5,4.0,,,
+2026-02-14,League One,2025-26,Bradford,Peterboro,2,0,10,5,3,3,0,0,2,15,6,0,0,0,1.91,3.5,3.4,,,
+2026-02-14,League One,2025-26,Barnsley,AFC Wimbledon,3,3,10,5,2,0,0,0,6,15,2,0,1,1,1.96,3.4,3.5,,,
+2026-02-14,League One,2025-26,Stevenage,Huddersfield,1,0,3,4,3,3,0,0,1,7,6,0,0,0,2.45,3.0,2.65,,,
+2026-02-14,League One,2025-26,Reading,Wycombe,3,2,1,8,3,2,0,0,5,9,5,0,1,1,2.7,3.25,2.3,,,
+2026-02-14,League One,2025-26,Blackpool,Plymouth,0,4,4,6,1,3,1,0,4,10,4,1,0,1,2.57,3.3,2.35,,,
+2026-02-17,League One,2025-26,Lincoln,Northampton,4,0,9,1,1,1,0,1,4,10,2,1,0,1,1.35,4.5,8.0,,,
+2026-02-17,League One,2025-26,Reading,Bolton,1,1,4,6,4,1,0,0,2,10,5,0,1,0,3.1,3.5,2.1,,,
+2026-02-17,League One,2025-26,Blackpool,Mansfield,1,0,4,1,5,0,0,0,1,5,5,0,0,0,2.55,3.3,2.57,,,
+2026-02-17,League One,2025-26,Stevenage,Port Vale,2,1,6,1,3,2,0,0,3,7,5,0,1,1,1.76,3.2,5.0,,,
+2026-02-17,League One,2025-26,Leyton Orient,Plymouth,1,3,6,6,4,2,0,0,4,12,6,0,1,1,2.57,3.4,2.5,,,
+2026-02-17,League One,2025-26,Burton,Rotherham,1,0,10,3,1,2,0,0,1,13,3,0,0,0,2.2,3.2,3.2,,,
+2026-02-17,League One,2025-26,Doncaster,Huddersfield,1,0,0,5,4,1,0,0,1,5,5,0,0,0,2.4,3.3,2.75,,,
+2026-02-17,League One,2025-26,Cardiff,AFC Wimbledon,4,1,4,5,0,2,0,0,5,9,2,0,1,1,1.39,4.5,7.0,,,
+2026-02-17,League One,2025-26,Bradford,Stockport,1,0,4,2,3,2,0,0,1,6,5,0,0,0,2.57,3.3,2.55,,,
+2026-02-17,League One,2025-26,Barnsley,Peterboro,2,1,3,5,2,1,0,0,3,8,3,0,1,1,1.79,3.9,3.7,,,
+2026-02-17,League One,2025-26,Exeter,Wycombe,1,1,8,4,0,2,0,0,2,12,2,0,1,0,3.1,3.3,2.2,,,
+2026-02-18,League One,2025-26,Wigan,Luton,1,0,7,4,4,2,0,0,1,11,6,0,0,0,2.85,3.25,2.4,,,
+2026-02-21,League One,2025-26,Mansfield,Lincoln,0,2,2,4,2,3,0,0,2,6,5,0,0,0,3.5,3.3,2.05,,,
+2026-02-21,League One,2025-26,Port Vale,Reading,1,1,9,3,0,2,0,0,2,12,2,0,1,0,2.82,3.3,2.32,,,
+2026-02-21,League One,2025-26,Stockport,Wigan,4,2,6,1,1,1,0,2,6,7,2,2,1,1,1.57,3.7,5.5,,,
+2026-02-21,League One,2025-26,Peterboro,Exeter,3,3,6,1,1,4,0,0,6,7,5,0,1,1,2.15,3.4,3.0,,,
+2026-02-21,League One,2025-26,Northampton,Leyton Orient,1,2,7,4,1,2,0,0,3,11,3,0,1,1,3.0,3.25,2.3,,,
+2026-02-21,League One,2025-26,Luton,Burton,1,1,1,6,3,3,0,0,2,7,6,0,1,0,1.76,3.6,4.33,,,
+2026-02-21,League One,2025-26,Rotherham,Doncaster,1,2,2,3,3,3,0,0,3,5,6,0,1,1,2.57,3.3,2.55,,,
+2026-02-21,League One,2025-26,Bolton,Blackpool,2,2,15,5,1,3,0,0,4,20,4,0,1,1,1.49,4.0,6.0,,,
+2026-02-21,League One,2025-26,Huddersfield,Barnsley,2,1,10,7,1,2,0,0,3,17,3,0,1,1,1.71,3.75,4.33,,,
+2026-02-21,League One,2025-26,Plymouth,Cardiff,5,2,3,8,3,4,0,0,7,11,7,0,1,1,2.85,3.6,2.2,,,
+2026-02-21,League One,2025-26,AFC Wimbledon,Bradford,3,1,3,2,1,0,0,0,4,5,1,0,1,1,3.1,3.25,2.25,,,
+2026-02-21,League One,2025-26,Wycombe,Stevenage,3,1,6,4,1,1,0,0,4,10,2,0,1,1,1.86,3.25,4.33,,,
+2026-02-24,League One,2025-26,Bradford,Rotherham,1,0,6,7,1,1,0,0,1,13,2,0,0,0,1.68,3.4,5.25,,,
+2026-02-24,League One,2025-26,Burton,Stockport,3,0,1,3,1,4,0,0,3,4,5,0,0,1,3.25,3.4,2.1,,,
+2026-02-24,League One,2025-26,Northampton,Port Vale,0,1,6,0,1,0,0,0,1,6,1,0,0,0,2.25,3.2,3.1,,,
+2026-02-28,League One,2025-26,Wycombe,Burton,3,0,3,4,3,2,0,0,3,7,5,0,0,1,1.71,3.6,4.5,,,
+2026-02-28,League One,2025-26,Wigan,Huddersfield,1,0,4,6,2,3,0,0,1,10,5,0,0,0,2.82,3.25,2.4,,,
+2026-02-28,League One,2025-26,Stevenage,Stockport,2,1,2,7,1,5,0,0,3,9,6,0,1,1,2.55,3.1,2.65,,,
+2026-02-28,League One,2025-26,Rotherham,Plymouth,1,0,3,8,5,5,0,0,1,11,10,0,0,0,3.3,3.5,2.01,,,
+2026-02-28,League One,2025-26,Reading,Bradford,2,1,5,6,3,0,0,0,3,11,3,0,1,1,2.25,3.25,3.0,,,
+2026-02-28,League One,2025-26,Port Vale,Luton,1,1,6,6,3,3,0,0,2,12,6,0,1,0,3.5,3.4,1.96,,,
+2026-02-28,League One,2025-26,Exeter,Bolton,1,5,4,3,2,1,0,0,6,7,3,0,1,1,3.25,3.4,2.1,,,
+2026-02-28,League One,2025-26,Lincoln,Blackpool,4,0,7,6,1,4,0,0,4,13,5,0,0,1,1.46,4.33,5.75,,,
+2026-02-28,League One,2025-26,Northampton,Peterboro,1,1,5,2,1,2,0,0,2,7,3,0,1,0,2.7,3.4,2.32,,,
+2026-02-28,League One,2025-26,Leyton Orient,Barnsley,1,3,5,1,1,1,0,0,4,6,2,0,1,1,2.4,3.5,2.57,,,
+2026-02-28,League One,2025-26,Mansfield,AFC Wimbledon,2,2,7,6,2,1,0,0,4,13,3,0,1,1,1.96,3.2,3.75,,,
+2026-02-28,League One,2025-26,Doncaster,Cardiff,0,4,3,9,2,0,0,0,4,12,2,0,0,1,3.2,3.8,1.96,,,
+2026-03-03,League One,2025-26,Rotherham,Mansfield,0,0,3,6,2,1,0,0,0,9,3,0,0,0,2.55,3.25,2.57,,,
+2026-03-03,League One,2025-26,Exeter,Burton,1,1,11,5,1,2,0,0,2,16,3,0,1,0,2.35,3.3,2.75,,,
+2026-03-03,League One,2025-26,Barnsley,Wycombe,0,1,2,3,3,3,0,0,1,5,6,0,0,0,2.75,3.4,2.25,,,
+2026-03-07,League One,2025-26,Plymouth,Doncaster,2,1,1,2,5,4,0,0,3,3,9,0,1,1,1.86,3.6,3.7,,,
+2026-03-07,League One,2025-26,Cardiff,Lincoln,0,2,6,2,0,3,0,0,2,8,3,0,0,0,2.25,3.3,3.0,,,
+2026-03-07,League One,2025-26,Huddersfield,Rotherham,1,0,3,2,0,1,0,0,1,5,1,0,0,0,1.57,3.7,5.25,,,
+2026-03-07,League One,2025-26,Barnsley,Exeter,2,1,6,6,1,1,0,0,3,12,2,0,1,1,1.91,3.75,3.5,,,
+2026-03-07,League One,2025-26,Blackpool,Wigan,1,1,3,5,2,1,0,0,2,8,3,0,1,0,2.5,3.2,2.7,,,
+2026-03-07,League One,2025-26,Bolton,Wycombe,3,2,6,4,3,4,0,0,5,10,7,0,1,1,1.96,3.4,3.5,,,
+2026-03-07,League One,2025-26,Bradford,Leyton Orient,2,1,11,2,6,3,1,0,3,13,9,1,1,1,1.76,3.4,4.5,,,
+2026-03-07,League One,2025-26,Burton,Stevenage,0,1,9,5,1,3,0,0,1,14,4,0,0,0,2.57,3.2,2.57,,,
+2026-03-07,League One,2025-26,Luton,Reading,2,3,10,4,1,4,0,0,5,14,5,0,1,1,1.76,3.6,4.33,,,
+2026-03-08,League One,2025-26,AFC Wimbledon,Northampton,1,0,9,6,0,1,0,0,1,15,1,0,0,0,1.91,3.4,3.75,,,
+2026-03-10,League One,2025-26,Wigan,Plymouth,0,3,5,8,0,2,0,0,3,13,2,0,0,1,2.55,3.25,2.57,,,
+2026-03-10,League One,2025-26,Stevenage,Leyton Orient,1,2,5,2,1,4,0,0,3,7,5,0,1,1,1.86,3.3,4.1,,,
+2026-03-10,League One,2025-26,Mansfield,Reading,1,0,13,6,0,2,0,0,1,19,2,0,0,0,2.1,3.4,3.1,,,
+2026-03-10,League One,2025-26,Doncaster,Luton,1,1,5,3,1,3,0,0,2,8,4,0,1,0,2.5,3.5,2.4,,,
+2026-03-10,League One,2025-26,Barnsley,Cardiff,1,1,4,13,0,1,0,0,2,17,1,0,1,0,3.5,3.8,1.86,,,
+2026-03-10,League One,2025-26,Exeter,Lincoln,0,1,6,7,2,4,0,0,1,13,6,0,0,0,4.1,3.6,1.76,,,
+2026-03-11,League One,2025-26,Port Vale,Bradford,0,2,2,11,2,2,0,0,2,13,4,0,0,0,3.1,3.2,2.2,,,
+2026-03-11,League One,2025-26,AFC Wimbledon,Blackpool,4,1,6,8,0,0,0,0,5,14,0,0,1,1,2.1,3.25,3.25,,,
+2026-03-14,League One,2025-26,Stevenage,AFC Wimbledon,1,0,1,7,2,2,0,0,1,8,4,0,0,0,1.86,3.2,4.33,,,
+2026-03-14,League One,2025-26,Reading,Plymouth,2,2,3,3,1,3,0,0,4,6,4,0,1,1,3.0,3.4,2.2,,,
+2026-03-14,League One,2025-26,Wycombe,Luton,1,2,3,3,3,1,0,0,3,6,4,0,1,1,1.86,3.6,3.75,,,
+2026-03-14,League One,2025-26,Port Vale,Huddersfield,0,0,2,6,3,1,0,0,0,8,4,0,0,0,3.5,3.3,1.96,,,
+2026-03-14,League One,2025-26,Wigan,Bradford,2,0,2,2,4,2,0,0,2,4,6,0,0,0,2.82,3.25,2.4,,,
+2026-03-14,League One,2025-26,Northampton,Burton,0,2,7,4,2,2,0,0,2,11,4,0,0,0,2.65,3.25,2.55,,,
+2026-03-14,League One,2025-26,Leyton Orient,Peterboro,2,1,7,2,2,2,0,0,3,9,4,0,1,1,2.01,3.8,3.1,,,
+2026-03-14,League One,2025-26,Exeter,Cardiff,0,4,0,10,0,0,0,0,4,10,0,0,0,1,4.2,3.6,1.76,,,
+2026-03-14,League One,2025-26,Doncaster,Blackpool,2,1,7,1,0,3,0,1,3,8,3,1,1,1,1.71,3.75,4.2,,,
+2026-03-14,League One,2025-26,Rotherham,Bolton,2,2,8,6,3,1,0,0,4,14,4,0,1,1,4.1,3.75,1.76,,,
+2026-03-14,League One,2025-26,Lincoln,Stockport,3,1,4,5,3,1,0,0,4,9,4,0,1,1,1.86,3.5,4.1,,,
+2026-03-14,League One,2025-26,Mansfield,Barnsley,2,2,3,5,0,3,0,0,4,8,3,0,1,1,2.05,3.7,3.1,,,
+2026-03-17,League One,2025-26,Cardiff,Wycombe,0,2,8,5,2,1,1,0,2,13,3,1,0,0,1.62,3.8,4.75,,,
+2026-03-17,League One,2025-26,Stockport,Northampton,2,1,8,3,1,1,0,0,3,11,2,0,1,1,1.42,4.33,6.25,,,
+2026-03-17,League One,2025-26,Plymouth,Stevenage,1,0,6,7,2,2,0,0,1,13,4,0,0,0,1.91,3.25,3.9,,,
+2026-03-17,League One,2025-26,Peterboro,Rotherham,5,0,3,5,1,1,0,0,5,8,2,0,0,1,2.35,3.6,2.55,,,
+2026-03-17,League One,2025-26,Luton,Exeter,3,2,7,2,2,2,0,0,5,9,4,0,1,1,1.57,3.8,5.0,,,
+2026-03-17,League One,2025-26,Huddersfield,Lincoln,2,2,3,7,4,2,0,0,4,10,6,0,1,1,3.0,3.1,2.35,,,
+2026-03-17,League One,2025-26,Bradford,Mansfield,1,1,11,5,4,2,0,0,2,16,6,0,1,0,1.86,3.5,3.9,,,
+2026-03-17,League One,2025-26,Barnsley,Wigan,1,1,11,5,3,1,0,1,2,16,4,1,1,0,2.2,3.2,3.1,,,
+2026-03-17,League One,2025-26,Bolton,Doncaster,0,0,9,6,2,4,0,0,0,15,6,0,0,0,1.56,4.1,4.75,,,
+2026-03-17,League One,2025-26,Blackpool,Port Vale,3,2,6,5,0,3,0,0,5,11,3,0,1,1,1.86,3.3,4.1,,,
+2026-03-17,League One,2025-26,AFC Wimbledon,Leyton Orient,2,4,3,3,1,1,0,0,6,6,2,0,1,1,2.25,3.25,3.0,,,
+2026-03-17,League One,2025-26,Burton,Reading,1,2,4,3,1,1,0,0,3,7,2,0,1,1,2.2,3.25,3.2,,,
+2026-03-21,League One,2025-26,Plymouth,Huddersfield,3,1,5,3,3,3,0,0,4,8,6,0,1,1,2.1,3.3,3.2,,,
+2026-03-21,League One,2025-26,Mansfield,Northampton,4,1,3,3,1,3,0,0,5,6,4,0,1,1,1.66,3.6,4.75,,,
+2026-03-21,League One,2025-26,Stevenage,Reading,1,0,4,2,2,2,0,0,1,6,4,0,0,0,1.86,3.2,4.2,,,
+2026-03-21,League One,2025-26,Port Vale,Bolton,1,0,2,5,0,2,0,0,1,7,2,0,0,0,5.25,4.1,1.51,,,
+2026-03-21,League One,2025-26,Lincoln,Rotherham,3,0,7,4,0,1,0,0,3,11,1,0,0,1,1.35,4.75,7.0,,,
+2026-03-21,League One,2025-26,Wigan,Exeter,2,0,3,4,1,3,0,0,2,7,4,0,0,0,1.96,3.0,4.1,,,
+2026-03-21,League One,2025-26,Burton,Bradford,2,1,3,8,1,5,0,0,3,11,6,0,1,1,2.82,3.3,2.32,,,
+2026-03-21,League One,2025-26,Barnsley,Doncaster,0,1,4,2,2,2,0,0,1,6,4,0,0,0,2.2,3.5,2.85,,,
+2026-03-21,League One,2025-26,AFC Wimbledon,Peterboro,1,1,11,2,2,3,0,0,2,13,5,0,1,0,2.1,3.4,3.2,,,
+2026-03-21,League One,2025-26,Luton,Stockport,1,1,8,6,1,2,0,0,2,14,3,0,1,0,2.5,3.3,2.57,,,
+2026-03-21,League One,2025-26,Cardiff,Blackpool,0,0,11,2,2,3,0,0,0,13,5,0,0,0,1.33,4.75,7.5,,,
+2026-03-21,League One,2025-26,Leyton Orient,Wycombe,2,0,8,7,3,0,0,1,2,15,3,1,0,0,3.2,3.3,2.15,,,
+2026-03-24,League One,2025-26,Doncaster,Port Vale,1,0,4,1,3,0,0,0,1,5,3,0,0,0,1.66,3.7,4.75,,,

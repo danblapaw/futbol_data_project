@@ -68,6 +68,16 @@ def crear_base_de_datos():
                 ambos_marcan      INTEGER,           -- 1 = sí, 0 = no
                 over_2_5          INTEGER,           -- 1 = más de 2.5 goles, 0 = no
 
+                -- Cuotas Bet365
+                b365_local    REAL,
+                b365_empate   REAL,
+                b365_visit    REAL,
+
+                -- Cuotas Pinnacle (closing)
+                ps_local      REAL,
+                ps_empate     REAL,
+                ps_visit      REAL,
+
                 -- Cuándo se insertó el registro en nuestra base de datos
                 fecha_insercion  TEXT DEFAULT (datetime('now')),
 
@@ -77,6 +87,15 @@ def crear_base_de_datos():
                 UNIQUE (fecha, liga, temporada, equipo_local, equipo_visitante)
             )
         """)
+
+        # Migración: añadir columnas de cuotas si no existen (para DBs antiguas)
+        existing = {row[1] for row in cursor.execute("PRAGMA table_info(partidos)").fetchall()}
+        for col, ctype in [
+            ("b365_local","REAL"),("b365_empate","REAL"),("b365_visit","REAL"),
+            ("ps_local","REAL"),("ps_empate","REAL"),("ps_visit","REAL"),
+        ]:
+            if col not in existing:
+                cursor.execute(f"ALTER TABLE partidos ADD COLUMN {col} {ctype}")
 
         # Creamos un índice para acelerar las búsquedas por liga y temporada
         # Un índice es como el índice al final de un libro — acelera encontrar cosas

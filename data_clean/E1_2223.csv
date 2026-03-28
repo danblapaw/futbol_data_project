@@ -1,553 +1,553 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2022-07-29,Championship,2022-23,Huddersfield,Burnley,0,1,1,5,1,2,0,0,1,6,3,0,0,0
-2022-07-30,Championship,2022-23,Middlesbrough,West Brom,1,1,4,3,2,1,0,0,2,7,3,0,1,0
-2022-07-30,Championship,2022-23,Rotherham,Swansea,1,1,5,6,1,2,0,0,2,11,3,0,1,0
-2022-07-30,Championship,2022-23,Millwall,Stoke,2,0,8,2,1,2,0,0,2,10,3,0,0,0
-2022-07-30,Championship,2022-23,Luton,Birmingham,0,0,10,6,0,3,0,0,0,16,3,0,0,0
-2022-07-30,Championship,2022-23,Wigan,Preston,0,0,7,4,2,3,0,1,0,11,5,1,0,0
-2022-07-30,Championship,2022-23,Cardiff,Norwich,1,0,1,7,4,0,1,1,1,8,4,2,0,0
-2022-07-30,Championship,2022-23,Blackpool,Reading,1,0,3,10,1,0,0,0,1,13,1,0,0,0
-2022-07-30,Championship,2022-23,Blackburn,QPR,1,0,6,0,1,1,0,0,1,6,2,0,0,0
-2022-07-30,Championship,2022-23,Hull,Bristol City,2,1,6,3,0,0,0,0,3,9,0,0,1,1
-2022-07-31,Championship,2022-23,Sunderland,Coventry,1,1,4,3,4,1,0,0,2,7,5,0,1,0
-2022-08-01,Championship,2022-23,Watford,Sheffield United,1,0,5,4,4,3,0,0,1,9,7,0,0,0
-2022-08-05,Championship,2022-23,Birmingham,Huddersfield,2,1,6,7,1,2,0,0,3,13,3,0,1,1
-2022-08-06,Championship,2022-23,Sheffield United,Millwall,2,0,3,5,3,2,0,0,2,8,5,0,0,0
-2022-08-06,Championship,2022-23,Swansea,Blackburn,0,3,5,4,3,1,0,0,3,9,4,0,0,1
-2022-08-06,Championship,2022-23,Stoke,Blackpool,2,0,5,6,2,2,0,0,2,11,4,0,0,0
-2022-08-06,Championship,2022-23,Reading,Cardiff,2,1,1,2,3,3,0,0,3,3,6,0,1,1
-2022-08-06,Championship,2022-23,Norwich,Wigan,1,1,9,0,0,4,0,0,2,9,4,0,1,0
-2022-08-06,Championship,2022-23,Preston,Hull,0,0,4,1,1,4,0,0,0,5,5,0,0,0
-2022-08-06,Championship,2022-23,Burnley,Luton,1,1,11,2,2,1,0,0,2,13,3,0,1,0
-2022-08-06,Championship,2022-23,Bristol City,Sunderland,2,3,8,9,2,2,0,0,5,17,4,0,1,1
-2022-08-06,Championship,2022-23,QPR,Middlesbrough,3,2,5,5,2,2,0,1,5,10,4,1,1,1
-2022-08-08,Championship,2022-23,West Brom,Watford,1,1,12,0,2,1,0,0,2,12,3,0,1,0
-2022-08-12,Championship,2022-23,Watford,Burnley,1,0,3,6,1,1,1,0,1,9,2,1,0,0
-2022-08-13,Championship,2022-23,Millwall,Coventry,3,2,3,6,4,2,0,1,5,9,6,1,1,1
-2022-08-13,Championship,2022-23,Wigan,Bristol City,1,1,5,1,1,2,0,0,2,6,3,0,1,0
-2022-08-13,Championship,2022-23,Rotherham,Reading,4,0,5,7,0,2,0,0,4,12,2,0,0,1
-2022-08-13,Championship,2022-23,Luton,Preston,0,1,8,3,0,6,0,0,1,11,6,0,0,0
-2022-08-13,Championship,2022-23,Sunderland,QPR,2,2,4,3,3,2,0,0,4,7,5,0,1,1
-2022-08-13,Championship,2022-23,Huddersfield,Stoke,3,1,3,3,1,3,0,0,4,6,4,0,1,1
-2022-08-13,Championship,2022-23,Blackpool,Swansea,0,1,3,6,1,3,0,0,1,9,4,0,0,0
-2022-08-13,Championship,2022-23,Hull,Norwich,2,1,2,11,1,1,0,0,3,13,2,0,1,1
-2022-08-13,Championship,2022-23,Cardiff,Birmingham,1,0,2,2,1,4,0,0,1,4,5,0,0,0
-2022-08-14,Championship,2022-23,Middlesbrough,Sheffield United,2,2,5,4,2,3,0,0,4,9,5,0,1,1
-2022-08-14,Championship,2022-23,Blackburn,West Brom,2,1,1,5,4,1,0,0,3,6,5,0,1,1
-2022-08-16,Championship,2022-23,Birmingham,Watford,1,1,3,5,1,1,0,0,2,8,2,0,1,0
-2022-08-16,Championship,2022-23,Bristol City,Luton,2,0,5,7,2,2,1,0,2,12,4,1,0,0
-2022-08-16,Championship,2022-23,Burnley,Hull,1,1,6,2,1,3,0,0,2,8,4,0,1,0
-2022-08-16,Championship,2022-23,Norwich,Huddersfield,2,1,8,1,1,0,0,1,3,9,1,1,1,1
-2022-08-16,Championship,2022-23,Preston,Rotherham,0,0,10,3,1,3,0,0,0,13,4,0,0,0
-2022-08-16,Championship,2022-23,Swansea,Millwall,2,2,6,7,2,3,0,0,4,13,5,0,1,1
-2022-08-16,Championship,2022-23,QPR,Blackpool,0,1,2,2,1,2,0,0,1,4,3,0,0,0
-2022-08-17,Championship,2022-23,Sheffield United,Sunderland,2,1,13,3,1,4,0,1,3,16,5,1,1,1
-2022-08-17,Championship,2022-23,West Brom,Cardiff,0,0,9,2,3,3,0,0,0,11,6,0,0,0
-2022-08-17,Championship,2022-23,Stoke,Middlesbrough,2,2,4,8,2,1,0,0,4,12,3,0,1,1
-2022-08-17,Championship,2022-23,Reading,Blackburn,3,0,7,3,5,2,0,0,3,10,7,0,0,1
-2022-08-19,Championship,2022-23,Norwich,Millwall,2,0,5,4,2,2,0,0,2,9,4,0,0,0
-2022-08-20,Championship,2022-23,West Brom,Hull,5,2,12,2,0,3,0,0,7,14,3,0,1,1
-2022-08-20,Championship,2022-23,Swansea,Luton,0,2,7,5,1,0,0,0,2,12,1,0,0,0
-2022-08-20,Championship,2022-23,Sheffield United,Blackburn,3,0,11,4,3,2,0,0,3,15,5,0,0,1
-2022-08-20,Championship,2022-23,Reading,Middlesbrough,1,0,5,7,4,1,0,0,1,12,5,0,0,0
-2022-08-20,Championship,2022-23,Stoke,Sunderland,0,1,7,3,3,6,0,0,1,10,9,0,0,0
-2022-08-20,Championship,2022-23,Preston,Watford,0,0,7,5,2,2,0,0,0,12,4,0,0,0
-2022-08-20,Championship,2022-23,Burnley,Blackpool,3,3,4,6,1,3,1,1,6,10,4,2,1,1
-2022-08-20,Championship,2022-23,Birmingham,Wigan,0,1,7,3,0,2,0,1,1,10,2,1,0,0
-2022-08-20,Championship,2022-23,QPR,Rotherham,1,1,9,3,3,2,0,0,2,12,5,0,1,0
-2022-08-21,Championship,2022-23,Bristol City,Cardiff,2,0,7,8,4,3,0,0,2,15,7,0,0,0
-2022-08-26,Championship,2022-23,Luton,Sheffield United,1,1,4,9,0,4,0,0,2,13,4,0,1,0
-2022-08-27,Championship,2022-23,Middlesbrough,Swansea,2,1,8,4,5,2,0,1,3,12,7,1,1,1
-2022-08-27,Championship,2022-23,Watford,QPR,2,3,1,4,4,2,0,0,5,5,6,0,1,1
-2022-08-27,Championship,2022-23,Rotherham,Birmingham,2,0,7,2,1,2,0,0,2,9,3,0,0,0
-2022-08-27,Championship,2022-23,Millwall,Reading,0,1,3,1,0,1,0,0,1,4,1,0,0,0
-2022-08-27,Championship,2022-23,Hull,Coventry,3,2,3,4,3,2,0,0,5,7,5,0,1,1
-2022-08-27,Championship,2022-23,Wigan,Burnley,1,5,6,1,1,1,0,0,6,7,2,0,1,1
-2022-08-27,Championship,2022-23,Cardiff,Preston,0,0,8,2,0,2,0,0,0,10,2,0,0,0
-2022-08-27,Championship,2022-23,Blackpool,Bristol City,3,3,5,3,1,5,0,0,6,8,6,0,1,1
-2022-08-27,Championship,2022-23,Blackburn,Stoke,0,1,12,3,3,3,0,0,1,15,6,0,0,0
-2022-08-27,Championship,2022-23,Sunderland,Norwich,0,1,8,7,2,2,0,0,1,15,4,0,0,0
-2022-08-27,Championship,2022-23,Huddersfield,West Brom,2,2,6,4,1,2,0,0,4,10,3,0,1,1
-2022-08-30,Championship,2022-23,Watford,Middlesbrough,2,1,2,7,2,4,0,0,3,9,6,0,1,1
-2022-08-30,Championship,2022-23,Sheffield United,Reading,4,0,3,5,0,0,0,0,4,8,0,0,0,1
-2022-08-30,Championship,2022-23,QPR,Hull,3,1,2,7,1,1,0,0,4,9,2,0,1,1
-2022-08-30,Championship,2022-23,Wigan,West Brom,1,1,3,2,2,2,0,0,2,5,4,0,1,0
-2022-08-30,Championship,2022-23,Burnley,Millwall,2,0,5,3,0,3,0,0,2,8,3,0,0,0
-2022-08-30,Championship,2022-23,Birmingham,Norwich,1,2,6,8,4,4,0,0,3,14,8,0,1,1
-2022-08-30,Championship,2022-23,Cardiff,Luton,1,2,5,2,0,3,0,0,3,7,3,0,1,1
-2022-08-31,Championship,2022-23,Bristol City,Huddersfield,2,0,4,7,0,0,0,0,2,11,0,0,0,0
-2022-08-31,Championship,2022-23,Coventry,Preston,0,1,9,6,1,2,0,0,1,15,3,0,0,0
-2022-08-31,Championship,2022-23,Stoke,Swansea,1,1,12,3,1,2,0,0,2,15,3,0,1,0
-2022-08-31,Championship,2022-23,Sunderland,Rotherham,3,0,2,1,0,4,0,0,3,3,4,0,0,1
-2022-08-31,Championship,2022-23,Blackpool,Blackburn,0,1,7,5,2,3,0,0,1,12,5,0,0,0
-2022-09-02,Championship,2022-23,West Brom,Burnley,1,1,9,1,1,4,0,0,2,10,5,0,1,0
-2022-09-03,Championship,2022-23,Rotherham,Watford,1,1,3,6,3,2,0,0,2,9,5,0,1,0
-2022-09-03,Championship,2022-23,Swansea,QPR,1,0,6,4,3,0,0,0,1,10,3,0,0,0
-2022-09-03,Championship,2022-23,Preston,Birmingham,0,1,4,6,1,3,0,0,1,10,4,0,0,0
-2022-09-03,Championship,2022-23,Blackburn,Bristol City,2,3,5,6,2,2,0,0,5,11,4,0,1,1
-2022-09-03,Championship,2022-23,Millwall,Cardiff,2,0,4,6,2,2,0,0,2,10,4,0,0,0
-2022-09-03,Championship,2022-23,Luton,Wigan,1,2,9,4,1,1,0,0,3,13,2,0,1,1
-2022-09-03,Championship,2022-23,Norwich,Coventry,3,0,4,1,1,0,0,0,3,5,1,0,0,1
-2022-09-04,Championship,2022-23,Reading,Stoke,2,1,4,6,2,0,0,0,3,10,2,0,1,1
-2022-09-04,Championship,2022-23,Huddersfield,Blackpool,0,1,10,2,0,3,0,0,1,12,3,0,0,0
-2022-09-04,Championship,2022-23,Hull,Sheffield United,0,2,6,1,1,2,0,0,2,7,3,0,0,0
-2022-09-05,Championship,2022-23,Middlesbrough,Sunderland,1,0,4,6,5,1,0,0,1,10,6,0,0,0
-2022-09-13,Championship,2022-23,Blackburn,Watford,2,0,9,5,2,0,0,0,2,14,2,0,0,0
-2022-09-13,Championship,2022-23,Huddersfield,Wigan,1,2,4,5,2,2,0,0,3,9,4,0,1,1
-2022-09-13,Championship,2022-23,Hull,Stoke,0,3,7,6,2,1,0,0,3,13,3,0,0,1
-2022-09-13,Championship,2022-23,Middlesbrough,Cardiff,2,3,9,3,1,1,0,0,5,12,2,0,1,1
-2022-09-13,Championship,2022-23,Swansea,Sheffield United,0,1,6,4,1,1,0,0,1,10,2,0,0,0
-2022-09-13,Championship,2022-23,Preston,Burnley,1,1,4,6,2,0,0,0,2,10,2,0,1,0
-2022-09-14,Championship,2022-23,West Brom,Birmingham,2,3,6,2,2,1,0,0,5,8,3,0,1,1
-2022-09-14,Championship,2022-23,Reading,Sunderland,0,3,3,7,1,1,0,0,3,10,2,0,0,1
-2022-09-14,Championship,2022-23,Rotherham,Blackpool,3,0,5,4,1,1,0,0,3,9,2,0,0,1
-2022-09-14,Championship,2022-23,Millwall,QPR,0,2,5,4,0,0,0,0,2,9,0,0,0,0
-2022-09-14,Championship,2022-23,Luton,Coventry,2,2,7,3,2,1,0,0,4,10,3,0,1,1
-2022-09-14,Championship,2022-23,Norwich,Bristol City,3,2,2,7,0,0,0,0,5,9,0,0,1,1
-2022-09-17,Championship,2022-23,Middlesbrough,Rotherham,0,0,8,3,1,2,0,0,0,11,3,0,0,0
-2022-09-17,Championship,2022-23,Wigan,Reading,0,1,1,3,3,2,0,0,1,4,5,0,0,0
-2022-09-17,Championship,2022-23,Watford,Sunderland,2,2,8,3,0,4,0,0,4,11,4,0,1,1
-2022-09-17,Championship,2022-23,QPR,Stoke,0,0,8,6,1,2,0,0,0,14,3,0,0,0
-2022-09-17,Championship,2022-23,Norwich,West Brom,1,1,7,4,1,1,0,0,2,11,2,0,1,0
-2022-09-17,Championship,2022-23,Preston,Sheffield United,0,2,7,5,1,3,0,0,2,12,4,0,0,0
-2022-09-17,Championship,2022-23,Luton,Blackburn,2,0,4,3,2,2,0,0,2,7,4,0,0,0
-2022-09-17,Championship,2022-23,Huddersfield,Cardiff,1,0,1,3,3,0,0,0,1,4,3,0,0,0
-2022-09-17,Championship,2022-23,Burnley,Bristol City,2,1,8,5,1,1,0,0,3,13,2,0,1,1
-2022-09-17,Championship,2022-23,Birmingham,Coventry,0,0,6,4,1,3,0,1,0,10,4,1,0,0
-2022-09-17,Championship,2022-23,Swansea,Hull,3,0,5,3,1,2,0,0,3,8,3,0,0,1
-2022-09-17,Championship,2022-23,Millwall,Blackpool,2,1,5,2,2,2,0,0,3,7,4,0,1,1
-2022-09-30,Championship,2022-23,Hull,Luton,0,2,7,6,1,3,0,0,2,13,4,0,0,0
-2022-10-01,Championship,2022-23,Rotherham,Wigan,0,2,8,4,3,1,0,0,2,12,4,0,0,0
-2022-10-01,Championship,2022-23,Sunderland,Preston,0,0,4,8,1,1,0,0,0,12,2,0,0,0
-2022-10-01,Championship,2022-23,West Brom,Swansea,2,3,8,6,3,1,0,0,5,14,4,0,1,1
-2022-10-01,Championship,2022-23,Sheffield United,Birmingham,1,1,4,4,3,3,0,0,2,8,6,0,1,0
-2022-10-01,Championship,2022-23,Reading,Huddersfield,3,1,5,1,0,3,0,0,4,6,3,0,1,1
-2022-10-01,Championship,2022-23,Blackpool,Norwich,0,1,9,6,3,0,0,0,1,15,3,0,0,0
-2022-10-01,Championship,2022-23,Cardiff,Burnley,1,1,9,1,3,0,0,0,2,10,3,0,1,0
-2022-10-01,Championship,2022-23,Bristol City,QPR,1,2,8,2,3,1,0,0,3,10,4,0,1,1
-2022-10-01,Championship,2022-23,Blackburn,Millwall,2,1,4,4,1,0,0,0,3,8,1,0,1,1
-2022-10-01,Championship,2022-23,Coventry,Middlesbrough,1,0,3,6,4,1,0,0,1,9,5,0,0,0
-2022-10-02,Championship,2022-23,Stoke,Watford,0,4,6,6,2,5,0,0,4,12,7,0,0,1
-2022-10-04,Championship,2022-23,Bristol City,Coventry,0,0,9,2,2,1,0,0,0,11,3,0,0,0
-2022-10-04,Championship,2022-23,Luton,Huddersfield,3,3,9,5,0,0,0,1,6,14,0,1,1,1
-2022-10-04,Championship,2022-23,Sheffield United,QPR,0,1,9,3,2,2,0,0,1,12,4,0,0,0
-2022-10-04,Championship,2022-23,Sunderland,Blackpool,0,0,5,12,1,3,0,0,0,17,4,0,0,0
-2022-10-04,Championship,2022-23,Cardiff,Blackburn,1,0,7,0,2,2,0,0,1,7,4,0,0,0
-2022-10-04,Championship,2022-23,Reading,Norwich,1,1,3,7,3,1,0,0,2,10,4,0,1,0
-2022-10-05,Championship,2022-23,Preston,West Brom,1,0,2,10,2,1,0,0,1,12,3,0,0,0
-2022-10-05,Championship,2022-23,Rotherham,Millwall,1,1,6,4,2,2,0,0,2,10,4,0,1,0
-2022-10-05,Championship,2022-23,Watford,Swansea,1,2,1,6,1,5,0,0,3,7,6,0,1,1
-2022-10-05,Championship,2022-23,Hull,Wigan,2,1,9,5,3,1,0,0,3,14,4,0,1,1
-2022-10-05,Championship,2022-23,Burnley,Stoke,1,1,15,2,2,2,0,0,2,17,4,0,1,0
-2022-10-05,Championship,2022-23,Middlesbrough,Birmingham,1,0,6,6,2,1,0,0,1,12,3,0,0,0
-2022-10-07,Championship,2022-23,QPR,Reading,2,1,4,5,2,3,0,0,3,9,5,0,1,1
-2022-10-08,Championship,2022-23,Birmingham,Bristol City,3,0,7,4,3,2,0,0,3,11,5,0,0,1
-2022-10-08,Championship,2022-23,Blackburn,Rotherham,3,0,8,3,0,3,0,0,3,11,3,0,0,1
-2022-10-08,Championship,2022-23,Blackpool,Watford,3,1,5,7,1,1,0,0,4,12,2,0,1,1
-2022-10-08,Championship,2022-23,Coventry,Burnley,0,1,2,7,1,3,0,0,1,9,4,0,0,0
-2022-10-08,Championship,2022-23,Millwall,Middlesbrough,2,0,0,7,2,2,0,0,2,7,4,0,0,0
-2022-10-08,Championship,2022-23,Norwich,Preston,2,3,8,3,1,5,0,0,5,11,6,0,1,1
-2022-10-08,Championship,2022-23,Stoke,Sheffield United,3,1,6,5,3,1,0,0,4,11,4,0,1,1
-2022-10-08,Championship,2022-23,Swansea,Sunderland,2,1,7,4,2,5,0,0,3,11,7,0,1,1
-2022-10-08,Championship,2022-23,West Brom,Luton,0,0,7,4,1,1,0,0,0,11,2,0,0,0
-2022-10-08,Championship,2022-23,Wigan,Cardiff,1,3,6,3,4,2,0,0,4,9,6,0,1,1
-2022-10-09,Championship,2022-23,Huddersfield,Hull,2,0,6,3,4,3,0,0,2,9,7,0,0,0
-2022-10-11,Championship,2022-23,Wigan,Blackburn,1,0,2,1,2,1,0,0,1,3,3,0,0,0
-2022-10-12,Championship,2022-23,Bristol City,Preston,2,1,5,1,3,4,0,0,3,6,7,0,1,1
-2022-10-15,Championship,2022-23,Luton,QPR,3,1,9,9,2,0,0,0,4,18,2,0,1,1
-2022-10-15,Championship,2022-23,Rotherham,Huddersfield,2,1,3,3,3,2,0,0,3,6,5,0,1,1
-2022-10-15,Championship,2022-23,Bristol City,Millwall,1,2,0,6,2,3,0,0,3,6,5,0,1,1
-2022-10-15,Championship,2022-23,Burnley,Swansea,4,0,5,6,1,4,0,1,4,11,5,1,0,1
-2022-10-15,Championship,2022-23,Cardiff,Coventry,0,1,12,7,1,4,0,0,1,19,5,0,0,0
-2022-10-15,Championship,2022-23,Middlesbrough,Blackburn,1,2,9,4,2,4,0,0,3,13,6,0,1,1
-2022-10-15,Championship,2022-23,Preston,Stoke,0,2,3,6,1,0,0,0,2,9,1,0,0,0
-2022-10-15,Championship,2022-23,Reading,West Brom,0,2,4,7,3,1,0,0,2,11,4,0,0,0
-2022-10-15,Championship,2022-23,Sheffield United,Blackpool,3,3,14,4,5,0,1,3,6,18,5,4,1,1
-2022-10-15,Championship,2022-23,Sunderland,Wigan,2,1,1,5,3,2,0,0,3,6,5,0,1,1
-2022-10-15,Championship,2022-23,Watford,Norwich,2,1,3,12,1,1,0,0,3,15,2,0,1,1
-2022-10-16,Championship,2022-23,Hull,Birmingham,0,2,7,6,4,3,0,0,2,13,7,0,0,0
-2022-10-18,Championship,2022-23,Stoke,Rotherham,0,1,8,3,0,3,0,0,1,11,3,0,0,0
-2022-10-18,Championship,2022-23,Blackburn,Sunderland,2,0,3,7,3,3,0,0,2,10,6,0,0,0
-2022-10-18,Championship,2022-23,West Brom,Bristol City,0,2,13,1,3,1,0,0,2,14,4,0,0,0
-2022-10-18,Championship,2022-23,Norwich,Luton,0,1,4,2,1,2,1,0,1,6,3,1,0,0
-2022-10-18,Championship,2022-23,Huddersfield,Preston,0,1,5,5,5,1,0,0,1,10,6,0,0,0
-2022-10-18,Championship,2022-23,Swansea,Reading,3,2,8,0,1,1,0,0,5,8,2,0,1,1
-2022-10-19,Championship,2022-23,Millwall,Watford,3,0,2,5,0,2,0,0,3,7,2,0,0,1
-2022-10-19,Championship,2022-23,Wigan,Middlesbrough,1,4,4,4,1,2,0,0,5,8,3,0,1,1
-2022-10-19,Championship,2022-23,QPR,Cardiff,3,0,6,2,2,5,0,1,3,8,7,1,0,1
-2022-10-19,Championship,2022-23,Birmingham,Burnley,1,1,8,4,1,2,0,0,2,12,3,0,1,0
-2022-10-19,Championship,2022-23,Blackpool,Hull,1,3,2,4,3,4,0,0,4,6,7,0,1,1
-2022-10-19,Championship,2022-23,Coventry,Sheffield United,1,0,4,10,4,1,0,0,1,14,5,0,0,0
-2022-10-22,Championship,2022-23,Stoke,Coventry,0,2,9,2,1,1,0,0,2,11,2,0,0,0
-2022-10-22,Championship,2022-23,Sheffield United,Norwich,2,2,4,9,1,5,0,0,4,13,6,0,1,1
-2022-10-22,Championship,2022-23,Rotherham,Hull,2,4,4,7,1,0,0,0,6,11,1,0,1,1
-2022-10-22,Championship,2022-23,Reading,Bristol City,2,0,10,5,2,3,0,0,2,15,5,0,0,0
-2022-10-22,Championship,2022-23,Sunderland,Burnley,2,4,2,5,1,3,0,0,6,7,4,0,1,1
-2022-10-22,Championship,2022-23,Millwall,West Brom,2,1,5,2,1,1,0,1,3,7,2,1,1,1
-2022-10-22,Championship,2022-23,Middlesbrough,Huddersfield,0,0,3,5,3,1,0,0,0,8,4,0,0,0
-2022-10-22,Championship,2022-23,Blackburn,Birmingham,2,1,2,9,1,1,0,0,3,11,2,0,1,1
-2022-10-22,Championship,2022-23,Blackpool,Preston,4,2,1,6,1,2,0,0,6,7,3,0,1,1
-2022-10-22,Championship,2022-23,QPR,Wigan,2,1,5,4,1,2,0,0,3,9,3,0,1,1
-2022-10-23,Championship,2022-23,Swansea,Cardiff,2,0,7,1,3,3,0,1,2,8,6,1,0,0
-2022-10-23,Championship,2022-23,Watford,Luton,4,0,6,1,3,4,0,1,4,7,7,1,0,1
-2022-10-25,Championship,2022-23,Burnley,Norwich,1,0,5,4,3,3,0,0,1,9,6,0,0,0
-2022-10-25,Championship,2022-23,Coventry,Rotherham,2,2,6,1,2,3,0,0,4,7,5,0,1,1
-2022-10-28,Championship,2022-23,Birmingham,QPR,2,0,2,10,4,3,0,0,2,12,7,0,0,0
-2022-10-29,Championship,2022-23,Bristol City,Swansea,1,1,7,11,1,0,0,0,2,18,1,0,1,0
-2022-10-29,Championship,2022-23,Burnley,Reading,2,1,12,9,3,4,0,0,3,21,7,0,1,1
-2022-10-29,Championship,2022-23,Cardiff,Rotherham,1,0,10,3,0,1,0,0,1,13,1,0,0,0
-2022-10-29,Championship,2022-23,Coventry,Blackpool,1,2,3,5,1,4,0,0,3,8,5,0,1,1
-2022-10-29,Championship,2022-23,Huddersfield,Millwall,1,0,8,1,2,3,0,0,1,9,5,0,0,0
-2022-10-29,Championship,2022-23,Hull,Blackburn,0,1,6,3,2,1,0,0,1,9,3,0,0,0
-2022-10-29,Championship,2022-23,Luton,Sunderland,1,1,8,5,2,3,0,0,2,13,5,0,1,0
-2022-10-29,Championship,2022-23,Norwich,Stoke,3,1,5,6,6,2,0,0,4,11,8,0,1,1
-2022-10-29,Championship,2022-23,Preston,Middlesbrough,2,1,2,4,3,3,0,0,3,6,6,0,1,1
-2022-10-29,Championship,2022-23,Wigan,Watford,0,1,3,4,2,2,0,0,1,7,4,0,0,0
-2022-10-29,Championship,2022-23,West Brom,Sheffield United,0,2,8,3,0,1,0,0,2,11,1,0,0,0
-2022-11-01,Championship,2022-23,Bristol City,Sheffield United,0,1,8,1,3,5,1,0,1,9,8,1,0,0
-2022-11-01,Championship,2022-23,West Brom,Blackpool,1,0,7,2,4,2,0,0,1,9,6,0,0,0
-2022-11-01,Championship,2022-23,Preston,Swansea,1,0,2,7,4,3,0,0,1,9,7,0,0,0
-2022-11-01,Championship,2022-23,Hull,Middlesbrough,1,3,7,2,1,3,0,0,4,9,4,0,1,1
-2022-11-01,Championship,2022-23,Luton,Reading,0,0,6,5,2,3,0,0,0,11,5,0,0,0
-2022-11-01,Championship,2022-23,Coventry,Blackburn,1,0,3,4,2,4,0,1,1,7,6,1,0,0
-2022-11-02,Championship,2022-23,Birmingham,Millwall,0,0,2,5,0,1,0,0,0,7,1,0,0,0
-2022-11-02,Championship,2022-23,Burnley,Rotherham,3,2,7,3,3,2,0,1,5,10,5,1,1,1
-2022-11-02,Championship,2022-23,Cardiff,Watford,1,2,8,11,2,2,0,0,3,19,4,0,1,1
-2022-11-02,Championship,2022-23,Huddersfield,Sunderland,0,2,5,1,2,2,0,0,2,6,4,0,0,0
-2022-11-02,Championship,2022-23,Norwich,QPR,0,0,11,4,1,3,0,0,0,15,4,0,0,0
-2022-11-02,Championship,2022-23,Wigan,Stoke,0,1,2,7,1,1,0,0,1,9,2,0,0,0
-2022-11-04,Championship,2022-23,Reading,Preston,1,2,3,2,1,4,0,0,3,5,5,0,1,1
-2022-11-05,Championship,2022-23,Stoke,Birmingham,1,2,4,3,3,4,0,0,3,7,7,0,1,1
-2022-11-05,Championship,2022-23,Watford,Coventry,0,1,10,5,4,2,0,0,1,15,6,0,0,0
-2022-11-05,Championship,2022-23,Swansea,Wigan,2,2,6,3,2,2,0,0,4,9,4,0,1,1
-2022-11-05,Championship,2022-23,Sunderland,Cardiff,0,1,6,4,4,3,0,0,1,10,7,0,0,0
-2022-11-05,Championship,2022-23,QPR,West Brom,0,1,8,5,1,2,0,0,1,13,3,0,0,0
-2022-11-05,Championship,2022-23,Rotherham,Norwich,1,2,2,9,1,3,0,0,3,11,4,0,1,1
-2022-11-05,Championship,2022-23,Middlesbrough,Bristol City,1,1,8,1,3,2,0,0,2,9,5,0,1,0
-2022-11-05,Championship,2022-23,Blackpool,Luton,0,1,9,11,1,1,0,0,1,20,2,0,0,0
-2022-11-05,Championship,2022-23,Blackburn,Huddersfield,1,0,5,4,0,3,0,0,1,9,3,0,0,0
-2022-11-05,Championship,2022-23,Sheffield United,Burnley,5,2,10,6,2,3,0,0,7,16,5,0,1,1
-2022-11-05,Championship,2022-23,Millwall,Hull,0,0,10,2,0,3,0,1,0,12,3,1,0,0
-2022-11-08,Championship,2022-23,Coventry,Wigan,2,0,6,4,2,1,0,0,2,10,3,0,0,0
-2022-11-08,Championship,2022-23,Birmingham,Swansea,2,2,12,1,3,4,0,0,4,13,7,0,1,1
-2022-11-08,Championship,2022-23,Blackpool,Middlesbrough,0,3,2,7,4,1,0,0,3,9,5,0,0,1
-2022-11-08,Championship,2022-23,Cardiff,Hull,2,3,4,2,0,1,0,0,5,6,1,0,1,1
-2022-11-08,Championship,2022-23,QPR,Huddersfield,1,2,14,4,0,6,0,0,3,18,6,0,1,1
-2022-11-08,Championship,2022-23,Sheffield United,Rotherham,0,1,12,1,2,3,0,0,1,13,5,0,0,0
-2022-11-08,Championship,2022-23,Stoke,Luton,2,0,5,13,1,4,0,0,2,18,5,0,0,0
-2022-11-08,Championship,2022-23,Watford,Reading,2,0,7,3,2,3,0,0,2,10,5,0,0,0
-2022-11-11,Championship,2022-23,Birmingham,Sunderland,1,2,7,3,2,4,0,0,3,10,6,0,1,1
-2022-11-12,Championship,2022-23,Preston,Millwall,2,4,2,2,1,3,0,0,6,4,4,0,1,1
-2022-11-12,Championship,2022-23,Norwich,Middlesbrough,1,2,3,4,1,2,0,0,3,7,3,0,1,1
-2022-11-12,Championship,2022-23,West Brom,Stoke,2,0,8,6,1,3,0,0,2,14,4,0,0,0
-2022-11-12,Championship,2022-23,Wigan,Blackpool,2,1,8,3,3,2,0,1,3,11,5,1,1,1
-2022-11-12,Championship,2022-23,Luton,Rotherham,1,1,12,4,1,7,0,0,2,16,8,0,1,0
-2022-11-12,Championship,2022-23,Huddersfield,Swansea,0,0,2,11,1,2,0,0,0,13,3,0,0,0
-2022-11-12,Championship,2022-23,Coventry,QPR,2,0,2,6,2,2,0,0,2,8,4,0,0,0
-2022-11-12,Championship,2022-23,Cardiff,Sheffield United,0,1,5,4,0,1,0,0,1,9,1,0,0,0
-2022-11-12,Championship,2022-23,Bristol City,Watford,0,0,4,3,1,1,0,0,0,7,2,0,0,0
-2022-11-12,Championship,2022-23,Hull,Reading,1,2,4,6,0,1,0,0,3,10,1,0,1,1
-2022-11-13,Championship,2022-23,Burnley,Blackburn,3,0,7,3,1,2,0,0,3,10,3,0,0,1
-2022-12-03,Championship,2022-23,Sunderland,Millwall,3,0,1,8,1,3,0,0,3,9,4,0,0,1
-2022-12-10,Championship,2022-23,Blackburn,Preston,1,4,2,2,1,2,0,0,5,4,3,0,1,1
-2022-12-10,Championship,2022-23,Rotherham,Bristol City,1,3,7,9,1,4,0,0,4,16,5,0,1,1
-2022-12-10,Championship,2022-23,Reading,Coventry,1,0,4,4,2,3,0,0,1,8,5,0,0,0
-2022-12-10,Championship,2022-23,Blackpool,Birmingham,0,0,2,6,0,1,0,0,0,8,1,0,0,0
-2022-12-10,Championship,2022-23,Middlesbrough,Luton,2,1,3,2,0,2,0,1,3,5,2,1,1,1
-2022-12-10,Championship,2022-23,Millwall,Wigan,1,1,4,3,1,2,0,0,2,7,3,0,1,0
-2022-12-10,Championship,2022-23,Sheffield United,Huddersfield,1,0,10,1,2,2,0,0,1,11,4,0,0,0
-2022-12-10,Championship,2022-23,Stoke,Cardiff,2,2,6,6,1,2,0,0,4,12,3,0,1,1
-2022-12-10,Championship,2022-23,Swansea,Norwich,0,1,7,4,2,5,0,0,1,11,7,0,0,0
-2022-12-11,Championship,2022-23,Watford,Hull,0,0,7,5,0,4,0,0,0,12,4,0,0,0
-2022-12-11,Championship,2022-23,QPR,Burnley,0,3,2,6,1,2,0,0,3,8,3,0,0,1
-2022-12-12,Championship,2022-23,Sunderland,West Brom,1,2,5,5,1,1,0,0,3,10,2,0,1,1
-2022-12-16,Championship,2022-23,Birmingham,Reading,3,2,0,7,1,1,0,0,5,7,2,0,1,1
-2022-12-17,Championship,2022-23,Preston,QPR,0,1,4,4,1,3,0,0,1,8,4,0,0,0
-2022-12-17,Championship,2022-23,Bristol City,Stoke,1,2,3,3,3,4,0,0,3,6,7,0,1,1
-2022-12-17,Championship,2022-23,Burnley,Middlesbrough,3,1,4,1,1,2,1,0,4,5,3,1,1,1
-2022-12-17,Championship,2022-23,Cardiff,Blackpool,1,1,4,6,3,3,0,0,2,10,6,0,1,0
-2022-12-17,Championship,2022-23,Coventry,Swansea,3,3,5,3,0,2,0,0,6,8,2,0,1,1
-2022-12-17,Championship,2022-23,Huddersfield,Watford,0,2,7,11,2,2,0,0,2,18,4,0,0,0
-2022-12-17,Championship,2022-23,Hull,Sunderland,1,1,7,4,1,1,0,1,2,11,2,1,1,0
-2022-12-17,Championship,2022-23,West Brom,Rotherham,3,0,6,3,1,2,0,0,3,9,3,0,0,1
-2022-12-17,Championship,2022-23,Norwich,Blackburn,0,2,6,2,4,3,0,0,2,8,7,0,0,0
-2022-12-19,Championship,2022-23,Wigan,Sheffield United,1,2,8,4,1,3,0,0,3,12,4,0,1,1
-2022-12-21,Championship,2022-23,Coventry,West Brom,1,0,10,2,2,1,0,0,1,12,3,0,0,0
-2022-12-26,Championship,2022-23,Sheffield United,Coventry,3,1,2,7,0,3,1,0,4,9,3,1,1,1
-2022-12-26,Championship,2022-23,Rotherham,Stoke,2,2,3,3,1,2,0,0,4,6,3,0,1,1
-2022-12-26,Championship,2022-23,Luton,Norwich,2,1,6,4,1,1,1,0,3,10,2,1,1,1
-2022-12-26,Championship,2022-23,Cardiff,QPR,0,0,1,6,2,3,0,0,0,7,5,0,0,0
-2022-12-26,Championship,2022-23,Preston,Huddersfield,1,2,2,3,2,3,0,0,3,5,5,0,1,1
-2022-12-26,Championship,2022-23,Sunderland,Blackburn,2,1,7,3,3,5,0,0,3,10,8,0,1,1
-2022-12-26,Championship,2022-23,Hull,Blackpool,1,1,11,8,2,2,0,1,2,19,4,1,1,0
-2022-12-26,Championship,2022-23,Bristol City,West Brom,0,2,8,6,2,1,0,0,2,14,3,0,0,0
-2022-12-26,Championship,2022-23,Middlesbrough,Wigan,4,1,9,10,2,1,0,0,5,19,3,0,1,1
-2022-12-26,Championship,2022-23,Watford,Millwall,0,2,4,10,2,3,1,0,2,14,5,1,0,0
-2022-12-27,Championship,2022-23,Reading,Swansea,2,1,3,4,2,3,0,0,3,7,5,0,1,1
-2022-12-27,Championship,2022-23,Burnley,Birmingham,3,0,1,1,1,3,0,0,3,2,4,0,0,1
-2022-12-29,Championship,2022-23,QPR,Luton,0,3,6,2,0,4,0,0,3,8,4,0,0,1
-2022-12-29,Championship,2022-23,Blackburn,Middlesbrough,1,2,1,7,1,3,1,0,3,8,4,1,1,1
-2022-12-29,Championship,2022-23,Coventry,Cardiff,0,0,5,2,2,1,0,0,0,7,3,0,0,0
-2022-12-29,Championship,2022-23,Huddersfield,Rotherham,2,0,0,2,3,2,0,0,2,2,5,0,0,0
-2022-12-29,Championship,2022-23,Millwall,Bristol City,0,0,3,4,0,0,0,0,0,7,0,0,0,0
-2022-12-29,Championship,2022-23,Wigan,Sunderland,1,4,1,4,2,1,0,0,5,5,3,0,1,1
-2022-12-29,Championship,2022-23,West Brom,Preston,2,0,14,3,1,1,0,0,2,17,2,0,0,0
-2022-12-29,Championship,2022-23,Blackpool,Sheffield United,1,2,5,6,0,0,0,0,3,11,0,0,1,1
-2022-12-30,Championship,2022-23,Stoke,Burnley,0,1,3,5,2,3,0,0,1,8,5,0,0,0
-2022-12-30,Championship,2022-23,Swansea,Watford,4,0,4,2,4,2,0,0,4,6,6,0,0,1
-2022-12-30,Championship,2022-23,Birmingham,Hull,0,1,4,7,3,1,0,0,1,11,4,0,0,0
-2022-12-30,Championship,2022-23,Norwich,Reading,1,1,8,7,3,2,0,0,2,15,5,0,1,0
-2023-01-01,Championship,2022-23,Blackburn,Cardiff,1,0,3,9,3,2,0,0,1,12,5,0,0,0
-2023-01-01,Championship,2022-23,Blackpool,Sunderland,1,1,1,5,3,2,1,0,2,6,5,1,1,0
-2023-01-01,Championship,2022-23,Coventry,Bristol City,1,1,6,11,3,2,0,0,2,17,5,0,1,0
-2023-01-01,Championship,2022-23,Huddersfield,Luton,1,2,1,1,1,3,0,0,3,2,4,0,1,1
-2023-01-01,Championship,2022-23,Millwall,Rotherham,3,0,10,1,1,1,0,0,3,11,2,0,0,1
-2023-01-02,Championship,2022-23,QPR,Sheffield United,1,1,8,6,2,2,0,0,2,14,4,0,1,0
-2023-01-02,Championship,2022-23,Wigan,Hull,1,4,7,5,1,2,0,0,5,12,3,0,1,1
-2023-01-02,Championship,2022-23,West Brom,Reading,1,0,6,3,1,4,0,0,1,9,5,0,0,0
-2023-01-02,Championship,2022-23,Stoke,Preston,0,1,4,7,4,4,0,0,1,11,8,0,0,0
-2023-01-02,Championship,2022-23,Norwich,Watford,0,1,8,3,2,3,0,0,1,11,5,0,0,0
-2023-01-02,Championship,2022-23,Birmingham,Middlesbrough,1,3,9,8,1,2,0,0,4,17,3,0,1,1
-2023-01-02,Championship,2022-23,Swansea,Burnley,1,2,4,5,3,5,0,0,3,9,8,0,1,1
-2023-01-14,Championship,2022-23,Preston,Norwich,0,4,4,7,4,4,0,0,4,11,8,0,0,1
-2023-01-14,Championship,2022-23,Watford,Blackpool,2,0,2,3,2,3,0,0,2,5,5,0,0,0
-2023-01-14,Championship,2022-23,Sunderland,Swansea,1,3,1,4,1,4,1,0,4,5,5,1,1,1
-2023-01-14,Championship,2022-23,Sheffield United,Stoke,3,1,2,6,2,2,0,0,4,8,4,0,1,1
-2023-01-14,Championship,2022-23,Reading,QPR,2,2,5,7,2,2,0,0,4,12,4,0,1,1
-2023-01-14,Championship,2022-23,Middlesbrough,Millwall,1,0,6,3,2,3,0,0,1,9,5,0,0,0
-2023-01-14,Championship,2022-23,Rotherham,Blackburn,4,0,4,2,1,0,0,0,4,6,1,0,0,1
-2023-01-14,Championship,2022-23,Hull,Huddersfield,1,1,4,4,0,2,0,0,2,8,2,0,1,0
-2023-01-14,Championship,2022-23,Cardiff,Wigan,1,1,3,3,4,2,0,0,2,6,6,0,1,0
-2023-01-14,Championship,2022-23,Burnley,Coventry,1,0,3,5,3,3,0,0,1,8,6,0,0,0
-2023-01-14,Championship,2022-23,Bristol City,Birmingham,4,2,5,2,2,1,0,0,6,7,3,0,1,1
-2023-01-14,Championship,2022-23,Luton,West Brom,2,3,2,9,3,2,0,0,5,11,5,0,1,1
-2023-01-20,Championship,2022-23,Sheffield United,Hull,1,0,4,2,6,2,0,1,1,6,8,1,0,0
-2023-01-20,Championship,2022-23,Burnley,West Brom,2,1,16,5,1,1,0,0,3,21,2,0,1,1
-2023-01-21,Championship,2022-23,Wigan,Luton,0,2,3,1,2,3,0,0,2,4,5,0,0,0
-2023-01-21,Championship,2022-23,Watford,Rotherham,1,1,9,3,3,3,0,0,2,12,6,0,1,0
-2023-01-21,Championship,2022-23,QPR,Swansea,1,1,5,8,0,0,0,0,2,13,0,0,1,0
-2023-01-21,Championship,2022-23,Stoke,Reading,4,0,6,2,0,0,0,0,4,8,0,0,0,1
-2023-01-21,Championship,2022-23,Bristol City,Blackburn,1,1,5,3,1,1,0,1,2,8,2,1,1,0
-2023-01-21,Championship,2022-23,Birmingham,Preston,1,2,5,3,4,1,0,0,3,8,5,0,1,1
-2023-01-21,Championship,2022-23,Coventry,Norwich,2,4,4,6,0,1,0,0,6,10,1,0,1,1
-2023-01-21,Championship,2022-23,Cardiff,Millwall,0,1,7,4,3,3,0,0,1,11,6,0,0,0
-2023-01-22,Championship,2022-23,Sunderland,Middlesbrough,2,0,4,8,0,2,0,1,2,12,2,1,0,0
-2023-01-28,Championship,2022-23,Coventry,Huddersfield,2,0,6,3,1,2,0,0,2,9,3,0,0,0
-2023-01-28,Championship,2022-23,Hull,QPR,3,0,4,5,0,4,0,0,3,9,4,0,0,1
-2023-01-28,Championship,2022-23,Middlesbrough,Watford,2,0,9,5,1,2,0,0,2,14,3,0,0,0
-2023-01-31,Championship,2022-23,Luton,Cardiff,1,0,13,2,3,2,0,0,1,15,5,0,0,0
-2023-02-03,Championship,2022-23,West Brom,Coventry,1,0,10,4,4,1,0,0,1,14,5,0,0,0
-2023-02-04,Championship,2022-23,Millwall,Sunderland,1,1,5,6,3,1,0,0,2,11,4,0,1,0
-2023-02-04,Championship,2022-23,Swansea,Birmingham,3,4,1,3,1,2,0,0,7,4,3,0,1,1
-2023-02-04,Championship,2022-23,Reading,Watford,2,2,4,4,3,4,0,0,4,8,7,0,1,1
-2023-02-04,Championship,2022-23,Middlesbrough,Blackpool,3,0,9,7,1,2,0,0,3,16,3,0,0,1
-2023-02-04,Championship,2022-23,Preston,Bristol City,1,2,5,3,1,4,0,0,3,8,5,0,1,1
-2023-02-04,Championship,2022-23,Hull,Cardiff,1,0,3,7,2,0,0,0,1,10,2,0,0,0
-2023-02-04,Championship,2022-23,Huddersfield,QPR,1,1,8,4,2,2,0,0,2,12,4,0,1,0
-2023-02-04,Championship,2022-23,Luton,Stoke,1,0,7,5,2,3,0,0,1,12,5,0,0,0
-2023-02-04,Championship,2022-23,Rotherham,Sheffield United,0,0,3,5,1,1,0,0,0,8,2,0,0,0
-2023-02-04,Championship,2022-23,Norwich,Burnley,0,3,5,3,5,3,0,0,3,8,8,0,0,1
-2023-02-06,Championship,2022-23,Blackburn,Wigan,0,0,7,7,3,1,0,0,0,14,4,0,0,0
-2023-02-07,Championship,2022-23,Blackpool,Huddersfield,2,2,3,7,1,3,1,0,4,10,4,1,1,1
-2023-02-10,Championship,2022-23,Birmingham,West Brom,2,0,5,6,3,3,0,0,2,11,6,0,0,0
-2023-02-11,Championship,2022-23,Watford,Blackburn,1,1,6,2,2,4,0,0,2,8,6,0,1,0
-2023-02-11,Championship,2022-23,Sunderland,Reading,1,0,4,8,0,2,0,0,1,12,2,0,0,0
-2023-02-11,Championship,2022-23,Stoke,Hull,0,0,7,2,0,2,0,0,0,9,2,0,0,0
-2023-02-11,Championship,2022-23,Sheffield United,Swansea,3,0,4,5,2,3,0,0,3,9,5,0,0,1
-2023-02-11,Championship,2022-23,QPR,Millwall,1,2,4,3,1,1,0,0,3,7,2,0,1,1
-2023-02-11,Championship,2022-23,Wigan,Huddersfield,1,0,3,2,1,1,0,0,1,5,2,0,0,0
-2023-02-11,Championship,2022-23,Cardiff,Middlesbrough,1,3,7,4,0,2,0,0,4,11,2,0,1,1
-2023-02-11,Championship,2022-23,Burnley,Preston,3,0,5,2,1,3,0,0,3,7,4,0,0,1
-2023-02-11,Championship,2022-23,Bristol City,Norwich,1,0,8,8,1,3,0,0,1,16,4,0,0,0
-2023-02-11,Championship,2022-23,Blackpool,Rotherham,0,0,4,0,1,0,0,0,0,4,1,0,0,0
-2023-02-11,Championship,2022-23,Coventry,Luton,1,1,5,5,1,4,1,0,2,10,5,1,1,0
-2023-02-14,Championship,2022-23,Birmingham,Cardiff,0,2,5,4,3,3,0,0,2,9,6,0,0,0
-2023-02-14,Championship,2022-23,Coventry,Millwall,1,0,3,6,1,3,0,0,1,9,4,0,0,0
-2023-02-14,Championship,2022-23,Norwich,Hull,3,1,5,3,0,1,0,0,4,8,1,0,1,1
-2023-02-14,Championship,2022-23,QPR,Sunderland,0,3,2,2,6,2,0,0,3,4,8,0,0,1
-2023-02-14,Championship,2022-23,Burnley,Watford,1,1,5,1,3,3,0,0,2,6,6,0,1,0
-2023-02-14,Championship,2022-23,Reading,Rotherham,2,1,4,4,2,0,0,0,3,8,2,0,1,1
-2023-02-15,Championship,2022-23,West Brom,Blackburn,1,1,12,5,2,1,0,0,2,17,3,0,1,0
-2023-02-15,Championship,2022-23,Sheffield United,Middlesbrough,1,3,6,6,3,3,0,0,4,12,6,0,1,1
-2023-02-15,Championship,2022-23,Swansea,Blackpool,2,1,6,2,2,1,0,1,3,8,3,1,1,1
-2023-02-15,Championship,2022-23,Bristol City,Wigan,1,1,3,11,2,3,0,0,2,14,5,0,1,0
-2023-02-15,Championship,2022-23,Preston,Luton,1,1,2,10,2,2,1,0,2,12,4,1,1,0
-2023-02-15,Championship,2022-23,Stoke,Huddersfield,3,0,12,3,2,3,0,1,3,15,5,1,0,1
-2023-02-17,Championship,2022-23,Cardiff,Reading,1,0,8,3,1,2,0,0,1,11,3,0,0,0
-2023-02-18,Championship,2022-23,Middlesbrough,QPR,3,1,9,9,1,0,0,0,4,18,1,0,1,1
-2023-02-18,Championship,2022-23,Sunderland,Bristol City,1,1,2,4,1,0,0,0,2,6,1,0,1,0
-2023-02-18,Championship,2022-23,Wigan,Norwich,0,0,3,5,2,2,0,0,0,8,4,0,0,0
-2023-02-18,Championship,2022-23,Rotherham,Coventry,0,2,4,2,2,3,0,0,2,6,5,0,0,0
-2023-02-18,Championship,2022-23,Luton,Burnley,0,1,7,5,1,1,1,0,1,12,2,1,0,0
-2023-02-18,Championship,2022-23,Blackburn,Swansea,1,0,6,3,4,0,0,0,1,9,4,0,0,0
-2023-02-18,Championship,2022-23,Huddersfield,Birmingham,2,1,4,6,1,1,0,0,3,10,2,0,1,1
-2023-02-18,Championship,2022-23,Blackpool,Stoke,1,0,3,5,4,1,0,0,1,8,5,0,0,0
-2023-02-18,Championship,2022-23,Millwall,Sheffield United,3,2,4,5,3,4,0,0,5,9,7,0,1,1
-2023-02-18,Championship,2022-23,Hull,Preston,0,0,11,6,2,2,0,0,0,17,4,0,0,0
-2023-02-20,Championship,2022-23,Watford,West Brom,3,2,6,6,2,2,0,0,5,12,4,0,1,1
-2023-02-21,Championship,2022-23,Blackburn,Blackpool,1,0,8,2,3,0,0,0,1,10,3,0,0,0
-2023-02-21,Championship,2022-23,Millwall,Burnley,1,1,3,6,1,1,0,0,2,9,2,0,1,0
-2023-02-21,Championship,2022-23,Norwich,Birmingham,3,1,6,1,1,2,0,0,4,7,3,0,1,1
-2023-02-21,Championship,2022-23,Rotherham,Sunderland,2,1,4,6,2,1,0,0,3,10,3,0,1,1
-2023-02-21,Championship,2022-23,Swansea,Stoke,1,3,5,4,4,1,0,0,4,9,5,0,1,1
-2023-02-25,Championship,2022-23,West Brom,Middlesbrough,2,0,4,8,0,1,0,0,2,12,1,0,0,0
-2023-02-25,Championship,2022-23,Stoke,Millwall,0,1,9,4,0,1,0,0,1,13,1,0,0,0
-2023-02-25,Championship,2022-23,Sheffield United,Watford,1,0,5,5,2,3,0,0,1,10,5,0,0,0
-2023-02-25,Championship,2022-23,Reading,Blackpool,3,1,3,8,1,0,0,0,4,11,1,0,1,1
-2023-02-25,Championship,2022-23,QPR,Blackburn,1,3,7,1,4,0,0,0,4,8,4,0,1,1
-2023-02-25,Championship,2022-23,Norwich,Cardiff,2,0,3,5,1,1,0,0,2,8,2,0,0,0
-2023-02-25,Championship,2022-23,Burnley,Huddersfield,4,0,5,2,0,2,0,0,4,7,2,0,0,1
-2023-02-25,Championship,2022-23,Bristol City,Hull,1,0,7,3,0,1,0,0,1,10,1,0,0,0
-2023-02-25,Championship,2022-23,Birmingham,Luton,0,1,2,7,1,1,0,0,1,9,2,0,0,0
-2023-02-25,Championship,2022-23,Coventry,Sunderland,2,1,4,7,3,2,0,0,3,11,5,0,1,1
-2023-02-25,Championship,2022-23,Preston,Wigan,2,1,3,7,2,1,1,0,3,10,3,1,1,1
-2023-02-27,Championship,2022-23,Swansea,Rotherham,1,1,3,6,3,2,0,0,2,9,5,0,1,0
-2023-02-28,Championship,2022-23,Preston,Coventry,0,0,4,2,1,4,0,0,0,6,5,0,0,0
-2023-02-28,Championship,2022-23,Luton,Millwall,2,2,6,2,0,1,0,0,4,8,1,0,1,1
-2023-03-03,Championship,2022-23,Hull,West Brom,2,0,4,6,0,2,0,0,2,10,2,0,0,0
-2023-03-04,Championship,2022-23,Millwall,Norwich,2,3,4,4,2,3,0,0,5,8,5,0,1,1
-2023-03-04,Championship,2022-23,Wigan,Birmingham,1,1,2,1,2,2,0,0,2,3,4,0,1,0
-2023-03-04,Championship,2022-23,Sunderland,Stoke,1,5,2,4,1,2,0,0,6,6,3,0,1,1
-2023-03-04,Championship,2022-23,Rotherham,QPR,3,1,7,8,2,3,0,0,4,15,5,0,1,1
-2023-03-04,Championship,2022-23,Middlesbrough,Reading,5,0,6,1,1,2,0,0,5,7,3,0,0,1
-2023-03-04,Championship,2022-23,Watford,Preston,0,0,6,3,1,4,0,0,0,9,5,0,0,0
-2023-03-04,Championship,2022-23,Huddersfield,Coventry,0,4,5,5,0,1,0,0,4,10,1,0,0,1
-2023-03-04,Championship,2022-23,Blackburn,Sheffield United,1,0,3,8,2,3,0,0,1,11,5,0,0,0
-2023-03-04,Championship,2022-23,Luton,Swansea,1,0,4,3,2,2,0,0,1,7,4,0,0,0
-2023-03-04,Championship,2022-23,Blackpool,Burnley,0,0,1,8,1,1,0,0,0,9,2,0,0,0
-2023-03-04,Championship,2022-23,Cardiff,Bristol City,2,0,3,5,0,0,1,0,2,8,0,1,0,0
-2023-03-07,Championship,2022-23,Huddersfield,Bristol City,0,0,6,4,3,2,0,0,0,10,5,0,0,0
-2023-03-07,Championship,2022-23,Reading,Sheffield United,0,1,3,4,2,0,0,0,1,7,2,0,0,0
-2023-03-07,Championship,2022-23,West Brom,Wigan,1,0,1,2,0,2,0,0,1,3,2,0,0,0
-2023-03-10,Championship,2022-23,Stoke,Blackburn,3,2,1,5,2,2,0,0,5,6,4,0,1,1
-2023-03-11,Championship,2022-23,West Brom,Huddersfield,1,0,9,2,1,0,0,0,1,11,1,0,0,0
-2023-03-11,Championship,2022-23,Sheffield United,Luton,0,1,3,4,2,0,0,0,1,7,2,0,0,0
-2023-03-11,Championship,2022-23,Reading,Millwall,0,1,2,2,1,0,0,0,1,4,1,0,0,0
-2023-03-11,Championship,2022-23,QPR,Watford,1,0,2,5,2,2,0,0,1,7,4,0,0,0
-2023-03-11,Championship,2022-23,Swansea,Middlesbrough,1,3,4,6,2,1,0,0,4,10,3,0,1,1
-2023-03-11,Championship,2022-23,Coventry,Hull,1,1,10,3,0,0,0,0,2,13,0,0,1,0
-2023-03-11,Championship,2022-23,Burnley,Wigan,3,0,10,0,1,3,0,1,3,10,4,1,0,1
-2023-03-11,Championship,2022-23,Birmingham,Rotherham,2,0,4,10,1,3,0,0,2,14,4,0,0,0
-2023-03-11,Championship,2022-23,Preston,Cardiff,2,0,4,4,2,1,0,1,2,8,3,1,0,0
-2023-03-11,Championship,2022-23,Bristol City,Blackpool,2,0,6,0,0,1,0,0,2,6,1,0,0,0
-2023-03-12,Championship,2022-23,Norwich,Sunderland,0,1,8,3,2,5,0,0,1,11,7,0,0,0
-2023-03-14,Championship,2022-23,Blackpool,QPR,6,1,6,1,1,3,0,0,7,7,4,0,1,1
-2023-03-14,Championship,2022-23,Millwall,Swansea,2,1,5,5,1,2,0,0,3,10,3,0,1,1
-2023-03-14,Championship,2022-23,Rotherham,Preston,1,2,3,5,2,2,0,0,3,8,4,0,1,1
-2023-03-14,Championship,2022-23,Watford,Birmingham,3,0,3,1,1,3,0,0,3,4,4,0,0,1
-2023-03-14,Championship,2022-23,Middlesbrough,Stoke,1,1,4,6,1,4,0,0,2,10,5,0,1,0
-2023-03-14,Championship,2022-23,Wigan,Coventry,1,1,6,4,1,1,0,0,2,10,2,0,1,0
-2023-03-15,Championship,2022-23,Blackburn,Reading,2,1,6,4,2,2,0,1,3,10,4,1,1,1
-2023-03-15,Championship,2022-23,Cardiff,West Brom,1,1,3,5,2,2,0,0,2,8,4,0,1,0
-2023-03-15,Championship,2022-23,Huddersfield,Norwich,1,1,6,8,0,3,0,1,2,14,3,1,1,0
-2023-03-15,Championship,2022-23,Hull,Burnley,1,3,3,3,1,2,0,0,4,6,3,0,1,1
-2023-03-15,Championship,2022-23,Luton,Bristol City,1,0,7,2,4,3,0,0,1,9,7,0,0,0
-2023-03-15,Championship,2022-23,Sunderland,Sheffield United,1,2,4,8,2,4,0,0,3,12,6,0,1,1
-2023-03-18,Championship,2022-23,Reading,Hull,1,1,1,9,2,1,0,0,2,10,3,0,1,0
-2023-03-18,Championship,2022-23,Sunderland,Luton,1,1,6,2,0,4,0,0,2,8,4,0,1,0
-2023-03-18,Championship,2022-23,Stoke,Norwich,0,0,8,3,2,0,0,0,0,11,2,0,0,0
-2023-03-18,Championship,2022-23,Watford,Wigan,1,1,5,4,2,4,0,0,2,9,6,0,1,0
-2023-03-18,Championship,2022-23,QPR,Birmingham,0,1,10,1,4,3,0,0,1,11,7,0,0,0
-2023-03-18,Championship,2022-23,Middlesbrough,Preston,4,0,7,4,4,3,0,1,4,11,7,1,0,1
-2023-03-18,Championship,2022-23,Blackpool,Coventry,1,4,5,4,0,3,0,0,5,9,3,0,1,1
-2023-03-18,Championship,2022-23,Millwall,Huddersfield,0,1,3,6,2,3,0,0,1,9,5,0,0,0
-2023-03-19,Championship,2022-23,Swansea,Bristol City,2,0,3,7,2,2,0,0,2,10,4,0,0,0
-2023-03-31,Championship,2022-23,Burnley,Sunderland,0,0,5,4,2,0,0,0,0,9,2,0,0,0
-2023-04-01,Championship,2022-23,Wigan,QPR,1,0,2,5,2,2,0,0,1,7,4,0,0,0
-2023-04-01,Championship,2022-23,West Brom,Millwall,0,0,6,7,2,3,0,0,0,13,5,0,0,0
-2023-04-01,Championship,2022-23,Norwich,Sheffield United,0,1,4,5,3,3,0,0,1,9,6,0,0,0
-2023-04-01,Championship,2022-23,Hull,Rotherham,0,0,8,8,0,2,0,1,0,16,2,1,0,0
-2023-04-01,Championship,2022-23,Huddersfield,Middlesbrough,4,2,5,9,2,2,0,0,6,14,4,0,1,1
-2023-04-01,Championship,2022-23,Coventry,Stoke,0,4,6,6,2,0,0,0,4,12,2,0,0,1
-2023-04-01,Championship,2022-23,Cardiff,Swansea,2,3,1,3,2,5,0,0,5,4,7,0,1,1
-2023-04-01,Championship,2022-23,Bristol City,Reading,1,1,10,4,3,2,0,0,2,14,5,0,1,0
-2023-04-01,Championship,2022-23,Birmingham,Blackburn,1,0,4,7,3,3,0,0,1,11,6,0,0,0
-2023-04-01,Championship,2022-23,Preston,Blackpool,3,1,6,8,3,3,0,0,4,14,6,0,1,1
-2023-04-01,Championship,2022-23,Luton,Watford,2,0,9,3,2,3,0,0,2,12,5,0,0,0
-2023-04-07,Championship,2022-23,Middlesbrough,Burnley,1,2,1,2,1,1,0,0,3,3,2,0,1,1
-2023-04-07,Championship,2022-23,Sunderland,Hull,4,4,1,0,0,2,0,0,8,1,2,0,1,1
-2023-04-07,Championship,2022-23,Watford,Huddersfield,2,3,13,3,3,2,1,0,5,16,5,1,1,1
-2023-04-07,Championship,2022-23,Swansea,Coventry,0,0,5,5,2,3,0,0,0,10,5,0,0,0
-2023-04-07,Championship,2022-23,Stoke,Bristol City,1,2,7,4,1,0,0,0,3,11,1,0,1,1
-2023-04-07,Championship,2022-23,Sheffield United,Wigan,1,0,9,6,2,1,0,0,1,15,3,0,0,0
-2023-04-07,Championship,2022-23,Millwall,Luton,0,0,4,4,1,2,0,0,0,8,3,0,0,0
-2023-04-07,Championship,2022-23,QPR,Preston,0,2,6,6,0,1,0,0,2,12,1,0,0,0
-2023-04-07,Championship,2022-23,Blackpool,Cardiff,1,3,4,3,2,1,0,0,4,7,3,0,1,1
-2023-04-07,Championship,2022-23,Blackburn,Norwich,0,2,8,5,1,2,0,0,2,13,3,0,0,0
-2023-04-07,Championship,2022-23,Rotherham,West Brom,3,1,8,3,2,4,0,0,4,11,6,0,1,1
-2023-04-07,Championship,2022-23,Reading,Birmingham,1,1,5,0,1,1,0,0,2,5,2,0,1,0
-2023-04-10,Championship,2022-23,Burnley,Sheffield United,2,0,8,2,1,3,0,1,2,10,4,1,0,0
-2023-04-10,Championship,2022-23,Bristol City,Middlesbrough,2,2,4,7,2,1,0,0,4,11,3,0,1,1
-2023-04-10,Championship,2022-23,Wigan,Swansea,0,2,6,1,3,1,0,0,2,7,4,0,0,0
-2023-04-10,Championship,2022-23,West Brom,QPR,2,2,8,4,0,1,0,0,4,12,1,0,1,1
-2023-04-10,Championship,2022-23,Preston,Reading,2,1,9,2,1,2,0,0,3,11,3,0,1,1
-2023-04-10,Championship,2022-23,Norwich,Rotherham,0,0,10,3,0,1,0,0,0,13,1,0,0,0
-2023-04-10,Championship,2022-23,Hull,Millwall,1,0,7,5,1,2,0,0,1,12,3,0,0,0
-2023-04-10,Championship,2022-23,Coventry,Watford,2,2,6,4,3,5,0,0,4,10,8,0,1,1
-2023-04-10,Championship,2022-23,Huddersfield,Blackburn,2,2,5,10,0,3,0,0,4,15,3,0,1,1
-2023-04-10,Championship,2022-23,Luton,Blackpool,3,1,7,5,1,2,0,0,4,12,3,0,1,1
-2023-04-10,Championship,2022-23,Cardiff,Sunderland,0,1,7,5,4,1,0,0,1,12,5,0,0,0
-2023-04-10,Championship,2022-23,Birmingham,Stoke,0,0,6,10,2,2,0,0,0,16,4,0,0,0
-2023-04-14,Championship,2022-23,Middlesbrough,Norwich,5,1,3,5,0,1,0,0,6,8,1,0,1,1
-2023-04-15,Championship,2022-23,Watford,Bristol City,2,0,6,7,1,3,0,0,2,13,4,0,0,0
-2023-04-15,Championship,2022-23,Swansea,Huddersfield,1,0,5,4,4,2,0,0,1,9,6,0,0,0
-2023-04-15,Championship,2022-23,Sunderland,Birmingham,2,1,9,2,0,2,1,0,3,11,2,1,1,1
-2023-04-15,Championship,2022-23,Stoke,West Brom,1,2,5,5,4,2,1,0,3,10,6,1,1,1
-2023-04-15,Championship,2022-23,Rotherham,Luton,0,2,2,6,2,5,0,0,2,8,7,0,0,0
-2023-04-15,Championship,2022-23,Blackburn,Hull,0,0,9,3,1,2,0,0,0,12,3,0,0,0
-2023-04-15,Championship,2022-23,QPR,Coventry,0,3,5,2,1,3,0,0,3,7,4,0,0,1
-2023-04-15,Championship,2022-23,Millwall,Preston,2,0,2,4,1,2,0,0,2,6,3,0,0,0
-2023-04-15,Championship,2022-23,Blackpool,Wigan,1,0,3,7,1,2,0,0,1,10,3,0,0,0
-2023-04-15,Championship,2022-23,Sheffield United,Cardiff,4,1,5,5,3,2,0,0,5,10,5,0,1,1
-2023-04-15,Championship,2022-23,Reading,Burnley,0,0,3,7,3,1,0,0,0,10,4,0,0,0
-2023-04-18,Championship,2022-23,Sunderland,Huddersfield,1,1,5,11,3,2,0,0,2,16,5,0,1,0
-2023-04-18,Championship,2022-23,Stoke,Wigan,0,1,7,4,2,2,0,0,1,11,4,0,0,0
-2023-04-18,Championship,2022-23,Millwall,Birmingham,0,1,11,4,0,2,0,0,1,15,2,0,0,0
-2023-04-18,Championship,2022-23,Rotherham,Burnley,2,2,4,7,1,2,0,0,4,11,3,0,1,1
-2023-04-18,Championship,2022-23,Sheffield United,Bristol City,1,0,2,2,1,2,0,0,1,4,3,0,0,0
-2023-04-18,Championship,2022-23,Blackpool,West Brom,0,2,5,5,1,3,0,0,2,10,4,0,0,0
-2023-04-19,Championship,2022-23,Blackburn,Coventry,1,1,5,6,3,1,0,0,2,11,4,0,1,0
-2023-04-19,Championship,2022-23,QPR,Norwich,1,1,7,11,5,2,0,0,2,18,7,0,1,0
-2023-04-19,Championship,2022-23,Swansea,Preston,4,2,2,4,3,3,1,0,6,6,6,1,1,1
-2023-04-19,Championship,2022-23,Watford,Cardiff,1,3,10,1,3,3,0,0,4,11,6,0,1,1
-2023-04-19,Championship,2022-23,Middlesbrough,Hull,3,1,4,3,1,1,0,0,4,7,2,0,1,1
-2023-04-19,Championship,2022-23,Reading,Luton,1,1,2,5,3,2,1,0,2,7,5,1,1,0
-2023-04-22,Championship,2022-23,Preston,Blackburn,1,1,4,3,1,2,0,0,2,7,3,0,1,0
-2023-04-22,Championship,2022-23,Hull,Watford,1,0,2,5,3,2,0,0,1,7,5,0,0,0
-2023-04-22,Championship,2022-23,Wigan,Millwall,2,1,5,3,1,2,0,0,3,8,3,0,1,1
-2023-04-22,Championship,2022-23,Norwich,Swansea,0,3,2,6,1,1,1,0,3,8,2,1,0,1
-2023-04-22,Championship,2022-23,Coventry,Reading,2,1,2,4,4,4,0,0,3,6,8,0,1,1
-2023-04-22,Championship,2022-23,Burnley,QPR,1,2,11,4,2,2,0,0,3,15,4,0,1,1
-2023-04-22,Championship,2022-23,Bristol City,Rotherham,2,1,7,7,2,3,0,0,3,14,5,0,1,1
-2023-04-22,Championship,2022-23,Birmingham,Blackpool,0,1,6,7,2,1,0,0,1,13,3,0,0,0
-2023-04-22,Championship,2022-23,Cardiff,Stoke,1,1,6,4,3,0,0,0,2,10,3,0,1,0
-2023-04-23,Championship,2022-23,West Brom,Sunderland,1,2,4,5,3,3,0,0,3,9,6,0,1,1
-2023-04-24,Championship,2022-23,Luton,Middlesbrough,2,1,4,5,2,0,0,0,3,9,2,0,1,1
-2023-04-25,Championship,2022-23,Blackburn,Burnley,0,1,10,4,3,5,0,0,1,14,8,0,0,0
-2023-04-26,Championship,2022-23,Sheffield United,West Brom,2,0,5,0,1,1,0,0,2,5,2,0,0,0
-2023-04-27,Championship,2022-23,Rotherham,Cardiff,1,2,6,4,1,0,0,0,3,10,1,0,1,1
-2023-04-28,Championship,2022-23,Blackpool,Millwall,2,3,7,3,2,4,0,0,5,10,6,0,1,1
-2023-04-29,Championship,2022-23,West Brom,Norwich,2,1,6,1,0,2,0,0,3,7,2,0,1,1
-2023-04-29,Championship,2022-23,Stoke,QPR,0,1,7,0,1,3,0,0,1,7,4,0,0,0
-2023-04-29,Championship,2022-23,Sheffield United,Preston,4,1,10,5,2,1,0,0,5,15,3,0,1,1
-2023-04-29,Championship,2022-23,Sunderland,Watford,2,2,10,2,3,3,0,0,4,12,6,0,1,1
-2023-04-29,Championship,2022-23,Hull,Swansea,1,1,3,5,0,2,0,0,2,8,2,0,1,0
-2023-04-29,Championship,2022-23,Coventry,Birmingham,2,0,5,5,0,2,0,0,2,10,2,0,0,0
-2023-04-29,Championship,2022-23,Bristol City,Burnley,1,2,3,3,1,0,0,0,3,6,1,0,1,1
-2023-04-29,Championship,2022-23,Reading,Wigan,1,1,13,3,2,1,0,0,2,16,3,0,1,0
-2023-04-30,Championship,2022-23,Cardiff,Huddersfield,1,2,5,9,1,0,0,0,3,14,1,0,1,1
-2023-05-01,Championship,2022-23,Rotherham,Middlesbrough,1,0,1,11,3,1,0,1,1,12,4,1,0,0
-2023-05-01,Championship,2022-23,Blackburn,Luton,1,1,9,4,2,0,0,0,2,13,2,0,1,0
-2023-05-04,Championship,2022-23,Huddersfield,Sheffield United,1,0,9,3,1,2,0,0,1,12,3,0,0,0
-2023-05-08,Championship,2022-23,Swansea,West Brom,3,2,6,3,1,2,0,0,5,9,3,0,1,1
-2023-05-08,Championship,2022-23,QPR,Bristol City,0,2,7,3,0,1,0,0,2,10,1,0,0,0
-2023-05-08,Championship,2022-23,Preston,Sunderland,0,3,2,7,2,0,0,0,3,9,2,0,0,1
-2023-05-08,Championship,2022-23,Norwich,Blackpool,0,1,10,4,1,0,0,0,1,14,1,0,0,0
-2023-05-08,Championship,2022-23,Millwall,Blackburn,3,4,3,6,1,0,0,0,7,9,1,0,1,1
-2023-05-08,Championship,2022-23,Burnley,Cardiff,3,0,5,3,1,2,0,0,3,8,3,0,0,1
-2023-05-08,Championship,2022-23,Luton,Hull,0,0,7,6,1,0,0,0,0,13,1,0,0,0
-2023-05-08,Championship,2022-23,Huddersfield,Reading,2,0,4,6,0,1,0,0,2,10,1,0,0,0
-2023-05-08,Championship,2022-23,Birmingham,Sheffield United,1,2,4,4,1,0,0,0,3,8,1,0,1,1
-2023-05-08,Championship,2022-23,Watford,Stoke,2,0,6,6,0,2,0,0,2,12,2,0,0,0
-2023-05-08,Championship,2022-23,Middlesbrough,Coventry,1,1,7,6,1,3,0,0,2,13,4,0,1,0
-2023-05-08,Championship,2022-23,Wigan,Rotherham,0,0,3,2,0,2,0,0,0,5,2,0,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2022-07-29,Championship,2022-23,Huddersfield,Burnley,0,1,1,5,1,2,0,0,1,6,3,0,0,0,2.9,3.2,2.5,3.07,3.26,2.53
+2022-07-30,Championship,2022-23,Middlesbrough,West Brom,1,1,4,3,2,1,0,0,2,7,3,0,1,0,2.25,3.4,3.25,2.27,3.39,3.43
+2022-07-30,Championship,2022-23,Rotherham,Swansea,1,1,5,6,1,2,0,0,2,11,3,0,1,0,2.62,3.5,2.55,2.67,3.56,2.68
+2022-07-30,Championship,2022-23,Millwall,Stoke,2,0,8,2,1,2,0,0,2,10,3,0,0,0,2.3,3.25,3.2,2.37,3.3,3.3
+2022-07-30,Championship,2022-23,Luton,Birmingham,0,0,10,6,0,3,0,0,0,16,3,0,0,0,1.83,3.5,4.33,1.88,3.6,4.59
+2022-07-30,Championship,2022-23,Wigan,Preston,0,0,7,4,2,3,0,1,0,11,5,1,0,0,2.4,3.3,3.0,2.54,3.22,3.09
+2022-07-30,Championship,2022-23,Cardiff,Norwich,1,0,1,7,4,0,1,1,1,8,4,2,0,0,3.1,3.4,2.3,3.15,3.4,2.4
+2022-07-30,Championship,2022-23,Blackpool,Reading,1,0,3,10,1,0,0,0,1,13,1,0,0,0,1.95,3.5,4.0,2.0,3.64,3.95
+2022-07-30,Championship,2022-23,Blackburn,QPR,1,0,6,0,1,1,0,0,1,6,2,0,0,0,2.0,3.5,3.75,2.07,3.57,3.78
+2022-07-30,Championship,2022-23,Hull,Bristol City,2,1,6,3,0,0,0,0,3,9,0,0,1,1,2.37,3.25,3.1,2.46,3.48,2.99
+2022-07-31,Championship,2022-23,Sunderland,Coventry,1,1,4,3,4,1,0,0,2,7,5,0,1,0,2.62,3.5,2.6,2.77,3.46,2.65
+2022-08-01,Championship,2022-23,Watford,Sheffield United,1,0,5,4,4,3,0,0,1,9,7,0,0,0,2.3,3.25,3.25,2.36,3.27,3.3
+2022-08-05,Championship,2022-23,Birmingham,Huddersfield,2,1,6,7,1,2,0,0,3,13,3,0,1,1,2.37,3.25,3.1,2.43,3.18,3.32
+2022-08-06,Championship,2022-23,Sheffield United,Millwall,2,0,3,5,3,2,0,0,2,8,5,0,0,0,1.83,3.5,4.5,1.88,3.44,4.86
+2022-08-06,Championship,2022-23,Swansea,Blackburn,0,3,5,4,3,1,0,0,3,9,4,0,0,1,2.4,3.25,3.1,2.39,3.33,3.23
+2022-08-06,Championship,2022-23,Stoke,Blackpool,2,0,5,6,2,2,0,0,2,11,4,0,0,0,2.05,3.4,3.75,2.12,3.36,3.85
+2022-08-06,Championship,2022-23,Reading,Cardiff,2,1,1,2,3,3,0,0,3,3,6,0,1,1,2.5,3.25,2.9,2.64,3.22,2.96
+2022-08-06,Championship,2022-23,Norwich,Wigan,1,1,9,0,0,4,0,0,2,9,4,0,1,0,1.66,3.6,5.25,1.75,3.73,5.21
+2022-08-06,Championship,2022-23,Preston,Hull,0,0,4,1,1,4,0,0,0,5,5,0,0,0,1.95,3.4,4.0,2.01,3.46,4.12
+2022-08-06,Championship,2022-23,Burnley,Luton,1,1,11,2,2,1,0,0,2,13,3,0,1,0,1.75,3.75,4.6,1.81,3.86,4.57
+2022-08-06,Championship,2022-23,Bristol City,Sunderland,2,3,8,9,2,2,0,0,5,17,4,0,1,1,2.45,3.25,2.9,2.5,3.41,2.99
+2022-08-06,Championship,2022-23,QPR,Middlesbrough,3,2,5,5,2,2,0,1,5,10,4,1,1,1,3.0,3.3,2.4,3.13,3.41,2.41
+2022-08-08,Championship,2022-23,West Brom,Watford,1,1,12,0,2,1,0,0,2,12,3,0,1,0,2.37,3.1,3.2,2.43,3.24,3.2
+2022-08-12,Championship,2022-23,Watford,Burnley,1,0,3,6,1,1,1,0,1,9,2,1,0,0,2.3,3.3,3.1,2.42,3.28,3.23
+2022-08-13,Championship,2022-23,Millwall,Coventry,3,2,3,6,4,2,0,1,5,9,6,1,1,1,2.45,3.2,3.0,2.44,3.21,3.28
+2022-08-13,Championship,2022-23,Wigan,Bristol City,1,1,5,1,1,2,0,0,2,6,3,0,1,0,2.2,3.3,3.4,2.25,3.5,3.35
+2022-08-13,Championship,2022-23,Rotherham,Reading,4,0,5,7,0,2,0,0,4,12,2,0,0,1,2.15,3.3,3.5,2.13,3.53,3.63
+2022-08-13,Championship,2022-23,Luton,Preston,0,1,8,3,0,6,0,0,1,11,6,0,0,0,2.25,3.3,3.25,2.4,3.34,3.22
+2022-08-13,Championship,2022-23,Sunderland,QPR,2,2,4,3,3,2,0,0,4,7,5,0,1,1,2.1,3.5,3.5,2.14,3.52,3.61
+2022-08-13,Championship,2022-23,Huddersfield,Stoke,3,1,3,3,1,3,0,0,4,6,4,0,1,1,2.7,3.2,2.75,2.86,3.22,2.72
+2022-08-13,Championship,2022-23,Blackpool,Swansea,0,1,3,6,1,3,0,0,1,9,4,0,0,0,2.4,3.3,3.0,2.47,3.4,3.05
+2022-08-13,Championship,2022-23,Hull,Norwich,2,1,2,11,1,1,0,0,3,13,2,0,1,1,3.6,3.4,2.05,3.66,3.56,2.11
+2022-08-13,Championship,2022-23,Cardiff,Birmingham,1,0,2,2,1,4,0,0,1,4,5,0,0,0,2.25,3.3,3.3,2.3,3.33,3.42
+2022-08-14,Championship,2022-23,Middlesbrough,Sheffield United,2,2,5,4,2,3,0,0,4,9,5,0,1,1,2.45,3.3,2.9,2.55,3.41,2.92
+2022-08-14,Championship,2022-23,Blackburn,West Brom,2,1,1,5,4,1,0,0,3,6,5,0,1,1,2.75,3.3,2.6,2.84,3.28,2.7
+2022-08-16,Championship,2022-23,Birmingham,Watford,1,1,3,5,1,1,0,0,2,8,2,0,1,0,3.6,3.4,2.0,3.85,3.33,2.13
+2022-08-16,Championship,2022-23,Bristol City,Luton,2,0,5,7,2,2,1,0,2,12,4,1,0,0,2.62,3.4,2.55,2.77,3.41,2.68
+2022-08-16,Championship,2022-23,Burnley,Hull,1,1,6,2,1,3,0,0,2,8,4,0,1,0,1.53,4.0,6.5,1.56,4.13,6.74
+2022-08-16,Championship,2022-23,Norwich,Huddersfield,2,1,8,1,1,0,0,1,3,9,1,1,1,1,1.57,3.8,6.0,1.58,4.12,6.35
+2022-08-16,Championship,2022-23,Preston,Rotherham,0,0,10,3,1,3,0,0,0,13,4,0,0,0,1.95,3.3,4.0,1.98,3.39,4.38
+2022-08-16,Championship,2022-23,Swansea,Millwall,2,2,6,7,2,3,0,0,4,13,5,0,1,1,2.5,3.2,3.0,2.51,3.19,3.17
+2022-08-16,Championship,2022-23,QPR,Blackpool,0,1,2,2,1,2,0,0,1,4,3,0,0,0,2.0,3.6,3.75,1.99,3.69,3.91
+2022-08-17,Championship,2022-23,Sheffield United,Sunderland,2,1,13,3,1,4,0,1,3,16,5,1,1,1,1.75,3.6,4.75,1.82,3.61,4.92
+2022-08-17,Championship,2022-23,West Brom,Cardiff,0,0,9,2,3,3,0,0,0,11,6,0,0,0,1.6,4.0,5.5,1.66,4.06,5.47
+2022-08-17,Championship,2022-23,Stoke,Middlesbrough,2,2,4,8,2,1,0,0,4,12,3,0,1,1,2.7,3.2,2.75,2.7,3.33,2.8
+2022-08-17,Championship,2022-23,Reading,Blackburn,3,0,7,3,5,2,0,0,3,10,7,0,0,1,3.2,3.2,2.3,3.29,3.41,2.32
+2022-08-19,Championship,2022-23,Norwich,Millwall,2,0,5,4,2,2,0,0,2,9,4,0,0,0,1.95,3.4,4.2,2.0,3.39,4.28
+2022-08-20,Championship,2022-23,West Brom,Hull,5,2,12,2,0,3,0,0,7,14,3,0,1,1,1.55,4.2,6.0,1.56,4.16,6.64
+2022-08-20,Championship,2022-23,Swansea,Luton,0,2,7,5,1,0,0,0,2,12,1,0,0,0,2.45,3.2,3.1,2.53,3.29,3.04
+2022-08-20,Championship,2022-23,Sheffield United,Blackburn,3,0,11,4,3,2,0,0,3,15,5,0,0,1,1.75,3.6,4.75,1.79,3.71,4.93
+2022-08-20,Championship,2022-23,Reading,Middlesbrough,1,0,5,7,4,1,0,0,1,12,5,0,0,0,3.3,3.6,2.1,3.46,3.62,2.16
+2022-08-20,Championship,2022-23,Stoke,Sunderland,0,1,7,3,3,6,0,0,1,10,9,0,0,0,2.1,3.4,3.5,2.15,3.41,3.7
+2022-08-20,Championship,2022-23,Preston,Watford,0,0,7,5,2,2,0,0,0,12,4,0,0,0,2.62,3.1,2.8,2.72,3.19,2.89
+2022-08-20,Championship,2022-23,Burnley,Blackpool,3,3,4,6,1,3,1,1,6,10,4,2,1,1,1.57,4.0,6.0,1.58,4.22,6.23
+2022-08-20,Championship,2022-23,Birmingham,Wigan,0,1,7,3,0,2,0,1,1,10,2,1,0,0,2.55,3.25,2.8,2.67,3.22,2.91
+2022-08-20,Championship,2022-23,QPR,Rotherham,1,1,9,3,3,2,0,0,2,12,5,0,1,0,2.1,3.5,3.6,2.08,3.48,3.84
+2022-08-21,Championship,2022-23,Bristol City,Cardiff,2,0,7,8,4,3,0,0,2,15,7,0,0,0,2.2,3.3,3.4,2.31,3.48,3.25
+2022-08-26,Championship,2022-23,Luton,Sheffield United,1,1,4,9,0,4,0,0,2,13,4,0,1,0,3.25,3.2,2.3,3.23,3.3,2.41
+2022-08-27,Championship,2022-23,Middlesbrough,Swansea,2,1,8,4,5,2,0,1,3,12,7,1,1,1,1.75,3.75,4.75,1.8,3.71,4.88
+2022-08-27,Championship,2022-23,Watford,QPR,2,3,1,4,4,2,0,0,5,5,6,0,1,1,1.9,3.4,4.33,1.97,3.47,4.28
+2022-08-27,Championship,2022-23,Rotherham,Birmingham,2,0,7,2,1,2,0,0,2,9,3,0,0,0,2.0,3.3,4.0,2.05,3.42,4.04
+2022-08-27,Championship,2022-23,Millwall,Reading,0,1,3,1,0,1,0,0,1,4,1,0,0,0,1.85,3.4,4.75,1.9,3.51,4.57
+2022-08-27,Championship,2022-23,Hull,Coventry,3,2,3,4,3,2,0,0,5,7,5,0,1,1,3.0,3.4,2.37,3.13,3.46,2.39
+2022-08-27,Championship,2022-23,Wigan,Burnley,1,5,6,1,1,1,0,0,6,7,2,0,1,1,3.25,3.1,2.37,3.25,3.31,2.39
+2022-08-27,Championship,2022-23,Cardiff,Preston,0,0,8,2,0,2,0,0,0,10,2,0,0,0,2.75,3.0,2.87,2.86,3.04,2.86
+2022-08-27,Championship,2022-23,Blackpool,Bristol City,3,3,5,3,1,5,0,0,6,8,6,0,1,1,2.25,3.3,3.3,2.25,3.46,3.38
+2022-08-27,Championship,2022-23,Blackburn,Stoke,0,1,12,3,3,3,0,0,1,15,6,0,0,0,2.5,3.2,2.9,2.54,3.34,2.99
+2022-08-27,Championship,2022-23,Sunderland,Norwich,0,1,8,7,2,2,0,0,1,15,4,0,0,0,3.2,3.3,2.3,3.3,3.44,2.31
+2022-08-27,Championship,2022-23,Huddersfield,West Brom,2,2,6,4,1,2,0,0,4,10,3,0,1,1,4.2,3.5,1.95,4.31,3.4,1.99
+2022-08-30,Championship,2022-23,Watford,Middlesbrough,2,1,2,7,2,4,0,0,3,9,6,0,1,1,2.5,3.25,2.9,2.56,3.17,3.11
+2022-08-30,Championship,2022-23,Sheffield United,Reading,4,0,3,5,0,0,0,0,4,8,0,0,0,1,1.57,4.0,6.0,1.58,4.15,6.39
+2022-08-30,Championship,2022-23,QPR,Hull,3,1,2,7,1,1,0,0,4,9,2,0,1,1,1.8,3.6,4.33,1.81,3.8,4.64
+2022-08-30,Championship,2022-23,Wigan,West Brom,1,1,3,2,2,2,0,0,2,5,4,0,1,0,3.75,3.4,2.05,4.05,3.5,2.01
+2022-08-30,Championship,2022-23,Burnley,Millwall,2,0,5,3,0,3,0,0,2,8,3,0,0,0,1.85,3.3,4.75,1.93,3.38,4.69
+2022-08-30,Championship,2022-23,Birmingham,Norwich,1,2,6,8,4,4,0,0,3,14,8,0,1,1,4.5,3.5,1.83,4.59,3.67,1.85
+2022-08-30,Championship,2022-23,Cardiff,Luton,1,2,5,2,0,3,0,0,3,7,3,0,1,1,2.55,3.2,2.9,2.68,3.08,3.04
+2022-08-31,Championship,2022-23,Bristol City,Huddersfield,2,0,4,7,0,0,0,0,2,11,0,0,0,0,1.9,3.6,4.0,1.88,3.72,4.33
+2022-08-31,Championship,2022-23,Coventry,Preston,0,1,9,6,1,2,0,0,1,15,3,0,0,0,2.25,3.1,3.5,2.25,3.37,3.5
+2022-08-31,Championship,2022-23,Stoke,Swansea,1,1,12,3,1,2,0,0,2,15,3,0,1,0,2.1,3.5,3.6,2.08,3.52,3.78
+2022-08-31,Championship,2022-23,Sunderland,Rotherham,3,0,2,1,0,4,0,0,3,3,4,0,0,1,2.1,3.4,3.6,2.15,3.45,3.67
+2022-08-31,Championship,2022-23,Blackpool,Blackburn,0,1,7,5,2,3,0,0,1,12,5,0,0,0,2.4,3.3,3.0,2.53,3.27,3.06
+2022-09-02,Championship,2022-23,West Brom,Burnley,1,1,9,1,1,4,0,0,2,10,5,0,1,0,2.15,3.3,3.6,2.16,3.34,3.76
+2022-09-03,Championship,2022-23,Rotherham,Watford,1,1,3,6,3,2,0,0,2,9,5,0,1,0,3.25,3.3,2.25,3.55,3.3,2.26
+2022-09-03,Championship,2022-23,Swansea,QPR,1,0,6,4,3,0,0,0,1,10,3,0,0,0,2.37,3.3,3.0,2.5,3.45,2.97
+2022-09-03,Championship,2022-23,Preston,Birmingham,0,1,4,6,1,3,0,0,1,10,4,0,0,0,1.66,3.6,5.75,1.68,3.7,6.1
+2022-09-03,Championship,2022-23,Blackburn,Bristol City,2,3,5,6,2,2,0,0,5,11,4,0,1,1,2.15,3.5,3.3,2.16,3.54,3.55
+2022-09-03,Championship,2022-23,Millwall,Cardiff,2,0,4,6,2,2,0,0,2,10,4,0,0,0,2.05,3.2,4.0,2.15,3.22,3.97
+2022-09-03,Championship,2022-23,Luton,Wigan,1,2,9,4,1,1,0,0,3,13,2,0,1,1,2.1,3.3,3.6,2.15,3.24,3.94
+2022-09-03,Championship,2022-23,Norwich,Coventry,3,0,4,1,1,0,0,0,3,5,1,0,0,1,1.75,3.6,4.75,1.78,3.8,4.87
+2022-09-04,Championship,2022-23,Reading,Stoke,2,1,4,6,2,0,0,0,3,10,2,0,1,1,2.9,3.2,2.5,3.13,3.25,2.5
+2022-09-04,Championship,2022-23,Huddersfield,Blackpool,0,1,10,2,0,3,0,0,1,12,3,0,0,0,2.5,3.25,2.87,2.53,3.47,2.91
+2022-09-04,Championship,2022-23,Hull,Sheffield United,0,2,6,1,1,2,0,0,2,7,3,0,0,0,4.2,3.5,1.9,4.18,3.73,1.92
+2022-09-05,Championship,2022-23,Middlesbrough,Sunderland,1,0,4,6,5,1,0,0,1,10,6,0,0,0,1.72,3.6,5.0,1.75,3.83,4.9
+2022-09-13,Championship,2022-23,Blackburn,Watford,2,0,9,5,2,0,0,0,2,14,2,0,0,0,2.9,3.25,2.5,3.07,3.28,2.52
+2022-09-13,Championship,2022-23,Huddersfield,Wigan,1,2,4,5,2,2,0,0,3,9,4,0,1,1,2.62,3.25,2.75,2.71,3.24,2.86
+2022-09-13,Championship,2022-23,Hull,Stoke,0,3,7,6,2,1,0,0,3,13,3,0,0,1,2.75,3.25,2.62,2.85,3.28,2.69
+2022-09-13,Championship,2022-23,Middlesbrough,Cardiff,2,3,9,3,1,1,0,0,5,12,2,0,1,1,1.7,3.6,5.25,1.74,3.64,5.58
+2022-09-13,Championship,2022-23,Swansea,Sheffield United,0,1,6,4,1,1,0,0,1,10,2,0,0,0,3.4,3.4,2.15,3.42,3.48,2.23
+2022-09-13,Championship,2022-23,Preston,Burnley,1,1,4,6,2,0,0,0,2,10,2,0,1,0,3.0,3.25,2.4,3.28,3.22,2.43
+2022-09-14,Championship,2022-23,West Brom,Birmingham,2,3,6,2,2,1,0,0,5,8,3,0,1,1,1.44,4.33,8.0,1.45,4.61,8.06
+2022-09-14,Championship,2022-23,Reading,Sunderland,0,3,3,7,1,1,0,0,3,10,2,0,0,1,2.6,3.25,2.75,2.76,3.26,2.79
+2022-09-14,Championship,2022-23,Rotherham,Blackpool,3,0,5,4,1,1,0,0,3,9,2,0,0,1,2.3,3.2,3.25,2.32,3.32,3.38
+2022-09-14,Championship,2022-23,Millwall,QPR,0,2,5,4,0,0,0,0,2,9,0,0,0,0,2.25,3.25,3.3,2.38,3.23,3.35
+2022-09-14,Championship,2022-23,Luton,Coventry,2,2,7,3,2,1,0,0,4,10,3,0,1,1,2.1,3.4,3.5,2.14,3.37,3.79
+2022-09-14,Championship,2022-23,Norwich,Bristol City,3,2,2,7,0,0,0,0,5,9,0,0,1,1,1.65,4.0,5.25,1.69,4.06,5.19
+2022-09-17,Championship,2022-23,Middlesbrough,Rotherham,0,0,8,3,1,2,0,0,0,11,3,0,0,0,1.61,4.0,5.75,1.64,4.08,5.65
+2022-09-17,Championship,2022-23,Wigan,Reading,0,1,1,3,3,2,0,0,1,4,5,0,0,0,2.05,3.4,3.8,2.07,3.38,4.02
+2022-09-17,Championship,2022-23,Watford,Sunderland,2,2,8,3,0,4,0,0,4,11,4,0,1,1,2.0,3.5,3.75,2.03,3.55,3.93
+2022-09-17,Championship,2022-23,QPR,Stoke,0,0,8,6,1,2,0,0,0,14,3,0,0,0,2.4,3.3,3.0,2.39,3.43,3.15
+2022-09-17,Championship,2022-23,Norwich,West Brom,1,1,7,4,1,1,0,0,2,11,2,0,1,0,2.15,3.5,3.3,2.16,3.6,3.48
+2022-09-17,Championship,2022-23,Preston,Sheffield United,0,2,7,5,1,3,0,0,2,12,4,0,0,0,3.2,3.3,2.3,3.3,3.29,2.38
+2022-09-17,Championship,2022-23,Luton,Blackburn,2,0,4,3,2,2,0,0,2,7,4,0,0,0,2.3,3.25,3.3,2.29,3.26,3.53
+2022-09-17,Championship,2022-23,Huddersfield,Cardiff,1,0,1,3,3,0,0,0,1,4,3,0,0,0,2.7,3.1,2.8,2.69,3.32,2.82
+2022-09-17,Championship,2022-23,Burnley,Bristol City,2,1,8,5,1,1,0,0,3,13,2,0,1,1,1.66,3.8,5.25,1.67,4.18,5.22
+2022-09-17,Championship,2022-23,Birmingham,Coventry,0,0,6,4,1,3,0,1,0,10,4,1,0,0,2.87,3.25,2.55,2.94,3.34,2.57
+2022-09-17,Championship,2022-23,Swansea,Hull,3,0,5,3,1,2,0,0,3,8,3,0,0,1,1.8,3.6,4.75,1.82,3.82,4.58
+2022-09-17,Championship,2022-23,Millwall,Blackpool,2,1,5,2,2,2,0,0,3,7,4,0,1,1,2.0,3.4,4.0,2.0,3.47,4.15
+2022-09-30,Championship,2022-23,Hull,Luton,0,2,7,6,1,3,0,0,2,13,4,0,0,0,3.2,3.25,2.3,3.29,3.32,2.37
+2022-10-01,Championship,2022-23,Rotherham,Wigan,0,2,8,4,3,1,0,0,2,12,4,0,0,0,2.25,3.3,3.2,2.37,3.32,3.28
+2022-10-01,Championship,2022-23,Sunderland,Preston,0,0,4,8,1,1,0,0,0,12,2,0,0,0,2.3,3.2,3.3,2.37,3.33,3.27
+2022-10-01,Championship,2022-23,West Brom,Swansea,2,3,8,6,3,1,0,0,5,14,4,0,1,1,1.72,3.75,4.75,1.74,3.95,4.96
+2022-10-01,Championship,2022-23,Sheffield United,Birmingham,1,1,4,4,3,3,0,0,2,8,6,0,1,0,1.44,4.75,7.0,1.45,4.68,7.89
+2022-10-01,Championship,2022-23,Reading,Huddersfield,3,1,5,1,0,3,0,0,4,6,3,0,1,1,2.15,3.25,3.6,2.18,3.42,3.61
+2022-10-01,Championship,2022-23,Blackpool,Norwich,0,1,9,6,3,0,0,0,1,15,3,0,0,0,4.2,3.6,1.85,4.14,3.73,1.93
+2022-10-01,Championship,2022-23,Cardiff,Burnley,1,1,9,1,3,0,0,0,2,10,3,0,1,0,3.0,3.25,2.45,3.14,3.34,2.44
+2022-10-01,Championship,2022-23,Bristol City,QPR,1,2,8,2,3,1,0,0,3,10,4,0,1,1,2.3,3.4,3.25,2.32,3.47,3.25
+2022-10-01,Championship,2022-23,Blackburn,Millwall,2,1,4,4,1,0,0,0,3,8,1,0,1,1,2.3,3.25,3.3,2.29,3.26,3.52
+2022-10-01,Championship,2022-23,Coventry,Middlesbrough,1,0,3,6,4,1,0,0,1,9,5,0,0,0,2.9,3.3,2.45,3.05,3.43,2.45
+2022-10-02,Championship,2022-23,Stoke,Watford,0,4,6,6,2,5,0,0,4,12,7,0,0,1,2.5,3.25,2.9,2.54,3.34,2.99
+2022-10-04,Championship,2022-23,Bristol City,Coventry,0,0,9,2,2,1,0,0,0,11,3,0,0,0,2.0,3.5,3.8,2.08,3.71,3.6
+2022-10-04,Championship,2022-23,Luton,Huddersfield,3,3,9,5,0,0,0,1,6,14,0,1,1,1,1.75,3.4,5.25,1.78,3.55,5.4
+2022-10-04,Championship,2022-23,Sheffield United,QPR,0,1,9,3,2,2,0,0,1,12,4,0,0,0,1.7,3.6,5.25,1.73,3.86,5.15
+2022-10-04,Championship,2022-23,Sunderland,Blackpool,0,0,5,12,1,3,0,0,0,17,4,0,0,0,1.9,3.5,4.0,1.93,3.62,4.24
+2022-10-04,Championship,2022-23,Cardiff,Blackburn,1,0,7,0,2,2,0,0,1,7,4,0,0,0,2.3,3.4,3.1,2.39,3.3,3.27
+2022-10-04,Championship,2022-23,Reading,Norwich,1,1,3,7,3,1,0,0,2,10,4,0,1,0,4.2,3.5,1.85,4.29,3.57,1.94
+2022-10-05,Championship,2022-23,Preston,West Brom,1,0,2,10,2,1,0,0,1,12,3,0,0,0,3.1,3.3,2.4,3.2,3.28,2.44
+2022-10-05,Championship,2022-23,Rotherham,Millwall,1,1,6,4,2,2,0,0,2,10,4,0,1,0,2.6,3.2,2.75,2.72,3.12,2.95
+2022-10-05,Championship,2022-23,Watford,Swansea,1,2,1,6,1,5,0,0,3,7,6,0,1,1,1.9,3.4,4.2,1.96,3.65,4.08
+2022-10-05,Championship,2022-23,Hull,Wigan,2,1,9,5,3,1,0,0,3,14,4,0,1,1,2.62,3.25,2.75,2.69,3.35,2.8
+2022-10-05,Championship,2022-23,Burnley,Stoke,1,1,15,2,2,2,0,0,2,17,4,0,1,0,1.72,3.6,5.25,1.74,3.86,5.07
+2022-10-05,Championship,2022-23,Middlesbrough,Birmingham,1,0,6,6,2,1,0,0,1,12,3,0,0,0,1.65,3.75,5.75,1.67,3.74,6.08
+2022-10-07,Championship,2022-23,QPR,Reading,2,1,4,5,2,3,0,0,3,9,5,0,1,1,1.95,3.4,3.8,2.01,3.51,4.05
+2022-10-08,Championship,2022-23,Birmingham,Bristol City,3,0,7,4,3,2,0,0,3,11,5,0,0,1,2.7,3.25,2.6,2.75,3.42,2.69
+2022-10-08,Championship,2022-23,Blackburn,Rotherham,3,0,8,3,0,3,0,0,3,11,3,0,0,1,1.9,3.4,4.2,1.93,3.6,4.32
+2022-10-08,Championship,2022-23,Blackpool,Watford,3,1,5,7,1,1,0,0,4,12,2,0,1,1,3.2,3.4,2.25,3.37,3.4,2.29
+2022-10-08,Championship,2022-23,Coventry,Burnley,0,1,2,7,1,3,0,0,1,9,4,0,0,0,3.1,3.3,2.37,3.17,3.47,2.36
+2022-10-08,Championship,2022-23,Millwall,Middlesbrough,2,0,0,7,2,2,0,0,2,7,4,0,0,0,2.7,3.2,2.7,2.75,3.25,2.81
+2022-10-08,Championship,2022-23,Norwich,Preston,2,3,8,3,1,5,0,0,5,11,6,0,1,1,1.7,3.6,5.25,1.72,3.78,5.38
+2022-10-08,Championship,2022-23,Stoke,Sheffield United,3,1,6,5,3,1,0,0,4,11,4,0,1,1,2.9,3.4,2.4,3.1,3.35,2.46
+2022-10-08,Championship,2022-23,Swansea,Sunderland,2,1,7,4,2,5,0,0,3,11,7,0,1,1,2.2,3.4,3.3,2.28,3.41,3.38
+2022-10-08,Championship,2022-23,West Brom,Luton,0,0,7,4,1,1,0,0,0,11,2,0,0,0,1.95,3.6,3.8,1.96,3.64,4.07
+2022-10-08,Championship,2022-23,Wigan,Cardiff,1,3,6,3,4,2,0,0,4,9,6,0,1,1,2.5,3.1,3.1,2.55,3.21,3.09
+2022-10-09,Championship,2022-23,Huddersfield,Hull,2,0,6,3,4,3,0,0,2,9,7,0,0,0,2.37,3.3,3.1,2.37,3.34,3.27
+2022-10-11,Championship,2022-23,Wigan,Blackburn,1,0,2,1,2,1,0,0,1,3,3,0,0,0,2.87,3.1,2.6,2.93,3.18,2.69
+2022-10-12,Championship,2022-23,Bristol City,Preston,2,1,5,1,3,4,0,0,3,6,7,0,1,1,2.45,3.2,3.2,2.48,3.25,3.25
+2022-10-15,Championship,2022-23,Luton,QPR,3,1,9,9,2,0,0,0,4,18,2,0,1,1,2.1,3.4,3.5,2.14,3.51,3.62
+2022-10-15,Championship,2022-23,Rotherham,Huddersfield,2,1,3,3,3,2,0,0,3,6,5,0,1,1,2.15,3.3,3.5,2.2,3.34,3.64
+2022-10-15,Championship,2022-23,Bristol City,Millwall,1,2,0,6,2,3,0,0,3,6,5,0,1,1,2.4,3.2,3.0,2.54,3.24,3.07
+2022-10-15,Championship,2022-23,Burnley,Swansea,4,0,5,6,1,4,0,1,4,11,5,1,0,1,1.75,3.75,4.6,1.79,3.81,4.82
+2022-10-15,Championship,2022-23,Cardiff,Coventry,0,1,12,7,1,4,0,0,1,19,5,0,0,0,2.2,3.3,3.4,2.25,3.38,3.47
+2022-10-15,Championship,2022-23,Middlesbrough,Blackburn,1,2,9,4,2,4,0,0,3,13,6,0,1,1,2.0,3.4,3.75,2.05,3.34,4.15
+2022-10-15,Championship,2022-23,Preston,Stoke,0,2,3,6,1,0,0,0,2,9,1,0,0,0,2.37,3.2,3.1,2.46,3.21,3.22
+2022-10-15,Championship,2022-23,Reading,West Brom,0,2,4,7,3,1,0,0,2,11,4,0,0,0,3.4,3.5,2.1,3.57,3.49,2.17
+2022-10-15,Championship,2022-23,Sheffield United,Blackpool,3,3,14,4,5,0,1,3,6,18,5,4,1,1,1.57,4.0,6.0,1.55,4.27,6.62
+2022-10-15,Championship,2022-23,Sunderland,Wigan,2,1,1,5,3,2,0,0,3,6,5,0,1,1,2.15,3.3,3.5,2.19,3.34,3.67
+2022-10-15,Championship,2022-23,Watford,Norwich,2,1,3,12,1,1,0,0,3,15,2,0,1,1,2.75,3.3,2.55,2.77,3.42,2.68
+2022-10-16,Championship,2022-23,Hull,Birmingham,0,2,7,6,4,3,0,0,2,13,7,0,0,0,2.6,3.3,2.75,2.64,3.3,2.89
+2022-10-18,Championship,2022-23,Stoke,Rotherham,0,1,8,3,0,3,0,0,1,11,3,0,0,0,1.9,3.5,4.2,1.93,3.59,4.26
+2022-10-18,Championship,2022-23,Blackburn,Sunderland,2,0,3,7,3,3,0,0,2,10,6,0,0,0,2.25,3.2,3.4,2.33,3.25,3.43
+2022-10-18,Championship,2022-23,West Brom,Bristol City,0,2,13,1,3,1,0,0,2,14,4,0,0,0,1.7,3.8,5.0,1.73,3.96,4.99
+2022-10-18,Championship,2022-23,Norwich,Luton,0,1,4,2,1,2,1,0,1,6,3,1,0,0,1.9,3.5,4.0,1.95,3.56,4.23
+2022-10-18,Championship,2022-23,Huddersfield,Preston,0,1,5,5,5,1,0,0,1,10,6,0,0,0,2.7,3.1,2.75,2.78,3.2,2.81
+2022-10-18,Championship,2022-23,Swansea,Reading,3,2,8,0,1,1,0,0,5,8,2,0,1,1,2.05,3.4,3.8,2.09,3.43,3.88
+2022-10-19,Championship,2022-23,Millwall,Watford,3,0,2,5,0,2,0,0,3,7,2,0,0,1,2.6,3.2,2.8,2.59,3.25,2.99
+2022-10-19,Championship,2022-23,Wigan,Middlesbrough,1,4,4,4,1,2,0,0,5,8,3,0,1,1,2.8,3.25,2.6,2.91,3.12,2.75
+2022-10-19,Championship,2022-23,QPR,Cardiff,3,0,6,2,2,5,0,1,3,8,7,1,0,1,2.15,3.4,3.4,2.22,3.35,3.58
+2022-10-19,Championship,2022-23,Birmingham,Burnley,1,1,8,4,1,2,0,0,2,12,3,0,1,0,3.6,3.3,2.1,3.78,3.45,2.11
+2022-10-19,Championship,2022-23,Blackpool,Hull,1,3,2,4,3,4,0,0,4,6,7,0,1,1,2.05,3.4,3.75,2.1,3.43,3.85
+2022-10-19,Championship,2022-23,Coventry,Sheffield United,1,0,4,10,4,1,0,0,1,14,5,0,0,0,2.9,3.1,2.6,2.94,3.43,2.52
+2022-10-22,Championship,2022-23,Stoke,Coventry,0,2,9,2,1,1,0,0,2,11,2,0,0,0,2.15,3.3,3.5,2.18,3.45,3.58
+2022-10-22,Championship,2022-23,Sheffield United,Norwich,2,2,4,9,1,5,0,0,4,13,6,0,1,1,2.3,3.3,3.25,2.4,3.38,3.18
+2022-10-22,Championship,2022-23,Rotherham,Hull,2,4,4,7,1,0,0,0,6,11,1,0,1,1,2.25,3.3,3.3,2.34,3.31,3.35
+2022-10-22,Championship,2022-23,Reading,Bristol City,2,0,10,5,2,3,0,0,2,15,5,0,0,0,2.5,3.25,2.9,2.58,3.38,2.91
+2022-10-22,Championship,2022-23,Sunderland,Burnley,2,4,2,5,1,3,0,0,6,7,4,0,1,1,3.2,3.25,2.3,3.19,3.37,2.39
+2022-10-22,Championship,2022-23,Millwall,West Brom,2,1,5,2,1,1,0,1,3,7,2,1,1,1,2.75,3.1,2.75,2.78,3.23,2.79
+2022-10-22,Championship,2022-23,Middlesbrough,Huddersfield,0,0,3,5,3,1,0,0,0,8,4,0,0,0,1.66,3.75,5.5,1.68,3.95,5.44
+2022-10-22,Championship,2022-23,Blackburn,Birmingham,2,1,2,9,1,1,0,0,3,11,2,0,1,1,2.05,3.25,3.75,2.11,3.36,3.89
+2022-10-22,Championship,2022-23,Blackpool,Preston,4,2,1,6,1,2,0,0,6,7,3,0,1,1,2.62,3.2,2.8,2.79,3.24,2.78
+2022-10-22,Championship,2022-23,QPR,Wigan,2,1,5,4,1,2,0,0,3,9,3,0,1,1,1.95,3.5,4.0,2.01,3.52,4.05
+2022-10-23,Championship,2022-23,Swansea,Cardiff,2,0,7,1,3,3,0,1,2,8,6,1,0,0,2.1,3.3,3.5,2.16,3.52,3.57
+2022-10-23,Championship,2022-23,Watford,Luton,4,0,6,1,3,4,0,1,4,7,7,1,0,1,2.2,3.3,3.4,2.29,3.31,3.45
+2022-10-25,Championship,2022-23,Burnley,Norwich,1,0,5,4,3,3,0,0,1,9,6,0,0,0,2.1,3.4,3.5,2.21,3.49,3.47
+2022-10-25,Championship,2022-23,Coventry,Rotherham,2,2,6,1,2,3,0,0,4,7,5,0,1,1,1.72,3.5,5.25,1.76,3.61,5.4
+2022-10-28,Championship,2022-23,Birmingham,QPR,2,0,2,10,4,3,0,0,2,12,7,0,0,0,2.25,3.3,3.2,2.34,3.37,3.3
+2022-10-29,Championship,2022-23,Bristol City,Swansea,1,1,7,11,1,0,0,0,2,18,1,0,1,0,2.3,3.4,3.1,2.43,3.49,3.03
+2022-10-29,Championship,2022-23,Burnley,Reading,2,1,12,9,3,4,0,0,3,21,7,0,1,1,1.61,4.0,5.5,1.6,4.17,5.97
+2022-10-29,Championship,2022-23,Cardiff,Rotherham,1,0,10,3,0,1,0,0,1,13,1,0,0,0,1.9,3.25,4.33,1.95,3.47,4.36
+2022-10-29,Championship,2022-23,Coventry,Blackpool,1,2,3,5,1,4,0,0,3,8,5,0,1,1,1.95,3.4,4.0,1.98,3.59,4.06
+2022-10-29,Championship,2022-23,Huddersfield,Millwall,1,0,8,1,2,3,0,0,1,9,5,0,0,0,3.0,3.25,2.4,3.19,3.3,2.43
+2022-10-29,Championship,2022-23,Hull,Blackburn,0,1,6,3,2,1,0,0,1,9,3,0,0,0,2.5,3.2,2.9,2.58,3.21,3.05
+2022-10-29,Championship,2022-23,Luton,Sunderland,1,1,8,5,2,3,0,0,2,13,5,0,1,0,2.0,3.3,4.0,2.02,3.43,4.14
+2022-10-29,Championship,2022-23,Norwich,Stoke,3,1,5,6,6,2,0,0,4,11,8,0,1,1,2.0,3.3,4.0,2.04,3.55,3.9
+2022-10-29,Championship,2022-23,Preston,Middlesbrough,2,1,2,4,3,3,0,0,3,6,6,0,1,1,2.8,3.0,2.75,2.84,3.16,2.79
+2022-10-29,Championship,2022-23,Wigan,Watford,0,1,3,4,2,2,0,0,1,7,4,0,0,0,3.1,3.25,2.37,3.25,3.33,2.39
+2022-10-29,Championship,2022-23,West Brom,Sheffield United,0,2,8,3,0,1,0,0,2,11,1,0,0,0,2.2,3.3,3.4,2.2,3.45,3.54
+2022-11-01,Championship,2022-23,Bristol City,Sheffield United,0,1,8,1,3,5,1,0,1,9,8,1,0,0,3.3,3.4,2.2,3.37,3.63,2.19
+2022-11-01,Championship,2022-23,West Brom,Blackpool,1,0,7,2,4,2,0,0,1,9,6,0,0,0,1.66,4.0,5.0,1.67,3.97,5.56
+2022-11-01,Championship,2022-23,Preston,Swansea,1,0,2,7,4,3,0,0,1,9,7,0,0,0,2.4,3.25,3.0,2.49,3.32,3.07
+2022-11-01,Championship,2022-23,Hull,Middlesbrough,1,3,7,2,1,3,0,0,4,9,4,0,1,1,3.1,3.3,2.37,3.21,3.33,2.41
+2022-11-01,Championship,2022-23,Luton,Reading,0,0,6,5,2,3,0,0,0,11,5,0,0,0,1.95,3.4,4.2,1.97,3.46,4.29
+2022-11-01,Championship,2022-23,Coventry,Blackburn,1,0,3,4,2,4,0,1,1,7,6,1,0,0,2.4,3.2,3.1,2.44,3.2,3.27
+2022-11-02,Championship,2022-23,Birmingham,Millwall,0,0,2,5,0,1,0,0,0,7,1,0,0,0,2.5,3.2,2.9,2.62,3.12,3.07
+2022-11-02,Championship,2022-23,Burnley,Rotherham,3,2,7,3,3,2,0,1,5,10,5,1,1,1,1.45,4.33,8.0,1.47,4.61,7.54
+2022-11-02,Championship,2022-23,Cardiff,Watford,1,2,8,11,2,2,0,0,3,19,4,0,1,1,2.9,3.2,2.5,3.01,3.31,2.54
+2022-11-02,Championship,2022-23,Huddersfield,Sunderland,0,2,5,1,2,2,0,0,2,6,4,0,0,0,2.62,3.3,2.7,2.67,3.29,2.87
+2022-11-02,Championship,2022-23,Norwich,QPR,0,0,11,4,1,3,0,0,0,15,4,0,0,0,1.95,3.6,4.0,1.99,3.7,3.89
+2022-11-02,Championship,2022-23,Wigan,Stoke,0,1,2,7,1,1,0,0,1,9,2,0,0,0,2.7,3.3,2.62,2.85,3.3,2.68
+2022-11-04,Championship,2022-23,Reading,Preston,1,2,3,2,1,4,0,0,3,5,5,0,1,1,2.3,3.1,3.3,2.4,3.18,3.37
+2022-11-05,Championship,2022-23,Stoke,Birmingham,1,2,4,3,3,4,0,0,3,7,7,0,1,1,2.05,3.5,3.6,2.09,3.49,3.8
+2022-11-05,Championship,2022-23,Watford,Coventry,0,1,10,5,4,2,0,0,1,15,6,0,0,0,1.9,3.5,4.33,1.9,3.69,4.29
+2022-11-05,Championship,2022-23,Swansea,Wigan,2,2,6,3,2,2,0,0,4,9,4,0,1,1,1.9,3.5,4.33,1.91,3.55,4.46
+2022-11-05,Championship,2022-23,Sunderland,Cardiff,0,1,6,4,4,3,0,0,1,10,7,0,0,0,2.2,3.2,3.5,2.27,3.22,3.61
+2022-11-05,Championship,2022-23,QPR,West Brom,0,1,8,5,1,2,0,0,1,13,3,0,0,0,2.5,3.6,2.7,2.65,3.46,2.76
+2022-11-05,Championship,2022-23,Rotherham,Norwich,1,2,2,9,1,3,0,0,3,11,4,0,1,1,4.2,3.5,1.95,4.19,3.6,1.95
+2022-11-05,Championship,2022-23,Middlesbrough,Bristol City,1,1,8,1,3,2,0,0,2,9,5,0,1,0,1.8,3.6,4.75,1.83,3.74,4.6
+2022-11-05,Championship,2022-23,Blackpool,Luton,0,1,9,11,1,1,0,0,1,20,2,0,0,0,2.8,3.3,2.55,2.83,3.43,2.61
+2022-11-05,Championship,2022-23,Blackburn,Huddersfield,1,0,5,4,0,3,0,0,1,9,3,0,0,0,1.83,3.5,4.75,1.91,3.63,4.36
+2022-11-05,Championship,2022-23,Sheffield United,Burnley,5,2,10,6,2,3,0,0,7,16,5,0,1,1,2.4,3.3,3.0,2.5,3.42,2.98
+2022-11-05,Championship,2022-23,Millwall,Hull,0,0,10,2,0,3,0,1,0,12,3,1,0,0,1.83,3.6,4.5,1.83,3.58,4.88
+2022-11-08,Championship,2022-23,Coventry,Wigan,2,0,6,4,2,1,0,0,2,10,3,0,0,0,1.9,3.5,4.0,1.99,3.58,4.03
+2022-11-08,Championship,2022-23,Birmingham,Swansea,2,2,12,1,3,4,0,0,4,13,7,0,1,1,2.7,3.25,2.7,2.76,3.31,2.75
+2022-11-08,Championship,2022-23,Blackpool,Middlesbrough,0,3,2,7,4,1,0,0,3,9,5,0,0,1,3.2,3.4,2.25,3.34,3.49,2.26
+2022-11-08,Championship,2022-23,Cardiff,Hull,2,3,4,2,0,1,0,0,5,6,1,0,1,1,2.05,3.25,3.8,2.11,3.34,3.9
+2022-11-08,Championship,2022-23,QPR,Huddersfield,1,2,14,4,0,6,0,0,3,18,6,0,1,1,1.7,3.75,5.25,1.72,3.79,5.38
+2022-11-08,Championship,2022-23,Sheffield United,Rotherham,0,1,12,1,2,3,0,0,1,13,5,0,0,0,1.33,5.5,8.0,1.34,5.38,9.84
+2022-11-08,Championship,2022-23,Stoke,Luton,2,0,5,13,1,4,0,0,2,18,5,0,0,0,1.95,3.4,4.0,2.06,3.4,4.01
+2022-11-08,Championship,2022-23,Watford,Reading,2,0,7,3,2,3,0,0,2,10,5,0,0,0,1.8,3.5,4.5,1.83,3.66,4.74
+2022-11-11,Championship,2022-23,Birmingham,Sunderland,1,2,7,3,2,4,0,0,3,10,6,0,1,1,2.2,3.3,3.4,2.31,3.27,3.47
+2022-11-12,Championship,2022-23,Preston,Millwall,2,4,2,2,1,3,0,0,6,4,4,0,1,1,2.55,3.0,3.1,2.58,3.11,3.14
+2022-11-12,Championship,2022-23,Norwich,Middlesbrough,1,2,3,4,1,2,0,0,3,7,3,0,1,1,2.2,3.3,3.4,2.24,3.49,3.4
+2022-11-12,Championship,2022-23,West Brom,Stoke,2,0,8,6,1,3,0,0,2,14,4,0,0,0,1.95,3.5,4.0,2.04,3.52,3.94
+2022-11-12,Championship,2022-23,Wigan,Blackpool,2,1,8,3,3,2,0,1,3,11,5,1,1,1,2.25,3.4,3.2,2.31,3.45,3.27
+2022-11-12,Championship,2022-23,Luton,Rotherham,1,1,12,4,1,7,0,0,2,16,8,0,1,0,1.7,3.75,5.25,1.7,3.9,5.34
+2022-11-12,Championship,2022-23,Huddersfield,Swansea,0,0,2,11,1,2,0,0,0,13,3,0,0,0,3.1,3.3,2.37,3.18,3.37,2.4
+2022-11-12,Championship,2022-23,Coventry,QPR,2,0,2,6,2,2,0,0,2,8,4,0,0,0,2.37,3.25,3.1,2.41,3.36,3.18
+2022-11-12,Championship,2022-23,Cardiff,Sheffield United,0,1,5,4,0,1,0,0,1,9,1,0,0,0,3.2,3.3,2.3,3.32,3.37,2.33
+2022-11-12,Championship,2022-23,Bristol City,Watford,0,0,4,3,1,1,0,0,0,7,2,0,0,0,3.0,3.4,2.37,3.09,3.49,2.4
+2022-11-12,Championship,2022-23,Hull,Reading,1,2,4,6,0,1,0,0,3,10,1,0,1,1,2.45,3.2,3.0,2.5,3.18,3.19
+2022-11-13,Championship,2022-23,Burnley,Blackburn,3,0,7,3,1,2,0,0,3,10,3,0,0,1,1.72,3.6,5.25,1.7,3.72,5.75
+2022-12-03,Championship,2022-23,Sunderland,Millwall,3,0,1,8,1,3,0,0,3,9,4,0,0,1,2.5,3.25,2.87,2.6,3.25,2.98
+2022-12-10,Championship,2022-23,Blackburn,Preston,1,4,2,2,1,2,0,0,5,4,3,0,1,1,2.25,3.2,3.4,2.31,3.2,3.54
+2022-12-10,Championship,2022-23,Rotherham,Bristol City,1,3,7,9,1,4,0,0,4,16,5,0,1,1,3.0,3.25,2.4,3.07,3.42,2.44
+2022-12-10,Championship,2022-23,Reading,Coventry,1,0,4,4,2,3,0,0,1,8,5,0,0,0,2.5,3.2,3.0,2.65,3.24,2.93
+2022-12-10,Championship,2022-23,Blackpool,Birmingham,0,0,2,6,0,1,0,0,0,8,1,0,0,0,2.75,3.3,2.63,2.85,3.3,2.67
+2022-12-10,Championship,2022-23,Middlesbrough,Luton,2,1,3,2,0,2,0,1,3,5,2,1,1,1,1.83,3.6,4.33,1.88,3.63,4.5
+2022-12-10,Championship,2022-23,Millwall,Wigan,1,1,4,3,1,2,0,0,2,7,3,0,1,0,1.91,3.4,4.33,1.91,3.5,4.57
+2022-12-10,Championship,2022-23,Sheffield United,Huddersfield,1,0,10,1,2,2,0,0,1,11,4,0,0,0,1.45,4.33,7.0,1.5,4.58,6.91
+2022-12-10,Championship,2022-23,Stoke,Cardiff,2,2,6,6,1,2,0,0,4,12,3,0,1,1,2.05,3.3,3.8,2.12,3.45,3.74
+2022-12-10,Championship,2022-23,Swansea,Norwich,0,1,7,4,2,5,0,0,1,11,7,0,0,0,2.45,3.4,2.88,2.49,3.6,2.88
+2022-12-11,Championship,2022-23,Watford,Hull,0,0,7,5,0,4,0,0,0,12,4,0,0,0,1.7,3.6,5.5,1.68,3.85,5.67
+2022-12-11,Championship,2022-23,QPR,Burnley,0,3,2,6,1,2,0,0,3,8,3,0,0,1,3.1,3.4,2.3,3.08,3.59,2.36
+2022-12-12,Championship,2022-23,Sunderland,West Brom,1,2,5,5,1,1,0,0,3,10,2,0,1,1,2.9,3.25,2.5,3.15,3.33,2.41
+2022-12-16,Championship,2022-23,Birmingham,Reading,3,2,0,7,1,1,0,0,5,7,2,0,1,1,2.05,3.2,4.0,2.09,3.22,4.19
+2022-12-17,Championship,2022-23,Preston,QPR,0,1,4,4,1,3,0,0,1,8,4,0,0,0,2.3,3.25,3.2,2.3,3.37,3.37
+2022-12-17,Championship,2022-23,Bristol City,Stoke,1,2,3,3,3,4,0,0,3,6,7,0,1,1,2.6,3.25,2.8,2.58,3.43,2.86
+2022-12-17,Championship,2022-23,Burnley,Middlesbrough,3,1,4,1,1,2,1,0,4,5,3,1,1,1,2.05,3.4,3.75,2.11,3.53,3.69
+2022-12-17,Championship,2022-23,Cardiff,Blackpool,1,1,4,6,3,3,0,0,2,10,6,0,1,0,1.83,3.5,4.5,1.88,3.56,4.59
+2022-12-17,Championship,2022-23,Coventry,Swansea,3,3,5,3,0,2,0,0,6,8,2,0,1,1,2.4,3.25,3.0,2.5,3.34,3.04
+2022-12-17,Championship,2022-23,Huddersfield,Watford,0,2,7,11,2,2,0,0,2,18,4,0,0,0,3.75,3.3,2.1,3.87,3.38,2.11
+2022-12-17,Championship,2022-23,Hull,Sunderland,1,1,7,4,1,1,0,1,2,11,2,1,1,0,2.6,3.2,2.8,2.56,3.32,2.98
+2022-12-17,Championship,2022-23,West Brom,Rotherham,3,0,6,3,1,2,0,0,3,9,3,0,0,1,1.44,4.5,7.5,1.45,4.63,7.84
+2022-12-17,Championship,2022-23,Norwich,Blackburn,0,2,6,2,4,3,0,0,2,8,7,0,0,0,1.8,3.7,4.5,1.81,3.73,4.74
+2022-12-19,Championship,2022-23,Wigan,Sheffield United,1,2,8,4,1,3,0,0,3,12,4,0,1,1,3.8,3.3,2.05,3.88,3.43,2.06
+2022-12-21,Championship,2022-23,Coventry,West Brom,1,0,10,2,2,1,0,0,1,12,3,0,0,0,3.0,3.2,2.45,3.07,3.31,2.5
+2022-12-26,Championship,2022-23,Sheffield United,Coventry,3,1,2,7,0,3,1,0,4,9,3,1,1,1,1.67,3.8,5.25,1.72,3.82,5.12
+2022-12-26,Championship,2022-23,Rotherham,Stoke,2,2,3,3,1,2,0,0,4,6,3,0,1,1,3.2,3.3,2.3,3.31,3.4,2.29
+2022-12-26,Championship,2022-23,Luton,Norwich,2,1,6,4,1,1,1,0,3,10,2,1,1,1,2.6,3.3,2.75,2.66,3.41,2.75
+2022-12-26,Championship,2022-23,Cardiff,QPR,0,0,1,6,2,3,0,0,0,7,5,0,0,0,2.4,3.3,3.0,2.48,3.2,3.16
+2022-12-26,Championship,2022-23,Preston,Huddersfield,1,2,2,3,2,3,0,0,3,5,5,0,1,1,1.83,3.5,4.5,1.87,3.62,4.47
+2022-12-26,Championship,2022-23,Sunderland,Blackburn,2,1,7,3,3,5,0,0,3,10,8,0,1,1,2.3,3.3,3.2,2.4,3.3,3.19
+2022-12-26,Championship,2022-23,Hull,Blackpool,1,1,11,8,2,2,0,1,2,19,4,1,1,0,2.1,3.4,3.75,2.09,3.48,3.73
+2022-12-26,Championship,2022-23,Bristol City,West Brom,0,2,8,6,2,1,0,0,2,14,3,0,0,0,3.1,3.3,2.38,3.11,3.39,2.4
+2022-12-26,Championship,2022-23,Middlesbrough,Wigan,4,1,9,10,2,1,0,0,5,19,3,0,1,1,1.67,3.75,5.5,1.66,3.94,5.56
+2022-12-26,Championship,2022-23,Watford,Millwall,0,2,4,10,2,3,1,0,2,14,5,1,0,0,2.1,3.3,3.75,2.13,3.36,3.82
+2022-12-27,Championship,2022-23,Reading,Swansea,2,1,3,4,2,3,0,0,3,7,5,0,1,1,2.8,3.3,2.55,2.89,3.36,2.57
+2022-12-27,Championship,2022-23,Burnley,Birmingham,3,0,1,1,1,3,0,0,3,2,4,0,0,1,1.6,3.8,6.0,1.62,3.93,6.06
+2022-12-29,Championship,2022-23,QPR,Luton,0,3,6,2,0,4,0,0,3,8,4,0,0,1,2.25,3.25,3.3,2.23,3.41,3.49
+2022-12-29,Championship,2022-23,Blackburn,Middlesbrough,1,2,1,7,1,3,1,0,3,8,4,1,1,1,3.2,3.2,2.38,3.26,3.26,2.41
+2022-12-29,Championship,2022-23,Coventry,Cardiff,0,0,5,2,2,1,0,0,0,7,3,0,0,0,2.15,3.3,3.4,2.21,3.42,3.52
+2022-12-29,Championship,2022-23,Huddersfield,Rotherham,2,0,0,2,3,2,0,0,2,2,5,0,0,0,2.1,3.25,3.8,2.15,3.35,3.79
+2022-12-29,Championship,2022-23,Millwall,Bristol City,0,0,3,4,0,0,0,0,0,7,0,0,0,0,1.91,3.4,4.2,1.93,3.66,4.22
+2022-12-29,Championship,2022-23,Wigan,Sunderland,1,4,1,4,2,1,0,0,5,5,3,0,1,1,2.63,3.25,2.7,2.77,3.34,2.73
+2022-12-29,Championship,2022-23,West Brom,Preston,2,0,14,3,1,1,0,0,2,17,2,0,0,0,1.75,3.5,5.0,1.81,3.63,4.94
+2022-12-29,Championship,2022-23,Blackpool,Sheffield United,1,2,5,6,0,0,0,0,3,11,0,0,1,1,4.75,3.75,1.73,4.75,3.89,1.78
+2022-12-30,Championship,2022-23,Stoke,Burnley,0,1,3,5,2,3,0,0,1,8,5,0,0,0,3.2,3.25,2.3,3.27,3.48,2.3
+2022-12-30,Championship,2022-23,Swansea,Watford,4,0,4,2,4,2,0,0,4,6,6,0,0,1,2.25,3.3,3.25,2.32,3.38,3.33
+2022-12-30,Championship,2022-23,Birmingham,Hull,0,1,4,7,3,1,0,0,1,11,4,0,0,0,1.95,3.3,4.0,2.03,3.37,4.17
+2022-12-30,Championship,2022-23,Norwich,Reading,1,1,8,7,3,2,0,0,2,15,5,0,1,0,1.73,3.5,5.25,1.72,3.8,5.31
+2023-01-01,Championship,2022-23,Blackburn,Cardiff,1,0,3,9,3,2,0,0,1,12,5,0,0,0,2.3,3.3,3.2,2.39,3.32,3.25
+2023-01-01,Championship,2022-23,Blackpool,Sunderland,1,1,1,5,3,2,1,0,2,6,5,1,1,0,3.0,3.25,2.45,2.98,3.49,2.47
+2023-01-01,Championship,2022-23,Coventry,Bristol City,1,1,6,11,3,2,0,0,2,17,5,0,1,0,1.95,3.5,4.0,1.96,3.67,4.07
+2023-01-01,Championship,2022-23,Huddersfield,Luton,1,2,1,1,1,3,0,0,3,2,4,0,1,1,2.88,3.4,2.45,3.16,3.31,2.45
+2023-01-01,Championship,2022-23,Millwall,Rotherham,3,0,10,1,1,1,0,0,3,11,2,0,0,1,1.57,3.8,6.5,1.57,4.04,6.8
+2023-01-02,Championship,2022-23,QPR,Sheffield United,1,1,8,6,2,2,0,0,2,14,4,0,1,0,3.1,3.4,2.3,3.18,3.45,2.36
+2023-01-02,Championship,2022-23,Wigan,Hull,1,4,7,5,1,2,0,0,5,12,3,0,1,1,2.45,3.3,2.88,2.56,3.37,2.94
+2023-01-02,Championship,2022-23,West Brom,Reading,1,0,6,3,1,4,0,0,1,9,5,0,0,0,1.67,4.0,5.0,1.67,3.93,5.62
+2023-01-02,Championship,2022-23,Stoke,Preston,0,1,4,7,4,4,0,0,1,11,8,0,0,0,2.1,3.4,3.6,2.16,3.38,3.69
+2023-01-02,Championship,2022-23,Norwich,Watford,0,1,8,3,2,3,0,0,1,11,5,0,0,0,1.91,3.6,3.8,1.97,3.64,4.05
+2023-01-02,Championship,2022-23,Birmingham,Middlesbrough,1,3,9,8,1,2,0,0,4,17,3,0,1,1,3.1,3.4,2.3,3.22,3.45,2.34
+2023-01-02,Championship,2022-23,Swansea,Burnley,1,2,4,5,3,5,0,0,3,9,8,0,1,1,3.0,3.4,2.38,3.02,3.47,2.45
+2023-01-14,Championship,2022-23,Preston,Norwich,0,4,4,7,4,4,0,0,4,11,8,0,0,1,2.88,3.3,2.5,2.95,3.36,2.56
+2023-01-14,Championship,2022-23,Watford,Blackpool,2,0,2,3,2,3,0,0,2,5,5,0,0,0,1.8,3.75,4.33,1.81,3.86,4.61
+2023-01-14,Championship,2022-23,Sunderland,Swansea,1,3,1,4,1,4,1,0,4,5,5,1,1,1,2.6,3.3,2.75,2.65,3.35,2.84
+2023-01-14,Championship,2022-23,Sheffield United,Stoke,3,1,2,6,2,2,0,0,4,8,4,0,1,1,1.73,3.75,5.0,1.77,3.7,5.13
+2023-01-14,Championship,2022-23,Reading,QPR,2,2,5,7,2,2,0,0,4,12,4,0,1,1,2.7,3.2,2.75,2.81,3.19,2.79
+2023-01-14,Championship,2022-23,Middlesbrough,Millwall,1,0,6,3,2,3,0,0,1,9,5,0,0,0,1.95,3.5,4.0,2.0,3.47,4.17
+2023-01-14,Championship,2022-23,Rotherham,Blackburn,4,0,4,2,1,0,0,0,4,6,1,0,0,1,3.4,3.4,2.15,3.5,3.44,2.22
+2023-01-14,Championship,2022-23,Hull,Huddersfield,1,1,4,4,0,2,0,0,2,8,2,0,1,0,1.95,3.4,4.2,1.99,3.43,4.27
+2023-01-14,Championship,2022-23,Cardiff,Wigan,1,1,3,3,4,2,0,0,2,6,6,0,1,0,1.95,3.4,4.0,2.0,3.42,4.23
+2023-01-14,Championship,2022-23,Burnley,Coventry,1,0,3,5,3,3,0,0,1,8,6,0,0,0,1.7,3.8,5.0,1.72,3.88,5.17
+2023-01-14,Championship,2022-23,Bristol City,Birmingham,4,2,5,2,2,1,0,0,6,7,3,0,1,1,2.25,3.3,3.3,2.28,3.29,3.49
+2023-01-14,Championship,2022-23,Luton,West Brom,2,3,2,9,3,2,0,0,5,11,5,0,1,1,3.0,3.2,2.45,3.08,3.21,2.55
+2023-01-20,Championship,2022-23,Sheffield United,Hull,1,0,4,2,6,2,0,1,1,6,8,1,0,0,1.7,3.75,5.25,1.7,3.81,5.53
+2023-01-20,Championship,2022-23,Burnley,West Brom,2,1,16,5,1,1,0,0,3,21,2,0,1,1,2.25,3.1,3.5,2.29,3.17,3.63
+2023-01-21,Championship,2022-23,Wigan,Luton,0,2,3,1,2,3,0,0,2,4,5,0,0,0,2.9,3.2,2.55,3.03,3.24,2.57
+2023-01-21,Championship,2022-23,Watford,Rotherham,1,1,9,3,3,3,0,0,2,12,6,0,1,0,1.55,4.2,6.0,1.57,4.39,6.03
+2023-01-21,Championship,2022-23,QPR,Swansea,1,1,5,8,0,0,0,0,2,13,0,0,1,0,2.7,3.3,2.7,2.72,3.34,2.78
+2023-01-21,Championship,2022-23,Stoke,Reading,4,0,6,2,0,0,0,0,4,8,0,0,0,1,1.85,3.5,4.33,1.96,3.5,4.3
+2023-01-21,Championship,2022-23,Bristol City,Blackburn,1,1,5,3,1,1,0,1,2,8,2,1,1,0,2.2,3.4,3.3,2.23,3.43,3.46
+2023-01-21,Championship,2022-23,Birmingham,Preston,1,2,5,3,4,1,0,0,3,8,5,0,1,1,2.4,3.1,3.2,2.43,3.1,3.4
+2023-01-21,Championship,2022-23,Coventry,Norwich,2,4,4,6,0,1,0,0,6,10,1,0,1,1,2.8,3.4,2.5,2.82,3.54,2.56
+2023-01-21,Championship,2022-23,Cardiff,Millwall,0,1,7,4,3,3,0,0,1,11,6,0,0,0,3.1,3.1,2.45,3.21,3.12,2.53
+2023-01-22,Championship,2022-23,Sunderland,Middlesbrough,2,0,4,8,0,2,0,1,2,12,2,1,0,0,2.88,3.4,2.5,3.03,3.39,2.49
+2023-01-28,Championship,2022-23,Coventry,Huddersfield,2,0,6,3,1,2,0,0,2,9,3,0,0,0,1.8,3.6,4.5,1.81,3.64,4.9
+2023-01-28,Championship,2022-23,Hull,QPR,3,0,4,5,0,4,0,0,3,9,4,0,0,1,2.5,3.4,2.8,2.59,3.43,2.86
+2023-01-28,Championship,2022-23,Middlesbrough,Watford,2,0,9,5,1,2,0,0,2,14,3,0,0,0,1.91,3.4,4.33,1.97,3.54,4.18
+2023-01-31,Championship,2022-23,Luton,Cardiff,1,0,13,2,3,2,0,0,1,15,5,0,0,0,2.0,3.4,4.2,2.01,3.39,4.22
+2023-02-03,Championship,2022-23,West Brom,Coventry,1,0,10,4,4,1,0,0,1,14,5,0,0,0,1.85,3.5,4.5,1.89,3.48,4.66
+2023-02-04,Championship,2022-23,Millwall,Sunderland,1,1,5,6,3,1,0,0,2,11,4,0,1,0,2.05,3.4,3.75,2.08,3.39,3.97
+2023-02-04,Championship,2022-23,Swansea,Birmingham,3,4,1,3,1,2,0,0,7,4,3,0,1,1,1.83,3.5,4.5,1.85,3.61,4.67
+2023-02-04,Championship,2022-23,Reading,Watford,2,2,4,4,3,4,0,0,4,8,7,0,1,1,2.8,3.3,2.55,2.95,3.27,2.62
+2023-02-04,Championship,2022-23,Middlesbrough,Blackpool,3,0,9,7,1,2,0,0,3,16,3,0,0,1,1.53,4.0,6.5,1.55,4.0,7.33
+2023-02-04,Championship,2022-23,Preston,Bristol City,1,2,5,3,1,4,0,0,3,8,5,0,1,1,2.45,3.2,3.0,2.5,3.26,3.11
+2023-02-04,Championship,2022-23,Hull,Cardiff,1,0,3,7,2,0,0,0,1,10,2,0,0,0,2.15,3.3,3.5,2.17,3.3,3.78
+2023-02-04,Championship,2022-23,Huddersfield,QPR,1,1,8,4,2,2,0,0,2,12,4,0,1,0,3.1,3.25,2.38,3.24,3.19,2.47
+2023-02-04,Championship,2022-23,Luton,Stoke,1,0,7,5,2,3,0,0,1,12,5,0,0,0,2.25,3.3,3.3,2.27,3.27,3.55
+2023-02-04,Championship,2022-23,Rotherham,Sheffield United,0,0,3,5,1,1,0,0,0,8,2,0,0,0,5.0,4.0,1.67,5.37,3.88,1.7
+2023-02-04,Championship,2022-23,Norwich,Burnley,0,3,5,3,5,3,0,0,3,8,8,0,0,1,2.6,3.3,2.75,2.6,3.42,2.85
+2023-02-06,Championship,2022-23,Blackburn,Wigan,0,0,7,7,3,1,0,0,0,14,4,0,0,0,1.95,3.3,4.0,2.01,3.5,3.96
+2023-02-07,Championship,2022-23,Blackpool,Huddersfield,2,2,3,7,1,3,1,0,4,10,4,1,1,1,2.25,3.25,3.25,2.29,3.26,3.51
+2023-02-10,Championship,2022-23,Birmingham,West Brom,2,0,5,6,3,3,0,0,2,11,6,0,0,0,3.8,3.4,2.0,3.97,3.45,2.05
+2023-02-11,Championship,2022-23,Watford,Blackburn,1,1,6,2,2,4,0,0,2,8,6,0,1,0,1.91,3.4,4.33,1.91,3.6,4.37
+2023-02-11,Championship,2022-23,Sunderland,Reading,1,0,4,8,0,2,0,0,1,12,2,0,0,0,1.85,3.5,4.5,1.88,3.58,4.56
+2023-02-11,Championship,2022-23,Stoke,Hull,0,0,7,2,0,2,0,0,0,9,2,0,0,0,2.05,3.3,3.8,2.09,3.38,3.94
+2023-02-11,Championship,2022-23,Sheffield United,Swansea,3,0,4,5,2,3,0,0,3,9,5,0,0,1,1.83,3.6,4.33,1.87,3.57,4.64
+2023-02-11,Championship,2022-23,QPR,Millwall,1,2,4,3,1,1,0,0,3,7,2,0,1,1,2.7,3.1,2.8,2.72,3.21,2.88
+2023-02-11,Championship,2022-23,Wigan,Huddersfield,1,0,3,2,1,1,0,0,1,5,2,0,0,0,2.25,3.2,3.4,2.3,3.23,3.51
+2023-02-11,Championship,2022-23,Cardiff,Middlesbrough,1,3,7,4,0,2,0,0,4,11,2,0,1,1,3.6,3.4,2.1,3.6,3.42,2.18
+2023-02-11,Championship,2022-23,Burnley,Preston,3,0,5,2,1,3,0,0,3,7,4,0,0,1,1.55,4.0,6.0,1.54,4.1,7.15
+2023-02-11,Championship,2022-23,Bristol City,Norwich,1,0,8,8,1,3,0,0,1,16,4,0,0,0,2.9,3.4,2.4,2.95,3.5,2.48
+2023-02-11,Championship,2022-23,Blackpool,Rotherham,0,0,4,0,1,0,0,0,0,4,1,0,0,0,2.15,3.3,3.4,2.26,3.39,3.45
+2023-02-11,Championship,2022-23,Coventry,Luton,1,1,5,5,1,4,1,0,2,10,5,1,1,0,2.25,3.4,3.2,2.27,3.43,3.39
+2023-02-14,Championship,2022-23,Birmingham,Cardiff,0,2,5,4,3,3,0,0,2,9,6,0,0,0,2.25,3.2,3.4,2.31,3.34,3.38
+2023-02-14,Championship,2022-23,Coventry,Millwall,1,0,3,6,1,3,0,0,1,9,4,0,0,0,2.55,3.2,2.9,2.57,3.3,2.98
+2023-02-14,Championship,2022-23,Norwich,Hull,3,1,5,3,0,1,0,0,4,8,1,0,1,1,1.8,3.75,4.33,1.85,3.72,4.55
+2023-02-14,Championship,2022-23,QPR,Sunderland,0,3,2,2,6,2,0,0,3,4,8,0,0,1,2.4,3.3,3.0,2.47,3.32,3.11
+2023-02-14,Championship,2022-23,Burnley,Watford,1,1,5,1,3,3,0,0,2,6,6,0,1,0,1.67,3.8,5.25,1.68,3.91,5.49
+2023-02-14,Championship,2022-23,Reading,Rotherham,2,1,4,4,2,0,0,0,3,8,2,0,1,1,1.95,3.3,4.2,2.0,3.49,4.13
+2023-02-15,Championship,2022-23,West Brom,Blackburn,1,1,12,5,2,1,0,0,2,17,3,0,1,0,1.67,3.8,5.5,1.69,3.85,5.57
+2023-02-15,Championship,2022-23,Sheffield United,Middlesbrough,1,3,6,6,3,3,0,0,4,12,6,0,1,1,2.05,3.4,3.75,2.06,3.46,3.93
+2023-02-15,Championship,2022-23,Swansea,Blackpool,2,1,6,2,2,1,0,1,3,8,3,1,1,1,1.67,4.0,5.0,1.66,4.08,5.44
+2023-02-15,Championship,2022-23,Bristol City,Wigan,1,1,3,11,2,3,0,0,2,14,5,0,1,0,1.95,3.4,4.0,2.04,3.43,4.06
+2023-02-15,Championship,2022-23,Preston,Luton,1,1,2,10,2,2,1,0,2,12,4,1,1,0,2.88,3.0,2.7,2.95,3.17,2.68
+2023-02-15,Championship,2022-23,Stoke,Huddersfield,3,0,12,3,2,3,0,1,3,15,5,1,0,1,1.83,3.4,4.75,1.88,3.4,4.94
+2023-02-17,Championship,2022-23,Cardiff,Reading,1,0,8,3,1,2,0,0,1,11,3,0,0,0,1.95,3.25,4.2,2.0,3.35,4.36
+2023-02-18,Championship,2022-23,Middlesbrough,QPR,3,1,9,9,1,0,0,0,4,18,1,0,1,1,1.55,4.2,5.75,1.61,4.17,5.86
+2023-02-18,Championship,2022-23,Sunderland,Bristol City,1,1,2,4,1,0,0,0,2,6,1,0,1,0,2.0,3.4,3.75,2.02,3.59,3.92
+2023-02-18,Championship,2022-23,Wigan,Norwich,0,0,3,5,2,2,0,0,0,8,4,0,0,0,3.5,3.6,2.05,3.82,3.55,2.06
+2023-02-18,Championship,2022-23,Rotherham,Coventry,0,2,4,2,2,3,0,0,2,6,5,0,0,0,3.4,3.4,2.15,3.57,3.5,2.16
+2023-02-18,Championship,2022-23,Luton,Burnley,0,1,7,5,1,1,1,0,1,12,2,1,0,0,3.3,3.3,2.2,3.5,3.24,2.31
+2023-02-18,Championship,2022-23,Blackburn,Swansea,1,0,6,3,4,0,0,0,1,9,4,0,0,0,2.7,3.4,2.63,2.86,3.39,2.61
+2023-02-18,Championship,2022-23,Huddersfield,Birmingham,2,1,4,6,1,1,0,0,3,10,2,0,1,1,2.6,3.3,2.7,2.71,3.24,2.87
+2023-02-18,Championship,2022-23,Blackpool,Stoke,1,0,3,5,4,1,0,0,1,8,5,0,0,0,3.0,3.3,2.38,3.26,3.33,2.38
+2023-02-18,Championship,2022-23,Millwall,Sheffield United,3,2,4,5,3,4,0,0,5,9,7,0,1,1,2.7,3.4,2.55,2.83,3.35,2.67
+2023-02-18,Championship,2022-23,Hull,Preston,0,0,11,6,2,2,0,0,0,17,4,0,0,0,2.1,3.4,3.5,2.16,3.32,3.8
+2023-02-20,Championship,2022-23,Watford,West Brom,3,2,6,6,2,2,0,0,5,12,4,0,1,1,2.63,3.4,2.55,2.69,3.4,2.72
+2023-02-21,Championship,2022-23,Blackburn,Blackpool,1,0,8,2,3,0,0,0,1,10,3,0,0,0,2.0,3.5,3.8,2.03,3.52,3.98
+2023-02-21,Championship,2022-23,Millwall,Burnley,1,1,3,6,1,1,0,0,2,9,2,0,1,0,3.3,3.2,2.38,3.4,3.22,2.36
+2023-02-21,Championship,2022-23,Norwich,Birmingham,3,1,6,1,1,2,0,0,4,7,3,0,1,1,1.65,4.0,5.25,1.69,3.89,5.52
+2023-02-21,Championship,2022-23,Rotherham,Sunderland,2,1,4,6,2,1,0,0,3,10,3,0,1,1,3.8,3.25,2.1,3.92,3.31,2.12
+2023-02-21,Championship,2022-23,Swansea,Stoke,1,3,5,4,4,1,0,0,4,9,5,0,1,1,2.2,3.25,3.5,2.31,3.32,3.4
+2023-02-25,Championship,2022-23,West Brom,Middlesbrough,2,0,4,8,0,1,0,0,2,12,1,0,0,0,2.3,3.3,3.0,2.45,3.44,3.05
+2023-02-25,Championship,2022-23,Stoke,Millwall,0,1,9,4,0,1,0,0,1,13,1,0,0,0,2.4,3.2,3.0,2.46,3.2,3.24
+2023-02-25,Championship,2022-23,Sheffield United,Watford,1,0,5,5,2,3,0,0,1,10,5,0,0,0,1.85,3.6,3.8,1.93,3.63,4.23
+2023-02-25,Championship,2022-23,Reading,Blackpool,3,1,3,8,1,0,0,0,4,11,1,0,1,1,2.1,3.5,3.5,2.13,3.51,3.56
+2023-02-25,Championship,2022-23,QPR,Blackburn,1,3,7,1,4,0,0,0,4,8,4,0,1,1,2.15,3.2,3.6,2.19,3.32,3.71
+2023-02-25,Championship,2022-23,Norwich,Cardiff,2,0,3,5,1,1,0,0,2,8,2,0,0,0,1.7,3.75,5.0,1.75,3.77,5.18
+2023-02-25,Championship,2022-23,Burnley,Huddersfield,4,0,5,2,0,2,0,0,4,7,2,0,0,1,1.36,4.5,10.0,1.37,4.78,10.59
+2023-02-25,Championship,2022-23,Bristol City,Hull,1,0,7,3,0,1,0,0,1,10,1,0,0,0,2.38,3.2,3.1,2.4,3.2,3.29
+2023-02-25,Championship,2022-23,Birmingham,Luton,0,1,2,7,1,1,0,0,1,9,2,0,0,0,2.9,3.2,2.55,3.08,3.12,2.62
+2023-02-25,Championship,2022-23,Coventry,Sunderland,2,1,4,7,3,2,0,0,3,11,5,0,1,1,2.2,3.3,3.25,2.22,3.45,3.47
+2023-02-25,Championship,2022-23,Preston,Wigan,2,1,3,7,2,1,1,0,3,10,3,1,1,1,2.25,3.2,3.3,2.29,3.22,3.57
+2023-02-27,Championship,2022-23,Swansea,Rotherham,1,1,3,6,3,2,0,0,2,9,5,0,1,0,1.55,3.8,6.5,1.58,4.07,6.2
+2023-02-28,Championship,2022-23,Preston,Coventry,0,0,4,2,1,4,0,0,0,6,5,0,0,0,2.7,3.3,2.63,2.84,3.21,2.75
+2023-02-28,Championship,2022-23,Luton,Millwall,2,2,6,2,0,1,0,0,4,8,1,0,1,1,2.2,3.1,3.6,2.27,3.1,3.77
+2023-03-03,Championship,2022-23,Hull,West Brom,2,0,4,6,0,2,0,0,2,10,2,0,0,0,3.5,3.2,2.2,3.56,3.29,2.26
+2023-03-04,Championship,2022-23,Millwall,Norwich,2,3,4,4,2,3,0,0,5,8,5,0,1,1,2.6,3.1,2.88,2.59,3.21,3.02
+2023-03-04,Championship,2022-23,Wigan,Birmingham,1,1,2,1,2,2,0,0,2,3,4,0,1,0,2.25,3.2,3.3,2.38,3.15,3.43
+2023-03-04,Championship,2022-23,Sunderland,Stoke,1,5,2,4,1,2,0,0,6,6,3,0,1,1,2.25,3.25,3.25,2.34,3.29,3.37
+2023-03-04,Championship,2022-23,Rotherham,QPR,3,1,7,8,2,3,0,0,4,15,5,0,1,1,3.0,3.2,2.5,3.04,3.37,2.49
+2023-03-04,Championship,2022-23,Middlesbrough,Reading,5,0,6,1,1,2,0,0,5,7,3,0,0,1,1.45,4.5,6.5,1.47,4.52,7.59
+2023-03-04,Championship,2022-23,Watford,Preston,0,0,6,3,1,4,0,0,0,9,5,0,0,0,1.83,3.5,4.5,1.84,3.46,5.07
+2023-03-04,Championship,2022-23,Huddersfield,Coventry,0,4,5,5,0,1,0,0,4,10,1,0,0,1,3.3,3.2,2.25,3.37,3.27,2.36
+2023-03-04,Championship,2022-23,Blackburn,Sheffield United,1,0,3,8,2,3,0,0,1,11,5,0,0,0,3.7,3.5,2.0,3.98,3.6,2.0
+2023-03-04,Championship,2022-23,Luton,Swansea,1,0,4,3,2,2,0,0,1,7,4,0,0,0,2.0,3.3,4.0,2.04,3.47,3.98
+2023-03-04,Championship,2022-23,Blackpool,Burnley,0,0,1,8,1,1,0,0,0,9,2,0,0,0,6.5,3.8,1.6,6.61,3.93,1.6
+2023-03-04,Championship,2022-23,Cardiff,Bristol City,2,0,3,5,0,0,1,0,2,8,0,1,0,0,2.2,3.3,3.3,2.24,3.36,3.51
+2023-03-07,Championship,2022-23,Huddersfield,Bristol City,0,0,6,4,3,2,0,0,0,10,5,0,0,0,3.0,3.2,2.4,3.23,3.12,2.52
+2023-03-07,Championship,2022-23,Reading,Sheffield United,0,1,3,4,2,0,0,0,1,7,2,0,0,0,4.75,3.6,1.75,4.98,3.88,1.75
+2023-03-07,Championship,2022-23,West Brom,Wigan,1,0,1,2,0,2,0,0,1,3,2,0,0,0,1.57,4.0,6.0,1.58,4.07,6.45
+2023-03-10,Championship,2022-23,Stoke,Blackburn,3,2,1,5,2,2,0,0,5,6,4,0,1,1,2.0,3.4,3.8,2.04,3.39,4.08
+2023-03-11,Championship,2022-23,West Brom,Huddersfield,1,0,9,2,1,0,0,0,1,11,1,0,0,0,1.4,4.75,7.5,1.44,4.67,8.22
+2023-03-11,Championship,2022-23,Sheffield United,Luton,0,1,3,4,2,0,0,0,1,7,2,0,0,0,1.95,3.5,4.0,1.99,3.44,4.26
+2023-03-11,Championship,2022-23,Reading,Millwall,0,1,2,2,1,0,0,0,1,4,1,0,0,0,3.5,3.5,2.1,3.76,3.34,2.16
+2023-03-11,Championship,2022-23,QPR,Watford,1,0,2,5,2,2,0,0,1,7,4,0,0,0,3.2,3.25,2.3,3.24,3.37,2.37
+2023-03-11,Championship,2022-23,Swansea,Middlesbrough,1,3,4,6,2,1,0,0,4,10,3,0,1,1,3.25,3.6,2.15,3.29,3.46,2.3
+2023-03-11,Championship,2022-23,Coventry,Hull,1,1,10,3,0,0,0,0,2,13,0,0,1,0,1.95,3.3,4.1,2.05,3.39,4.09
+2023-03-11,Championship,2022-23,Burnley,Wigan,3,0,10,0,1,3,0,1,3,10,4,1,0,1,1.33,5.25,8.5,1.35,5.11,10.75
+2023-03-11,Championship,2022-23,Birmingham,Rotherham,2,0,4,10,1,3,0,0,2,14,4,0,0,0,1.91,3.5,4.2,1.97,3.5,4.24
+2023-03-11,Championship,2022-23,Preston,Cardiff,2,0,4,4,2,1,0,1,2,8,3,1,0,0,2.4,3.3,3.0,2.58,3.13,3.12
+2023-03-11,Championship,2022-23,Bristol City,Blackpool,2,0,6,0,0,1,0,0,2,6,1,0,0,0,1.95,3.6,4.0,1.95,3.61,4.16
+2023-03-12,Championship,2022-23,Norwich,Sunderland,0,1,8,3,2,5,0,0,1,11,7,0,0,0,1.83,3.75,4.2,1.88,3.72,4.33
+2023-03-14,Championship,2022-23,Blackpool,QPR,6,1,6,1,1,3,0,0,7,7,4,0,1,1,2.5,3.1,3.1,2.63,3.12,3.05
+2023-03-14,Championship,2022-23,Millwall,Swansea,2,1,5,5,1,2,0,0,3,10,3,0,1,1,1.95,3.5,3.8,2.01,3.48,4.12
+2023-03-14,Championship,2022-23,Rotherham,Preston,1,2,3,5,2,2,0,0,3,8,4,0,1,1,2.7,3.2,2.75,2.8,3.16,2.83
+2023-03-14,Championship,2022-23,Watford,Birmingham,3,0,3,1,1,3,0,0,3,4,4,0,0,1,1.83,3.6,4.33,1.85,3.55,4.85
+2023-03-14,Championship,2022-23,Middlesbrough,Stoke,1,1,4,6,1,4,0,0,2,10,5,0,1,0,1.7,3.8,5.0,1.75,3.89,5.0
+2023-03-14,Championship,2022-23,Wigan,Coventry,1,1,6,4,1,1,0,0,2,10,2,0,1,0,3.5,3.3,2.15,3.68,3.33,2.19
+2023-03-15,Championship,2022-23,Blackburn,Reading,2,1,6,4,2,2,0,1,3,10,4,1,1,1,1.75,3.6,4.75,1.76,3.66,5.24
+2023-03-15,Championship,2022-23,Cardiff,West Brom,1,1,3,5,2,2,0,0,2,8,4,0,1,0,3.1,3.25,2.38,3.37,3.23,2.37
+2023-03-15,Championship,2022-23,Huddersfield,Norwich,1,1,6,8,0,3,0,1,2,14,3,1,1,0,4.33,3.6,1.85,4.71,3.63,1.85
+2023-03-15,Championship,2022-23,Hull,Burnley,1,3,3,3,1,2,0,0,4,6,3,0,1,1,4.5,3.5,1.83,4.99,3.44,1.85
+2023-03-15,Championship,2022-23,Luton,Bristol City,1,0,7,2,4,3,0,0,1,9,7,0,0,0,1.85,3.5,4.5,1.84,3.6,4.79
+2023-03-15,Championship,2022-23,Sunderland,Sheffield United,1,2,4,8,2,4,0,0,3,12,6,0,1,1,3.3,3.25,2.25,3.3,3.43,2.31
+2023-03-18,Championship,2022-23,Reading,Hull,1,1,1,9,2,1,0,0,2,10,3,0,1,0,2.75,3.4,2.5,2.92,3.27,2.64
+2023-03-18,Championship,2022-23,Sunderland,Luton,1,1,6,2,0,4,0,0,2,8,4,0,1,0,2.6,3.3,2.7,2.87,3.24,2.7
+2023-03-18,Championship,2022-23,Stoke,Norwich,0,0,8,3,2,0,0,0,0,11,2,0,0,0,2.45,3.3,2.9,2.58,3.31,2.96
+2023-03-18,Championship,2022-23,Watford,Wigan,1,1,5,4,2,4,0,0,2,9,6,0,1,0,1.7,3.6,5.25,1.74,3.76,5.26
+2023-03-18,Championship,2022-23,QPR,Birmingham,0,1,10,1,4,3,0,0,1,11,7,0,0,0,2.38,3.3,3.1,2.43,3.24,3.25
+2023-03-18,Championship,2022-23,Middlesbrough,Preston,4,0,7,4,4,3,0,1,4,11,7,1,0,1,1.55,3.8,6.5,1.6,4.07,6.29
+2023-03-18,Championship,2022-23,Blackpool,Coventry,1,4,5,4,0,3,0,0,5,9,3,0,1,1,3.3,3.3,2.25,3.41,3.41,2.26
+2023-03-18,Championship,2022-23,Millwall,Huddersfield,0,1,3,6,2,3,0,0,1,9,5,0,0,0,1.53,3.75,8.0,1.52,3.99,8.11
+2023-03-19,Championship,2022-23,Swansea,Bristol City,2,0,3,7,2,2,0,0,2,10,4,0,0,0,2.15,3.3,3.4,2.11,3.48,3.74
+2023-03-31,Championship,2022-23,Burnley,Sunderland,0,0,5,4,2,0,0,0,0,9,2,0,0,0,1.45,4.33,7.5,1.45,4.61,8.07
+2023-04-01,Championship,2022-23,Wigan,QPR,1,0,2,5,2,2,0,0,1,7,4,0,0,0,2.4,3.3,3.0,2.49,3.16,3.23
+2023-04-01,Championship,2022-23,West Brom,Millwall,0,0,6,7,2,3,0,0,0,13,5,0,0,0,1.85,3.5,4.5,1.91,3.49,4.57
+2023-04-01,Championship,2022-23,Norwich,Sheffield United,0,1,4,5,3,3,0,0,1,9,6,0,0,0,2.55,3.3,2.8,2.64,3.45,2.79
+2023-04-01,Championship,2022-23,Hull,Rotherham,0,0,8,8,0,2,0,1,0,16,2,1,0,0,1.91,3.5,4.2,1.94,3.56,4.23
+2023-04-01,Championship,2022-23,Huddersfield,Middlesbrough,4,2,5,9,2,2,0,0,6,14,4,0,1,1,5.0,3.75,1.7,5.63,3.72,1.71
+2023-04-01,Championship,2022-23,Coventry,Stoke,0,4,6,6,2,0,0,0,4,12,2,0,0,1,2.38,3.3,3.1,2.44,3.38,3.1
+2023-04-01,Championship,2022-23,Cardiff,Swansea,2,3,1,3,2,5,0,0,5,4,7,0,1,1,2.45,3.2,3.0,2.56,3.19,3.09
+2023-04-01,Championship,2022-23,Bristol City,Reading,1,1,10,4,3,2,0,0,2,14,5,0,1,0,1.75,3.5,5.0,1.83,3.47,5.13
+2023-04-01,Championship,2022-23,Birmingham,Blackburn,1,0,4,7,3,3,0,0,1,11,6,0,0,0,2.6,3.2,2.88,2.72,3.08,2.99
+2023-04-01,Championship,2022-23,Preston,Blackpool,3,1,6,8,3,3,0,0,4,14,6,0,1,1,2.1,3.2,3.8,2.11,3.41,3.82
+2023-04-01,Championship,2022-23,Luton,Watford,2,0,9,3,2,3,0,0,2,12,5,0,0,0,2.15,3.25,3.6,2.17,3.24,3.85
+2023-04-07,Championship,2022-23,Middlesbrough,Burnley,1,2,1,2,1,1,0,0,3,3,2,0,1,1,2.7,3.4,2.55,2.79,3.45,2.63
+2023-04-07,Championship,2022-23,Sunderland,Hull,4,4,1,0,0,2,0,0,8,1,2,0,1,1,2.0,3.3,4.0,2.04,3.42,4.08
+2023-04-07,Championship,2022-23,Watford,Huddersfield,2,3,13,3,3,2,1,0,5,16,5,1,1,1,1.67,3.6,5.5,1.7,3.73,5.69
+2023-04-07,Championship,2022-23,Swansea,Coventry,0,0,5,5,2,3,0,0,0,10,5,0,0,0,2.3,3.25,3.25,2.38,3.42,3.18
+2023-04-07,Championship,2022-23,Stoke,Bristol City,1,2,7,4,1,0,0,0,3,11,1,0,1,1,1.8,3.6,4.5,1.85,3.62,4.71
+2023-04-07,Championship,2022-23,Sheffield United,Wigan,1,0,9,6,2,1,0,0,1,15,3,0,0,0,1.45,4.2,7.0,1.49,4.42,7.39
+2023-04-07,Championship,2022-23,Millwall,Luton,0,0,4,4,1,2,0,0,0,8,3,0,0,0,2.6,3.0,3.0,2.69,3.07,3.03
+2023-04-07,Championship,2022-23,QPR,Preston,0,2,6,6,0,1,0,0,2,12,1,0,0,0,2.45,3.2,3.0,2.53,3.19,3.14
+2023-04-07,Championship,2022-23,Blackpool,Cardiff,1,3,4,3,2,1,0,0,4,7,3,0,1,1,2.8,3.2,2.6,2.93,3.19,2.68
+2023-04-07,Championship,2022-23,Blackburn,Norwich,0,2,8,5,1,2,0,0,2,13,3,0,0,0,2.88,3.2,2.6,2.93,3.29,2.62
+2023-04-07,Championship,2022-23,Rotherham,West Brom,3,1,8,3,2,4,0,0,4,11,6,0,1,1,5.0,3.5,1.75,5.2,3.55,1.8
+2023-04-07,Championship,2022-23,Reading,Birmingham,1,1,5,0,1,1,0,0,2,5,2,0,1,0,2.9,3.0,2.63,3.02,3.06,2.71
+2023-04-10,Championship,2022-23,Burnley,Sheffield United,2,0,8,2,1,3,0,1,2,10,4,1,0,0,2.1,3.5,3.5,2.24,3.47,3.42
+2023-04-10,Championship,2022-23,Bristol City,Middlesbrough,2,2,4,7,2,1,0,0,4,11,3,0,1,1,3.6,3.5,2.05,3.71,3.6,2.08
+2023-04-10,Championship,2022-23,Wigan,Swansea,0,2,6,1,3,1,0,0,2,7,4,0,0,0,3.0,3.25,2.4,3.16,3.38,2.41
+2023-04-10,Championship,2022-23,West Brom,QPR,2,2,8,4,0,1,0,0,4,12,1,0,1,1,1.6,3.75,6.5,1.62,4.11,5.83
+2023-04-10,Championship,2022-23,Preston,Reading,2,1,9,2,1,2,0,0,3,11,3,0,1,1,1.95,3.25,4.0,2.0,3.29,4.45
+2023-04-10,Championship,2022-23,Norwich,Rotherham,0,0,10,3,0,1,0,0,0,13,1,0,0,0,1.55,4.0,6.5,1.57,4.38,6.0
+2023-04-10,Championship,2022-23,Hull,Millwall,1,0,7,5,1,2,0,0,1,12,3,0,0,0,3.0,3.25,2.45,3.29,3.11,2.48
+2023-04-10,Championship,2022-23,Coventry,Watford,2,2,6,4,3,5,0,0,4,10,8,0,1,1,2.4,3.25,3.0,2.4,3.18,3.37
+2023-04-10,Championship,2022-23,Huddersfield,Blackburn,2,2,5,10,0,3,0,0,4,15,3,0,1,1,2.8,3.25,2.55,2.89,3.28,2.66
+2023-04-10,Championship,2022-23,Luton,Blackpool,3,1,7,5,1,2,0,0,4,12,3,0,1,1,1.53,4.0,7.0,1.53,4.19,7.14
+2023-04-10,Championship,2022-23,Cardiff,Sunderland,0,1,7,5,4,1,0,0,1,12,5,0,0,0,2.45,3.25,2.9,2.52,3.2,3.14
+2023-04-10,Championship,2022-23,Birmingham,Stoke,0,0,6,10,2,2,0,0,0,16,4,0,0,0,3.2,3.25,2.3,3.41,3.29,2.32
+2023-04-14,Championship,2022-23,Middlesbrough,Norwich,5,1,3,5,0,1,0,0,6,8,1,0,1,1,1.91,3.75,3.8,1.96,3.81,3.9
+2023-04-15,Championship,2022-23,Watford,Bristol City,2,0,6,7,1,3,0,0,2,13,4,0,0,0,1.95,3.5,4.0,2.0,3.64,3.94
+2023-04-15,Championship,2022-23,Swansea,Huddersfield,1,0,5,4,4,2,0,0,1,9,6,0,0,0,1.7,3.8,5.0,1.72,3.95,5.08
+2023-04-15,Championship,2022-23,Sunderland,Birmingham,2,1,9,2,0,2,1,0,3,11,2,1,1,1,1.91,3.5,4.33,1.91,3.62,4.36
+2023-04-15,Championship,2022-23,Stoke,West Brom,1,2,5,5,4,2,1,0,3,10,6,1,1,1,2.3,3.2,3.3,2.37,3.33,3.27
+2023-04-15,Championship,2022-23,Rotherham,Luton,0,2,2,6,2,5,0,0,2,8,7,0,0,0,4.33,3.3,1.95,4.32,3.43,1.98
+2023-04-15,Championship,2022-23,Blackburn,Hull,0,0,9,3,1,2,0,0,0,12,3,0,0,0,1.85,3.5,4.33,1.87,3.67,4.49
+2023-04-15,Championship,2022-23,QPR,Coventry,0,3,5,2,1,3,0,0,3,7,4,0,0,1,2.9,3.1,2.6,2.96,3.4,2.53
+2023-04-15,Championship,2022-23,Millwall,Preston,2,0,2,4,1,2,0,0,2,6,3,0,0,0,1.85,3.3,4.5,1.95,3.33,4.63
+2023-04-15,Championship,2022-23,Blackpool,Wigan,1,0,3,7,1,2,0,0,1,10,3,0,0,0,2.3,3.2,3.3,2.36,3.36,3.27
+2023-04-15,Championship,2022-23,Sheffield United,Cardiff,4,1,5,5,3,2,0,0,5,10,5,0,1,1,1.55,4.0,6.25,1.58,4.04,6.68
+2023-04-15,Championship,2022-23,Reading,Burnley,0,0,3,7,3,1,0,0,0,10,4,0,0,0,7.0,4.0,1.53,7.29,3.86,1.57
+2023-04-18,Championship,2022-23,Sunderland,Huddersfield,1,1,5,11,3,2,0,0,2,16,5,0,1,0,1.67,3.75,5.5,1.7,3.81,5.55
+2023-04-18,Championship,2022-23,Stoke,Wigan,0,1,7,4,2,2,0,0,1,11,4,0,0,0,1.55,3.8,6.5,1.57,4.17,6.45
+2023-04-18,Championship,2022-23,Millwall,Birmingham,0,1,11,4,0,2,0,0,1,15,2,0,0,0,1.7,3.6,5.25,1.75,3.63,5.5
+2023-04-18,Championship,2022-23,Rotherham,Burnley,2,2,4,7,1,2,0,0,4,11,3,0,1,1,5.5,3.8,1.65,6.17,3.75,1.66
+2023-04-18,Championship,2022-23,Sheffield United,Bristol City,1,0,2,2,1,2,0,0,1,4,3,0,0,0,1.5,4.2,6.5,1.52,4.34,6.95
+2023-04-18,Championship,2022-23,Blackpool,West Brom,0,2,5,5,1,3,0,0,2,10,4,0,0,0,3.8,3.6,1.91,4.01,3.69,1.97
+2023-04-19,Championship,2022-23,Blackburn,Coventry,1,1,5,6,3,1,0,0,2,11,4,0,1,0,2.45,3.3,2.88,2.54,3.25,3.06
+2023-04-19,Championship,2022-23,QPR,Norwich,1,1,7,11,5,2,0,0,2,18,7,0,1,0,3.4,3.4,2.15,3.46,3.52,2.19
+2023-04-19,Championship,2022-23,Swansea,Preston,4,2,2,4,3,3,1,0,6,6,6,1,1,1,2.1,3.4,3.5,2.18,3.45,3.57
+2023-04-19,Championship,2022-23,Watford,Cardiff,1,3,10,1,3,3,0,0,4,11,6,0,1,1,1.95,3.4,4.2,1.95,3.5,4.32
+2023-04-19,Championship,2022-23,Middlesbrough,Hull,3,1,4,3,1,1,0,0,4,7,2,0,1,1,1.45,4.5,6.5,1.47,4.73,7.13
+2023-04-19,Championship,2022-23,Reading,Luton,1,1,2,5,3,2,1,0,2,7,5,1,1,0,4.75,3.4,1.8,4.78,3.47,1.88
+2023-04-22,Championship,2022-23,Preston,Blackburn,1,1,4,3,1,2,0,0,2,7,3,0,1,0,2.6,3.1,2.9,2.66,3.09,3.05
+2023-04-22,Championship,2022-23,Hull,Watford,1,0,2,5,3,2,0,0,1,7,5,0,0,0,2.5,3.25,2.88,2.63,3.4,2.83
+2023-04-22,Championship,2022-23,Wigan,Millwall,2,1,5,3,1,2,0,0,3,8,3,0,1,1,3.8,3.4,2.0,4.03,3.37,2.07
+2023-04-22,Championship,2022-23,Norwich,Swansea,0,3,2,6,1,1,1,0,3,8,2,1,0,1,2.0,3.4,3.75,2.08,3.68,3.63
+2023-04-22,Championship,2022-23,Coventry,Reading,2,1,2,4,4,4,0,0,3,6,8,0,1,1,1.53,4.0,7.0,1.56,4.06,6.98
+2023-04-22,Championship,2022-23,Burnley,QPR,1,2,11,4,2,2,0,0,3,15,4,0,1,1,1.36,4.75,9.5,1.37,5.24,9.02
+2023-04-22,Championship,2022-23,Bristol City,Rotherham,2,1,7,7,2,3,0,0,3,14,5,0,1,1,2.0,3.5,3.75,2.07,3.62,3.7
+2023-04-22,Championship,2022-23,Birmingham,Blackpool,0,1,6,7,2,1,0,0,1,13,3,0,0,0,2.15,3.25,3.6,2.24,3.36,3.53
+2023-04-22,Championship,2022-23,Cardiff,Stoke,1,1,6,4,3,0,0,0,2,10,3,0,1,0,2.4,3.25,3.0,2.51,3.44,2.96
+2023-04-23,Championship,2022-23,West Brom,Sunderland,1,2,4,5,3,3,0,0,3,9,6,0,1,1,1.91,3.5,4.2,1.96,3.61,4.12
+2023-04-24,Championship,2022-23,Luton,Middlesbrough,2,1,4,5,2,0,0,0,3,9,2,0,1,1,2.25,3.5,3.1,2.42,3.36,3.11
+2023-04-25,Championship,2022-23,Blackburn,Burnley,0,1,10,4,3,5,0,0,1,14,8,0,0,0,3.4,3.4,2.15,3.59,3.37,2.21
+2023-04-26,Championship,2022-23,Sheffield United,West Brom,2,0,5,0,1,1,0,0,2,5,2,0,0,0,2.05,3.3,3.8,2.05,3.47,3.95
+2023-04-27,Championship,2022-23,Rotherham,Cardiff,1,2,6,4,1,0,0,0,3,10,1,0,1,1,2.8,3.0,2.7,3.04,2.82,2.91
+2023-04-28,Championship,2022-23,Blackpool,Millwall,2,3,7,3,2,4,0,0,5,10,6,0,1,1,3.3,3.4,2.2,3.42,3.44,2.25
+2023-04-29,Championship,2022-23,West Brom,Norwich,2,1,6,1,0,2,0,0,3,7,2,0,1,1,2.1,3.5,3.5,2.13,3.64,3.51
+2023-04-29,Championship,2022-23,Stoke,QPR,0,1,7,0,1,3,0,0,1,7,4,0,0,0,1.91,3.6,4.0,2.03,3.51,3.99
+2023-04-29,Championship,2022-23,Sheffield United,Preston,4,1,10,5,2,1,0,0,5,15,3,0,1,1,1.8,3.8,4.2,1.88,3.97,4.08
+2023-04-29,Championship,2022-23,Sunderland,Watford,2,2,10,2,3,3,0,0,4,12,6,0,1,1,1.8,3.6,4.5,1.84,3.68,4.64
+2023-04-29,Championship,2022-23,Hull,Swansea,1,1,3,5,0,2,0,0,2,8,2,0,1,0,3.8,3.6,1.95,3.75,3.71,2.03
+2023-04-29,Championship,2022-23,Coventry,Birmingham,2,0,5,5,0,2,0,0,2,10,2,0,0,0,1.5,4.33,6.5,1.52,4.29,7.04
+2023-04-29,Championship,2022-23,Bristol City,Burnley,1,2,3,3,1,0,0,0,3,6,1,0,1,1,3.75,3.5,2.0,3.61,3.6,2.11
+2023-04-29,Championship,2022-23,Reading,Wigan,1,1,13,3,2,1,0,0,2,16,3,0,1,0,2.6,3.25,2.8,2.64,3.26,2.93
+2023-04-30,Championship,2022-23,Cardiff,Huddersfield,1,2,5,9,1,0,0,0,3,14,1,0,1,1,2.3,3.2,3.3,2.46,3.3,3.15
+2023-05-01,Championship,2022-23,Rotherham,Middlesbrough,1,0,1,11,3,1,0,1,1,12,4,1,0,0,3.75,3.3,2.05,3.73,3.54,2.09
+2023-05-01,Championship,2022-23,Blackburn,Luton,1,1,9,4,2,0,0,0,2,13,2,0,1,0,2.3,3.4,3.1,2.27,3.66,3.13
+2023-05-04,Championship,2022-23,Huddersfield,Sheffield United,1,0,9,3,1,2,0,0,1,12,3,0,0,0,3.2,3.0,2.45,3.12,3.07,2.62
+2023-05-08,Championship,2022-23,Swansea,West Brom,3,2,6,3,1,2,0,0,5,9,3,0,1,1,3.2,3.4,2.2,3.19,3.81,2.18
+2023-05-08,Championship,2022-23,QPR,Bristol City,0,2,7,3,0,1,0,0,2,10,1,0,0,0,2.25,3.5,3.0,2.44,3.63,2.87
+2023-05-08,Championship,2022-23,Preston,Sunderland,0,3,2,7,2,0,0,0,3,9,2,0,0,1,4.0,3.5,1.91,3.93,3.88,1.91
+2023-05-08,Championship,2022-23,Norwich,Blackpool,0,1,10,4,1,0,0,0,1,14,1,0,0,0,1.53,4.0,6.5,1.53,4.63,5.99
+2023-05-08,Championship,2022-23,Millwall,Blackburn,3,4,3,6,1,0,0,0,7,9,1,0,1,1,1.91,3.75,3.8,1.92,3.81,3.98
+2023-05-08,Championship,2022-23,Burnley,Cardiff,3,0,5,3,1,2,0,0,3,8,3,0,0,1,1.33,4.75,10.0,1.31,5.5,10.56
+2023-05-08,Championship,2022-23,Luton,Hull,0,0,7,6,1,0,0,0,0,13,1,0,0,0,1.62,3.8,5.5,1.65,4.1,5.39
+2023-05-08,Championship,2022-23,Huddersfield,Reading,2,0,4,6,0,1,0,0,2,10,1,0,0,0,2.1,3.4,3.5,2.04,3.65,3.69
+2023-05-08,Championship,2022-23,Birmingham,Sheffield United,1,2,4,4,1,0,0,0,3,8,1,0,1,1,4.0,3.5,1.91,3.87,3.62,2.0
+2023-05-08,Championship,2022-23,Watford,Stoke,2,0,6,6,0,2,0,0,2,12,2,0,0,0,2.38,3.2,3.0,2.38,3.56,3.02
+2023-05-08,Championship,2022-23,Middlesbrough,Coventry,1,1,7,6,1,3,0,0,2,13,4,0,1,0,2.55,3.6,2.63,2.59,3.62,2.7
+2023-05-08,Championship,2022-23,Wigan,Rotherham,0,0,3,2,0,2,0,0,0,5,2,0,0,0,2.05,3.8,3.25,2.09,3.71,3.5

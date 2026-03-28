@@ -1,241 +1,241 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2016-09-10,Super League Greece,2016-17,Kerkyra,Platanias,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-09-10,Super League Greece,2016-17,Levadeiakos,Panathinaikos,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2016-09-10,Super League Greece,2016-17,Panionios,Asteras Tripolis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-09-11,Super League Greece,2016-17,AEK,Xanthi,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2016-09-11,Super League Greece,2016-17,Giannina,Atromitos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-09-11,Super League Greece,2016-17,Olympiakos,Veria,6,1,0,0,0,0,0,0,7,0,0,0,1,1
-2016-09-11,Super League Greece,2016-17,PAOK,Panetolikos,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-09-12,Super League Greece,2016-17,Larisa,Iraklis,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-09-17,Super League Greece,2016-17,Platanias,Levadeiakos,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2016-09-17,Super League Greece,2016-17,Veria,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-09-17,Super League Greece,2016-17,Xanthi,Panionios,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-09-18,Super League Greece,2016-17,Panathinaikos,Giannina,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-09-18,Super League Greece,2016-17,Kerkyra,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-09-18,Super League Greece,2016-17,Atromitos,Panetolikos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-09-18,Super League Greece,2016-17,Iraklis,Olympiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-09-19,Super League Greece,2016-17,Asteras Tripolis,PAOK,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-09-24,Super League Greece,2016-17,Giannina,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-09-24,Super League Greece,2016-17,Panetolikos,Panathinaikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-09-24,Super League Greece,2016-17,Panionios,Veria,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-09-25,Super League Greece,2016-17,Atromitos,Asteras Tripolis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-09-25,Super League Greece,2016-17,Larisa,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-09-25,Super League Greece,2016-17,Levadeiakos,Kerkyra,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-09-25,Super League Greece,2016-17,PAOK,Xanthi,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-09-26,Super League Greece,2016-17,AEK,Iraklis,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-01,Super League Greece,2016-17,Levadeiakos,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-10-01,Super League Greece,2016-17,Iraklis,Panionios,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-10-01,Super League Greece,2016-17,Kerkyra,Giannina,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-02,Super League Greece,2016-17,Veria,PAOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-02,Super League Greece,2016-17,Platanias,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-02,Super League Greece,2016-17,Olympiakos,AEK,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-10-02,Super League Greece,2016-17,Panathinaikos,Asteras Tripolis,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-10-03,Super League Greece,2016-17,Xanthi,Atromitos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-15,Super League Greece,2016-17,Asteras Tripolis,Platanias,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-10-15,Super League Greece,2016-17,Panetolikos,Kerkyra,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-10-15,Super League Greece,2016-17,Panionios,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-10-16,Super League Greece,2016-17,Atromitos,Veria,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-16,Super League Greece,2016-17,Panathinaikos,Xanthi,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-10-16,Super League Greece,2016-17,PAOK,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-17,Super League Greece,2016-17,Larisa,AEK,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-10-22,Super League Greece,2016-17,AEK,Panionios,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-22,Super League Greece,2016-17,Kerkyra,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-10-22,Super League Greece,2016-17,Platanias,Xanthi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-23,Super League Greece,2016-17,Levadeiakos,Panetolikos,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-10-23,Super League Greece,2016-17,Olympiakos,PAOK,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-10-23,Super League Greece,2016-17,Iraklis,Atromitos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-10-23,Super League Greece,2016-17,Giannina,Larisa,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-10-24,Super League Greece,2016-17,Veria,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-10-29,Super League Greece,2016-17,Atromitos,Olympiakos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-29,Super League Greece,2016-17,Larisa,Panionios,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-10-29,Super League Greece,2016-17,Xanthi,Kerkyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-30,Super League Greece,2016-17,Asteras Tripolis,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-30,Super League Greece,2016-17,Panathinaikos,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-10-30,Super League Greece,2016-17,PAOK,AEK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-10-30,Super League Greece,2016-17,Veria,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-10-31,Super League Greece,2016-17,Panetolikos,Giannina,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-11-05,Super League Greece,2016-17,AEK,Atromitos,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2016-11-05,Super League Greece,2016-17,Giannina,Asteras Tripolis,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-11-05,Super League Greece,2016-17,Levadeiakos,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-11-06,Super League Greece,2016-17,Panionios,PAOK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-11-06,Super League Greece,2016-17,Panetolikos,Larisa,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-11-06,Super League Greece,2016-17,Olympiakos,Panathinaikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-11-06,Super League Greece,2016-17,Kerkyra,Veria,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-11-07,Super League Greece,2016-17,Iraklis,Platanias,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-11-23,Super League Greece,2016-17,Giannina,Levadeiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-11-26,Super League Greece,2016-17,AEK,Platanias,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-11-26,Super League Greece,2016-17,Asteras Tripolis,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-11-26,Super League Greece,2016-17,Giannina,Veria,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-11-27,Super League Greece,2016-17,Levadeiakos,Iraklis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-11-27,Super League Greece,2016-17,Olympiakos,Kerkyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-11-27,Super League Greece,2016-17,Panetolikos,Xanthi,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2016-11-27,Super League Greece,2016-17,Panionios,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-11-28,Super League Greece,2016-17,PAOK,Atromitos,3,4,0,0,0,0,0,0,7,0,0,0,1,1
-2016-12-03,Super League Greece,2016-17,Platanias,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-12-03,Super League Greece,2016-17,Veria,Panetolikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-12-03,Super League Greece,2016-17,Kerkyra,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-12-04,Super League Greece,2016-17,Larisa,Atromitos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2016-12-04,Super League Greece,2016-17,Olympiakos,Levadeiakos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-12-04,Super League Greece,2016-17,Panathinaikos,PAOK,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-12-04,Super League Greece,2016-17,Xanthi,Asteras Tripolis,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-12-05,Super League Greece,2016-17,Iraklis,Giannina,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2016-12-10,Super League Greece,2016-17,AEK,Levadeiakos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2016-12-10,Super League Greece,2016-17,Asteras Tripolis,Veria,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-12-10,Super League Greece,2016-17,Xanthi,Larisa,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-12-11,Super League Greece,2016-17,Atromitos,Panathinaikos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2016-12-11,Super League Greece,2016-17,Panetolikos,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2016-12-11,Super League Greece,2016-17,Panionios,Kerkyra,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2016-12-11,Super League Greece,2016-17,PAOK,Platanias,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-12-12,Super League Greece,2016-17,Giannina,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2016-12-17,Super League Greece,2016-17,Platanias,Atromitos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2016-12-17,Super League Greece,2016-17,Veria,Xanthi,0,4,0,0,0,0,0,0,4,0,0,0,0,1
-2016-12-17,Super League Greece,2016-17,Kerkyra,PAOK,0,5,0,0,0,0,0,0,5,0,0,0,0,1
-2016-12-18,Super League Greece,2016-17,Iraklis,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2016-12-18,Super League Greece,2016-17,Larisa,Panathinaikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2016-12-18,Super League Greece,2016-17,Levadeiakos,Panionios,1,4,0,0,0,0,0,0,5,0,0,0,1,1
-2016-12-18,Super League Greece,2016-17,Olympiakos,Panetolikos,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2016-12-19,Super League Greece,2016-17,AEK,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-03,Super League Greece,2016-17,Iraklis,Xanthi,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-03,Super League Greece,2016-17,Levadeiakos,PAOK,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-04,Super League Greece,2016-17,AEK,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-04,Super League Greece,2016-17,Kerkyra,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-04,Super League Greece,2016-17,Larisa,Veria,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-01-04,Super League Greece,2016-17,Olympiakos,Asteras Tripolis,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-01-05,Super League Greece,2016-17,Platanias,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-05,Super League Greece,2016-17,Panionios,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-07,Super League Greece,2016-17,Atromitos,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-07,Super League Greece,2016-17,Asteras Tripolis,AEK,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2017-01-08,Super League Greece,2016-17,Panetolikos,Panionios,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-08,Super League Greece,2016-17,PAOK,Giannina,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-08,Super League Greece,2016-17,Platanias,Larisa,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2017-01-08,Super League Greece,2016-17,Xanthi,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-09,Super League Greece,2016-17,Panathinaikos,Kerkyra,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-14,Super League Greece,2016-17,Platanias,Olympiakos,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2017-01-14,Super League Greece,2016-17,Veria,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-15,Super League Greece,2016-17,Asteras Tripolis,Panetolikos,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2017-01-15,Super League Greece,2016-17,Atromitos,Panionios,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2017-01-15,Super League Greece,2016-17,Panathinaikos,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-15,Super League Greece,2016-17,Xanthi,Giannina,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-18,Super League Greece,2016-17,Veria,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-18,Super League Greece,2016-17,Xanthi,Iraklis,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2017-01-18,Super League Greece,2016-17,Panetolikos,AEK,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2017-01-18,Super League Greece,2016-17,Giannina,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-18,Super League Greece,2016-17,Atromitos,Kerkyra,1,4,0,0,0,0,0,0,5,0,0,0,1,1
-2017-01-18,Super League Greece,2016-17,Asteras Tripolis,Olympiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-19,Super League Greece,2016-17,Panathinaikos,Platanias,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-01-19,Super League Greece,2016-17,PAOK,Levadeiakos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-01-21,Super League Greece,2016-17,Iraklis,Veria,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-21,Super League Greece,2016-17,Olympiakos,Xanthi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-21,Super League Greece,2016-17,Panionios,Panetolikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-22,Super League Greece,2016-17,AEK,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-22,Super League Greece,2016-17,Kerkyra,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-22,Super League Greece,2016-17,Larisa,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-22,Super League Greece,2016-17,Levadeiakos,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-23,Super League Greece,2016-17,Giannina,PAOK,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-25,Super League Greece,2016-17,Veria,Iraklis,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-01-28,Super League Greece,2016-17,Xanthi,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-28,Super League Greece,2016-17,Asteras Tripolis,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-28,Super League Greece,2016-17,Iraklis,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-29,Super League Greece,2016-17,Atromitos,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-01-29,Super League Greece,2016-17,Panathinaikos,Levadeiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-01-29,Super League Greece,2016-17,Panetolikos,PAOK,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-01-29,Super League Greece,2016-17,Platanias,Kerkyra,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-01-29,Super League Greece,2016-17,Veria,Olympiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2017-02-01,Super League Greece,2016-17,Iraklis,Kerkyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-02-01,Super League Greece,2016-17,Larisa,PAOK,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-02-04,Super League Greece,2016-17,Panetolikos,Atromitos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-02-04,Super League Greece,2016-17,Giannina,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-02-04,Super League Greece,2016-17,Larisa,Kerkyra,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-02-05,Super League Greece,2016-17,Panionios,Xanthi,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-02-05,Super League Greece,2016-17,PAOK,Asteras Tripolis,3,2,0,0,0,0,0,0,5,0,0,0,1,1
-2017-02-05,Super League Greece,2016-17,AEK,Veria,6,0,0,0,0,0,0,0,6,0,0,0,0,1
-2017-02-05,Super League Greece,2016-17,Olympiakos,Iraklis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-02-06,Super League Greece,2016-17,Levadeiakos,Platanias,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2017-02-11,Super League Greece,2016-17,Asteras Tripolis,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-11,Super League Greece,2016-17,Olympiakos,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-02-11,Super League Greece,2016-17,Veria,Panionios,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-12,Super League Greece,2016-17,Kerkyra,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-12,Super League Greece,2016-17,Panathinaikos,Panetolikos,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2017-02-12,Super League Greece,2016-17,Platanias,Giannina,3,3,0,0,0,0,0,0,6,0,0,0,1,1
-2017-02-12,Super League Greece,2016-17,Xanthi,PAOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-02-13,Super League Greece,2016-17,Iraklis,AEK,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2017-02-18,Super League Greece,2016-17,Asteras Tripolis,Panathinaikos,0,5,0,0,0,0,0,0,5,0,0,0,0,1
-2017-02-18,Super League Greece,2016-17,Atromitos,Xanthi,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-02-18,Super League Greece,2016-17,Giannina,Kerkyra,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-19,Super League Greece,2016-17,PAOK,Veria,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2017-02-19,Super League Greece,2016-17,Panionios,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-19,Super League Greece,2016-17,Panetolikos,Platanias,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2017-02-19,Super League Greece,2016-17,AEK,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-20,Super League Greece,2016-17,Larisa,Levadeiakos,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-02-25,Super League Greece,2016-17,Kerkyra,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-02-25,Super League Greece,2016-17,Platanias,Asteras Tripolis,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-02-25,Super League Greece,2016-17,Xanthi,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-26,Super League Greece,2016-17,AEK,Larisa,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-02-26,Super League Greece,2016-17,Iraklis,PAOK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-02-26,Super League Greece,2016-17,Levadeiakos,Giannina,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-02-26,Super League Greece,2016-17,Olympiakos,Panionios,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-02-27,Super League Greece,2016-17,Veria,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-04,Super League Greece,2016-17,Larisa,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-03-04,Super League Greece,2016-17,Panathinaikos,Veria,5,0,0,0,0,0,0,0,5,0,0,0,0,1
-2017-03-04,Super League Greece,2016-17,Panetolikos,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-03-05,Super League Greece,2016-17,Xanthi,Platanias,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-05,Super League Greece,2016-17,PAOK,Olympiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-03-05,Super League Greece,2016-17,Atromitos,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-05,Super League Greece,2016-17,Asteras Tripolis,Kerkyra,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2017-03-06,Super League Greece,2016-17,Panionios,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-03-11,Super League Greece,2016-17,Giannina,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-03-11,Super League Greece,2016-17,Iraklis,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-03-11,Super League Greece,2016-17,Panionios,Larisa,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-12,Super League Greece,2016-17,AEK,PAOK,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-03-12,Super League Greece,2016-17,Kerkyra,Xanthi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-12,Super League Greece,2016-17,Olympiakos,Atromitos,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-03-12,Super League Greece,2016-17,Platanias,Veria,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-13,Super League Greece,2016-17,Levadeiakos,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-03-18,Super League Greece,2016-17,Atromitos,AEK,0,1,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-18,Super League Greece,2016-17,Larisa,Panetolikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-18,Super League Greece,2016-17,Veria,Kerkyra,4,0,0,0,0,0,0,0,4,0,0,0,0,1
-2017-03-19,Super League Greece,2016-17,Xanthi,Levadeiakos,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2017-03-19,Super League Greece,2016-17,PAOK,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-19,Super League Greece,2016-17,Panathinaikos,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-03-19,Super League Greece,2016-17,Asteras Tripolis,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-03-20,Super League Greece,2016-17,Platanias,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-01,Super League Greece,2016-17,Giannina,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-04-01,Super League Greece,2016-17,Levadeiakos,Veria,3,1,0,0,0,0,0,0,4,0,0,0,1,1
-2017-04-01,Super League Greece,2016-17,Olympiakos,Platanias,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-04-02,Super League Greece,2016-17,AEK,Panathinaikos,2,3,0,0,0,0,0,0,5,0,0,0,1,1
-2017-04-02,Super League Greece,2016-17,Kerkyra,Iraklis,0,3,0,0,0,0,0,0,3,0,0,0,0,1
-2017-04-02,Super League Greece,2016-17,Panetolikos,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-04-02,Super League Greece,2016-17,Panionios,Atromitos,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-04-02,Super League Greece,2016-17,PAOK,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-05,Super League Greece,2016-17,Xanthi,Panetolikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-04-05,Super League Greece,2016-17,Veria,Giannina,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-04-05,Super League Greece,2016-17,Larisa,Asteras Tripolis,1,4,0,0,0,0,0,0,5,0,0,0,1,1
-2017-04-05,Super League Greece,2016-17,Kerkyra,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-05,Super League Greece,2016-17,Iraklis,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-05,Super League Greece,2016-17,Atromitos,PAOK,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-06,Super League Greece,2016-17,Panathinaikos,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-06,Super League Greece,2016-17,Platanias,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-09,Super League Greece,2016-17,AEK,Kerkyra,5,0,0,0,0,0,0,0,5,0,0,0,0,1
-2017-04-09,Super League Greece,2016-17,Asteras Tripolis,Xanthi,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-04-09,Super League Greece,2016-17,Atromitos,Larisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-2017-04-09,Super League Greece,2016-17,Giannina,Iraklis,1,2,0,0,0,0,0,0,3,0,0,0,1,1
-2017-04-09,Super League Greece,2016-17,Levadeiakos,Olympiakos,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-04-09,Super League Greece,2016-17,Panetolikos,Veria,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-09,Super League Greece,2016-17,Panionios,Platanias,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-04-09,Super League Greece,2016-17,PAOK,Panathinaikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1
-2017-04-23,Super League Greece,2016-17,Veria,Asteras Tripolis,4,3,0,0,0,0,0,0,7,0,0,0,1,1
-2017-04-23,Super League Greece,2016-17,Platanias,PAOK,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2017-04-23,Super League Greece,2016-17,Panathinaikos,Atromitos,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-23,Super League Greece,2016-17,Olympiakos,Giannina,5,0,0,0,0,0,0,0,5,0,0,0,0,1
-2017-04-23,Super League Greece,2016-17,Kerkyra,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-23,Super League Greece,2016-17,Larisa,Xanthi,1,0,0,0,0,0,0,0,1,0,0,0,0,0
-2017-04-23,Super League Greece,2016-17,Iraklis,Panetolikos,2,1,0,0,0,0,0,0,3,0,0,0,1,1
-2017-04-23,Super League Greece,2016-17,Levadeiakos,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-30,Super League Greece,2016-17,PAOK,Kerkyra,5,1,0,0,0,0,0,0,6,0,0,0,1,1
-2017-04-30,Super League Greece,2016-17,Asteras Tripolis,Iraklis,2,2,0,0,0,0,0,0,4,0,0,0,1,1
-2017-04-30,Super League Greece,2016-17,Atromitos,Platanias,4,1,0,0,0,0,0,0,5,0,0,0,1,1
-2017-04-30,Super League Greece,2016-17,Giannina,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0
-2017-04-30,Super League Greece,2016-17,Panathinaikos,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-30,Super League Greece,2016-17,Panetolikos,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0
-2017-04-30,Super League Greece,2016-17,Panionios,Levadeiakos,1,3,0,0,0,0,0,0,4,0,0,0,1,1
-2017-04-30,Super League Greece,2016-17,Xanthi,Veria,3,0,0,0,0,0,0,0,3,0,0,0,0,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2016-09-10,Super League Greece,2016-17,Kerkyra,Platanias,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.4,3.0,3.2,2.54,3.1,3.25
+2016-09-10,Super League Greece,2016-17,Levadeiakos,Panathinaikos,0,3,0,0,0,0,0,0,3,0,0,0,0,1,6.5,3.4,1.62,6.43,3.84,1.63
+2016-09-10,Super League Greece,2016-17,Panionios,Asteras Tripolis,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.5,3.0,3.0,2.76,3.13,2.93
+2016-09-11,Super League Greece,2016-17,AEK,Xanthi,4,1,0,0,0,0,0,0,5,0,0,0,1,1,1.36,4.33,9.5,1.43,4.31,10.94
+2016-09-11,Super League Greece,2016-17,Giannina,Atromitos,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.4,3.0,3.2,2.44,3.11,3.4
+2016-09-11,Super League Greece,2016-17,Olympiakos,Veria,6,1,0,0,0,0,0,0,7,0,0,0,1,1,1.13,8.0,19.0,,,
+2016-09-11,Super League Greece,2016-17,PAOK,Panetolikos,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.3,5.0,11.0,1.34,5.14,11.71
+2016-09-12,Super League Greece,2016-17,Larisa,Iraklis,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.75,3.25,5.25,1.81,3.41,5.6
+2016-09-17,Super League Greece,2016-17,Platanias,Levadeiakos,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.8,3.3,4.2,1.88,3.35,5.16
+2016-09-17,Super League Greece,2016-17,Veria,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0,6.5,4.0,1.44,8.01,4.06,1.53
+2016-09-17,Super League Greece,2016-17,Xanthi,Panionios,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.38,3.2,2.8,2.59,3.11,3.16
+2016-09-18,Super League Greece,2016-17,Panathinaikos,Giannina,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.18,6.0,12.0,1.26,6.15,14.8
+2016-09-18,Super League Greece,2016-17,Kerkyra,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.15,3.1,3.25,2.42,3.17,3.37
+2016-09-18,Super League Greece,2016-17,Atromitos,Panetolikos,0,2,0,0,0,0,0,0,2,0,0,0,0,0,1.91,3.3,3.8,2.02,3.3,4.43
+2016-09-18,Super League Greece,2016-17,Iraklis,Olympiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1,13.0,5.75,1.18,15.84,6.13,1.25
+2016-09-19,Super League Greece,2016-17,Asteras Tripolis,PAOK,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.5,3.3,2.0,3.93,3.37,2.11
+2016-09-24,Super League Greece,2016-17,Giannina,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.25,3.25,3.2,2.34,3.08,3.64
+2016-09-24,Super League Greece,2016-17,Panetolikos,Panathinaikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.0,4.0,1.53,6.21,4.07,1.59
+2016-09-24,Super League Greece,2016-17,Panionios,Veria,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.5,3.75,7.5,1.52,4.19,7.9
+2016-09-25,Super League Greece,2016-17,Atromitos,Asteras Tripolis,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.38,3.2,3.0,2.55,3.06,3.26
+2016-09-25,Super League Greece,2016-17,Larisa,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,10.0,5.25,1.29,12.29,5.75,1.3
+2016-09-25,Super League Greece,2016-17,Levadeiakos,Kerkyra,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.1,3.1,3.75,2.12,3.24,4.07
+2016-09-25,Super League Greece,2016-17,PAOK,Xanthi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.4,4.75,7.0,1.4,4.84,9.54
+2016-09-26,Super League Greece,2016-17,AEK,Iraklis,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.17,7.5,13.0,1.21,7.04,17.4
+2016-10-01,Super League Greece,2016-17,Levadeiakos,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.2,3.1,3.5,,,
+2016-10-01,Super League Greece,2016-17,Iraklis,Panionios,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.8,3.2,2.55,,,
+2016-10-01,Super League Greece,2016-17,Kerkyra,Giannina,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.3,3.1,3.2,,,
+2016-10-02,Super League Greece,2016-17,Veria,PAOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9.5,5.25,1.3,,,
+2016-10-02,Super League Greece,2016-17,Platanias,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.83,3.25,4.75,,,
+2016-10-02,Super League Greece,2016-17,Olympiakos,AEK,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.75,3.4,5.0,,,
+2016-10-02,Super League Greece,2016-17,Panathinaikos,Asteras Tripolis,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.36,4.6,8.5,,,
+2016-10-03,Super League Greece,2016-17,Xanthi,Atromitos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.3,3.0,3.1,,,
+2016-10-15,Super League Greece,2016-17,Asteras Tripolis,Platanias,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.73,3.5,5.0,1.81,3.45,5.57
+2016-10-15,Super League Greece,2016-17,Panetolikos,Kerkyra,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.73,3.5,5.0,1.78,3.35,6.1
+2016-10-15,Super League Greece,2016-17,Panionios,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0,7.0,4.33,1.44,7.95,4.5,1.48
+2016-10-16,Super League Greece,2016-17,Atromitos,Veria,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.44,4.0,8.0,1.51,4.11,8.46
+2016-10-16,Super League Greece,2016-17,Panathinaikos,Xanthi,1,2,0,0,0,0,0,0,3,0,0,0,1,1,,,,1.3,5.55,13.38
+2016-10-16,Super League Greece,2016-17,PAOK,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.18,6.5,15.0,1.22,6.65,17.7
+2016-10-17,Super League Greece,2016-17,Larisa,AEK,1,2,0,0,0,0,0,0,3,0,0,0,1,1,4.6,3.4,1.8,4.85,3.36,1.92
+2016-10-22,Super League Greece,2016-17,AEK,Panionios,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.57,3.6,6.5,1.6,3.89,6.97
+2016-10-22,Super League Greece,2016-17,Kerkyra,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0,3.0,3.0,2.5,3.24,2.87,2.72
+2016-10-22,Super League Greece,2016-17,Platanias,Xanthi,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.85,3.2,4.75,1.86,3.16,5.79
+2016-10-23,Super League Greece,2016-17,Levadeiakos,Panetolikos,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.4,3.0,3.2,2.58,3.04,3.24
+2016-10-23,Super League Greece,2016-17,Olympiakos,PAOK,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.5,3.8,7.5,1.55,4.16,7.16
+2016-10-23,Super League Greece,2016-17,Iraklis,Atromitos,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.2,3.0,2.38,3.69,3.03,2.37
+2016-10-23,Super League Greece,2016-17,Giannina,Larisa,4,0,0,0,0,0,0,0,4,0,0,0,0,1,2.25,3.1,3.4,2.33,3.08,3.68
+2016-10-24,Super League Greece,2016-17,Veria,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,12.0,6.0,1.22,11.42,6.1,1.29
+2016-10-29,Super League Greece,2016-17,Atromitos,Olympiakos,0,1,0,0,0,0,0,0,1,0,0,0,0,0,7.5,4.5,1.4,8.75,4.67,1.43
+2016-10-29,Super League Greece,2016-17,Larisa,Panionios,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.45,3.1,3.0,2.67,2.98,3.16
+2016-10-29,Super League Greece,2016-17,Xanthi,Kerkyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.62,3.4,6.5,1.68,3.36,7.4
+2016-10-30,Super League Greece,2016-17,Asteras Tripolis,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.53,3.6,7.5,1.63,3.54,7.72
+2016-10-30,Super League Greece,2016-17,Panathinaikos,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.17,7.5,13.0,1.21,7.0,17.1
+2016-10-30,Super League Greece,2016-17,PAOK,AEK,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.85,3.3,4.5,1.91,3.22,5.2
+2016-10-30,Super League Greece,2016-17,Veria,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.88,3.0,2.6,3.02,2.95,2.82
+2016-10-31,Super League Greece,2016-17,Panetolikos,Giannina,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.95,3.1,4.33,2.01,3.17,4.72
+2016-11-05,Super League Greece,2016-17,AEK,Atromitos,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.44,4.0,8.0,1.5,4.11,8.84
+2016-11-05,Super League Greece,2016-17,Giannina,Asteras Tripolis,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.45,2.9,3.2,2.52,3.16,3.21
+2016-11-05,Super League Greece,2016-17,Levadeiakos,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.4,3.0,3.2,2.64,2.9,3.31
+2016-11-06,Super League Greece,2016-17,Panionios,PAOK,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3.6,3.2,2.1,4.23,3.1,2.12
+2016-11-06,Super League Greece,2016-17,Panetolikos,Larisa,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.83,3.2,4.75,1.9,3.07,5.76
+2016-11-06,Super League Greece,2016-17,Olympiakos,Panathinaikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.67,3.5,5.5,1.65,3.73,6.61
+2016-11-06,Super League Greece,2016-17,Kerkyra,Veria,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.8,3.2,5.0,1.81,3.15,6.3
+2016-11-07,Super League Greece,2016-17,Iraklis,Platanias,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.2,3.0,2.38,3.36,3.04,2.51
+2016-11-23,Super League Greece,2016-17,Giannina,Levadeiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.67,3.5,5.5,1.71,3.67,5.9
+2016-11-26,Super League Greece,2016-17,AEK,Platanias,3,0,0,0,0,0,0,0,3,0,0,0,0,1,,,,1.34,5.0,13.18
+2016-11-26,Super League Greece,2016-17,Asteras Tripolis,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.5,3.8,7.5,1.58,3.9,7.28
+2016-11-26,Super League Greece,2016-17,Giannina,Veria,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.4,4.0,9.5,1.41,4.4,11.13
+2016-11-27,Super League Greece,2016-17,Levadeiakos,Iraklis,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.75,3.4,5.0,1.79,3.3,6.08
+2016-11-27,Super League Greece,2016-17,Olympiakos,Kerkyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.1,9.0,21.0,,,
+2016-11-27,Super League Greece,2016-17,Panetolikos,Xanthi,2,3,0,0,0,0,0,0,5,0,0,0,1,1,2.0,3.2,4.0,2.06,3.17,4.48
+2016-11-27,Super League Greece,2016-17,Panionios,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.75,3.4,2.0,4.27,3.22,2.08
+2016-11-28,Super League Greece,2016-17,PAOK,Atromitos,3,4,0,0,0,0,0,0,7,0,0,0,1,1,1.4,4.5,8.0,1.42,4.4,10.77
+2016-12-03,Super League Greece,2016-17,Platanias,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.5,2.9,3.1,2.65,2.95,3.22
+2016-12-03,Super League Greece,2016-17,Veria,Panetolikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.75,3.0,2.15,3.67,3.18,2.28
+2016-12-03,Super League Greece,2016-17,Kerkyra,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0,5.5,3.3,1.73,5.71,3.47,1.79
+2016-12-04,Super League Greece,2016-17,Larisa,Atromitos,1,2,0,0,0,0,0,0,3,0,0,0,1,1,,,,,,
+2016-12-04,Super League Greece,2016-17,Olympiakos,Levadeiakos,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.13,8.0,19.0,,,
+2016-12-04,Super League Greece,2016-17,Panathinaikos,PAOK,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.0,3.2,4.0,2.17,3.17,4.02
+2016-12-04,Super League Greece,2016-17,Xanthi,Asteras Tripolis,3,1,0,0,0,0,0,0,4,0,0,0,1,1,2.4,3.0,3.2,2.57,3.2,3.09
+2016-12-05,Super League Greece,2016-17,Iraklis,Giannina,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.9,3.0,2.6,3.06,3.04,2.71
+2016-12-10,Super League Greece,2016-17,AEK,Levadeiakos,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.29,4.5,15.0,1.29,5.76,12.95
+2016-12-10,Super League Greece,2016-17,Asteras Tripolis,Veria,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.29,5.0,12.0,1.31,5.25,13.92
+2016-12-10,Super League Greece,2016-17,Xanthi,Larisa,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.57,3.8,6.0,1.66,3.98,5.8
+2016-12-11,Super League Greece,2016-17,Atromitos,Panathinaikos,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.0,3.2,2.0,4.09,3.28,2.1
+2016-12-11,Super League Greece,2016-17,Panetolikos,Iraklis,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.5,3.75,7.5,1.56,3.94,7.64
+2016-12-11,Super League Greece,2016-17,Panionios,Kerkyra,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.62,3.4,6.5,1.66,3.62,6.98
+2016-12-11,Super League Greece,2016-17,PAOK,Platanias,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.33,4.75,10.0,1.34,5.11,12.41
+2016-12-12,Super League Greece,2016-17,Giannina,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0,7.0,4.0,1.5,6.43,4.33,1.57
+2016-12-17,Super League Greece,2016-17,Platanias,Atromitos,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.38,2.88,2.9,2.62,2.93,3.3
+2016-12-17,Super League Greece,2016-17,Veria,Xanthi,0,4,0,0,0,0,0,0,4,0,0,0,0,1,3.4,2.9,2.1,3.94,3.02,2.27
+2016-12-17,Super League Greece,2016-17,Kerkyra,PAOK,0,5,0,0,0,0,0,0,5,0,0,0,0,1,7.0,3.75,1.44,7.95,3.8,1.57
+2016-12-18,Super League Greece,2016-17,Iraklis,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.3,3.0,2.2,3.81,3.02,2.32
+2016-12-18,Super League Greece,2016-17,Larisa,Panathinaikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5.5,3.2,1.67,6.09,3.56,1.72
+2016-12-18,Super League Greece,2016-17,Levadeiakos,Panionios,1,4,0,0,0,0,0,0,5,0,0,0,1,1,3.0,2.88,2.38,3.39,3.04,2.49
+2016-12-18,Super League Greece,2016-17,Olympiakos,Panetolikos,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.17,6.5,10.0,1.19,8.0,16.5
+2016-12-19,Super League Greece,2016-17,AEK,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.4,4.0,7.5,1.51,4.29,7.66
+2017-01-03,Super League Greece,2016-17,Iraklis,Xanthi,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.7,3.1,2.1,3.97,3.16,2.19
+2017-01-03,Super League Greece,2016-17,Levadeiakos,PAOK,0,1,0,0,0,0,0,0,1,0,0,0,0,0,9.5,4.0,1.4,9.55,4.37,1.44
+2017-01-04,Super League Greece,2016-17,AEK,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.33,4.75,7.5,1.38,4.77,10.95
+2017-01-04,Super League Greece,2016-17,Kerkyra,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.6,3.0,2.65,2.9,2.96,2.91
+2017-01-04,Super League Greece,2016-17,Larisa,Veria,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.73,3.3,4.33,,,
+2017-01-04,Super League Greece,2016-17,Olympiakos,Asteras Tripolis,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.17,7.0,15.0,1.21,7.34,16.49
+2017-01-05,Super League Greece,2016-17,Platanias,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,5.0,3.3,1.7,5.53,3.4,1.82
+2017-01-05,Super League Greece,2016-17,Panionios,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.95,3.2,3.75,1.99,3.23,4.72
+2017-01-07,Super League Greece,2016-17,Atromitos,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.5,3.9,7.0,1.55,3.97,7.88
+2017-01-07,Super League Greece,2016-17,Asteras Tripolis,AEK,3,2,0,0,0,0,0,0,5,0,0,0,1,1,3.4,3.25,2.15,3.77,3.15,2.26
+2017-01-08,Super League Greece,2016-17,Panetolikos,Panionios,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.5,3.1,2.9,2.65,3.06,3.12
+2017-01-08,Super League Greece,2016-17,PAOK,Giannina,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.25,5.25,13.0,1.3,5.54,13.5
+2017-01-08,Super League Greece,2016-17,Platanias,Larisa,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.67,3.5,5.5,1.75,3.43,6.14
+2017-01-08,Super League Greece,2016-17,Xanthi,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0,5.75,3.75,1.6,6.68,3.89,1.62
+2017-01-09,Super League Greece,2016-17,Panathinaikos,Kerkyra,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.14,7.0,19.0,1.18,7.46,21.35
+2017-01-14,Super League Greece,2016-17,Platanias,Olympiakos,2,2,0,0,0,0,0,0,4,0,0,0,1,1,6.0,3.8,1.57,7.17,3.95,1.58
+2017-01-14,Super League Greece,2016-17,Veria,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.5,3.0,3.0,2.69,3.0,3.13
+2017-01-15,Super League Greece,2016-17,Asteras Tripolis,Panetolikos,4,1,0,0,0,0,0,0,5,0,0,0,1,1,1.75,3.4,5.0,1.79,3.38,5.79
+2017-01-15,Super League Greece,2016-17,Atromitos,Panionios,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.2,3.2,3.4,2.34,3.11,3.62
+2017-01-15,Super League Greece,2016-17,Panathinaikos,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.8,3.3,4.75,1.85,3.41,5.18
+2017-01-15,Super League Greece,2016-17,Xanthi,Giannina,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.85,3.3,4.5,1.93,3.25,5.0
+2017-01-18,Super League Greece,2016-17,Veria,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.5,2.75,3.1,,,
+2017-01-18,Super League Greece,2016-17,Xanthi,Iraklis,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.4,4.0,7.5,1.5,3.92,9.13
+2017-01-18,Super League Greece,2016-17,Panetolikos,AEK,3,2,0,0,0,0,0,0,5,0,0,0,1,1,3.7,3.1,2.0,3.95,3.22,2.14
+2017-01-18,Super League Greece,2016-17,Giannina,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.38,2.88,3.1,2.49,3.05,3.32
+2017-01-18,Super League Greece,2016-17,Atromitos,Kerkyra,1,4,0,0,0,0,0,0,5,0,0,0,1,1,1.5,3.8,6.0,1.58,3.76,7.52
+2017-01-18,Super League Greece,2016-17,Asteras Tripolis,Olympiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.75,3.6,1.75,4.79,3.72,1.81
+2017-01-19,Super League Greece,2016-17,Panathinaikos,Platanias,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.36,4.5,9.0,1.43,4.56,8.94
+2017-01-19,Super League Greece,2016-17,PAOK,Levadeiakos,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.13,7.0,17.0,1.18,7.65,20.33
+2017-01-21,Super League Greece,2016-17,Iraklis,Veria,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.25,3.1,3.4,2.34,2.97,3.82
+2017-01-21,Super League Greece,2016-17,Olympiakos,Xanthi,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.2,6.0,15.0,1.22,6.75,18.5
+2017-01-21,Super League Greece,2016-17,Panionios,Panetolikos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.62,3.6,6.0,1.67,3.53,7.04
+2017-01-22,Super League Greece,2016-17,AEK,Asteras Tripolis,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.62,3.8,5.5,1.65,3.71,6.75
+2017-01-22,Super League Greece,2016-17,Kerkyra,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,6.0,3.8,1.57,6.2,3.78,1.67
+2017-01-22,Super League Greece,2016-17,Larisa,Platanias,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.9,2.9,2.65,,,
+2017-01-22,Super League Greece,2016-17,Levadeiakos,Atromitos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.0,3.0,2.5,3.22,3.0,2.63
+2017-01-23,Super League Greece,2016-17,Giannina,PAOK,0,1,0,0,0,0,0,0,1,0,0,0,0,0,5.0,3.5,1.73,5.83,3.63,1.73
+2017-01-25,Super League Greece,2016-17,Veria,Iraklis,0,2,0,0,0,0,0,0,2,0,0,0,0,0,2.45,3.0,3.1,2.51,2.91,3.55
+2017-01-28,Super League Greece,2016-17,Xanthi,AEK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.25,2.88,2.3,3.28,2.97,2.62
+2017-01-28,Super League Greece,2016-17,Asteras Tripolis,Panionios,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.25,3.2,3.3,2.3,3.16,3.63
+2017-01-28,Super League Greece,2016-17,Iraklis,Larisa,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.45,3.0,3.1,2.53,2.93,3.47
+2017-01-29,Super League Greece,2016-17,Atromitos,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.05,3.0,3.6,2.19,2.98,4.37
+2017-01-29,Super League Greece,2016-17,Panathinaikos,Levadeiakos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.18,6.0,12.0,1.25,6.6,14.0
+2017-01-29,Super League Greece,2016-17,Panetolikos,PAOK,0,1,0,0,0,0,0,0,1,0,0,0,0,0,6.0,3.4,1.57,6.58,3.93,1.62
+2017-01-29,Super League Greece,2016-17,Platanias,Kerkyra,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.75,3.3,4.5,1.85,3.3,5.51
+2017-01-29,Super League Greece,2016-17,Veria,Olympiakos,1,2,0,0,0,0,0,0,3,0,0,0,1,1,15.0,6.5,1.18,14.0,6.75,1.24
+2017-02-01,Super League Greece,2016-17,Iraklis,Kerkyra,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,2.8,3.1,2.58,2.97,3.34
+2017-02-01,Super League Greece,2016-17,Larisa,PAOK,0,2,0,0,0,0,0,0,2,0,0,0,0,0,6.5,3.5,1.53,6.83,3.75,1.63
+2017-02-04,Super League Greece,2016-17,Panetolikos,Atromitos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.55,2.8,3.1,2.58,2.98,3.31
+2017-02-04,Super League Greece,2016-17,Giannina,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.8,3.1,2.05,4.27,2.99,2.19
+2017-02-04,Super League Greece,2016-17,Larisa,Kerkyra,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.0,3.1,4.1,2.11,3.05,4.47
+2017-02-05,Super League Greece,2016-17,Panionios,Xanthi,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.0,2.9,4.33,2.14,3.17,4.12
+2017-02-05,Super League Greece,2016-17,PAOK,Asteras Tripolis,3,2,0,0,0,0,0,0,5,0,0,0,1,1,1.33,4.5,11.0,1.43,4.48,9.9
+2017-02-05,Super League Greece,2016-17,AEK,Veria,6,0,0,0,0,0,0,0,6,0,0,0,0,1,1.17,6.5,19.0,1.16,7.8,25.0
+2017-02-05,Super League Greece,2016-17,Olympiakos,Iraklis,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.08,10.0,23.0,1.13,9.7,27.0
+2017-02-06,Super League Greece,2016-17,Levadeiakos,Platanias,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.38,2.9,3.3,,,
+2017-02-11,Super League Greece,2016-17,Asteras Tripolis,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2.1,2.88,4.1,2.13,2.96,4.49
+2017-02-11,Super League Greece,2016-17,Olympiakos,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.13,8.5,17.0,1.16,8.7,20.6
+2017-02-11,Super League Greece,2016-17,Veria,Panionios,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.33,3.2,1.91,5.0,3.29,1.92
+2017-02-12,Super League Greece,2016-17,Kerkyra,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.0,3.1,4.2,2.03,3.09,4.75
+2017-02-12,Super League Greece,2016-17,Panathinaikos,Panetolikos,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.4,4.1,9.0,1.41,4.5,10.81
+2017-02-12,Super League Greece,2016-17,Platanias,Giannina,3,3,0,0,0,0,0,0,6,0,0,0,1,1,2.1,2.9,4.0,2.19,3.04,4.18
+2017-02-12,Super League Greece,2016-17,Xanthi,PAOK,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4.2,3.1,2.0,4.5,3.17,2.05
+2017-02-13,Super League Greece,2016-17,Iraklis,AEK,2,2,0,0,0,0,0,0,4,0,0,0,1,1,5.5,3.5,1.67,5.77,3.64,1.73
+2017-02-18,Super League Greece,2016-17,Asteras Tripolis,Panathinaikos,0,5,0,0,0,0,0,0,5,0,0,0,0,1,3.8,2.8,2.25,3.65,3.05,2.36
+2017-02-18,Super League Greece,2016-17,Atromitos,Xanthi,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.25,2.9,3.6,2.36,2.95,3.79
+2017-02-18,Super League Greece,2016-17,Giannina,Kerkyra,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.6,3.5,6.5,1.68,3.5,7.03
+2017-02-19,Super League Greece,2016-17,PAOK,Veria,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.14,8.0,15.0,,,
+2017-02-19,Super League Greece,2016-17,Panionios,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.4,4.0,10.0,1.45,4.28,9.83
+2017-02-19,Super League Greece,2016-17,Panetolikos,Platanias,1,2,0,0,0,0,0,0,3,0,0,0,1,1,2.45,2.88,3.2,2.5,2.91,3.54
+2017-02-19,Super League Greece,2016-17,AEK,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.75,3.0,2.75,2.75,3.08,2.96
+2017-02-20,Super League Greece,2016-17,Larisa,Levadeiakos,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.15,3.2,3.5,2.26,3.09,3.85
+2017-02-25,Super League Greece,2016-17,Kerkyra,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.5,3.0,3.0,2.72,2.79,3.34
+2017-02-25,Super League Greece,2016-17,Platanias,Asteras Tripolis,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.95,3.1,4.33,2.06,3.14,4.52
+2017-02-25,Super League Greece,2016-17,Xanthi,Panathinaikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3.5,3.0,2.25,3.78,3.06,2.3
+2017-02-26,Super League Greece,2016-17,AEK,Larisa,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.17,7.5,13.0,1.18,7.29,23.46
+2017-02-26,Super League Greece,2016-17,Iraklis,PAOK,1,1,0,0,0,0,0,0,2,0,0,0,1,0,8.5,4.33,1.4,9.23,4.39,1.45
+2017-02-26,Super League Greece,2016-17,Levadeiakos,Giannina,2,1,0,0,0,0,0,0,3,0,0,0,1,1,2.8,2.88,2.8,2.91,3.07,2.82
+2017-02-26,Super League Greece,2016-17,Olympiakos,Panionios,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1.29,5.5,9.5,1.31,5.83,11.11
+2017-02-27,Super League Greece,2016-17,Veria,Atromitos,0,1,0,0,0,0,0,0,1,0,0,0,0,0,3.3,3.1,2.3,3.79,3.1,2.28
+2017-03-04,Super League Greece,2016-17,Larisa,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.6,3.0,2.9,2.86,2.82,3.13
+2017-03-04,Super League Greece,2016-17,Panathinaikos,Veria,5,0,0,0,0,0,0,0,5,0,0,0,0,1,1.13,7.5,23.0,1.14,9.45,23.01
+2017-03-04,Super League Greece,2016-17,Panetolikos,Levadeiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.91,3.25,4.33,1.88,3.35,5.08
+2017-03-05,Super League Greece,2016-17,Xanthi,Platanias,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.91,3.1,4.5,1.9,3.17,5.45
+2017-03-05,Super League Greece,2016-17,PAOK,Olympiakos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2.4,3.0,3.2,2.55,2.99,3.37
+2017-03-05,Super League Greece,2016-17,Atromitos,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.62,3.5,6.0,1.64,3.7,6.89
+2017-03-05,Super League Greece,2016-17,Asteras Tripolis,Kerkyra,1,2,0,0,0,0,0,0,3,0,0,0,1,1,1.67,3.25,6.5,1.72,3.27,7.3
+2017-03-06,Super League Greece,2016-17,Panionios,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0,3.1,2.9,2.5,3.14,2.86,2.8
+2017-03-11,Super League Greece,2016-17,Giannina,Panetolikos,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.85,3.3,4.5,1.9,3.21,5.32
+2017-03-11,Super League Greece,2016-17,Iraklis,Panathinaikos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,7.5,3.8,1.5,8.7,3.9,1.53
+2017-03-11,Super League Greece,2016-17,Panionios,Larisa,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.36,4.33,10.0,1.41,4.52,10.51
+2017-03-12,Super League Greece,2016-17,AEK,PAOK,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.38,2.9,3.3,2.5,2.89,3.58
+2017-03-12,Super League Greece,2016-17,Kerkyra,Xanthi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,3.1,2.9,2.5,3.3,2.88,2.67
+2017-03-12,Super League Greece,2016-17,Olympiakos,Atromitos,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.2,6.5,13.0,1.2,7.05,19.5
+2017-03-12,Super League Greece,2016-17,Platanias,Veria,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.33,4.5,11.0,1.38,5.0,9.93
+2017-03-13,Super League Greece,2016-17,Levadeiakos,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.6,2.9,3.0,2.66,3.08,3.08
+2017-03-18,Super League Greece,2016-17,Atromitos,AEK,0,1,0,0,0,0,0,0,1,0,0,0,0,0,4.33,3.1,1.95,5.26,3.18,1.92
+2017-03-18,Super League Greece,2016-17,Larisa,Panetolikos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.3,3.0,3.4,2.44,2.96,3.6
+2017-03-18,Super League Greece,2016-17,Veria,Kerkyra,4,0,0,0,0,0,0,0,4,0,0,0,0,1,1.5,4.0,7.0,1.57,4.28,6.51
+2017-03-19,Super League Greece,2016-17,Xanthi,Levadeiakos,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.57,3.5,7.0,1.55,3.84,8.47
+2017-03-19,Super League Greece,2016-17,PAOK,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.53,3.6,7.5,1.55,3.96,7.8
+2017-03-19,Super League Greece,2016-17,Panathinaikos,Olympiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.25,3.0,3.5,2.33,3.11,3.64
+2017-03-19,Super League Greece,2016-17,Asteras Tripolis,Giannina,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.0,3.1,4.2,2.05,3.14,4.55
+2017-03-20,Super League Greece,2016-17,Platanias,Iraklis,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.67,3.5,5.5,1.73,3.49,6.24
+2017-04-01,Super League Greece,2016-17,Giannina,Xanthi,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.4,2.9,3.25,2.42,3.0,3.6
+2017-04-01,Super League Greece,2016-17,Levadeiakos,Veria,3,1,0,0,0,0,0,0,4,0,0,0,1,1,1.83,3.25,4.75,1.85,3.38,5.3
+2017-04-01,Super League Greece,2016-17,Olympiakos,Platanias,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.22,5.75,13.0,1.23,6.48,17.91
+2017-04-02,Super League Greece,2016-17,AEK,Panathinaikos,2,3,0,0,0,0,0,0,5,0,0,0,1,1,2.3,2.9,3.5,2.32,3.06,3.74
+2017-04-02,Super League Greece,2016-17,Kerkyra,Iraklis,0,3,0,0,0,0,0,0,3,0,0,0,0,1,2.05,3.3,3.6,2.2,3.18,3.85
+2017-04-02,Super League Greece,2016-17,Panetolikos,Asteras Tripolis,1,1,0,0,0,0,0,0,2,0,0,0,1,0,2.6,2.8,3.1,2.63,2.98,3.23
+2017-04-02,Super League Greece,2016-17,Panionios,Atromitos,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.67,3.4,6.0,1.66,3.62,6.83
+2017-04-02,Super League Greece,2016-17,PAOK,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.18,6.5,15.0,1.15,8.55,25.0
+2017-04-05,Super League Greece,2016-17,Xanthi,Panetolikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.4,3.9,8.0,,,
+2017-04-05,Super League Greece,2016-17,Veria,Giannina,3,0,0,0,0,0,0,0,3,0,0,0,0,1,2.4,3.0,2.9,,,
+2017-04-05,Super League Greece,2016-17,Larisa,Asteras Tripolis,1,4,0,0,0,0,0,0,5,0,0,0,1,1,2.5,2.7,3.1,,,
+2017-04-05,Super League Greece,2016-17,Kerkyra,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0,15.0,6.0,1.17,,,
+2017-04-05,Super League Greece,2016-17,Iraklis,Levadeiakos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.95,3.2,3.75,,,
+2017-04-05,Super League Greece,2016-17,Atromitos,PAOK,0,2,0,0,0,0,0,0,2,0,0,0,0,0,4.6,3.4,1.73,,,
+2017-04-06,Super League Greece,2016-17,Panathinaikos,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.55,3.6,5.75,,,
+2017-04-06,Super League Greece,2016-17,Platanias,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0,3.8,3.3,1.85,,,
+2017-04-09,Super League Greece,2016-17,AEK,Kerkyra,5,0,0,0,0,0,0,0,5,0,0,0,0,1,1.11,8.0,23.0,,,
+2017-04-09,Super League Greece,2016-17,Asteras Tripolis,Xanthi,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,3.1,3.1,,,
+2017-04-09,Super League Greece,2016-17,Atromitos,Larisa,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.1,3.1,3.75,,,
+2017-04-09,Super League Greece,2016-17,Giannina,Iraklis,1,2,0,0,0,0,0,0,3,0,0,0,1,1,3.25,3.0,2.25,,,
+2017-04-09,Super League Greece,2016-17,Levadeiakos,Olympiakos,1,1,0,0,0,0,0,0,2,0,0,0,1,0,7.5,4.2,1.4,,,
+2017-04-09,Super League Greece,2016-17,Panetolikos,Veria,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.75,3.4,5.0,,,
+2017-04-09,Super League Greece,2016-17,Panionios,Platanias,1,1,0,0,0,0,0,0,2,0,0,0,1,0,1.55,3.6,5.75,,,
+2017-04-09,Super League Greece,2016-17,PAOK,Panathinaikos,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.73,3.5,4.33,,,
+2017-04-23,Super League Greece,2016-17,Veria,Asteras Tripolis,4,3,0,0,0,0,0,0,7,0,0,0,1,1,9.5,4.75,1.29,,,
+2017-04-23,Super League Greece,2016-17,Platanias,PAOK,1,3,0,0,0,0,0,0,4,0,0,0,1,1,7.0,3.8,1.44,,,
+2017-04-23,Super League Greece,2016-17,Panathinaikos,Atromitos,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1.36,4.75,6.5,,,
+2017-04-23,Super League Greece,2016-17,Olympiakos,Giannina,5,0,0,0,0,0,0,0,5,0,0,0,0,1,1.13,8.0,13.0,,,
+2017-04-23,Super League Greece,2016-17,Kerkyra,Panionios,1,0,0,0,0,0,0,0,1,0,0,0,0,0,4.5,3.2,1.8,,,
+2017-04-23,Super League Greece,2016-17,Larisa,Xanthi,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2.25,3.1,3.1,,,
+2017-04-23,Super League Greece,2016-17,Iraklis,Panetolikos,2,1,0,0,0,0,0,0,3,0,0,0,1,1,1.4,4.75,6.0,,,
+2017-04-23,Super League Greece,2016-17,Levadeiakos,AEK,0,2,0,0,0,0,0,0,2,0,0,0,0,0,3.8,3.2,1.91,,,
+2017-04-30,Super League Greece,2016-17,PAOK,Kerkyra,5,1,0,0,0,0,0,0,6,0,0,0,1,1,1.06,11.0,26.0,,,
+2017-04-30,Super League Greece,2016-17,Asteras Tripolis,Iraklis,2,2,0,0,0,0,0,0,4,0,0,0,1,1,1.55,4.2,5.5,,,
+2017-04-30,Super League Greece,2016-17,Atromitos,Platanias,4,1,0,0,0,0,0,0,5,0,0,0,1,1,1.62,3.6,6.0,,,
+2017-04-30,Super League Greece,2016-17,Giannina,AEK,1,1,0,0,0,0,0,0,2,0,0,0,1,0,4.75,3.4,1.75,,,
+2017-04-30,Super League Greece,2016-17,Panathinaikos,Larisa,2,0,0,0,0,0,0,0,2,0,0,0,0,0,1.22,6.0,10.0,,,
+2017-04-30,Super League Greece,2016-17,Panetolikos,Olympiakos,0,2,0,0,0,0,0,0,2,0,0,0,0,0,7.5,4.5,1.4,,,
+2017-04-30,Super League Greece,2016-17,Panionios,Levadeiakos,1,3,0,0,0,0,0,0,4,0,0,0,1,1,1.57,4.0,5.5,,,
+2017-04-30,Super League Greece,2016-17,Xanthi,Veria,3,0,0,0,0,0,0,0,3,0,0,0,0,1,1.18,6.5,10.0,,,

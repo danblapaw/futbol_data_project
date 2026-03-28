@@ -1,307 +1,307 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2017-08-11,Super Lig,2017-18,Buyuksehyr,Bursaspor,1,0,0,3,1,1,0,0,1,3,2,0,0,0
-2017-08-12,Super Lig,2017-18,Akhisar Belediyespor,Sivasspor,1,0,3,4,3,2,0,0,1,7,5,0,0,0
-2017-08-12,Super Lig,2017-18,Alanyaspor,Kasimpasa,1,3,5,3,2,4,0,0,4,8,6,0,1,1
-2017-08-12,Super Lig,2017-18,Genclerbirligi,Karabukspor,1,1,4,1,2,3,0,0,2,5,5,0,1,0
-2017-08-12,Super Lig,2017-18,Goztep,Fenerbahce,2,2,0,4,4,1,0,0,4,4,5,0,1,1
-2017-08-13,Super Lig,2017-18,Besiktas,Antalyaspor,2,0,3,3,3,4,0,0,2,6,7,0,0,0
-2017-08-13,Super Lig,2017-18,Trabzonspor,Konyaspor,2,1,1,6,4,2,0,0,3,7,6,0,1,1
-2017-08-13,Super Lig,2017-18,Yeni Malatyaspor,Osmanlispor,3,1,3,5,1,3,0,1,4,8,4,1,1,1
-2017-08-14,Super Lig,2017-18,Galatasaray,Kayserispor,4,1,2,2,2,4,0,1,5,4,6,1,1,1
-2017-08-18,Super Lig,2017-18,Kasimpasa,Besiktas,2,2,4,4,4,2,0,0,4,8,6,0,1,1
-2017-08-19,Super Lig,2017-18,Bursaspor,Alanyaspor,3,2,1,2,2,2,0,0,5,3,4,0,1,1
-2017-08-19,Super Lig,2017-18,Karabukspor,Buyuksehyr,3,1,5,1,2,1,0,0,4,6,3,0,1,1
-2017-08-19,Super Lig,2017-18,Osmanlispor,Galatasaray,1,3,4,5,2,2,0,0,4,9,4,0,1,1
-2017-08-19,Super Lig,2017-18,Sivasspor,Yeni Malatyaspor,2,0,4,7,3,2,0,0,2,11,5,0,0,0
-2017-08-20,Super Lig,2017-18,Antalyaspor,Akhisar Belediyespor,2,2,3,4,3,2,0,0,4,7,5,0,1,1
-2017-08-20,Super Lig,2017-18,Fenerbahce,Trabzonspor,2,2,4,9,2,4,0,0,4,13,6,0,1,1
-2017-08-20,Super Lig,2017-18,Kayserispor,Goztep,1,0,3,5,3,1,0,0,1,8,4,0,0,0
-2017-08-21,Super Lig,2017-18,Konyaspor,Genclerbirligi,3,0,1,2,1,1,0,0,3,3,2,0,0,1
-2017-08-25,Super Lig,2017-18,Galatasaray,Sivasspor,3,0,6,5,3,0,0,0,3,11,3,0,0,1
-2017-08-25,Super Lig,2017-18,Alanyaspor,Karabukspor,1,1,9,2,1,5,0,0,2,11,6,0,1,0
-2017-08-26,Super Lig,2017-18,Besiktas,Bursaspor,2,1,8,4,2,3,0,0,3,12,5,0,1,1
-2017-08-26,Super Lig,2017-18,Goztep,Trabzonspor,3,2,3,4,2,4,0,0,5,7,6,0,1,1
-2017-08-26,Super Lig,2017-18,Kayserispor,Osmanlispor,2,2,6,3,5,1,1,1,4,9,6,2,1,1
-2017-08-26,Super Lig,2017-18,Yeni Malatyaspor,Antalyaspor,1,1,10,1,3,2,0,0,2,11,5,0,1,0
-2017-08-27,Super Lig,2017-18,Akhisar Belediyespor,Kasimpasa,2,1,4,3,3,3,1,0,3,7,6,1,1,1
-2017-08-27,Super Lig,2017-18,Buyuksehyr,Konyaspor,2,1,6,7,4,5,0,1,3,13,9,1,1,1
-2017-08-27,Super Lig,2017-18,Genclerbirligi,Fenerbahce,1,2,8,3,3,4,2,0,3,11,7,2,1,1
-2017-09-09,Super Lig,2017-18,Sivasspor,Kayserispor,0,2,6,4,2,2,0,0,2,10,4,0,0,0
-2017-09-09,Super Lig,2017-18,Konyaspor,Alanyaspor,0,2,12,5,3,2,0,0,2,17,5,0,0,0
-2017-09-09,Super Lig,2017-18,Karabukspor,Besiktas,0,1,3,4,3,4,0,1,1,7,7,1,0,0
-2017-09-09,Super Lig,2017-18,Fenerbahce,Buyuksehyr,2,3,5,3,2,4,0,0,5,8,6,0,1,1
-2017-09-10,Super Lig,2017-18,Antalyaspor,Galatasaray,1,1,10,0,0,1,0,0,2,10,1,0,1,0
-2017-09-10,Super Lig,2017-18,Bursaspor,Akhisar Belediyespor,3,0,4,7,2,1,0,0,3,11,3,0,0,1
-2017-09-10,Super Lig,2017-18,Osmanlispor,Goztep,0,2,3,4,1,1,0,0,2,7,2,0,0,0
-2017-09-10,Super Lig,2017-18,Trabzonspor,Genclerbirligi,3,1,4,5,4,7,0,0,4,9,11,0,1,1
-2017-09-11,Super Lig,2017-18,Kasimpasa,Yeni Malatyaspor,3,2,3,7,3,2,0,0,5,10,5,0,1,1
-2017-09-15,Super Lig,2017-18,Kayserispor,Antalyaspor,2,0,5,5,2,5,0,0,2,10,7,0,0,0
-2017-09-16,Super Lig,2017-18,Yeni Malatyaspor,Bursaspor,2,4,5,3,3,3,0,0,6,8,6,0,1,1
-2017-09-16,Super Lig,2017-18,Akhisar Belediyespor,Karabukspor,2,1,2,3,2,3,0,0,3,5,5,0,1,1
-2017-09-16,Super Lig,2017-18,Galatasaray,Kasimpasa,2,0,11,2,1,4,0,0,2,13,5,0,0,0
-2017-09-17,Super Lig,2017-18,Alanyaspor,Fenerbahce,1,4,3,6,0,3,0,0,5,9,3,0,1,1
-2017-09-17,Super Lig,2017-18,Buyuksehyr,Trabzonspor,2,2,4,0,5,2,0,0,4,4,7,0,1,1
-2017-09-17,Super Lig,2017-18,Goztep,Genclerbirligi,3,2,5,6,3,4,0,0,5,11,7,0,1,1
-2017-09-17,Super Lig,2017-18,Osmanlispor,Sivasspor,2,4,6,7,2,6,0,0,6,13,8,0,1,1
-2017-09-18,Super Lig,2017-18,Besiktas,Konyaspor,2,0,3,2,2,2,0,0,2,5,4,0,0,0
-2017-09-22,Super Lig,2017-18,Trabzonspor,Alanyaspor,3,4,5,5,4,4,0,0,7,10,8,0,1,1
-2017-09-23,Super Lig,2017-18,Konyaspor,Akhisar Belediyespor,2,0,2,6,2,2,0,0,2,8,4,0,0,0
-2017-09-23,Super Lig,2017-18,Genclerbirligi,Buyuksehyr,1,0,3,3,3,2,0,0,1,6,5,0,0,0
-2017-09-23,Super Lig,2017-18,Fenerbahce,Besiktas,2,1,5,8,3,9,2,3,3,13,12,5,1,1
-2017-09-24,Super Lig,2017-18,Bursaspor,Galatasaray,1,2,6,9,0,2,0,0,3,15,2,0,1,1
-2017-09-24,Super Lig,2017-18,Karabukspor,Yeni Malatyaspor,2,4,4,4,2,2,0,0,6,8,4,0,1,1
-2017-09-24,Super Lig,2017-18,Kasimpasa,Kayserispor,1,1,2,5,1,1,0,0,2,7,2,0,1,0
-2017-09-24,Super Lig,2017-18,Sivasspor,Goztep,2,3,6,2,0,1,1,0,5,8,1,1,1,1
-2017-09-25,Super Lig,2017-18,Antalyaspor,Osmanlispor,3,0,4,3,4,3,1,0,3,7,7,1,0,1
-2017-09-29,Super Lig,2017-18,Akhisar Belediyespor,Fenerbahce,1,0,3,3,3,5,0,2,1,6,8,2,0,0
-2017-09-30,Super Lig,2017-18,Sivasspor,Antalyaspor,3,1,4,3,2,5,1,0,4,7,7,1,1,1
-2017-09-30,Super Lig,2017-18,Kayserispor,Bursaspor,3,1,5,7,1,2,0,0,4,12,3,0,1,1
-2017-09-30,Super Lig,2017-18,Galatasaray,Karabukspor,3,2,8,3,4,3,0,0,5,11,7,0,1,1
-2017-09-30,Super Lig,2017-18,Osmanlispor,Kasimpasa,3,0,4,3,2,2,0,0,3,7,4,0,0,1
-2017-10-01,Super Lig,2017-18,Alanyaspor,Genclerbirligi,4,1,2,4,2,4,1,0,5,6,6,1,1,1
-2017-10-01,Super Lig,2017-18,Besiktas,Trabzonspor,2,2,1,4,4,4,0,0,4,5,8,0,1,1
-2017-10-01,Super Lig,2017-18,Goztep,Buyuksehyr,1,2,8,4,0,0,0,0,3,12,0,0,1,1
-2017-10-01,Super Lig,2017-18,Yeni Malatyaspor,Konyaspor,1,1,3,2,5,2,1,0,2,5,7,1,1,0
-2017-10-13,Super Lig,2017-18,Genclerbirligi,Besiktas,2,1,4,9,3,0,0,1,3,13,3,1,1,1
-2017-10-14,Super Lig,2017-18,Antalyaspor,Goztep,1,3,5,2,4,3,1,0,4,7,7,1,1,1
-2017-10-14,Super Lig,2017-18,Buyuksehyr,Alanyaspor,2,1,6,4,2,1,0,0,3,10,3,0,1,1
-2017-10-14,Super Lig,2017-18,Karabukspor,Kayserispor,1,0,4,5,5,1,1,0,1,9,6,1,0,0
-2017-10-14,Super Lig,2017-18,Konyaspor,Galatasaray,0,2,6,5,2,1,0,0,2,11,3,0,0,0
-2017-10-15,Super Lig,2017-18,Trabzonspor,Akhisar Belediyespor,1,6,6,2,1,2,0,0,7,8,3,0,1,1
-2017-10-15,Super Lig,2017-18,Fenerbahce,Yeni Malatyaspor,3,1,7,4,1,1,0,0,4,11,2,0,1,1
-2017-10-15,Super Lig,2017-18,Kasimpasa,Sivasspor,2,3,6,5,4,4,0,0,5,11,8,0,1,1
-2017-10-16,Super Lig,2017-18,Bursaspor,Osmanlispor,3,1,5,8,2,4,1,0,4,13,6,1,1,1
-2017-10-20,Super Lig,2017-18,Goztep,Alanyaspor,3,3,4,9,1,5,0,0,6,13,6,0,1,1
-2017-10-20,Super Lig,2017-18,Antalyaspor,Kasimpasa,2,1,6,5,4,5,0,1,3,11,9,1,1,1
-2017-10-21,Super Lig,2017-18,Yeni Malatyaspor,Trabzonspor,1,0,5,2,3,5,0,2,1,7,8,2,0,0
-2017-10-21,Super Lig,2017-18,Osmanlispor,Karabukspor,3,0,2,5,2,1,0,0,3,7,3,0,0,1
-2017-10-21,Super Lig,2017-18,Akhisar Belediyespor,Genclerbirligi,3,3,2,3,0,3,0,1,6,5,3,1,1,1
-2017-10-22,Super Lig,2017-18,Galatasaray,Fenerbahce,0,0,8,6,5,2,1,0,0,14,7,1,0,0
-2017-10-22,Super Lig,2017-18,Kayserispor,Konyaspor,2,1,4,3,0,2,0,0,3,7,2,0,1,1
-2017-10-22,Super Lig,2017-18,Sivasspor,Bursaspor,0,0,5,4,1,2,0,0,0,9,3,0,0,0
-2017-10-23,Super Lig,2017-18,Besiktas,Buyuksehyr,1,1,9,5,5,2,0,0,2,14,7,0,1,0
-2017-10-27,Super Lig,2017-18,Kasimpasa,Goztep,3,1,5,3,1,0,0,0,4,8,1,0,1,1
-2017-10-28,Super Lig,2017-18,Alanyaspor,Besiktas,1,2,7,11,3,1,0,0,3,18,4,0,1,1
-2017-10-28,Super Lig,2017-18,Buyuksehyr,Akhisar Belediyespor,2,1,5,2,2,3,0,0,3,7,5,0,1,1
-2017-10-28,Super Lig,2017-18,Genclerbirligi,Yeni Malatyaspor,0,1,2,4,1,4,1,0,1,6,5,1,0,0
-2017-10-29,Super Lig,2017-18,Bursaspor,Antalyaspor,4,0,4,5,0,0,0,1,4,9,0,1,0,1
-2017-10-29,Super Lig,2017-18,Karabukspor,Sivasspor,0,1,11,1,4,0,0,0,1,12,4,0,0,0
-2017-10-29,Super Lig,2017-18,Konyaspor,Osmanlispor,1,0,8,2,2,2,0,0,1,10,4,0,0,0
-2017-10-29,Super Lig,2017-18,Trabzonspor,Galatasaray,2,1,4,2,0,5,1,2,3,6,5,3,1,1
-2017-10-30,Super Lig,2017-18,Fenerbahce,Kayserispor,3,3,6,6,3,1,0,0,6,12,4,0,1,1
-2017-11-03,Super Lig,2017-18,Galatasaray,Genclerbirligi,5,1,4,7,1,5,0,0,6,11,6,0,1,1
-2017-11-04,Super Lig,2017-18,Kayserispor,Trabzonspor,0,0,9,1,2,3,0,0,0,10,5,0,0,0
-2017-11-04,Super Lig,2017-18,Osmanlispor,Fenerbahce,1,1,6,11,2,5,0,0,2,17,7,0,1,0
-2017-11-04,Super Lig,2017-18,Antalyaspor,Karabukspor,2,1,3,9,3,2,0,1,3,12,5,1,1,1
-2017-11-04,Super Lig,2017-18,Kasimpasa,Bursaspor,2,2,1,4,2,3,1,0,4,5,5,1,1,1
-2017-11-05,Super Lig,2017-18,Akhisar Belediyespor,Alanyaspor,0,4,3,6,2,2,0,0,4,9,4,0,0,1
-2017-11-05,Super Lig,2017-18,Goztep,Besiktas,1,3,8,3,1,1,1,0,4,11,2,1,1,1
-2017-11-05,Super Lig,2017-18,Sivasspor,Konyaspor,2,1,7,2,0,2,0,0,3,9,2,0,1,1
-2017-11-05,Super Lig,2017-18,Yeni Malatyaspor,Buyuksehyr,0,2,2,8,1,2,0,0,2,10,3,0,0,0
-2017-11-17,Super Lig,2017-18,Besiktas,Akhisar Belediyespor,0,0,11,5,4,6,0,1,0,16,10,1,0,0
-2017-11-18,Super Lig,2017-18,Bursaspor,Goztep,0,0,11,5,0,3,0,0,0,16,3,0,0,0
-2017-11-18,Super Lig,2017-18,Buyuksehyr,Galatasaray,5,1,4,5,0,2,0,0,6,9,2,0,1,1
-2017-11-18,Super Lig,2017-18,Konyaspor,Antalyaspor,1,1,7,5,2,2,0,0,2,12,4,0,1,0
-2017-11-19,Super Lig,2017-18,Trabzonspor,Osmanlispor,4,3,6,4,4,4,0,0,7,10,8,0,1,1
-2017-11-19,Super Lig,2017-18,Genclerbirligi,Kayserispor,1,2,4,8,0,3,0,0,3,12,3,0,1,1
-2017-11-19,Super Lig,2017-18,Alanyaspor,Yeni Malatyaspor,1,0,8,2,1,2,0,0,1,10,3,0,0,0
-2017-11-19,Super Lig,2017-18,Fenerbahce,Sivasspor,4,1,8,3,3,6,0,1,5,11,9,1,1,1
-2017-11-20,Super Lig,2017-18,Karabukspor,Kasimpasa,0,2,6,4,1,3,0,0,2,10,4,0,0,0
-2017-11-24,Super Lig,2017-18,Osmanlispor,Genclerbirligi,2,0,1,9,1,1,0,0,2,10,2,0,0,0
-2017-11-25,Super Lig,2017-18,Galatasaray,Alanyaspor,2,0,9,3,1,5,0,0,2,12,6,0,0,0
-2017-11-25,Super Lig,2017-18,Goztep,Akhisar Belediyespor,2,0,12,2,2,1,0,0,2,14,3,0,0,0
-2017-11-25,Super Lig,2017-18,Yeni Malatyaspor,Besiktas,0,0,3,9,2,1,0,0,0,12,3,0,0,0
-2017-11-26,Super Lig,2017-18,Sivasspor,Trabzonspor,1,2,6,3,3,3,0,0,3,9,6,0,1,1
-2017-11-26,Super Lig,2017-18,Kasimpasa,Konyaspor,2,1,4,4,2,0,0,0,3,8,2,0,1,1
-2017-11-26,Super Lig,2017-18,Bursaspor,Karabukspor,2,1,6,7,3,4,0,0,3,13,7,0,1,1
-2017-11-26,Super Lig,2017-18,Antalyaspor,Fenerbahce,0,1,3,0,1,2,0,0,1,3,3,0,0,0
-2017-11-27,Super Lig,2017-18,Kayserispor,Buyuksehyr,1,1,1,5,3,1,0,0,2,6,4,0,1,0
-2017-12-02,Super Lig,2017-18,Akhisar Belediyespor,Yeni Malatyaspor,0,0,5,8,0,5,0,0,0,13,5,0,0,0
-2017-12-02,Super Lig,2017-18,Besiktas,Galatasaray,3,0,9,2,3,3,0,0,3,11,6,0,0,1
-2017-12-02,Super Lig,2017-18,Karabukspor,Goztep,0,1,14,4,2,2,0,0,1,18,4,0,0,0
-2017-12-03,Super Lig,2017-18,Genclerbirligi,Sivasspor,4,0,6,6,4,1,0,0,4,12,5,0,0,1
-2017-12-03,Super Lig,2017-18,Konyaspor,Bursaspor,0,3,9,1,2,1,0,0,3,10,3,0,0,1
-2017-12-03,Super Lig,2017-18,Buyuksehyr,Osmanlispor,1,0,4,2,2,3,0,0,1,6,5,0,0,0
-2017-12-03,Super Lig,2017-18,Fenerbahce,Kasimpasa,4,2,3,3,3,1,0,0,6,6,4,0,1,1
-2017-12-04,Super Lig,2017-18,Alanyaspor,Kayserispor,1,2,2,9,5,3,1,0,3,11,8,1,1,1
-2017-12-04,Super Lig,2017-18,Trabzonspor,Antalyaspor,3,0,1,5,3,3,0,0,3,6,6,0,0,1
-2017-12-08,Super Lig,2017-18,Bursaspor,Fenerbahce,0,1,2,5,2,3,0,0,1,7,5,0,0,0
-2017-12-09,Super Lig,2017-18,Yeni Malatyaspor,Goztep,2,3,3,5,3,2,0,0,5,8,5,0,1,1
-2017-12-09,Super Lig,2017-18,Antalyaspor,Genclerbirligi,1,1,2,6,1,4,0,0,2,8,5,0,1,0
-2017-12-09,Super Lig,2017-18,Galatasaray,Akhisar Belediyespor,4,2,4,1,3,4,1,1,6,5,7,2,1,1
-2017-12-09,Super Lig,2017-18,Kasimpasa,Trabzonspor,0,3,6,4,2,1,0,0,3,10,3,0,0,1
-2017-12-10,Super Lig,2017-18,Osmanlispor,Alanyaspor,3,0,1,9,3,2,0,0,3,10,5,0,0,1
-2017-12-10,Super Lig,2017-18,Sivasspor,Buyuksehyr,1,0,2,5,4,4,1,0,1,7,8,1,0,0
-2017-12-10,Super Lig,2017-18,Kayserispor,Besiktas,1,1,0,6,5,1,1,0,2,6,6,1,1,0
-2017-12-11,Super Lig,2017-18,Konyaspor,Karabukspor,2,0,3,2,3,4,0,0,2,5,7,0,0,0
-2017-12-16,Super Lig,2017-18,Alanyaspor,Sivasspor,1,1,2,2,2,1,0,0,2,4,3,0,1,0
-2017-12-16,Super Lig,2017-18,Genclerbirligi,Kasimpasa,0,0,7,5,2,1,0,0,0,12,3,0,0,0
-2017-12-16,Super Lig,2017-18,Trabzonspor,Bursaspor,1,0,4,5,3,1,0,0,1,9,4,0,0,0
-2017-12-17,Super Lig,2017-18,Akhisar Belediyespor,Kayserispor,0,2,6,3,3,1,0,0,2,9,4,0,0,0
-2017-12-17,Super Lig,2017-18,Besiktas,Osmanlispor,5,1,12,3,1,3,0,0,6,15,4,0,1,1
-2017-12-17,Super Lig,2017-18,Buyuksehyr,Antalyaspor,4,1,11,0,3,1,0,0,5,11,4,0,1,1
-2017-12-17,Super Lig,2017-18,Yeni Malatyaspor,Galatasaray,2,1,2,8,2,0,0,0,3,10,2,0,1,1
-2017-12-18,Super Lig,2017-18,Fenerbahce,Karabukspor,2,0,10,6,4,6,0,0,2,16,10,0,0,0
-2017-12-18,Super Lig,2017-18,Goztep,Konyaspor,1,0,3,7,2,3,0,0,1,10,5,0,0,0
-2017-12-22,Super Lig,2017-18,Antalyaspor,Alanyaspor,3,1,10,5,5,2,0,0,4,15,7,0,1,1
-2017-12-23,Super Lig,2017-18,Bursaspor,Genclerbirligi,1,1,7,2,2,4,0,0,2,9,6,0,1,0
-2017-12-23,Super Lig,2017-18,Konyaspor,Fenerbahce,1,1,2,7,4,0,0,0,2,9,4,0,1,0
-2017-12-23,Super Lig,2017-18,Sivasspor,Besiktas,2,1,2,15,1,0,0,0,3,17,1,0,1,1
-2017-12-24,Super Lig,2017-18,Karabukspor,Trabzonspor,1,1,5,5,6,2,0,0,2,10,8,0,1,0
-2017-12-24,Super Lig,2017-18,Kasimpasa,Buyuksehyr,1,2,4,3,3,1,0,0,3,7,4,0,1,1
-2017-12-24,Super Lig,2017-18,Galatasaray,Goztep,3,1,3,3,4,2,0,0,4,6,6,0,1,1
-2017-12-24,Super Lig,2017-18,Kayserispor,Yeni Malatyaspor,0,1,5,2,2,4,0,0,1,7,6,0,0,0
-2017-12-25,Super Lig,2017-18,Osmanlispor,Akhisar Belediyespor,3,2,2,3,2,4,0,1,5,5,6,1,1,1
-2018-01-19,Super Lig,2017-18,Kasimpasa,Alanyaspor,3,2,10,3,3,1,0,1,5,13,4,1,1,1
-2018-01-20,Super Lig,2017-18,Fenerbahce,Goztep,2,1,9,4,3,4,0,0,3,13,7,0,1,1
-2018-01-20,Super Lig,2017-18,Karabukspor,Genclerbirligi,0,2,7,2,2,3,0,0,2,9,5,0,0,0
-2018-01-20,Super Lig,2017-18,Osmanlispor,Yeni Malatyaspor,0,0,5,4,1,1,0,0,0,9,2,0,0,0
-2018-01-21,Super Lig,2017-18,Antalyaspor,Besiktas,1,2,5,9,2,1,0,0,3,14,3,0,1,1
-2018-01-21,Super Lig,2017-18,Bursaspor,Buyuksehyr,0,3,6,3,2,3,0,0,3,9,5,0,0,1
-2018-01-21,Super Lig,2017-18,Konyaspor,Trabzonspor,2,2,6,1,4,4,1,1,4,7,8,2,1,1
-2018-01-21,Super Lig,2017-18,Sivasspor,Akhisar Belediyespor,1,1,4,2,3,3,0,1,2,6,6,1,1,0
-2018-01-22,Super Lig,2017-18,Kayserispor,Galatasaray,1,3,7,2,2,0,0,0,4,9,2,0,1,1
-2018-01-26,Super Lig,2017-18,Besiktas,Kasimpasa,2,1,5,4,3,2,0,0,3,9,5,0,1,1
-2018-01-26,Super Lig,2017-18,Genclerbirligi,Konyaspor,2,1,0,5,3,3,1,0,3,5,6,1,1,1
-2018-01-27,Super Lig,2017-18,Alanyaspor,Bursaspor,3,1,5,3,1,3,0,0,4,8,4,0,1,1
-2018-01-27,Super Lig,2017-18,Galatasaray,Osmanlispor,2,0,6,6,0,1,0,0,2,12,1,0,0,0
-2018-01-27,Super Lig,2017-18,Goztep,Kayserispor,1,1,2,1,1,7,0,2,2,3,8,2,1,0
-2018-01-28,Super Lig,2017-18,Akhisar Belediyespor,Antalyaspor,1,1,11,0,3,4,0,0,2,11,7,0,1,0
-2018-01-28,Super Lig,2017-18,Trabzonspor,Fenerbahce,1,1,2,11,2,3,0,0,2,13,5,0,1,0
-2018-01-28,Super Lig,2017-18,Yeni Malatyaspor,Sivasspor,1,0,7,6,4,2,0,0,1,13,6,0,0,0
-2018-01-29,Super Lig,2017-18,Buyuksehyr,Karabukspor,5,0,5,0,0,1,0,0,5,5,1,0,0,1
-2018-02-02,Super Lig,2017-18,Bursaspor,Besiktas,2,2,6,6,4,2,0,0,4,12,6,0,1,1
-2018-02-03,Super Lig,2017-18,Antalyaspor,Yeni Malatyaspor,3,1,6,1,2,2,0,1,4,7,4,1,1,1
-2018-02-03,Super Lig,2017-18,Fenerbahce,Genclerbirligi,2,2,4,3,3,6,0,0,4,7,9,0,1,1
-2018-02-03,Super Lig,2017-18,Karabukspor,Alanyaspor,1,0,8,5,6,2,0,0,1,13,8,0,0,0
-2018-02-04,Super Lig,2017-18,Kasimpasa,Akhisar Belediyespor,2,0,6,4,1,1,0,0,2,10,2,0,0,0
-2018-02-04,Super Lig,2017-18,Konyaspor,Buyuksehyr,1,1,7,7,2,3,0,1,2,14,5,1,1,0
-2018-02-04,Super Lig,2017-18,Osmanlispor,Kayserispor,0,1,8,1,2,2,0,0,1,9,4,0,0,0
-2018-02-04,Super Lig,2017-18,Sivasspor,Galatasaray,2,1,3,5,2,2,0,0,3,8,4,0,1,1
-2018-02-05,Super Lig,2017-18,Trabzonspor,Goztep,0,0,6,3,3,5,0,0,0,9,8,0,0,0
-2018-02-09,Super Lig,2017-18,Yeni Malatyaspor,Kasimpasa,1,1,10,1,2,3,0,0,2,11,5,0,1,0
-2018-02-10,Super Lig,2017-18,Goztep,Osmanlispor,3,3,3,6,4,4,0,0,6,9,8,0,1,1
-2018-02-10,Super Lig,2017-18,Besiktas,Karabukspor,5,0,7,5,3,1,0,0,5,12,4,0,0,1
-2018-02-10,Super Lig,2017-18,Genclerbirligi,Trabzonspor,0,0,7,5,1,2,0,0,0,12,3,0,0,0
-2018-02-11,Super Lig,2017-18,Akhisar Belediyespor,Bursaspor,1,0,3,3,5,2,0,0,1,6,7,0,0,0
-2018-02-11,Super Lig,2017-18,Alanyaspor,Konyaspor,1,2,18,1,4,5,0,1,3,19,9,1,1,1
-2018-02-11,Super Lig,2017-18,Buyuksehyr,Fenerbahce,0,2,5,3,2,0,0,0,2,8,2,0,0,0
-2018-02-11,Super Lig,2017-18,Kayserispor,Sivasspor,1,1,7,3,4,2,0,0,2,10,6,0,1,0
-2018-02-12,Super Lig,2017-18,Galatasaray,Antalyaspor,3,0,8,3,2,3,1,0,3,11,5,1,0,1
-2018-02-16,Super Lig,2017-18,Konyaspor,Besiktas,1,1,3,8,3,6,0,0,2,11,9,0,1,0
-2018-02-17,Super Lig,2017-18,Sivasspor,Osmanlispor,3,2,2,4,3,4,0,0,5,6,7,0,1,1
-2018-02-17,Super Lig,2017-18,Antalyaspor,Kayserispor,2,1,5,5,3,1,0,0,3,10,4,0,1,1
-2018-02-17,Super Lig,2017-18,Fenerbahce,Alanyaspor,3,0,4,1,1,0,0,0,3,5,1,0,0,1
-2018-02-18,Super Lig,2017-18,Bursaspor,Yeni Malatyaspor,0,0,9,2,3,2,0,0,0,11,5,0,0,0
-2018-02-18,Super Lig,2017-18,Karabukspor,Akhisar Belediyespor,0,3,2,1,4,2,0,0,3,3,6,0,0,1
-2018-02-18,Super Lig,2017-18,Kasimpasa,Galatasaray,2,1,1,10,4,3,0,0,3,11,7,0,1,1
-2018-02-18,Super Lig,2017-18,Trabzonspor,Buyuksehyr,0,1,3,7,1,2,0,0,1,10,3,0,0,0
-2018-02-19,Super Lig,2017-18,Genclerbirligi,Goztep,3,0,2,2,1,1,0,1,3,4,2,1,0,1
-2018-02-23,Super Lig,2017-18,Akhisar Belediyespor,Konyaspor,3,0,0,3,3,2,0,0,3,3,5,0,0,1
-2018-02-23,Super Lig,2017-18,Galatasaray,Bursaspor,5,0,9,0,1,0,0,1,5,9,1,1,0,1
-2018-02-24,Super Lig,2017-18,Kayserispor,Kasimpasa,3,2,7,2,2,3,0,1,5,9,5,1,1,1
-2018-02-24,Super Lig,2017-18,Alanyaspor,Trabzonspor,1,2,5,7,6,4,0,0,3,12,10,0,1,1
-2018-02-25,Super Lig,2017-18,Besiktas,Fenerbahce,3,1,6,1,3,2,0,0,4,7,5,0,1,1
-2018-02-25,Super Lig,2017-18,Goztep,Sivasspor,1,0,7,1,5,1,0,0,1,8,6,0,0,0
-2018-02-25,Super Lig,2017-18,Osmanlispor,Antalyaspor,0,0,4,5,3,1,0,0,0,9,4,0,0,0
-2018-02-25,Super Lig,2017-18,Yeni Malatyaspor,Karabukspor,3,1,2,5,2,4,0,0,4,7,6,0,1,1
-2018-02-26,Super Lig,2017-18,Buyuksehyr,Genclerbirligi,1,1,7,5,3,0,0,0,2,12,3,0,1,0
-2018-03-02,Super Lig,2017-18,Bursaspor,Kayserispor,1,0,5,1,0,4,0,0,1,6,4,0,0,0
-2018-03-03,Super Lig,2017-18,Kasimpasa,Osmanlispor,1,1,9,3,3,5,0,0,2,12,8,0,1,0
-2018-03-03,Super Lig,2017-18,Karabukspor,Galatasaray,0,7,4,6,2,4,0,0,7,10,6,0,0,1
-2018-03-03,Super Lig,2017-18,Buyuksehyr,Goztep,2,0,10,4,0,3,0,0,2,14,3,0,0,0
-2018-03-04,Super Lig,2017-18,Antalyaspor,Sivasspor,1,4,6,2,3,3,0,0,5,8,6,0,1,1
-2018-03-04,Super Lig,2017-18,Fenerbahce,Akhisar Belediyespor,2,3,9,3,0,5,0,0,5,12,5,0,1,1
-2018-03-04,Super Lig,2017-18,Genclerbirligi,Alanyaspor,0,1,6,1,4,2,0,0,1,7,6,0,0,0
-2018-03-04,Super Lig,2017-18,Konyaspor,Yeni Malatyaspor,0,1,5,4,2,2,0,0,1,9,4,0,0,0
-2018-03-05,Super Lig,2017-18,Trabzonspor,Besiktas,0,2,2,2,1,2,0,0,2,4,3,0,0,0
-2018-03-09,Super Lig,2017-18,Alanyaspor,Buyuksehyr,4,1,0,1,2,4,1,1,5,1,6,2,1,1
-2018-03-10,Super Lig,2017-18,Besiktas,Genclerbirligi,1,0,9,2,3,2,0,0,1,11,5,0,0,0
-2018-03-10,Super Lig,2017-18,Osmanlispor,Bursaspor,2,1,4,8,4,3,0,0,3,12,7,0,1,1
-2018-03-10,Super Lig,2017-18,Sivasspor,Kasimpasa,2,2,2,0,2,2,0,0,4,2,4,0,1,1
-2018-03-11,Super Lig,2017-18,Galatasaray,Konyaspor,2,1,8,2,4,6,0,0,3,10,10,0,1,1
-2018-03-11,Super Lig,2017-18,Goztep,Antalyaspor,2,1,5,7,3,5,0,1,3,12,8,1,1,1
-2018-03-11,Super Lig,2017-18,Kayserispor,Karabukspor,3,2,13,2,1,3,0,1,5,15,4,1,1,1
-2018-03-11,Super Lig,2017-18,Yeni Malatyaspor,Fenerbahce,0,2,13,3,0,2,0,0,2,16,2,0,0,0
-2018-03-12,Super Lig,2017-18,Akhisar Belediyespor,Trabzonspor,1,3,8,4,4,2,1,0,4,12,6,1,1,1
-2018-03-16,Super Lig,2017-18,Kasimpasa,Antalyaspor,2,3,9,7,2,3,1,0,5,16,5,1,1,1
-2018-03-16,Super Lig,2017-18,Karabukspor,Osmanlispor,0,4,3,5,2,2,0,0,4,8,4,0,0,1
-2018-03-17,Super Lig,2017-18,Fenerbahce,Galatasaray,0,0,10,3,2,3,0,0,0,13,5,0,0,0
-2018-03-17,Super Lig,2017-18,Genclerbirligi,Akhisar Belediyespor,1,1,5,6,2,1,0,0,2,11,3,0,1,0
-2018-03-17,Super Lig,2017-18,Bursaspor,Sivasspor,1,0,3,5,3,2,0,0,1,8,5,0,0,0
-2018-03-18,Super Lig,2017-18,Alanyaspor,Goztep,1,1,8,1,1,4,0,0,2,9,5,0,1,0
-2018-03-18,Super Lig,2017-18,Buyuksehyr,Besiktas,1,0,3,10,5,4,1,0,1,13,9,1,0,0
-2018-03-18,Super Lig,2017-18,Konyaspor,Kayserispor,2,0,6,4,2,2,1,1,2,10,4,2,0,0
-2018-03-18,Super Lig,2017-18,Trabzonspor,Yeni Malatyaspor,4,1,4,3,2,1,0,0,5,7,3,0,1,1
-2018-03-30,Super Lig,2017-18,Sivasspor,Karabukspor,1,0,10,1,3,3,0,0,1,11,6,0,0,0
-2018-03-31,Super Lig,2017-18,Antalyaspor,Bursaspor,2,0,1,7,2,1,0,0,2,8,3,0,0,0
-2018-03-31,Super Lig,2017-18,Besiktas,Alanyaspor,1,0,6,2,5,2,0,0,1,8,7,0,0,0
-2018-03-31,Super Lig,2017-18,Yeni Malatyaspor,Genclerbirligi,4,1,7,4,1,1,0,0,5,11,2,0,1,1
-2018-04-01,Super Lig,2017-18,Osmanlispor,Konyaspor,0,0,3,4,1,0,0,0,0,7,1,0,0,0
-2018-04-01,Super Lig,2017-18,Goztep,Kasimpasa,0,2,14,1,4,1,1,0,2,15,5,1,0,0
-2018-04-01,Super Lig,2017-18,Akhisar Belediyespor,Buyuksehyr,1,2,2,5,1,1,1,0,3,7,2,1,1,1
-2018-04-01,Super Lig,2017-18,Galatasaray,Trabzonspor,2,1,4,1,2,3,0,0,3,5,5,0,1,1
-2018-04-02,Super Lig,2017-18,Kayserispor,Fenerbahce,0,5,7,4,2,2,0,0,5,11,4,0,0,1
-2018-04-06,Super Lig,2017-18,Buyuksehyr,Yeni Malatyaspor,1,0,5,4,1,1,0,0,1,9,2,0,0,0
-2018-04-07,Super Lig,2017-18,Besiktas,Goztep,5,1,3,5,1,6,0,1,6,8,7,1,1,1
-2018-04-07,Super Lig,2017-18,Karabukspor,Antalyaspor,1,2,3,4,1,0,0,0,3,7,1,0,1,1
-2018-04-07,Super Lig,2017-18,Trabzonspor,Kayserispor,4,0,6,3,1,2,0,0,4,9,3,0,0,1
-2018-04-08,Super Lig,2017-18,Konyaspor,Sivasspor,5,0,4,8,2,0,0,1,5,12,2,1,0,1
-2018-04-08,Super Lig,2017-18,Fenerbahce,Osmanlispor,2,0,9,2,1,2,0,0,2,11,3,0,0,0
-2018-04-08,Super Lig,2017-18,Alanyaspor,Akhisar Belediyespor,3,1,8,6,4,2,0,0,4,14,6,0,1,1
-2018-04-08,Super Lig,2017-18,Bursaspor,Kasimpasa,0,1,9,0,2,2,0,0,1,9,4,0,0,0
-2018-04-09,Super Lig,2017-18,Genclerbirligi,Galatasaray,1,0,5,6,2,3,0,0,1,11,5,0,0,0
-2018-04-13,Super Lig,2017-18,Akhisar Belediyespor,Besiktas,0,3,4,7,0,1,0,0,3,11,1,0,0,1
-2018-04-14,Super Lig,2017-18,Kasimpasa,Karabukspor,2,0,7,7,1,2,0,0,2,14,3,0,0,0
-2018-04-14,Super Lig,2017-18,Sivasspor,Fenerbahce,1,2,2,4,3,2,0,0,3,6,5,0,1,1
-2018-04-14,Super Lig,2017-18,Yeni Malatyaspor,Alanyaspor,1,1,2,5,3,2,0,0,2,7,5,0,1,0
-2018-04-15,Super Lig,2017-18,Goztep,Bursaspor,2,1,6,5,1,4,0,0,3,11,5,0,1,1
-2018-04-15,Super Lig,2017-18,Antalyaspor,Konyaspor,0,0,3,6,2,2,0,0,0,9,4,0,0,0
-2018-04-15,Super Lig,2017-18,Galatasaray,Buyuksehyr,2,0,5,1,3,3,0,0,2,6,6,0,0,0
-2018-04-15,Super Lig,2017-18,Kayserispor,Genclerbirligi,3,2,1,7,2,3,0,0,5,8,5,0,1,1
-2018-04-16,Super Lig,2017-18,Osmanlispor,Trabzonspor,3,3,6,3,0,1,0,0,6,9,1,0,1,1
-2018-04-20,Super Lig,2017-18,Buyuksehyr,Kayserispor,3,1,4,3,1,1,0,0,4,7,2,0,1,1
-2018-04-21,Super Lig,2017-18,Karabukspor,Bursaspor,1,4,2,3,2,4,1,0,5,5,6,1,1,1
-2018-04-21,Super Lig,2017-18,Trabzonspor,Sivasspor,0,2,6,1,2,1,0,0,2,7,3,0,0,0
-2018-04-21,Super Lig,2017-18,Alanyaspor,Galatasaray,2,3,6,1,3,2,0,0,5,7,5,0,1,1
-2018-04-21,Super Lig,2017-18,Genclerbirligi,Osmanlispor,0,3,4,5,2,1,0,0,3,9,3,0,0,1
-2018-04-22,Super Lig,2017-18,Konyaspor,Kasimpasa,2,0,9,8,2,1,0,0,2,17,3,0,0,0
-2018-04-22,Super Lig,2017-18,Besiktas,Yeni Malatyaspor,3,1,7,0,0,2,0,0,4,7,2,0,1,1
-2018-04-22,Super Lig,2017-18,Akhisar Belediyespor,Goztep,1,1,3,7,2,3,0,0,2,10,5,0,1,0
-2018-04-23,Super Lig,2017-18,Fenerbahce,Antalyaspor,4,1,7,2,1,2,0,0,5,9,3,0,1,1
-2018-04-27,Super Lig,2017-18,Goztep,Karabukspor,5,0,6,2,0,1,0,0,5,8,1,0,0,1
-2018-04-28,Super Lig,2017-18,Antalyaspor,Trabzonspor,1,2,9,4,4,3,0,0,3,13,7,0,1,1
-2018-04-28,Super Lig,2017-18,Kasimpasa,Fenerbahce,1,4,5,2,2,1,0,0,5,7,3,0,1,1
-2018-04-28,Super Lig,2017-18,Kayserispor,Alanyaspor,1,2,1,4,5,0,1,0,3,5,5,1,1,1
-2018-04-28,Super Lig,2017-18,Sivasspor,Genclerbirligi,1,0,4,5,0,4,0,0,1,9,4,0,0,0
-2018-04-29,Super Lig,2017-18,Galatasaray,Besiktas,2,0,7,2,2,2,0,1,2,9,4,1,0,0
-2018-04-29,Super Lig,2017-18,Osmanlispor,Buyuksehyr,1,4,6,10,3,2,0,0,5,16,5,0,1,1
-2018-04-29,Super Lig,2017-18,Yeni Malatyaspor,Akhisar Belediyespor,0,0,4,5,0,1,0,0,0,9,1,0,0,0
-2018-04-30,Super Lig,2017-18,Bursaspor,Konyaspor,2,1,7,2,6,3,0,0,3,9,9,0,1,1
-2018-05-04,Super Lig,2017-18,Buyuksehyr,Sivasspor,1,1,3,4,5,0,2,0,2,7,5,2,1,0
-2018-05-05,Super Lig,2017-18,Alanyaspor,Osmanlispor,1,1,5,3,6,2,0,0,2,8,8,0,1,0
-2018-05-05,Super Lig,2017-18,Karabukspor,Konyaspor,0,1,1,9,5,2,0,0,1,10,7,0,0,0
-2018-05-05,Super Lig,2017-18,Trabzonspor,Kasimpasa,2,5,8,3,4,2,2,0,7,11,6,2,1,1
-2018-05-06,Super Lig,2017-18,Genclerbirligi,Antalyaspor,0,1,4,5,3,2,0,0,1,9,5,0,0,0
-2018-05-06,Super Lig,2017-18,Akhisar Belediyespor,Galatasaray,1,2,4,4,5,2,1,0,3,8,7,1,1,1
-2018-05-06,Super Lig,2017-18,Fenerbahce,Bursaspor,2,1,5,4,2,2,0,2,3,9,4,2,1,1
-2018-05-07,Super Lig,2017-18,Besiktas,Kayserispor,2,0,7,7,2,4,1,1,2,14,6,2,0,0
-2018-05-07,Super Lig,2017-18,Goztep,Yeni Malatyaspor,0,0,8,0,3,1,0,0,0,8,4,0,0,0
-2018-05-11,Super Lig,2017-18,Antalyaspor,Buyuksehyr,0,2,5,3,1,1,0,0,2,8,2,0,0,0
-2018-05-12,Super Lig,2017-18,Galatasaray,Yeni Malatyaspor,2,0,3,2,1,5,0,0,2,5,6,0,0,0
-2018-05-12,Super Lig,2017-18,Kasimpasa,Genclerbirligi,3,1,3,5,4,3,0,1,4,8,7,1,1,1
-2018-05-12,Super Lig,2017-18,Konyaspor,Goztep,1,1,7,10,2,6,0,1,2,17,8,1,1,0
-2018-05-13,Super Lig,2017-18,Bursaspor,Trabzonspor,1,3,7,3,2,3,0,0,4,10,5,0,1,1
-2018-05-13,Super Lig,2017-18,Osmanlispor,Besiktas,2,3,5,6,0,1,0,0,5,11,1,0,1,1
-2018-05-13,Super Lig,2017-18,Sivasspor,Alanyaspor,2,2,4,2,3,7,0,0,4,6,10,0,1,1
-2018-05-14,Super Lig,2017-18,Karabukspor,Fenerbahce,0,7,2,12,2,2,0,0,7,14,4,0,0,1
-2018-05-14,Super Lig,2017-18,Kayserispor,Akhisar Belediyespor,1,2,8,1,2,3,0,0,3,9,5,0,1,1
-2018-05-18,Super Lig,2017-18,Trabzonspor,Karabukspor,3,0,5,9,1,3,0,0,3,14,4,0,0,1
-2018-05-18,Super Lig,2017-18,Genclerbirligi,Bursaspor,1,0,3,5,0,0,0,0,1,8,0,0,0,0
-2018-05-18,Super Lig,2017-18,Yeni Malatyaspor,Kayserispor,3,2,3,9,0,1,0,0,5,12,1,0,1,1
-2018-05-18,Super Lig,2017-18,Akhisar Belediyespor,Osmanlispor,2,1,3,3,0,0,0,0,3,6,0,0,1,1
-2018-05-18,Super Lig,2017-18,Alanyaspor,Antalyaspor,3,2,6,5,2,1,0,0,5,11,3,0,1,1
-2018-05-19,Super Lig,2017-18,Buyuksehyr,Kasimpasa,3,2,8,2,3,3,0,0,5,10,6,0,1,1
-2018-05-19,Super Lig,2017-18,Fenerbahce,Konyaspor,3,2,7,4,0,3,0,0,5,11,3,0,1,1
-2018-05-19,Super Lig,2017-18,Besiktas,Sivasspor,5,1,7,4,3,4,0,0,6,11,7,0,1,1
-2018-05-19,Super Lig,2017-18,Goztep,Galatasaray,0,1,4,3,1,2,0,1,1,7,3,1,0,0
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2017-08-11,Super Lig,2017-18,Buyuksehyr,Bursaspor,1,0,0,3,1,1,0,0,1,3,2,0,0,0,1.36,4.75,8.5,1.42,4.92,8.46
+2017-08-12,Super Lig,2017-18,Akhisar Belediyespor,Sivasspor,1,0,3,4,3,2,0,0,1,7,5,0,0,0,2.0,3.4,3.75,2.06,3.53,3.88
+2017-08-12,Super Lig,2017-18,Alanyaspor,Kasimpasa,1,3,5,3,2,4,0,0,4,8,6,0,1,1,2.15,3.4,3.3,2.21,3.79,3.24
+2017-08-12,Super Lig,2017-18,Genclerbirligi,Karabukspor,1,1,4,1,2,3,0,0,2,5,5,0,1,0,2.0,3.5,3.6,2.01,3.37,4.33
+2017-08-12,Super Lig,2017-18,Goztep,Fenerbahce,2,2,0,4,4,1,0,0,4,4,5,0,1,1,4.75,3.6,1.73,5.02,3.91,1.76
+2017-08-13,Super Lig,2017-18,Besiktas,Antalyaspor,2,0,3,3,3,4,0,0,2,6,7,0,0,0,1.4,4.5,7.5,1.47,4.8,7.27
+2017-08-13,Super Lig,2017-18,Trabzonspor,Konyaspor,2,1,1,6,4,2,0,0,3,7,6,0,1,1,1.65,3.5,5.75,1.69,3.8,5.82
+2017-08-13,Super Lig,2017-18,Yeni Malatyaspor,Osmanlispor,3,1,3,5,1,3,0,1,4,8,4,1,1,1,2.88,3.2,2.5,2.7,3.4,2.37
+2017-08-14,Super Lig,2017-18,Galatasaray,Kayserispor,4,1,2,2,2,4,0,1,5,4,6,1,1,1,1.53,3.75,7.0,1.58,4.49,5.88
+2017-08-18,Super Lig,2017-18,Kasimpasa,Besiktas,2,2,4,4,4,2,0,0,4,8,6,0,1,1,4.75,4.0,1.67,5.0,4.28,1.69
+2017-08-19,Super Lig,2017-18,Bursaspor,Alanyaspor,3,2,1,2,2,2,0,0,5,3,4,0,1,1,2.0,3.6,3.5,2.14,3.61,3.55
+2017-08-19,Super Lig,2017-18,Karabukspor,Buyuksehyr,3,1,5,1,2,1,0,0,4,6,3,0,1,1,3.5,3.4,2.05,3.47,3.47,2.23
+2017-08-19,Super Lig,2017-18,Osmanlispor,Galatasaray,1,3,4,5,2,2,0,0,4,9,4,0,1,1,4.5,3.5,1.8,4.33,3.75,1.89
+2017-08-19,Super Lig,2017-18,Sivasspor,Yeni Malatyaspor,2,0,4,7,3,2,0,0,2,11,5,0,0,0,2.1,3.3,3.5,2.21,3.27,3.76
+2017-08-20,Super Lig,2017-18,Antalyaspor,Akhisar Belediyespor,2,2,3,4,3,2,0,0,4,7,5,0,1,1,1.91,3.5,3.9,1.99,3.46,4.28
+2017-08-20,Super Lig,2017-18,Fenerbahce,Trabzonspor,2,2,4,9,2,4,0,0,4,13,6,0,1,1,1.8,3.5,4.5,1.84,3.64,4.83
+2017-08-20,Super Lig,2017-18,Kayserispor,Goztep,1,0,3,5,3,1,0,0,1,8,4,0,0,0,2.0,3.4,3.75,2.04,3.51,4.0
+2017-08-21,Super Lig,2017-18,Konyaspor,Genclerbirligi,3,0,1,2,1,1,0,0,3,3,2,0,0,1,2.2,3.2,3.4,2.23,3.23,3.74
+2017-08-25,Super Lig,2017-18,Galatasaray,Sivasspor,3,0,6,5,3,0,0,0,3,11,3,0,0,1,1.36,4.75,8.5,1.37,5.39,9.2
+2017-08-25,Super Lig,2017-18,Alanyaspor,Karabukspor,1,1,9,2,1,5,0,0,2,11,6,0,1,0,2.1,3.5,3.3,2.16,3.64,3.48
+2017-08-26,Super Lig,2017-18,Besiktas,Bursaspor,2,1,8,4,2,3,0,0,3,12,5,0,1,1,1.36,5.0,7.5,1.4,5.51,7.85
+2017-08-26,Super Lig,2017-18,Goztep,Trabzonspor,3,2,3,4,2,4,0,0,5,7,6,0,1,1,3.8,3.3,2.0,3.89,3.6,2.04
+2017-08-26,Super Lig,2017-18,Kayserispor,Osmanlispor,2,2,6,3,5,1,1,1,4,9,6,2,1,1,2.4,3.3,2.9,2.41,3.48,3.09
+2017-08-26,Super Lig,2017-18,Yeni Malatyaspor,Antalyaspor,1,1,10,1,3,2,0,0,2,11,5,0,1,0,3.0,3.1,2.45,2.87,3.46,2.58
+2017-08-27,Super Lig,2017-18,Akhisar Belediyespor,Kasimpasa,2,1,4,3,3,3,1,0,3,7,6,1,1,1,2.0,3.3,3.8,2.02,3.74,3.81
+2017-08-27,Super Lig,2017-18,Buyuksehyr,Konyaspor,2,1,6,7,4,5,0,1,3,13,9,1,1,1,1.44,4.75,6.0,1.52,4.28,7.4
+2017-08-27,Super Lig,2017-18,Genclerbirligi,Fenerbahce,1,2,8,3,3,4,2,0,3,11,7,2,1,1,4.0,3.5,1.95,4.08,3.54,2.01
+2017-09-09,Super Lig,2017-18,Sivasspor,Kayserispor,0,2,6,4,2,2,0,0,2,10,4,0,0,0,2.25,3.2,3.2,2.22,3.45,3.57
+2017-09-09,Super Lig,2017-18,Konyaspor,Alanyaspor,0,2,12,5,3,2,0,0,2,17,5,0,0,0,2.0,3.3,3.75,2.16,3.61,3.5
+2017-09-09,Super Lig,2017-18,Karabukspor,Besiktas,0,1,3,4,3,4,0,1,1,7,7,1,0,0,4.33,3.4,1.85,4.22,3.73,1.93
+2017-09-09,Super Lig,2017-18,Fenerbahce,Buyuksehyr,2,3,5,3,2,4,0,0,5,8,6,0,1,1,2.05,3.25,3.75,2.22,3.49,3.47
+2017-09-10,Super Lig,2017-18,Antalyaspor,Galatasaray,1,1,10,0,0,1,0,0,2,10,1,0,1,0,3.75,3.6,1.91,4.14,3.85,1.91
+2017-09-10,Super Lig,2017-18,Bursaspor,Akhisar Belediyespor,3,0,4,7,2,1,0,0,3,11,3,0,0,1,2.38,3.3,2.9,2.52,3.58,2.87
+2017-09-10,Super Lig,2017-18,Osmanlispor,Goztep,0,2,3,4,1,1,0,0,2,7,2,0,0,0,1.8,3.75,4.2,1.86,3.8,4.43
+2017-09-10,Super Lig,2017-18,Trabzonspor,Genclerbirligi,3,1,4,5,4,7,0,0,4,9,11,0,1,1,1.57,3.8,6.0,1.6,4.05,6.61
+2017-09-11,Super Lig,2017-18,Kasimpasa,Yeni Malatyaspor,3,2,3,7,3,2,0,0,5,10,5,0,1,1,1.8,3.75,4.2,1.86,3.95,4.28
+2017-09-15,Super Lig,2017-18,Kayserispor,Antalyaspor,2,0,5,5,2,5,0,0,2,10,7,0,0,0,2.38,3.3,2.9,2.53,3.47,2.93
+2017-09-16,Super Lig,2017-18,Yeni Malatyaspor,Bursaspor,2,4,5,3,3,3,0,0,6,8,6,0,1,1,2.4,3.4,2.8,,,
+2017-09-16,Super Lig,2017-18,Akhisar Belediyespor,Karabukspor,2,1,2,3,2,3,0,0,3,5,5,0,1,1,1.85,3.6,4.0,1.94,3.73,4.12
+2017-09-16,Super Lig,2017-18,Galatasaray,Kasimpasa,2,0,11,2,1,4,0,0,2,13,5,0,0,0,1.3,5.75,8.5,1.33,5.9,9.4
+2017-09-17,Super Lig,2017-18,Alanyaspor,Fenerbahce,1,4,3,6,0,3,0,0,5,9,3,0,1,1,3.4,3.5,2.05,3.38,3.82,2.14
+2017-09-17,Super Lig,2017-18,Buyuksehyr,Trabzonspor,2,2,4,0,5,2,0,0,4,4,7,0,1,1,1.85,3.4,4.33,1.88,3.8,4.36
+2017-09-17,Super Lig,2017-18,Goztep,Genclerbirligi,3,2,5,6,3,4,0,0,5,11,7,0,1,1,2.0,3.4,3.75,2.03,3.5,4.05
+2017-09-17,Super Lig,2017-18,Osmanlispor,Sivasspor,2,4,6,7,2,6,0,0,6,13,8,0,1,1,1.85,3.3,4.5,1.99,3.61,4.07
+2017-09-18,Super Lig,2017-18,Besiktas,Konyaspor,2,0,3,2,2,2,0,0,2,5,4,0,0,0,1.4,4.5,7.5,1.47,4.8,7.31
+2017-09-22,Super Lig,2017-18,Trabzonspor,Alanyaspor,3,4,5,5,4,4,0,0,7,10,8,0,1,1,1.45,4.5,6.5,1.53,4.92,5.9
+2017-09-23,Super Lig,2017-18,Konyaspor,Akhisar Belediyespor,2,0,2,6,2,2,0,0,2,8,4,0,0,0,2.7,3.1,2.7,2.69,3.3,2.86
+2017-09-23,Super Lig,2017-18,Genclerbirligi,Buyuksehyr,1,0,3,3,3,2,0,0,1,6,5,0,0,0,5.0,3.5,1.73,4.98,3.77,1.79
+2017-09-23,Super Lig,2017-18,Fenerbahce,Besiktas,2,1,5,8,3,9,2,3,3,13,12,5,1,1,2.6,3.2,2.75,2.67,3.44,2.78
+2017-09-24,Super Lig,2017-18,Bursaspor,Galatasaray,1,2,6,9,0,2,0,0,3,15,2,0,1,1,5.75,3.8,1.6,5.26,4.22,1.67
+2017-09-24,Super Lig,2017-18,Karabukspor,Yeni Malatyaspor,2,4,4,4,2,2,0,0,6,8,4,0,1,1,1.85,3.5,4.2,1.97,3.65,4.1
+2017-09-24,Super Lig,2017-18,Kasimpasa,Kayserispor,1,1,2,5,1,1,0,0,2,7,2,0,1,0,2.15,3.5,3.2,2.23,3.54,3.4
+2017-09-24,Super Lig,2017-18,Sivasspor,Goztep,2,3,6,2,0,1,1,0,5,8,1,1,1,1,2.05,3.3,3.6,2.15,3.57,3.57
+2017-09-25,Super Lig,2017-18,Antalyaspor,Osmanlispor,3,0,4,3,4,3,1,0,3,7,7,1,0,1,2.0,3.4,3.75,2.08,3.61,3.75
+2017-09-29,Super Lig,2017-18,Akhisar Belediyespor,Fenerbahce,1,0,3,3,3,5,0,2,1,6,8,2,0,0,3.4,3.2,2.2,3.25,3.72,2.23
+2017-09-30,Super Lig,2017-18,Sivasspor,Antalyaspor,3,1,4,3,2,5,1,0,4,7,7,1,1,1,2.38,3.3,2.9,2.45,3.45,3.07
+2017-09-30,Super Lig,2017-18,Kayserispor,Bursaspor,3,1,5,7,1,2,0,0,4,12,3,0,1,1,2.0,3.4,3.75,2.11,3.67,3.61
+2017-09-30,Super Lig,2017-18,Galatasaray,Karabukspor,3,2,8,3,4,3,0,0,5,11,7,0,1,1,1.3,5.0,10.0,1.36,5.6,8.99
+2017-09-30,Super Lig,2017-18,Osmanlispor,Kasimpasa,3,0,4,3,2,2,0,0,3,7,4,0,0,1,1.95,3.75,3.5,2.05,3.77,3.66
+2017-10-01,Super Lig,2017-18,Alanyaspor,Genclerbirligi,4,1,2,4,2,4,1,0,5,6,6,1,1,1,2.0,3.5,3.6,2.04,3.75,3.73
+2017-10-01,Super Lig,2017-18,Besiktas,Trabzonspor,2,2,1,4,4,4,0,0,4,5,8,0,1,1,1.85,3.4,4.33,1.9,3.84,4.19
+2017-10-01,Super Lig,2017-18,Goztep,Buyuksehyr,1,2,8,4,0,0,0,0,3,12,0,0,1,1,3.6,3.6,1.95,4.05,3.75,1.95
+2017-10-01,Super Lig,2017-18,Yeni Malatyaspor,Konyaspor,1,1,3,2,5,2,1,0,2,5,7,1,1,0,2.38,3.2,3.0,,,
+2017-10-13,Super Lig,2017-18,Genclerbirligi,Besiktas,2,1,4,9,3,0,0,1,3,13,3,1,1,1,5.5,4.0,1.57,5.92,4.24,1.61
+2017-10-14,Super Lig,2017-18,Antalyaspor,Goztep,1,3,5,2,4,3,1,0,4,7,7,1,1,1,2.0,3.5,3.6,2.09,3.75,3.58
+2017-10-14,Super Lig,2017-18,Buyuksehyr,Alanyaspor,2,1,6,4,2,1,0,0,3,10,3,0,1,1,1.5,4.33,6.0,1.5,4.98,6.36
+2017-10-14,Super Lig,2017-18,Karabukspor,Kayserispor,1,0,4,5,5,1,1,0,1,9,6,1,0,0,2.25,3.3,3.2,2.45,3.45,3.05
+2017-10-14,Super Lig,2017-18,Konyaspor,Galatasaray,0,2,6,5,2,1,0,0,2,11,3,0,0,0,5.0,3.8,1.65,4.95,4.11,1.72
+2017-10-15,Super Lig,2017-18,Trabzonspor,Akhisar Belediyespor,1,6,6,2,1,2,0,0,7,8,3,0,1,1,1.7,3.75,4.75,1.81,3.98,4.52
+2017-10-15,Super Lig,2017-18,Fenerbahce,Yeni Malatyaspor,3,1,7,4,1,1,0,0,4,11,2,0,1,1,1.45,4.5,6.5,1.48,4.88,7.0
+2017-10-15,Super Lig,2017-18,Kasimpasa,Sivasspor,2,3,6,5,4,4,0,0,5,11,8,0,1,1,2.25,3.4,3.1,2.31,3.47,3.27
+2017-10-16,Super Lig,2017-18,Bursaspor,Osmanlispor,3,1,5,8,2,4,1,0,4,13,6,1,1,1,2.5,3.2,2.8,2.51,3.38,3.03
+2017-10-20,Super Lig,2017-18,Goztep,Alanyaspor,3,3,4,9,1,5,0,0,6,13,6,0,1,1,1.9,3.79,3.6,2.0,3.73,3.91
+2017-10-20,Super Lig,2017-18,Antalyaspor,Kasimpasa,2,1,6,5,4,5,0,1,3,11,9,1,1,1,1.72,3.89,4.33,1.79,3.98,4.68
+2017-10-21,Super Lig,2017-18,Yeni Malatyaspor,Trabzonspor,1,0,5,2,3,5,0,2,1,7,8,2,0,0,3.39,3.25,2.14,3.49,3.64,2.16
+2017-10-21,Super Lig,2017-18,Osmanlispor,Karabukspor,3,0,2,5,2,1,0,0,3,7,3,0,0,1,1.72,3.6,5.0,1.77,3.97,4.8
+2017-10-21,Super Lig,2017-18,Akhisar Belediyespor,Genclerbirligi,3,3,2,3,0,3,0,1,6,5,3,1,1,1,1.72,3.6,4.75,1.7,3.97,5.35
+2017-10-22,Super Lig,2017-18,Galatasaray,Fenerbahce,0,0,8,6,5,2,1,0,0,14,7,1,0,0,1.83,3.39,4.5,1.92,3.91,4.03
+2017-10-22,Super Lig,2017-18,Kayserispor,Konyaspor,2,1,4,3,0,2,0,0,3,7,2,0,1,1,1.83,3.5,4.2,1.92,3.6,4.42
+2017-10-22,Super Lig,2017-18,Sivasspor,Bursaspor,0,0,5,4,1,2,0,0,0,9,3,0,0,0,1.95,3.39,3.79,2.08,3.82,3.53
+2017-10-23,Super Lig,2017-18,Besiktas,Buyuksehyr,1,1,9,5,5,2,0,0,2,14,7,0,1,0,1.75,3.5,4.75,1.74,3.95,5.06
+2017-10-27,Super Lig,2017-18,Kasimpasa,Goztep,3,1,5,3,1,0,0,0,4,8,1,0,1,1,2.37,3.39,2.87,2.44,3.73,2.88
+2017-10-28,Super Lig,2017-18,Alanyaspor,Besiktas,1,2,7,11,3,1,0,0,3,18,4,0,1,1,5.25,3.75,1.64,4.8,4.13,1.74
+2017-10-28,Super Lig,2017-18,Buyuksehyr,Akhisar Belediyespor,2,1,5,2,2,3,0,0,3,7,5,0,1,1,1.66,3.5,5.75,1.74,3.79,5.43
+2017-10-28,Super Lig,2017-18,Genclerbirligi,Yeni Malatyaspor,0,1,2,4,1,4,1,0,1,6,5,1,0,0,2.0,3.39,3.75,2.0,3.46,4.23
+2017-10-29,Super Lig,2017-18,Bursaspor,Antalyaspor,4,0,4,5,0,0,0,1,4,9,0,1,0,1,2.39,3.25,2.89,2.4,3.85,2.87
+2017-10-29,Super Lig,2017-18,Karabukspor,Sivasspor,0,1,11,1,4,0,0,0,1,12,4,0,0,0,2.5,3.25,2.79,2.58,3.46,2.86
+2017-10-29,Super Lig,2017-18,Konyaspor,Osmanlispor,1,0,8,2,2,2,0,0,1,10,4,0,0,0,2.7,3.1,2.7,2.64,3.49,2.78
+2017-10-29,Super Lig,2017-18,Trabzonspor,Galatasaray,2,1,4,2,0,5,1,2,3,6,5,3,1,1,3.89,3.89,1.8,4.09,4.07,1.87
+2017-10-30,Super Lig,2017-18,Fenerbahce,Kayserispor,3,3,6,6,3,1,0,0,6,12,4,0,1,1,1.44,4.33,7.0,1.48,4.87,6.97
+2017-11-03,Super Lig,2017-18,Galatasaray,Genclerbirligi,5,1,4,7,1,5,0,0,6,11,6,0,1,1,1.33,5.25,8.0,1.33,5.55,10.55
+2017-11-04,Super Lig,2017-18,Kayserispor,Trabzonspor,0,0,9,1,2,3,0,0,0,10,5,0,0,0,2.79,3.2,2.5,2.76,3.61,2.6
+2017-11-04,Super Lig,2017-18,Osmanlispor,Fenerbahce,1,1,6,11,2,5,0,0,2,17,7,0,1,0,3.7,3.6,1.95,3.83,3.66,2.04
+2017-11-04,Super Lig,2017-18,Antalyaspor,Karabukspor,2,1,3,9,3,2,0,1,3,12,5,1,1,1,1.66,3.5,5.5,1.7,4.08,5.19
+2017-11-04,Super Lig,2017-18,Kasimpasa,Bursaspor,2,2,1,4,2,3,1,0,4,5,5,1,1,1,2.25,3.5,3.0,2.46,3.59,2.91
+2017-11-05,Super Lig,2017-18,Akhisar Belediyespor,Alanyaspor,0,4,3,6,2,2,0,0,4,9,4,0,0,1,1.9,3.5,4.0,1.88,4.22,3.91
+2017-11-05,Super Lig,2017-18,Goztep,Besiktas,1,3,8,3,1,1,1,0,4,11,2,1,1,1,4.33,4.2,1.66,4.63,4.44,1.71
+2017-11-05,Super Lig,2017-18,Sivasspor,Konyaspor,2,1,7,2,0,2,0,0,3,9,2,0,1,1,2.2,3.2,3.39,2.34,3.38,3.32
+2017-11-05,Super Lig,2017-18,Yeni Malatyaspor,Buyuksehyr,0,2,2,8,1,2,0,0,2,10,3,0,0,0,3.5,3.39,2.04,3.55,3.5,2.18
+2017-11-17,Super Lig,2017-18,Besiktas,Akhisar Belediyespor,0,0,11,5,4,6,0,1,0,16,10,1,0,0,1.39,4.75,7.0,1.45,5.05,7.2
+2017-11-18,Super Lig,2017-18,Bursaspor,Goztep,0,0,11,5,0,3,0,0,0,16,3,0,0,0,1.95,3.75,3.5,2.02,4.1,3.48
+2017-11-18,Super Lig,2017-18,Buyuksehyr,Galatasaray,5,1,4,5,0,2,0,0,6,9,2,0,1,1,2.7,3.2,2.62,2.77,3.63,2.59
+2017-11-18,Super Lig,2017-18,Konyaspor,Antalyaspor,1,1,7,5,2,2,0,0,2,12,4,0,1,0,2.29,3.29,3.1,2.43,3.26,3.26
+2017-11-19,Super Lig,2017-18,Trabzonspor,Osmanlispor,4,3,6,4,4,4,0,0,7,10,8,0,1,1,1.5,3.79,5.5,,,
+2017-11-19,Super Lig,2017-18,Genclerbirligi,Kayserispor,1,2,4,8,0,3,0,0,3,12,3,0,1,1,2.54,3.25,2.75,2.69,3.36,2.81
+2017-11-19,Super Lig,2017-18,Alanyaspor,Yeni Malatyaspor,1,0,8,2,1,2,0,0,1,10,3,0,0,0,1.95,3.5,3.7,1.99,3.97,3.69
+2017-11-19,Super Lig,2017-18,Fenerbahce,Sivasspor,4,1,8,3,3,6,0,1,5,11,9,1,1,1,1.66,3.79,5.0,1.71,4.16,4.97
+2017-11-20,Super Lig,2017-18,Karabukspor,Kasimpasa,0,2,6,4,1,3,0,0,2,10,4,0,0,0,2.29,3.2,3.1,2.37,3.61,3.05
+2017-11-24,Super Lig,2017-18,Osmanlispor,Genclerbirligi,2,0,1,9,1,1,0,0,2,10,2,0,0,0,1.75,3.6,4.5,1.84,3.77,4.63
+2017-11-25,Super Lig,2017-18,Galatasaray,Alanyaspor,2,0,9,3,1,5,0,0,2,12,6,0,0,0,1.36,4.75,8.0,1.42,5.45,7.34
+2017-11-25,Super Lig,2017-18,Goztep,Akhisar Belediyespor,2,0,12,2,2,1,0,0,2,14,3,0,0,0,2.39,3.39,2.79,2.4,3.64,3.0
+2017-11-25,Super Lig,2017-18,Yeni Malatyaspor,Besiktas,0,0,3,9,2,1,0,0,0,12,3,0,0,0,5.5,4.0,1.57,5.63,4.51,1.6
+2017-11-26,Super Lig,2017-18,Sivasspor,Trabzonspor,1,2,6,3,3,3,0,0,3,9,6,0,1,1,2.5,3.2,2.87,2.59,3.48,2.85
+2017-11-26,Super Lig,2017-18,Kasimpasa,Konyaspor,2,1,4,4,2,0,0,0,3,8,2,0,1,1,2.25,3.5,3.0,2.27,3.57,3.32
+2017-11-26,Super Lig,2017-18,Bursaspor,Karabukspor,2,1,6,7,3,4,0,0,3,13,7,0,1,1,1.72,3.79,4.5,1.78,3.96,4.73
+2017-11-26,Super Lig,2017-18,Antalyaspor,Fenerbahce,0,1,3,0,1,2,0,0,1,3,3,0,0,0,3.29,3.5,2.1,3.6,3.63,2.12
+2017-11-27,Super Lig,2017-18,Kayserispor,Buyuksehyr,1,1,1,5,3,1,0,0,2,6,4,0,1,0,2.79,3.39,2.39,2.97,3.49,2.49
+2017-12-02,Super Lig,2017-18,Akhisar Belediyespor,Yeni Malatyaspor,0,0,5,8,0,5,0,0,0,13,5,0,0,0,1.75,3.5,4.75,1.81,3.64,5.03
+2017-12-02,Super Lig,2017-18,Besiktas,Galatasaray,3,0,9,2,3,3,0,0,3,11,6,0,0,1,1.8,3.75,4.2,1.89,3.69,4.43
+2017-12-02,Super Lig,2017-18,Karabukspor,Goztep,0,1,14,4,2,2,0,0,1,18,4,0,0,0,2.7,3.2,2.7,2.7,3.44,2.75
+2017-12-03,Super Lig,2017-18,Genclerbirligi,Sivasspor,4,0,6,6,4,1,0,0,4,12,5,0,0,1,2.54,3.2,2.75,2.6,3.47,2.84
+2017-12-03,Super Lig,2017-18,Konyaspor,Bursaspor,0,3,9,1,2,1,0,0,3,10,3,0,0,1,2.04,3.25,3.75,2.13,3.55,3.64
+2017-12-03,Super Lig,2017-18,Buyuksehyr,Osmanlispor,1,0,4,2,2,3,0,0,1,6,5,0,0,0,1.57,4.0,5.5,1.62,4.24,5.81
+2017-12-03,Super Lig,2017-18,Fenerbahce,Kasimpasa,4,2,3,3,3,1,0,0,6,6,4,0,1,1,1.44,4.5,6.5,1.46,4.8,7.59
+2017-12-04,Super Lig,2017-18,Alanyaspor,Kayserispor,1,2,2,9,5,3,1,0,3,11,8,1,1,1,2.54,3.25,2.75,2.55,3.64,2.79
+2017-12-04,Super Lig,2017-18,Trabzonspor,Antalyaspor,3,0,1,5,3,3,0,0,3,6,6,0,0,1,1.75,3.5,4.75,1.77,3.96,4.82
+2017-12-08,Super Lig,2017-18,Bursaspor,Fenerbahce,0,1,2,5,2,3,0,0,1,7,5,0,0,0,3.39,3.6,2.04,3.5,3.73,2.12
+2017-12-09,Super Lig,2017-18,Yeni Malatyaspor,Goztep,2,3,3,5,3,2,0,0,5,8,5,0,1,1,2.5,3.29,2.79,2.63,3.5,2.79
+2017-12-09,Super Lig,2017-18,Antalyaspor,Genclerbirligi,1,1,2,6,1,4,0,0,2,8,5,0,1,0,1.9,3.39,4.0,1.94,3.67,4.22
+2017-12-09,Super Lig,2017-18,Galatasaray,Akhisar Belediyespor,4,2,4,1,3,4,1,1,6,5,7,2,1,1,1.28,5.0,11.0,1.3,6.03,10.82
+2017-12-09,Super Lig,2017-18,Kasimpasa,Trabzonspor,0,3,6,4,2,1,0,0,3,10,3,0,0,1,3.1,3.39,2.25,3.13,3.84,2.22
+2017-12-10,Super Lig,2017-18,Osmanlispor,Alanyaspor,3,0,1,9,3,2,0,0,3,10,5,0,0,1,2.0,3.6,3.5,2.13,3.74,3.47
+2017-12-10,Super Lig,2017-18,Sivasspor,Buyuksehyr,1,0,2,5,4,4,1,0,1,7,8,1,0,0,3.39,3.29,2.14,3.28,3.56,2.28
+2017-12-10,Super Lig,2017-18,Kayserispor,Besiktas,1,1,0,6,5,1,1,0,2,6,6,1,1,0,4.5,3.75,1.72,4.82,3.84,1.79
+2017-12-11,Super Lig,2017-18,Konyaspor,Karabukspor,2,0,3,2,3,4,0,0,2,5,7,0,0,0,1.9,3.5,3.89,1.93,3.65,4.31
+2017-12-16,Super Lig,2017-18,Alanyaspor,Sivasspor,1,1,2,2,2,1,0,0,2,4,3,0,1,0,2.2,3.29,3.29,2.23,3.91,3.12
+2017-12-16,Super Lig,2017-18,Genclerbirligi,Kasimpasa,0,0,7,5,2,1,0,0,0,12,3,0,0,0,2.1,3.25,3.6,2.11,3.56,3.7
+2017-12-16,Super Lig,2017-18,Trabzonspor,Bursaspor,1,0,4,5,3,1,0,0,1,9,4,0,0,0,1.61,4.0,5.25,1.62,4.48,5.4
+2017-12-17,Super Lig,2017-18,Akhisar Belediyespor,Kayserispor,0,2,6,3,3,1,0,0,2,9,4,0,0,0,2.54,3.2,2.79,2.69,3.39,2.79
+2017-12-17,Super Lig,2017-18,Besiktas,Osmanlispor,5,1,12,3,1,3,0,0,6,15,4,0,1,1,1.22,5.75,13.0,1.22,6.96,15.27
+2017-12-17,Super Lig,2017-18,Buyuksehyr,Antalyaspor,4,1,11,0,3,1,0,0,5,11,4,0,1,1,1.5,4.33,6.0,1.55,4.56,6.24
+2017-12-17,Super Lig,2017-18,Yeni Malatyaspor,Galatasaray,2,1,2,8,2,0,0,0,3,10,2,0,1,1,5.0,3.75,1.66,4.84,4.18,1.73
+2017-12-18,Super Lig,2017-18,Fenerbahce,Karabukspor,2,0,10,6,4,6,0,0,2,16,10,0,0,0,1.22,6.0,12.0,1.26,6.45,13.0
+2017-12-18,Super Lig,2017-18,Goztep,Konyaspor,1,0,3,7,2,3,0,0,1,10,5,0,0,0,2.0,3.29,3.79,2.1,3.67,3.61
+2017-12-22,Super Lig,2017-18,Antalyaspor,Alanyaspor,3,1,10,5,5,2,0,0,4,15,7,0,1,1,2.39,3.6,2.79,2.58,3.55,2.81
+2017-12-23,Super Lig,2017-18,Bursaspor,Genclerbirligi,1,1,7,2,2,4,0,0,2,9,6,0,1,0,1.9,3.6,3.75,2.04,3.58,3.9
+2017-12-23,Super Lig,2017-18,Konyaspor,Fenerbahce,1,1,2,7,4,0,0,0,2,9,4,0,1,0,4.0,3.6,1.85,4.27,3.71,1.92
+2017-12-23,Super Lig,2017-18,Sivasspor,Besiktas,2,1,2,15,1,0,0,0,3,17,1,0,1,1,5.25,3.79,1.64,5.23,4.36,1.65
+2017-12-24,Super Lig,2017-18,Karabukspor,Trabzonspor,1,1,5,5,6,2,0,0,2,10,8,0,1,0,4.33,3.5,1.83,4.15,3.77,1.93
+2017-12-24,Super Lig,2017-18,Kasimpasa,Buyuksehyr,1,2,4,3,3,1,0,0,3,7,4,0,1,1,4.2,3.6,1.83,4.1,3.91,1.9
+2017-12-24,Super Lig,2017-18,Galatasaray,Goztep,3,1,3,3,4,2,0,0,4,6,6,0,1,1,1.33,5.0,9.0,1.35,5.76,8.89
+2017-12-24,Super Lig,2017-18,Kayserispor,Yeni Malatyaspor,0,1,5,2,2,4,0,0,1,7,6,0,0,0,1.66,3.75,5.0,1.76,3.8,5.18
+2017-12-25,Super Lig,2017-18,Osmanlispor,Akhisar Belediyespor,3,2,2,3,2,4,0,1,5,5,6,1,1,1,1.9,3.6,3.75,1.94,3.68,4.2
+2018-01-19,Super Lig,2017-18,Kasimpasa,Alanyaspor,3,2,10,3,3,1,0,1,5,13,4,1,1,1,2.2,3.6,3.0,2.21,3.83,3.15
+2018-01-20,Super Lig,2017-18,Fenerbahce,Goztep,2,1,9,4,3,4,0,0,3,13,7,0,1,1,1.36,5.25,7.0,,,
+2018-01-20,Super Lig,2017-18,Karabukspor,Genclerbirligi,0,2,7,2,2,3,0,0,2,9,5,0,0,0,3.39,3.25,2.14,3.6,3.34,2.2
+2018-01-20,Super Lig,2017-18,Osmanlispor,Yeni Malatyaspor,0,0,5,4,1,1,0,0,0,9,2,0,0,0,1.9,3.39,4.0,1.99,3.61,4.06
+2018-01-21,Super Lig,2017-18,Antalyaspor,Besiktas,1,2,5,9,2,1,0,0,3,14,3,0,1,1,6.5,4.5,1.44,6.26,4.68,1.53
+2018-01-21,Super Lig,2017-18,Bursaspor,Buyuksehyr,0,3,6,3,2,3,0,0,3,9,5,0,0,1,3.89,3.5,1.9,3.82,3.82,1.99
+2018-01-21,Super Lig,2017-18,Konyaspor,Trabzonspor,2,2,6,1,4,4,1,1,4,7,8,2,1,1,2.75,3.29,2.5,2.74,3.31,2.76
+2018-01-21,Super Lig,2017-18,Sivasspor,Akhisar Belediyespor,1,1,4,2,3,3,0,1,2,6,6,1,1,0,2.0,3.5,3.6,2.09,3.54,3.77
+2018-01-22,Super Lig,2017-18,Kayserispor,Galatasaray,1,3,7,2,2,0,0,0,4,9,2,0,1,1,3.5,3.39,2.04,3.68,3.66,2.06
+2018-01-26,Super Lig,2017-18,Besiktas,Kasimpasa,2,1,5,4,3,2,0,0,3,9,5,0,1,1,1.28,5.75,8.5,1.32,6.16,9.16
+2018-01-26,Super Lig,2017-18,Genclerbirligi,Konyaspor,2,1,0,5,3,3,1,0,3,5,6,1,1,1,2.29,3.2,3.2,2.38,2.98,3.63
+2018-01-27,Super Lig,2017-18,Alanyaspor,Bursaspor,3,1,5,3,1,3,0,0,4,8,4,0,1,1,2.14,3.39,3.29,2.28,3.74,3.08
+2018-01-27,Super Lig,2017-18,Galatasaray,Osmanlispor,2,0,6,6,0,1,0,0,2,12,1,0,0,0,1.39,5.0,6.5,1.4,5.22,8.11
+2018-01-27,Super Lig,2017-18,Goztep,Kayserispor,1,1,2,1,1,7,0,2,2,3,8,2,1,0,2.5,3.25,2.79,2.66,3.39,2.79
+2018-01-28,Super Lig,2017-18,Akhisar Belediyespor,Antalyaspor,1,1,11,0,3,4,0,0,2,11,7,0,1,0,2.0,3.39,3.75,2.08,3.61,3.67
+2018-01-28,Super Lig,2017-18,Trabzonspor,Fenerbahce,1,1,2,11,2,3,0,0,2,13,5,0,1,0,2.37,3.2,3.0,2.4,3.61,2.97
+2018-01-28,Super Lig,2017-18,Yeni Malatyaspor,Sivasspor,1,0,7,6,4,2,0,0,1,13,6,0,0,0,2.37,3.2,3.0,2.42,3.38,3.12
+2018-01-29,Super Lig,2017-18,Buyuksehyr,Karabukspor,5,0,5,0,0,1,0,0,5,5,1,0,0,1,1.22,5.5,15.0,1.23,6.75,14.4
+2018-02-02,Super Lig,2017-18,Bursaspor,Besiktas,2,2,6,6,4,2,0,0,4,12,6,0,1,1,4.75,4.2,1.61,5.15,4.27,1.66
+2018-02-03,Super Lig,2017-18,Antalyaspor,Yeni Malatyaspor,3,1,6,1,2,2,0,1,4,7,4,1,1,1,2.45,3.25,2.87,2.57,3.39,2.89
+2018-02-03,Super Lig,2017-18,Fenerbahce,Genclerbirligi,2,2,4,3,3,6,0,0,4,7,9,0,1,1,1.44,4.33,7.0,1.46,4.63,7.73
+2018-02-03,Super Lig,2017-18,Karabukspor,Alanyaspor,1,0,8,5,6,2,0,0,1,13,8,0,0,0,3.75,3.6,1.9,3.58,3.9,2.02
+2018-02-04,Super Lig,2017-18,Kasimpasa,Akhisar Belediyespor,2,0,6,4,1,1,0,0,2,10,2,0,0,0,2.29,3.29,3.1,2.3,3.62,3.13
+2018-02-04,Super Lig,2017-18,Konyaspor,Buyuksehyr,1,1,7,7,2,3,0,1,2,14,5,1,1,0,4.0,3.29,1.95,3.86,3.46,2.08
+2018-02-04,Super Lig,2017-18,Osmanlispor,Kayserispor,0,1,8,1,2,2,0,0,1,9,4,0,0,0,2.25,3.39,3.1,2.44,3.45,3.02
+2018-02-04,Super Lig,2017-18,Sivasspor,Galatasaray,2,1,3,5,2,2,0,0,3,8,4,0,1,1,3.75,3.6,1.9,3.83,3.68,2.01
+2018-02-05,Super Lig,2017-18,Trabzonspor,Goztep,0,0,6,3,3,5,0,0,0,9,8,0,0,0,1.6,4.2,5.0,1.68,4.14,5.16
+2018-02-09,Super Lig,2017-18,Yeni Malatyaspor,Kasimpasa,1,1,10,1,2,3,0,0,2,11,5,0,1,0,2.2,3.25,3.29,2.23,3.33,3.55
+2018-02-10,Super Lig,2017-18,Goztep,Osmanlispor,3,3,3,6,4,4,0,0,6,9,8,0,1,1,1.95,3.5,3.79,2.04,3.62,3.77
+2018-02-10,Super Lig,2017-18,Besiktas,Karabukspor,5,0,7,5,3,1,0,0,5,12,4,0,0,1,1.1,9.0,21.0,,,
+2018-02-10,Super Lig,2017-18,Genclerbirligi,Trabzonspor,0,0,7,5,1,2,0,0,0,12,3,0,0,0,2.7,3.25,2.6,2.86,3.27,2.68
+2018-02-11,Super Lig,2017-18,Akhisar Belediyespor,Bursaspor,1,0,3,3,5,2,0,0,1,6,7,0,0,0,2.29,3.29,3.1,2.33,3.32,3.31
+2018-02-11,Super Lig,2017-18,Alanyaspor,Konyaspor,1,2,18,1,4,5,0,1,3,19,9,1,1,1,2.29,3.29,3.1,2.4,3.5,3.06
+2018-02-11,Super Lig,2017-18,Buyuksehyr,Fenerbahce,0,2,5,3,2,0,0,0,2,8,2,0,0,0,1.85,3.5,4.2,1.9,3.68,4.3
+2018-02-11,Super Lig,2017-18,Kayserispor,Sivasspor,1,1,7,3,4,2,0,0,2,10,6,0,1,0,2.14,3.39,3.29,2.17,3.44,3.59
+2018-02-12,Super Lig,2017-18,Galatasaray,Antalyaspor,3,0,8,3,2,3,1,0,3,11,5,1,0,1,1.25,5.5,12.0,1.3,6.01,10.67
+2018-02-16,Super Lig,2017-18,Konyaspor,Besiktas,1,1,3,8,3,6,0,0,2,11,9,0,1,0,5.0,4.0,1.61,5.42,4.04,1.67
+2018-02-17,Super Lig,2017-18,Sivasspor,Osmanlispor,3,2,2,4,3,4,0,0,5,6,7,0,1,1,2.04,3.25,3.75,2.04,3.48,3.94
+2018-02-17,Super Lig,2017-18,Antalyaspor,Kayserispor,2,1,5,5,3,1,0,0,3,10,4,0,1,1,2.87,3.1,2.54,2.88,3.27,2.65
+2018-02-17,Super Lig,2017-18,Fenerbahce,Alanyaspor,3,0,4,1,1,0,0,0,3,5,1,0,0,1,1.36,5.0,7.5,1.38,5.43,8.24
+2018-02-18,Super Lig,2017-18,Bursaspor,Yeni Malatyaspor,0,0,9,2,3,2,0,0,0,11,5,0,0,0,,,,2.05,3.27,4.22
+2018-02-18,Super Lig,2017-18,Karabukspor,Akhisar Belediyespor,0,3,2,1,4,2,0,0,3,3,6,0,0,1,3.75,3.39,2.0,3.97,3.43,2.06
+2018-02-18,Super Lig,2017-18,Kasimpasa,Galatasaray,2,1,1,10,4,3,0,0,3,11,7,0,1,1,4.75,3.5,1.75,4.85,4.11,1.72
+2018-02-18,Super Lig,2017-18,Trabzonspor,Buyuksehyr,0,1,3,7,1,2,0,0,1,10,3,0,0,0,2.6,3.2,2.75,2.63,3.36,2.84
+2018-02-19,Super Lig,2017-18,Genclerbirligi,Goztep,3,0,2,2,1,1,0,1,3,4,2,1,0,1,2.1,3.25,3.5,2.26,3.24,3.6
+2018-02-23,Super Lig,2017-18,Akhisar Belediyespor,Konyaspor,3,0,0,3,3,2,0,0,3,3,5,0,0,1,2.25,3.2,3.29,2.41,3.15,3.35
+2018-02-23,Super Lig,2017-18,Galatasaray,Bursaspor,5,0,9,0,1,0,0,1,5,9,1,1,0,1,1.25,5.5,12.0,1.26,6.1,11.1
+2018-02-24,Super Lig,2017-18,Kayserispor,Kasimpasa,3,2,7,2,2,3,0,1,5,9,5,1,1,1,1.95,3.29,4.0,2.04,3.52,3.92
+2018-02-24,Super Lig,2017-18,Alanyaspor,Trabzonspor,1,2,5,7,6,4,0,0,3,12,10,0,1,1,2.79,3.39,2.45,2.74,3.64,2.56
+2018-02-25,Super Lig,2017-18,Besiktas,Fenerbahce,3,1,6,1,3,2,0,0,4,7,5,0,1,1,2.14,3.29,3.39,2.27,3.51,3.29
+2018-02-25,Super Lig,2017-18,Goztep,Sivasspor,1,0,7,1,5,1,0,0,1,8,6,0,0,0,2.39,3.25,2.89,2.52,3.54,2.86
+2018-02-25,Super Lig,2017-18,Osmanlispor,Antalyaspor,0,0,4,5,3,1,0,0,0,9,4,0,0,0,1.75,3.5,4.75,1.83,3.79,4.56
+2018-02-25,Super Lig,2017-18,Yeni Malatyaspor,Karabukspor,3,1,2,5,2,4,0,0,4,7,6,0,1,1,1.44,4.33,7.0,1.49,4.46,7.35
+2018-02-26,Super Lig,2017-18,Buyuksehyr,Genclerbirligi,1,1,7,5,3,0,0,0,2,12,3,0,1,0,1.44,4.5,6.5,1.49,4.45,7.44
+2018-03-02,Super Lig,2017-18,Bursaspor,Kayserispor,1,0,5,1,0,4,0,0,1,6,4,0,0,0,2.45,3.29,2.87,2.56,3.28,3.0
+2018-03-03,Super Lig,2017-18,Kasimpasa,Osmanlispor,1,1,9,3,3,5,0,0,2,12,8,0,1,0,2.14,3.39,3.29,2.2,3.76,3.23
+2018-03-03,Super Lig,2017-18,Karabukspor,Galatasaray,0,7,4,6,2,4,0,0,7,10,6,0,0,1,10.0,6.0,1.25,11.36,6.32,1.28
+2018-03-03,Super Lig,2017-18,Buyuksehyr,Goztep,2,0,10,4,0,3,0,0,2,14,3,0,0,0,1.39,4.2,9.0,1.39,5.12,8.67
+2018-03-04,Super Lig,2017-18,Antalyaspor,Sivasspor,1,4,6,2,3,3,0,0,5,8,6,0,1,1,2.54,3.39,2.62,2.66,3.4,2.79
+2018-03-04,Super Lig,2017-18,Fenerbahce,Akhisar Belediyespor,2,3,9,3,0,5,0,0,5,12,5,0,1,1,1.33,5.0,9.0,1.37,5.28,9.1
+2018-03-04,Super Lig,2017-18,Genclerbirligi,Alanyaspor,0,1,6,1,4,2,0,0,1,7,6,0,0,0,1.75,3.6,4.59,1.88,3.8,4.22
+2018-03-04,Super Lig,2017-18,Konyaspor,Yeni Malatyaspor,0,1,5,4,2,2,0,0,1,9,4,0,0,0,1.9,3.39,4.0,2.04,3.37,4.11
+2018-03-05,Super Lig,2017-18,Trabzonspor,Besiktas,0,2,2,2,1,2,0,0,2,4,3,0,0,0,3.29,3.5,2.1,3.71,3.66,2.05
+2018-03-09,Super Lig,2017-18,Alanyaspor,Buyuksehyr,4,1,0,1,2,4,1,1,5,1,6,2,1,1,4.0,3.6,1.85,4.21,3.65,1.93
+2018-03-10,Super Lig,2017-18,Besiktas,Genclerbirligi,1,0,9,2,3,2,0,0,1,11,5,0,0,0,1.28,5.5,9.5,1.28,6.0,11.9
+2018-03-10,Super Lig,2017-18,Osmanlispor,Bursaspor,2,1,4,8,4,3,0,0,3,12,7,0,1,1,2.04,3.29,3.6,2.07,3.56,3.75
+2018-03-10,Super Lig,2017-18,Sivasspor,Kasimpasa,2,2,2,0,2,2,0,0,4,2,4,0,1,1,1.9,3.6,4.0,1.92,3.88,3.98
+2018-03-11,Super Lig,2017-18,Galatasaray,Konyaspor,2,1,8,2,4,6,0,0,3,10,10,0,1,1,1.22,6.5,11.0,1.29,6.25,10.84
+2018-03-11,Super Lig,2017-18,Goztep,Antalyaspor,2,1,5,7,3,5,0,1,3,12,8,1,1,1,2.25,3.39,3.1,2.19,3.69,3.3
+2018-03-11,Super Lig,2017-18,Kayserispor,Karabukspor,3,2,13,2,1,3,0,1,5,15,4,1,1,1,1.22,6.0,12.0,,,
+2018-03-11,Super Lig,2017-18,Yeni Malatyaspor,Fenerbahce,0,2,13,3,0,2,0,0,2,16,2,0,0,0,4.0,3.6,1.85,4.01,3.47,2.03
+2018-03-12,Super Lig,2017-18,Akhisar Belediyespor,Trabzonspor,1,3,8,4,4,2,1,0,4,12,6,1,1,1,2.37,3.29,2.89,2.53,3.29,3.02
+2018-03-16,Super Lig,2017-18,Kasimpasa,Antalyaspor,2,3,9,7,2,3,1,0,5,16,5,1,1,1,2.0,3.6,3.5,2.03,3.83,3.62
+2018-03-16,Super Lig,2017-18,Karabukspor,Osmanlispor,0,4,3,5,2,2,0,0,4,8,4,0,0,1,6.0,4.5,1.5,6.14,4.61,1.54
+2018-03-17,Super Lig,2017-18,Fenerbahce,Galatasaray,0,0,10,3,2,3,0,0,0,13,5,0,0,0,2.1,3.5,3.29,2.19,3.64,3.36
+2018-03-17,Super Lig,2017-18,Genclerbirligi,Akhisar Belediyespor,1,1,5,6,2,1,0,0,2,11,3,0,1,0,2.25,3.2,3.25,2.3,3.39,3.33
+2018-03-17,Super Lig,2017-18,Bursaspor,Sivasspor,1,0,3,5,3,2,0,0,1,8,5,0,0,0,2.39,3.2,3.0,2.5,3.44,2.95
+2018-03-18,Super Lig,2017-18,Alanyaspor,Goztep,1,1,8,1,1,4,0,0,2,9,5,0,1,0,2.04,3.6,3.29,2.06,3.73,3.62
+2018-03-18,Super Lig,2017-18,Buyuksehyr,Besiktas,1,0,3,10,5,4,1,0,1,13,9,1,0,0,3.39,3.1,2.25,3.12,3.45,2.39
+2018-03-18,Super Lig,2017-18,Konyaspor,Kayserispor,2,0,6,4,2,2,1,1,2,10,4,2,0,0,2.39,3.2,3.0,2.44,3.34,3.12
+2018-03-18,Super Lig,2017-18,Trabzonspor,Yeni Malatyaspor,4,1,4,3,2,1,0,0,5,7,3,0,1,1,1.64,3.6,5.5,1.64,3.96,5.93
+2018-03-30,Super Lig,2017-18,Sivasspor,Karabukspor,1,0,10,1,3,3,0,0,1,11,6,0,0,0,1.28,5.5,10.0,1.28,6.24,11.33
+2018-03-31,Super Lig,2017-18,Antalyaspor,Bursaspor,2,0,1,7,2,1,0,0,2,8,3,0,0,0,2.2,3.2,3.39,2.31,3.39,3.32
+2018-03-31,Super Lig,2017-18,Besiktas,Alanyaspor,1,0,6,2,5,2,0,0,1,8,7,0,0,0,1.25,6.0,10.0,1.28,6.36,11.2
+2018-03-31,Super Lig,2017-18,Yeni Malatyaspor,Genclerbirligi,4,1,7,4,1,1,0,0,5,11,2,0,1,1,2.2,3.1,3.5,2.3,3.28,3.45
+2018-04-01,Super Lig,2017-18,Osmanlispor,Konyaspor,0,0,3,4,1,0,0,0,0,7,1,0,0,0,2.29,3.1,3.29,2.38,3.42,3.15
+2018-04-01,Super Lig,2017-18,Goztep,Kasimpasa,0,2,14,1,4,1,1,0,2,15,5,1,0,0,2.14,3.39,3.29,2.2,3.69,3.28
+2018-04-01,Super Lig,2017-18,Akhisar Belediyespor,Buyuksehyr,1,2,2,5,1,1,1,0,3,7,2,1,1,1,4.0,3.39,1.9,4.16,3.52,1.98
+2018-04-01,Super Lig,2017-18,Galatasaray,Trabzonspor,2,1,4,1,2,3,0,0,3,5,5,0,1,1,1.5,4.33,6.0,1.52,4.64,6.47
+2018-04-02,Super Lig,2017-18,Kayserispor,Fenerbahce,0,5,7,4,2,2,0,0,5,11,4,0,0,1,3.6,3.29,2.04,3.55,3.53,2.15
+2018-04-06,Super Lig,2017-18,Buyuksehyr,Yeni Malatyaspor,1,0,5,4,1,1,0,0,1,9,2,0,0,0,1.39,4.5,8.0,1.43,4.67,8.69
+2018-04-07,Super Lig,2017-18,Besiktas,Goztep,5,1,3,5,1,6,0,1,6,8,7,1,1,1,1.19,7.0,12.0,1.22,7.22,13.42
+2018-04-07,Super Lig,2017-18,Karabukspor,Antalyaspor,1,2,3,4,1,0,0,0,3,7,1,0,1,1,8.0,5.0,1.36,8.38,5.5,1.37
+2018-04-07,Super Lig,2017-18,Trabzonspor,Kayserispor,4,0,6,3,1,2,0,0,4,9,3,0,0,1,1.66,3.75,5.0,1.69,4.0,5.25
+2018-04-08,Super Lig,2017-18,Konyaspor,Sivasspor,5,0,4,8,2,0,0,1,5,12,2,1,0,1,1.95,3.29,4.0,1.98,3.41,4.31
+2018-04-08,Super Lig,2017-18,Fenerbahce,Osmanlispor,2,0,9,2,1,2,0,0,2,11,3,0,0,0,1.28,5.0,11.0,1.28,6.28,11.27
+2018-04-08,Super Lig,2017-18,Alanyaspor,Akhisar Belediyespor,3,1,8,6,4,2,0,0,4,14,6,0,1,1,1.9,3.5,4.0,1.97,3.7,3.96
+2018-04-08,Super Lig,2017-18,Bursaspor,Kasimpasa,0,1,9,0,2,2,0,0,1,9,4,0,0,0,2.0,3.29,3.75,2.1,3.6,3.62
+2018-04-09,Super Lig,2017-18,Genclerbirligi,Galatasaray,1,0,5,6,2,3,0,0,1,11,5,0,0,0,7.5,3.79,1.5,6.35,4.37,1.55
+2018-04-13,Super Lig,2017-18,Akhisar Belediyespor,Besiktas,0,3,4,7,0,1,0,0,3,11,1,0,0,1,7.5,4.5,1.39,7.87,4.89,1.43
+2018-04-14,Super Lig,2017-18,Kasimpasa,Karabukspor,2,0,7,7,1,2,0,0,2,14,3,0,0,0,1.33,5.75,7.5,1.34,5.95,8.53
+2018-04-14,Super Lig,2017-18,Sivasspor,Fenerbahce,1,2,2,4,3,2,0,0,3,6,5,0,1,1,5.75,4.0,1.57,5.64,4.21,1.63
+2018-04-14,Super Lig,2017-18,Yeni Malatyaspor,Alanyaspor,1,1,2,5,3,2,0,0,2,7,5,0,1,0,2.54,3.25,2.75,2.65,3.36,2.81
+2018-04-15,Super Lig,2017-18,Goztep,Bursaspor,2,1,6,5,1,4,0,0,3,11,5,0,1,1,2.37,3.25,3.0,2.4,3.52,3.03
+2018-04-15,Super Lig,2017-18,Antalyaspor,Konyaspor,0,0,3,6,2,2,0,0,0,9,4,0,0,0,2.45,3.2,2.89,2.63,3.18,2.98
+2018-04-15,Super Lig,2017-18,Galatasaray,Buyuksehyr,2,0,5,1,3,3,0,0,2,6,6,0,0,0,1.8,3.75,4.2,1.81,3.87,4.57
+2018-04-15,Super Lig,2017-18,Kayserispor,Genclerbirligi,3,2,1,7,2,3,0,0,5,8,5,0,1,1,2.29,3.2,3.1,2.36,3.4,3.21
+2018-04-16,Super Lig,2017-18,Osmanlispor,Trabzonspor,3,3,6,3,0,1,0,0,6,9,1,0,1,1,2.7,3.1,2.7,2.74,3.29,2.77
+2018-04-20,Super Lig,2017-18,Buyuksehyr,Kayserispor,3,1,4,3,1,1,0,0,4,7,2,0,1,1,1.33,5.25,8.0,1.37,5.47,7.62
+2018-04-21,Super Lig,2017-18,Karabukspor,Bursaspor,1,4,2,3,2,4,1,0,5,5,6,1,1,1,,,,,,
+2018-04-21,Super Lig,2017-18,Trabzonspor,Sivasspor,0,2,6,1,2,1,0,0,2,7,3,0,0,0,1.61,3.75,5.5,1.66,4.24,5.21
+2018-04-21,Super Lig,2017-18,Alanyaspor,Galatasaray,2,3,6,1,3,2,0,0,5,7,5,0,1,1,4.75,4.2,1.61,5.09,4.63,1.62
+2018-04-21,Super Lig,2017-18,Genclerbirligi,Osmanlispor,0,3,4,5,2,1,0,0,3,9,3,0,0,1,2.29,3.25,3.1,2.43,3.26,3.2
+2018-04-22,Super Lig,2017-18,Konyaspor,Kasimpasa,2,0,9,8,2,1,0,0,2,17,3,0,0,0,1.55,4.0,6.0,1.58,4.17,6.29
+2018-04-22,Super Lig,2017-18,Besiktas,Yeni Malatyaspor,3,1,7,0,0,2,0,0,4,7,2,0,1,1,1.22,6.0,13.0,1.19,7.56,16.83
+2018-04-22,Super Lig,2017-18,Akhisar Belediyespor,Goztep,1,1,3,7,2,3,0,0,2,10,5,0,1,0,1.9,3.6,3.79,1.96,3.71,3.96
+2018-04-23,Super Lig,2017-18,Fenerbahce,Antalyaspor,4,1,7,2,1,2,0,0,5,9,3,0,1,1,1.28,5.5,9.5,1.28,6.12,11.38
+2018-04-27,Super Lig,2017-18,Goztep,Karabukspor,5,0,6,2,0,1,0,0,5,8,1,0,0,1,1.14,7.5,17.0,1.17,8.2,15.2
+2018-04-28,Super Lig,2017-18,Antalyaspor,Trabzonspor,1,2,9,4,4,3,0,0,3,13,7,0,1,1,2.45,3.39,2.75,2.44,3.59,2.92
+2018-04-28,Super Lig,2017-18,Kasimpasa,Fenerbahce,1,4,5,2,2,1,0,0,5,7,3,0,1,1,8.5,4.75,1.36,8.02,5.05,1.41
+2018-04-28,Super Lig,2017-18,Kayserispor,Alanyaspor,1,2,1,4,5,0,1,0,3,5,5,1,1,1,2.89,3.5,2.29,2.87,3.66,2.45
+2018-04-28,Super Lig,2017-18,Sivasspor,Genclerbirligi,1,0,4,5,0,4,0,0,1,9,4,0,0,0,2.0,3.39,3.75,2.05,3.57,3.8
+2018-04-29,Super Lig,2017-18,Galatasaray,Besiktas,2,0,7,2,2,2,0,1,2,9,4,1,0,0,2.45,3.5,2.7,2.53,3.65,2.78
+2018-04-29,Super Lig,2017-18,Osmanlispor,Buyuksehyr,1,4,6,10,3,2,0,0,5,16,5,0,1,1,3.39,3.75,2.0,3.57,3.58,2.12
+2018-04-29,Super Lig,2017-18,Yeni Malatyaspor,Akhisar Belediyespor,0,0,4,5,0,1,0,0,0,9,1,0,0,0,2.6,3.29,2.62,2.53,3.34,2.97
+2018-04-30,Super Lig,2017-18,Bursaspor,Konyaspor,2,1,7,2,6,3,0,0,3,9,9,0,1,1,2.75,3.29,2.5,2.69,3.43,2.73
+2018-05-04,Super Lig,2017-18,Buyuksehyr,Sivasspor,1,1,3,4,5,0,2,0,2,7,5,2,1,0,1.44,4.75,6.0,1.46,4.77,7.33
+2018-05-05,Super Lig,2017-18,Alanyaspor,Osmanlispor,1,1,5,3,6,2,0,0,2,8,8,0,1,0,1.9,3.39,4.0,1.98,3.79,3.85
+2018-05-05,Super Lig,2017-18,Karabukspor,Konyaspor,0,1,1,9,5,2,0,0,1,10,7,0,0,0,15.0,6.5,1.18,,,
+2018-05-05,Super Lig,2017-18,Trabzonspor,Kasimpasa,2,5,8,3,4,2,2,0,7,11,6,2,1,1,1.39,4.5,8.0,1.43,5.23,7.26
+2018-05-06,Super Lig,2017-18,Genclerbirligi,Antalyaspor,0,1,4,5,3,2,0,0,1,9,5,0,0,0,2.1,3.39,3.39,2.18,3.6,3.41
+2018-05-06,Super Lig,2017-18,Akhisar Belediyespor,Galatasaray,1,2,4,4,5,2,1,0,3,8,7,1,1,1,8.5,4.33,1.39,6.97,4.91,1.47
+2018-05-06,Super Lig,2017-18,Fenerbahce,Bursaspor,2,1,5,4,2,2,0,2,3,9,4,2,1,1,1.18,7.0,13.0,1.2,7.49,15.36
+2018-05-07,Super Lig,2017-18,Besiktas,Kayserispor,2,0,7,7,2,4,1,1,2,14,6,2,0,0,1.18,6.5,15.0,1.19,7.6,17.79
+2018-05-07,Super Lig,2017-18,Goztep,Yeni Malatyaspor,0,0,8,0,3,1,0,0,0,8,4,0,0,0,1.95,3.5,3.79,1.94,3.63,4.17
+2018-05-11,Super Lig,2017-18,Antalyaspor,Buyuksehyr,0,2,5,3,1,1,0,0,2,8,2,0,0,0,6.0,4.2,1.44,5.87,4.8,1.51
+2018-05-12,Super Lig,2017-18,Galatasaray,Yeni Malatyaspor,2,0,3,2,1,5,0,0,2,5,6,0,0,0,1.12,9.0,17.0,,,
+2018-05-12,Super Lig,2017-18,Kasimpasa,Genclerbirligi,3,1,3,5,4,3,0,1,4,8,7,1,1,1,2.2,3.39,3.2,2.27,3.84,2.95
+2018-05-12,Super Lig,2017-18,Konyaspor,Goztep,1,1,7,10,2,6,0,1,2,17,8,1,1,0,1.44,4.2,8.0,1.43,4.83,7.38
+2018-05-13,Super Lig,2017-18,Bursaspor,Trabzonspor,1,3,7,3,2,3,0,0,4,10,5,0,1,1,2.04,3.75,3.25,2.19,3.7,3.2
+2018-05-13,Super Lig,2017-18,Osmanlispor,Besiktas,2,3,5,6,0,1,0,0,5,11,1,0,1,1,4.5,3.79,1.7,4.55,4.18,1.72
+2018-05-13,Super Lig,2017-18,Sivasspor,Alanyaspor,2,2,4,2,3,7,0,0,4,6,10,0,1,1,2.89,3.29,2.37,2.91,3.39,2.49
+2018-05-14,Super Lig,2017-18,Karabukspor,Fenerbahce,0,7,2,12,2,2,0,0,7,14,4,0,0,1,,,,,,
+2018-05-14,Super Lig,2017-18,Kayserispor,Akhisar Belediyespor,1,2,8,1,2,3,0,0,3,9,5,0,1,1,3.75,3.39,2.0,3.51,3.47,2.13
+2018-05-18,Super Lig,2017-18,Trabzonspor,Karabukspor,3,0,5,9,1,3,0,0,3,14,4,0,0,1,1.08,10.0,23.0,,,
+2018-05-18,Super Lig,2017-18,Genclerbirligi,Bursaspor,1,0,3,5,0,0,0,0,1,8,0,0,0,0,2.04,3.8,3.25,2.14,4.09,3.11
+2018-05-18,Super Lig,2017-18,Yeni Malatyaspor,Kayserispor,3,2,3,9,0,1,0,0,5,12,1,0,1,1,2.2,3.5,3.1,2.27,3.69,3.05
+2018-05-18,Super Lig,2017-18,Akhisar Belediyespor,Osmanlispor,2,1,3,3,0,0,0,0,3,6,0,0,1,1,2.1,3.9,3.0,2.17,4.06,3.05
+2018-05-18,Super Lig,2017-18,Alanyaspor,Antalyaspor,3,2,6,5,2,1,0,0,5,11,3,0,1,1,2.04,4.0,3.1,2.18,4.14,3.0
+2018-05-19,Super Lig,2017-18,Buyuksehyr,Kasimpasa,3,2,8,2,3,3,0,0,5,10,6,0,1,1,1.18,7.5,12.0,1.22,6.75,14.11
+2018-05-19,Super Lig,2017-18,Fenerbahce,Konyaspor,3,2,7,4,0,3,0,0,5,11,3,0,1,1,1.16,7.5,13.0,1.17,8.56,14.91
+2018-05-19,Super Lig,2017-18,Besiktas,Sivasspor,5,1,7,4,3,4,0,0,6,11,7,0,1,1,1.16,7.5,13.0,1.17,8.25,15.29
+2018-05-19,Super Lig,2017-18,Goztep,Galatasaray,0,1,4,3,1,2,0,1,1,7,3,1,0,0,8.5,4.75,1.36,8.13,5.3,1.37

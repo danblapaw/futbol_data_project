@@ -88,34 +88,77 @@ def insertar_dataframe(df: pd.DataFrame, conn: sqlite3.Connection) -> tuple[int,
     # executemany() inserta múltiples filas de una sola vez (mucho más rápido que un loop)
     # La cadena "?" son marcadores de posición que SQLite reemplaza con los valores reales
     # Esto previene inyección SQL (buena práctica de seguridad)
-    sql = """
-        INSERT OR REPLACE INTO partidos (
-            fecha, liga, temporada,
-            equipo_local, equipo_visitante,
-            goles_local, goles_visitante,
-            corners_local, corners_visitante,
-            amarillas_local, amarillas_visitante,
-            rojas_local, rojas_visitante,
-            total_goles, total_corners,
-            total_amarillas, total_rojas,
-            ambos_marcan, over_2_5
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-    """
+    ODDS_COLS = ["b365_local", "b365_empate", "b365_visit",
+                 "ps_local", "ps_empate", "ps_visit"]
+    has_odds = all(c in df.columns for c in ODDS_COLS)
 
-    registros = [
-        (
-            row.fecha, row.liga, row.temporada,
-            row.equipo_local, row.equipo_visitante,
-            int(row.goles_local), int(row.goles_visitante),
-            int(row.corners_local), int(row.corners_visitante),
-            int(row.amarillas_local), int(row.amarillas_visitante),
-            int(row.rojas_local), int(row.rojas_visitante),
-            int(row.total_goles), int(row.total_corners),
-            int(row.total_amarillas), int(row.total_rojas),
-            int(row.ambos_marcan), int(row.over_2_5)
-        )
-        for row in df.itertuples(index=False)
-    ]
+    if has_odds:
+        sql = """
+            INSERT OR REPLACE INTO partidos (
+                fecha, liga, temporada,
+                equipo_local, equipo_visitante,
+                goles_local, goles_visitante,
+                corners_local, corners_visitante,
+                amarillas_local, amarillas_visitante,
+                rojas_local, rojas_visitante,
+                total_goles, total_corners,
+                total_amarillas, total_rojas,
+                ambos_marcan, over_2_5,
+                b365_local, b365_empate, b365_visit,
+                ps_local, ps_empate, ps_visit
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """
+        def _float(v):
+            try:
+                f = float(v)
+                return None if f != f else round(f, 2)  # NaN → None
+            except (TypeError, ValueError):
+                return None
+
+        registros = [
+            (
+                row.fecha, row.liga, row.temporada,
+                row.equipo_local, row.equipo_visitante,
+                int(row.goles_local), int(row.goles_visitante),
+                int(row.corners_local), int(row.corners_visitante),
+                int(row.amarillas_local), int(row.amarillas_visitante),
+                int(row.rojas_local), int(row.rojas_visitante),
+                int(row.total_goles), int(row.total_corners),
+                int(row.total_amarillas), int(row.total_rojas),
+                int(row.ambos_marcan), int(row.over_2_5),
+                _float(row.b365_local), _float(row.b365_empate), _float(row.b365_visit),
+                _float(row.ps_local), _float(row.ps_empate), _float(row.ps_visit),
+            )
+            for row in df.itertuples(index=False)
+        ]
+    else:
+        sql = """
+            INSERT OR REPLACE INTO partidos (
+                fecha, liga, temporada,
+                equipo_local, equipo_visitante,
+                goles_local, goles_visitante,
+                corners_local, corners_visitante,
+                amarillas_local, amarillas_visitante,
+                rojas_local, rojas_visitante,
+                total_goles, total_corners,
+                total_amarillas, total_rojas,
+                ambos_marcan, over_2_5
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """
+        registros = [
+            (
+                row.fecha, row.liga, row.temporada,
+                row.equipo_local, row.equipo_visitante,
+                int(row.goles_local), int(row.goles_visitante),
+                int(row.corners_local), int(row.corners_visitante),
+                int(row.amarillas_local), int(row.amarillas_visitante),
+                int(row.rojas_local), int(row.rojas_visitante),
+                int(row.total_goles), int(row.total_corners),
+                int(row.total_amarillas), int(row.total_rojas),
+                int(row.ambos_marcan), int(row.over_2_5)
+            )
+            for row in df.itertuples(index=False)
+        ]
 
     cursor.executemany(sql, registros)
     conn.commit()  # Guardar cambios en el archivo

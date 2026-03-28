@@ -90,6 +90,17 @@ MAPA_COLUMNAS = {
     # Algunas temporadas usan nombres alternativos:
     "HG"      : "goles_local",
     "AG"      : "goles_visitante",
+    # Cuotas Bet365
+    "B365H"   : "b365_local",
+    "B365D"   : "b365_empate",
+    "B365A"   : "b365_visit",
+    # Cuotas Pinnacle (nombre estándar y cierre)
+    "PSH"     : "ps_local",
+    "PSD"     : "ps_empate",
+    "PSA"     : "ps_visit",
+    "PSCH"    : "ps_local",
+    "PSCD"    : "ps_empate",
+    "PSCA"    : "ps_visit",
 }
 
 # Columnas mínimas que DEBE tener el CSV para ser válido
@@ -181,9 +192,21 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
     log.info(f"   📊 Filas originales: {len(df)} | Columnas: {list(df.columns[:8])}...")
 
     # ── 3. Renombrar columnas ─────────────────────────────────────────────
-    # Renombramos solo las columnas que existen en el archivo
-    columnas_presentes = {k: v for k, v in MAPA_COLUMNAS.items() if k in df.columns}
+    # Renombramos solo las columnas que existen en el archivo.
+    # Para las cuotas PS*, si existen PSH y PSCH a la vez, priorizamos PSH.
+    odds_ps_map = {"PSH":"ps_local","PSD":"ps_empate","PSA":"ps_visit"}
+    odds_psc_map= {"PSCH":"ps_local","PSCD":"ps_empate","PSCA":"ps_visit"}
+    # Si ya existen PSH/PSD/PSA, no necesitamos PSCH/PSCD/PSCA
+    psc_needed = not any(k in df.columns for k in odds_ps_map)
+    columnas_presentes = {}
+    for k, v in MAPA_COLUMNAS.items():
+        if k in df.columns:
+            if k in odds_psc_map and not psc_needed:
+                continue   # PSH ya cubre esto
+            columnas_presentes[k] = v
     df = df.rename(columns=columnas_presentes)
+    # Eliminar columnas duplicadas que puedan haber quedado tras el rename
+    df = df.loc[:, ~df.columns.duplicated(keep='first')]
 
     # ── 4. Verificar columnas mínimas requeridas ──────────────────────────
     faltantes = [c for c in COLUMNAS_REQUERIDAS if c not in df.columns]
@@ -196,7 +219,9 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
                              "goles_local", "goles_visitante"]
     for col in ["corners_local", "corners_visitante",
                 "amarillas_local", "amarillas_visitante",
-                "rojas_local", "rojas_visitante"]:
+                "rojas_local", "rojas_visitante",
+                "b365_local", "b365_empate", "b365_visit",
+                "ps_local", "ps_empate", "ps_visit"]:
         if col in df.columns:
             columnas_disponibles.append(col)
 
@@ -212,6 +237,11 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
                 "rojas_local", "rojas_visitante"]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
+    # Cuotas: float, se permiten NaN (no todas las temporadas las tienen)
+    for col in ["b365_local", "b365_empate", "b365_visit",
+                "ps_local", "ps_empate", "ps_visit"]:
+        if col in df.columns:
+            df[col] = pd.to_numeric(df[col], errors="coerce").round(2)
 
     # ── 8. Eliminar filas con datos faltantes en columnas clave ───────────
     filas_antes = len(df)
@@ -249,7 +279,7 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
     df["temporada"] = temporada
 
     # ── 12. Reordenar columnas ────────────────────────────────────────────
-    orden_columnas = [
+    orden_base = [
         "fecha", "liga", "temporada",
         "equipo_local", "equipo_visitante",
         "goles_local", "goles_visitante",
@@ -258,8 +288,13 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
         "rojas_local", "rojas_visitante",
         "total_goles", "total_corners",
         "total_amarillas", "total_rojas",
-        "ambos_marcan", "over_2_5"
+        "ambos_marcan", "over_2_5",
     ]
+    orden_odds = [c for c in [
+        "b365_local", "b365_empate", "b365_visit",
+        "ps_local", "ps_empate", "ps_visit",
+    ] if c in df.columns]
+    orden_columnas = orden_base + orden_odds
     df = df[orden_columnas]
 
     # ── 13. Ordenar por fecha ─────────────────────────────────────────────

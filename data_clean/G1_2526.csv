@@ -1,183 +1,183 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
-2025-08-23,Super League Greece,2025-26,Aris,Volos NFC,2,0,5,4,2,4,0,0,2,9,6,0,0,0
-2025-08-23,Super League Greece,2025-26,Olympiakos,Asteras Tripolis,2,0,12,3,0,3,0,0,2,15,3,0,0,0
-2025-08-23,Super League Greece,2025-26,Panetolikos,Atromitos,0,2,1,4,1,2,0,0,2,5,3,0,0,0
-2025-08-24,Super League Greece,2025-26,AEK,Panserraikos,2,0,9,1,1,1,0,0,2,10,2,0,0,0
-2025-08-24,Super League Greece,2025-26,PAOK,Larisa,1,0,9,2,1,2,0,0,1,11,3,0,0,0
-2025-08-25,Super League Greece,2025-26,Levadeiakos,Kifisia,3,2,7,3,2,3,1,0,5,10,5,1,1,1
-2025-08-30,Super League Greece,2025-26,Volos NFC,Olympiakos,0,2,4,8,2,0,0,0,2,12,2,0,0,0
-2025-08-30,Super League Greece,2025-26,Panserraikos,OFI Crete,0,1,3,6,2,2,0,0,1,9,4,0,0,0
-2025-08-30,Super League Greece,2025-26,Aris,Panetolikos,0,2,7,2,0,6,0,0,2,9,6,0,0,0
-2025-08-30,Super League Greece,2025-26,Larisa,Kifisia,1,1,2,5,4,5,0,0,2,7,9,0,1,0
-2025-08-31,Super League Greece,2025-26,Panathinaikos,Levadeiakos,1,1,7,3,1,1,0,0,2,10,2,0,1,0
-2025-08-31,Super League Greece,2025-26,AEK,Asteras Tripolis,1,0,5,3,3,2,0,0,1,8,5,0,0,0
-2025-08-31,Super League Greece,2025-26,PAOK,Atromitos,1,0,6,1,1,6,0,1,1,7,7,1,0,0
-2025-09-13,Super League Greece,2025-26,Olympiakos,Panserraikos,5,0,11,0,0,3,0,1,5,11,3,1,0,1
-2025-09-13,Super League Greece,2025-26,Atromitos,Aris,1,2,4,7,1,2,0,0,3,11,3,0,1,1
-2025-09-13,Super League Greece,2025-26,Panetolikos,Volos NFC,1,2,7,3,5,6,0,0,3,10,11,0,1,1
-2025-09-14,Super League Greece,2025-26,OFI Crete,PAOK,1,2,5,2,2,1,0,0,3,7,3,0,1,1
-2025-09-14,Super League Greece,2025-26,Asteras Tripolis,Larisa,2,2,4,2,4,4,0,0,4,6,8,0,1,1
-2025-09-14,Super League Greece,2025-26,Kifisia,Panathinaikos,3,2,3,6,5,4,0,0,5,9,9,0,1,1
-2025-09-14,Super League Greece,2025-26,Levadeiakos,AEK,0,1,2,8,2,2,0,0,1,10,4,0,0,0
-2025-09-20,Super League Greece,2025-26,PAOK,Panetolikos,0,0,12,1,1,5,0,1,0,13,6,1,0,0
-2025-09-20,Super League Greece,2025-26,Volos NFC,Asteras Tripolis,2,1,7,3,3,4,0,0,3,10,7,0,1,1
-2025-09-20,Super League Greece,2025-26,Kifisia,Aris,0,1,2,4,1,3,1,0,1,6,4,1,0,0
-2025-09-20,Super League Greece,2025-26,Panserraikos,Atromitos,1,1,3,7,5,3,0,0,2,10,8,0,1,0
-2025-09-21,Super League Greece,2025-26,Larisa,AEK,1,1,4,6,4,0,0,0,2,10,4,0,1,0
-2025-09-21,Super League Greece,2025-26,Levadeiakos,OFI Crete,4,0,7,3,1,3,0,2,4,10,4,2,0,1
-2025-09-21,Super League Greece,2025-26,Panathinaikos,Olympiakos,1,1,1,4,4,4,0,0,2,5,8,0,1,0
-2025-09-27,Super League Greece,2025-26,Olympiakos,Levadeiakos,3,2,10,3,2,5,0,0,5,13,7,0,1,1
-2025-09-27,Super League Greece,2025-26,Aris,Panserraikos,1,1,10,1,2,4,0,0,2,11,6,0,1,0
-2025-09-28,Super League Greece,2025-26,Panetolikos,Panathinaikos,1,2,2,5,2,3,0,0,3,7,5,0,1,1
-2025-09-28,Super League Greece,2025-26,AEK,Volos NFC,1,0,2,1,3,2,0,0,1,3,5,0,0,0
-2025-09-28,Super League Greece,2025-26,OFI Crete,Kifisia,1,3,3,6,2,6,1,0,4,9,8,1,1,1
-2025-09-28,Super League Greece,2025-26,Asteras Tripolis,PAOK,3,3,4,4,7,4,1,0,6,8,11,1,1,1
-2025-09-29,Super League Greece,2025-26,Atromitos,Larisa,1,1,2,3,1,6,0,1,2,5,7,1,1,0
-2025-10-04,Super League Greece,2025-26,OFI Crete,Aris,3,0,2,5,4,0,0,0,3,7,4,0,0,1
-2025-10-04,Super League Greece,2025-26,Panserraikos,Asteras Tripolis,2,1,2,4,5,4,0,0,3,6,9,0,1,1
-2025-10-04,Super League Greece,2025-26,Larisa,Volos NFC,2,5,10,2,4,3,0,0,7,12,7,0,1,1
-2025-10-05,Super League Greece,2025-26,Kifisia,AEK,2,3,6,3,3,6,0,1,5,9,9,1,1,1
-2025-10-05,Super League Greece,2025-26,Levadeiakos,Panetolikos,6,0,6,2,0,3,0,2,6,8,3,2,0,1
-2025-10-05,Super League Greece,2025-26,PAOK,Olympiakos,2,1,1,3,4,3,0,0,3,4,7,0,1,1
-2025-10-05,Super League Greece,2025-26,Panathinaikos,Atromitos,1,0,6,2,0,2,0,0,1,8,2,0,0,0
-2025-10-18,Super League Greece,2025-26,Larisa,Olympiakos,0,2,1,6,3,1,0,0,2,7,4,0,0,0
-2025-10-18,Super League Greece,2025-26,Atromitos,Levadeiakos,2,2,1,5,6,0,0,0,4,6,6,0,1,1
-2025-10-18,Super League Greece,2025-26,Panetolikos,OFI Crete,4,2,4,7,4,4,1,1,6,11,8,2,1,1
-2025-10-19,Super League Greece,2025-26,AEK,PAOK,0,2,5,3,2,1,1,0,2,8,3,1,0,0
-2025-10-19,Super League Greece,2025-26,Aris,Panathinaikos,1,1,2,2,1,2,0,0,2,4,3,0,1,0
-2025-10-19,Super League Greece,2025-26,Volos NFC,Panserraikos,2,1,11,2,0,3,0,0,3,13,3,0,1,1
-2025-10-19,Super League Greece,2025-26,Asteras Tripolis,Kifisia,2,2,3,5,6,5,0,0,4,8,11,0,1,1
-2025-10-25,Super League Greece,2025-26,Kifisia,Panetolikos,1,1,4,4,6,1,1,0,2,8,7,1,1,0
-2025-10-25,Super League Greece,2025-26,Panserraikos,Larisa,0,2,1,6,2,3,1,0,2,7,5,1,0,0
-2025-10-25,Super League Greece,2025-26,OFI Crete,Atromitos,1,3,4,8,2,2,0,0,4,12,4,0,1,1
-2025-10-26,Super League Greece,2025-26,Levadeiakos,Aris,1,1,5,7,1,3,0,0,2,12,4,0,1,0
-2025-10-26,Super League Greece,2025-26,Panathinaikos,Asteras Tripolis,2,0,6,2,3,3,0,0,2,8,6,0,0,0
-2025-10-26,Super League Greece,2025-26,PAOK,Volos NFC,3,0,6,0,2,2,0,0,3,6,4,0,0,1
-2025-10-26,Super League Greece,2025-26,Olympiakos,AEK,2,0,4,4,3,2,0,0,2,8,5,0,0,0
-2025-11-01,Super League Greece,2025-26,Olympiakos,Aris,2,1,5,7,2,1,1,0,3,12,3,1,1,1
-2025-11-01,Super League Greece,2025-26,Volos NFC,Panathinaikos,1,0,0,5,5,1,0,0,1,5,6,0,0,0
-2025-11-01,Super League Greece,2025-26,Atromitos,Kifisia,1,2,3,9,1,4,0,0,3,12,5,0,1,1
-2025-11-02,Super League Greece,2025-26,Larisa,Levadeiakos,0,2,3,11,3,4,0,0,2,14,7,0,0,0
-2025-11-02,Super League Greece,2025-26,Panserraikos,PAOK,0,5,2,4,0,0,0,0,5,6,0,0,0,1
-2025-11-02,Super League Greece,2025-26,AEK,Panetolikos,1,0,8,2,4,2,0,0,1,10,6,0,0,0
-2025-11-03,Super League Greece,2025-26,Asteras Tripolis,OFI Crete,3,0,10,1,2,4,0,1,3,11,6,1,0,1
-2025-11-08,Super League Greece,2025-26,Panetolikos,Larisa,3,0,4,2,1,1,0,0,3,6,2,0,0,1
-2025-11-09,Super League Greece,2025-26,Atromitos,Volos NFC,0,1,7,0,2,4,0,0,1,7,6,0,0,0
-2025-11-09,Super League Greece,2025-26,OFI Crete,AEK,0,1,0,6,2,2,0,0,1,6,4,0,0,0
-2025-11-09,Super League Greece,2025-26,Panathinaikos,PAOK,2,1,3,5,5,3,0,0,3,8,8,0,1,1
-2025-11-09,Super League Greece,2025-26,Kifisia,Olympiakos,1,3,1,10,5,1,1,0,4,11,6,1,1,1
-2025-11-09,Super League Greece,2025-26,Aris,Asteras Tripolis,0,0,4,6,2,6,1,0,0,10,8,1,0,0
-2025-11-09,Super League Greece,2025-26,Levadeiakos,Panserraikos,5,2,6,4,1,4,0,0,7,10,5,0,1,1
-2025-11-22,Super League Greece,2025-26,Asteras Tripolis,Panetolikos,1,1,3,3,2,1,0,0,2,6,3,0,1,0
-2025-11-22,Super League Greece,2025-26,Olympiakos,Atromitos,3,0,7,1,0,2,0,0,3,8,2,0,0,1
-2025-11-23,Super League Greece,2025-26,Panserraikos,Panathinaikos,0,3,3,8,2,1,0,0,3,11,3,0,0,1
-2025-11-23,Super League Greece,2025-26,PAOK,Kifisia,3,0,8,4,1,7,0,1,3,12,8,1,0,1
-2025-11-23,Super League Greece,2025-26,AEK,Aris,1,0,10,1,3,2,0,0,1,11,5,0,0,0
-2025-11-24,Super League Greece,2025-26,Volos NFC,Levadeiakos,1,2,2,2,3,2,0,0,3,4,5,0,1,1
-2025-11-24,Super League Greece,2025-26,Larisa,OFI Crete,1,2,6,3,4,3,0,0,3,9,7,0,1,1
-2025-11-29,Super League Greece,2025-26,Aris,Larisa,2,1,7,0,4,6,0,1,3,7,10,1,1,1
-2025-11-29,Super League Greece,2025-26,Kifisia,Panserraikos,3,0,4,4,2,3,1,1,3,8,5,2,0,1
-2025-11-29,Super League Greece,2025-26,OFI Crete,Volos NFC,0,1,1,5,2,3,0,0,1,6,5,0,0,0
-2025-11-30,Super League Greece,2025-26,Atromitos,Asteras Tripolis,0,1,7,6,2,1,0,0,1,13,3,0,0,0
-2025-11-30,Super League Greece,2025-26,Panetolikos,Olympiakos,0,1,3,9,0,0,0,0,1,12,0,0,0,0
-2025-11-30,Super League Greece,2025-26,Levadeiakos,PAOK,2,3,2,5,0,2,0,1,5,7,2,1,1,1
-2025-11-30,Super League Greece,2025-26,Panathinaikos,AEK,2,3,5,2,4,5,1,1,5,7,9,2,1,1
-2025-12-06,Super League Greece,2025-26,Olympiakos,OFI Crete,3,0,7,0,0,2,0,0,3,7,2,0,0,1
-2025-12-06,Super League Greece,2025-26,Volos NFC,Kifisia,1,1,8,8,4,4,0,0,2,16,8,0,1,0
-2025-12-07,Super League Greece,2025-26,Asteras Tripolis,Levadeiakos,1,1,2,9,3,1,0,0,2,11,4,0,1,0
-2025-12-07,Super League Greece,2025-26,Larisa,Panathinaikos,2,2,4,5,4,4,0,1,4,9,8,1,1,1
-2025-12-07,Super League Greece,2025-26,PAOK,Aris,3,1,7,2,2,0,0,0,4,9,2,0,1,1
-2025-12-07,Super League Greece,2025-26,AEK,Atromitos,4,1,5,0,1,3,0,0,5,5,4,0,1,1
-2025-12-08,Super League Greece,2025-26,Panserraikos,Panetolikos,0,1,2,0,2,3,0,0,1,2,5,0,0,0
-2025-12-13,Super League Greece,2025-26,Kifisia,Asteras Tripolis,0,0,6,4,1,3,0,0,0,10,4,0,0,0
-2025-12-13,Super League Greece,2025-26,Levadeiakos,Larisa,3,0,9,2,1,3,0,0,3,11,4,0,0,1
-2025-12-13,Super League Greece,2025-26,OFI Crete,Panserraikos,3,0,8,5,4,3,0,0,3,13,7,0,0,1
-2025-12-14,Super League Greece,2025-26,Panetolikos,AEK,0,5,2,3,2,2,0,0,5,5,4,0,0,1
-2025-12-14,Super League Greece,2025-26,Atromitos,PAOK,2,0,3,9,3,1,0,0,2,12,4,0,0,0
-2025-12-14,Super League Greece,2025-26,Aris,Olympiakos,0,0,3,5,5,3,1,1,0,8,8,2,0,0
-2025-12-14,Super League Greece,2025-26,Panathinaikos,Volos NFC,2,1,6,5,3,6,0,0,3,11,9,0,1,1
-2025-12-20,Super League Greece,2025-26,Asteras Tripolis,Aris,0,1,7,3,3,3,0,0,1,10,6,0,0,0
-2025-12-20,Super League Greece,2025-26,Volos NFC,Panetolikos,1,0,4,9,3,1,0,0,1,13,4,0,0,0
-2025-12-20,Super League Greece,2025-26,Olympiakos,Kifisia,1,1,18,1,0,5,0,1,2,19,5,1,1,0
-2025-12-21,Super League Greece,2025-26,PAOK,Panathinaikos,2,0,7,3,1,3,0,0,2,10,4,0,0,0
-2025-12-21,Super League Greece,2025-26,AEK,OFI Crete,2,1,5,3,4,4,0,0,3,8,8,0,1,1
-2025-12-21,Super League Greece,2025-26,Larisa,Atromitos,0,0,1,4,2,5,0,0,0,5,7,0,0,0
-2025-12-22,Super League Greece,2025-26,Panserraikos,Levadeiakos,0,2,2,7,2,2,2,0,2,9,4,2,0,0
-2026-01-10,Super League Greece,2025-26,Kifisia,Larisa,1,1,4,4,4,4,0,1,2,8,8,1,1,0
-2026-01-10,Super League Greece,2025-26,Atromitos,Olympiakos,0,2,2,5,3,2,0,0,2,7,5,0,0,0
-2026-01-10,Super League Greece,2025-26,Panetolikos,PAOK,0,3,5,8,3,1,0,0,3,13,4,0,0,1
-2026-01-11,Super League Greece,2025-26,Levadeiakos,Volos NFC,3,1,1,3,1,3,0,0,4,4,4,0,1,1
-2026-01-11,Super League Greece,2025-26,OFI Crete,Asteras Tripolis,4,0,2,6,1,3,0,1,4,8,4,1,0,1
-2026-01-11,Super League Greece,2025-26,Aris,AEK,1,1,7,4,3,2,0,0,2,11,5,0,1,0
-2026-01-11,Super League Greece,2025-26,Panathinaikos,Panserraikos,3,0,10,1,1,5,0,1,3,11,6,1,0,1
-2026-01-17,Super League Greece,2025-26,Panserraikos,Kifisia,2,1,7,3,4,3,0,0,3,10,7,0,1,1
-2026-01-18,Super League Greece,2025-26,AEK,Panathinaikos,4,0,2,3,1,1,0,0,4,5,2,0,0,1
-2026-01-18,Super League Greece,2025-26,PAOK,OFI Crete,3,0,6,0,1,3,0,0,3,6,4,0,0,1
-2026-01-18,Super League Greece,2025-26,Larisa,Aris,1,0,4,6,5,4,0,0,1,10,9,0,0,0
-2026-01-19,Super League Greece,2025-26,Panetolikos,Levadeiakos,1,3,6,5,2,2,0,0,4,11,4,0,1,1
-2026-01-19,Super League Greece,2025-26,Volos NFC,Atromitos,0,3,3,4,6,3,0,0,3,7,9,0,0,1
-2026-01-24,Super League Greece,2025-26,Olympiakos,Volos NFC,1,0,13,3,0,0,0,0,1,16,0,0,0,0
-2026-01-24,Super League Greece,2025-26,Asteras Tripolis,AEK,0,1,10,8,2,4,0,0,1,18,6,0,0,0
-2026-01-24,Super League Greece,2025-26,Larisa,Panserraikos,1,0,5,1,5,4,0,1,1,6,9,1,0,0
-2026-01-25,Super League Greece,2025-26,Aris,Levadeiakos,2,2,7,6,6,5,0,0,4,13,11,0,1,1
-2026-01-25,Super League Greece,2025-26,OFI Crete,Panetolikos,1,0,4,5,1,3,0,1,1,9,4,1,0,0
-2026-01-25,Super League Greece,2025-26,Atromitos,Panathinaikos,0,0,1,2,2,2,0,0,0,3,4,0,0,0
-2026-01-31,Super League Greece,2025-26,Volos NFC,Larisa,0,2,7,4,1,0,1,0,2,11,1,1,0,0
-2026-01-31,Super League Greece,2025-26,Atromitos,OFI Crete,1,2,8,2,2,3,0,0,3,10,5,0,1,1
-2026-01-31,Super League Greece,2025-26,Panetolikos,Aris,0,1,1,5,1,2,1,0,1,6,3,1,0,0
-2026-02-01,Super League Greece,2025-26,Levadeiakos,Asteras Tripolis,3,1,3,6,3,4,0,0,4,9,7,0,1,1
-2026-02-01,Super League Greece,2025-26,Panathinaikos,Kifisia,3,0,4,5,2,7,0,1,3,9,9,1,0,1
-2026-02-01,Super League Greece,2025-26,PAOK,Panserraikos,4,1,6,1,0,0,0,0,5,7,0,0,1,1
-2026-02-01,Super League Greece,2025-26,AEK,Olympiakos,1,1,3,1,3,5,0,0,2,4,8,0,1,0
-2026-02-04,Super League Greece,2025-26,Asteras Tripolis,Olympiakos,0,3,0,7,1,2,0,0,3,7,3,0,0,1
-2026-02-07,Super League Greece,2025-26,Larisa,Panetolikos,1,4,5,2,4,2,0,0,5,7,6,0,1,1
-2026-02-07,Super League Greece,2025-26,Asteras Tripolis,Volos NFC,2,0,11,5,1,3,0,0,2,16,4,0,0,0
-2026-02-07,Super League Greece,2025-26,Kifisia,Atromitos,0,1,4,4,0,2,0,0,1,8,2,0,0,0
-2026-02-08,Super League Greece,2025-26,Olympiakos,Panathinaikos,0,1,2,2,1,3,0,0,1,4,4,0,0,0
-2026-02-08,Super League Greece,2025-26,Aris,PAOK,0,0,4,4,4,3,0,0,0,8,7,0,0,0
-2026-02-08,Super League Greece,2025-26,Panserraikos,AEK,0,4,0,9,4,3,1,0,4,9,7,1,0,1
-2026-02-08,Super League Greece,2025-26,OFI Crete,Levadeiakos,3,2,3,6,1,2,0,0,5,9,3,0,1,1
-2026-02-14,Super League Greece,2025-26,Panetolikos,Asteras Tripolis,3,1,6,2,2,2,0,0,4,8,4,0,1,1
-2026-02-14,Super League Greece,2025-26,Levadeiakos,Olympiakos,0,0,2,8,3,1,1,0,0,10,4,1,0,0
-2026-02-14,Super League Greece,2025-26,Volos NFC,Aris,1,1,4,1,2,3,0,1,2,5,5,1,1,0
-2026-02-15,Super League Greece,2025-26,Kifisia,OFI Crete,2,2,4,2,3,2,0,0,4,6,5,0,1,1
-2026-02-15,Super League Greece,2025-26,PAOK,AEK,0,0,7,5,4,4,0,0,0,12,8,0,0,0
-2026-02-15,Super League Greece,2025-26,Panathinaikos,Larisa,1,1,4,1,3,2,0,0,2,5,5,0,1,0
-2026-02-16,Super League Greece,2025-26,Atromitos,Panserraikos,2,2,4,3,3,3,0,1,4,7,6,1,1,1
-2026-02-21,Super League Greece,2025-26,Olympiakos,Panetolikos,2,0,12,4,1,2,0,0,2,16,3,0,0,0
-2026-02-21,Super League Greece,2025-26,Asteras Tripolis,Atromitos,1,2,6,6,2,1,0,0,3,12,3,0,1,1
-2026-02-22,Super League Greece,2025-26,OFI Crete,Panathinaikos,0,2,2,7,2,3,1,0,2,9,5,1,0,0
-2026-02-22,Super League Greece,2025-26,Panserraikos,Volos NFC,2,1,2,3,1,3,0,0,3,5,4,0,1,1
-2026-02-22,Super League Greece,2025-26,Larisa,PAOK,1,1,4,5,4,0,0,0,2,9,4,0,1,0
-2026-02-22,Super League Greece,2025-26,Aris,Kifisia,1,1,9,3,3,3,0,0,2,12,6,0,1,0
-2026-02-22,Super League Greece,2025-26,AEK,Levadeiakos,4,0,3,3,3,2,0,0,4,6,5,0,0,1
-2026-02-28,Super League Greece,2025-26,OFI Crete,Larisa,3,0,4,7,0,4,0,0,3,11,4,0,0,1
-2026-02-28,Super League Greece,2025-26,Atromitos,Panetolikos,1,0,4,0,5,3,0,0,1,4,8,0,0,0
-2026-02-28,Super League Greece,2025-26,Kifisia,Levadeiakos,1,0,3,5,6,2,0,0,1,8,8,0,0,0
-2026-03-01,Super League Greece,2025-26,Panathinaikos,Aris,3,1,1,5,2,3,0,0,4,6,5,0,1,1
-2026-03-01,Super League Greece,2025-26,Volos NFC,AEK,2,2,1,7,6,3,0,0,4,8,9,0,1,1
-2026-03-01,Super League Greece,2025-26,Panserraikos,Olympiakos,1,2,1,5,1,1,0,0,3,6,2,0,1,1
-2026-03-01,Super League Greece,2025-26,PAOK,Asteras Tripolis,2,0,6,1,0,2,0,0,2,7,2,0,0,0
-2026-03-04,Super League Greece,2025-26,Panathinaikos,OFI Crete,4,1,5,0,1,3,0,0,5,5,4,0,1,1
-2026-03-04,Super League Greece,2025-26,Kifisia,PAOK,1,4,1,2,1,2,0,0,5,3,3,0,1,1
-2026-03-07,Super League Greece,2025-26,Aris,Atromitos,0,0,2,8,0,3,1,0,0,10,3,1,0,0
-2026-03-07,Super League Greece,2025-26,AEK,Larisa,1,0,7,3,2,3,0,0,1,10,5,0,0,0
-2026-03-08,Super League Greece,2025-26,Olympiakos,PAOK,0,0,8,3,1,1,0,0,0,11,2,0,0,0
-2026-03-08,Super League Greece,2025-26,Asteras Tripolis,Panserraikos,0,1,4,2,2,4,1,0,1,6,6,1,0,0
-2026-03-08,Super League Greece,2025-26,Volos NFC,OFI Crete,1,1,9,4,1,3,0,0,2,13,4,0,1,0
-2026-03-08,Super League Greece,2025-26,Levadeiakos,Panathinaikos,1,4,3,3,2,3,0,0,5,6,5,0,1,1
-2026-03-09,Super League Greece,2025-26,Panetolikos,Kifisia,2,1,6,5,3,2,1,0,3,11,5,1,1,1
-2026-03-14,Super League Greece,2025-26,OFI Crete,Olympiakos,0,3,0,1,2,3,0,0,3,1,5,0,0,1
-2026-03-14,Super League Greece,2025-26,Panserraikos,Aris,0,0,6,6,1,1,0,1,0,12,2,1,0,0
-2026-03-14,Super League Greece,2025-26,Larisa,Asteras Tripolis,1,1,6,5,3,2,0,0,2,11,5,0,1,0
-2026-03-15,Super League Greece,2025-26,PAOK,Levadeiakos,3,0,9,4,2,2,0,0,3,13,4,0,0,1
-2026-03-15,Super League Greece,2025-26,Atromitos,AEK,2,2,1,7,2,2,0,0,4,8,4,0,1,1
-2026-03-15,Super League Greece,2025-26,Kifisia,Volos NFC,2,0,3,6,2,3,0,0,2,9,5,0,0,0
-2026-03-15,Super League Greece,2025-26,Panathinaikos,Panetolikos,0,0,5,6,0,1,0,0,0,11,1,0,0,0
-2026-03-22,Super League Greece,2025-26,Olympiakos,Larisa,0,0,10,0,0,3,0,0,0,10,3,0,0,0
-2026-03-22,Super League Greece,2025-26,Levadeiakos,Atromitos,1,0,3,4,4,3,0,0,1,7,7,0,0,0
-2026-03-22,Super League Greece,2025-26,Panetolikos,Panserraikos,0,0,9,1,2,2,0,0,0,10,4,0,0,0
-2026-03-22,Super League Greece,2025-26,Aris,OFI Crete,0,2,7,3,4,3,0,0,2,10,7,0,0,0
-2026-03-22,Super League Greece,2025-26,AEK,Kifisia,3,0,3,5,1,4,0,0,3,8,5,0,0,1
-2026-03-22,Super League Greece,2025-26,Asteras Tripolis,Panathinaikos,1,2,2,5,1,1,0,0,3,7,2,0,1,1
-2026-03-22,Super League Greece,2025-26,Volos NFC,PAOK,2,1,3,6,4,0,0,0,3,9,4,0,1,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5,b365_local,b365_empate,b365_visit,ps_local,ps_empate,ps_visit
+2025-08-23,Super League Greece,2025-26,Aris,Volos NFC,2,0,5,4,2,4,0,0,2,9,6,0,0,0,1.7,4.0,4.5,1.71,3.68,4.92
+2025-08-23,Super League Greece,2025-26,Olympiakos,Asteras Tripolis,2,0,12,3,0,3,0,0,2,15,3,0,0,0,1.22,6.0,13.0,1.2,6.3,13.44
+2025-08-23,Super League Greece,2025-26,Panetolikos,Atromitos,0,2,1,4,1,2,0,0,2,5,3,0,0,0,3.1,3.0,2.45,3.09,2.95,2.55
+2025-08-24,Super League Greece,2025-26,AEK,Panserraikos,2,0,9,1,1,1,0,0,2,10,2,0,0,0,1.22,6.0,13.0,1.21,6.3,11.75
+2025-08-24,Super League Greece,2025-26,PAOK,Larisa,1,0,9,2,1,2,0,0,1,11,3,0,0,0,1.29,5.25,11.0,1.27,5.7,9.83
+2025-08-25,Super League Greece,2025-26,Levadeiakos,Kifisia,3,2,7,3,2,3,1,0,5,10,5,1,1,1,1.85,3.4,4.5,1.93,3.29,4.26
+2025-08-30,Super League Greece,2025-26,Volos NFC,Olympiakos,0,2,4,8,2,0,0,0,2,12,2,0,0,0,15.0,5.0,1.22,13.83,5.13,1.26
+2025-08-30,Super League Greece,2025-26,Panserraikos,OFI Crete,0,1,3,6,2,2,0,0,1,9,4,0,0,0,3.0,3.4,2.25,3.09,3.43,2.27
+2025-08-30,Super League Greece,2025-26,Aris,Panetolikos,0,2,7,2,0,6,0,0,2,9,6,0,0,0,1.41,4.33,7.0,1.46,4.25,7.09
+2025-08-30,Super League Greece,2025-26,Larisa,Kifisia,1,1,2,5,4,5,0,0,2,7,9,0,1,0,2.1,3.2,3.4,2.22,2.95,3.74
+2025-08-31,Super League Greece,2025-26,Panathinaikos,Levadeiakos,1,1,7,3,1,1,0,0,2,10,2,0,1,0,1.3,5.0,9.5,1.29,5.32,9.7
+2025-08-31,Super League Greece,2025-26,AEK,Asteras Tripolis,1,0,5,3,3,2,0,0,1,8,5,0,0,0,1.22,6.0,10.0,1.25,5.72,10.75
+2025-08-31,Super League Greece,2025-26,PAOK,Atromitos,1,0,6,1,1,6,0,1,1,7,7,1,0,0,1.33,4.75,8.5,1.36,4.9,8.17
+2025-09-13,Super League Greece,2025-26,Olympiakos,Panserraikos,5,0,11,0,0,3,0,1,5,11,3,1,0,1,1.1,8.0,26.0,1.1,9.6,24.27
+2025-09-13,Super League Greece,2025-26,Atromitos,Aris,1,2,4,7,1,2,0,0,3,11,3,0,1,1,3.2,3.2,2.25,3.34,3.07,2.33
+2025-09-13,Super League Greece,2025-26,Panetolikos,Volos NFC,1,2,7,3,5,6,0,0,3,10,11,0,1,1,2.57,3.1,2.75,2.68,3.15,2.74
+2025-09-14,Super League Greece,2025-26,OFI Crete,PAOK,1,2,5,2,2,1,0,0,3,7,3,0,1,1,5.25,3.7,1.62,4.86,3.96,1.66
+2025-09-14,Super League Greece,2025-26,Asteras Tripolis,Larisa,2,2,4,2,4,4,0,0,4,6,8,0,1,1,1.86,3.2,4.33,1.93,3.47,3.97
+2025-09-14,Super League Greece,2025-26,Kifisia,Panathinaikos,3,2,3,6,5,4,0,0,5,9,9,0,1,1,10.0,4.75,1.3,,,
+2025-09-14,Super League Greece,2025-26,Levadeiakos,AEK,0,1,2,8,2,2,0,0,1,10,4,0,0,0,7.5,3.9,1.45,6.92,4.22,1.47
+2025-09-20,Super League Greece,2025-26,PAOK,Panetolikos,0,0,12,1,1,5,0,1,0,13,6,1,0,0,1.17,6.0,19.0,1.17,6.86,15.75
+2025-09-20,Super League Greece,2025-26,Volos NFC,Asteras Tripolis,2,1,7,3,3,4,0,0,3,10,7,0,1,1,2.35,3.25,3.0,2.42,3.27,2.98
+2025-09-20,Super League Greece,2025-26,Kifisia,Aris,0,1,2,4,1,3,1,0,1,6,4,1,0,0,4.0,3.4,1.91,4.2,3.25,1.95
+2025-09-20,Super League Greece,2025-26,Panserraikos,Atromitos,1,1,3,7,5,3,0,0,2,10,8,0,1,0,3.5,3.0,2.2,4.16,2.48,2.42
+2025-09-21,Super League Greece,2025-26,Larisa,AEK,1,1,4,6,4,0,0,0,2,10,4,0,1,0,8.0,4.5,1.37,7.45,4.56,1.41
+2025-09-21,Super League Greece,2025-26,Levadeiakos,OFI Crete,4,0,7,3,1,3,0,2,4,10,4,2,0,1,2.01,3.6,3.4,2.08,3.36,3.59
+2025-09-21,Super League Greece,2025-26,Panathinaikos,Olympiakos,1,1,1,4,4,4,0,0,2,5,8,0,1,0,3.4,3.2,2.15,3.51,3.24,2.17
+2025-09-27,Super League Greece,2025-26,Olympiakos,Levadeiakos,3,2,10,3,2,5,0,0,5,13,7,0,1,1,1.17,6.5,13.0,1.2,6.33,13.69
+2025-09-27,Super League Greece,2025-26,Aris,Panserraikos,1,1,10,1,2,4,0,0,2,11,6,0,1,0,1.33,5.0,8.0,1.34,4.97,8.6
+2025-09-28,Super League Greece,2025-26,Panetolikos,Panathinaikos,1,2,2,5,2,3,0,0,3,7,5,0,1,1,8.0,4.33,1.41,7.66,4.38,1.42
+2025-09-28,Super League Greece,2025-26,AEK,Volos NFC,1,0,2,1,3,2,0,0,1,3,5,0,0,0,1.22,6.5,10.0,1.22,6.13,11.77
+2025-09-28,Super League Greece,2025-26,OFI Crete,Kifisia,1,3,3,6,2,6,1,0,4,9,8,1,1,1,1.86,3.5,4.1,1.93,3.51,3.94
+2025-09-28,Super League Greece,2025-26,Asteras Tripolis,PAOK,3,3,4,4,7,4,1,0,6,8,11,1,1,1,6.5,4.0,1.49,6.51,4.13,1.5
+2025-09-29,Super League Greece,2025-26,Atromitos,Larisa,1,1,2,3,1,6,0,1,2,5,7,1,1,0,1.91,3.6,3.8,1.97,3.57,3.71
+2025-10-04,Super League Greece,2025-26,OFI Crete,Aris,3,0,2,5,4,0,0,0,3,7,4,0,0,1,4.33,3.4,1.86,3.94,3.71,1.87
+2025-10-04,Super League Greece,2025-26,Panserraikos,Asteras Tripolis,2,1,2,4,5,4,0,0,3,6,9,0,1,1,3.0,3.2,2.35,2.97,3.28,2.42
+2025-10-04,Super League Greece,2025-26,Larisa,Volos NFC,2,5,10,2,4,3,0,0,7,12,7,0,1,1,2.4,3.25,2.85,2.52,3.04,3.04
+2025-10-05,Super League Greece,2025-26,Kifisia,AEK,2,3,6,3,3,6,0,1,5,9,9,1,1,1,9.0,5.75,1.25,11.38,5.04,1.29
+2025-10-05,Super League Greece,2025-26,Levadeiakos,Panetolikos,6,0,6,2,0,3,0,2,6,8,3,2,0,1,1.62,3.5,5.75,1.65,3.57,5.71
+2025-10-05,Super League Greece,2025-26,PAOK,Olympiakos,2,1,1,3,4,3,0,0,3,4,7,0,1,1,2.5,3.1,2.75,2.46,3.57,2.71
+2025-10-05,Super League Greece,2025-26,Panathinaikos,Atromitos,1,0,6,2,0,2,0,0,1,8,2,0,0,0,1.42,4.5,6.25,1.51,4.11,6.42
+2025-10-18,Super League Greece,2025-26,Larisa,Olympiakos,0,2,1,6,3,1,0,0,2,7,4,0,0,0,13.0,6.0,1.19,12.45,6.21,1.21
+2025-10-18,Super League Greece,2025-26,Atromitos,Levadeiakos,2,2,1,5,6,0,0,0,4,6,6,0,1,1,2.45,3.3,2.7,2.65,3.23,2.71
+2025-10-18,Super League Greece,2025-26,Panetolikos,OFI Crete,4,2,4,7,4,4,1,1,6,11,8,2,1,1,2.65,3.2,2.57,2.86,3.12,2.6
+2025-10-19,Super League Greece,2025-26,AEK,PAOK,0,2,5,3,2,1,1,0,2,8,3,1,0,0,2.25,3.25,3.05,2.47,2.97,3.19
+2025-10-19,Super League Greece,2025-26,Aris,Panathinaikos,1,1,2,2,1,2,0,0,2,4,3,0,1,0,3.2,3.25,2.2,3.17,3.26,2.31
+2025-10-19,Super League Greece,2025-26,Volos NFC,Panserraikos,2,1,11,2,0,3,0,0,3,13,3,0,1,1,1.62,3.75,5.0,1.68,3.81,4.92
+2025-10-19,Super League Greece,2025-26,Asteras Tripolis,Kifisia,2,2,3,5,6,5,0,0,4,8,11,0,1,1,1.96,3.2,4.0,2.02,3.29,3.87
+2025-10-25,Super League Greece,2025-26,Kifisia,Panetolikos,1,1,4,4,6,1,1,0,2,8,7,1,1,0,1.76,3.4,4.5,1.86,3.41,4.37
+2025-10-25,Super League Greece,2025-26,Panserraikos,Larisa,0,2,1,6,2,3,1,0,2,7,5,1,0,0,2.3,3.2,3.05,2.37,3.4,2.95
+2025-10-25,Super League Greece,2025-26,OFI Crete,Atromitos,1,3,4,8,2,2,0,0,4,12,4,0,1,1,2.01,3.25,3.7,2.06,3.32,3.7
+2025-10-26,Super League Greece,2025-26,Levadeiakos,Aris,1,1,5,7,1,3,0,0,2,12,4,0,1,0,2.57,3.2,2.57,2.63,3.31,2.68
+2025-10-26,Super League Greece,2025-26,Panathinaikos,Asteras Tripolis,2,0,6,2,3,3,0,0,2,8,6,0,0,0,1.19,6.0,12.0,1.29,5.52,9.14
+2025-10-26,Super League Greece,2025-26,PAOK,Volos NFC,3,0,6,0,2,2,0,0,3,6,4,0,0,1,1.25,5.5,9.5,1.29,5.52,9.5
+2025-10-26,Super League Greece,2025-26,Olympiakos,AEK,2,0,4,4,3,2,0,0,2,8,5,0,0,0,1.76,3.6,4.33,1.79,3.7,4.37
+2025-11-01,Super League Greece,2025-26,Olympiakos,Aris,2,1,5,7,2,1,1,0,3,12,3,1,1,1,1.3,4.5,11.0,,,
+2025-11-01,Super League Greece,2025-26,Volos NFC,Panathinaikos,1,0,0,5,5,1,0,0,1,5,6,0,0,0,5.5,3.6,1.61,,,
+2025-11-01,Super League Greece,2025-26,Atromitos,Kifisia,1,2,3,9,1,4,0,0,3,12,5,0,1,1,2.2,3.05,3.4,,,
+2025-11-02,Super League Greece,2025-26,Larisa,Levadeiakos,0,2,3,11,3,4,0,0,2,14,7,0,0,0,3.25,3.2,2.2,,,
+2025-11-02,Super League Greece,2025-26,Panserraikos,PAOK,0,5,2,4,0,0,0,0,5,6,0,0,0,1,12.0,5.5,1.22,,,
+2025-11-02,Super League Greece,2025-26,AEK,Panetolikos,1,0,8,2,4,2,0,0,1,10,6,0,0,0,1.17,7.0,11.0,,,
+2025-11-03,Super League Greece,2025-26,Asteras Tripolis,OFI Crete,3,0,10,1,2,4,0,1,3,11,6,1,0,1,2.25,3.25,3.05,,,
+2025-11-08,Super League Greece,2025-26,Panetolikos,Larisa,3,0,4,2,1,1,0,0,3,6,2,0,0,1,2.2,3.25,3.25,,,
+2025-11-09,Super League Greece,2025-26,Atromitos,Volos NFC,0,1,7,0,2,4,0,0,1,7,6,0,0,0,2.4,3.2,2.95,,,
+2025-11-09,Super League Greece,2025-26,OFI Crete,AEK,0,1,0,6,2,2,0,0,1,6,4,0,0,0,7.0,4.5,1.45,,,
+2025-11-09,Super League Greece,2025-26,Panathinaikos,PAOK,2,1,3,5,5,3,0,0,3,8,8,0,1,1,2.32,3.3,2.95,,,
+2025-11-09,Super League Greece,2025-26,Kifisia,Olympiakos,1,3,1,10,5,1,1,0,4,11,6,1,1,1,11.0,5.25,1.25,,,
+2025-11-09,Super League Greece,2025-26,Aris,Asteras Tripolis,0,0,4,6,2,6,1,0,0,10,8,1,0,0,1.66,3.5,5.5,,,
+2025-11-09,Super League Greece,2025-26,Levadeiakos,Panserraikos,5,2,6,4,1,4,0,0,7,10,5,0,1,1,1.39,4.33,9.0,,,
+2025-11-22,Super League Greece,2025-26,Asteras Tripolis,Panetolikos,1,1,3,3,2,1,0,0,2,6,3,0,1,0,2.01,3.2,4.0,,,
+2025-11-22,Super League Greece,2025-26,Olympiakos,Atromitos,3,0,7,1,0,2,0,0,3,8,2,0,0,1,1.11,7.5,21.0,,,
+2025-11-23,Super League Greece,2025-26,Panserraikos,Panathinaikos,0,3,3,8,2,1,0,0,3,11,3,0,0,1,9.5,4.75,1.33,,,
+2025-11-23,Super League Greece,2025-26,PAOK,Kifisia,3,0,8,4,1,7,0,1,3,12,8,1,0,1,1.17,7.0,11.0,,,
+2025-11-23,Super League Greece,2025-26,AEK,Aris,1,0,10,1,3,2,0,0,1,11,5,0,0,0,1.42,4.33,7.0,,,
+2025-11-24,Super League Greece,2025-26,Volos NFC,Levadeiakos,1,2,2,2,3,2,0,0,3,4,5,0,1,1,2.95,3.4,2.25,,,
+2025-11-24,Super League Greece,2025-26,Larisa,OFI Crete,1,2,6,3,4,3,0,0,3,9,7,0,1,1,2.2,3.25,3.25,,,
+2025-11-29,Super League Greece,2025-26,Aris,Larisa,2,1,7,0,4,6,0,1,3,7,10,1,1,1,1.57,3.6,6.0,,,
+2025-11-29,Super League Greece,2025-26,Kifisia,Panserraikos,3,0,4,4,2,3,1,1,3,8,5,2,0,1,1.53,3.75,6.5,,,
+2025-11-29,Super League Greece,2025-26,OFI Crete,Volos NFC,0,1,1,5,2,3,0,0,1,6,5,0,0,0,2.55,3.2,2.7,,,
+2025-11-30,Super League Greece,2025-26,Atromitos,Asteras Tripolis,0,1,7,6,2,1,0,0,1,13,3,0,0,0,2.1,3.2,3.5,,,
+2025-11-30,Super League Greece,2025-26,Panetolikos,Olympiakos,0,1,3,9,0,0,0,0,1,12,0,0,0,0,13.0,5.75,1.19,,,
+2025-11-30,Super League Greece,2025-26,Levadeiakos,PAOK,2,3,2,5,0,2,0,1,5,7,2,1,1,1,4.5,3.5,1.76,,,
+2025-11-30,Super League Greece,2025-26,Panathinaikos,AEK,2,3,5,2,4,5,1,1,5,7,9,2,1,1,2.57,3.05,2.7,,,
+2025-12-06,Super League Greece,2025-26,Olympiakos,OFI Crete,3,0,7,0,0,2,0,0,3,7,2,0,0,1,1.11,7.5,19.0,,,
+2025-12-06,Super League Greece,2025-26,Volos NFC,Kifisia,1,1,8,8,4,4,0,0,2,16,8,0,1,0,2.05,3.25,3.7,,,
+2025-12-07,Super League Greece,2025-26,Asteras Tripolis,Levadeiakos,1,1,2,9,3,1,0,0,2,11,4,0,1,0,2.85,3.5,2.25,,,
+2025-12-07,Super League Greece,2025-26,Larisa,Panathinaikos,2,2,4,5,4,4,0,1,4,9,8,1,1,1,7.5,4.2,1.41,,,
+2025-12-07,Super League Greece,2025-26,PAOK,Aris,3,1,7,2,2,0,0,0,4,9,2,0,1,1,1.46,3.9,7.0,,,
+2025-12-07,Super League Greece,2025-26,AEK,Atromitos,4,1,5,0,1,3,0,0,5,5,4,0,1,1,1.24,5.25,13.0,,,
+2025-12-08,Super League Greece,2025-26,Panserraikos,Panetolikos,0,1,2,0,2,3,0,0,1,2,5,0,0,0,2.65,3.05,2.65,,,
+2025-12-13,Super League Greece,2025-26,Kifisia,Asteras Tripolis,0,0,6,4,1,3,0,0,0,10,4,0,0,0,2.01,3.25,3.75,,,
+2025-12-13,Super League Greece,2025-26,Levadeiakos,Larisa,3,0,9,2,1,3,0,0,3,11,4,0,0,1,1.37,4.5,8.0,,,
+2025-12-13,Super League Greece,2025-26,OFI Crete,Panserraikos,3,0,8,5,4,3,0,0,3,13,7,0,0,1,1.86,3.3,4.2,,,
+2025-12-14,Super League Greece,2025-26,Panetolikos,AEK,0,5,2,3,2,2,0,0,5,5,4,0,0,1,7.0,4.33,1.41,,,
+2025-12-14,Super League Greece,2025-26,Atromitos,PAOK,2,0,3,9,3,1,0,0,2,12,4,0,0,0,7.0,4.33,1.41,,,
+2025-12-14,Super League Greece,2025-26,Aris,Olympiakos,0,0,3,5,5,3,1,1,0,8,8,2,0,0,7.5,4.2,1.42,,,
+2025-12-14,Super League Greece,2025-26,Panathinaikos,Volos NFC,2,1,6,5,3,6,0,0,3,11,9,0,1,1,1.27,5.0,11.0,,,
+2025-12-20,Super League Greece,2025-26,Asteras Tripolis,Aris,0,1,7,3,3,3,0,0,1,10,6,0,0,0,2.82,2.95,2.7,,,
+2025-12-20,Super League Greece,2025-26,Volos NFC,Panetolikos,1,0,4,9,3,1,0,0,1,13,4,0,0,0,1.81,3.3,4.5,,,
+2025-12-20,Super League Greece,2025-26,Olympiakos,Kifisia,1,1,18,1,0,5,0,1,2,19,5,1,1,0,1.1,8.0,21.0,,,
+2025-12-21,Super League Greece,2025-26,PAOK,Panathinaikos,2,0,7,3,1,3,0,0,2,10,4,0,0,0,1.91,3.5,3.8,,,
+2025-12-21,Super League Greece,2025-26,AEK,OFI Crete,2,1,5,3,4,4,0,0,3,8,8,0,1,1,1.11,7.5,15.0,,,
+2025-12-21,Super League Greece,2025-26,Larisa,Atromitos,0,0,1,4,2,5,0,0,0,5,7,0,0,0,2.7,2.95,2.7,,,
+2025-12-22,Super League Greece,2025-26,Panserraikos,Levadeiakos,0,2,2,7,2,2,2,0,2,9,4,2,0,0,5.75,4.0,1.53,,,
+2026-01-10,Super League Greece,2025-26,Kifisia,Larisa,1,1,4,4,4,4,0,1,2,8,8,1,1,0,1.61,3.9,5.0,,,
+2026-01-10,Super League Greece,2025-26,Atromitos,Olympiakos,0,2,2,5,3,2,0,0,2,7,5,0,0,0,10.0,5.5,1.25,,,
+2026-01-10,Super League Greece,2025-26,Panetolikos,PAOK,0,3,5,8,3,1,0,0,3,13,4,0,0,1,7.5,4.75,1.37,,,
+2026-01-11,Super League Greece,2025-26,Levadeiakos,Volos NFC,3,1,1,3,1,3,0,0,4,4,4,0,1,1,1.61,3.8,5.25,,,
+2026-01-11,Super League Greece,2025-26,OFI Crete,Asteras Tripolis,4,0,2,6,1,3,0,1,4,8,4,1,0,1,2.65,3.0,2.75,,,
+2026-01-11,Super League Greece,2025-26,Aris,AEK,1,1,7,4,3,2,0,0,2,11,5,0,1,0,5.25,3.7,1.62,,,
+2026-01-11,Super League Greece,2025-26,Panathinaikos,Panserraikos,3,0,10,1,1,5,0,1,3,11,6,1,0,1,1.11,9.0,15.0,,,
+2026-01-17,Super League Greece,2025-26,Panserraikos,Kifisia,2,1,7,3,4,3,0,0,3,10,7,0,1,1,3.75,3.3,1.96,,,
+2026-01-18,Super League Greece,2025-26,AEK,Panathinaikos,4,0,2,3,1,1,0,0,4,5,2,0,0,1,1.96,3.4,3.7,,,
+2026-01-18,Super League Greece,2025-26,PAOK,OFI Crete,3,0,6,0,1,3,0,0,3,6,4,0,0,1,1.1,9.0,15.0,,,
+2026-01-18,Super League Greece,2025-26,Larisa,Aris,1,0,4,6,5,4,0,0,1,10,9,0,0,0,3.75,3.0,2.15,,,
+2026-01-19,Super League Greece,2025-26,Panetolikos,Levadeiakos,1,3,6,5,2,2,0,0,4,11,4,0,1,1,4.33,3.5,1.79,,,
+2026-01-19,Super League Greece,2025-26,Volos NFC,Atromitos,0,3,3,4,6,3,0,0,3,7,9,0,0,1,1.96,3.25,3.9,,,
+2026-01-24,Super League Greece,2025-26,Olympiakos,Volos NFC,1,0,13,3,0,0,0,0,1,16,0,0,0,0,1.11,7.0,21.0,,,
+2026-01-24,Super League Greece,2025-26,Asteras Tripolis,AEK,0,1,10,8,2,4,0,0,1,18,6,0,0,0,7.0,3.9,1.49,,,
+2026-01-24,Super League Greece,2025-26,Larisa,Panserraikos,1,0,5,1,5,4,0,1,1,6,9,1,0,0,1.71,3.3,5.0,,,
+2026-01-25,Super League Greece,2025-26,Aris,Levadeiakos,2,2,7,6,6,5,0,0,4,13,11,0,1,1,2.57,3.1,2.7,,,
+2026-01-25,Super League Greece,2025-26,OFI Crete,Panetolikos,1,0,4,5,1,3,0,1,1,9,4,1,0,0,1.91,3.3,4.0,,,
+2026-01-25,Super League Greece,2025-26,Atromitos,Panathinaikos,0,0,1,2,2,2,0,0,0,3,4,0,0,0,6.0,3.5,1.62,,,
+2026-01-31,Super League Greece,2025-26,Volos NFC,Larisa,0,2,7,4,1,0,1,0,2,11,1,1,0,0,2.1,3.2,3.7,,,
+2026-01-31,Super League Greece,2025-26,Atromitos,OFI Crete,1,2,8,2,2,3,0,0,3,10,5,0,1,1,1.91,3.4,3.9,,,
+2026-01-31,Super League Greece,2025-26,Panetolikos,Aris,0,1,1,5,1,2,1,0,1,6,3,1,0,0,4.0,3.25,1.91,,,
+2026-02-01,Super League Greece,2025-26,Levadeiakos,Asteras Tripolis,3,1,3,6,3,4,0,0,4,9,7,0,1,1,1.53,3.8,6.25,,,
+2026-02-01,Super League Greece,2025-26,Panathinaikos,Kifisia,3,0,4,5,2,7,0,1,3,9,9,1,0,1,1.33,4.75,9.5,,,
+2026-02-01,Super League Greece,2025-26,PAOK,Panserraikos,4,1,6,1,0,0,0,0,5,7,0,0,1,1,1.05,13.0,23.0,,,
+2026-02-01,Super League Greece,2025-26,AEK,Olympiakos,1,1,3,1,3,5,0,0,2,4,8,0,1,0,2.7,3.1,2.7,,,
+2026-02-04,Super League Greece,2025-26,Asteras Tripolis,Olympiakos,0,3,0,7,1,2,0,0,3,7,3,0,0,1,11.0,4.75,1.3,,,
+2026-02-07,Super League Greece,2025-26,Larisa,Panetolikos,1,4,5,2,4,2,0,0,5,7,6,0,1,1,1.68,3.4,5.25,,,
+2026-02-07,Super League Greece,2025-26,Asteras Tripolis,Volos NFC,2,0,11,5,1,3,0,0,2,16,4,0,0,0,1.76,3.5,4.75,,,
+2026-02-07,Super League Greece,2025-26,Kifisia,Atromitos,0,1,4,4,0,2,0,0,1,8,2,0,0,0,2.35,3.1,3.0,,,
+2026-02-08,Super League Greece,2025-26,Olympiakos,Panathinaikos,0,1,2,2,1,3,0,0,1,4,4,0,0,0,1.51,4.1,5.75,,,
+2026-02-08,Super League Greece,2025-26,Aris,PAOK,0,0,4,4,4,3,0,0,0,8,7,0,0,0,3.8,3.3,1.96,,,
+2026-02-08,Super League Greece,2025-26,Panserraikos,AEK,0,4,0,9,4,3,1,0,4,9,7,1,0,1,12.0,7.0,1.17,,,
+2026-02-08,Super League Greece,2025-26,OFI Crete,Levadeiakos,3,2,3,6,1,2,0,0,5,9,3,0,1,1,3.6,3.0,2.2,,,
+2026-02-14,Super League Greece,2025-26,Panetolikos,Asteras Tripolis,3,1,6,2,2,2,0,0,4,8,4,0,1,1,3.4,3.25,2.15,,,
+2026-02-14,Super League Greece,2025-26,Levadeiakos,Olympiakos,0,0,2,8,3,1,1,0,0,10,4,1,0,0,7.5,4.1,1.45,,,
+2026-02-14,Super League Greece,2025-26,Volos NFC,Aris,1,1,4,1,2,3,0,1,2,5,5,1,1,0,4.5,3.1,1.91,,,
+2026-02-15,Super League Greece,2025-26,Kifisia,OFI Crete,2,2,4,2,3,2,0,0,4,6,5,0,1,1,2.2,3.25,3.25,,,
+2026-02-15,Super League Greece,2025-26,PAOK,AEK,0,0,7,5,4,4,0,0,0,12,8,0,0,0,2.05,3.4,3.4,,,
+2026-02-15,Super League Greece,2025-26,Panathinaikos,Larisa,1,1,4,1,3,2,0,0,2,5,5,0,1,0,1.3,4.75,10.0,,,
+2026-02-16,Super League Greece,2025-26,Atromitos,Panserraikos,2,2,4,3,3,3,0,1,4,7,6,1,1,1,1.37,4.2,9.0,,,
+2026-02-21,Super League Greece,2025-26,Olympiakos,Panetolikos,2,0,12,4,1,2,0,0,2,16,3,0,0,0,1.09,8.5,26.0,,,
+2026-02-21,Super League Greece,2025-26,Asteras Tripolis,Atromitos,1,2,6,6,2,1,0,0,3,12,3,0,1,1,2.4,3.1,3.1,,,
+2026-02-22,Super League Greece,2025-26,OFI Crete,Panathinaikos,0,2,2,7,2,3,1,0,2,9,5,1,0,0,4.2,3.4,1.91,,,
+2026-02-22,Super League Greece,2025-26,Panserraikos,Volos NFC,2,1,2,3,1,3,0,0,3,5,4,0,1,1,4.5,3.5,1.76,,,
+2026-02-22,Super League Greece,2025-26,Larisa,PAOK,1,1,4,5,4,0,0,0,2,9,4,0,1,0,10.0,4.5,1.3,,,
+2026-02-22,Super League Greece,2025-26,Aris,Kifisia,1,1,9,3,3,3,0,0,2,12,6,0,1,0,1.71,3.3,5.25,,,
+2026-02-22,Super League Greece,2025-26,AEK,Levadeiakos,4,0,3,3,3,2,0,0,4,6,5,0,0,1,1.42,4.1,8.0,,,
+2026-02-28,Super League Greece,2025-26,OFI Crete,Larisa,3,0,4,7,0,4,0,0,3,11,4,0,0,1,2.57,3.0,2.85,,,
+2026-02-28,Super League Greece,2025-26,Atromitos,Panetolikos,1,0,4,0,5,3,0,0,1,4,8,0,0,0,1.96,3.2,4.0,,,
+2026-02-28,Super League Greece,2025-26,Kifisia,Levadeiakos,1,0,3,5,6,2,0,0,1,8,8,0,0,0,3.3,3.2,2.25,,,
+2026-03-01,Super League Greece,2025-26,Panathinaikos,Aris,3,1,1,5,2,3,0,0,4,6,5,0,1,1,1.81,3.2,4.75,,,
+2026-03-01,Super League Greece,2025-26,Volos NFC,AEK,2,2,1,7,6,3,0,0,4,8,9,0,1,1,11.0,5.0,1.24,,,
+2026-03-01,Super League Greece,2025-26,Panserraikos,Olympiakos,1,2,1,5,1,1,0,0,3,6,2,0,1,1,19.0,9.0,1.09,,,
+2026-03-01,Super League Greece,2025-26,PAOK,Asteras Tripolis,2,0,6,1,0,2,0,0,2,7,2,0,0,0,1.24,5.5,10.0,,,
+2026-03-04,Super League Greece,2025-26,Panathinaikos,OFI Crete,4,1,5,0,1,3,0,0,5,5,4,0,1,1,1.37,4.5,8.0,,,
+2026-03-04,Super League Greece,2025-26,Kifisia,PAOK,1,4,1,2,1,2,0,0,5,3,3,0,1,1,5.75,4.5,1.46,,,
+2026-03-07,Super League Greece,2025-26,Aris,Atromitos,0,0,2,8,0,3,1,0,0,10,3,1,0,0,1.91,3.25,4.2,,,
+2026-03-07,Super League Greece,2025-26,AEK,Larisa,1,0,7,3,2,3,0,0,1,10,5,0,0,0,1.19,6.0,10.0,,,
+2026-03-08,Super League Greece,2025-26,Olympiakos,PAOK,0,0,8,3,1,1,0,0,0,11,2,0,0,0,1.79,3.4,4.33,,,
+2026-03-08,Super League Greece,2025-26,Asteras Tripolis,Panserraikos,0,1,4,2,2,4,1,0,1,6,6,1,0,0,1.49,4.0,6.5,,,
+2026-03-08,Super League Greece,2025-26,Volos NFC,OFI Crete,1,1,9,4,1,3,0,0,2,13,4,0,1,0,2.2,3.2,3.2,,,
+2026-03-08,Super League Greece,2025-26,Levadeiakos,Panathinaikos,1,4,3,3,2,3,0,0,5,6,5,0,1,1,3.5,3.2,2.15,,,
+2026-03-09,Super League Greece,2025-26,Panetolikos,Kifisia,2,1,6,5,3,2,1,0,3,11,5,1,1,1,2.35,2.85,3.3,,,
+2026-03-14,Super League Greece,2025-26,OFI Crete,Olympiakos,0,3,0,1,2,3,0,0,3,1,5,0,0,1,11.0,6.0,1.19,,,
+2026-03-14,Super League Greece,2025-26,Panserraikos,Aris,0,0,6,6,1,1,0,1,0,12,2,1,0,0,5.75,3.5,1.61,,,
+2026-03-14,Super League Greece,2025-26,Larisa,Asteras Tripolis,1,1,6,5,3,2,0,0,2,11,5,0,1,0,2.3,3.0,3.4,,,
+2026-03-15,Super League Greece,2025-26,PAOK,Levadeiakos,3,0,9,4,2,2,0,0,3,13,4,0,0,1,1.27,5.5,8.0,,,
+2026-03-15,Super League Greece,2025-26,Atromitos,AEK,2,2,1,7,2,2,0,0,4,8,4,0,1,1,6.25,3.9,1.49,,,
+2026-03-15,Super League Greece,2025-26,Kifisia,Volos NFC,2,0,3,6,2,3,0,0,2,9,5,0,0,0,2.15,3.2,3.5,,,
+2026-03-15,Super League Greece,2025-26,Panathinaikos,Panetolikos,0,0,5,6,0,1,0,0,0,11,1,0,0,0,1.27,5.25,9.5,,,
+2026-03-22,Super League Greece,2025-26,Olympiakos,Larisa,0,0,10,0,0,3,0,0,0,10,3,0,0,0,1.17,6.5,13.0,,,
+2026-03-22,Super League Greece,2025-26,Levadeiakos,Atromitos,1,0,3,4,4,3,0,0,1,7,7,0,0,0,2.05,3.2,3.6,,,
+2026-03-22,Super League Greece,2025-26,Panetolikos,Panserraikos,0,0,9,1,2,2,0,0,0,10,4,0,0,0,1.86,3.2,4.33,,,
+2026-03-22,Super League Greece,2025-26,Aris,OFI Crete,0,2,7,3,4,3,0,0,2,10,7,0,0,0,1.56,3.7,5.75,,,
+2026-03-22,Super League Greece,2025-26,AEK,Kifisia,3,0,3,5,1,4,0,0,3,8,5,0,0,1,1.13,7.0,17.0,,,
+2026-03-22,Super League Greece,2025-26,Asteras Tripolis,Panathinaikos,1,2,2,5,1,1,0,0,3,7,2,0,1,1,5.25,3.3,1.71,,,
+2026-03-22,Super League Greece,2025-26,Volos NFC,PAOK,2,1,3,6,4,0,0,0,3,9,4,0,1,1,10.0,5.25,1.25,,,
