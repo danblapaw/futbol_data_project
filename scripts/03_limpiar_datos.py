@@ -46,6 +46,9 @@ log = logging.getLogger(__name__)
 MAPA_LIGAS = {
     "E0"  : "Premier League",
     "E1"  : "Championship",
+    "E2"  : "League One",
+    "E3"  : "League Two",
+    "EC"  : "Conference",
     "SP1" : "La Liga",
     "SP2" : "Segunda Division",
     "D1"  : "Bundesliga",
@@ -57,6 +60,9 @@ MAPA_LIGAS = {
     "N1"  : "Eredivisie",
     "P1"  : "Primeira Liga",
     "SC0" : "Scottish Premiership",
+    "SC1" : "Scottish Championship",
+    "SC2" : "Scottish League One",
+    "SC3" : "Scottish League Two",
     "B1"  : "First Division A",
     "T1"  : "Super Lig",
     "G1"  : "Super League Greece",
@@ -70,16 +76,20 @@ MAPA_LIGAS = {
 # Formato: "nombre_original" : "nuestro_nombre"
 # ─────────────────────────────────────────────
 MAPA_COLUMNAS = {
-    "Date"   : "fecha",
+    "Date"    : "fecha",
     "HomeTeam": "equipo_local",
     "AwayTeam": "equipo_visitante",
-    "FTHG"   : "goles_local",      # Full Time Home Goals
-    "FTAG"   : "goles_visitante",  # Full Time Away Goals
-    "HC"     : "corners_local",    # Home Corners
-    "AC"     : "corners_visitante",# Away Corners
+    "FTHG"    : "goles_local",           # Full Time Home Goals
+    "FTAG"    : "goles_visitante",        # Full Time Away Goals
+    "HC"      : "corners_local",          # Home Corners
+    "AC"      : "corners_visitante",      # Away Corners
+    "HY"      : "amarillas_local",        # Home Yellow Cards
+    "AY"      : "amarillas_visitante",    # Away Yellow Cards
+    "HR"      : "rojas_local",            # Home Red Cards
+    "AR"      : "rojas_visitante",        # Away Red Cards
     # Algunas temporadas usan nombres alternativos:
-    "HG"     : "goles_local",
-    "AG"     : "goles_visitante",
+    "HG"      : "goles_local",
+    "AG"      : "goles_visitante",
 }
 
 # Columnas mínimas que DEBE tener el CSV para ser válido
@@ -182,21 +192,25 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
         return None
 
     # ── 5. Seleccionar solo las columnas que nos interesan ─────────────────
-    # Primero, identificamos qué columnas opcionales existen
     columnas_disponibles = ["fecha", "equipo_local", "equipo_visitante",
                              "goles_local", "goles_visitante"]
-    if "corners_local"     in df.columns: columnas_disponibles.append("corners_local")
-    if "corners_visitante" in df.columns: columnas_disponibles.append("corners_visitante")
+    for col in ["corners_local", "corners_visitante",
+                "amarillas_local", "amarillas_visitante",
+                "rojas_local", "rojas_visitante"]:
+        if col in df.columns:
+            columnas_disponibles.append(col)
 
-    df = df[columnas_disponibles].copy()  # .copy() evita warnings de pandas
+    df = df[columnas_disponibles].copy()
 
     # ── 6. Limpiar fechas ─────────────────────────────────────────────────
     df["fecha"] = df["fecha"].apply(limpiar_fecha)
 
-    # ── 7. Convertir goles y corners a números enteros ────────────────────
-    for col in ["goles_local", "goles_visitante", "corners_local", "corners_visitante"]:
+    # ── 7. Convertir columnas numéricas ───────────────────────────────────
+    for col in ["goles_local", "goles_visitante",
+                "corners_local", "corners_visitante",
+                "amarillas_local", "amarillas_visitante",
+                "rojas_local", "rojas_visitante"]:
         if col in df.columns:
-            # pd.to_numeric() convierte a número; errors="coerce" pone NaN si no puede
             df[col] = pd.to_numeric(df[col], errors="coerce")
 
     # ── 8. Eliminar filas con datos faltantes en columnas clave ───────────
@@ -207,44 +221,43 @@ def limpiar_csv(ruta_archivo: str) -> pd.DataFrame | None:
     if filas_eliminadas > 0:
         log.info(f"   🗑️  Filas eliminadas (datos incompletos): {filas_eliminadas}")
 
-    # Eliminar filas donde los equipos están vacíos
     df = df[df["equipo_local"].str.strip() != ""]
     df = df[df["equipo_visitante"].str.strip() != ""]
 
-    # ── 9. Convertir goles a enteros (ya sin NaN) ─────────────────────────
+    # ── 9. Convertir a enteros (ya sin NaN) ───────────────────────────────
     df["goles_local"]     = df["goles_local"].astype(int)
     df["goles_visitante"] = df["goles_visitante"].astype(int)
 
-    # Si corners existen, convertirlos también
-    if "corners_local" in df.columns:
-        df["corners_local"]     = df["corners_local"].fillna(0).astype(int)
-        df["corners_visitante"] = df["corners_visitante"].fillna(0).astype(int)
-    else:
-        # Si no hay datos de corners, creamos la columna con 0
-        df["corners_local"]     = 0
-        df["corners_visitante"] = 0
+    for col in ["corners_local", "corners_visitante",
+                "amarillas_local", "amarillas_visitante",
+                "rojas_local", "rojas_visitante"]:
+        if col in df.columns:
+            df[col] = df[col].fillna(0).astype(int)
+        else:
+            df[col] = 0
 
     # ── 10. Calcular campos derivados ─────────────────────────────────────
-    # total_goles = goles del partido
-    df["total_goles"]   = df["goles_local"] + df["goles_visitante"]
-    # total_corners = corners del partido
-    df["total_corners"] = df["corners_local"] + df["corners_visitante"]
-    # ambos_marcan = 1 si ambos equipos marcaron al menos 1 gol
-    df["ambos_marcan"]  = ((df["goles_local"] > 0) & (df["goles_visitante"] > 0)).astype(int)
-    # over_2_5 = 1 si el total de goles supera 2.5 (es decir, 3 o más)
-    df["over_2_5"]      = (df["total_goles"] > 2.5).astype(int)
+    df["total_goles"]     = df["goles_local"] + df["goles_visitante"]
+    df["total_corners"]   = df["corners_local"] + df["corners_visitante"]
+    df["total_amarillas"] = df["amarillas_local"] + df["amarillas_visitante"]
+    df["total_rojas"]     = df["rojas_local"] + df["rojas_visitante"]
+    df["ambos_marcan"]    = ((df["goles_local"] > 0) & (df["goles_visitante"] > 0)).astype(int)
+    df["over_2_5"]        = (df["total_goles"] > 2.5).astype(int)
 
     # ── 11. Agregar metadatos ─────────────────────────────────────────────
     df["liga"]      = liga
     df["temporada"] = temporada
 
-    # ── 12. Reordenar columnas en el orden que queremos ───────────────────
+    # ── 12. Reordenar columnas ────────────────────────────────────────────
     orden_columnas = [
         "fecha", "liga", "temporada",
         "equipo_local", "equipo_visitante",
         "goles_local", "goles_visitante",
         "corners_local", "corners_visitante",
+        "amarillas_local", "amarillas_visitante",
+        "rojas_local", "rojas_visitante",
         "total_goles", "total_corners",
+        "total_amarillas", "total_rojas",
         "ambos_marcan", "over_2_5"
     ]
     df = df[orden_columnas]

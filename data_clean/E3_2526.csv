@@ -1,0 +1,465 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2025-08-02,League Two,2025-26,Accrington,Gillingham,1,1,3,3,2,2,0,0,2,6,4,0,1,0
+2025-08-02,League Two,2025-26,Newport County,Notts County,1,1,2,6,1,1,0,0,2,8,2,0,1,0
+2025-08-02,League Two,2025-26,Walsall,Swindon,2,1,1,5,2,1,1,0,3,6,3,1,1,1
+2025-08-02,League Two,2025-26,Shrewsbury,Bromley,0,0,4,5,3,1,0,0,0,9,4,0,0,0
+2025-08-02,League Two,2025-26,Milton Keynes Dons,Oldham,0,0,7,3,1,3,0,0,0,10,4,0,0,0
+2025-08-02,League Two,2025-26,Grimsby,Crawley Town,3,0,10,3,0,2,0,0,3,13,2,0,0,1
+2025-08-02,League Two,2025-26,Salford,Crewe,1,3,7,10,4,2,0,0,4,17,6,0,1,1
+2025-08-02,League Two,2025-26,Chesterfield,Barrow,1,0,4,3,1,1,0,0,1,7,2,0,0,0
+2025-08-02,League Two,2025-26,Cambridge,Cheltenham,1,0,4,2,0,2,0,0,1,6,2,0,0,0
+2025-08-02,League Two,2025-26,Bristol Rvs,Harrogate,0,1,13,4,1,3,0,0,1,17,4,0,0,0
+2025-08-02,League Two,2025-26,Barnet,Fleetwood Town,0,2,8,2,0,0,0,0,2,10,0,0,0,0
+2025-08-02,League Two,2025-26,Colchester,Tranmere,1,1,4,5,2,2,0,0,2,9,4,0,1,0
+2025-08-09,League Two,2025-26,Fleetwood Town,Bristol Rvs,2,1,1,6,1,3,0,0,3,7,4,0,1,1
+2025-08-09,League Two,2025-26,Swindon,Cambridge,3,2,2,7,2,1,0,0,5,9,3,0,1,1
+2025-08-09,League Two,2025-26,Oldham,Colchester,1,1,8,7,1,1,0,0,2,15,2,0,1,0
+2025-08-09,League Two,2025-26,Harrogate,Grimsby,3,3,3,4,5,3,0,0,6,7,8,0,1,1
+2025-08-09,League Two,2025-26,Gillingham,Walsall,1,0,5,2,3,3,0,0,1,7,6,0,0,0
+2025-08-09,League Two,2025-26,Crewe,Accrington,2,0,8,2,1,2,0,0,2,10,3,0,0,0
+2025-08-09,League Two,2025-26,Barrow,Milton Keynes Dons,0,2,1,5,3,2,0,0,2,6,5,0,0,0
+2025-08-09,League Two,2025-26,Cheltenham,Chesterfield,0,2,2,5,7,1,0,0,2,7,8,0,0,0
+2025-08-09,League Two,2025-26,Bromley,Barnet,2,0,6,6,3,1,0,0,2,12,4,0,0,0
+2025-08-09,League Two,2025-26,Tranmere,Shrewsbury,4,0,2,5,1,1,0,1,4,7,2,1,0,1
+2025-08-09,League Two,2025-26,Notts County,Salford,1,2,1,7,3,3,0,0,3,8,6,0,1,1
+2025-08-09,League Two,2025-26,Crawley Town,Newport County,1,2,6,3,0,2,0,0,3,9,2,0,1,1
+2025-08-16,League Two,2025-26,Grimsby,Newport County,2,1,12,3,2,3,0,0,3,15,5,0,1,1
+2025-08-16,League Two,2025-26,Tranmere,Gillingham,1,1,3,4,2,2,0,1,2,7,4,1,1,0
+2025-08-16,League Two,2025-26,Shrewsbury,Colchester,0,2,6,1,2,1,1,0,2,7,3,1,0,0
+2025-08-16,League Two,2025-26,Salford,Accrington,2,1,5,1,1,1,0,0,3,6,2,0,1,1
+2025-08-16,League Two,2025-26,Milton Keynes Dons,Cheltenham,5,0,3,1,1,4,0,0,5,4,5,0,0,1
+2025-08-16,League Two,2025-26,Crewe,Crawley Town,1,0,7,3,4,2,0,0,1,10,6,0,0,0
+2025-08-16,League Two,2025-26,Oldham,Swindon,1,2,4,2,0,3,0,0,3,6,3,0,1,1
+2025-08-16,League Two,2025-26,Bromley,Fleetwood Town,2,2,7,2,4,2,0,0,4,9,6,0,1,1
+2025-08-16,League Two,2025-26,Barrow,Notts County,2,1,3,3,1,1,0,0,3,6,2,0,1,1
+2025-08-16,League Two,2025-26,Barnet,Walsall,1,2,7,1,2,0,1,0,3,8,2,1,1,1
+2025-08-16,League Two,2025-26,Chesterfield,Bristol Rvs,3,1,5,4,3,3,0,1,4,9,6,1,1,1
+2025-08-16,League Two,2025-26,Cambridge,Harrogate,1,1,9,3,1,1,0,0,2,12,2,0,1,0
+2025-08-19,League Two,2025-26,Walsall,Grimsby,0,1,4,6,2,2,0,0,1,10,4,0,0,0
+2025-08-19,League Two,2025-26,Swindon,Barnet,0,2,6,8,2,3,0,0,2,14,5,0,0,0
+2025-08-19,League Two,2025-26,Harrogate,Barrow,1,0,4,6,0,0,0,0,1,10,0,0,0,0
+2025-08-19,League Two,2025-26,Gillingham,Chesterfield,4,1,0,2,4,1,0,0,5,2,5,0,1,1
+2025-08-19,League Two,2025-26,Fleetwood Town,Crewe,1,4,2,3,6,4,0,0,5,5,10,0,1,1
+2025-08-19,League Two,2025-26,Colchester,Cambridge,1,2,2,11,2,4,0,0,3,13,6,0,1,1
+2025-08-19,League Two,2025-26,Cheltenham,Bromley,1,2,12,7,1,3,0,0,3,19,4,0,1,1
+2025-08-19,League Two,2025-26,Bristol Rvs,Oldham,0,0,4,1,3,2,0,0,0,5,5,0,0,0
+2025-08-19,League Two,2025-26,Newport County,Salford,0,1,5,3,1,3,0,0,1,8,4,0,0,0
+2025-08-19,League Two,2025-26,Crawley Town,Milton Keynes Dons,1,1,8,11,4,1,0,0,2,19,5,0,1,0
+2025-08-20,League Two,2025-26,Notts County,Shrewsbury,4,1,4,4,3,3,0,0,5,8,6,0,1,1
+2025-08-23,League Two,2025-26,Fleetwood Town,Oldham,1,1,4,8,2,0,0,0,2,12,2,0,1,0
+2025-08-23,League Two,2025-26,Swindon,Shrewsbury,2,1,5,2,1,2,0,0,3,7,3,0,1,1
+2025-08-23,League Two,2025-26,Notts County,Bromley,2,2,3,5,1,4,0,0,4,8,5,0,1,1
+2025-08-23,League Two,2025-26,Harrogate,Chesterfield,1,2,6,5,0,1,0,0,3,11,1,0,1,1
+2025-08-23,League Two,2025-26,Crawley Town,Tranmere,0,2,8,9,1,4,0,0,2,17,5,0,0,0
+2025-08-23,League Two,2025-26,Gillingham,Crewe,1,0,4,3,2,2,0,0,1,7,4,0,0,0
+2025-08-23,League Two,2025-26,Cheltenham,Barnet,0,1,1,4,1,1,0,1,1,5,2,1,0,0
+2025-08-23,League Two,2025-26,Bristol Rvs,Cambridge,1,0,3,4,2,1,0,1,1,7,3,1,0,0
+2025-08-23,League Two,2025-26,Colchester,Barrow,0,2,14,2,2,3,0,0,2,16,5,0,0,0
+2025-08-23,League Two,2025-26,Accrington,Grimsby,1,1,5,0,5,0,0,0,2,5,5,0,1,0
+2025-08-23,League Two,2025-26,Walsall,Salford,1,0,5,2,2,1,0,0,1,7,3,0,0,0
+2025-08-23,League Two,2025-26,Newport County,Milton Keynes Dons,1,2,3,7,1,2,0,0,3,10,3,0,1,1
+2025-08-29,League Two,2025-26,Salford,Cheltenham,1,1,14,1,2,1,0,0,2,15,3,0,1,0
+2025-08-30,League Two,2025-26,Tranmere,Notts County,1,2,8,3,5,2,0,0,3,11,7,0,1,1
+2025-08-30,League Two,2025-26,Shrewsbury,Accrington,0,0,2,6,3,3,0,0,0,8,6,0,0,0
+2025-08-30,League Two,2025-26,Oldham,Gillingham,0,1,7,2,5,3,0,0,1,9,8,0,0,0
+2025-08-30,League Two,2025-26,Milton Keynes Dons,Walsall,0,1,5,3,2,1,0,0,1,8,3,0,0,0
+2025-08-30,League Two,2025-26,Grimsby,Bristol Rvs,0,1,9,8,1,3,0,0,1,17,4,0,0,0
+2025-08-30,League Two,2025-26,Cambridge,Newport County,2,0,7,4,0,1,0,0,2,11,1,0,0,0
+2025-08-30,League Two,2025-26,Bromley,Harrogate,2,0,3,4,2,2,0,0,2,7,4,0,0,0
+2025-08-30,League Two,2025-26,Barnet,Colchester,1,1,8,3,2,0,0,0,2,11,2,0,1,0
+2025-08-30,League Two,2025-26,Crewe,Swindon,0,3,3,4,1,1,0,0,3,7,2,0,0,1
+2025-08-30,League Two,2025-26,Barrow,Fleetwood Town,0,1,4,9,2,3,1,0,1,13,5,1,0,0
+2025-08-30,League Two,2025-26,Chesterfield,Crawley Town,2,2,8,5,4,5,0,0,4,13,9,0,1,1
+2025-09-06,League Two,2025-26,Milton Keynes Dons,Grimsby,2,3,6,5,2,1,1,0,5,11,3,1,1,1
+2025-09-06,League Two,2025-26,Walsall,Chesterfield,1,0,7,2,2,4,1,0,1,9,6,1,0,0
+2025-09-06,League Two,2025-26,Salford,Tranmere,3,1,10,2,1,0,0,0,4,12,1,0,1,1
+2025-09-06,League Two,2025-26,Notts County,Fleetwood Town,1,0,9,5,3,3,0,0,1,14,6,0,0,0
+2025-09-06,League Two,2025-26,Harrogate,Crawley Town,0,1,5,7,1,3,0,1,1,12,4,1,0,0
+2025-09-06,League Two,2025-26,Bromley,Gillingham,2,2,5,7,2,2,0,0,4,12,4,0,1,1
+2025-09-06,League Two,2025-26,Cheltenham,Accrington,1,0,5,5,1,3,0,0,1,10,4,0,0,0
+2025-09-06,League Two,2025-26,Cambridge,Oldham,0,1,11,2,3,2,0,0,1,13,5,0,0,0
+2025-09-06,League Two,2025-26,Barrow,Swindon,1,3,8,2,1,3,0,0,4,10,4,0,1,1
+2025-09-06,League Two,2025-26,Barnet,Shrewsbury,1,3,6,3,1,5,0,0,4,9,6,0,1,1
+2025-09-06,League Two,2025-26,Newport County,Bristol Rvs,2,3,1,3,1,3,0,0,5,4,4,0,1,1
+2025-09-06,League Two,2025-26,Colchester,Crewe,1,1,3,2,2,4,0,0,2,5,6,0,1,0
+2025-09-13,League Two,2025-26,Swindon,Harrogate,3,1,6,7,2,2,0,0,4,13,4,0,1,1
+2025-09-13,League Two,2025-26,Shrewsbury,Salford,1,3,7,4,1,2,0,0,4,11,3,0,1,1
+2025-09-13,League Two,2025-26,Oldham,Bromley,1,0,8,8,2,1,0,0,1,16,3,0,0,0
+2025-09-13,League Two,2025-26,Grimsby,Cambridge,1,1,5,5,3,4,0,0,2,10,7,0,1,0
+2025-09-13,League Two,2025-26,Gillingham,Notts County,1,0,2,4,4,1,0,0,1,6,5,0,0,0
+2025-09-13,League Two,2025-26,Tranmere,Newport County,1,1,3,2,2,3,0,0,2,5,5,0,1,0
+2025-09-13,League Two,2025-26,Crewe,Barnet,1,2,5,6,0,4,0,0,3,11,4,0,1,1
+2025-09-13,League Two,2025-26,Chesterfield,Milton Keynes Dons,1,1,7,4,1,4,0,0,2,11,5,0,1,0
+2025-09-13,League Two,2025-26,Bristol Rvs,Barrow,2,1,6,9,2,3,0,0,3,15,5,0,1,1
+2025-09-13,League Two,2025-26,Crawley Town,Cheltenham,2,0,7,4,2,1,0,0,2,11,3,0,0,0
+2025-09-13,League Two,2025-26,Accrington,Colchester,1,0,5,4,2,3,0,1,1,9,5,1,0,0
+2025-09-13,League Two,2025-26,Fleetwood Town,Walsall,1,1,6,6,1,1,0,0,2,12,2,0,1,0
+2025-09-20,League Two,2025-26,Walsall,Tranmere,4,2,8,8,0,1,0,0,6,16,1,0,1,1
+2025-09-20,League Two,2025-26,Salford,Swindon,3,2,6,10,1,2,0,0,5,16,3,0,1,1
+2025-09-20,League Two,2025-26,Notts County,Crawley Town,4,0,6,1,0,2,0,0,4,7,2,0,0,1
+2025-09-20,League Two,2025-26,Newport County,Gillingham,1,3,5,5,2,4,0,0,4,10,6,0,1,1
+2025-09-20,League Two,2025-26,Milton Keynes Dons,Accrington,1,2,3,5,3,2,1,0,3,8,5,1,1,1
+2025-09-20,League Two,2025-26,Colchester,Bristol Rvs,1,1,4,2,2,5,0,0,2,6,7,0,1,0
+2025-09-20,League Two,2025-26,Cheltenham,Oldham,0,3,6,7,3,0,0,0,3,13,3,0,0,1
+2025-09-20,League Two,2025-26,Barrow,Crewe,1,0,2,8,2,2,0,0,1,10,4,0,0,0
+2025-09-20,League Two,2025-26,Barnet,Grimsby,3,0,9,4,2,0,0,0,3,13,2,0,0,1
+2025-09-20,League Two,2025-26,Harrogate,Shrewsbury,2,0,4,5,3,3,0,0,2,9,6,0,0,0
+2025-09-20,League Two,2025-26,Cambridge,Fleetwood Town,2,1,10,1,1,0,0,0,3,11,1,0,1,1
+2025-09-20,League Two,2025-26,Bromley,Chesterfield,2,2,10,4,2,3,0,0,4,14,5,0,1,1
+2025-09-27,League Two,2025-26,Gillingham,Harrogate,0,1,12,1,1,1,0,0,1,13,2,0,0,0
+2025-09-27,League Two,2025-26,Tranmere,Cambridge,0,0,1,7,1,2,0,0,0,8,3,0,0,0
+2025-09-27,League Two,2025-26,Swindon,Bromley,2,0,6,4,2,1,0,0,2,10,3,0,0,0
+2025-09-27,League Two,2025-26,Grimsby,Cheltenham,7,1,8,1,0,2,0,2,8,9,2,2,1,1
+2025-09-27,League Two,2025-26,Fleetwood Town,Colchester,4,2,4,1,0,0,0,0,6,5,0,0,1,1
+2025-09-27,League Two,2025-26,Shrewsbury,Milton Keynes Dons,1,2,7,1,2,0,0,0,3,8,2,0,1,1
+2025-09-27,League Two,2025-26,Chesterfield,Newport County,4,1,4,3,3,2,0,0,5,7,5,0,1,1
+2025-09-27,League Two,2025-26,Crewe,Notts County,2,1,8,5,3,4,0,0,3,13,7,0,1,1
+2025-09-27,League Two,2025-26,Oldham,Barnet,1,1,4,6,2,3,0,0,2,10,5,0,1,0
+2025-09-27,League Two,2025-26,Crawley Town,Barrow,1,2,12,7,3,3,0,0,3,19,6,0,1,1
+2025-09-27,League Two,2025-26,Accrington,Walsall,1,3,8,3,0,1,0,0,4,11,1,0,1,1
+2025-09-27,League Two,2025-26,Bristol Rvs,Salford,2,1,2,5,1,4,0,1,3,7,5,1,1,1
+2025-10-04,League Two,2025-26,Walsall,Bristol Rvs,2,1,3,2,3,3,0,0,3,5,6,0,1,1
+2025-10-04,League Two,2025-26,Salford,Grimsby,0,2,4,5,3,3,0,0,2,9,6,0,0,0
+2025-10-04,League Two,2025-26,Notts County,Oldham,3,1,2,9,1,1,0,0,4,11,2,0,1,1
+2025-10-04,League Two,2025-26,Cheltenham,Fleetwood Town,2,0,0,6,1,4,0,0,2,6,5,0,0,0
+2025-10-04,League Two,2025-26,Cambridge,Crawley Town,3,1,2,10,2,5,0,0,4,12,7,0,1,1
+2025-10-04,League Two,2025-26,Colchester,Chesterfield,6,2,3,3,1,1,0,0,8,6,2,0,1,1
+2025-10-04,League Two,2025-26,Barrow,Shrewsbury,0,0,3,7,2,2,0,0,0,10,4,0,0,0
+2025-10-04,League Two,2025-26,Barnet,Accrington,2,0,4,4,1,3,0,0,2,8,4,0,0,0
+2025-10-04,League Two,2025-26,Newport County,Swindon,0,1,5,6,4,5,0,0,1,11,9,0,0,0
+2025-10-04,League Two,2025-26,Milton Keynes Dons,Gillingham,3,2,3,4,2,3,0,0,5,7,5,0,1,1
+2025-10-04,League Two,2025-26,Bromley,Tranmere,3,3,8,2,2,3,1,0,6,10,5,1,1,1
+2025-10-06,League Two,2025-26,Harrogate,Crewe,1,2,3,6,2,0,0,0,3,9,2,0,1,1
+2025-10-11,League Two,2025-26,Grimsby,Colchester,1,2,6,3,3,4,0,0,3,9,7,0,1,1
+2025-10-11,League Two,2025-26,Oldham,Barrow,0,0,7,4,1,1,0,0,0,11,2,0,0,0
+2025-10-11,League Two,2025-26,Tranmere,Barnet,0,2,2,6,0,4,0,1,2,8,4,1,0,0
+2025-10-11,League Two,2025-26,Shrewsbury,Cambridge,2,0,3,3,2,1,0,0,2,6,3,0,0,0
+2025-10-11,League Two,2025-26,Gillingham,Cheltenham,1,1,11,2,0,2,0,0,2,13,2,0,1,0
+2025-10-11,League Two,2025-26,Bristol Rvs,Milton Keynes Dons,0,4,7,2,2,2,0,0,4,9,4,0,0,1
+2025-10-11,League Two,2025-26,Crewe,Bromley,0,1,5,5,1,2,0,0,1,10,3,0,0,0
+2025-10-11,League Two,2025-26,Crawley Town,Walsall,1,1,4,7,2,2,0,0,2,11,4,0,1,0
+2025-10-11,League Two,2025-26,Chesterfield,Salford,2,0,4,7,3,2,0,0,2,11,5,0,0,0
+2025-10-11,League Two,2025-26,Accrington,Newport County,0,1,4,3,1,1,0,0,1,7,2,0,0,0
+2025-10-11,League Two,2025-26,Fleetwood Town,Harrogate,3,2,4,3,0,0,0,0,5,7,0,0,1,1
+2025-10-18,League Two,2025-26,Grimsby,Gillingham,1,0,6,2,3,4,0,2,1,8,7,2,0,0
+2025-10-18,League Two,2025-26,Walsall,Barrow,1,2,14,0,1,2,0,1,3,14,3,1,1,1
+2025-10-18,League Two,2025-26,Shrewsbury,Crawley Town,1,0,6,6,3,3,0,1,1,12,6,1,0,0
+2025-10-18,League Two,2025-26,Newport County,Cheltenham,0,2,3,3,4,1,0,0,2,6,5,0,0,0
+2025-10-18,League Two,2025-26,Milton Keynes Dons,Crewe,3,1,4,7,4,0,0,0,4,11,4,0,1,1
+2025-10-18,League Two,2025-26,Colchester,Harrogate,3,1,5,4,1,3,0,0,4,9,4,0,1,1
+2025-10-18,League Two,2025-26,Accrington,Swindon,4,0,3,5,0,3,0,1,4,8,3,1,0,1
+2025-10-18,League Two,2025-26,Bristol Rvs,Tranmere,1,4,6,5,2,2,0,0,5,11,4,0,1,1
+2025-10-18,League Two,2025-26,Chesterfield,Fleetwood Town,1,1,9,9,1,3,0,0,2,18,4,0,1,0
+2025-10-18,League Two,2025-26,Salford,Oldham,1,0,7,7,3,2,0,1,1,14,5,1,0,0
+2025-10-18,League Two,2025-26,Cambridge,Bromley,2,1,3,3,2,1,0,0,3,6,3,0,1,1
+2025-10-18,League Two,2025-26,Barnet,Notts County,0,1,12,2,3,2,0,0,1,14,5,0,0,0
+2025-10-21,League Two,2025-26,Swindon,Notts County,2,2,6,1,2,4,0,0,4,7,6,0,1,1
+2025-10-25,League Two,2025-26,Harrogate,Newport County,0,3,4,1,2,0,0,0,3,5,2,0,0,1
+2025-10-25,League Two,2025-26,Tranmere,Chesterfield,1,1,4,7,0,2,0,0,2,11,2,0,1,0
+2025-10-25,League Two,2025-26,Swindon,Colchester,0,0,1,5,1,0,0,0,0,6,1,0,0,0
+2025-10-25,League Two,2025-26,Oldham,Shrewsbury,2,2,7,2,1,4,0,0,4,9,5,0,1,1
+2025-10-25,League Two,2025-26,Notts County,Cambridge,2,0,0,5,0,4,0,0,2,5,4,0,0,0
+2025-10-25,League Two,2025-26,Gillingham,Salford,1,2,5,5,2,5,0,0,3,10,7,0,1,1
+2025-10-25,League Two,2025-26,Crewe,Grimsby,3,2,3,3,1,1,0,0,5,6,2,0,1,1
+2025-10-25,League Two,2025-26,Bromley,Milton Keynes Dons,2,1,7,2,1,0,0,0,3,9,1,0,1,1
+2025-10-25,League Two,2025-26,Barrow,Barnet,2,2,4,7,2,1,1,0,4,11,3,1,1,1
+2025-10-25,League Two,2025-26,Fleetwood Town,Accrington,2,1,7,9,1,3,0,0,3,16,4,0,1,1
+2025-10-25,League Two,2025-26,Cheltenham,Walsall,1,0,1,4,2,1,0,0,1,5,3,0,0,0
+2025-10-25,League Two,2025-26,Crawley Town,Bristol Rvs,4,0,5,3,2,3,0,1,4,8,5,1,0,1
+2025-10-28,League Two,2025-26,Accrington,Tranmere,1,1,4,2,1,2,0,0,2,6,3,0,1,0
+2025-11-08,League Two,2025-26,Swindon,Tranmere,2,1,8,3,3,3,0,0,3,11,6,0,1,1
+2025-11-08,League Two,2025-26,Salford,Cambridge,0,0,4,4,4,2,0,0,0,8,6,0,0,0
+2025-11-08,League Two,2025-26,Newport County,Walsall,2,4,4,5,4,2,0,0,6,9,6,0,1,1
+2025-11-08,League Two,2025-26,Harrogate,Oldham,0,1,8,6,2,1,0,1,1,14,3,1,0,0
+2025-11-08,League Two,2025-26,Crawley Town,Fleetwood Town,2,1,11,3,2,2,0,1,3,14,4,1,1,1
+2025-11-08,League Two,2025-26,Chesterfield,Accrington,3,3,11,3,3,5,0,0,6,14,8,0,1,1
+2025-11-08,League Two,2025-26,Barrow,Grimsby,2,2,3,2,3,1,0,0,4,5,4,0,1,1
+2025-11-08,League Two,2025-26,Barnet,Milton Keynes Dons,2,2,6,2,1,4,0,0,4,8,5,0,1,1
+2025-11-08,League Two,2025-26,Crewe,Shrewsbury,3,1,7,4,2,4,0,0,4,11,6,0,1,1
+2025-11-08,League Two,2025-26,Colchester,Bromley,0,2,9,2,2,3,0,0,2,11,5,0,0,0
+2025-11-08,League Two,2025-26,Bristol Rvs,Gillingham,0,1,12,3,1,4,0,0,1,15,5,0,0,0
+2025-11-10,League Two,2025-26,Cheltenham,Notts County,1,2,5,7,0,3,0,0,3,12,3,0,1,1
+2025-11-15,League Two,2025-26,Gillingham,Crawley Town,2,2,8,7,1,2,0,0,4,15,3,0,1,1
+2025-11-15,League Two,2025-26,Walsall,Colchester,0,2,5,1,2,4,0,0,2,6,6,0,0,0
+2025-11-15,League Two,2025-26,Tranmere,Cheltenham,3,2,2,7,2,1,0,0,5,9,3,0,1,1
+2025-11-15,League Two,2025-26,Shrewsbury,Newport County,1,0,8,4,4,2,0,0,1,12,6,0,0,0
+2025-11-15,League Two,2025-26,Oldham,Crewe,0,0,5,6,2,1,0,0,0,11,3,0,0,0
+2025-11-15,League Two,2025-26,Notts County,Harrogate,1,1,11,1,0,2,0,0,2,12,2,0,1,0
+2025-11-15,League Two,2025-26,Milton Keynes Dons,Salford,2,0,3,4,2,2,0,0,2,7,4,0,0,0
+2025-11-15,League Two,2025-26,Grimsby,Chesterfield,0,1,11,5,2,3,0,0,1,16,5,0,0,0
+2025-11-15,League Two,2025-26,Fleetwood Town,Swindon,1,1,9,6,0,3,0,0,2,15,3,0,1,0
+2025-11-15,League Two,2025-26,Cambridge,Barnet,0,0,3,7,2,0,0,0,0,10,2,0,0,0
+2025-11-15,League Two,2025-26,Bromley,Barrow,2,1,4,1,1,2,0,0,3,5,3,0,1,1
+2025-11-15,League Two,2025-26,Accrington,Bristol Rvs,3,1,3,5,3,3,0,0,4,8,6,0,1,1
+2025-11-22,League Two,2025-26,Swindon,Grimsby,2,2,6,8,2,2,0,0,4,14,4,0,1,1
+2025-11-22,League Two,2025-26,Oldham,Newport County,3,0,9,6,2,1,0,0,3,15,3,0,0,1
+2025-11-22,League Two,2025-26,Notts County,Colchester,1,3,4,3,1,3,0,0,4,7,4,0,1,1
+2025-11-22,League Two,2025-26,Fleetwood Town,Shrewsbury,3,1,3,2,0,1,1,0,4,5,1,1,1,1
+2025-11-22,League Two,2025-26,Crewe,Chesterfield,3,3,5,2,2,1,0,0,6,7,3,0,1,1
+2025-11-22,League Two,2025-26,Tranmere,Milton Keynes Dons,2,2,1,8,2,1,0,1,4,9,3,1,1,1
+2025-11-22,League Two,2025-26,Cheltenham,Bristol Rvs,1,0,6,7,4,1,0,0,1,13,5,0,0,0
+2025-11-22,League Two,2025-26,Bromley,Salford,2,0,4,7,0,2,0,0,2,11,2,0,0,0
+2025-11-22,League Two,2025-26,Barrow,Cambridge,0,2,4,3,1,2,0,0,2,7,3,0,0,0
+2025-11-22,League Two,2025-26,Harrogate,Walsall,0,2,2,7,1,2,0,0,2,9,3,0,0,0
+2025-11-22,League Two,2025-26,Gillingham,Barnet,1,1,2,7,4,3,0,0,2,9,7,0,1,0
+2025-11-22,League Two,2025-26,Crawley Town,Accrington,1,1,7,4,3,2,0,0,2,11,5,0,1,0
+2025-11-27,League Two,2025-26,Grimsby,Tranmere,1,2,5,1,0,4,0,0,3,6,4,0,1,1
+2025-11-29,League Two,2025-26,Shrewsbury,Gillingham,3,3,1,9,2,2,0,0,6,10,4,0,1,1
+2025-11-29,League Two,2025-26,Salford,Crawley Town,4,3,12,4,1,2,0,0,7,16,3,0,1,1
+2025-11-29,League Two,2025-26,Newport County,Barrow,2,2,2,2,0,1,0,0,4,4,1,0,1,1
+2025-11-29,League Two,2025-26,Colchester,Cheltenham,2,0,1,1,1,2,0,0,2,2,3,0,0,0
+2025-11-29,League Two,2025-26,Chesterfield,Swindon,1,2,7,3,1,3,0,1,3,10,4,1,1,1
+2025-11-29,League Two,2025-26,Walsall,Bromley,3,1,4,9,1,3,0,0,4,13,4,0,1,1
+2025-11-29,League Two,2025-26,Bristol Rvs,Notts County,0,1,9,2,2,5,0,1,1,11,7,1,0,0
+2025-11-29,League Two,2025-26,Barnet,Harrogate,1,1,7,3,0,2,0,0,2,10,2,0,1,0
+2025-11-29,League Two,2025-26,Milton Keynes Dons,Fleetwood Town,2,1,6,2,2,0,0,0,3,8,2,0,1,1
+2025-11-29,League Two,2025-26,Accrington,Oldham,1,0,2,6,4,2,0,0,1,8,6,0,0,0
+2025-11-29,League Two,2025-26,Cambridge,Crewe,2,1,10,1,1,2,0,0,3,11,3,0,1,1
+2025-12-06,League Two,2025-26,Colchester,Gillingham,0,0,1,6,1,4,0,0,0,7,5,0,0,0
+2025-12-09,League Two,2025-26,Swindon,Cheltenham,0,1,6,6,2,2,0,0,1,12,4,0,0,0
+2025-12-09,League Two,2025-26,Shrewsbury,Grimsby,1,1,2,6,2,2,0,0,2,8,4,0,1,0
+2025-12-09,League Two,2025-26,Notts County,Milton Keynes Dons,3,2,2,1,2,3,0,0,5,3,5,0,1,1
+2025-12-09,League Two,2025-26,Fleetwood Town,Salford,1,1,2,6,2,1,0,0,2,8,3,0,1,0
+2025-12-09,League Two,2025-26,Harrogate,Accrington,0,2,3,6,2,1,0,0,2,9,3,0,0,0
+2025-12-09,League Two,2025-26,Bromley,Crawley Town,3,1,8,3,2,2,0,0,4,11,4,0,1,1
+2025-12-09,League Two,2025-26,Barrow,Tranmere,0,3,5,5,4,1,1,0,3,10,5,1,0,1
+2025-12-09,League Two,2025-26,Barnet,Bristol Rvs,4,0,9,5,2,1,0,0,4,14,3,0,0,1
+2025-12-09,League Two,2025-26,Cambridge,Chesterfield,1,1,5,1,0,0,0,0,2,6,0,0,1,0
+2025-12-10,League Two,2025-26,Crewe,Newport County,2,2,4,1,1,2,0,1,4,5,3,1,1,1
+2025-12-10,League Two,2025-26,Oldham,Walsall,0,1,4,4,3,2,0,0,1,8,5,0,0,0
+2025-12-13,League Two,2025-26,Grimsby,Notts County,0,2,6,3,1,3,0,0,2,9,4,0,0,0
+2025-12-13,League Two,2025-26,Walsall,Shrewsbury,1,1,5,5,1,4,0,0,2,10,5,0,1,0
+2025-12-13,League Two,2025-26,Tranmere,Crewe,1,4,8,2,4,2,0,0,5,10,6,0,1,1
+2025-12-13,League Two,2025-26,Newport County,Fleetwood Town,0,2,3,4,2,2,1,0,2,7,4,1,0,0
+2025-12-13,League Two,2025-26,Milton Keynes Dons,Cambridge,1,1,7,4,2,1,0,0,2,11,3,0,1,0
+2025-12-13,League Two,2025-26,Gillingham,Barrow,2,2,4,2,0,1,0,0,4,6,1,0,1,1
+2025-12-13,League Two,2025-26,Cheltenham,Harrogate,1,1,5,5,2,1,0,0,2,10,3,0,1,0
+2025-12-13,League Two,2025-26,Chesterfield,Barnet,3,1,5,13,3,0,0,0,4,18,3,0,1,1
+2025-12-13,League Two,2025-26,Crawley Town,Oldham,2,2,4,7,1,3,0,0,4,11,4,0,1,1
+2025-12-13,League Two,2025-26,Accrington,Bromley,0,1,7,4,1,2,0,0,1,11,3,0,0,0
+2025-12-13,League Two,2025-26,Salford,Colchester,4,3,5,3,3,0,0,0,7,8,3,0,1,1
+2025-12-13,League Two,2025-26,Bristol Rvs,Swindon,0,3,4,7,1,0,1,1,3,11,1,2,0,1
+2025-12-19,League Two,2025-26,Barrow,Cheltenham,1,2,11,4,0,0,0,0,3,15,0,0,1,1
+2025-12-19,League Two,2025-26,Cambridge,Accrington,2,0,7,6,1,0,0,0,2,13,1,0,0,0
+2025-12-19,League Two,2025-26,Crewe,Bristol Rvs,1,1,3,3,2,3,1,0,2,6,5,1,1,0
+2025-12-20,League Two,2025-26,Swindon,Crawley Town,1,0,1,12,1,3,0,0,1,13,4,0,0,0
+2025-12-20,League Two,2025-26,Shrewsbury,Chesterfield,0,1,4,3,0,3,0,0,1,7,3,0,0,0
+2025-12-20,League Two,2025-26,Oldham,Tranmere,3,1,5,3,3,1,1,0,4,8,4,1,1,1
+2025-12-20,League Two,2025-26,Harrogate,Milton Keynes Dons,0,4,2,3,2,0,0,0,4,5,2,0,0,1
+2025-12-20,League Two,2025-26,Barnet,Salford,1,3,3,4,0,2,0,0,4,7,2,0,1,1
+2025-12-20,League Two,2025-26,Colchester,Newport County,4,1,2,2,1,2,0,0,5,4,3,0,1,1
+2025-12-20,League Two,2025-26,Notts County,Walsall,0,0,6,1,1,2,0,0,0,7,3,0,0,0
+2025-12-20,League Two,2025-26,Bromley,Grimsby,2,0,2,7,2,3,0,0,2,9,5,0,0,0
+2025-12-20,League Two,2025-26,Fleetwood Town,Gillingham,2,1,10,3,3,2,0,0,3,13,5,0,1,1
+2025-12-26,League Two,2025-26,Milton Keynes Dons,Swindon,1,0,5,8,1,2,0,0,1,13,3,0,0,0
+2025-12-26,League Two,2025-26,Walsall,Crewe,1,0,2,10,1,2,0,0,1,12,3,0,0,0
+2025-12-26,League Two,2025-26,Salford,Harrogate,1,0,7,3,1,1,0,0,1,10,2,0,0,0
+2025-12-26,League Two,2025-26,Newport County,Barnet,0,0,1,7,1,0,0,0,0,8,1,0,0,0
+2025-12-26,League Two,2025-26,Grimsby,Oldham,0,0,11,2,1,2,0,0,0,13,3,0,0,0
+2025-12-26,League Two,2025-26,Tranmere,Fleetwood Town,1,0,6,7,5,2,0,0,1,13,7,0,0,0
+2025-12-26,League Two,2025-26,Crawley Town,Colchester,1,1,4,6,2,2,0,0,2,10,4,0,1,0
+2025-12-26,League Two,2025-26,Chesterfield,Notts County,2,0,3,5,3,3,0,0,2,8,6,0,0,0
+2025-12-26,League Two,2025-26,Cheltenham,Shrewsbury,3,1,4,5,2,3,0,0,4,9,5,0,1,1
+2025-12-26,League Two,2025-26,Bristol Rvs,Bromley,2,3,4,2,2,1,1,0,5,6,3,1,1,1
+2025-12-26,League Two,2025-26,Accrington,Barrow,2,1,4,5,0,2,0,0,3,9,2,0,1,1
+2025-12-26,League Two,2025-26,Gillingham,Cambridge,1,1,6,5,1,0,0,0,2,11,1,0,1,0
+2025-12-29,League Two,2025-26,Walsall,Oldham,1,2,4,7,2,2,0,0,3,11,4,0,1,1
+2025-12-29,League Two,2025-26,Tranmere,Barrow,1,3,7,3,2,2,0,1,4,10,4,1,1,1
+2025-12-29,League Two,2025-26,Milton Keynes Dons,Notts County,1,1,1,5,2,3,0,0,2,6,5,0,1,0
+2025-12-29,League Two,2025-26,Grimsby,Shrewsbury,1,0,6,2,2,2,0,0,1,8,4,0,0,0
+2025-12-29,League Two,2025-26,Gillingham,Colchester,1,1,6,5,1,1,0,0,2,11,2,0,1,0
+2025-12-29,League Two,2025-26,Salford,Fleetwood Town,0,0,6,4,2,2,0,0,0,10,4,0,0,0
+2025-12-29,League Two,2025-26,Chesterfield,Cambridge,0,1,5,5,1,4,0,0,1,10,5,0,0,0
+2025-12-29,League Two,2025-26,Cheltenham,Swindon,0,2,7,4,0,2,0,0,2,11,2,0,0,0
+2025-12-29,League Two,2025-26,Bristol Rvs,Barnet,0,2,3,5,3,2,0,0,2,8,5,0,0,0
+2025-12-29,League Two,2025-26,Accrington,Harrogate,1,0,8,3,1,0,0,1,1,11,1,1,0,0
+2025-12-29,League Two,2025-26,Newport County,Crewe,2,0,6,4,1,3,0,0,2,10,4,0,0,0
+2025-12-29,League Two,2025-26,Crawley Town,Bromley,1,3,1,8,1,1,0,0,4,9,2,0,1,1
+2026-01-01,League Two,2025-26,Swindon,Gillingham,2,0,8,8,4,3,0,0,2,16,7,0,0,0
+2026-01-01,League Two,2025-26,Shrewsbury,Bristol Rvs,0,3,8,3,2,1,0,0,3,11,3,0,0,1
+2026-01-01,League Two,2025-26,Oldham,Chesterfield,1,1,6,4,3,0,0,1,2,10,3,1,1,0
+2026-01-01,League Two,2025-26,Notts County,Accrington,0,1,8,5,5,4,0,0,1,13,9,0,0,0
+2026-01-01,League Two,2025-26,Harrogate,Tranmere,0,2,10,4,2,1,0,0,2,14,3,0,0,0
+2026-01-01,League Two,2025-26,Fleetwood Town,Grimsby,0,1,4,2,3,2,0,0,1,6,5,0,0,0
+2026-01-01,League Two,2025-26,Cambridge,Walsall,2,0,2,6,0,1,0,0,2,8,1,0,0,0
+2026-01-01,League Two,2025-26,Colchester,Milton Keynes Dons,1,0,6,3,1,2,0,0,1,9,3,0,0,0
+2026-01-01,League Two,2025-26,Bromley,Newport County,2,1,6,3,2,1,0,0,3,9,3,0,1,1
+2026-01-01,League Two,2025-26,Barrow,Salford,1,2,5,3,2,1,0,0,3,8,3,0,1,1
+2026-01-01,League Two,2025-26,Barnet,Crawley Town,2,1,13,5,1,2,0,0,3,18,3,0,1,1
+2026-01-01,League Two,2025-26,Crewe,Cheltenham,4,1,6,5,0,1,0,0,5,11,1,0,1,1
+2026-01-04,League Two,2025-26,Cheltenham,Crawley Town,3,0,8,2,1,2,0,0,3,10,3,0,0,1
+2026-01-04,League Two,2025-26,Milton Keynes Dons,Chesterfield,2,2,4,6,4,2,0,0,4,10,6,0,1,1
+2026-01-10,League Two,2025-26,Tranmere,Bromley,0,2,4,4,2,3,0,0,2,8,5,0,0,0
+2026-01-10,League Two,2025-26,Crewe,Harrogate,1,1,7,3,2,1,0,0,2,10,3,0,1,0
+2026-01-17,League Two,2025-26,Swindon,Salford,2,3,6,4,2,4,0,0,5,10,6,0,1,1
+2026-01-17,League Two,2025-26,Shrewsbury,Harrogate,1,0,8,4,3,5,0,1,1,12,8,1,0,0
+2026-01-17,League Two,2025-26,Oldham,Cheltenham,2,1,5,6,4,1,0,0,3,11,5,0,1,1
+2026-01-17,League Two,2025-26,Grimsby,Barnet,1,0,5,7,1,1,0,1,1,12,2,1,0,0
+2026-01-17,League Two,2025-26,Fleetwood Town,Cambridge,1,2,2,5,3,0,0,0,3,7,3,0,1,1
+2026-01-17,League Two,2025-26,Gillingham,Newport County,3,2,4,5,3,2,0,0,5,9,5,0,1,1
+2026-01-17,League Two,2025-26,Crawley Town,Notts County,1,2,5,7,1,2,1,0,3,12,3,1,1,1
+2026-01-17,League Two,2025-26,Bristol Rvs,Colchester,0,1,4,5,4,2,0,0,1,9,6,0,0,0
+2026-01-17,League Two,2025-26,Accrington,Milton Keynes Dons,0,2,2,3,2,2,0,0,2,5,4,0,0,0
+2026-01-17,League Two,2025-26,Tranmere,Walsall,1,3,3,10,1,2,0,0,4,13,3,0,1,1
+2026-01-17,League Two,2025-26,Chesterfield,Bromley,0,0,10,8,2,0,0,0,0,18,2,0,0,0
+2026-01-17,League Two,2025-26,Crewe,Barrow,3,1,3,8,4,3,0,0,4,11,7,0,1,1
+2026-01-24,League Two,2025-26,Harrogate,Gillingham,0,3,3,3,1,1,0,0,3,6,2,0,0,1
+2026-01-24,League Two,2025-26,Salford,Bristol Rvs,1,0,9,4,2,0,0,0,1,13,2,0,0,0
+2026-01-24,League Two,2025-26,Newport County,Chesterfield,2,1,2,8,3,0,0,0,3,10,3,0,1,1
+2026-01-24,League Two,2025-26,Milton Keynes Dons,Shrewsbury,5,1,1,1,1,4,0,0,6,2,5,0,1,1
+2026-01-24,League Two,2025-26,Colchester,Fleetwood Town,2,1,4,5,3,2,0,0,3,9,5,0,1,1
+2026-01-24,League Two,2025-26,Notts County,Crewe,1,0,7,5,2,2,0,0,1,12,4,0,0,0
+2026-01-24,League Two,2025-26,Cambridge,Tranmere,4,2,7,1,2,3,0,0,6,8,5,0,1,1
+2026-01-24,League Two,2025-26,Bromley,Swindon,2,1,8,4,2,0,0,0,3,12,2,0,1,1
+2026-01-24,League Two,2025-26,Barrow,Crawley Town,0,1,11,1,2,0,0,0,1,12,2,0,0,0
+2026-01-24,League Two,2025-26,Barnet,Oldham,3,2,1,6,3,1,1,0,5,7,4,1,1,1
+2026-01-24,League Two,2025-26,Walsall,Accrington,0,0,5,5,5,3,0,0,0,10,8,0,0,0
+2026-01-24,League Two,2025-26,Cheltenham,Grimsby,0,2,7,2,2,3,0,0,2,9,5,0,0,0
+2026-01-27,League Two,2025-26,Notts County,Swindon,2,1,7,3,0,0,0,0,3,10,0,0,1,1
+2026-01-27,League Two,2025-26,Cambridge,Shrewsbury,1,0,2,3,1,1,0,0,1,5,2,0,0,0
+2026-01-27,League Two,2025-26,Walsall,Crawley Town,0,0,1,12,3,5,0,0,0,13,8,0,0,0
+2026-01-27,League Two,2025-26,Salford,Chesterfield,0,1,8,2,2,1,0,0,1,10,3,0,0,0
+2026-01-27,League Two,2025-26,Milton Keynes Dons,Bristol Rvs,1,0,4,3,3,3,0,0,1,7,6,0,0,0
+2026-01-27,League Two,2025-26,Barnet,Tranmere,1,0,10,2,2,3,0,0,1,12,5,0,0,0
+2026-01-27,League Two,2025-26,Colchester,Grimsby,0,1,8,5,3,1,0,1,1,13,4,1,0,0
+2026-01-27,League Two,2025-26,Bromley,Crewe,2,2,4,3,2,3,0,0,4,7,5,0,1,1
+2026-01-27,League Two,2025-26,Newport County,Accrington,1,4,3,2,2,5,1,0,5,5,7,1,1,1
+2026-01-27,League Two,2025-26,Harrogate,Fleetwood Town,1,2,6,5,2,3,0,0,3,11,5,0,1,1
+2026-01-31,League Two,2025-26,Tranmere,Salford,0,2,9,4,2,0,0,0,2,13,2,0,0,0
+2026-01-31,League Two,2025-26,Swindon,Barrow,3,1,8,9,1,1,0,0,4,17,2,0,1,1
+2026-01-31,League Two,2025-26,Shrewsbury,Barnet,0,0,3,6,3,1,0,0,0,9,4,0,0,0
+2026-01-31,League Two,2025-26,Oldham,Cambridge,0,3,1,0,2,2,0,0,3,1,4,0,0,1
+2026-01-31,League Two,2025-26,Gillingham,Bromley,1,4,8,0,1,3,0,0,5,8,4,0,1,1
+2026-01-31,League Two,2025-26,Fleetwood Town,Notts County,1,2,2,8,2,4,0,0,3,10,6,0,1,1
+2026-01-31,League Two,2025-26,Crawley Town,Harrogate,2,0,8,5,2,0,0,0,2,13,2,0,0,0
+2026-01-31,League Two,2025-26,Chesterfield,Walsall,2,2,7,3,0,0,0,0,4,10,0,0,1,1
+2026-01-31,League Two,2025-26,Accrington,Cheltenham,3,1,10,8,1,2,0,0,4,18,3,0,1,1
+2026-01-31,League Two,2025-26,Grimsby,Milton Keynes Dons,2,2,9,6,1,2,0,0,4,15,3,0,1,1
+2026-01-31,League Two,2025-26,Bristol Rvs,Newport County,3,0,7,3,1,2,0,0,3,10,3,0,0,1
+2026-01-31,League Two,2025-26,Crewe,Colchester,1,0,2,7,0,3,0,0,1,9,3,0,0,0
+2026-02-03,League Two,2025-26,Barnet,Crewe,1,1,8,2,0,3,0,0,2,10,3,0,1,0
+2026-02-03,League Two,2025-26,Bristol Rvs,Walsall,2,0,5,5,1,1,0,0,2,10,2,0,0,0
+2026-02-03,League Two,2025-26,Harrogate,Swindon,0,1,7,9,1,1,0,0,1,16,2,0,0,0
+2026-02-03,League Two,2025-26,Notts County,Gillingham,1,0,4,3,1,3,0,0,1,7,4,0,0,0
+2026-02-05,League Two,2025-26,Accrington,Salford,1,0,2,5,1,1,0,0,1,7,2,0,0,0
+2026-02-07,League Two,2025-26,Harrogate,Cambridge,2,1,1,4,4,0,0,0,3,5,4,0,1,1
+2026-02-07,League Two,2025-26,Walsall,Barnet,1,3,1,9,5,1,0,0,4,10,6,0,1,1
+2026-02-07,League Two,2025-26,Notts County,Barrow,2,1,7,4,1,3,0,0,3,11,4,0,1,1
+2026-02-07,League Two,2025-26,Newport County,Grimsby,0,0,8,12,1,2,0,0,0,20,3,0,0,0
+2026-02-07,League Two,2025-26,Fleetwood Town,Bromley,1,2,2,2,2,2,0,0,3,4,4,0,1,1
+2026-02-07,League Two,2025-26,Gillingham,Tranmere,2,1,8,8,0,0,0,0,3,16,0,0,1,1
+2026-02-07,League Two,2025-26,Cheltenham,Milton Keynes Dons,2,3,7,8,1,4,0,0,5,15,5,0,1,1
+2026-02-07,League Two,2025-26,Bristol Rvs,Chesterfield,2,3,6,6,3,2,0,0,5,12,5,0,1,1
+2026-02-07,League Two,2025-26,Swindon,Oldham,3,0,4,3,3,2,0,0,3,7,5,0,0,1
+2026-02-07,League Two,2025-26,Crawley Town,Crewe,0,1,3,7,2,0,0,0,1,10,2,0,0,0
+2026-02-07,League Two,2025-26,Colchester,Shrewsbury,2,0,0,2,4,2,0,0,2,2,6,0,0,0
+2026-02-10,League Two,2025-26,Crawley Town,Cambridge,0,3,2,9,3,0,0,0,3,11,3,0,0,1
+2026-02-10,League Two,2025-26,Shrewsbury,Barrow,2,1,5,4,2,1,0,0,3,9,3,0,1,1
+2026-02-11,League Two,2025-26,Grimsby,Accrington,1,0,8,4,1,2,0,1,1,12,3,1,0,0
+2026-02-11,League Two,2025-26,Swindon,Newport County,2,0,9,0,0,0,0,0,2,9,0,0,0,0
+2026-02-14,League Two,2025-26,Tranmere,Crawley Town,2,0,5,15,4,1,0,0,2,20,5,0,0,0
+2026-02-14,League Two,2025-26,Shrewsbury,Swindon,3,1,5,4,3,3,0,0,4,9,6,0,1,1
+2026-02-14,League Two,2025-26,Oldham,Fleetwood Town,1,1,7,7,0,2,0,0,2,14,2,0,1,0
+2026-02-14,League Two,2025-26,Milton Keynes Dons,Newport County,1,0,6,2,1,2,0,0,1,8,3,0,0,0
+2026-02-14,League Two,2025-26,Crewe,Gillingham,1,0,2,8,0,1,0,0,1,10,1,0,0,0
+2026-02-14,League Two,2025-26,Bromley,Notts County,1,1,3,7,0,1,0,1,2,10,1,1,1,0
+2026-02-14,League Two,2025-26,Cambridge,Bristol Rvs,3,1,6,2,1,4,0,0,4,8,5,0,1,1
+2026-02-14,League Two,2025-26,Barrow,Colchester,1,0,2,10,2,3,0,0,1,12,5,0,0,0
+2026-02-14,League Two,2025-26,Barnet,Cheltenham,0,0,9,0,4,1,0,1,0,9,5,1,0,0
+2026-02-14,League Two,2025-26,Chesterfield,Harrogate,1,1,3,6,1,2,1,0,2,9,3,1,1,0
+2026-02-17,League Two,2025-26,Milton Keynes Dons,Crawley Town,0,0,9,2,1,3,0,0,0,11,4,0,0,0
+2026-02-17,League Two,2025-26,Shrewsbury,Notts County,1,0,6,7,0,4,0,0,1,13,4,0,0,0
+2026-02-17,League Two,2025-26,Salford,Newport County,1,3,9,1,4,5,0,0,4,10,9,0,1,1
+2026-02-17,League Two,2025-26,Oldham,Bristol Rvs,2,0,2,6,3,4,0,0,2,8,7,0,0,0
+2026-02-17,League Two,2025-26,Crewe,Fleetwood Town,0,1,3,5,0,3,0,0,1,8,3,0,0,0
+2026-02-17,League Two,2025-26,Tranmere,Accrington,0,1,7,1,1,3,0,2,1,8,4,2,0,0
+2026-02-17,League Two,2025-26,Cambridge,Colchester,1,1,5,3,2,2,0,0,2,8,4,0,1,0
+2026-02-17,League Two,2025-26,Bromley,Cheltenham,1,1,7,3,3,2,0,0,2,10,5,0,1,0
+2026-02-17,League Two,2025-26,Barrow,Harrogate,0,1,1,6,1,2,0,0,1,7,3,0,0,0
+2026-02-17,League Two,2025-26,Barnet,Swindon,1,2,3,1,1,1,0,0,3,4,2,0,1,1
+2026-02-17,League Two,2025-26,Chesterfield,Gillingham,1,0,8,7,0,3,0,0,1,15,3,0,0,0
+2026-02-18,League Two,2025-26,Grimsby,Walsall,2,2,10,6,1,2,0,1,4,16,3,1,1,1
+2026-02-21,League Two,2025-26,Newport County,Cambridge,0,2,2,9,2,2,0,0,2,11,4,0,0,0
+2026-02-21,League Two,2025-26,Harrogate,Bromley,0,0,6,4,1,2,0,0,0,10,3,0,0,0
+2026-02-21,League Two,2025-26,Gillingham,Oldham,0,3,10,2,2,2,0,0,3,12,4,0,0,1
+2026-02-21,League Two,2025-26,Crawley Town,Chesterfield,1,1,4,4,4,2,0,0,2,8,6,0,1,0
+2026-02-21,League Two,2025-26,Colchester,Barnet,4,1,2,5,2,3,0,0,5,7,5,0,1,1
+2026-02-21,League Two,2025-26,Notts County,Tranmere,5,0,5,2,1,2,0,0,5,7,3,0,0,1
+2026-02-21,League Two,2025-26,Bristol Rvs,Grimsby,3,1,5,4,3,0,0,0,4,9,3,0,1,1
+2026-02-21,League Two,2025-26,Accrington,Shrewsbury,0,2,6,3,3,0,0,0,2,9,3,0,0,0
+2026-02-21,League Two,2025-26,Swindon,Crewe,1,2,7,6,1,1,0,0,3,13,2,0,1,1
+2026-02-21,League Two,2025-26,Fleetwood Town,Barrow,3,2,4,3,2,3,0,0,5,7,5,0,1,1
+2026-02-21,League Two,2025-26,Cheltenham,Salford,3,2,7,3,1,5,0,1,5,10,6,1,1,1
+2026-02-23,League Two,2025-26,Walsall,Milton Keynes Dons,0,2,2,8,2,3,0,0,2,10,5,0,0,0
+2026-02-24,League Two,2025-26,Accrington,Barnet,0,1,2,3,1,0,0,0,1,5,1,0,0,0
+2026-02-24,League Two,2025-26,Salford,Shrewsbury,1,2,2,2,1,1,0,0,3,4,2,0,1,1
+2026-02-27,League Two,2025-26,Harrogate,Cheltenham,1,1,9,5,0,2,0,0,2,14,2,0,1,0
+2026-02-28,League Two,2025-26,Oldham,Crawley Town,2,0,8,3,4,1,0,0,2,11,5,0,0,0
+2026-02-28,League Two,2025-26,Notts County,Grimsby,0,1,7,6,3,3,1,0,1,13,6,1,0,0
+2026-02-28,League Two,2025-26,Fleetwood Town,Newport County,0,0,8,2,1,1,0,0,0,10,2,0,0,0
+2026-02-28,League Two,2025-26,Crewe,Tranmere,2,1,5,1,1,3,0,0,3,6,4,0,1,1
+2026-02-28,League Two,2025-26,Colchester,Salford,0,1,4,5,3,2,0,0,1,9,5,0,0,0
+2026-02-28,League Two,2025-26,Shrewsbury,Walsall,1,2,8,2,1,1,1,0,3,10,2,1,1,1
+2026-02-28,League Two,2025-26,Barrow,Gillingham,0,1,3,8,0,0,0,0,1,11,0,0,0,0
+2026-02-28,League Two,2025-26,Barnet,Chesterfield,1,0,4,4,0,0,0,0,1,8,0,0,0,0
+2026-02-28,League Two,2025-26,Swindon,Bristol Rvs,1,1,13,1,1,4,0,0,2,14,5,0,1,0
+2026-02-28,League Two,2025-26,Cambridge,Milton Keynes Dons,1,1,3,2,1,2,0,0,2,5,3,0,1,0
+2026-02-28,League Two,2025-26,Bromley,Accrington,2,1,5,5,1,1,0,1,3,10,2,1,1,1
+2026-03-03,League Two,2025-26,Walsall,Fleetwood Town,0,1,5,5,0,2,0,0,1,10,2,0,0,0
+2026-03-03,League Two,2025-26,Newport County,Tranmere,3,1,7,5,2,2,0,1,4,12,4,1,1,1
+2026-03-03,League Two,2025-26,Bromley,Oldham,0,0,3,7,3,1,0,0,0,10,4,0,0,0
+2026-03-03,League Two,2025-26,Chesterfield,Colchester,3,0,4,4,2,5,0,0,3,8,7,0,0,1
+2026-03-03,League Two,2025-26,Grimsby,Salford,3,1,4,4,2,4,0,0,4,8,6,0,1,1
+2026-03-06,League Two,2025-26,Cheltenham,Barrow,2,2,1,3,1,2,0,0,4,4,3,0,1,1
+2026-03-07,League Two,2025-26,Walsall,Notts County,1,2,5,2,3,4,0,0,3,7,7,0,1,1
+2026-03-07,League Two,2025-26,Tranmere,Oldham,1,3,2,3,2,1,0,0,4,5,3,0,1,1
+2026-03-07,League Two,2025-26,Milton Keynes Dons,Harrogate,4,1,7,2,1,0,0,0,5,9,1,0,1,1
+2026-03-07,League Two,2025-26,Gillingham,Fleetwood Town,1,1,1,3,2,1,0,0,2,4,3,0,1,0
+2026-03-07,League Two,2025-26,Crawley Town,Swindon,2,2,10,4,1,1,0,0,4,14,2,0,1,1
+2026-03-07,League Two,2025-26,Newport County,Colchester,1,2,8,2,0,0,0,0,3,10,0,0,1,1
+2026-03-07,League Two,2025-26,Bristol Rvs,Crewe,2,1,7,7,3,4,0,0,3,14,7,0,1,1
+2026-03-07,League Two,2025-26,Accrington,Cambridge,1,1,0,12,2,0,0,0,2,12,2,0,1,0
+2026-03-07,League Two,2025-26,Salford,Barnet,2,0,4,8,2,0,0,0,2,12,2,0,0,0
+2026-03-07,League Two,2025-26,Grimsby,Bromley,1,1,6,5,0,2,0,0,2,11,2,0,1,0
+2026-03-07,League Two,2025-26,Chesterfield,Shrewsbury,2,3,8,1,1,2,0,0,5,9,3,0,1,1
+2026-03-10,League Two,2025-26,Barrow,Bristol Rvs,0,2,2,6,1,0,0,0,2,8,1,0,0,0
+2026-03-10,League Two,2025-26,Fleetwood Town,Cheltenham,2,2,8,2,2,3,0,0,4,10,5,0,1,1
+2026-03-10,League Two,2025-26,Gillingham,Milton Keynes Dons,1,5,3,5,3,1,0,0,6,8,4,0,1,1
+2026-03-10,League Two,2025-26,Salford,Walsall,1,0,11,2,1,1,0,0,1,13,2,0,0,0
+2026-03-13,League Two,2025-26,Colchester,Crawley Town,0,0,6,6,0,6,0,0,0,12,6,0,0,0
+2026-03-14,League Two,2025-26,Crewe,Walsall,0,3,4,1,2,3,0,0,3,5,5,0,0,1
+2026-03-14,League Two,2025-26,Shrewsbury,Cheltenham,0,2,1,2,2,3,0,0,2,3,5,0,0,0
+2026-03-14,League Two,2025-26,Swindon,Milton Keynes Dons,1,2,5,6,2,2,0,0,3,11,4,0,1,1
+2026-03-14,League Two,2025-26,Fleetwood Town,Tranmere,0,0,9,3,0,3,0,0,0,12,3,0,0,0
+2026-03-14,League Two,2025-26,Cambridge,Gillingham,5,0,8,1,0,3,0,0,5,9,3,0,0,1
+2026-03-14,League Two,2025-26,Oldham,Grimsby,1,0,3,4,2,2,0,0,1,7,4,0,0,0
+2026-03-14,League Two,2025-26,Barrow,Accrington,0,0,7,5,2,3,0,0,0,12,5,0,0,0
+2026-03-14,League Two,2025-26,Barnet,Newport County,1,2,5,6,1,2,0,0,3,11,3,0,1,1
+2026-03-14,League Two,2025-26,Notts County,Chesterfield,2,3,2,5,3,4,1,0,5,7,7,1,1,1
+2026-03-14,League Two,2025-26,Harrogate,Salford,0,1,7,4,0,2,0,0,1,11,2,0,0,0
+2026-03-14,League Two,2025-26,Bromley,Bristol Rvs,1,0,9,1,1,0,0,1,1,10,1,1,0,0
+2026-03-17,League Two,2025-26,Walsall,Cambridge,0,0,6,4,0,2,0,0,0,10,2,0,0,0
+2026-03-17,League Two,2025-26,Salford,Barrow,3,1,2,5,1,1,0,0,4,7,2,0,1,1
+2026-03-17,League Two,2025-26,Grimsby,Fleetwood Town,1,0,10,1,1,5,0,0,1,11,6,0,0,0
+2026-03-17,League Two,2025-26,Gillingham,Swindon,0,2,9,2,1,3,0,0,2,11,4,0,0,0
+2026-03-17,League Two,2025-26,Crawley Town,Barnet,1,1,5,10,2,6,0,0,2,15,8,0,1,0
+2026-03-17,League Two,2025-26,Tranmere,Harrogate,0,3,5,5,3,1,0,0,3,10,4,0,0,1
+2026-03-17,League Two,2025-26,Cheltenham,Crewe,1,1,4,3,3,1,0,0,2,7,4,0,1,0
+2026-03-17,League Two,2025-26,Bristol Rvs,Shrewsbury,1,0,3,0,1,1,0,0,1,3,2,0,0,0
+2026-03-17,League Two,2025-26,Accrington,Notts County,0,4,3,12,1,1,0,0,4,15,2,0,0,1
+2026-03-17,League Two,2025-26,Newport County,Bromley,0,1,9,4,1,3,0,0,1,13,4,0,0,0
+2026-03-17,League Two,2025-26,Chesterfield,Oldham,0,3,13,5,1,1,0,0,3,18,2,0,0,1
+2026-03-18,League Two,2025-26,Milton Keynes Dons,Colchester,1,0,3,4,2,4,0,0,1,7,6,0,0,0
+2026-03-21,League Two,2025-26,Tranmere,Swindon,0,1,5,9,1,0,0,0,1,14,1,0,0,0
+2026-03-21,League Two,2025-26,Shrewsbury,Crewe,0,4,5,6,0,3,0,0,4,11,3,0,0,1
+2026-03-21,League Two,2025-26,Oldham,Harrogate,1,0,3,6,2,2,0,0,1,9,4,0,0,0
+2026-03-21,League Two,2025-26,Notts County,Cheltenham,5,2,7,3,2,3,0,1,7,10,5,1,1,1
+2026-03-21,League Two,2025-26,Grimsby,Barrow,5,0,4,6,0,0,0,0,5,10,0,0,0,1
+2026-03-21,League Two,2025-26,Bromley,Colchester,1,0,5,7,2,3,0,0,1,12,5,0,0,0
+2026-03-21,League Two,2025-26,Fleetwood Town,Crawley Town,1,0,4,10,2,0,0,0,1,14,2,0,0,0
+2026-03-21,League Two,2025-26,Accrington,Chesterfield,0,1,4,7,2,1,0,0,1,11,3,0,0,0
+2026-03-21,League Two,2025-26,Milton Keynes Dons,Barnet,1,3,4,6,1,2,0,0,4,10,3,0,1,1
+2026-03-21,League Two,2025-26,Cambridge,Salford,1,0,5,3,2,4,0,0,1,8,6,0,0,0
+2026-03-21,League Two,2025-26,Walsall,Newport County,2,1,7,5,4,3,0,0,3,12,7,0,1,1
+2026-03-21,League Two,2025-26,Gillingham,Bristol Rvs,1,2,4,5,2,3,1,0,3,9,5,1,1,1
+2026-03-24,League Two,2025-26,Oldham,Notts County,3,0,7,1,0,2,0,1,3,8,2,1,0,1

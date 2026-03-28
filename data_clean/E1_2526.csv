@@ -1,468 +1,468 @@
-fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,total_goles,total_corners,ambos_marcan,over_2_5
-2025-08-08,Championship,2025-26,Birmingham,Ipswich,1,1,1,4,2,5,1,0
-2025-08-09,Championship,2025-26,Sheffield United,Bristol City,1,4,14,3,5,17,1,1
-2025-08-09,Championship,2025-26,West Brom,Blackburn,1,0,3,7,1,10,0,0
-2025-08-09,Championship,2025-26,QPR,Preston,1,1,5,4,2,9,1,0
-2025-08-09,Championship,2025-26,Oxford,Portsmouth,0,1,8,4,1,12,0,0
-2025-08-09,Championship,2025-26,Stoke,Derby,3,1,7,3,4,10,1,1
-2025-08-09,Championship,2025-26,Middlesbrough,Swansea,1,0,7,2,1,9,0,0
-2025-08-09,Championship,2025-26,Southampton,Wrexham,2,1,7,4,3,11,1,1
-2025-08-09,Championship,2025-26,Coventry,Hull,0,0,8,2,0,10,0,0
-2025-08-09,Championship,2025-26,Charlton,Watford,1,0,3,2,1,5,0,0
-2025-08-09,Championship,2025-26,Norwich,Millwall,1,2,6,5,3,11,1,1
-2025-08-10,Championship,2025-26,Leicester,Sheffield Weds,2,1,13,3,3,16,1,1
-2025-08-16,Championship,2025-26,Preston,Leicester,2,1,6,4,3,10,1,1
-2025-08-16,Championship,2025-26,Watford,QPR,2,1,2,4,3,6,1,1
-2025-08-16,Championship,2025-26,Swansea,Sheffield United,1,0,4,8,1,12,0,0
-2025-08-16,Championship,2025-26,Sheffield Weds,Stoke,0,3,6,7,3,13,0,1
-2025-08-16,Championship,2025-26,Millwall,Middlesbrough,0,3,6,10,3,16,0,1
-2025-08-16,Championship,2025-26,Wrexham,West Brom,2,3,5,5,5,10,1,1
-2025-08-16,Championship,2025-26,Blackburn,Birmingham,1,2,3,5,3,8,1,1
-2025-08-16,Championship,2025-26,Portsmouth,Norwich,1,2,9,0,3,9,1,1
-2025-08-16,Championship,2025-26,Derby,Coventry,3,5,6,5,8,11,1,1
-2025-08-16,Championship,2025-26,Bristol City,Charlton,0,0,4,6,0,10,0,0
-2025-08-17,Championship,2025-26,Ipswich,Southampton,1,1,4,5,2,9,1,0
-2025-08-17,Championship,2025-26,Hull,Oxford,3,2,10,4,5,14,1,1
-2025-08-22,Championship,2025-26,Derby,Bristol City,1,1,4,5,2,9,1,0
-2025-08-23,Championship,2025-26,Sheffield United,Millwall,0,1,8,7,1,15,0,0
-2025-08-23,Championship,2025-26,Wrexham,Sheffield Weds,2,2,3,9,4,12,1,1
-2025-08-23,Championship,2025-26,West Brom,Portsmouth,1,1,2,3,2,5,1,0
-2025-08-23,Championship,2025-26,Southampton,Stoke,1,2,7,3,3,10,1,1
-2025-08-23,Championship,2025-26,Preston,Ipswich,1,0,3,6,1,9,0,0
-2025-08-23,Championship,2025-26,Hull,Blackburn,0,3,2,1,3,3,0,1
-2025-08-23,Championship,2025-26,Coventry,QPR,7,1,9,4,8,13,1,1
-2025-08-23,Championship,2025-26,Birmingham,Oxford,1,0,4,1,1,5,0,0
-2025-08-23,Championship,2025-26,Swansea,Watford,1,1,7,2,2,9,1,0
-2025-08-23,Championship,2025-26,Charlton,Leicester,0,1,13,4,1,17,0,0
-2025-08-23,Championship,2025-26,Norwich,Middlesbrough,1,2,5,3,3,8,1,1
-2025-08-29,Championship,2025-26,Leicester,Birmingham,2,0,1,7,2,8,0,0
-2025-08-30,Championship,2025-26,Watford,Southampton,2,2,4,5,4,9,1,1
-2025-08-30,Championship,2025-26,Sheffield Weds,Swansea,0,2,2,7,2,9,0,0
-2025-08-30,Championship,2025-26,Portsmouth,Preston,1,0,6,4,1,10,0,0
-2025-08-30,Championship,2025-26,Oxford,Coventry,2,2,0,5,4,5,1,1
-2025-08-30,Championship,2025-26,Millwall,Wrexham,0,2,5,2,2,7,0,0
-2025-08-30,Championship,2025-26,Bristol City,Hull,4,2,8,5,6,13,1,1
-2025-08-30,Championship,2025-26,Blackburn,Norwich,0,2,3,9,2,12,0,0
-2025-08-30,Championship,2025-26,Stoke,West Brom,0,1,5,5,1,10,0,0
-2025-08-30,Championship,2025-26,QPR,Charlton,3,1,1,2,4,3,1,1
-2025-08-30,Championship,2025-26,Middlesbrough,Sheffield United,1,0,5,9,1,14,0,0
-2025-08-30,Championship,2025-26,Ipswich,Derby,2,2,6,3,4,9,1,1
-2025-09-12,Championship,2025-26,Ipswich,Sheffield United,5,0,3,5,5,8,0,1
-2025-09-13,Championship,2025-26,Swansea,Hull,2,2,5,2,4,7,1,1
-2025-09-13,Championship,2025-26,Wrexham,QPR,1,3,12,9,4,21,1,1
-2025-09-13,Championship,2025-26,West Brom,Derby,0,1,11,0,1,11,0,0
-2025-09-13,Championship,2025-26,Stoke,Birmingham,1,0,5,3,1,8,0,0
-2025-09-13,Championship,2025-26,Watford,Blackburn,0,1,5,7,1,12,0,0
-2025-09-13,Championship,2025-26,Coventry,Norwich,1,1,11,2,2,13,1,0
-2025-09-13,Championship,2025-26,Preston,Middlesbrough,2,2,3,4,4,7,1,1
-2025-09-13,Championship,2025-26,Sheffield Weds,Bristol City,0,3,4,1,3,5,0,1
-2025-09-13,Championship,2025-26,Oxford,Leicester,2,2,4,4,4,8,1,1
-2025-09-13,Championship,2025-26,Charlton,Millwall,1,1,3,4,2,7,1,0
-2025-09-14,Championship,2025-26,Southampton,Portsmouth,0,0,7,5,0,12,0,0
-2025-09-19,Championship,2025-26,Middlesbrough,West Brom,2,1,2,3,3,5,1,1
-2025-09-20,Championship,2025-26,Birmingham,Swansea,1,0,7,2,1,9,0,0
-2025-09-20,Championship,2025-26,Leicester,Coventry,0,0,10,3,0,13,0,0
-2025-09-20,Championship,2025-26,QPR,Stoke,1,0,3,6,1,9,0,0
-2025-09-20,Championship,2025-26,Derby,Preston,0,1,3,4,1,7,0,0
-2025-09-20,Championship,2025-26,Hull,Southampton,3,1,1,6,4,7,1,1
-2025-09-20,Championship,2025-26,Norwich,Wrexham,2,3,2,3,5,5,1,1
-2025-09-20,Championship,2025-26,Portsmouth,Sheffield Weds,0,2,11,5,2,16,0,0
-2025-09-20,Championship,2025-26,Sheffield United,Charlton,0,1,6,1,1,7,0,0
-2025-09-21,Championship,2025-26,Bristol City,Oxford,1,3,8,5,4,13,1,1
-2025-09-22,Championship,2025-26,Millwall,Watford,1,0,7,4,1,11,0,0
-2025-09-26,Championship,2025-26,West Brom,Leicester,1,1,3,3,2,6,1,0
-2025-09-27,Championship,2025-26,Coventry,Birmingham,3,0,3,4,3,7,0,1
-2025-09-27,Championship,2025-26,Swansea,Millwall,1,1,6,4,2,10,1,0
-2025-09-27,Championship,2025-26,Wrexham,Derby,1,1,4,3,2,7,1,0
-2025-09-27,Championship,2025-26,Charlton,Blackburn,3,0,3,3,3,6,0,1
-2025-09-27,Championship,2025-26,Ipswich,Portsmouth,2,1,5,4,3,9,1,1
-2025-09-27,Championship,2025-26,Oxford,Sheffield United,0,1,3,5,1,8,0,0
-2025-09-27,Championship,2025-26,Preston,Bristol City,0,0,2,9,0,11,0,0
-2025-09-27,Championship,2025-26,Sheffield Weds,QPR,1,1,5,4,2,9,1,0
-2025-09-27,Championship,2025-26,Southampton,Middlesbrough,1,1,6,3,2,9,1,0
-2025-09-27,Championship,2025-26,Stoke,Norwich,1,1,12,2,2,14,1,0
-2025-09-27,Championship,2025-26,Watford,Hull,2,1,6,6,3,12,1,1
-2025-09-30,Championship,2025-26,Derby,Charlton,1,1,5,2,2,7,1,0
-2025-09-30,Championship,2025-26,Sheffield United,Southampton,1,2,4,5,3,9,1,1
-2025-09-30,Championship,2025-26,Middlesbrough,Stoke,0,0,5,8,0,13,0,0
-2025-09-30,Championship,2025-26,Leicester,Wrexham,1,1,7,1,2,8,1,0
-2025-09-30,Championship,2025-26,Birmingham,Sheffield Weds,2,2,10,4,4,14,1,1
-2025-09-30,Championship,2025-26,Bristol City,Ipswich,1,1,3,6,2,9,1,0
-2025-09-30,Championship,2025-26,Blackburn,Swansea,1,2,7,3,3,10,1,1
-2025-09-30,Championship,2025-26,Hull,Preston,2,2,5,3,4,8,1,1
-2025-10-01,Championship,2025-26,Millwall,Coventry,0,4,3,3,4,6,0,1
-2025-10-01,Championship,2025-26,Norwich,West Brom,0,1,4,3,1,7,0,0
-2025-10-01,Championship,2025-26,Portsmouth,Watford,2,2,3,3,4,6,1,1
-2025-10-01,Championship,2025-26,QPR,Oxford,0,0,9,1,0,10,0,0
-2025-10-03,Championship,2025-26,Wrexham,Birmingham,1,1,5,5,2,10,1,0
-2025-10-04,Championship,2025-26,Watford,Oxford,2,1,9,3,3,12,1,1
-2025-10-04,Championship,2025-26,Swansea,Leicester,1,3,2,5,4,7,1,1
-2025-10-04,Championship,2025-26,Preston,Charlton,2,0,3,4,2,7,0,0
-2025-10-04,Championship,2025-26,Portsmouth,Middlesbrough,1,0,2,8,1,10,0,0
-2025-10-04,Championship,2025-26,Millwall,West Brom,3,0,4,5,3,9,0,1
-2025-10-04,Championship,2025-26,Derby,Southampton,1,1,3,5,2,8,1,0
-2025-10-04,Championship,2025-26,Sheffield Weds,Coventry,0,5,13,8,5,21,0,1
-2025-10-04,Championship,2025-26,Hull,Sheffield United,1,0,4,9,1,13,0,0
-2025-10-04,Championship,2025-26,Blackburn,Stoke,1,1,7,6,2,13,1,0
-2025-10-04,Championship,2025-26,Bristol City,QPR,1,2,4,1,3,5,1,1
-2025-10-05,Championship,2025-26,Ipswich,Norwich,3,1,8,8,4,16,1,1
-2025-10-17,Championship,2025-26,Middlesbrough,Ipswich,2,1,5,9,3,14,1,1
-2025-10-18,Championship,2025-26,Sheffield United,Watford,1,0,7,3,1,10,0,0
-2025-10-18,Championship,2025-26,Leicester,Portsmouth,1,1,14,4,2,18,1,0
-2025-10-18,Championship,2025-26,West Brom,Preston,2,1,8,4,3,12,1,1
-2025-10-18,Championship,2025-26,Stoke,Wrexham,1,0,6,4,1,10,0,0
-2025-10-18,Championship,2025-26,Coventry,Blackburn,2,0,2,7,2,9,0,0
-2025-10-18,Championship,2025-26,Norwich,Bristol City,0,1,3,9,1,12,0,0
-2025-10-18,Championship,2025-26,Birmingham,Hull,2,3,9,7,5,16,1,1
-2025-10-18,Championship,2025-26,Southampton,Swansea,0,0,5,3,0,8,0,0
-2025-10-18,Championship,2025-26,QPR,Millwall,1,2,8,3,3,11,1,1
-2025-10-18,Championship,2025-26,Oxford,Derby,1,0,4,12,1,16,0,0
-2025-10-18,Championship,2025-26,Charlton,Sheffield Weds,2,1,2,4,3,6,1,1
-2025-10-21,Championship,2025-26,Portsmouth,Coventry,1,2,6,5,3,11,1,1
-2025-10-21,Championship,2025-26,Blackburn,Sheffield United,1,3,5,5,4,10,1,1
-2025-10-21,Championship,2025-26,Derby,Norwich,1,0,5,13,1,18,0,0
-2025-10-21,Championship,2025-26,Hull,Leicester,2,1,1,7,3,8,1,1
-2025-10-21,Championship,2025-26,Ipswich,Charlton,0,3,16,3,3,19,0,1
-2025-10-21,Championship,2025-26,Millwall,Stoke,2,0,3,2,2,5,0,0
-2025-10-21,Championship,2025-26,Preston,Birmingham,0,1,9,3,1,12,0,0
-2025-10-21,Championship,2025-26,Bristol City,Southampton,3,1,2,3,4,5,1,1
-2025-10-22,Championship,2025-26,Sheffield Weds,Middlesbrough,0,1,6,5,1,11,0,0
-2025-10-22,Championship,2025-26,Wrexham,Oxford,1,0,6,3,1,9,0,0
-2025-10-22,Championship,2025-26,Watford,West Brom,2,1,4,5,3,9,1,1
-2025-10-22,Championship,2025-26,Swansea,QPR,0,1,6,3,1,9,0,0
-2025-10-24,Championship,2025-26,Preston,Sheffield United,3,2,2,4,5,6,1,1
-2025-10-25,Championship,2025-26,Hull,Charlton,1,1,6,2,2,8,1,0
-2025-10-25,Championship,2025-26,Millwall,Leicester,1,0,5,9,1,14,0,0
-2025-10-25,Championship,2025-26,Middlesbrough,Wrexham,1,1,4,4,2,8,1,0
-2025-10-25,Championship,2025-26,Derby,QPR,1,0,5,2,1,7,0,0
-2025-10-25,Championship,2025-26,Sheffield Weds,Oxford,1,2,8,3,3,11,1,1
-2025-10-25,Championship,2025-26,Blackburn,Southampton,2,1,6,5,3,11,1,1
-2025-10-25,Championship,2025-26,Portsmouth,Stoke,0,1,6,2,1,8,0,0
-2025-10-25,Championship,2025-26,Ipswich,West Brom,1,0,4,5,1,9,0,0
-2025-10-25,Championship,2025-26,Coventry,Watford,3,1,5,7,4,12,1,1
-2025-10-25,Championship,2025-26,Bristol City,Birmingham,1,0,0,6,1,6,0,0
-2025-10-25,Championship,2025-26,Swansea,Norwich,2,1,2,3,3,5,1,1
-2025-10-31,Championship,2025-26,Wrexham,Coventry,3,2,3,6,5,9,1,1
-2025-11-01,Championship,2025-26,Leicester,Blackburn,0,2,7,4,2,11,0,0
-2025-11-01,Championship,2025-26,Norwich,Hull,0,2,6,4,2,10,0,0
-2025-11-01,Championship,2025-26,West Brom,Sheffield Weds,0,0,8,3,0,11,0,0
-2025-11-01,Championship,2025-26,Birmingham,Portsmouth,4,0,9,5,4,14,0,1
-2025-11-01,Championship,2025-26,Charlton,Swansea,1,1,4,7,2,11,1,0
-2025-11-01,Championship,2025-26,Oxford,Millwall,2,2,5,8,4,13,1,1
-2025-11-01,Championship,2025-26,QPR,Ipswich,1,4,3,2,5,5,1,1
-2025-11-01,Championship,2025-26,Sheffield United,Derby,1,3,9,4,4,13,1,1
-2025-11-01,Championship,2025-26,Southampton,Preston,0,2,8,2,2,10,0,0
-2025-11-01,Championship,2025-26,Stoke,Bristol City,5,1,4,10,6,14,1,1
-2025-11-01,Championship,2025-26,Watford,Middlesbrough,3,0,1,7,3,8,0,1
-2025-11-04,Championship,2025-26,Coventry,Sheffield United,3,1,6,13,4,19,1,1
-2025-11-04,Championship,2025-26,Oxford,Stoke,0,3,10,7,3,17,0,1
-2025-11-04,Championship,2025-26,Leicester,Middlesbrough,1,1,3,6,2,9,1,0
-2025-11-04,Championship,2025-26,Ipswich,Watford,1,1,2,5,2,7,1,0
-2025-11-04,Championship,2025-26,Bristol City,Blackburn,0,1,6,3,1,9,0,0
-2025-11-04,Championship,2025-26,Charlton,West Brom,1,0,4,3,1,7,0,0
-2025-11-04,Championship,2025-26,Birmingham,Millwall,4,0,2,3,4,5,0,1
-2025-11-04,Championship,2025-26,Derby,Hull,2,1,6,5,3,11,1,1
-2025-11-05,Championship,2025-26,Preston,Swansea,2,1,2,8,3,10,1,1
-2025-11-05,Championship,2025-26,QPR,Southampton,1,2,12,1,3,13,1,1
-2025-11-05,Championship,2025-26,Sheffield Weds,Norwich,1,1,9,4,2,13,1,0
-2025-11-05,Championship,2025-26,Portsmouth,Wrexham,0,0,10,3,0,13,0,0
-2025-11-07,Championship,2025-26,Watford,Bristol City,1,1,6,4,2,10,1,0
-2025-11-08,Championship,2025-26,Swansea,Ipswich,1,4,4,5,5,9,1,1
-2025-11-08,Championship,2025-26,Middlesbrough,Birmingham,2,1,3,5,3,8,1,1
-2025-11-08,Championship,2025-26,Wrexham,Charlton,1,0,8,2,1,10,0,0
-2025-11-08,Championship,2025-26,Stoke,Coventry,0,1,3,6,1,9,0,0
-2025-11-08,Championship,2025-26,West Brom,Oxford,2,1,11,5,3,16,1,1
-2025-11-08,Championship,2025-26,Southampton,Sheffield Weds,3,1,4,5,4,9,1,1
-2025-11-08,Championship,2025-26,Hull,Portsmouth,3,2,5,5,5,10,1,1
-2025-11-08,Championship,2025-26,Norwich,Leicester,1,2,6,3,3,9,1,1
-2025-11-08,Championship,2025-26,Blackburn,Derby,1,2,13,3,3,16,1,1
-2025-11-08,Championship,2025-26,Sheffield United,QPR,0,0,14,5,0,19,0,0
-2025-11-08,Championship,2025-26,Millwall,Preston,1,1,10,6,2,16,1,0
-2025-11-21,Championship,2025-26,Preston,Blackburn,1,2,3,7,3,10,1,1
-2025-11-22,Championship,2025-26,QPR,Hull,3,2,9,5,5,14,1,1
-2025-11-22,Championship,2025-26,Leicester,Stoke,2,1,0,10,3,10,1,1
-2025-11-22,Championship,2025-26,Ipswich,Wrexham,0,0,5,2,0,7,0,0
-2025-11-22,Championship,2025-26,Derby,Watford,2,3,9,3,5,12,1,1
-2025-11-22,Championship,2025-26,Portsmouth,Millwall,3,1,3,4,4,7,1,1
-2025-11-22,Championship,2025-26,Coventry,West Brom,3,2,8,1,5,9,1,1
-2025-11-22,Championship,2025-26,Charlton,Southampton,1,5,3,4,6,7,1,1
-2025-11-22,Championship,2025-26,Bristol City,Swansea,3,0,5,6,3,11,0,1
-2025-11-22,Championship,2025-26,Birmingham,Norwich,4,1,3,8,5,11,1,1
-2025-11-22,Championship,2025-26,Oxford,Middlesbrough,1,1,1,8,2,9,1,0
-2025-11-23,Championship,2025-26,Sheffield Weds,Sheffield United,0,3,4,7,3,11,0,1
-2025-11-25,Championship,2025-26,Hull,Ipswich,0,2,3,6,2,9,0,0
-2025-11-25,Championship,2025-26,Middlesbrough,Coventry,2,4,8,3,6,11,1,1
-2025-11-25,Championship,2025-26,Norwich,Oxford,1,1,8,4,2,12,1,0
-2025-11-25,Championship,2025-26,Stoke,Charlton,3,0,5,0,3,5,0,1
-2025-11-25,Championship,2025-26,Swansea,Derby,1,2,4,2,3,6,1,1
-2025-11-25,Championship,2025-26,Watford,Preston,1,1,6,2,2,8,1,0
-2025-11-25,Championship,2025-26,Southampton,Leicester,3,0,11,3,3,14,0,1
-2025-11-26,Championship,2025-26,Wrexham,Bristol City,2,0,2,4,2,6,0,0
-2025-11-26,Championship,2025-26,West Brom,Birmingham,1,1,3,3,2,6,1,0
-2025-11-26,Championship,2025-26,Sheffield United,Portsmouth,3,0,7,2,3,9,0,1
-2025-11-26,Championship,2025-26,Blackburn,QPR,0,1,6,4,1,10,0,0
-2025-11-26,Championship,2025-26,Millwall,Sheffield Weds,1,0,9,5,1,14,0,0
-2025-11-28,Championship,2025-26,Oxford,Ipswich,2,1,3,6,3,9,1,1
-2025-11-29,Championship,2025-26,West Brom,Swansea,3,2,7,1,5,8,1,1
-2025-11-29,Championship,2025-26,Sheffield Weds,Preston,2,3,3,3,5,6,1,1
-2025-11-29,Championship,2025-26,Norwich,QPR,3,1,9,6,4,15,1,1
-2025-11-29,Championship,2025-26,Millwall,Southampton,3,2,9,6,5,15,1,1
-2025-11-29,Championship,2025-26,Wrexham,Blackburn,1,1,7,7,2,14,1,0
-2025-11-29,Championship,2025-26,Coventry,Charlton,3,1,6,3,4,9,1,1
-2025-11-29,Championship,2025-26,Stoke,Hull,1,2,7,8,3,15,1,1
-2025-11-29,Championship,2025-26,Portsmouth,Bristol City,0,1,4,4,1,8,0,0
-2025-11-29,Championship,2025-26,Leicester,Sheffield United,2,3,4,9,5,13,1,1
-2025-11-29,Championship,2025-26,Middlesbrough,Derby,2,1,9,8,3,17,1,1
-2025-12-01,Championship,2025-26,Birmingham,Watford,2,1,6,6,3,12,1,1
-2025-12-02,Championship,2025-26,Blackburn,Ipswich,1,1,9,3,2,12,1,0
-2025-12-05,Championship,2025-26,Hull,Middlesbrough,1,4,2,5,5,7,1,1
-2025-12-06,Championship,2025-26,Sheffield United,Stoke,4,0,9,7,4,16,0,1
-2025-12-06,Championship,2025-26,QPR,West Brom,3,1,4,3,4,7,1,1
-2025-12-06,Championship,2025-26,Preston,Wrexham,1,1,16,2,2,18,1,0
-2025-12-06,Championship,2025-26,Derby,Leicester,1,3,6,3,4,9,1,1
-2025-12-06,Championship,2025-26,Bristol City,Millwall,0,1,8,1,1,9,0,0
-2025-12-06,Championship,2025-26,Watford,Norwich,3,2,6,5,5,11,1,1
-2025-12-06,Championship,2025-26,Southampton,Birmingham,3,1,7,8,4,15,1,1
-2025-12-06,Championship,2025-26,Ipswich,Coventry,3,0,2,5,3,7,0,1
-2025-12-06,Championship,2025-26,Swansea,Oxford,2,0,10,2,2,12,0,0
-2025-12-09,Championship,2025-26,Swansea,Portsmouth,1,0,5,6,1,11,0,0
-2025-12-09,Championship,2025-26,Watford,Sheffield Weds,1,1,7,4,2,11,1,0
-2025-12-09,Championship,2025-26,Southampton,West Brom,3,2,2,9,5,11,1,1
-2025-12-09,Championship,2025-26,QPR,Birmingham,2,1,6,3,3,9,1,1
-2025-12-09,Championship,2025-26,Preston,Coventry,1,1,4,8,2,12,1,0
-2025-12-09,Championship,2025-26,Blackburn,Oxford,1,1,9,3,2,12,1,0
-2025-12-09,Championship,2025-26,Sheffield United,Norwich,1,1,6,2,2,8,1,0
-2025-12-09,Championship,2025-26,Charlton,Middlesbrough,1,2,5,5,3,10,1,1
-2025-12-10,Championship,2025-26,Bristol City,Leicester,2,2,10,3,4,13,1,1
-2025-12-10,Championship,2025-26,Derby,Millwall,1,1,11,7,2,18,1,0
-2025-12-10,Championship,2025-26,Ipswich,Stoke,1,0,3,4,1,7,0,0
-2025-12-10,Championship,2025-26,Hull,Wrexham,2,0,8,2,2,10,0,0
-2025-12-12,Championship,2025-26,West Brom,Sheffield United,2,0,8,4,2,12,0,0
-2025-12-13,Championship,2025-26,Leicester,Ipswich,3,1,6,5,4,11,1,1
-2025-12-13,Championship,2025-26,Portsmouth,Blackburn,2,1,7,6,3,13,1,1
-2025-12-13,Championship,2025-26,Millwall,Hull,1,3,5,1,4,6,1,1
-2025-12-13,Championship,2025-26,Middlesbrough,QPR,3,1,9,4,4,13,1,1
-2025-12-13,Championship,2025-26,Stoke,Swansea,2,1,6,7,3,13,1,1
-2025-12-13,Championship,2025-26,Birmingham,Charlton,1,1,10,3,2,13,1,0
-2025-12-13,Championship,2025-26,Wrexham,Watford,2,2,7,1,4,8,1,1
-2025-12-13,Championship,2025-26,Oxford,Preston,1,2,9,9,3,18,1,1
-2025-12-13,Championship,2025-26,Norwich,Southampton,2,1,6,5,3,11,1,1
-2025-12-13,Championship,2025-26,Coventry,Bristol City,1,0,4,5,1,9,0,0
-2025-12-15,Championship,2025-26,Sheffield Weds,Derby,0,3,1,5,3,6,0,1
-2025-12-19,Championship,2025-26,Swansea,Wrexham,2,1,5,7,3,12,1,1
-2025-12-20,Championship,2025-26,Watford,Stoke,1,0,7,5,1,12,0,0
-2025-12-20,Championship,2025-26,QPR,Leicester,4,1,2,3,5,5,1,1
-2025-12-20,Championship,2025-26,Ipswich,Sheffield Weds,3,1,5,3,4,8,1,1
-2025-12-20,Championship,2025-26,Hull,West Brom,1,0,8,3,1,11,0,0
-2025-12-20,Championship,2025-26,Derby,Portsmouth,1,1,6,4,2,10,1,0
-2025-12-20,Championship,2025-26,Sheffield United,Birmingham,3,0,8,4,3,12,0,1
-2025-12-20,Championship,2025-26,Bristol City,Middlesbrough,2,0,3,13,2,16,0,0
-2025-12-20,Championship,2025-26,Southampton,Coventry,1,1,7,2,2,9,1,0
-2025-12-20,Championship,2025-26,Preston,Norwich,1,1,4,3,2,7,1,0
-2025-12-20,Championship,2025-26,Blackburn,Millwall,2,0,3,6,2,9,0,0
-2025-12-20,Championship,2025-26,Charlton,Oxford,1,0,5,6,1,11,0,0
-2025-12-26,Championship,2025-26,Wrexham,Sheffield United,5,3,7,5,8,12,1,1
-2025-12-26,Championship,2025-26,Portsmouth,QPR,1,1,9,3,2,12,1,0
-2025-12-26,Championship,2025-26,West Brom,Bristol City,1,2,9,4,3,13,1,1
-2025-12-26,Championship,2025-26,Stoke,Preston,0,0,10,2,0,12,0,0
-2025-12-26,Championship,2025-26,Sheffield Weds,Hull,2,2,4,4,4,8,1,1
-2025-12-26,Championship,2025-26,Oxford,Southampton,2,1,5,7,3,12,1,1
-2025-12-26,Championship,2025-26,Birmingham,Derby,1,1,12,1,2,13,1,0
-2025-12-26,Championship,2025-26,Middlesbrough,Blackburn,0,0,4,4,0,8,0,0
-2025-12-26,Championship,2025-26,Leicester,Watford,1,2,5,6,3,11,1,1
-2025-12-26,Championship,2025-26,Coventry,Swansea,1,0,7,4,1,11,0,0
-2025-12-26,Championship,2025-26,Millwall,Ipswich,0,0,2,4,0,6,0,0
-2025-12-26,Championship,2025-26,Norwich,Charlton,1,0,5,6,1,11,0,0
-2025-12-29,Championship,2025-26,Birmingham,Southampton,1,1,2,5,2,7,1,0
-2025-12-29,Championship,2025-26,Wrexham,Preston,2,1,3,3,3,6,1,1
-2025-12-29,Championship,2025-26,West Brom,QPR,2,1,9,4,3,13,1,1
-2025-12-29,Championship,2025-26,Stoke,Sheffield United,1,2,6,2,3,8,1,1
-2025-12-29,Championship,2025-26,Sheffield Weds,Blackburn,0,0,2,7,0,9,0,0
-2025-12-29,Championship,2025-26,Portsmouth,Charlton,2,1,5,11,3,16,1,1
-2025-12-29,Championship,2025-26,Norwich,Watford,0,1,8,3,1,11,0,0
-2025-12-29,Championship,2025-26,Millwall,Bristol City,2,1,1,8,3,9,1,1
-2025-12-29,Championship,2025-26,Middlesbrough,Hull,0,1,10,2,1,12,0,0
-2025-12-29,Championship,2025-26,Leicester,Derby,2,1,3,4,3,7,1,1
-2025-12-29,Championship,2025-26,Coventry,Ipswich,0,2,3,6,2,9,0,0
-2025-12-29,Championship,2025-26,Oxford,Swansea,0,1,1,5,1,6,0,0
-2026-01-01,Championship,2025-26,Southampton,Millwall,0,0,6,6,0,12,0,0
-2026-01-01,Championship,2025-26,Swansea,West Brom,1,0,4,5,1,9,0,0
-2026-01-01,Championship,2025-26,Hull,Stoke,0,1,6,6,1,12,0,0
-2026-01-01,Championship,2025-26,Sheffield United,Leicester,3,1,7,3,4,10,1,1
-2026-01-01,Championship,2025-26,Watford,Birmingham,3,0,4,4,3,8,0,1
-2026-01-01,Championship,2025-26,QPR,Norwich,1,2,7,3,3,10,1,1
-2026-01-01,Championship,2025-26,Derby,Middlesbrough,1,0,4,9,1,13,0,0
-2026-01-01,Championship,2025-26,Ipswich,Oxford,2,1,9,2,3,11,1,1
-2026-01-01,Championship,2025-26,Preston,Sheffield Weds,3,0,4,7,3,11,0,1
-2026-01-01,Championship,2025-26,Charlton,Coventry,1,1,9,3,2,12,1,0
-2026-01-01,Championship,2025-26,Bristol City,Portsmouth,5,0,1,1,5,2,0,1
-2026-01-01,Championship,2025-26,Blackburn,Wrexham,0,2,4,8,2,12,0,0
-2026-01-04,Championship,2025-26,Birmingham,Coventry,3,2,2,6,5,8,1,1
-2026-01-04,Championship,2025-26,QPR,Sheffield Weds,3,0,5,2,3,7,0,1
-2026-01-04,Championship,2025-26,Blackburn,Charlton,2,2,2,5,4,7,1,1
-2026-01-04,Championship,2025-26,Bristol City,Preston,0,2,6,3,2,9,0,0
-2026-01-04,Championship,2025-26,Derby,Wrexham,1,2,12,2,3,14,1,1
-2026-01-04,Championship,2025-26,Middlesbrough,Southampton,4,0,11,5,4,16,0,1
-2026-01-04,Championship,2025-26,Millwall,Swansea,2,1,12,3,3,15,1,1
-2026-01-04,Championship,2025-26,Norwich,Stoke,0,2,3,3,2,6,0,0
-2026-01-05,Championship,2025-26,Leicester,West Brom,2,1,4,4,3,8,1,1
-2026-01-16,Championship,2025-26,West Brom,Middlesbrough,2,3,4,1,5,5,1,1
-2026-01-17,Championship,2025-26,Coventry,Leicester,2,1,5,3,3,8,1,1
-2026-01-17,Championship,2025-26,Ipswich,Blackburn,3,0,7,6,3,13,0,1
-2026-01-17,Championship,2025-26,Watford,Millwall,0,2,4,4,2,8,0,0
-2026-01-17,Championship,2025-26,Charlton,Sheffield United,1,0,9,7,1,16,0,0
-2026-01-17,Championship,2025-26,Oxford,Bristol City,0,0,6,5,0,11,0,0
-2026-01-17,Championship,2025-26,Preston,Derby,0,1,5,10,1,15,0,0
-2026-01-17,Championship,2025-26,Sheffield Weds,Portsmouth,0,1,7,6,1,13,0,0
-2026-01-17,Championship,2025-26,Southampton,Hull,1,2,8,2,3,10,1,1
-2026-01-17,Championship,2025-26,Stoke,QPR,0,0,6,2,0,8,0,0
-2026-01-17,Championship,2025-26,Wrexham,Norwich,1,2,7,1,3,8,1,1
-2026-01-17,Championship,2025-26,Swansea,Birmingham,1,1,5,5,2,10,1,0
-2026-01-20,Championship,2025-26,West Brom,Norwich,0,5,10,2,5,12,0,1
-2026-01-20,Championship,2025-26,Wrexham,Leicester,1,1,3,1,2,4,1,0
-2026-01-20,Championship,2025-26,Swansea,Blackburn,3,1,4,3,4,7,1,1
-2026-01-20,Championship,2025-26,Sheffield Weds,Birmingham,0,2,3,11,2,14,0,0
-2026-01-20,Championship,2025-26,Coventry,Millwall,2,1,4,3,3,7,1,1
-2026-01-20,Championship,2025-26,Oxford,QPR,0,0,2,6,0,8,0,0
-2026-01-20,Championship,2025-26,Ipswich,Bristol City,2,0,9,2,2,11,0,0
-2026-01-20,Championship,2025-26,Charlton,Derby,1,2,4,0,3,4,1,1
-2026-01-20,Championship,2025-26,Preston,Hull,0,3,6,6,3,12,0,1
-2026-01-21,Championship,2025-26,Southampton,Sheffield United,1,0,6,7,1,13,0,0
-2026-01-21,Championship,2025-26,Watford,Portsmouth,1,1,8,7,2,15,1,0
-2026-01-21,Championship,2025-26,Stoke,Middlesbrough,1,2,5,4,3,9,1,1
-2026-01-23,Championship,2025-26,Derby,West Brom,1,1,1,6,2,7,1,0
-2026-01-24,Championship,2025-26,Sheffield United,Ipswich,3,1,4,5,4,9,1,1
-2026-01-24,Championship,2025-26,QPR,Wrexham,2,3,7,3,5,10,1,1
-2026-01-24,Championship,2025-26,Leicester,Oxford,1,2,12,4,3,16,1,1
-2026-01-24,Championship,2025-26,Hull,Swansea,2,1,6,7,3,13,1,1
-2026-01-24,Championship,2025-26,Bristol City,Sheffield Weds,2,0,9,7,2,16,0,0
-2026-01-24,Championship,2025-26,Birmingham,Stoke,1,1,6,6,2,12,1,0
-2026-01-24,Championship,2025-26,Millwall,Charlton,4,0,6,3,4,9,0,1
-2026-01-24,Championship,2025-26,Middlesbrough,Preston,4,0,8,3,4,11,0,1
-2026-01-24,Championship,2025-26,Blackburn,Watford,1,1,7,8,2,15,1,0
-2026-01-25,Championship,2025-26,Portsmouth,Southampton,1,1,4,2,2,6,1,0
-2026-01-26,Championship,2025-26,Norwich,Coventry,2,1,4,7,3,11,1,1
-2026-01-30,Championship,2025-26,Bristol City,Derby,0,5,4,1,5,5,0,1
-2026-01-31,Championship,2025-26,Millwall,Sheffield United,1,1,6,8,2,14,1,0
-2026-01-31,Championship,2025-26,QPR,Coventry,2,1,5,5,3,10,1,1
-2026-01-31,Championship,2025-26,Portsmouth,West Brom,3,0,3,3,3,6,0,1
-2026-01-31,Championship,2025-26,Oxford,Birmingham,0,2,4,4,2,8,0,0
-2026-01-31,Championship,2025-26,Watford,Swansea,0,2,5,8,2,13,0,0
-2026-01-31,Championship,2025-26,Ipswich,Preston,1,1,9,3,2,12,1,0
-2026-01-31,Championship,2025-26,Blackburn,Hull,0,1,8,4,1,12,0,0
-2026-01-31,Championship,2025-26,Stoke,Southampton,0,2,4,5,2,9,0,0
-2026-01-31,Championship,2025-26,Sheffield Weds,Wrexham,0,1,3,8,1,11,0,0
-2026-01-31,Championship,2025-26,Leicester,Charlton,0,2,6,2,2,8,0,0
-2026-01-31,Championship,2025-26,Middlesbrough,Norwich,1,0,3,5,1,8,0,0
-2026-02-03,Championship,2025-26,Blackburn,Sheffield Weds,1,0,8,2,1,10,0,0
-2026-02-03,Championship,2025-26,Hull,Watford,0,0,7,5,0,12,0,0
-2026-02-03,Championship,2025-26,Sheffield United,Oxford,3,1,10,2,4,12,1,1
-2026-02-06,Championship,2025-26,Charlton,QPR,0,0,7,5,0,12,0,0
-2026-02-07,Championship,2025-26,Wrexham,Millwall,0,2,5,4,2,9,0,0
-2026-02-07,Championship,2025-26,West Brom,Stoke,0,0,2,2,0,4,0,0
-2026-02-07,Championship,2025-26,Hull,Bristol City,2,3,2,4,5,6,1,1
-2026-02-07,Championship,2025-26,Coventry,Oxford,0,0,10,0,0,10,0,0
-2026-02-07,Championship,2025-26,Preston,Portsmouth,1,0,2,14,1,16,0,0
-2026-02-07,Championship,2025-26,Southampton,Watford,1,0,3,9,1,12,0,0
-2026-02-07,Championship,2025-26,Birmingham,Leicester,2,1,10,1,3,11,1,1
-2026-02-07,Championship,2025-26,Norwich,Blackburn,2,0,5,4,2,9,0,0
-2026-02-07,Championship,2025-26,Derby,Ipswich,1,2,3,7,3,10,1,1
-2026-02-08,Championship,2025-26,Swansea,Sheffield Weds,4,0,8,2,4,10,0,1
-2026-02-09,Championship,2025-26,Sheffield United,Middlesbrough,1,2,8,8,3,16,1,1
-2026-02-10,Championship,2025-26,Oxford,Norwich,0,3,2,4,3,6,0,1
-2026-02-10,Championship,2025-26,Birmingham,West Brom,0,0,11,3,0,14,0,0
-2026-02-10,Championship,2025-26,Leicester,Southampton,3,4,3,9,7,12,1,1
-2026-02-11,Championship,2025-26,Charlton,Stoke,1,0,6,5,1,11,0,0
-2026-02-14,Championship,2025-26,Derby,Swansea,2,0,6,2,2,8,0,0
-2026-02-14,Championship,2025-26,Portsmouth,Sheffield United,0,1,11,4,1,15,0,0
-2026-02-14,Championship,2025-26,Preston,Watford,2,2,9,7,4,16,1,1
-2026-02-14,Championship,2025-26,QPR,Blackburn,1,3,8,1,4,9,1,1
-2026-02-14,Championship,2025-26,Sheffield Weds,Millwall,1,2,3,11,3,14,1,1
-2026-02-16,Championship,2025-26,Coventry,Middlesbrough,3,1,3,2,4,5,1,1
-2026-02-17,Championship,2025-26,Charlton,Portsmouth,1,3,3,2,4,5,1,1
-2026-02-17,Championship,2025-26,Bristol City,Wrexham,2,2,3,2,4,5,1,1
-2026-02-20,Championship,2025-26,Blackburn,Preston,1,0,5,3,1,8,0,0
-2026-02-21,Championship,2025-26,Hull,QPR,1,3,8,4,4,12,1,1
-2026-02-21,Championship,2025-26,Stoke,Leicester,2,2,7,4,4,11,1,1
-2026-02-21,Championship,2025-26,Swansea,Bristol City,1,0,3,5,1,8,0,0
-2026-02-21,Championship,2025-26,West Brom,Coventry,0,2,3,2,2,5,0,0
-2026-02-21,Championship,2025-26,Middlesbrough,Oxford,0,0,9,5,0,14,0,0
-2026-02-21,Championship,2025-26,Millwall,Portsmouth,1,3,6,4,4,10,1,1
-2026-02-21,Championship,2025-26,Norwich,Birmingham,1,2,6,5,3,11,1,1
-2026-02-21,Championship,2025-26,Southampton,Charlton,1,1,10,1,2,11,1,0
-2026-02-21,Championship,2025-26,Watford,Derby,2,0,2,2,2,4,0,0
-2026-02-21,Championship,2025-26,Wrexham,Ipswich,5,3,5,2,8,7,1,1
-2026-02-22,Championship,2025-26,Sheffield United,Sheffield Weds,2,1,2,6,3,8,1,1
-2026-02-24,Championship,2025-26,Southampton,QPR,5,0,5,3,5,8,0,1
-2026-02-24,Championship,2025-26,Wrexham,Portsmouth,2,1,3,15,3,18,1,1
-2026-02-24,Championship,2025-26,West Brom,Charlton,1,1,7,0,2,7,1,0
-2026-02-24,Championship,2025-26,Watford,Ipswich,0,2,3,4,2,7,0,0
-2026-02-24,Championship,2025-26,Middlesbrough,Leicester,1,1,8,5,2,13,1,0
-2026-02-24,Championship,2025-26,Hull,Derby,4,2,7,3,6,10,1,1
-2026-02-24,Championship,2025-26,Blackburn,Bristol City,1,2,6,4,3,10,1,1
-2026-02-24,Championship,2025-26,Swansea,Preston,1,1,4,8,2,12,1,0
-2026-02-25,Championship,2025-26,Millwall,Birmingham,3,0,7,5,3,12,0,1
-2026-02-25,Championship,2025-26,Norwich,Sheffield Weds,2,0,3,4,2,7,0,0
-2026-02-25,Championship,2025-26,Sheffield United,Coventry,1,2,7,3,3,10,1,1
-2026-02-25,Championship,2025-26,Stoke,Oxford,2,1,8,7,3,15,1,1
-2026-02-27,Championship,2025-26,Bristol City,Watford,1,2,3,3,3,6,1,1
-2026-02-28,Championship,2025-26,Oxford,West Brom,2,1,5,6,3,11,1,1
-2026-02-28,Championship,2025-26,QPR,Sheffield United,0,2,7,4,2,11,0,0
-2026-02-28,Championship,2025-26,Sheffield Weds,Southampton,1,3,5,8,4,13,1,1
-2026-02-28,Championship,2025-26,Preston,Millwall,0,2,2,6,2,8,0,0
-2026-02-28,Championship,2025-26,Ipswich,Swansea,3,0,4,0,3,4,0,1
-2026-02-28,Championship,2025-26,Leicester,Norwich,0,2,6,7,2,13,0,0
-2026-02-28,Championship,2025-26,Charlton,Wrexham,0,1,4,2,1,6,0,0
-2026-02-28,Championship,2025-26,Portsmouth,Hull,0,1,11,2,1,13,0,0
-2026-02-28,Championship,2025-26,Derby,Blackburn,3,1,2,3,4,5,1,1
-2026-02-28,Championship,2025-26,Coventry,Stoke,2,1,7,1,3,8,1,1
-2026-03-02,Championship,2025-26,Birmingham,Middlesbrough,1,3,6,2,4,8,1,1
-2026-03-03,Championship,2025-26,Ipswich,Hull,1,0,6,4,1,10,0,0
-2026-03-06,Championship,2025-26,Preston,Oxford,1,3,9,5,4,14,1,1
-2026-03-07,Championship,2025-26,Swansea,Stoke,2,0,13,5,2,18,0,0
-2026-03-07,Championship,2025-26,Sheffield United,West Brom,1,1,5,7,2,12,1,0
-2026-03-07,Championship,2025-26,Ipswich,Leicester,1,1,10,2,2,12,1,0
-2026-03-07,Championship,2025-26,Derby,Sheffield Weds,2,1,6,2,3,8,1,1
-2026-03-07,Championship,2025-26,Bristol City,Coventry,0,2,11,3,2,14,0,0
-2026-03-07,Championship,2025-26,Hull,Millwall,1,3,5,2,4,7,1,1
-2026-03-07,Championship,2025-26,Blackburn,Portsmouth,1,1,4,5,2,9,1,0
-2026-03-07,Championship,2025-26,Charlton,Birmingham,1,0,3,3,1,6,0,0
-2026-03-08,Championship,2025-26,QPR,Middlesbrough,0,4,3,8,4,11,0,1
-2026-03-10,Championship,2025-26,Leicester,Bristol City,2,0,5,9,2,14,0,0
-2026-03-10,Championship,2025-26,Millwall,Derby,1,0,6,2,1,8,0,0
-2026-03-10,Championship,2025-26,Portsmouth,Swansea,1,2,6,0,3,6,1,1
-2026-03-10,Championship,2025-26,Sheffield Weds,Watford,1,1,5,5,2,10,1,0
-2026-03-10,Championship,2025-26,Wrexham,Hull,1,2,8,4,3,12,1,1
-2026-03-10,Championship,2025-26,Stoke,Ipswich,3,3,5,9,6,14,1,1
-2026-03-11,Championship,2025-26,Coventry,Preston,3,0,8,1,3,9,0,1
-2026-03-11,Championship,2025-26,Oxford,Blackburn,1,0,6,4,1,10,0,0
-2026-03-11,Championship,2025-26,West Brom,Southampton,1,1,5,3,2,8,1,0
-2026-03-11,Championship,2025-26,Middlesbrough,Charlton,0,1,11,2,1,13,0,0
-2026-03-11,Championship,2025-26,Birmingham,QPR,1,0,10,1,1,11,0,0
-2026-03-11,Championship,2025-26,Norwich,Sheffield United,2,1,11,4,3,15,1,1
-2026-03-13,Championship,2025-26,Wrexham,Swansea,2,0,5,5,2,10,0,0
-2026-03-14,Championship,2025-26,Coventry,Southampton,1,2,7,5,3,12,1,1
-2026-03-14,Championship,2025-26,Middlesbrough,Bristol City,1,1,9,4,2,13,1,0
-2026-03-14,Championship,2025-26,Oxford,Charlton,1,1,3,6,2,9,1,0
-2026-03-14,Championship,2025-26,Birmingham,Sheffield United,1,1,7,0,2,7,1,0
-2026-03-14,Championship,2025-26,Leicester,QPR,1,3,3,6,4,9,1,1
-2026-03-14,Championship,2025-26,Millwall,Blackburn,1,2,9,7,3,16,1,1
-2026-03-14,Championship,2025-26,Norwich,Preston,2,0,5,3,2,8,0,0
-2026-03-14,Championship,2025-26,Sheffield Weds,Ipswich,0,2,4,4,2,8,0,0
-2026-03-14,Championship,2025-26,Stoke,Watford,3,1,6,7,4,13,1,1
-2026-03-14,Championship,2025-26,West Brom,Hull,3,0,10,2,3,12,0,1
-2026-03-16,Championship,2025-26,Portsmouth,Derby,0,1,11,3,1,14,0,0
-2026-03-17,Championship,2025-26,Watford,Wrexham,3,1,4,5,4,9,1,1
-2026-03-18,Championship,2025-26,Southampton,Norwich,1,0,5,6,1,11,0,0
-2026-03-20,Championship,2025-26,Preston,Stoke,3,1,7,9,4,16,1,1
-2026-03-21,Championship,2025-26,Blackburn,Middlesbrough,0,0,3,11,0,14,0,0
-2026-03-21,Championship,2025-26,Derby,Birmingham,1,0,6,2,1,8,0,0
-2026-03-21,Championship,2025-26,Ipswich,Millwall,1,1,9,8,2,17,1,0
-2026-03-21,Championship,2025-26,Bristol City,West Brom,0,1,5,4,1,9,0,0
-2026-03-21,Championship,2025-26,Charlton,Norwich,0,1,7,7,1,14,0,0
-2026-03-21,Championship,2025-26,Hull,Sheffield Weds,3,1,4,4,4,8,1,1
-2026-03-21,Championship,2025-26,QPR,Portsmouth,6,1,1,9,7,10,1,1
-2026-03-21,Championship,2025-26,Sheffield United,Wrexham,1,2,8,5,3,13,1,1
-2026-03-21,Championship,2025-26,Southampton,Oxford,2,0,6,4,2,10,0,0
-2026-03-21,Championship,2025-26,Watford,Leicester,0,0,7,4,0,11,0,0
-2026-03-21,Championship,2025-26,Swansea,Coventry,0,3,2,7,3,9,0,1
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2025-08-08,Championship,2025-26,Birmingham,Ipswich,1,1,1,4,2,3,0,0,2,5,5,0,1,0
+2025-08-09,Championship,2025-26,Sheffield United,Bristol City,1,4,14,3,0,0,0,0,5,17,0,0,1,1
+2025-08-09,Championship,2025-26,West Brom,Blackburn,1,0,3,7,2,0,1,0,1,10,2,1,0,0
+2025-08-09,Championship,2025-26,QPR,Preston,1,1,5,4,0,3,0,0,2,9,3,0,1,0
+2025-08-09,Championship,2025-26,Oxford,Portsmouth,0,1,8,4,1,2,0,0,1,12,3,0,0,0
+2025-08-09,Championship,2025-26,Stoke,Derby,3,1,7,3,1,2,0,0,4,10,3,0,1,1
+2025-08-09,Championship,2025-26,Middlesbrough,Swansea,1,0,7,2,2,5,0,0,1,9,7,0,0,0
+2025-08-09,Championship,2025-26,Southampton,Wrexham,2,1,7,4,2,2,0,0,3,11,4,0,1,1
+2025-08-09,Championship,2025-26,Coventry,Hull,0,0,8,2,3,3,0,0,0,10,6,0,0,0
+2025-08-09,Championship,2025-26,Charlton,Watford,1,0,3,2,1,2,0,0,1,5,3,0,0,0
+2025-08-09,Championship,2025-26,Norwich,Millwall,1,2,6,5,1,4,0,0,3,11,5,0,1,1
+2025-08-10,Championship,2025-26,Leicester,Sheffield Weds,2,1,13,3,0,0,0,1,3,16,0,1,1,1
+2025-08-16,Championship,2025-26,Preston,Leicester,2,1,6,4,2,0,0,0,3,10,2,0,1,1
+2025-08-16,Championship,2025-26,Watford,QPR,2,1,2,4,1,2,1,0,3,6,3,1,1,1
+2025-08-16,Championship,2025-26,Swansea,Sheffield United,1,0,4,8,1,3,0,0,1,12,4,0,0,0
+2025-08-16,Championship,2025-26,Sheffield Weds,Stoke,0,3,6,7,0,3,0,0,3,13,3,0,0,1
+2025-08-16,Championship,2025-26,Millwall,Middlesbrough,0,3,6,10,4,5,0,0,3,16,9,0,0,1
+2025-08-16,Championship,2025-26,Wrexham,West Brom,2,3,5,5,2,0,0,0,5,10,2,0,1,1
+2025-08-16,Championship,2025-26,Blackburn,Birmingham,1,2,3,5,1,2,0,0,3,8,3,0,1,1
+2025-08-16,Championship,2025-26,Portsmouth,Norwich,1,2,9,0,3,3,0,0,3,9,6,0,1,1
+2025-08-16,Championship,2025-26,Derby,Coventry,3,5,6,5,2,5,0,0,8,11,7,0,1,1
+2025-08-16,Championship,2025-26,Bristol City,Charlton,0,0,4,6,0,1,0,0,0,10,1,0,0,0
+2025-08-17,Championship,2025-26,Ipswich,Southampton,1,1,4,5,2,2,0,0,2,9,4,0,1,0
+2025-08-17,Championship,2025-26,Hull,Oxford,3,2,10,4,1,1,0,0,5,14,2,0,1,1
+2025-08-22,Championship,2025-26,Derby,Bristol City,1,1,4,5,3,0,0,0,2,9,3,0,1,0
+2025-08-23,Championship,2025-26,Sheffield United,Millwall,0,1,8,7,3,2,0,0,1,15,5,0,0,0
+2025-08-23,Championship,2025-26,Wrexham,Sheffield Weds,2,2,3,9,0,0,0,0,4,12,0,0,1,1
+2025-08-23,Championship,2025-26,West Brom,Portsmouth,1,1,2,3,2,5,0,0,2,5,7,0,1,0
+2025-08-23,Championship,2025-26,Southampton,Stoke,1,2,7,3,1,3,0,1,3,10,4,1,1,1
+2025-08-23,Championship,2025-26,Preston,Ipswich,1,0,3,6,6,2,0,0,1,9,8,0,0,0
+2025-08-23,Championship,2025-26,Hull,Blackburn,0,3,2,1,3,3,0,0,3,3,6,0,0,1
+2025-08-23,Championship,2025-26,Coventry,QPR,7,1,9,4,1,2,0,0,8,13,3,0,1,1
+2025-08-23,Championship,2025-26,Birmingham,Oxford,1,0,4,1,0,0,0,0,1,5,0,0,0,0
+2025-08-23,Championship,2025-26,Swansea,Watford,1,1,7,2,3,5,0,0,2,9,8,0,1,0
+2025-08-23,Championship,2025-26,Charlton,Leicester,0,1,13,4,2,1,0,0,1,17,3,0,0,0
+2025-08-23,Championship,2025-26,Norwich,Middlesbrough,1,2,5,3,0,3,1,0,3,8,3,1,1,1
+2025-08-29,Championship,2025-26,Leicester,Birmingham,2,0,1,7,3,3,0,0,2,8,6,0,0,0
+2025-08-30,Championship,2025-26,Watford,Southampton,2,2,4,5,2,5,0,0,4,9,7,0,1,1
+2025-08-30,Championship,2025-26,Sheffield Weds,Swansea,0,2,2,7,0,2,0,0,2,9,2,0,0,0
+2025-08-30,Championship,2025-26,Portsmouth,Preston,1,0,6,4,1,2,0,0,1,10,3,0,0,0
+2025-08-30,Championship,2025-26,Oxford,Coventry,2,2,0,5,1,2,0,0,4,5,3,0,1,1
+2025-08-30,Championship,2025-26,Millwall,Wrexham,0,2,5,2,1,3,0,0,2,7,4,0,0,0
+2025-08-30,Championship,2025-26,Bristol City,Hull,4,2,8,5,1,1,0,0,6,13,2,0,1,1
+2025-08-30,Championship,2025-26,Blackburn,Norwich,0,2,3,9,2,0,1,0,2,12,2,1,0,0
+2025-08-30,Championship,2025-26,Stoke,West Brom,0,1,5,5,1,2,0,0,1,10,3,0,0,0
+2025-08-30,Championship,2025-26,QPR,Charlton,3,1,1,2,2,2,0,0,4,3,4,0,1,1
+2025-08-30,Championship,2025-26,Middlesbrough,Sheffield United,1,0,5,9,0,3,0,0,1,14,3,0,0,0
+2025-08-30,Championship,2025-26,Ipswich,Derby,2,2,6,3,2,7,0,0,4,9,9,0,1,1
+2025-09-12,Championship,2025-26,Ipswich,Sheffield United,5,0,3,5,0,2,0,0,5,8,2,0,0,1
+2025-09-13,Championship,2025-26,Swansea,Hull,2,2,5,2,1,1,0,0,4,7,2,0,1,1
+2025-09-13,Championship,2025-26,Wrexham,QPR,1,3,12,9,1,0,0,0,4,21,1,0,1,1
+2025-09-13,Championship,2025-26,West Brom,Derby,0,1,11,0,1,2,0,0,1,11,3,0,0,0
+2025-09-13,Championship,2025-26,Stoke,Birmingham,1,0,5,3,3,1,0,0,1,8,4,0,0,0
+2025-09-13,Championship,2025-26,Watford,Blackburn,0,1,5,7,1,2,0,0,1,12,3,0,0,0
+2025-09-13,Championship,2025-26,Coventry,Norwich,1,1,11,2,2,6,0,0,2,13,8,0,1,0
+2025-09-13,Championship,2025-26,Preston,Middlesbrough,2,2,3,4,1,3,0,0,4,7,4,0,1,1
+2025-09-13,Championship,2025-26,Sheffield Weds,Bristol City,0,3,4,1,2,0,0,0,3,5,2,0,0,1
+2025-09-13,Championship,2025-26,Oxford,Leicester,2,2,4,4,1,2,0,1,4,8,3,1,1,1
+2025-09-13,Championship,2025-26,Charlton,Millwall,1,1,3,4,1,1,1,0,2,7,2,1,1,0
+2025-09-14,Championship,2025-26,Southampton,Portsmouth,0,0,7,5,4,2,0,0,0,12,6,0,0,0
+2025-09-19,Championship,2025-26,Middlesbrough,West Brom,2,1,2,3,0,0,0,0,3,5,0,0,1,1
+2025-09-20,Championship,2025-26,Birmingham,Swansea,1,0,7,2,5,4,0,0,1,9,9,0,0,0
+2025-09-20,Championship,2025-26,Leicester,Coventry,0,0,10,3,0,3,0,0,0,13,3,0,0,0
+2025-09-20,Championship,2025-26,QPR,Stoke,1,0,3,6,5,3,0,0,1,9,8,0,0,0
+2025-09-20,Championship,2025-26,Derby,Preston,0,1,3,4,2,2,0,0,1,7,4,0,0,0
+2025-09-20,Championship,2025-26,Hull,Southampton,3,1,1,6,5,3,0,0,4,7,8,0,1,1
+2025-09-20,Championship,2025-26,Norwich,Wrexham,2,3,2,3,1,3,0,0,5,5,4,0,1,1
+2025-09-20,Championship,2025-26,Portsmouth,Sheffield Weds,0,2,11,5,1,5,0,0,2,16,6,0,0,0
+2025-09-20,Championship,2025-26,Sheffield United,Charlton,0,1,6,1,1,3,0,0,1,7,4,0,0,0
+2025-09-21,Championship,2025-26,Bristol City,Oxford,1,3,8,5,4,1,0,0,4,13,5,0,1,1
+2025-09-22,Championship,2025-26,Millwall,Watford,1,0,7,4,1,0,0,0,1,11,1,0,0,0
+2025-09-26,Championship,2025-26,West Brom,Leicester,1,1,3,3,2,5,0,0,2,6,7,0,1,0
+2025-09-27,Championship,2025-26,Coventry,Birmingham,3,0,3,4,1,2,0,1,3,7,3,1,0,1
+2025-09-27,Championship,2025-26,Swansea,Millwall,1,1,6,4,1,2,0,0,2,10,3,0,1,0
+2025-09-27,Championship,2025-26,Wrexham,Derby,1,1,4,3,1,5,0,0,2,7,6,0,1,0
+2025-09-27,Championship,2025-26,Charlton,Blackburn,3,0,3,3,4,2,0,0,3,6,6,0,0,1
+2025-09-27,Championship,2025-26,Ipswich,Portsmouth,2,1,5,4,1,2,0,0,3,9,3,0,1,1
+2025-09-27,Championship,2025-26,Oxford,Sheffield United,0,1,3,5,1,1,0,0,1,8,2,0,0,0
+2025-09-27,Championship,2025-26,Preston,Bristol City,0,0,2,9,4,1,0,0,0,11,5,0,0,0
+2025-09-27,Championship,2025-26,Sheffield Weds,QPR,1,1,5,4,2,2,0,0,2,9,4,0,1,0
+2025-09-27,Championship,2025-26,Southampton,Middlesbrough,1,1,6,3,2,6,0,0,2,9,8,0,1,0
+2025-09-27,Championship,2025-26,Stoke,Norwich,1,1,12,2,0,3,0,0,2,14,3,0,1,0
+2025-09-27,Championship,2025-26,Watford,Hull,2,1,6,6,1,5,0,0,3,12,6,0,1,1
+2025-09-30,Championship,2025-26,Derby,Charlton,1,1,5,2,2,0,0,0,2,7,2,0,1,0
+2025-09-30,Championship,2025-26,Sheffield United,Southampton,1,2,4,5,3,4,0,0,3,9,7,0,1,1
+2025-09-30,Championship,2025-26,Middlesbrough,Stoke,0,0,5,8,2,0,0,0,0,13,2,0,0,0
+2025-09-30,Championship,2025-26,Leicester,Wrexham,1,1,7,1,3,1,0,0,2,8,4,0,1,0
+2025-09-30,Championship,2025-26,Birmingham,Sheffield Weds,2,2,10,4,3,2,0,0,4,14,5,0,1,1
+2025-09-30,Championship,2025-26,Bristol City,Ipswich,1,1,3,6,4,2,0,0,2,9,6,0,1,0
+2025-09-30,Championship,2025-26,Blackburn,Swansea,1,2,7,3,3,2,0,0,3,10,5,0,1,1
+2025-09-30,Championship,2025-26,Hull,Preston,2,2,5,3,0,1,0,0,4,8,1,0,1,1
+2025-10-01,Championship,2025-26,Millwall,Coventry,0,4,3,3,2,2,0,0,4,6,4,0,0,1
+2025-10-01,Championship,2025-26,Norwich,West Brom,0,1,4,3,1,4,0,0,1,7,5,0,0,0
+2025-10-01,Championship,2025-26,Portsmouth,Watford,2,2,3,3,2,5,0,0,4,6,7,0,1,1
+2025-10-01,Championship,2025-26,QPR,Oxford,0,0,9,1,3,1,0,0,0,10,4,0,0,0
+2025-10-03,Championship,2025-26,Wrexham,Birmingham,1,1,5,5,0,2,0,0,2,10,2,0,1,0
+2025-10-04,Championship,2025-26,Watford,Oxford,2,1,9,3,3,4,0,0,3,12,7,0,1,1
+2025-10-04,Championship,2025-26,Swansea,Leicester,1,3,2,5,2,1,0,0,4,7,3,0,1,1
+2025-10-04,Championship,2025-26,Preston,Charlton,2,0,3,4,0,2,0,0,2,7,2,0,0,0
+2025-10-04,Championship,2025-26,Portsmouth,Middlesbrough,1,0,2,8,2,1,0,0,1,10,3,0,0,0
+2025-10-04,Championship,2025-26,Millwall,West Brom,3,0,4,5,1,2,0,0,3,9,3,0,0,1
+2025-10-04,Championship,2025-26,Derby,Southampton,1,1,3,5,4,2,0,0,2,8,6,0,1,0
+2025-10-04,Championship,2025-26,Sheffield Weds,Coventry,0,5,13,8,1,1,0,0,5,21,2,0,0,1
+2025-10-04,Championship,2025-26,Hull,Sheffield United,1,0,4,9,2,2,0,0,1,13,4,0,0,0
+2025-10-04,Championship,2025-26,Blackburn,Stoke,1,1,7,6,1,1,0,0,2,13,2,0,1,0
+2025-10-04,Championship,2025-26,Bristol City,QPR,1,2,4,1,5,1,0,0,3,5,6,0,1,1
+2025-10-05,Championship,2025-26,Ipswich,Norwich,3,1,8,8,1,3,0,0,4,16,4,0,1,1
+2025-10-17,Championship,2025-26,Middlesbrough,Ipswich,2,1,5,9,3,1,0,0,3,14,4,0,1,1
+2025-10-18,Championship,2025-26,Sheffield United,Watford,1,0,7,3,0,1,0,0,1,10,1,0,0,0
+2025-10-18,Championship,2025-26,Leicester,Portsmouth,1,1,14,4,1,2,0,0,2,18,3,0,1,0
+2025-10-18,Championship,2025-26,West Brom,Preston,2,1,8,4,2,1,0,0,3,12,3,0,1,1
+2025-10-18,Championship,2025-26,Stoke,Wrexham,1,0,6,4,2,0,0,0,1,10,2,0,0,0
+2025-10-18,Championship,2025-26,Coventry,Blackburn,2,0,2,7,0,2,0,0,2,9,2,0,0,0
+2025-10-18,Championship,2025-26,Norwich,Bristol City,0,1,3,9,2,3,0,0,1,12,5,0,0,0
+2025-10-18,Championship,2025-26,Birmingham,Hull,2,3,9,7,2,7,1,0,5,16,9,1,1,1
+2025-10-18,Championship,2025-26,Southampton,Swansea,0,0,5,3,0,4,0,0,0,8,4,0,0,0
+2025-10-18,Championship,2025-26,QPR,Millwall,1,2,8,3,2,4,0,0,3,11,6,0,1,1
+2025-10-18,Championship,2025-26,Oxford,Derby,1,0,4,12,4,1,0,0,1,16,5,0,0,0
+2025-10-18,Championship,2025-26,Charlton,Sheffield Weds,2,1,2,4,1,2,0,1,3,6,3,1,1,1
+2025-10-21,Championship,2025-26,Portsmouth,Coventry,1,2,6,5,1,1,0,0,3,11,2,0,1,1
+2025-10-21,Championship,2025-26,Blackburn,Sheffield United,1,3,5,5,1,1,0,0,4,10,2,0,1,1
+2025-10-21,Championship,2025-26,Derby,Norwich,1,0,5,13,2,1,0,0,1,18,3,0,0,0
+2025-10-21,Championship,2025-26,Hull,Leicester,2,1,1,7,1,2,0,0,3,8,3,0,1,1
+2025-10-21,Championship,2025-26,Ipswich,Charlton,0,3,16,3,0,3,0,0,3,19,3,0,0,1
+2025-10-21,Championship,2025-26,Millwall,Stoke,2,0,3,2,2,1,0,0,2,5,3,0,0,0
+2025-10-21,Championship,2025-26,Preston,Birmingham,0,1,9,3,2,5,0,0,1,12,7,0,0,0
+2025-10-21,Championship,2025-26,Bristol City,Southampton,3,1,2,3,1,2,0,0,4,5,3,0,1,1
+2025-10-22,Championship,2025-26,Sheffield Weds,Middlesbrough,0,1,6,5,3,1,0,0,1,11,4,0,0,0
+2025-10-22,Championship,2025-26,Wrexham,Oxford,1,0,6,3,3,1,1,0,1,9,4,1,0,0
+2025-10-22,Championship,2025-26,Watford,West Brom,2,1,4,5,0,2,0,0,3,9,2,0,1,1
+2025-10-22,Championship,2025-26,Swansea,QPR,0,1,6,3,1,4,1,0,1,9,5,1,0,0
+2025-10-24,Championship,2025-26,Preston,Sheffield United,3,2,2,4,4,1,0,0,5,6,5,0,1,1
+2025-10-25,Championship,2025-26,Hull,Charlton,1,1,6,2,2,1,0,0,2,8,3,0,1,0
+2025-10-25,Championship,2025-26,Millwall,Leicester,1,0,5,9,1,2,0,0,1,14,3,0,0,0
+2025-10-25,Championship,2025-26,Middlesbrough,Wrexham,1,1,4,4,0,5,0,0,2,8,5,0,1,0
+2025-10-25,Championship,2025-26,Derby,QPR,1,0,5,2,2,2,0,0,1,7,4,0,0,0
+2025-10-25,Championship,2025-26,Sheffield Weds,Oxford,1,2,8,3,0,0,0,0,3,11,0,0,1,1
+2025-10-25,Championship,2025-26,Blackburn,Southampton,2,1,6,5,3,1,0,1,3,11,4,1,1,1
+2025-10-25,Championship,2025-26,Portsmouth,Stoke,0,1,6,2,2,3,0,0,1,8,5,0,0,0
+2025-10-25,Championship,2025-26,Ipswich,West Brom,1,0,4,5,1,1,0,0,1,9,2,0,0,0
+2025-10-25,Championship,2025-26,Coventry,Watford,3,1,5,7,3,2,0,1,4,12,5,1,1,1
+2025-10-25,Championship,2025-26,Bristol City,Birmingham,1,0,0,6,2,1,0,0,1,6,3,0,0,0
+2025-10-25,Championship,2025-26,Swansea,Norwich,2,1,2,3,3,1,0,0,3,5,4,0,1,1
+2025-10-31,Championship,2025-26,Wrexham,Coventry,3,2,3,6,2,1,0,0,5,9,3,0,1,1
+2025-11-01,Championship,2025-26,Leicester,Blackburn,0,2,7,4,0,1,0,0,2,11,1,0,0,0
+2025-11-01,Championship,2025-26,Norwich,Hull,0,2,6,4,1,2,0,0,2,10,3,0,0,0
+2025-11-01,Championship,2025-26,West Brom,Sheffield Weds,0,0,8,3,1,1,0,0,0,11,2,0,0,0
+2025-11-01,Championship,2025-26,Birmingham,Portsmouth,4,0,9,5,1,2,0,0,4,14,3,0,0,1
+2025-11-01,Championship,2025-26,Charlton,Swansea,1,1,4,7,0,0,0,0,2,11,0,0,1,0
+2025-11-01,Championship,2025-26,Oxford,Millwall,2,2,5,8,0,0,0,0,4,13,0,0,1,1
+2025-11-01,Championship,2025-26,QPR,Ipswich,1,4,3,2,4,0,0,0,5,5,4,0,1,1
+2025-11-01,Championship,2025-26,Sheffield United,Derby,1,3,9,4,2,1,0,0,4,13,3,0,1,1
+2025-11-01,Championship,2025-26,Southampton,Preston,0,2,8,2,1,3,0,0,2,10,4,0,0,0
+2025-11-01,Championship,2025-26,Stoke,Bristol City,5,1,4,10,3,0,0,0,6,14,3,0,1,1
+2025-11-01,Championship,2025-26,Watford,Middlesbrough,3,0,1,7,2,1,0,0,3,8,3,0,0,1
+2025-11-04,Championship,2025-26,Coventry,Sheffield United,3,1,6,13,3,2,0,0,4,19,5,0,1,1
+2025-11-04,Championship,2025-26,Oxford,Stoke,0,3,10,7,1,3,0,0,3,17,4,0,0,1
+2025-11-04,Championship,2025-26,Leicester,Middlesbrough,1,1,3,6,6,1,0,1,2,9,7,1,1,0
+2025-11-04,Championship,2025-26,Ipswich,Watford,1,1,2,5,1,2,0,0,2,7,3,0,1,0
+2025-11-04,Championship,2025-26,Bristol City,Blackburn,0,1,6,3,0,3,0,0,1,9,3,0,0,0
+2025-11-04,Championship,2025-26,Charlton,West Brom,1,0,4,3,0,0,0,0,1,7,0,0,0,0
+2025-11-04,Championship,2025-26,Birmingham,Millwall,4,0,2,3,0,0,0,0,4,5,0,0,0,1
+2025-11-04,Championship,2025-26,Derby,Hull,2,1,6,5,1,0,0,0,3,11,1,0,1,1
+2025-11-05,Championship,2025-26,Preston,Swansea,2,1,2,8,3,1,0,0,3,10,4,0,1,1
+2025-11-05,Championship,2025-26,QPR,Southampton,1,2,12,1,1,3,0,0,3,13,4,0,1,1
+2025-11-05,Championship,2025-26,Sheffield Weds,Norwich,1,1,9,4,0,4,0,0,2,13,4,0,1,0
+2025-11-05,Championship,2025-26,Portsmouth,Wrexham,0,0,10,3,3,3,0,0,0,13,6,0,0,0
+2025-11-07,Championship,2025-26,Watford,Bristol City,1,1,6,4,2,1,0,0,2,10,3,0,1,0
+2025-11-08,Championship,2025-26,Swansea,Ipswich,1,4,4,5,5,3,0,0,5,9,8,0,1,1
+2025-11-08,Championship,2025-26,Middlesbrough,Birmingham,2,1,3,5,1,1,0,0,3,8,2,0,1,1
+2025-11-08,Championship,2025-26,Wrexham,Charlton,1,0,8,2,1,4,0,0,1,10,5,0,0,0
+2025-11-08,Championship,2025-26,Stoke,Coventry,0,1,3,6,3,3,0,0,1,9,6,0,0,0
+2025-11-08,Championship,2025-26,West Brom,Oxford,2,1,11,5,0,0,0,0,3,16,0,0,1,1
+2025-11-08,Championship,2025-26,Southampton,Sheffield Weds,3,1,4,5,2,2,0,0,4,9,4,0,1,1
+2025-11-08,Championship,2025-26,Hull,Portsmouth,3,2,5,5,1,3,0,0,5,10,4,0,1,1
+2025-11-08,Championship,2025-26,Norwich,Leicester,1,2,6,3,1,1,0,0,3,9,2,0,1,1
+2025-11-08,Championship,2025-26,Blackburn,Derby,1,2,13,3,1,3,0,0,3,16,4,0,1,1
+2025-11-08,Championship,2025-26,Sheffield United,QPR,0,0,14,5,0,2,0,0,0,19,2,0,0,0
+2025-11-08,Championship,2025-26,Millwall,Preston,1,1,10,6,2,2,0,0,2,16,4,0,1,0
+2025-11-21,Championship,2025-26,Preston,Blackburn,1,2,3,7,1,0,0,0,3,10,1,0,1,1
+2025-11-22,Championship,2025-26,QPR,Hull,3,2,9,5,0,1,0,0,5,14,1,0,1,1
+2025-11-22,Championship,2025-26,Leicester,Stoke,2,1,0,10,6,2,0,0,3,10,8,0,1,1
+2025-11-22,Championship,2025-26,Ipswich,Wrexham,0,0,5,2,2,3,0,0,0,7,5,0,0,0
+2025-11-22,Championship,2025-26,Derby,Watford,2,3,9,3,2,1,0,0,5,12,3,0,1,1
+2025-11-22,Championship,2025-26,Portsmouth,Millwall,3,1,3,4,2,1,0,1,4,7,3,1,1,1
+2025-11-22,Championship,2025-26,Coventry,West Brom,3,2,8,1,2,1,0,1,5,9,3,1,1,1
+2025-11-22,Championship,2025-26,Charlton,Southampton,1,5,3,4,4,0,0,0,6,7,4,0,1,1
+2025-11-22,Championship,2025-26,Bristol City,Swansea,3,0,5,6,2,0,0,0,3,11,2,0,0,1
+2025-11-22,Championship,2025-26,Birmingham,Norwich,4,1,3,8,1,2,0,0,5,11,3,0,1,1
+2025-11-22,Championship,2025-26,Oxford,Middlesbrough,1,1,1,8,3,2,0,0,2,9,5,0,1,0
+2025-11-23,Championship,2025-26,Sheffield Weds,Sheffield United,0,3,4,7,3,0,0,0,3,11,3,0,0,1
+2025-11-25,Championship,2025-26,Hull,Ipswich,0,2,3,6,2,2,0,0,2,9,4,0,0,0
+2025-11-25,Championship,2025-26,Middlesbrough,Coventry,2,4,8,3,0,0,0,0,6,11,0,0,1,1
+2025-11-25,Championship,2025-26,Norwich,Oxford,1,1,8,4,1,0,0,0,2,12,1,0,1,0
+2025-11-25,Championship,2025-26,Stoke,Charlton,3,0,5,0,1,1,0,0,3,5,2,0,0,1
+2025-11-25,Championship,2025-26,Swansea,Derby,1,2,4,2,0,2,0,0,3,6,2,0,1,1
+2025-11-25,Championship,2025-26,Watford,Preston,1,1,6,2,2,4,0,0,2,8,6,0,1,0
+2025-11-25,Championship,2025-26,Southampton,Leicester,3,0,11,3,1,0,0,1,3,14,1,1,0,1
+2025-11-26,Championship,2025-26,Wrexham,Bristol City,2,0,2,4,1,2,0,0,2,6,3,0,0,0
+2025-11-26,Championship,2025-26,West Brom,Birmingham,1,1,3,3,1,2,0,0,2,6,3,0,1,0
+2025-11-26,Championship,2025-26,Sheffield United,Portsmouth,3,0,7,2,0,1,0,1,3,9,1,1,0,1
+2025-11-26,Championship,2025-26,Blackburn,QPR,0,1,6,4,3,0,0,0,1,10,3,0,0,0
+2025-11-26,Championship,2025-26,Millwall,Sheffield Weds,1,0,9,5,0,3,0,0,1,14,3,0,0,0
+2025-11-28,Championship,2025-26,Oxford,Ipswich,2,1,3,6,0,0,0,0,3,9,0,0,1,1
+2025-11-29,Championship,2025-26,West Brom,Swansea,3,2,7,1,1,2,0,0,5,8,3,0,1,1
+2025-11-29,Championship,2025-26,Sheffield Weds,Preston,2,3,3,3,1,1,0,0,5,6,2,0,1,1
+2025-11-29,Championship,2025-26,Norwich,QPR,3,1,9,6,2,2,0,0,4,15,4,0,1,1
+2025-11-29,Championship,2025-26,Millwall,Southampton,3,2,9,6,1,2,0,0,5,15,3,0,1,1
+2025-11-29,Championship,2025-26,Wrexham,Blackburn,1,1,7,7,1,3,0,0,2,14,4,0,1,0
+2025-11-29,Championship,2025-26,Coventry,Charlton,3,1,6,3,1,1,0,0,4,9,2,0,1,1
+2025-11-29,Championship,2025-26,Stoke,Hull,1,2,7,8,2,4,0,0,3,15,6,0,1,1
+2025-11-29,Championship,2025-26,Portsmouth,Bristol City,0,1,4,4,3,0,0,0,1,8,3,0,0,0
+2025-11-29,Championship,2025-26,Leicester,Sheffield United,2,3,4,9,2,1,0,0,5,13,3,0,1,1
+2025-11-29,Championship,2025-26,Middlesbrough,Derby,2,1,9,8,0,2,0,0,3,17,2,0,1,1
+2025-12-01,Championship,2025-26,Birmingham,Watford,2,1,6,6,3,2,0,0,3,12,5,0,1,1
+2025-12-02,Championship,2025-26,Blackburn,Ipswich,1,1,9,3,1,3,0,0,2,12,4,0,1,0
+2025-12-05,Championship,2025-26,Hull,Middlesbrough,1,4,2,5,1,0,0,0,5,7,1,0,1,1
+2025-12-06,Championship,2025-26,Sheffield United,Stoke,4,0,9,7,1,2,0,0,4,16,3,0,0,1
+2025-12-06,Championship,2025-26,QPR,West Brom,3,1,4,3,1,1,0,0,4,7,2,0,1,1
+2025-12-06,Championship,2025-26,Preston,Wrexham,1,1,16,2,1,1,0,0,2,18,2,0,1,0
+2025-12-06,Championship,2025-26,Derby,Leicester,1,3,6,3,3,2,0,0,4,9,5,0,1,1
+2025-12-06,Championship,2025-26,Bristol City,Millwall,0,1,8,1,1,5,0,0,1,9,6,0,0,0
+2025-12-06,Championship,2025-26,Watford,Norwich,3,2,6,5,1,2,0,0,5,11,3,0,1,1
+2025-12-06,Championship,2025-26,Southampton,Birmingham,3,1,7,8,1,1,0,0,4,15,2,0,1,1
+2025-12-06,Championship,2025-26,Ipswich,Coventry,3,0,2,5,5,2,0,0,3,7,7,0,0,1
+2025-12-06,Championship,2025-26,Swansea,Oxford,2,0,10,2,2,4,0,0,2,12,6,0,0,0
+2025-12-09,Championship,2025-26,Swansea,Portsmouth,1,0,5,6,2,3,0,0,1,11,5,0,0,0
+2025-12-09,Championship,2025-26,Watford,Sheffield Weds,1,1,7,4,1,1,0,0,2,11,2,0,1,0
+2025-12-09,Championship,2025-26,Southampton,West Brom,3,2,2,9,2,2,0,0,5,11,4,0,1,1
+2025-12-09,Championship,2025-26,QPR,Birmingham,2,1,6,3,2,1,0,0,3,9,3,0,1,1
+2025-12-09,Championship,2025-26,Preston,Coventry,1,1,4,8,1,0,1,0,2,12,1,1,1,0
+2025-12-09,Championship,2025-26,Blackburn,Oxford,1,1,9,3,1,2,0,0,2,12,3,0,1,0
+2025-12-09,Championship,2025-26,Sheffield United,Norwich,1,1,6,2,2,3,0,0,2,8,5,0,1,0
+2025-12-09,Championship,2025-26,Charlton,Middlesbrough,1,2,5,5,4,1,0,0,3,10,5,0,1,1
+2025-12-10,Championship,2025-26,Bristol City,Leicester,2,2,10,3,2,3,0,0,4,13,5,0,1,1
+2025-12-10,Championship,2025-26,Derby,Millwall,1,1,11,7,2,3,0,0,2,18,5,0,1,0
+2025-12-10,Championship,2025-26,Ipswich,Stoke,1,0,3,4,1,1,0,0,1,7,2,0,0,0
+2025-12-10,Championship,2025-26,Hull,Wrexham,2,0,8,2,0,1,0,0,2,10,1,0,0,0
+2025-12-12,Championship,2025-26,West Brom,Sheffield United,2,0,8,4,0,1,0,0,2,12,1,0,0,0
+2025-12-13,Championship,2025-26,Leicester,Ipswich,3,1,6,5,1,2,0,0,4,11,3,0,1,1
+2025-12-13,Championship,2025-26,Portsmouth,Blackburn,2,1,7,6,2,3,0,0,3,13,5,0,1,1
+2025-12-13,Championship,2025-26,Millwall,Hull,1,3,5,1,0,3,1,0,4,6,3,1,1,1
+2025-12-13,Championship,2025-26,Middlesbrough,QPR,3,1,9,4,1,0,0,0,4,13,1,0,1,1
+2025-12-13,Championship,2025-26,Stoke,Swansea,2,1,6,7,3,4,0,0,3,13,7,0,1,1
+2025-12-13,Championship,2025-26,Birmingham,Charlton,1,1,10,3,3,4,0,0,2,13,7,0,1,0
+2025-12-13,Championship,2025-26,Wrexham,Watford,2,2,7,1,3,6,0,0,4,8,9,0,1,1
+2025-12-13,Championship,2025-26,Oxford,Preston,1,2,9,9,1,2,0,0,3,18,3,0,1,1
+2025-12-13,Championship,2025-26,Norwich,Southampton,2,1,6,5,2,2,0,0,3,11,4,0,1,1
+2025-12-13,Championship,2025-26,Coventry,Bristol City,1,0,4,5,1,3,0,0,1,9,4,0,0,0
+2025-12-15,Championship,2025-26,Sheffield Weds,Derby,0,3,1,5,4,1,0,0,3,6,5,0,0,1
+2025-12-19,Championship,2025-26,Swansea,Wrexham,2,1,5,7,2,2,0,0,3,12,4,0,1,1
+2025-12-20,Championship,2025-26,Watford,Stoke,1,0,7,5,3,3,0,0,1,12,6,0,0,0
+2025-12-20,Championship,2025-26,QPR,Leicester,4,1,2,3,1,2,0,0,5,5,3,0,1,1
+2025-12-20,Championship,2025-26,Ipswich,Sheffield Weds,3,1,5,3,1,1,0,0,4,8,2,0,1,1
+2025-12-20,Championship,2025-26,Hull,West Brom,1,0,8,3,4,4,0,1,1,11,8,1,0,0
+2025-12-20,Championship,2025-26,Derby,Portsmouth,1,1,6,4,1,1,0,0,2,10,2,0,1,0
+2025-12-20,Championship,2025-26,Sheffield United,Birmingham,3,0,8,4,1,3,0,1,3,12,4,1,0,1
+2025-12-20,Championship,2025-26,Bristol City,Middlesbrough,2,0,3,13,2,3,0,0,2,16,5,0,0,0
+2025-12-20,Championship,2025-26,Southampton,Coventry,1,1,7,2,1,1,0,1,2,9,2,1,1,0
+2025-12-20,Championship,2025-26,Preston,Norwich,1,1,4,3,2,3,0,0,2,7,5,0,1,0
+2025-12-20,Championship,2025-26,Blackburn,Millwall,2,0,3,6,3,3,0,0,2,9,6,0,0,0
+2025-12-20,Championship,2025-26,Charlton,Oxford,1,0,5,6,2,1,0,0,1,11,3,0,0,0
+2025-12-26,Championship,2025-26,Wrexham,Sheffield United,5,3,7,5,1,2,0,0,8,12,3,0,1,1
+2025-12-26,Championship,2025-26,Portsmouth,QPR,1,1,9,3,1,2,0,0,2,12,3,0,1,0
+2025-12-26,Championship,2025-26,West Brom,Bristol City,1,2,9,4,1,3,0,0,3,13,4,0,1,1
+2025-12-26,Championship,2025-26,Stoke,Preston,0,0,10,2,4,2,0,0,0,12,6,0,0,0
+2025-12-26,Championship,2025-26,Sheffield Weds,Hull,2,2,4,4,2,4,0,0,4,8,6,0,1,1
+2025-12-26,Championship,2025-26,Oxford,Southampton,2,1,5,7,2,1,0,0,3,12,3,0,1,1
+2025-12-26,Championship,2025-26,Birmingham,Derby,1,1,12,1,3,1,1,1,2,13,4,2,1,0
+2025-12-26,Championship,2025-26,Middlesbrough,Blackburn,0,0,4,4,2,2,0,0,0,8,4,0,0,0
+2025-12-26,Championship,2025-26,Leicester,Watford,1,2,5,6,3,2,0,0,3,11,5,0,1,1
+2025-12-26,Championship,2025-26,Coventry,Swansea,1,0,7,4,0,2,0,0,1,11,2,0,0,0
+2025-12-26,Championship,2025-26,Millwall,Ipswich,0,0,2,4,1,2,0,0,0,6,3,0,0,0
+2025-12-26,Championship,2025-26,Norwich,Charlton,1,0,5,6,3,2,0,0,1,11,5,0,0,0
+2025-12-29,Championship,2025-26,Birmingham,Southampton,1,1,2,5,1,2,0,0,2,7,3,0,1,0
+2025-12-29,Championship,2025-26,Wrexham,Preston,2,1,3,3,0,0,0,0,3,6,0,0,1,1
+2025-12-29,Championship,2025-26,West Brom,QPR,2,1,9,4,0,2,0,0,3,13,2,0,1,1
+2025-12-29,Championship,2025-26,Stoke,Sheffield United,1,2,6,2,0,1,1,0,3,8,1,1,1,1
+2025-12-29,Championship,2025-26,Sheffield Weds,Blackburn,0,0,2,7,2,3,0,0,0,9,5,0,0,0
+2025-12-29,Championship,2025-26,Portsmouth,Charlton,2,1,5,11,2,2,0,0,3,16,4,0,1,1
+2025-12-29,Championship,2025-26,Norwich,Watford,0,1,8,3,0,1,0,0,1,11,1,0,0,0
+2025-12-29,Championship,2025-26,Millwall,Bristol City,2,1,1,8,4,1,0,0,3,9,5,0,1,1
+2025-12-29,Championship,2025-26,Middlesbrough,Hull,0,1,10,2,1,4,0,0,1,12,5,0,0,0
+2025-12-29,Championship,2025-26,Leicester,Derby,2,1,3,4,1,2,0,0,3,7,3,0,1,1
+2025-12-29,Championship,2025-26,Coventry,Ipswich,0,2,3,6,1,2,0,0,2,9,3,0,0,0
+2025-12-29,Championship,2025-26,Oxford,Swansea,0,1,1,5,2,4,0,0,1,6,6,0,0,0
+2026-01-01,Championship,2025-26,Southampton,Millwall,0,0,6,6,1,3,0,0,0,12,4,0,0,0
+2026-01-01,Championship,2025-26,Swansea,West Brom,1,0,4,5,2,5,0,0,1,9,7,0,0,0
+2026-01-01,Championship,2025-26,Hull,Stoke,0,1,6,6,3,2,0,0,1,12,5,0,0,0
+2026-01-01,Championship,2025-26,Sheffield United,Leicester,3,1,7,3,1,2,0,0,4,10,3,0,1,1
+2026-01-01,Championship,2025-26,Watford,Birmingham,3,0,4,4,1,2,0,0,3,8,3,0,0,1
+2026-01-01,Championship,2025-26,QPR,Norwich,1,2,7,3,0,3,0,0,3,10,3,0,1,1
+2026-01-01,Championship,2025-26,Derby,Middlesbrough,1,0,4,9,2,2,0,0,1,13,4,0,0,0
+2026-01-01,Championship,2025-26,Ipswich,Oxford,2,1,9,2,1,4,0,0,3,11,5,0,1,1
+2026-01-01,Championship,2025-26,Preston,Sheffield Weds,3,0,4,7,2,0,0,0,3,11,2,0,0,1
+2026-01-01,Championship,2025-26,Charlton,Coventry,1,1,9,3,3,2,0,0,2,12,5,0,1,0
+2026-01-01,Championship,2025-26,Bristol City,Portsmouth,5,0,1,1,0,1,0,0,5,2,1,0,0,1
+2026-01-01,Championship,2025-26,Blackburn,Wrexham,0,2,4,8,4,2,0,0,2,12,6,0,0,0
+2026-01-04,Championship,2025-26,Birmingham,Coventry,3,2,2,6,3,1,0,1,5,8,4,1,1,1
+2026-01-04,Championship,2025-26,QPR,Sheffield Weds,3,0,5,2,0,0,0,0,3,7,0,0,0,1
+2026-01-04,Championship,2025-26,Blackburn,Charlton,2,2,2,5,1,4,0,0,4,7,5,0,1,1
+2026-01-04,Championship,2025-26,Bristol City,Preston,0,2,6,3,0,2,0,0,2,9,2,0,0,0
+2026-01-04,Championship,2025-26,Derby,Wrexham,1,2,12,2,1,2,0,0,3,14,3,0,1,1
+2026-01-04,Championship,2025-26,Middlesbrough,Southampton,4,0,11,5,0,4,0,0,4,16,4,0,0,1
+2026-01-04,Championship,2025-26,Millwall,Swansea,2,1,12,3,2,0,0,0,3,15,2,0,1,1
+2026-01-04,Championship,2025-26,Norwich,Stoke,0,2,3,3,1,2,0,0,2,6,3,0,0,0
+2026-01-05,Championship,2025-26,Leicester,West Brom,2,1,4,4,1,0,0,0,3,8,1,0,1,1
+2026-01-16,Championship,2025-26,West Brom,Middlesbrough,2,3,4,1,2,0,0,0,5,5,2,0,1,1
+2026-01-17,Championship,2025-26,Coventry,Leicester,2,1,5,3,1,4,0,0,3,8,5,0,1,1
+2026-01-17,Championship,2025-26,Ipswich,Blackburn,3,0,7,6,0,4,0,0,3,13,4,0,0,1
+2026-01-17,Championship,2025-26,Watford,Millwall,0,2,4,4,4,4,0,0,2,8,8,0,0,0
+2026-01-17,Championship,2025-26,Charlton,Sheffield United,1,0,9,7,4,1,0,2,1,16,5,2,0,0
+2026-01-17,Championship,2025-26,Oxford,Bristol City,0,0,6,5,2,3,0,0,0,11,5,0,0,0
+2026-01-17,Championship,2025-26,Preston,Derby,0,1,5,10,2,5,0,0,1,15,7,0,0,0
+2026-01-17,Championship,2025-26,Sheffield Weds,Portsmouth,0,1,7,6,0,2,0,0,1,13,2,0,0,0
+2026-01-17,Championship,2025-26,Southampton,Hull,1,2,8,2,0,2,0,0,3,10,2,0,1,1
+2026-01-17,Championship,2025-26,Stoke,QPR,0,0,6,2,3,4,0,0,0,8,7,0,0,0
+2026-01-17,Championship,2025-26,Wrexham,Norwich,1,2,7,1,0,1,0,0,3,8,1,0,1,1
+2026-01-17,Championship,2025-26,Swansea,Birmingham,1,1,5,5,0,0,0,0,2,10,0,0,1,0
+2026-01-20,Championship,2025-26,West Brom,Norwich,0,5,10,2,3,1,0,0,5,12,4,0,0,1
+2026-01-20,Championship,2025-26,Wrexham,Leicester,1,1,3,1,1,2,0,0,2,4,3,0,1,0
+2026-01-20,Championship,2025-26,Swansea,Blackburn,3,1,4,3,2,3,0,0,4,7,5,0,1,1
+2026-01-20,Championship,2025-26,Sheffield Weds,Birmingham,0,2,3,11,2,1,0,0,2,14,3,0,0,0
+2026-01-20,Championship,2025-26,Coventry,Millwall,2,1,4,3,2,1,0,0,3,7,3,0,1,1
+2026-01-20,Championship,2025-26,Oxford,QPR,0,0,2,6,1,2,0,0,0,8,3,0,0,0
+2026-01-20,Championship,2025-26,Ipswich,Bristol City,2,0,9,2,1,6,0,0,2,11,7,0,0,0
+2026-01-20,Championship,2025-26,Charlton,Derby,1,2,4,0,0,2,0,1,3,4,2,1,1,1
+2026-01-20,Championship,2025-26,Preston,Hull,0,3,6,6,2,3,1,0,3,12,5,1,0,1
+2026-01-21,Championship,2025-26,Southampton,Sheffield United,1,0,6,7,3,1,0,0,1,13,4,0,0,0
+2026-01-21,Championship,2025-26,Watford,Portsmouth,1,1,8,7,1,1,0,0,2,15,2,0,1,0
+2026-01-21,Championship,2025-26,Stoke,Middlesbrough,1,2,5,4,1,1,1,0,3,9,2,1,1,1
+2026-01-23,Championship,2025-26,Derby,West Brom,1,1,1,6,2,3,0,0,2,7,5,0,1,0
+2026-01-24,Championship,2025-26,Sheffield United,Ipswich,3,1,4,5,0,4,1,0,4,9,4,1,1,1
+2026-01-24,Championship,2025-26,QPR,Wrexham,2,3,7,3,1,2,1,0,5,10,3,1,1,1
+2026-01-24,Championship,2025-26,Leicester,Oxford,1,2,12,4,0,3,0,0,3,16,3,0,1,1
+2026-01-24,Championship,2025-26,Hull,Swansea,2,1,6,7,3,2,0,0,3,13,5,0,1,1
+2026-01-24,Championship,2025-26,Bristol City,Sheffield Weds,2,0,9,7,0,0,0,0,2,16,0,0,0,0
+2026-01-24,Championship,2025-26,Birmingham,Stoke,1,1,6,6,1,1,0,0,2,12,2,0,1,0
+2026-01-24,Championship,2025-26,Millwall,Charlton,4,0,6,3,1,1,0,0,4,9,2,0,0,1
+2026-01-24,Championship,2025-26,Middlesbrough,Preston,4,0,8,3,0,2,0,1,4,11,2,1,0,1
+2026-01-24,Championship,2025-26,Blackburn,Watford,1,1,7,8,0,2,0,0,2,15,2,0,1,0
+2026-01-25,Championship,2025-26,Portsmouth,Southampton,1,1,4,2,2,1,0,0,2,6,3,0,1,0
+2026-01-26,Championship,2025-26,Norwich,Coventry,2,1,4,7,1,1,0,0,3,11,2,0,1,1
+2026-01-30,Championship,2025-26,Bristol City,Derby,0,5,4,1,1,1,0,0,5,5,2,0,0,1
+2026-01-31,Championship,2025-26,Millwall,Sheffield United,1,1,6,8,2,1,0,0,2,14,3,0,1,0
+2026-01-31,Championship,2025-26,QPR,Coventry,2,1,5,5,1,2,0,0,3,10,3,0,1,1
+2026-01-31,Championship,2025-26,Portsmouth,West Brom,3,0,3,3,0,2,0,0,3,6,2,0,0,1
+2026-01-31,Championship,2025-26,Oxford,Birmingham,0,2,4,4,2,2,0,0,2,8,4,0,0,0
+2026-01-31,Championship,2025-26,Watford,Swansea,0,2,5,8,1,2,1,0,2,13,3,1,0,0
+2026-01-31,Championship,2025-26,Ipswich,Preston,1,1,9,3,1,2,0,0,2,12,3,0,1,0
+2026-01-31,Championship,2025-26,Blackburn,Hull,0,1,8,4,2,0,0,0,1,12,2,0,0,0
+2026-01-31,Championship,2025-26,Stoke,Southampton,0,2,4,5,2,3,0,0,2,9,5,0,0,0
+2026-01-31,Championship,2025-26,Sheffield Weds,Wrexham,0,1,3,8,0,0,0,0,1,11,0,0,0,0
+2026-01-31,Championship,2025-26,Leicester,Charlton,0,2,6,2,0,2,1,0,2,8,2,1,0,0
+2026-01-31,Championship,2025-26,Middlesbrough,Norwich,1,0,3,5,2,2,0,0,1,8,4,0,0,0
+2026-02-03,Championship,2025-26,Blackburn,Sheffield Weds,1,0,8,2,4,2,0,0,1,10,6,0,0,0
+2026-02-03,Championship,2025-26,Hull,Watford,0,0,7,5,4,3,0,0,0,12,7,0,0,0
+2026-02-03,Championship,2025-26,Sheffield United,Oxford,3,1,10,2,3,4,0,0,4,12,7,0,1,1
+2026-02-06,Championship,2025-26,Charlton,QPR,0,0,7,5,2,1,0,0,0,12,3,0,0,0
+2026-02-07,Championship,2025-26,Wrexham,Millwall,0,2,5,4,1,3,0,0,2,9,4,0,0,0
+2026-02-07,Championship,2025-26,West Brom,Stoke,0,0,2,2,1,1,0,0,0,4,2,0,0,0
+2026-02-07,Championship,2025-26,Hull,Bristol City,2,3,2,4,2,0,0,0,5,6,2,0,1,1
+2026-02-07,Championship,2025-26,Coventry,Oxford,0,0,10,0,1,6,0,1,0,10,7,1,0,0
+2026-02-07,Championship,2025-26,Preston,Portsmouth,1,0,2,14,3,1,0,0,1,16,4,0,0,0
+2026-02-07,Championship,2025-26,Southampton,Watford,1,0,3,9,3,1,0,0,1,12,4,0,0,0
+2026-02-07,Championship,2025-26,Birmingham,Leicester,2,1,10,1,0,2,0,1,3,11,2,1,1,1
+2026-02-07,Championship,2025-26,Norwich,Blackburn,2,0,5,4,2,2,0,0,2,9,4,0,0,0
+2026-02-07,Championship,2025-26,Derby,Ipswich,1,2,3,7,1,4,1,0,3,10,5,1,1,1
+2026-02-08,Championship,2025-26,Swansea,Sheffield Weds,4,0,8,2,2,2,0,0,4,10,4,0,0,1
+2026-02-09,Championship,2025-26,Sheffield United,Middlesbrough,1,2,8,8,3,2,1,0,3,16,5,1,1,1
+2026-02-10,Championship,2025-26,Oxford,Norwich,0,3,2,4,1,1,0,0,3,6,2,0,0,1
+2026-02-10,Championship,2025-26,Birmingham,West Brom,0,0,11,3,1,5,0,0,0,14,6,0,0,0
+2026-02-10,Championship,2025-26,Leicester,Southampton,3,4,3,9,0,1,0,0,7,12,1,0,1,1
+2026-02-11,Championship,2025-26,Charlton,Stoke,1,0,6,5,2,4,0,0,1,11,6,0,0,0
+2026-02-14,Championship,2025-26,Derby,Swansea,2,0,6,2,2,2,0,0,2,8,4,0,0,0
+2026-02-14,Championship,2025-26,Portsmouth,Sheffield United,0,1,11,4,1,4,0,0,1,15,5,0,0,0
+2026-02-14,Championship,2025-26,Preston,Watford,2,2,9,7,1,1,0,0,4,16,2,0,1,1
+2026-02-14,Championship,2025-26,QPR,Blackburn,1,3,8,1,2,3,0,0,4,9,5,0,1,1
+2026-02-14,Championship,2025-26,Sheffield Weds,Millwall,1,2,3,11,3,2,0,0,3,14,5,0,1,1
+2026-02-16,Championship,2025-26,Coventry,Middlesbrough,3,1,3,2,3,2,0,0,4,5,5,0,1,1
+2026-02-17,Championship,2025-26,Charlton,Portsmouth,1,3,3,2,7,2,0,0,4,5,9,0,1,1
+2026-02-17,Championship,2025-26,Bristol City,Wrexham,2,2,3,2,2,3,0,0,4,5,5,0,1,1
+2026-02-20,Championship,2025-26,Blackburn,Preston,1,0,5,3,2,2,0,0,1,8,4,0,0,0
+2026-02-21,Championship,2025-26,Hull,QPR,1,3,8,4,3,1,0,0,4,12,4,0,1,1
+2026-02-21,Championship,2025-26,Stoke,Leicester,2,2,7,4,2,1,0,0,4,11,3,0,1,1
+2026-02-21,Championship,2025-26,Swansea,Bristol City,1,0,3,5,2,4,0,0,1,8,6,0,0,0
+2026-02-21,Championship,2025-26,West Brom,Coventry,0,2,3,2,0,3,0,0,2,5,3,0,0,0
+2026-02-21,Championship,2025-26,Middlesbrough,Oxford,0,0,9,5,3,1,0,0,0,14,4,0,0,0
+2026-02-21,Championship,2025-26,Millwall,Portsmouth,1,3,6,4,1,2,0,0,4,10,3,0,1,1
+2026-02-21,Championship,2025-26,Norwich,Birmingham,1,2,6,5,0,1,0,0,3,11,1,0,1,1
+2026-02-21,Championship,2025-26,Southampton,Charlton,1,1,10,1,2,1,0,0,2,11,3,0,1,0
+2026-02-21,Championship,2025-26,Watford,Derby,2,0,2,2,2,2,0,0,2,4,4,0,0,0
+2026-02-21,Championship,2025-26,Wrexham,Ipswich,5,3,5,2,5,4,0,0,8,7,9,0,1,1
+2026-02-22,Championship,2025-26,Sheffield United,Sheffield Weds,2,1,2,6,1,5,1,1,3,8,6,2,1,1
+2026-02-24,Championship,2025-26,Southampton,QPR,5,0,5,3,1,0,0,0,5,8,1,0,0,1
+2026-02-24,Championship,2025-26,Wrexham,Portsmouth,2,1,3,15,0,1,0,0,3,18,1,0,1,1
+2026-02-24,Championship,2025-26,West Brom,Charlton,1,1,7,0,2,3,0,0,2,7,5,0,1,0
+2026-02-24,Championship,2025-26,Watford,Ipswich,0,2,3,4,2,3,0,0,2,7,5,0,0,0
+2026-02-24,Championship,2025-26,Middlesbrough,Leicester,1,1,8,5,1,1,0,0,2,13,2,0,1,0
+2026-02-24,Championship,2025-26,Hull,Derby,4,2,7,3,2,2,0,0,6,10,4,0,1,1
+2026-02-24,Championship,2025-26,Blackburn,Bristol City,1,2,6,4,2,2,0,0,3,10,4,0,1,1
+2026-02-24,Championship,2025-26,Swansea,Preston,1,1,4,8,2,2,0,0,2,12,4,0,1,0
+2026-02-25,Championship,2025-26,Millwall,Birmingham,3,0,7,5,1,0,0,1,3,12,1,1,0,1
+2026-02-25,Championship,2025-26,Norwich,Sheffield Weds,2,0,3,4,0,0,0,0,2,7,0,0,0,0
+2026-02-25,Championship,2025-26,Sheffield United,Coventry,1,2,7,3,3,2,0,0,3,10,5,0,1,1
+2026-02-25,Championship,2025-26,Stoke,Oxford,2,1,8,7,2,1,0,0,3,15,3,0,1,1
+2026-02-27,Championship,2025-26,Bristol City,Watford,1,2,3,3,2,3,0,0,3,6,5,0,1,1
+2026-02-28,Championship,2025-26,Oxford,West Brom,2,1,5,6,0,2,0,0,3,11,2,0,1,1
+2026-02-28,Championship,2025-26,QPR,Sheffield United,0,2,7,4,2,2,0,0,2,11,4,0,0,0
+2026-02-28,Championship,2025-26,Sheffield Weds,Southampton,1,3,5,8,0,1,0,0,4,13,1,0,1,1
+2026-02-28,Championship,2025-26,Preston,Millwall,0,2,2,6,3,2,0,0,2,8,5,0,0,0
+2026-02-28,Championship,2025-26,Ipswich,Swansea,3,0,4,0,1,0,0,0,3,4,1,0,0,1
+2026-02-28,Championship,2025-26,Leicester,Norwich,0,2,6,7,2,2,0,0,2,13,4,0,0,0
+2026-02-28,Championship,2025-26,Charlton,Wrexham,0,1,4,2,2,1,0,0,1,6,3,0,0,0
+2026-02-28,Championship,2025-26,Portsmouth,Hull,0,1,11,2,0,3,0,0,1,13,3,0,0,0
+2026-02-28,Championship,2025-26,Derby,Blackburn,3,1,2,3,3,4,0,0,4,5,7,0,1,1
+2026-02-28,Championship,2025-26,Coventry,Stoke,2,1,7,1,1,1,0,0,3,8,2,0,1,1
+2026-03-02,Championship,2025-26,Birmingham,Middlesbrough,1,3,6,2,2,4,0,0,4,8,6,0,1,1
+2026-03-03,Championship,2025-26,Ipswich,Hull,1,0,6,4,2,4,0,0,1,10,6,0,0,0
+2026-03-06,Championship,2025-26,Preston,Oxford,1,3,9,5,1,1,0,0,4,14,2,0,1,1
+2026-03-07,Championship,2025-26,Swansea,Stoke,2,0,13,5,2,4,0,1,2,18,6,1,0,0
+2026-03-07,Championship,2025-26,Sheffield United,West Brom,1,1,5,7,2,1,0,0,2,12,3,0,1,0
+2026-03-07,Championship,2025-26,Ipswich,Leicester,1,1,10,2,3,3,0,0,2,12,6,0,1,0
+2026-03-07,Championship,2025-26,Derby,Sheffield Weds,2,1,6,2,1,1,0,0,3,8,2,0,1,1
+2026-03-07,Championship,2025-26,Bristol City,Coventry,0,2,11,3,2,2,1,1,2,14,4,2,0,0
+2026-03-07,Championship,2025-26,Hull,Millwall,1,3,5,2,2,4,0,0,4,7,6,0,1,1
+2026-03-07,Championship,2025-26,Blackburn,Portsmouth,1,1,4,5,2,0,0,0,2,9,2,0,1,0
+2026-03-07,Championship,2025-26,Charlton,Birmingham,1,0,3,3,0,1,0,0,1,6,1,0,0,0
+2026-03-08,Championship,2025-26,QPR,Middlesbrough,0,4,3,8,0,0,0,0,4,11,0,0,0,1
+2026-03-10,Championship,2025-26,Leicester,Bristol City,2,0,5,9,2,3,0,0,2,14,5,0,0,0
+2026-03-10,Championship,2025-26,Millwall,Derby,1,0,6,2,0,3,0,0,1,8,3,0,0,0
+2026-03-10,Championship,2025-26,Portsmouth,Swansea,1,2,6,0,1,2,0,0,3,6,3,0,1,1
+2026-03-10,Championship,2025-26,Sheffield Weds,Watford,1,1,5,5,3,3,0,0,2,10,6,0,1,0
+2026-03-10,Championship,2025-26,Wrexham,Hull,1,2,8,4,3,4,0,0,3,12,7,0,1,1
+2026-03-10,Championship,2025-26,Stoke,Ipswich,3,3,5,9,0,4,0,0,6,14,4,0,1,1
+2026-03-11,Championship,2025-26,Coventry,Preston,3,0,8,1,0,0,0,0,3,9,0,0,0,1
+2026-03-11,Championship,2025-26,Oxford,Blackburn,1,0,6,4,0,2,0,0,1,10,2,0,0,0
+2026-03-11,Championship,2025-26,West Brom,Southampton,1,1,5,3,2,2,0,0,2,8,4,0,1,0
+2026-03-11,Championship,2025-26,Middlesbrough,Charlton,0,1,11,2,0,2,0,0,1,13,2,0,0,0
+2026-03-11,Championship,2025-26,Birmingham,QPR,1,0,10,1,4,0,0,0,1,11,4,0,0,0
+2026-03-11,Championship,2025-26,Norwich,Sheffield United,2,1,11,4,2,2,0,0,3,15,4,0,1,1
+2026-03-13,Championship,2025-26,Wrexham,Swansea,2,0,5,5,0,2,0,0,2,10,2,0,0,0
+2026-03-14,Championship,2025-26,Coventry,Southampton,1,2,7,5,3,2,0,0,3,12,5,0,1,1
+2026-03-14,Championship,2025-26,Middlesbrough,Bristol City,1,1,9,4,1,5,0,0,2,13,6,0,1,0
+2026-03-14,Championship,2025-26,Oxford,Charlton,1,1,3,6,3,4,0,0,2,9,7,0,1,0
+2026-03-14,Championship,2025-26,Birmingham,Sheffield United,1,1,7,0,2,4,0,1,2,7,6,1,1,0
+2026-03-14,Championship,2025-26,Leicester,QPR,1,3,3,6,1,3,0,0,4,9,4,0,1,1
+2026-03-14,Championship,2025-26,Millwall,Blackburn,1,2,9,7,0,1,1,0,3,16,1,1,1,1
+2026-03-14,Championship,2025-26,Norwich,Preston,2,0,5,3,1,1,0,0,2,8,2,0,0,0
+2026-03-14,Championship,2025-26,Sheffield Weds,Ipswich,0,2,4,4,3,1,0,0,2,8,4,0,0,0
+2026-03-14,Championship,2025-26,Stoke,Watford,3,1,6,7,4,2,0,0,4,13,6,0,1,1
+2026-03-14,Championship,2025-26,West Brom,Hull,3,0,10,2,1,4,0,1,3,12,5,1,0,1
+2026-03-16,Championship,2025-26,Portsmouth,Derby,0,1,11,3,2,6,0,0,1,14,8,0,0,0
+2026-03-17,Championship,2025-26,Watford,Wrexham,3,1,4,5,2,0,0,0,4,9,2,0,1,1
+2026-03-18,Championship,2025-26,Southampton,Norwich,1,0,5,6,4,4,0,0,1,11,8,0,0,0
+2026-03-20,Championship,2025-26,Preston,Stoke,3,1,7,9,2,1,0,0,4,16,3,0,1,1
+2026-03-21,Championship,2025-26,Blackburn,Middlesbrough,0,0,3,11,0,2,0,0,0,14,2,0,0,0
+2026-03-21,Championship,2025-26,Derby,Birmingham,1,0,6,2,1,4,0,0,1,8,5,0,0,0
+2026-03-21,Championship,2025-26,Ipswich,Millwall,1,1,9,8,1,2,0,0,2,17,3,0,1,0
+2026-03-21,Championship,2025-26,Bristol City,West Brom,0,1,5,4,1,1,0,0,1,9,2,0,0,0
+2026-03-21,Championship,2025-26,Charlton,Norwich,0,1,7,7,2,2,0,0,1,14,4,0,0,0
+2026-03-21,Championship,2025-26,Hull,Sheffield Weds,3,1,4,4,3,1,0,0,4,8,4,0,1,1
+2026-03-21,Championship,2025-26,QPR,Portsmouth,6,1,1,9,4,2,0,0,7,10,6,0,1,1
+2026-03-21,Championship,2025-26,Sheffield United,Wrexham,1,2,8,5,1,3,0,0,3,13,4,0,1,1
+2026-03-21,Championship,2025-26,Southampton,Oxford,2,0,6,4,0,3,0,0,2,10,3,0,0,0
+2026-03-21,Championship,2025-26,Watford,Leicester,0,0,7,4,3,4,0,0,0,11,7,0,0,0
+2026-03-21,Championship,2025-26,Swansea,Coventry,0,3,2,7,3,1,0,0,3,9,4,0,0,1

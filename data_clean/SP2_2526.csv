@@ -1,0 +1,342 @@
+fecha,liga,temporada,equipo_local,equipo_visitante,goles_local,goles_visitante,corners_local,corners_visitante,amarillas_local,amarillas_visitante,rojas_local,rojas_visitante,total_goles,total_corners,total_amarillas,total_rojas,ambos_marcan,over_2_5
+2025-08-15,Segunda Division,2025-26,Burgos,Cultural Leonesa,5,1,3,3,1,1,0,1,6,6,2,1,1,1
+2025-08-15,Segunda Division,2025-26,Valladolid,Ceuta,3,0,6,4,3,2,0,0,3,10,5,0,0,1
+2025-08-16,Segunda Division,2025-26,Santander,Castellon,3,1,3,12,3,0,0,1,4,15,3,1,1,1
+2025-08-16,Segunda Division,2025-26,Malaga,Eibar,1,1,8,4,2,2,0,0,2,12,4,0,1,0
+2025-08-16,Segunda Division,2025-26,Granada,La Coruna,1,3,7,1,3,2,1,0,4,8,5,1,1,1
+2025-08-17,Segunda Division,2025-26,Huesca,Leganes,1,1,5,3,2,2,0,0,2,8,4,0,1,0
+2025-08-17,Segunda Division,2025-26,Las Palmas,Andorra,1,1,1,2,2,3,1,0,2,3,5,1,1,0
+2025-08-17,Segunda Division,2025-26,Sociedad B,Zaragoza,1,0,2,9,4,2,0,0,1,11,6,0,0,0
+2025-08-17,Segunda Division,2025-26,Cadiz,Mirandes,1,0,8,0,3,2,0,1,1,8,5,1,0,0
+2025-08-18,Segunda Division,2025-26,Sp Gijon,Cordoba,2,1,2,4,2,2,0,0,3,6,4,0,1,1
+2025-08-18,Segunda Division,2025-26,Almeria,Albacete,4,4,17,5,3,2,0,0,8,22,5,0,1,1
+2025-08-22,Segunda Division,2025-26,Eibar,Granada,3,0,6,3,2,4,0,1,3,9,6,1,0,1
+2025-08-22,Segunda Division,2025-26,Castellon,Valladolid,0,1,8,9,3,3,0,0,1,17,6,0,0,0
+2025-08-22,Segunda Division,2025-26,Leganes,Cadiz,1,1,7,5,2,1,0,0,2,12,3,0,1,0
+2025-08-23,Segunda Division,2025-26,Zaragoza,Andorra,1,3,6,5,1,2,1,0,4,11,3,1,1,1
+2025-08-23,Segunda Division,2025-26,Mirandes,Huesca,0,1,1,4,5,2,0,0,1,5,7,0,0,0
+2025-08-23,Segunda Division,2025-26,Ceuta,Sp Gijon,0,1,3,3,1,2,0,0,1,6,3,0,0,0
+2025-08-24,Segunda Division,2025-26,Cultural Leonesa,Almeria,0,1,3,5,1,2,0,0,1,8,3,0,0,0
+2025-08-24,Segunda Division,2025-26,Malaga,Sociedad B,1,0,6,2,2,2,0,0,1,8,4,0,0,0
+2025-08-24,Segunda Division,2025-26,La Coruna,Burgos,0,0,2,6,2,1,0,0,0,8,3,0,0,0
+2025-08-25,Segunda Division,2025-26,Albacete,Santander,2,3,2,10,1,3,0,0,5,12,4,0,1,1
+2025-08-25,Segunda Division,2025-26,Cordoba,Las Palmas,1,3,3,2,4,1,0,0,4,5,5,0,1,1
+2025-08-29,Segunda Division,2025-26,Sociedad B,Almeria,2,2,2,8,3,4,0,0,4,10,7,0,1,1
+2025-08-29,Segunda Division,2025-26,Sp Gijon,Cultural Leonesa,1,0,10,3,4,1,0,0,1,13,5,0,0,0
+2025-08-30,Segunda Division,2025-26,Santander,Ceuta,4,1,5,1,0,1,0,1,5,6,1,1,1,1
+2025-08-30,Segunda Division,2025-26,Valladolid,Cordoba,0,0,7,0,2,2,0,0,0,7,4,0,0,0
+2025-08-30,Segunda Division,2025-26,Castellon,Zaragoza,1,1,7,3,2,3,0,0,2,10,5,0,1,0
+2025-08-31,Segunda Division,2025-26,Las Palmas,Malaga,0,1,7,3,2,4,0,0,1,10,6,0,0,0
+2025-08-31,Segunda Division,2025-26,Granada,Mirandes,1,2,6,1,2,2,1,0,3,7,4,1,1,1
+2025-08-31,Segunda Division,2025-26,Cadiz,Albacete,2,1,7,4,4,3,0,1,3,11,7,1,1,1
+2025-08-31,Segunda Division,2025-26,Andorra,Burgos,2,1,5,4,1,2,0,0,3,9,3,0,1,1
+2025-09-01,Segunda Division,2025-26,Huesca,Eibar,2,1,5,6,2,1,0,1,3,11,3,1,1,1
+2025-09-01,Segunda Division,2025-26,Leganes,La Coruna,2,2,4,3,4,3,0,0,4,7,7,0,1,1
+2025-09-05,Segunda Division,2025-26,Albacete,Mirandes,1,4,5,2,2,1,1,0,5,7,3,1,1,1
+2025-09-05,Segunda Division,2025-26,Cordoba,Castellon,2,1,4,4,2,0,0,0,3,8,2,0,1,1
+2025-09-06,Segunda Division,2025-26,La Coruna,Sp Gijon,1,0,6,3,3,1,0,0,1,9,4,0,0,0
+2025-09-06,Segunda Division,2025-26,Zaragoza,Valladolid,1,1,1,7,5,4,0,0,2,8,9,0,1,0
+2025-09-06,Segunda Division,2025-26,Malaga,Granada,2,2,2,1,2,1,0,0,4,3,3,0,1,1
+2025-09-07,Segunda Division,2025-26,Cultural Leonesa,Leganes,0,0,9,3,0,2,0,0,0,12,2,0,0,0
+2025-09-07,Segunda Division,2025-26,Sociedad B,Cadiz,3,3,1,5,4,3,0,0,6,6,7,0,1,1
+2025-09-07,Segunda Division,2025-26,Almeria,Santander,2,3,5,3,3,3,1,0,5,8,6,1,1,1
+2025-09-07,Segunda Division,2025-26,Burgos,Las Palmas,0,0,2,6,2,2,0,0,0,8,4,0,0,0
+2025-09-07,Segunda Division,2025-26,Ceuta,Huesca,2,1,8,0,1,2,0,1,3,8,3,1,1,1
+2025-09-08,Segunda Division,2025-26,Eibar,Andorra,2,0,10,5,3,4,0,0,2,15,7,0,0,0
+2025-09-12,Segunda Division,2025-26,Las Palmas,Sociedad B,2,1,4,2,1,6,0,0,3,6,7,0,1,1
+2025-09-13,Segunda Division,2025-26,Cadiz,Eibar,1,0,5,4,2,2,0,0,1,9,4,0,0,0
+2025-09-13,Segunda Division,2025-26,Mirandes,La Coruna,1,5,1,6,2,3,0,0,6,7,5,0,1,1
+2025-09-13,Segunda Division,2025-26,Huesca,Malaga,1,0,4,3,4,2,0,0,1,7,6,0,0,0
+2025-09-13,Segunda Division,2025-26,Valladolid,Almeria,3,1,8,3,5,5,0,0,4,11,10,0,1,1
+2025-09-14,Segunda Division,2025-26,Granada,Leganes,0,2,5,1,2,3,0,0,2,6,5,0,0,0
+2025-09-14,Segunda Division,2025-26,Sp Gijon,Burgos,2,3,8,4,1,2,0,0,5,12,3,0,1,1
+2025-09-14,Segunda Division,2025-26,Castellon,Ceuta,3,3,10,6,3,5,0,1,6,16,8,1,1,1
+2025-09-14,Segunda Division,2025-26,Santander,Cultural Leonesa,2,4,11,1,0,2,0,0,6,12,2,0,1,1
+2025-09-14,Segunda Division,2025-26,Andorra,Cordoba,3,1,3,7,2,4,0,0,4,10,6,0,1,1
+2025-09-15,Segunda Division,2025-26,Zaragoza,Albacete,0,0,3,6,1,3,0,0,0,9,4,0,0,0
+2025-09-19,Segunda Division,2025-26,La Coruna,Huesca,4,0,6,3,1,2,0,0,4,9,3,0,0,1
+2025-09-20,Segunda Division,2025-26,Cultural Leonesa,Castellon,1,3,1,4,2,6,1,0,4,5,8,1,1,1
+2025-09-20,Segunda Division,2025-26,Andorra,Mirandes,1,1,8,4,2,5,0,0,2,12,7,0,1,0
+2025-09-20,Segunda Division,2025-26,Leganes,Las Palmas,0,1,2,4,7,5,1,0,1,6,12,1,0,0
+2025-09-20,Segunda Division,2025-26,Almeria,Sp Gijon,2,1,6,1,4,8,0,2,3,7,12,2,1,1
+2025-09-21,Segunda Division,2025-26,Cordoba,Santander,2,2,12,1,2,3,1,0,4,13,5,1,1,1
+2025-09-21,Segunda Division,2025-26,Malaga,Cadiz,0,1,5,2,1,2,0,0,1,7,3,0,0,0
+2025-09-21,Segunda Division,2025-26,Eibar,Sociedad B,2,1,2,3,2,2,0,0,3,5,4,0,1,1
+2025-09-21,Segunda Division,2025-26,Albacete,Valladolid,2,0,2,6,3,3,0,0,2,8,6,0,0,0
+2025-09-21,Segunda Division,2025-26,Ceuta,Zaragoza,1,0,6,5,5,2,0,0,1,11,7,0,0,0
+2025-09-22,Segunda Division,2025-26,Burgos,Granada,1,1,6,1,1,3,0,0,2,7,4,0,1,0
+2025-09-26,Segunda Division,2025-26,Mirandes,Zaragoza,0,1,4,2,3,4,0,0,1,6,7,0,0,0
+2025-09-27,Segunda Division,2025-26,Eibar,La Coruna,1,1,6,2,4,5,0,0,2,8,9,0,1,0
+2025-09-27,Segunda Division,2025-26,Santander,Andorra,1,2,15,3,3,3,0,0,3,18,6,0,1,1
+2025-09-27,Segunda Division,2025-26,Las Palmas,Almeria,0,1,5,1,2,4,1,1,1,6,6,2,0,0
+2025-09-28,Segunda Division,2025-26,Huesca,Granada,0,1,13,2,1,1,0,0,1,15,2,0,0,0
+2025-09-28,Segunda Division,2025-26,Valladolid,Cultural Leonesa,0,1,2,2,3,3,0,0,1,4,6,0,0,0
+2025-09-28,Segunda Division,2025-26,Sp Gijon,Albacete,3,4,2,8,1,2,0,0,7,10,3,0,1,1
+2025-09-28,Segunda Division,2025-26,Cadiz,Ceuta,0,0,1,1,2,2,0,0,0,2,4,0,0,0
+2025-09-28,Segunda Division,2025-26,Burgos,Malaga,2,1,0,3,5,4,0,1,3,3,9,1,1,1
+2025-09-28,Segunda Division,2025-26,Sociedad B,Cordoba,1,1,8,5,4,5,0,0,2,13,9,0,1,0
+2025-09-29,Segunda Division,2025-26,Leganes,Castellon,0,1,6,2,4,2,0,0,1,8,6,0,0,0
+2025-10-03,Segunda Division,2025-26,Ceuta,Eibar,1,0,7,3,4,1,0,1,1,10,5,1,0,0
+2025-10-04,Segunda Division,2025-26,La Coruna,Almeria,1,1,4,2,4,3,0,0,2,6,7,0,1,0
+2025-10-04,Segunda Division,2025-26,Andorra,Leganes,1,2,7,1,2,3,1,0,3,8,5,1,1,1
+2025-10-04,Segunda Division,2025-26,Huesca,Burgos,2,1,1,1,2,3,0,0,3,2,5,0,1,1
+2025-10-04,Segunda Division,2025-26,Granada,Sociedad B,5,2,2,5,2,4,0,0,7,7,6,0,1,1
+2025-10-05,Segunda Division,2025-26,Las Palmas,Cadiz,1,0,6,5,1,4,0,0,1,11,5,0,0,0
+2025-10-05,Segunda Division,2025-26,Valladolid,Mirandes,1,1,14,2,0,1,0,0,2,16,1,0,1,0
+2025-10-05,Segunda Division,2025-26,Castellon,Sp Gijon,3,1,3,1,3,6,0,0,4,4,9,0,1,1
+2025-10-05,Segunda Division,2025-26,Zaragoza,Cordoba,0,1,7,4,6,5,1,0,1,11,11,1,0,0
+2025-10-05,Segunda Division,2025-26,Santander,Malaga,3,0,11,3,2,0,0,1,3,14,2,1,0,1
+2025-10-06,Segunda Division,2025-26,Cultural Leonesa,Albacete,0,0,6,1,1,1,0,1,0,7,2,1,0,0
+2025-10-10,Segunda Division,2025-26,Granada,Las Palmas,0,0,7,7,1,1,0,0,0,14,2,0,0,0
+2025-10-11,Segunda Division,2025-26,Mirandes,Leganes,0,0,3,10,6,1,0,0,0,13,7,0,0,0
+2025-10-11,Segunda Division,2025-26,Almeria,Zaragoza,4,2,7,5,2,2,0,0,6,12,4,0,1,1
+2025-10-11,Segunda Division,2025-26,Sociedad B,Andorra,3,0,2,4,4,2,0,1,3,6,6,1,0,1
+2025-10-12,Segunda Division,2025-26,Sp Gijon,Santander,2,1,4,6,1,5,1,1,3,10,6,2,1,1
+2025-10-12,Segunda Division,2025-26,Malaga,La Coruna,3,0,1,9,1,3,0,0,3,10,4,0,0,1
+2025-10-12,Segunda Division,2025-26,Cadiz,Huesca,1,0,13,2,2,3,0,0,1,15,5,0,0,0
+2025-10-12,Segunda Division,2025-26,Eibar,Castellon,0,0,1,7,1,4,0,0,0,8,5,0,0,0
+2025-10-12,Segunda Division,2025-26,Albacete,Ceuta,0,0,6,3,1,3,0,0,0,9,4,0,0,0
+2025-10-12,Segunda Division,2025-26,Burgos,Valladolid,0,1,2,2,6,7,0,0,1,4,13,0,0,0
+2025-10-13,Segunda Division,2025-26,Cordoba,Cultural Leonesa,1,0,4,6,4,2,0,0,1,10,6,0,0,0
+2025-10-17,Segunda Division,2025-26,Andorra,Granada,0,0,5,3,4,2,0,0,0,8,6,0,0,0
+2025-10-18,Segunda Division,2025-26,Ceuta,Mirandes,2,0,5,5,2,1,0,0,2,10,3,0,0,0
+2025-10-18,Segunda Division,2025-26,Zaragoza,Cultural Leonesa,0,5,3,5,5,2,2,0,5,8,7,2,0,1
+2025-10-19,Segunda Division,2025-26,Santander,La Coruna,2,1,6,6,3,1,0,0,3,12,4,0,1,1
+2025-10-19,Segunda Division,2025-26,Las Palmas,Eibar,3,1,1,5,2,1,0,0,4,6,3,0,1,1
+2025-10-19,Segunda Division,2025-26,Cordoba,Almeria,1,1,3,2,2,2,0,0,2,5,4,0,1,0
+2025-10-19,Segunda Division,2025-26,Valladolid,Sp Gijon,2,3,5,1,0,3,0,0,5,6,3,0,1,1
+2025-10-19,Segunda Division,2025-26,Castellon,Albacete,0,1,9,3,5,3,2,1,1,12,8,3,0,0
+2025-10-19,Segunda Division,2025-26,Leganes,Malaga,2,0,7,5,1,0,0,0,2,12,1,0,0,0
+2025-10-20,Segunda Division,2025-26,Cadiz,Burgos,1,3,1,4,3,4,0,0,4,5,7,0,1,1
+2025-10-24,Segunda Division,2025-26,Huesca,Las Palmas,1,1,5,4,3,1,0,0,2,9,4,0,1,0
+2025-10-25,Segunda Division,2025-26,Granada,Cadiz,0,0,8,4,1,2,0,0,0,12,3,0,0,0
+2025-10-25,Segunda Division,2025-26,Burgos,Sociedad B,1,0,6,3,4,3,0,0,1,9,7,0,0,0
+2025-10-25,Segunda Division,2025-26,Mirandes,Santander,1,3,5,4,5,2,0,0,4,9,7,0,1,1
+2025-10-25,Segunda Division,2025-26,Albacete,Cordoba,1,3,9,4,0,0,0,0,4,13,0,0,1,1
+2025-10-25,Segunda Division,2025-26,Cultural Leonesa,Ceuta,0,1,8,2,3,1,0,0,1,10,4,0,0,0
+2025-10-25,Segunda Division,2025-26,Eibar,Leganes,0,0,7,2,2,5,0,0,0,9,7,0,0,0
+2025-10-26,Segunda Division,2025-26,Malaga,Andorra,4,1,2,7,2,3,1,0,5,9,5,1,1,1
+2025-10-26,Segunda Division,2025-26,Almeria,Castellon,1,0,6,3,1,2,0,0,1,9,3,0,0,0
+2025-10-26,Segunda Division,2025-26,Sp Gijon,Zaragoza,1,0,2,16,1,1,1,0,1,18,2,1,0,0
+2025-10-26,Segunda Division,2025-26,La Coruna,Valladolid,1,1,4,5,3,3,0,1,2,9,6,1,1,0
+2025-10-31,Segunda Division,2025-26,Santander,Sociedad B,1,0,5,8,5,1,0,0,1,13,6,0,0,0
+2025-11-01,Segunda Division,2025-26,Leganes,Burgos,1,2,9,4,3,3,0,0,3,13,6,0,1,1
+2025-11-01,Segunda Division,2025-26,Cultural Leonesa,Mirandes,3,2,6,2,0,3,0,0,5,8,3,0,1,1
+2025-11-01,Segunda Division,2025-26,Albacete,Huesca,2,1,7,7,3,0,0,0,3,14,3,0,1,1
+2025-11-01,Segunda Division,2025-26,Almeria,Eibar,3,1,3,7,2,3,0,0,4,10,5,0,1,1
+2025-11-02,Segunda Division,2025-26,Cordoba,Ceuta,2,0,4,5,2,4,0,0,2,9,6,0,0,0
+2025-11-02,Segunda Division,2025-26,Zaragoza,La Coruna,0,2,2,8,1,1,0,0,2,10,2,0,0,0
+2025-11-02,Segunda Division,2025-26,Castellon,Malaga,2,1,7,4,6,3,1,0,3,11,9,1,1,1
+2025-11-02,Segunda Division,2025-26,Andorra,Cadiz,0,0,9,3,3,2,0,0,0,12,5,0,0,0
+2025-11-02,Segunda Division,2025-26,Sp Gijon,Las Palmas,0,0,2,3,2,2,0,0,0,5,4,0,0,0
+2025-11-03,Segunda Division,2025-26,Valladolid,Granada,2,1,3,2,3,4,0,1,3,5,7,1,1,1
+2025-11-05,Segunda Division,2025-26,Sociedad B,Huesca,2,0,3,6,2,3,0,0,2,9,5,0,0,0
+2025-11-07,Segunda Division,2025-26,Mirandes,Sp Gijon,2,1,4,4,4,2,0,0,3,8,6,0,1,1
+2025-11-08,Segunda Division,2025-26,Malaga,Cordoba,2,2,2,2,3,3,0,1,4,4,6,1,1,1
+2025-11-08,Segunda Division,2025-26,Sociedad B,Leganes,2,1,2,6,4,6,0,1,3,8,10,1,1,1
+2025-11-08,Segunda Division,2025-26,Eibar,Albacete,3,2,4,3,1,3,0,0,5,7,4,0,1,1
+2025-11-08,Segunda Division,2025-26,Huesca,Andorra,2,2,1,3,1,5,0,0,4,4,6,0,1,1
+2025-11-08,Segunda Division,2025-26,La Coruna,Cultural Leonesa,3,0,1,1,1,0,0,0,3,2,1,0,0,1
+2025-11-09,Segunda Division,2025-26,Cadiz,Valladolid,0,0,2,4,6,1,0,0,0,6,7,0,0,0
+2025-11-09,Segunda Division,2025-26,Las Palmas,Santander,3,1,5,5,5,1,1,0,4,10,6,1,1,1
+2025-11-09,Segunda Division,2025-26,Granada,Zaragoza,3,1,6,5,0,4,0,0,4,11,4,0,1,1
+2025-11-10,Segunda Division,2025-26,Burgos,Castellon,0,0,5,6,2,2,0,0,0,11,4,0,0,0
+2025-11-14,Segunda Division,2025-26,Valladolid,Las Palmas,0,1,10,1,3,2,0,0,1,11,5,0,0,0
+2025-11-15,Segunda Division,2025-26,Castellon,Sociedad B,5,4,14,1,3,1,0,0,9,15,4,0,1,1
+2025-11-15,Segunda Division,2025-26,Albacete,Andorra,1,0,4,2,1,1,0,0,1,6,2,0,0,0
+2025-11-15,Segunda Division,2025-26,Santander,Granada,2,2,7,4,5,5,0,0,4,11,10,0,1,1
+2025-11-16,Segunda Division,2025-26,Almeria,Cadiz,3,0,13,5,3,0,0,0,3,18,3,0,0,1
+2025-11-16,Segunda Division,2025-26,Zaragoza,Huesca,1,0,5,3,4,1,1,0,1,8,5,1,0,0
+2025-11-16,Segunda Division,2025-26,Mirandes,Burgos,0,2,7,4,4,1,0,0,2,11,5,0,0,0
+2025-11-16,Segunda Division,2025-26,Ceuta,Leganes,1,2,6,3,2,2,0,0,3,9,4,0,1,1
+2025-11-16,Segunda Division,2025-26,Sp Gijon,Eibar,1,1,10,3,3,5,0,0,2,13,8,0,1,0
+2025-11-16,Segunda Division,2025-26,Cordoba,La Coruna,1,3,6,5,5,5,1,0,4,11,10,1,1,1
+2025-11-17,Segunda Division,2025-26,Cultural Leonesa,Malaga,1,0,1,9,0,2,0,1,1,10,2,1,0,0
+2025-11-21,Segunda Division,2025-26,Las Palmas,Albacete,2,1,5,3,1,5,0,0,3,8,6,0,1,1
+2025-11-22,Segunda Division,2025-26,Andorra,Castellon,1,3,2,4,2,2,0,0,4,6,4,0,1,1
+2025-11-22,Segunda Division,2025-26,Eibar,Zaragoza,1,2,7,0,6,4,0,1,3,7,10,1,1,1
+2025-11-22,Segunda Division,2025-26,Leganes,Almeria,0,3,5,0,1,4,0,0,3,5,5,0,0,1
+2025-11-22,Segunda Division,2025-26,Granada,Cordoba,1,1,7,8,3,5,0,0,2,15,8,0,1,0
+2025-11-23,Segunda Division,2025-26,Malaga,Mirandes,3,2,2,1,1,3,0,0,5,3,4,0,1,1
+2025-11-23,Segunda Division,2025-26,La Coruna,Ceuta,2,1,4,4,3,0,0,0,3,8,3,0,1,1
+2025-11-23,Segunda Division,2025-26,Cadiz,Cultural Leonesa,1,2,11,6,1,1,0,0,3,17,2,0,1,1
+2025-11-23,Segunda Division,2025-26,Huesca,Sp Gijon,2,0,7,5,0,1,0,0,2,12,1,0,0,0
+2025-11-23,Segunda Division,2025-26,Burgos,Santander,0,2,6,3,4,5,0,0,2,9,9,0,0,0
+2025-11-24,Segunda Division,2025-26,Sociedad B,Valladolid,1,0,4,9,3,3,0,0,1,13,6,0,0,0
+2025-11-26,Segunda Division,2025-26,Ceuta,Almeria,3,2,2,2,3,5,0,0,5,4,8,0,1,1
+2025-11-28,Segunda Division,2025-26,Sp Gijon,Andorra,1,1,8,5,3,3,0,0,2,13,6,0,1,0
+2025-11-29,Segunda Division,2025-26,Almeria,Huesca,0,0,13,1,1,0,0,0,0,14,1,0,0,0
+2025-11-29,Segunda Division,2025-26,Albacete,La Coruna,0,2,9,5,1,1,0,0,2,14,2,0,0,0
+2025-11-29,Segunda Division,2025-26,Valladolid,Malaga,1,1,7,2,5,2,1,0,2,9,7,1,1,0
+2025-11-29,Segunda Division,2025-26,Ceuta,Burgos,1,0,10,7,5,3,0,0,1,17,8,0,0,0
+2025-11-29,Segunda Division,2025-26,Cultural Leonesa,Granada,0,1,4,4,2,3,0,0,1,8,5,0,0,0
+2025-11-30,Segunda Division,2025-26,Zaragoza,Leganes,3,2,5,3,2,4,0,2,5,8,6,2,1,1
+2025-11-30,Segunda Division,2025-26,Santander,Eibar,4,0,3,5,0,3,0,0,4,8,3,0,0,1
+2025-11-30,Segunda Division,2025-26,Cordoba,Cadiz,1,2,5,4,2,4,0,0,3,9,6,0,1,1
+2025-11-30,Segunda Division,2025-26,Mirandes,Sociedad B,1,0,2,3,3,2,0,1,1,5,5,1,0,0
+2025-11-30,Segunda Division,2025-26,Castellon,Las Palmas,1,0,3,3,3,2,0,0,1,6,5,0,0,0
+2025-12-06,Segunda Division,2025-26,Andorra,Almeria,1,2,10,4,1,2,0,0,3,14,3,0,1,1
+2025-12-06,Segunda Division,2025-26,Huesca,Valladolid,1,4,6,5,2,4,0,0,5,11,6,0,1,1
+2025-12-06,Segunda Division,2025-26,Sociedad B,Sp Gijon,0,1,4,6,2,7,0,0,1,10,9,0,0,0
+2025-12-07,Segunda Division,2025-26,Granada,Ceuta,1,1,5,2,2,2,0,0,2,7,4,0,1,0
+2025-12-07,Segunda Division,2025-26,La Coruna,Castellon,1,3,3,9,3,6,1,0,4,12,9,1,1,1
+2025-12-07,Segunda Division,2025-26,Leganes,Cordoba,0,0,4,5,3,1,0,0,0,9,4,0,0,0
+2025-12-07,Segunda Division,2025-26,Cadiz,Santander,2,3,5,7,6,4,0,0,5,12,10,0,1,1
+2025-12-07,Segunda Division,2025-26,Eibar,Cultural Leonesa,1,2,8,4,2,3,0,0,3,12,5,0,1,1
+2025-12-08,Segunda Division,2025-26,Burgos,Albacete,0,1,5,5,3,1,0,0,1,10,4,0,0,0
+2025-12-08,Segunda Division,2025-26,Las Palmas,Mirandes,0,0,2,3,1,3,1,0,0,5,4,1,0,0
+2025-12-08,Segunda Division,2025-26,Malaga,Zaragoza,1,1,8,4,4,4,0,1,2,12,8,1,1,0
+2025-12-12,Segunda Division,2025-26,Cultural Leonesa,Huesca,0,2,5,7,0,3,0,0,2,12,3,0,0,0
+2025-12-13,Segunda Division,2025-26,Zaragoza,Cadiz,1,2,8,4,3,5,0,0,3,12,8,0,1,1
+2025-12-13,Segunda Division,2025-26,La Coruna,Sociedad B,0,3,6,3,0,4,0,0,3,9,4,0,0,1
+2025-12-13,Segunda Division,2025-26,Santander,Leganes,1,1,7,7,4,3,0,0,2,14,7,0,1,0
+2025-12-13,Segunda Division,2025-26,Valladolid,Andorra,0,1,8,6,3,2,0,0,1,14,5,0,0,0
+2025-12-13,Segunda Division,2025-26,Sp Gijon,Granada,1,0,6,1,2,2,0,0,1,7,4,0,0,0
+2025-12-13,Segunda Division,2025-26,Cordoba,Eibar,0,0,5,0,5,3,0,0,0,5,8,0,0,0
+2025-12-14,Segunda Division,2025-26,Albacete,Malaga,1,3,6,5,3,1,0,0,4,11,4,0,1,1
+2025-12-14,Segunda Division,2025-26,Almeria,Burgos,1,2,3,1,3,3,0,0,3,4,6,0,1,1
+2025-12-14,Segunda Division,2025-26,Ceuta,Las Palmas,1,1,2,5,2,2,0,0,2,7,4,0,1,0
+2025-12-15,Segunda Division,2025-26,Castellon,Mirandes,3,1,5,4,4,2,0,0,4,9,6,0,1,1
+2025-12-19,Segunda Division,2025-26,Eibar,Valladolid,3,0,3,4,3,4,0,0,3,7,7,0,0,1
+2025-12-20,Segunda Division,2025-26,Las Palmas,Cultural Leonesa,4,0,4,4,1,2,0,0,4,8,3,0,0,1
+2025-12-20,Segunda Division,2025-26,Leganes,Sp Gijon,0,1,6,7,2,3,0,0,1,13,5,0,0,0
+2025-12-20,Segunda Division,2025-26,Andorra,La Coruna,1,0,1,4,3,4,0,0,1,5,7,0,0,0
+2025-12-20,Segunda Division,2025-26,Huesca,Santander,1,1,8,3,5,2,0,0,2,11,7,0,1,0
+2025-12-21,Segunda Division,2025-26,Malaga,Almeria,2,1,1,2,5,4,0,0,3,3,9,0,1,1
+2025-12-21,Segunda Division,2025-26,Mirandes,Cordoba,1,2,10,8,2,3,1,0,3,18,5,1,1,1
+2025-12-21,Segunda Division,2025-26,Sociedad B,Ceuta,1,3,3,6,5,5,0,0,4,9,10,0,1,1
+2025-12-21,Segunda Division,2025-26,Burgos,Zaragoza,1,1,5,7,1,3,0,0,2,12,4,0,1,0
+2025-12-21,Segunda Division,2025-26,Granada,Albacete,1,1,6,5,4,3,0,0,2,11,7,0,1,0
+2025-12-21,Segunda Division,2025-26,Cadiz,Castellon,2,0,6,12,4,2,0,0,2,18,6,0,0,0
+2026-01-02,Segunda Division,2025-26,Eibar,Mirandes,2,1,5,3,2,3,1,1,3,8,5,2,1,1
+2026-01-03,Segunda Division,2025-26,Valladolid,Santander,1,1,4,0,8,2,1,0,2,4,10,1,1,0
+2026-01-03,Segunda Division,2025-26,Cordoba,Burgos,2,0,6,6,0,1,0,0,2,12,1,0,0,0
+2026-01-03,Segunda Division,2025-26,Castellon,Huesca,4,1,1,3,2,2,1,0,5,4,4,1,1,1
+2026-01-03,Segunda Division,2025-26,Cultural Leonesa,Sociedad B,1,1,1,7,3,5,0,0,2,8,8,0,1,0
+2026-01-03,Segunda Division,2025-26,Almeria,Granada,3,2,5,7,4,5,0,0,5,12,9,0,1,1
+2026-01-04,Segunda Division,2025-26,Sp Gijon,Malaga,1,3,5,5,2,4,1,0,4,10,6,1,1,1
+2026-01-04,Segunda Division,2025-26,Ceuta,Andorra,2,1,4,8,2,2,0,0,3,12,4,0,1,1
+2026-01-04,Segunda Division,2025-26,Albacete,Leganes,1,3,5,5,1,3,0,0,4,10,4,0,1,1
+2026-01-04,Segunda Division,2025-26,Zaragoza,Las Palmas,1,2,1,3,3,2,0,0,3,4,5,0,1,1
+2026-01-04,Segunda Division,2025-26,La Coruna,Cadiz,2,2,8,4,4,3,0,0,4,12,7,0,1,1
+2026-01-09,Segunda Division,2025-26,Cadiz,Sp Gijon,3,2,5,15,4,1,0,0,5,20,5,0,1,1
+2026-01-10,Segunda Division,2025-26,Santander,Zaragoza,2,3,13,3,3,4,0,1,5,16,7,1,1,1
+2026-01-10,Segunda Division,2025-26,Las Palmas,La Coruna,1,1,7,3,2,2,0,0,2,10,4,0,1,0
+2026-01-10,Segunda Division,2025-26,Burgos,Eibar,1,0,2,3,0,0,0,0,1,5,0,0,0,0
+2026-01-10,Segunda Division,2025-26,Andorra,Cultural Leonesa,1,1,10,1,1,3,0,0,2,11,4,0,1,0
+2026-01-10,Segunda Division,2025-26,Mirandes,Almeria,2,2,4,7,4,2,0,0,4,11,6,0,1,1
+2026-01-10,Segunda Division,2025-26,Sociedad B,Albacete,0,0,2,8,4,1,0,0,0,10,5,0,0,0
+2026-01-11,Segunda Division,2025-26,Leganes,Valladolid,3,0,4,8,4,2,0,0,3,12,6,0,0,1
+2026-01-11,Segunda Division,2025-26,Granada,Castellon,0,0,6,6,0,0,0,0,0,12,0,0,0,0
+2026-01-11,Segunda Division,2025-26,Malaga,Ceuta,2,1,6,6,4,2,0,0,3,12,6,0,1,1
+2026-01-12,Segunda Division,2025-26,Huesca,Cordoba,1,2,5,7,8,2,1,0,3,12,10,1,1,1
+2026-01-16,Segunda Division,2025-26,Castellon,Leganes,2,0,2,2,3,1,0,0,2,4,4,0,0,0
+2026-01-17,Segunda Division,2025-26,Almeria,La Coruna,1,2,2,2,4,3,0,0,3,4,7,0,1,1
+2026-01-17,Segunda Division,2025-26,Zaragoza,Sociedad B,1,1,3,4,3,2,0,0,2,7,5,0,1,0
+2026-01-17,Segunda Division,2025-26,Ceuta,Valladolid,0,3,8,3,0,1,0,0,3,11,1,0,0,1
+2026-01-17,Segunda Division,2025-26,Cultural Leonesa,Sp Gijon,2,4,8,1,1,2,0,0,6,9,3,0,1,1
+2026-01-18,Segunda Division,2025-26,Mirandes,Andorra,1,2,7,1,2,4,0,0,3,8,6,0,1,1
+2026-01-18,Segunda Division,2025-26,Santander,Las Palmas,4,1,4,2,2,4,0,0,5,6,6,0,1,1
+2026-01-18,Segunda Division,2025-26,Albacete,Cadiz,1,0,6,6,2,1,0,0,1,12,3,0,0,0
+2026-01-18,Segunda Division,2025-26,Burgos,Huesca,1,0,4,5,4,1,1,0,1,9,5,1,0,0
+2026-01-18,Segunda Division,2025-26,Cordoba,Malaga,0,1,8,4,1,1,0,0,1,12,2,0,0,0
+2026-01-19,Segunda Division,2025-26,Granada,Eibar,0,0,6,2,2,5,0,0,0,8,7,0,0,0
+2026-01-23,Segunda Division,2025-26,Malaga,Burgos,3,0,1,3,3,5,0,0,3,4,8,0,0,1
+2026-01-24,Segunda Division,2025-26,Cadiz,Granada,1,2,8,2,2,0,1,0,3,10,2,1,1,1
+2026-01-24,Segunda Division,2025-26,Sp Gijon,Mirandes,3,0,6,6,1,5,0,1,3,12,6,1,0,1
+2026-01-24,Segunda Division,2025-26,Leganes,Sociedad B,2,0,6,3,2,1,0,0,2,9,3,0,0,0
+2026-01-24,Segunda Division,2025-26,Valladolid,Albacete,0,1,5,9,4,2,1,0,1,14,6,1,0,0
+2026-01-24,Segunda Division,2025-26,Las Palmas,Cordoba,1,2,3,5,4,4,1,0,3,8,8,1,1,1
+2026-01-25,Segunda Division,2025-26,Andorra,Huesca,1,1,3,1,2,4,0,0,2,4,6,0,1,0
+2026-01-25,Segunda Division,2025-26,Eibar,Almeria,1,0,6,1,1,1,0,0,1,7,2,0,0,0
+2026-01-25,Segunda Division,2025-26,Zaragoza,Castellon,0,0,3,13,3,4,1,0,0,16,7,1,0,0
+2026-01-25,Segunda Division,2025-26,La Coruna,Santander,0,1,7,5,3,4,0,1,1,12,7,1,0,0
+2026-01-26,Segunda Division,2025-26,Ceuta,Cultural Leonesa,3,1,5,8,4,2,0,1,4,13,6,1,1,1
+2026-01-30,Segunda Division,2025-26,Sociedad B,Las Palmas,1,1,3,3,2,1,0,0,2,6,3,0,1,0
+2026-01-31,Segunda Division,2025-26,Cordoba,Valladolid,3,1,5,1,3,2,0,1,4,6,5,1,1,1
+2026-01-31,Segunda Division,2025-26,Cultural Leonesa,La Coruna,0,1,4,7,4,2,0,0,1,11,6,0,0,0
+2026-01-31,Segunda Division,2025-26,Albacete,Zaragoza,2,0,6,4,2,3,0,0,2,10,5,0,0,0
+2026-01-31,Segunda Division,2025-26,Burgos,Leganes,2,1,1,5,4,2,0,0,3,6,6,0,1,1
+2026-02-01,Segunda Division,2025-26,Almeria,Ceuta,4,2,5,2,2,3,0,0,6,7,5,0,1,1
+2026-02-01,Segunda Division,2025-26,Eibar,Sp Gijon,1,0,8,3,3,2,0,1,1,11,5,1,0,0
+2026-02-01,Segunda Division,2025-26,Castellon,Andorra,2,0,6,6,3,4,0,0,2,12,7,0,0,0
+2026-02-01,Segunda Division,2025-26,Huesca,Cadiz,1,0,5,4,3,3,0,1,1,9,6,1,0,0
+2026-02-01,Segunda Division,2025-26,Granada,Santander,1,0,5,4,5,4,0,0,1,9,9,0,0,0
+2026-02-02,Segunda Division,2025-26,Mirandes,Malaga,2,1,7,6,4,3,0,0,3,13,7,0,1,1
+2026-02-06,Segunda Division,2025-26,Leganes,Granada,1,0,3,5,1,2,0,1,1,8,3,1,0,0
+2026-02-07,Segunda Division,2025-26,Las Palmas,Burgos,0,0,8,2,5,3,0,0,0,10,8,0,0,0
+2026-02-07,Segunda Division,2025-26,Zaragoza,Eibar,1,1,5,7,1,4,1,0,2,12,5,1,1,0
+2026-02-07,Segunda Division,2025-26,Andorra,Sociedad B,1,2,2,3,4,5,0,0,3,5,9,0,1,1
+2026-02-08,Segunda Division,2025-26,Valladolid,Castellon,0,4,3,3,1,2,0,0,4,6,3,0,0,1
+2026-02-08,Segunda Division,2025-26,Cadiz,Almeria,1,2,6,4,4,2,0,0,3,10,6,0,1,1
+2026-02-08,Segunda Division,2025-26,La Coruna,Albacete,2,1,4,1,3,2,0,0,3,5,5,0,1,1
+2026-02-08,Segunda Division,2025-26,Sp Gijon,Huesca,2,1,6,4,4,1,0,0,3,10,5,0,1,1
+2026-02-08,Segunda Division,2025-26,Malaga,Cultural Leonesa,2,1,8,2,2,6,0,0,3,10,8,0,1,1
+2026-02-09,Segunda Division,2025-26,Santander,Mirandes,1,0,7,3,4,6,1,1,1,10,10,2,0,0
+2026-02-13,Segunda Division,2025-26,Almeria,Andorra,3,2,6,5,2,4,0,0,5,11,6,0,1,1
+2026-02-14,Segunda Division,2025-26,Granada,Valladolid,5,1,4,2,1,3,0,1,6,6,4,1,1,1
+2026-02-14,Segunda Division,2025-26,Cultural Leonesa,Zaragoza,0,0,1,8,1,3,0,0,0,9,4,0,0,0
+2026-02-14,Segunda Division,2025-26,Burgos,Cadiz,1,1,6,0,1,2,0,0,2,6,3,0,1,0
+2026-02-14,Segunda Division,2025-26,Cordoba,Leganes,2,1,7,4,1,1,0,0,3,11,2,0,1,1
+2026-02-15,Segunda Division,2025-26,Mirandes,Las Palmas,1,1,3,5,3,1,0,0,2,8,4,0,1,0
+2026-02-15,Segunda Division,2025-26,Eibar,Santander,2,1,5,5,5,2,0,1,3,10,7,1,1,1
+2026-02-15,Segunda Division,2025-26,Huesca,Ceuta,2,0,2,5,2,1,0,1,2,7,3,1,0,0
+2026-02-15,Segunda Division,2025-26,Albacete,Sp Gijon,1,1,4,2,1,0,0,0,2,6,1,0,1,0
+2026-02-15,Segunda Division,2025-26,Castellon,La Coruna,2,0,4,3,3,3,0,0,2,7,6,0,0,0
+2026-02-16,Segunda Division,2025-26,Sociedad B,Malaga,2,1,5,1,5,4,1,0,3,6,9,1,1,1
+2026-02-20,Segunda Division,2025-26,Ceuta,Granada,2,1,5,5,5,3,0,0,3,10,8,0,1,1
+2026-02-21,Segunda Division,2025-26,Las Palmas,Castellon,1,1,4,4,2,3,0,1,2,8,5,1,1,0
+2026-02-21,Segunda Division,2025-26,Almeria,Cordoba,2,1,6,6,2,2,0,0,3,12,4,0,1,1
+2026-02-21,Segunda Division,2025-26,Leganes,Cultural Leonesa,1,1,7,0,3,3,0,0,2,7,6,0,1,0
+2026-02-21,Segunda Division,2025-26,Huesca,Mirandes,1,2,9,4,4,3,0,0,3,13,7,0,1,1
+2026-02-21,Segunda Division,2025-26,La Coruna,Eibar,1,0,6,3,6,1,1,0,1,9,7,1,0,0
+2026-02-22,Segunda Division,2025-26,Malaga,Albacete,1,0,4,3,2,1,0,0,1,7,3,0,0,0
+2026-02-22,Segunda Division,2025-26,Sp Gijon,Valladolid,2,2,6,3,3,2,0,0,4,9,5,0,1,1
+2026-02-22,Segunda Division,2025-26,Andorra,Zaragoza,2,1,6,5,3,4,0,1,3,11,7,1,1,1
+2026-02-22,Segunda Division,2025-26,Santander,Burgos,1,0,5,7,3,2,0,0,1,12,5,0,0,0
+2026-02-23,Segunda Division,2025-26,Cadiz,Sociedad B,0,2,8,3,1,2,0,0,2,11,3,0,0,0
+2026-02-25,Segunda Division,2025-26,Ceuta,Cordoba,3,2,4,5,4,2,0,0,5,9,6,0,1,1
+2026-02-27,Segunda Division,2025-26,Albacete,Almeria,1,1,5,7,1,1,0,0,2,12,2,0,1,0
+2026-02-28,Segunda Division,2025-26,Castellon,Santander,1,3,3,3,2,2,1,0,4,6,4,1,1,1
+2026-02-28,Segunda Division,2025-26,Valladolid,Huesca,1,0,4,6,2,3,0,0,1,10,5,0,0,0
+2026-02-28,Segunda Division,2025-26,Zaragoza,Burgos,0,1,5,2,3,2,0,0,1,7,5,0,0,0
+2026-02-28,Segunda Division,2025-26,Granada,Malaga,0,1,4,4,3,2,0,0,1,8,5,0,0,0
+2026-03-01,Segunda Division,2025-26,Sociedad B,La Coruna,2,3,5,2,3,1,1,0,5,7,4,1,1,1
+2026-03-01,Segunda Division,2025-26,Mirandes,Ceuta,0,1,8,4,0,4,0,1,1,12,4,1,0,0
+2026-03-01,Segunda Division,2025-26,Cultural Leonesa,Las Palmas,0,3,5,4,5,4,0,0,3,9,9,0,0,1
+2026-03-01,Segunda Division,2025-26,Eibar,Cadiz,3,1,4,0,0,2,0,0,4,4,2,0,1,1
+2026-03-02,Segunda Division,2025-26,Sp Gijon,Leganes,0,0,5,0,2,3,0,0,0,5,5,0,0,0
+2026-03-02,Segunda Division,2025-26,Cordoba,Andorra,1,4,9,3,0,4,0,0,5,12,4,0,1,1
+2026-03-06,Segunda Division,2025-26,Cadiz,Zaragoza,0,1,6,3,3,2,0,0,1,9,5,0,0,0
+2026-03-07,Segunda Division,2025-26,Huesca,Albacete,0,0,5,12,1,2,1,0,0,17,3,1,0,0
+2026-03-07,Segunda Division,2025-26,Sociedad B,Castellon,4,2,2,6,6,3,0,0,6,8,9,0,1,1
+2026-03-07,Segunda Division,2025-26,Burgos,Mirandes,2,0,1,6,2,5,0,1,2,7,7,1,0,0
+2026-03-07,Segunda Division,2025-26,Malaga,Valladolid,3,3,0,9,4,4,1,0,6,9,8,1,1,1
+2026-03-08,Segunda Division,2025-26,Leganes,Eibar,0,1,10,2,4,0,0,0,1,12,4,0,0,0
+2026-03-08,Segunda Division,2025-26,Santander,Cordoba,4,3,6,7,2,3,0,0,7,13,5,0,1,1
+2026-03-08,Segunda Division,2025-26,Las Palmas,Ceuta,4,0,7,1,0,1,0,0,4,8,1,0,0,1
+2026-03-08,Segunda Division,2025-26,Andorra,Sp Gijon,1,0,9,0,4,2,0,0,1,9,6,0,0,0
+2026-03-08,Segunda Division,2025-26,La Coruna,Granada,0,2,10,4,0,0,0,0,2,14,0,0,0,0
+2026-03-09,Segunda Division,2025-26,Almeria,Cultural Leonesa,3,0,1,2,1,2,0,0,3,3,3,0,0,1
+2026-03-13,Segunda Division,2025-26,Mirandes,Cadiz,0,2,3,2,0,0,0,0,2,5,0,0,0,0
+2026-03-14,Segunda Division,2025-26,Cultural Leonesa,Santander,1,2,6,3,3,1,0,0,3,9,4,0,1,1
+2026-03-14,Segunda Division,2025-26,Valladolid,Leganes,3,2,3,4,2,2,0,0,5,7,4,0,1,1
+2026-03-14,Segunda Division,2025-26,Zaragoza,Almeria,2,0,5,5,5,4,0,0,2,10,9,0,0,0
+2026-03-14,Segunda Division,2025-26,Ceuta,La Coruna,1,2,3,4,2,4,0,0,3,7,6,0,1,1
+2026-03-15,Segunda Division,2025-26,Cordoba,Sociedad B,0,2,16,2,2,5,0,1,2,18,7,1,0,0
+2026-03-15,Segunda Division,2025-26,Granada,Andorra,1,1,6,9,4,3,0,0,2,15,7,0,1,0
+2026-03-15,Segunda Division,2025-26,Eibar,Burgos,0,0,6,2,3,2,0,0,0,8,5,0,0,0
+2026-03-15,Segunda Division,2025-26,Malaga,Huesca,5,3,2,5,3,1,0,0,8,7,4,0,1,1
+2026-03-15,Segunda Division,2025-26,Sp Gijon,Castellon,4,1,1,5,2,3,0,1,5,6,5,1,1,1
+2026-03-16,Segunda Division,2025-26,Albacete,Las Palmas,2,1,4,2,3,2,0,0,3,6,5,0,1,1
+2026-03-20,Segunda Division,2025-26,Huesca,Almeria,1,3,4,5,1,2,0,1,4,9,3,1,1,1
+2026-03-21,Segunda Division,2025-26,Cadiz,Malaga,0,3,4,2,2,0,0,0,3,6,2,0,0,1
+2026-03-21,Segunda Division,2025-26,Santander,Albacete,0,4,6,5,4,5,1,0,4,11,9,1,0,1
+2026-03-21,Segunda Division,2025-26,La Coruna,Zaragoza,2,1,7,1,3,3,0,0,3,8,6,0,1,1
+2026-03-21,Segunda Division,2025-26,Leganes,Ceuta,5,2,4,7,5,2,0,0,7,11,7,0,1,1
+2026-03-21,Segunda Division,2025-26,Andorra,Eibar,0,1,5,4,4,4,0,0,1,9,8,0,0,0
+2026-03-22,Segunda Division,2025-26,Sociedad B,Granada,0,2,7,5,5,5,0,0,2,12,10,0,0,0
+2026-03-22,Segunda Division,2025-26,Las Palmas,Sp Gijon,1,0,7,8,1,0,0,0,1,15,1,0,0,0
+2026-03-22,Segunda Division,2025-26,Burgos,Cordoba,4,0,5,15,2,4,0,0,4,20,6,0,0,1
+2026-03-22,Segunda Division,2025-26,Mirandes,Valladolid,2,1,8,4,1,2,0,0,3,12,3,0,1,1
+2026-03-23,Segunda Division,2025-26,Castellon,Cultural Leonesa,1,1,1,4,3,5,0,0,2,5,8,0,1,0
